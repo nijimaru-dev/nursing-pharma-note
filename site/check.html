@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>複数薬チェック｜看護薬理ノート</title>
+<meta name="description" content="服用中の薬を複数選んで、飲み合わせ（相互作用）の注意をまとめて確認できます。">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へ移動</a>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-logo" href="/"><span aria-hidden="true">💊</span>看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <nav class="site-nav" aria-label="サイト内ナビゲーション">
+      <a href="/">トップ</a>
+      <a href="/check.html" aria-current="page">複数薬チェック</a>
+      <a href="/about.html">このサイトについて</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="container">
+    <section class="hero" style="padding-top:32px;">
+      <p class="hero__eyebrow">複数薬チェック</p>
+      <h1>服用中の薬を選んで、飲み合わせを確認</h1>
+      <p class="lede">2つ以上の薬を選ぶと、記載されている飲み合わせの注意を一覧表示します。記載が見つからない場合も「安全」という意味ではありません。</p>
+    </section>
+
+    <div class="check-panel">
+      <div class="search-box">
+        <span class="search-box__icon" aria-hidden="true">🔍</span>
+        <label for="drug-search" style="position:absolute;left:-9999px;">薬品を追加</label>
+        <input type="search" id="drug-search" autocomplete="off" placeholder="薬品名で検索して追加" disabled>
+        <div class="search-results" id="search-results" role="listbox" aria-label="検索候補"></div>
+      </div>
+
+      <ul class="selected-drugs" id="selected-drugs" aria-label="服用中の薬"></ul>
+    </div>
+
+    <div id="check-results"></div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="disclaimer">
+    <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+    <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+  </div>
+  <div class="site-footer__links">
+    <span>© <span id="year"></span> 看護薬理ノート</span>
+    <a href="/about.html">このサイトについて</a>
+  </div>
+</footer>
+
+<script src="/js/data.js"></script>
+<script src="/js/search-widget.js"></script>
+<script>
+document.getElementById("year").textContent = new Date().getFullYear();
+
+function escapeHTML(str) {
+  return String(str ?? "").replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[c]));
+}
+
+const selected = new Map(); // id -> drug (index形式)
+const selectedListEl = document.getElementById("selected-drugs");
+const resultsRoot = document.getElementById("check-results");
+
+createSearchWidget({
+  inputEl: document.getElementById("drug-search"),
+  resultsEl: document.getElementById("search-results"),
+  placeholder: "薬品名で検索して追加",
+  onSelect: (drug) => {
+    if (selected.has(drug.id)) return;
+    selected.set(drug.id, drug);
+    renderSelected();
+    renderCheck();
+  },
+});
+
+function renderSelected() {
+  selectedListEl.innerHTML = "";
+  selected.forEach((drug) => {
+    const li = document.createElement("li");
+    const pill = document.createElement("span");
+    pill.className = "pill";
+    const label = document.createElement("span");
+    label.textContent = drug.brand_name || drug.generic_name;
+    const removeBtn = document.createElement("button");
+    removeBtn.type = "button";
+    removeBtn.setAttribute("aria-label", `${drug.brand_name || drug.generic_name}を削除`);
+    removeBtn.textContent = "×";
+    removeBtn.addEventListener("click", () => {
+      selected.delete(drug.id);
+      renderSelected();
+      renderCheck();
+    });
+    pill.appendChild(label);
+    pill.appendChild(removeBtn);
+    li.appendChild(pill);
+    selectedListEl.appendChild(li);
+  });
+}
+
+function extractIndicationTerms(text) {
+  if (!text) return [];
+  return text
+    .split(/[、,・\n]/)
+    .map((t) => t.trim())
+    .filter((t) => t.length >= 2 && t.length <= 20);
+}
+
+function renderCheck() {
+  resultsRoot.innerHTML = "";
+  const ids = Array.from(selected.keys());
+  if (ids.length < 2) {
+    return;
+  }
+
+  resultsRoot.innerHTML = `<h2 class="section-label">チェック結果</h2><div id="interaction-results"></div>`;
+  const interactionResultsEl = document.getElementById("interaction-results");
+
+  DrugData.loadInteractions().then((pairs) => {
+    const idSet = new Set(ids);
+    const relevant = pairs.filter((p) => idSet.has(p.drug_a_id) && idSet.has(p.drug_b_id));
+
+    // 選択された全ペアのうち、相互作用が見つかったものと見つからなかったものを分ける
+    const foundPairKeys = new Set(relevant.map((p) => `${p.drug_a_id}-${p.drug_b_id}`));
+    const noneFoundPairs = [];
+    for (let i = 0; i < ids.length; i++) {
+      for (let j = i + 1; j < ids.length; j++) {
+        const [a, b] = [ids[i], ids[j]].sort((x, y) => x - y);
+        if (!foundPairKeys.has(`${a}-${b}`)) {
+          noneFoundPairs.push([selected.get(a), selected.get(b)]);
+        }
+      }
+    }
+
+    const sorted = relevant.slice().sort((a, b) =>
+      a.interaction_type === b.interaction_type ? 0 : a.interaction_type === "contraindicated" ? -1 : 1
+    );
+
+    let html = "";
+    sorted.forEach((p) => {
+      html += `
+        <div class="result-card ${p.interaction_type === "caution" ? "result-card--caution" : ""}">
+          <div class="pair-type">${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</div>
+          <div class="pair-name">${escapeHTML(p.a_brand)} × ${escapeHTML(p.b_brand)}</div>
+          <div class="pair-detail">${escapeHTML(p.source_text)}</div>
+        </div>`;
+    });
+
+    noneFoundPairs.forEach(([a, b]) => {
+      html += `
+        <div class="result-card result-card--none">
+          <div class="pair-type">記載なし</div>
+          <div class="pair-name">${escapeHTML(a.brand_name)} × ${escapeHTML(b.brand_name)}</div>
+          <div class="pair-detail">記載されている相互作用は見つかりませんでした。データベースに記載がないだけで、安全という意味ではありません。</div>
+        </div>`;
+    });
+
+    interactionResultsEl.innerHTML = html;
+
+    renderCommonIndications(ids);
+  });
+}
+
+function renderCommonIndications(ids) {
+  Promise.all(ids.map((id) => DrugData.loadDrug(id))).then((drugs) => {
+    const termSets = drugs.map((d) => new Set(extractIndicationTerms(d.indications)));
+    if (termSets.length < 2) return;
+    let common = termSets[0];
+    for (let i = 1; i < termSets.length; i++) {
+      common = new Set([...common].filter((t) => termSets[i].has(t)));
+    }
+    if (common.size === 0) return;
+
+    const section = document.createElement("div");
+    section.innerHTML = `
+      <h2 class="section-label">共通の適応（参考）</h2>
+      <div class="result-card result-card--none">
+        <div class="pair-detail" style="margin-top:0;">
+          選択した薬に共通して記載されている適応：<strong>${[...common].map(escapeHTML).join("、")}</strong>
+        </div>
+        <div class="disclaimer-inline" style="margin-top:10px;">これは診断ではありません。同じ適応が重なっているという単なる参考情報です。</div>
+      </div>
+    `;
+    resultsRoot.appendChild(section);
+  });
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>看護薬理ノート｜看護師・介護職員のための薬剤リファレンス</title>
+<meta name="description" content="看護師・介護職員・看護学生のための、無料の薬剤情報リファレンス。薬品名で検索して効能・用法・注意点を確認し、複数の薬を選んで飲み合わせ（相互作用）もチェックできます。">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へ移動</a>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-logo" href="/"><span aria-hidden="true">💊</span>看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <nav class="site-nav" aria-label="サイト内ナビゲーション">
+      <a href="/" aria-current="page">トップ</a>
+      <a href="/check.html">複数薬チェック</a>
+      <a href="/about.html">このサイトについて</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="container">
+    <section class="hero">
+      <p class="hero__eyebrow">看護師・介護職員・看護学生のための薬剤リファレンス</p>
+      <h1>その薬、なぜ飲んでいて、何に気をつけるべきか。</h1>
+      <p class="lede">添付文書の情報をもとに、効能・用法・注意点・飲み合わせを現場ですぐ確認できます。診断や処方の代わりにはなりません。</p>
+
+      <div class="search-box">
+        <span class="search-box__icon" aria-hidden="true">🔍</span>
+        <label for="drug-search" class="sr-only" style="position:absolute;left:-9999px;">薬品名で検索</label>
+        <input type="search" id="drug-search" autocomplete="off" placeholder="薬品名・一般名で検索（例：ジゴキシン）" disabled>
+        <div class="search-results" id="search-results" role="listbox" aria-label="検索候補"></div>
+      </div>
+    </section>
+
+    <h2 class="section-label">よく調べられる薬</h2>
+    <ul class="drug-grid" id="popular-drugs"></ul>
+
+    <div class="disclaimer-inline">
+      本サイトは診断・治療・処方の代替ではありません。実際の投薬判断は必ず最新の添付文書・医師・薬剤師の指示に従ってください。
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="disclaimer">
+    <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+    <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+  </div>
+  <div class="site-footer__links">
+    <span>© <span id="year"></span> 看護薬理ノート</span>
+    <a href="/about.html">このサイトについて</a>
+  </div>
+</footer>
+
+<script src="/js/data.js"></script>
+<script src="/js/search-widget.js"></script>
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+
+  createSearchWidget({
+    inputEl: document.getElementById("drug-search"),
+    resultsEl: document.getElementById("search-results"),
+    placeholder: "薬品名・一般名で検索（例：ジゴキシン）",
+  });
+
+  DrugData.loadIndex().then((list) => {
+    const ul = document.getElementById("popular-drugs");
+    list.slice(0, 8).forEach((d) => {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.className = "drug-chip";
+      a.href = `/drug.html?id=${d.id}`;
+      const nameSpan = document.createElement("span");
+      nameSpan.className = "name";
+      nameSpan.textContent = d.brand_name || d.generic_name;
+      const clsSpan = document.createElement("span");
+      clsSpan.className = "cls";
+      clsSpan.textContent = d.therapeutic_classification || d.generic_name || "";
+      a.appendChild(nameSpan);
+      a.appendChild(clsSpan);
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+  });
+</script>
+</body>
+</html>

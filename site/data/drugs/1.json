@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "brand_name": "ジゴシン",
+  "generic_name": "ジゴキシン",
+  "therapeutic_classification": "強心配糖体製剤",
+  "indications": "うっ血性心不全、心房細動・粗動による頻脈の調節",
+  "dose_admin": "通常成人にはジゴキシンとして維持量0.25mgを1日1回経口投与する。",
+  "contraindications": "ジギタリス中毒の患者、房室ブロックのある患者",
+  "application_precautions": "腎機能低下患者では血中濃度が上昇しやすいため減量を検討する。",
+  "serious_adverse_events": "ジギタリス中毒（悪心・嘔吐、食欲不振、視覚異常、不整脈）\n房室ブロック、洞停止",
+  "observation_points": [
+    "ジギタリス中毒（悪心・嘔吐、食欲不振、視覚異常、不整脈）",
+    "房室ブロック、洞停止",
+    "低カリウム血症によりジギタリス中毒が発現しやすくなる",
+    "血清カリウム値を確認すること",
+    "本剤の血中濃度が上昇し、ジギタリス中毒があらわれることがある"
+  ],
+  "is_in_formulary": true,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ループ利尿薬",
+      "clinical_symptom_action": "低カリウム血症によりジギタリス中毒が発現しやすくなる。血清カリウム値を確認すること。",
+      "mechanism_risk_factor": "利尿薬による低カリウム血症が心筋のジギタリス感受性を高める。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マクロライド系抗菌薬",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、ジギタリス中毒があらわれることがある。",
+      "mechanism_risk_factor": "腸内細菌によるジゴキシン代謝の阻害。"
+    }
+  ],
+  "facility_notes": ""
+}

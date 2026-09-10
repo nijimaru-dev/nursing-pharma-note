@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "brand_name": "ジゴシン",
+    "generic_name": "ジゴキシン",
+    "therapeutic_classification": "強心配糖体製剤",
+    "is_in_formulary": true
+  },
+  {
+    "id": 2,
+    "brand_name": "ラシックス",
+    "generic_name": "フロセミド",
+    "therapeutic_classification": "ループ利尿薬",
+    "is_in_formulary": true
+  },
+  {
+    "id": 3,
+    "brand_name": "ワーファリン",
+    "generic_name": "ワルファリンカリウム",
+    "therapeutic_classification": "経口抗凝固薬",
+    "is_in_formulary": true
+  },
+  {
+    "id": 4,
+    "brand_name": "バイアスピリン",
+    "generic_name": "アスピリン",
+    "therapeutic_classification": "抗血小板剤",
+    "is_in_formulary": true
+  },
+  {
+    "id": 5,
+    "brand_name": "ロキソニン",
+    "generic_name": "ロキソプロフェンナトリウム水和物",
+    "therapeutic_classification": "非ステロイド性消炎鎮痛剤",
+    "is_in_formulary": true
+  },
+  {
+    "id": 6,
+    "brand_name": "クラリス",
+    "generic_name": "クラリスロマイシン",
+    "therapeutic_classification": "マクロライド系抗生物質製剤",
+    "is_in_formulary": true
+  },
+  {
+    "id": 7,
+    "brand_name": "オメプラール",
+    "generic_name": "オメプラゾール",
+    "therapeutic_classification": "プロトンポンプインヒビター",
+    "is_in_formulary": true
+  },
+  {
+    "id": 8,
+    "brand_name": "プルゼニド",
+    "generic_name": "センノシド",
+    "therapeutic_classification": "下剤・便秘用薬",
+    "is_in_formulary": false
+  }
+]

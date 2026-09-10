@@ -1,0 +1,71 @@
+name: 薬剤DB更新・サイトデプロイ
+
+on:
+  schedule:
+    # 毎月1日 03:00 UTC（日本時間 正午）
+    - cron: "0 3 1 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: PMDA更新チェック
+        id: pmda_check
+        working-directory: scripts
+        run: python check_pmda_updates.py --input-dir ./tenpu_xml
+
+      # 未実装の間は has_updates が常に false のため、以降のステップは実行されない。
+      # check_pmda_updates.py の実装が完了したら、このジョブは自動的に機能し始める。
+      - name: DB更新（クレンジング）
+        if: steps.pmda_check.outputs.has_updates == 'true'
+        working-directory: scripts
+        run: |
+          python pmda_tenpu_parser.py \
+            --input-dir ./tenpu_xml \
+            --db ../karteno_drugs.db
+
+      - name: JSON書き出し
+        if: steps.pmda_check.outputs.has_updates == 'true'
+        working-directory: scripts
+        run: |
+          python export_db_to_json.py \
+            --db ../karteno_drugs.db \
+            --out ../site/data
+
+      - name: 変更をコミット
+        if: steps.pmda_check.outputs.has_updates == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add karteno_drugs.db site/data
+          git diff --cached --quiet || git commit -m "chore: 薬剤DBを更新（自動）"
+          git push
+
+      - name: Netlifyへデプロイ
+        if: steps.pmda_check.outputs.has_updates == 'true'
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: |
+          if [ -z "$NETLIFY_AUTH_TOKEN" ] || [ -z "$NETLIFY_SITE_ID" ]; then
+            echo "NETLIFY_AUTH_TOKEN / NETLIFY_SITE_ID がSecretsに未設定のため、デプロイをスキップします。"
+            exit 0
+          fi
+          npx --yes netlify-cli deploy --prod --dir=site
+
+      - name: 失敗時の通知について
+        if: failure()
+        run: |
+          echo "::warning::このジョブは失敗しました。GitHubの通知設定（Settings > Notifications）で Actions の失敗通知が有効になっていることを確認してください。"

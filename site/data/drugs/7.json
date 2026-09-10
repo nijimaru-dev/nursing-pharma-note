@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "brand_name": "オメプラール",
+  "generic_name": "オメプラゾール",
+  "therapeutic_classification": "プロトンポンプインヒビター",
+  "indications": "胃潰瘍、十二指腸潰瘍、逆流性食道炎",
+  "dose_admin": "通常成人1日1回20mgを経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "長期投与時は胃酸分泌抑制に伴う影響（骨折リスク等）に留意する。",
+  "serious_adverse_events": "汎血球減少、無顆粒球症\n中毒性表皮壊死融解症",
+  "observation_points": [
+    "汎血球減少、無顆粒球症",
+    "中毒性表皮壊死融解症"
+  ],
+  "is_in_formulary": true,
+  "interactions": [],
+  "facility_notes": ""
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "drug_a_id": 1,
+    "drug_b_id": 2,
+    "interaction_type": "caution",
+    "source_text": "ループ利尿薬",
+    "a_brand": "ジゴシン",
+    "b_brand": "ラシックス"
+  },
+  {
+    "drug_a_id": 1,
+    "drug_b_id": 6,
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗菌薬",
+    "a_brand": "ジゴシン",
+    "b_brand": "クラリス"
+  },
+  {
+    "drug_a_id": 3,
+    "drug_b_id": 5,
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性消炎鎮痛剤",
+    "a_brand": "ワーファリン",
+    "b_brand": "ロキソニン"
+  },
+  {
+    "drug_a_id": 3,
+    "drug_b_id": 4,
+    "interaction_type": "caution",
+    "source_text": "抗血小板剤",
+    "a_brand": "ワーファリン",
+    "b_brand": "バイアスピリン"
+  }
+]

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>このサイトについて｜看護薬理ノート</title>
+<meta name="description" content="看護薬理ノートの目的、データの出典、免責事項、著作権表記について説明します。">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へ移動</a>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-logo" href="/"><span aria-hidden="true">💊</span>看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <nav class="site-nav" aria-label="サイト内ナビゲーション">
+      <a href="/">トップ</a>
+      <a href="/check.html">複数薬チェック</a>
+      <a href="/about.html" aria-current="page">このサイトについて</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="container" style="padding-top:32px; padding-bottom:40px;">
+    <h1>このサイトについて</h1>
+
+    <div class="field">
+      <div class="field__label"><span class="dot"></span>目的</div>
+      <div class="field__body">看護薬理ノートは、看護師・介護職員・看護学生が、現場やケア中に薬剤の効能・用法・注意点・飲み合わせを素早く確認できるようにするための、完全無料の参考情報ツールです。</div>
+    </div>
+
+    <div class="field field--warn">
+      <div class="field__label"><span class="dot"></span>免責事項</div>
+      <div class="field__body">
+        本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。
+        本サイトの情報は医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に自動生成・編集していますが、内容の正確性・完全性・最新性を保証するものではありません。
+        「施設ごとの注意点」欄は、各施設が独自に登録した情報であり、他施設への適用を保証するものではありません。
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="field__label"><span class="dot"></span>著作権表記・データ出典</div>
+      <div class="field__body">本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に作成しています。PMDAのコンテンツは「公共データ利用規約（第1.0版）」に基づき利用しており、本サイトでは編集・加工を行っています。</div>
+    </div>
+
+    <div class="field">
+      <div class="field__label"><span class="dot"></span>複数薬チェックについて</div>
+      <div class="field__body">薬品名で検索し、服用中の薬にチェックを入れると、記載のある飲み合わせ（相互作用）の注意を表示します。相互作用が見つからない組み合わせについても「記載されている相互作用は見つかりませんでした」と表示するだけで、安全であることを保証するものではありません。効能・効果が重なる場合に表示される「共通の適応」も、単なる参考情報であり診断ではありません。</div>
+    </div>
+
+    <div class="field">
+      <div class="field__label"><span class="dot"></span>データの更新</div>
+      <div class="field__body">薬剤データは、PMDAの添付文書改訂情報をもとに定期的に更新する方針です。ただし本サイトは開発初期段階であり、収録薬剤数・更新頻度は今後拡充していきます。</div>
+    </div>
+
+    <div class="field">
+      <div class="field__label"><span class="dot"></span>誤りを見つけたら</div>
+      <div class="field__body">記載内容に誤りや古い情報が疑われる場合は、必ず最新の添付文書をご確認ください。誤り報告の仕組みは今後追加予定です。</div>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="site-footer__links" style="border-top:none; padding-top:0;">
+    <span>© <span id="year"></span> 看護薬理ノート</span>
+  </div>
+</footer>
+<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>

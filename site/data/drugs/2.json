@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "brand_name": "ラシックス",
+  "generic_name": "フロセミド",
+  "therapeutic_classification": "ループ利尿薬",
+  "indications": "浮腫（心性、腎性、肝性）、高血圧症",
+  "dose_admin": "通常成人1日1回40mgを経口投与する。症状により適宜増減する。",
+  "contraindications": "無尿の患者、肝性昏睡の患者",
+  "application_precautions": "脱水・電解質異常（低カリウム血症等）に注意する。",
+  "serious_adverse_events": "低カリウム血症、低ナトリウム血症\n脱水症状\n難聴",
+  "observation_points": [
+    "低カリウム血症、低ナトリウム血症",
+    "脱水症状",
+    "難聴",
+    "低カリウム血症によりジギタリス中毒を起こしやすくなる"
+  ],
+  "is_in_formulary": true,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤",
+      "clinical_symptom_action": "低カリウム血症によりジギタリス中毒を起こしやすくなる。",
+      "mechanism_risk_factor": "利尿による血清カリウム低下。"
+    }
+  ],
+  "facility_notes": ""
+}

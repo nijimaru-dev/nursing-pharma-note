@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title id="page-title">薬品情報｜看護薬理ノート</title>
+<meta name="description" content="薬品の効能・用法・注意点・飲み合わせ（相互作用）を確認できます。">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へ移動</a>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-logo" href="/"><span aria-hidden="true">💊</span>看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <nav class="site-nav" aria-label="サイト内ナビゲーション">
+      <a href="/">トップ</a>
+      <a href="/check.html">複数薬チェック</a>
+      <a href="/about.html">このサイトについて</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="container">
+    <p style="margin-top:20px;"><a href="/">&larr; 検索に戻る</a></p>
+
+    <div id="drug-root">
+      <div class="empty-state">読み込み中です…</div>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="disclaimer">
+    <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+    <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+  </div>
+  <div class="site-footer__links">
+    <span>© <span id="year"></span> 看護薬理ノート</span>
+    <a href="/about.html">このサイトについて</a>
+  </div>
+</footer>
+
+<script src="/js/data.js"></script>
+<script>
+document.getElementById("year").textContent = new Date().getFullYear();
+
+const params = new URLSearchParams(location.search);
+const drugId = params.get("id");
+const root = document.getElementById("drug-root");
+
+function escapeHTML(str) {
+  return String(str ?? "").replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[c]));
+}
+
+function firstSentence(text) {
+  if (!text) return "";
+  const cut = text.split(/[。\n]/)[0];
+  return cut ? cut + "。" : text;
+}
+
+if (!drugId) {
+  root.innerHTML = `<div class="empty-state">薬品が指定されていません。<a href="/">トップページから検索してください</a>。</div>`;
+} else {
+  DrugData.loadDrug(drugId)
+    .then((drug) => renderDrug(drug))
+    .catch(() => {
+      root.innerHTML = `<div class="empty-state">薬品情報が見つかりませんでした。<a href="/">トップページから検索し直してください</a>。</div>`;
+    });
+}
+
+function renderDrug(drug) {
+  document.getElementById("page-title").textContent = `${drug.brand_name || drug.generic_name}｜看護薬理ノート`;
+
+  const interactionsHTML = drug.interactions && drug.interactions.length
+    ? drug.interactions
+        .map(
+          (i) => `
+        <div class="interaction-row ${i.interaction_type === "contraindicated" ? "interaction-row--contraindicated" : ""}">
+          <span class="itype">${i.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</span>
+          <span class="target">${escapeHTML(i.drug_name_or_class)}</span>
+          <div class="detail">${escapeHTML(i.clinical_symptom_action)}</div>
+        </div>`
+        )
+        .join("")
+    : `<div class="empty-note">記載されている飲み合わせの注意は見つかりませんでした。</div>`;
+
+  const observationHTML = drug.observation_points && drug.observation_points.length
+    ? `<ul class="bullet-list">${drug.observation_points.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>`
+    : `<p class="field__body muted">観察項目の記載はありません。</p>`;
+
+  root.innerHTML = `
+    <article class="drug-card">
+      <div class="drug-card__head">
+        ${drug.is_in_formulary ? `<span class="badge badge--formulary">施設採用薬</span>` : ""}
+        <h1>${escapeHTML(drug.brand_name || drug.generic_name)}</h1>
+        <p class="drug-card__generic">
+          ${escapeHTML(drug.generic_name || "")}
+          ${drug.therapeutic_classification ? " ・ " + escapeHTML(drug.therapeutic_classification) : ""}
+        </p>
+        <div class="view-toggle">
+          <span class="view-toggle__label" data-view="simple" data-active="true">平易表示</span>
+          <button type="button" class="view-toggle__switch" id="view-switch" role="switch" aria-checked="false" aria-label="詳細表示に切り替え"></button>
+          <span class="view-toggle__label" data-view="detail" data-active="false">詳細表示（添付文書に近い表記）</span>
+        </div>
+      </div>
+
+      <div class="drug-card__body">
+        <div class="field">
+          <div class="field__label"><span class="dot"></span>どんな薬か</div>
+          <div class="field__body" data-simple>${escapeHTML(firstSentence(drug.indications))}</div>
+          <div class="field__body" data-detail hidden>${escapeHTML(drug.indications || "記載なし")}</div>
+        </div>
+
+        <div class="field">
+          <div class="field__label"><span class="dot"></span>用法・用量</div>
+          <div class="field__body">${escapeHTML(drug.dose_admin || "記載なし")}</div>
+        </div>
+
+        <div class="field field--warn">
+          <div class="field__label"><span class="dot"></span>特に注意すべき副作用・観察ポイント</div>
+          <div data-simple>${observationHTML}</div>
+          <div class="field__body" data-detail hidden>${escapeHTML(drug.serious_adverse_events || "記載なし")}</div>
+        </div>
+
+        <div class="field" data-detail hidden>
+          <div class="field__label"><span class="dot"></span>禁忌</div>
+          <div class="field__body">${escapeHTML(drug.contraindications || "記載なし")}</div>
+        </div>
+
+        <div class="field" data-detail hidden>
+          <div class="field__label"><span class="dot"></span>適用上の注意</div>
+          <div class="field__body">${escapeHTML(drug.application_precautions || "記載なし")}</div>
+        </div>
+
+        <div class="field">
+          <div class="field__label"><span class="dot"></span>飲み合わせ注意（相互作用）</div>
+          ${interactionsHTML}
+        </div>
+
+        <div class="field">
+          <div class="field__label"><span class="dot"></span>施設ごとの注意点</div>
+          <div class="field__body muted">${drug.facility_notes ? escapeHTML(drug.facility_notes) : "未登録（この施設ではまだ院内処方リストが取り込まれていません）"}</div>
+        </div>
+      </div>
+    </article>
+  `;
+
+  const sw = document.getElementById("view-switch");
+  sw.addEventListener("click", () => {
+    const detailed = sw.getAttribute("aria-checked") === "true";
+    const next = !detailed;
+    sw.setAttribute("aria-checked", String(next));
+    document.querySelectorAll("[data-simple]").forEach((el) => (el.hidden = next));
+    document.querySelectorAll("[data-detail]").forEach((el) => (el.hidden = !next));
+    document.querySelector('[data-view="simple"]').setAttribute("data-active", String(!next));
+    document.querySelector('[data-view="detail"]').setAttribute("data-active", String(next));
+  });
+}
+</script>
+</body>
+</html>

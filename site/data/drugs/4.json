@@ -1,0 +1,27 @@
+{
+  "id": 4,
+  "brand_name": "バイアスピリン",
+  "generic_name": "アスピリン",
+  "therapeutic_classification": "抗血小板剤",
+  "indications": "狭心症、心筋梗塞、虚血性脳血管障害における血栓・塞栓形成の抑制",
+  "dose_admin": "通常成人1日1回100mgを経口投与する。",
+  "contraindications": "アスピリン喘息の既往のある患者、出血傾向のある患者",
+  "application_precautions": "消化性潰瘍の既往がある患者では悪化に注意する。",
+  "serious_adverse_events": "出血（消化管出血、脳出血等）\nショック、アナフィラキシー",
+  "observation_points": [
+    "出血（消化管出血、脳出血等）",
+    "ショック、アナフィラキシー",
+    "出血の危険性が増大するおそれがある",
+    "出血徴候の有無を観察すること"
+  ],
+  "is_in_formulary": true,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口抗凝固薬",
+      "clinical_symptom_action": "出血の危険性が増大するおそれがある。出血徴候の有無を観察すること。",
+      "mechanism_risk_factor": "血小板凝集抑制作用の相加。"
+    }
+  ],
+  "facility_notes": ""
+}

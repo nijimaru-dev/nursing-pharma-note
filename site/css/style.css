@@ -1,0 +1,553 @@
+/* ==========================================================================
+   看護薬理ノート — デザインシステム
+   方向性：「臨床リファレンス」
+   現場の看護師・介護職員・看護学生が急いでいる前提で、速さと正確さを最優先しつつ、
+   重篤度を色で即座に判別できるカルテ／医薬品集のような佇まいにする。
+   見出しは専門書らしいセリフ体、本文は視認性重視のゴシック体。
+   ========================================================================== */
+
+@import url("https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap");
+
+:root {
+  /* --- 色：紙のような温かい白 × 深い藍 × 重篤度カラー --- */
+  --paper: #faf6ee;
+  --paper-raised: #ffffff;
+  --ink: #17213a;
+  --ink-soft: #4d4a3f;
+  --line: #e4dbc4;
+  --line-strong: #cfc3a3;
+
+  --teal: #0f6e68;
+  --teal-dark: #0a4f4a;
+  --teal-tint: #e4efec;
+
+  --danger: #a3341c;
+  --danger-tint: #f6e6de;
+  --warning: #a8720c;
+  --warning-tint: #f7ecd4;
+  --safe: #3e6f4f;
+  --safe-tint: #e7efe3;
+
+  --radius: 3px;
+  --shadow-card: 0 1px 2px rgba(23, 33, 58, 0.06), 0 8px 24px -12px rgba(23, 33, 58, 0.18);
+
+  --font-display: "Shippori Mincho", serif;
+  --font-body: "Zen Kaku Gothic New", "Hiragino Sans", sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.9;
+  -webkit-font-smoothing: antialiased;
+}
+
+img { max-width: 100%; }
+
+a { color: var(--teal); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: var(--teal-dark); }
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 0.6em;
+  letter-spacing: 0.02em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+
+.container {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* --- ヘッダー --- */
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: var(--paper-raised);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.site-header__inner {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 14px 20px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.site-logo {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+}
+
+.site-logo span {
+  font-family: var(--font-body);
+  font-size: 0.62rem;
+  font-weight: 500;
+  color: var(--teal-dark);
+  letter-spacing: 0.14em;
+  border: 1px solid var(--teal);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.site-nav {
+  display: flex;
+  gap: 20px;
+  font-size: 0.92rem;
+}
+
+.site-nav a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+}
+
+.site-nav a:hover,
+.site-nav a[aria-current="page"] {
+  color: var(--teal-dark);
+  border-bottom-color: var(--teal);
+}
+
+/* --- ヒーロー / 検索 --- */
+.hero {
+  padding: 44px 0 28px;
+  border-bottom: 1px solid var(--line);
+}
+
+.hero__eyebrow {
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  color: var(--teal-dark);
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.hero h1 {
+  font-size: clamp(1.6rem, 5vw, 2.1rem);
+  max-width: 18ch;
+}
+
+.hero p.lede {
+  color: var(--ink-soft);
+  max-width: 46ch;
+  margin: 0 0 24px;
+}
+
+.search-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: var(--paper-raised);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+}
+
+.search-box input[type="search"] {
+  flex: 1;
+  border: none;
+  background: transparent;
+  padding: 15px 16px;
+  font-size: 1.05rem;
+  font-family: var(--font-body);
+  color: var(--ink);
+}
+
+.search-box input[type="search"]:focus { outline: none; }
+
+.search-box__icon {
+  padding-left: 16px;
+  color: var(--ink-soft);
+}
+
+.search-results {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 6px);
+  background: var(--paper-raised);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  max-height: 340px;
+  overflow-y: auto;
+  z-index: 30;
+}
+
+.search-results:empty { display: none; }
+
+.search-result {
+  display: block;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.search-result:last-child { border-bottom: none; }
+.search-result:hover, .search-result:focus-visible { background: var(--teal-tint); }
+
+.search-result .name { font-weight: 700; }
+.search-result .meta { display: block; font-size: 0.82rem; color: var(--ink-soft); margin-top: 2px; }
+
+/* --- セクション見出し --- */
+.section-label {
+  font-size: 0.76rem;
+  letter-spacing: 0.14em;
+  font-weight: 700;
+  color: var(--teal-dark);
+  text-transform: uppercase;
+  margin: 40px 0 14px;
+}
+
+/* --- 薬カード一覧（トップの「よく調べられる薬」等） --- */
+.drug-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin: 0 0 32px;
+  list-style: none;
+  padding: 0;
+}
+
+@media (min-width: 560px) {
+  .drug-grid { grid-template-columns: 1fr 1fr; }
+}
+
+.drug-chip {
+  display: block;
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--teal);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.drug-chip:hover { border-left-color: var(--teal-dark); background: var(--teal-tint); }
+.drug-chip .name { font-weight: 700; display: block; }
+.drug-chip .cls { font-size: 0.8rem; color: var(--ink-soft); }
+
+/* --- 薬品詳細カード --- */
+.drug-card {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+  margin: 24px 0 40px;
+}
+
+.drug-card__head {
+  padding: 24px 24px 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--teal-tint);
+  color: var(--teal-dark);
+  margin-bottom: 10px;
+}
+
+.badge--formulary { background: var(--safe-tint); color: var(--safe); }
+
+.drug-card__head h1 {
+  font-size: 1.7rem;
+  margin-bottom: 2px;
+}
+
+.drug-card__generic {
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+/* --- 平易／詳細 トグルスイッチ --- */
+.view-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 16px;
+  font-size: 0.86rem;
+}
+
+.view-toggle__switch {
+  position: relative;
+  width: 52px;
+  height: 28px;
+  background: var(--line-strong);
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.view-toggle__switch::after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 22px;
+  height: 22px;
+  background: var(--paper-raised);
+  border-radius: 50%;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+  transition: transform 160ms ease;
+}
+
+.view-toggle__switch[aria-checked="true"] { background: var(--teal); }
+.view-toggle__switch[aria-checked="true"]::after { transform: translateX(24px); }
+
+.view-toggle__label { color: var(--ink-soft); }
+.view-toggle__label[data-active="true"] { color: var(--ink); font-weight: 700; }
+
+/* --- 薬品カード本文 --- */
+.drug-card__body { padding: 6px 24px 24px; }
+
+.field {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--line);
+}
+.field:last-child { border-bottom: none; }
+
+.field__label {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.98rem;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.field__label .dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--teal);
+  flex-shrink: 0;
+}
+
+.field__body { color: var(--ink); white-space: pre-line; }
+.field__body.muted { color: var(--ink-soft); font-size: 0.94rem; }
+
+.field--warn .field__label .dot { background: var(--danger); }
+.field--warn .field__body { color: var(--danger); }
+
+.bullet-list { margin: 0; padding-left: 1.3em; }
+.bullet-list li { margin-bottom: 4px; }
+
+/* --- 相互作用行 --- */
+.interaction-row {
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  margin-bottom: 8px;
+  border-left: 4px solid var(--warning);
+  background: var(--warning-tint);
+}
+
+.interaction-row--contraindicated {
+  border-left-color: var(--danger);
+  background: var(--danger-tint);
+}
+
+.interaction-row .itype {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--warning);
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.interaction-row--contraindicated .itype { color: var(--danger); }
+.interaction-row .target { font-weight: 700; }
+.interaction-row .detail { font-size: 0.92rem; color: var(--ink-soft); margin-top: 2px; }
+
+.empty-note {
+  background: var(--safe-tint);
+  color: var(--safe);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  font-size: 0.92rem;
+}
+
+/* --- 複数薬チェック --- */
+.check-panel {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  padding: 20px 20px 24px;
+  margin-bottom: 24px;
+}
+
+.selected-drugs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 0;
+}
+
+.selected-drugs:empty::after {
+  content: "まだ薬が選択されていません。上の検索欄から追加してください。";
+  color: var(--ink-soft);
+  font-size: 0.88rem;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--teal-tint);
+  color: var(--teal-dark);
+  border-radius: 999px;
+  padding: 6px 8px 6px 14px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.pill button {
+  border: none;
+  background: rgba(15, 110, 104, 0.16);
+  color: var(--teal-dark);
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  line-height: 1;
+  font-size: 0.9rem;
+}
+
+.result-card {
+  border-radius: var(--radius);
+  border-left: 5px solid var(--danger);
+  background: var(--danger-tint);
+  padding: 16px 18px;
+  margin-bottom: 12px;
+}
+
+.result-card--caution { border-left-color: var(--warning); background: var(--warning-tint); }
+.result-card--none { border-left-color: var(--safe); background: var(--safe-tint); }
+
+.result-card .pair-name { font-weight: 700; font-family: var(--font-display); font-size: 1.05rem; margin-bottom: 6px; }
+.result-card .pair-type { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--danger); }
+.result-card--caution .pair-type { color: var(--warning); }
+.result-card--none .pair-type { color: var(--safe); }
+.result-card .pair-detail { margin-top: 6px; font-size: 0.94rem; color: var(--ink-soft); }
+
+.disclaimer-inline {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  background: var(--paper);
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  margin-top: 8px;
+}
+
+/* --- 汎用ボタン --- */
+.btn {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 0.92rem;
+  border: 1px solid var(--teal);
+  background: var(--teal);
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn:hover { background: var(--teal-dark); border-color: var(--teal-dark); color: #fff; }
+.btn--ghost { background: transparent; color: var(--teal-dark); }
+.btn--ghost:hover { background: var(--teal-tint); }
+
+/* --- フッター --- */
+.site-footer {
+  border-top: 1px solid var(--line);
+  margin-top: 60px;
+  padding: 32px 0 40px;
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+}
+
+.site-footer .disclaimer {
+  max-width: 760px;
+  margin: 0 auto 20px;
+  padding: 0 20px;
+  line-height: 1.8;
+}
+
+.site-footer .disclaimer p { margin: 0 0 10px; }
+
+.site-footer__links {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+}
+
+/* --- 注記バナー（affiliate的な位置づけの記事バナーは無いが、免責を常に見せる） --- */
+.notice-banner {
+  background: var(--warning-tint);
+  color: var(--warning);
+  font-size: 0.84rem;
+  text-align: center;
+  padding: 8px 16px;
+  border-bottom: 1px solid var(--line);
+}
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--ink);
+  color: #fff;
+  padding: 8px 14px;
+  z-index: 100;
+}
+.skip-link:focus { left: 12px; top: 12px; }
+
+.empty-state {
+  padding: 60px 0;
+  text-align: center;
+  color: var(--ink-soft);
+}

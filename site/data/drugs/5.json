@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "brand_name": "ロキソニン",
+  "generic_name": "ロキソプロフェンナトリウム水和物",
+  "therapeutic_classification": "非ステロイド性消炎鎮痛剤",
+  "indications": "関節リウマチ、腰痛症、術後・外傷後の消炎・鎮痛、発熱・疼痛時の解熱・鎮痛",
+  "dose_admin": "通常成人1回60mgを1日3回経口投与する。",
+  "contraindications": "消化性潰瘍のある患者、重篤な血液異常のある患者",
+  "application_precautions": "高齢者では消化管出血等の副作用が発現しやすいため注意する。",
+  "serious_adverse_events": "消化性潰瘍、消化管出血\n腎障害\nショック、アナフィラキシー",
+  "observation_points": [
+    "消化性潰瘍、消化管出血",
+    "腎障害",
+    "ショック、アナフィラキシー",
+    "出血傾向が増強されることがある"
+  ],
+  "is_in_formulary": true,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口抗凝固薬",
+      "clinical_symptom_action": "出血傾向が増強されることがある。",
+      "mechanism_risk_factor": "血小板機能抑制及び蛋白結合部位競合。"
+    }
+  ],
+  "facility_notes": ""
+}

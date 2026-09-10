@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "brand_name": "クラリス",
+  "generic_name": "クラリスロマイシン",
+  "therapeutic_classification": "マクロライド系抗生物質製剤",
+  "indications": "肺炎、咽頭・喉頭炎、中耳炎等の細菌感染症",
+  "dose_admin": "通常成人1回200mgを1日2回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "QT延長のリスクがある患者では心電図変化に注意する。",
+  "serious_adverse_events": "QT延長、心室頻拍\n肝機能障害、黄疸\n偽膜性大腸炎",
+  "observation_points": [
+    "QT延長、心室頻拍",
+    "肝機能障害、黄疸",
+    "偽膜性大腸炎",
+    "ジギタリス中毒があらわれることがあるので、血中濃度モニタリングを行うなど注意すること"
+  ],
+  "is_in_formulary": true,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強心配糖体",
+      "clinical_symptom_action": "ジギタリス中毒があらわれることがあるので、血中濃度モニタリングを行うなど注意すること。",
+      "mechanism_risk_factor": "腸内細菌叢の変化によるジゴキシン代謝阻害。"
+    }
+  ],
+  "facility_notes": ""
+}

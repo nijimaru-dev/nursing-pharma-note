@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# データパイプラインの成果物（原本ではないため、生成物はコミットしない方針。
+# ただし site/data は「実際に公開するデータ」なので明示的に除外しない）
+karteno_drugs.db
+karteno_drugs.sample.db
+scripts/karteno_drugs*.db
+/tenpu_xml/
+formulary.txt
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+
+# Netlify CLI
+.netlify/
+
+# ローカル動作確認ツールの出力
+.playwright-mcp/
+
