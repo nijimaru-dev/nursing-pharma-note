@@ -96,12 +96,17 @@ p, li, .field__body, .sec-body {
   padding: 0 20px;
 }
 
-/* --- ヘッダー --- */
+/* --- ヘッダー ---
+   【2026-09-11】position:stickyを撤去した。iOS Safari実機で「検索欄を
+   フォーカスした瞬間に画面全体が左にずれ、検索欄の左端に画面左端が揃う」
+   不具合が再現条件つきで報告され、position:stickyなヘッダーが
+   フォーカス時のiOS自動スクロール調整と衝突している可能性が高いと判断。
+   Chromiumでは再現できずSafari固有の挙動を確定できなかったため、
+   問題の起点になり得るsticky自体を除去する構造的対応とした
+   （ヘッダーは画面上部固定ではなく通常のスクロールで流れる）。 */
 .site-header {
   border-bottom: 1px solid var(--line);
   background: var(--paper-raised);
-  position: sticky;
-  top: 0;
   z-index: 20;
 }
 
