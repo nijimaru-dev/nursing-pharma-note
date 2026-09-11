@@ -40,11 +40,21 @@
   --font-body: "Zen Kaku Gothic New", "Yu Gothic", "YuGothic", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Hiragino Sans", sans-serif;
 }
 
-* { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+* { box-sizing: border-box; min-width: 0; }
+html {
+  -webkit-text-size-adjust: 100%;
+  /* Safariはposition:stickyな要素の祖先にoverflow-x:hiddenがあると、
+     縦スクロール中に横スクロールが誘発されてsticky要素が画面外にずれる
+     既知の不具合がある（WebKit Bug #240861）。overflow:clipはこの問題を
+     起こさないため、対応ブラウザ（Safari 15.4+ 含む主要ブラウザ）ではclipを、
+     未対応ブラウザ向けにhiddenをフォールバックとして残す。 */
+  overflow-x: hidden;
+  overflow-x: clip;
+}
 
 body {
   margin: 0;
+  max-width: 100%;
   background: var(--paper);
   color: var(--ink);
   font-family: var(--font-body);
@@ -188,6 +198,12 @@ p, li, .field__body, .sec-body {
 
 .search-box input[type="search"] {
   flex: 1;
+  min-width: 0;
+  /* iOSはtype=searchにネイティブの角丸・クリアボタン装飾を付け、
+     幅計算がこちらの意図とずれることがあるため、装飾を無効化して
+     自前のCSS（.search-box側の見た目）に統一する。 */
+  -webkit-appearance: none;
+  appearance: none;
   border: none;
   background: transparent;
   padding: 15px 16px;

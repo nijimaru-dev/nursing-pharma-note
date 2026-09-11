@@ -363,6 +363,13 @@ def auto_match_pair_interactions(conn):
 
     薬効分類名表記（例:「ジギタリス製剤」）は drug_alias.ALIAS_MAP で
     代表的な一般名に展開してから照合する。
+
+    【2026-09-11修正】drug_pair_interaction.source_text には、突合に使った
+    drug_name_or_class（相手薬剤名・分類名の表記そのもの）ではなく、
+    clinical_symptom_action（臨床症状・措置方法＝「なぜ危険か」の説明文）を
+    格納する。以前はdrug_name_or_classを格納していたため、複数薬チェック画面に
+    「利尿剤カリウム排泄型利尿剤...等」のような分類名の羅列だけが表示され、
+    肝心の危険性の説明文が表示されない不具合があった。
     """
     cur = conn.cursor()
     cur.execute("DELETE FROM drug_pair_interaction")
@@ -372,14 +379,14 @@ def auto_match_pair_interactions(conn):
     ).fetchall()
 
     interactions = cur.execute(
-        """SELECT drug_master_id, interaction_type, drug_name_or_class
+        """SELECT drug_master_id, interaction_type, drug_name_or_class, clinical_symptom_action
            FROM drug_interaction"""
     ).fetchall()
 
     matched = 0
     seen_pairs = set()
 
-    for owner_id, itype, mention_text in interactions:
+    for owner_id, itype, mention_text, clinical_text in interactions:
         for other_id, other_brand, other_generic in drugs:
             if other_id == owner_id:
                 continue
@@ -393,7 +400,7 @@ def auto_match_pair_interactions(conn):
                     """INSERT INTO drug_pair_interaction
                        (drug_a_id, drug_b_id, interaction_type, source_text)
                        VALUES (?, ?, ?, ?)""",
-                    (a_id, b_id, itype, mention_text),
+                    (a_id, b_id, itype, clinical_text or mention_text),
                 )
                 matched += 1
     return matched

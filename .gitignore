@@ -5,8 +5,10 @@ __pycache__/
 # データパイプラインの成果物（原本ではないため、生成物はコミットしない方針。
 # ただし site/data は「実際に公開するデータ」なので明示的に除外しない）
 karteno_drugs.db
+karteno_drugs.db-journal
 karteno_drugs.sample.db
 scripts/karteno_drugs*.db
+*.db-journal
 /tenpu_xml/
 /data-raw/
 formulary.txt
