@@ -8,10 +8,7 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n有効な抗菌剤の存在しない感染症、深在性真菌症の患者［症状が増悪するおそれがある。］",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [
-    "本剤による副作用の発現リスクが高くなる可能性があるので、観察を十分に行い、慎重に投与すること",
-    "本剤の服用中は摂取しないよう注意すること"
-  ],
+  "observation_points": [],
   "is_in_formulary": false,
   "interactions": [
     {

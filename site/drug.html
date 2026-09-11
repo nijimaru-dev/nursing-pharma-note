@@ -148,18 +148,16 @@ function renderDrug(drug) {
 
   const importantPoints = splitToBullets(drug.serious_adverse_events);
 
-  // 「看護で見る」は併用注意の臨床症状・措置方法から作る（「重要」＝重大な副作用と
-  // 内容が重複しないようにするため。observation_pointsは重大な副作用も含むため使わない）。
-  // くわしく表示では、あわせて機序・危険因子（なぜ起こるか）も表示する。
-  const cautionInteractions = drug.interactions
-    ? drug.interactions.filter((i) => i.interaction_type === "caution")
-    : [];
-  const nursingPoints = splitToBullets(cautionInteractions.map((i) => i.clinical_symptom_action).join("\n"));
-  const nursingMechanisms = splitToBullets(cautionInteractions.map((i) => i.mechanism_risk_factor).join("\n"));
+  // 「看護で見る」は重大な副作用（serious_adverse_events）由来のobservation_points
+  // から作る。飲み合わせに起因する注意点は「飲み合わせ注意」セクションのみに表示し、
+  // ここには含めない（内容が重複するため）。
+  const nursingPoints = drug.observation_points && drug.observation_points.length
+    ? drug.observation_points
+    : splitToBullets(drug.serious_adverse_events);
   const observationHTML = nursingPoints.length
     ? `<ul class="bullet-list" data-simple>${nursingPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>
-       <ul class="bullet-list" data-detail hidden>${nursingPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}${nursingMechanisms.map((p) => `<li class="muted">${escapeHTML(p)}</li>`).join("")}</ul>`
-    : `<p class="field__body muted">併用時の観察ポイントの記載はありません。</p>`;
+       <div class="field__body" data-detail hidden>${escapeHTML(cleanRawText(drug.serious_adverse_events)) || "記載なし"}</div>`
+    : `<p class="field__body muted">重大な副作用としての記載がないため、観察ポイントはありません。</p>`;
   const importantHTML = importantPoints.length
     ? `
     <div class="important-banner">

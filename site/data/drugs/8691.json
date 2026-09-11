@@ -8,10 +8,7 @@
   "contraindications": "ロミタピドメシル酸塩を投与中の患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [
-    "中枢神経抑制作用が増強することがある",
-    "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと"
-  ],
+  "observation_points": [],
   "is_in_formulary": false,
   "interactions": [
     {

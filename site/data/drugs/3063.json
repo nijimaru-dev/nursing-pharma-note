@@ -8,10 +8,7 @@
   "contraindications": "皮膚癌又はその既往歴のある患者［皮膚癌が増悪又は再発するおそれがある。］\nポルフィリン症、紅斑性狼瘡、色素性乾皮症、多形性日光皮膚炎等の光線過敏症を伴う疾患のある患者［光毒性反応が増強される。］\n肝疾患のある患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [
-    "光線過敏症が発現するおそれがある",
-    "左記薬剤の作用を増強させるおそれがある"
-  ],
+  "observation_points": [],
   "is_in_formulary": false,
   "interactions": [
     {

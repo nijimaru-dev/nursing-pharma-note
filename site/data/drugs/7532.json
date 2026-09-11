@@ -9,8 +9,7 @@
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "中毒性表皮壊死症（Toxic Epidermal Necrolysis：TEN）、多形紅斑、血管炎（いずれも頻度不明）",
   "observation_points": [
-    "中毒性表皮壊死症（Toxic Epidermal Necrolysis：TEN）、多形紅斑、血管炎（いずれも頻度不明）",
-    "フェニトインの血中濃度が上昇し、フェニトインの作用が増強するおそれがある"
+    "中毒性表皮壊死症（Toxic Epidermal Necrolysis：TEN）、多形紅斑、血管炎（いずれも頻度不明）"
   ],
   "is_in_formulary": false,
   "interactions": [

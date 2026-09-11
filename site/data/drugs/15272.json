@@ -8,11 +8,7 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n使用後の残液は、細菌汚染のおそれがあるので再使用しないこと。\n他の製剤との混注は避けること。",
   "serious_adverse_events": "",
-  "observation_points": [
-    "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある",
-    "本剤との併用は避けることが望ましい",
-    "ペントスタチンとの併用により、本剤の作用が減弱するおそれがある"
-  ],
+  "observation_points": [],
   "is_in_formulary": false,
   "interactions": [
     {

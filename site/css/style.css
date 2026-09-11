@@ -168,7 +168,7 @@ p, li, .field__body, .sec-body {
 
 /* --- ヒーロー / 検索 --- */
 .hero {
-  padding: 44px 0 28px;
+  padding: 28px 0 20px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -177,18 +177,21 @@ p, li, .field__body, .sec-body {
   letter-spacing: 0.16em;
   color: var(--teal-dark);
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
 .hero h1 {
-  font-size: clamp(1.6rem, 5vw, 2.1rem);
-  max-width: 18ch;
+  font-size: clamp(1.5rem, 5vw, 2.1rem);
+  /* 見出しの改行位置は文中の<br>で明示的に指定している。
+     ch単位はCJKフォントでは半角基準になり文字数と一致しないため、
+     max-widthによる折り返し制御は行わない。 */
+  text-wrap: wrap;
 }
 
 .hero p.lede {
   color: var(--ink-soft);
   max-width: 46ch;
-  margin: 0 0 24px;
+  margin: 0 0 16px;
 }
 
 .search-box {
@@ -211,7 +214,7 @@ p, li, .field__body, .sec-body {
   appearance: none;
   border: none;
   background: transparent;
-  padding: 15px 16px;
+  padding: 13px 16px;
   font-size: 1.05rem;
   font-family: var(--font-body);
   color: var(--ink);
@@ -266,7 +269,7 @@ p, li, .field__body, .sec-body {
   font-weight: 700;
   color: var(--teal-dark);
   text-transform: uppercase;
-  margin: 40px 0 14px;
+  margin: 24px 0 14px;
 }
 
 /* --- 薬カード一覧（トップの「よく調べられる薬」等） --- */

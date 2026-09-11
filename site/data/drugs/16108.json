@@ -8,10 +8,7 @@
   "contraindications": "高乳酸血症の患者［高乳酸血症が悪化するおそれがある。］",
   "application_precautions": "全般的な注意\n使用時には、感染に対する配慮をすること。\n薬剤調製時の注意\n本剤は使用に際して、よく混合されるよう注意すること。\n薬剤投与時の注意\n残液は使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [
-    "副作用が認められた場合には、投与を中止するなど適切な処置を行うこと",
-    "代謝性アルカローシス、低カリウム血症の悪化が認められた場合には、投与を中止するなど適切な処置を行うこと"
-  ],
+  "observation_points": [],
   "is_in_formulary": false,
   "interactions": [
     {

@@ -22,9 +22,15 @@ GitHubの1ファイル100MB上限に抵触して運用不可能と判明した�
 問題になる場合は、ここを分割する対応が必要（Claude Code側での検証待ち）。
 
 観察項目（KarteNo連携用、HANDOFF.md 5.1参照）：
-v1は`serious_adverse_events`と、併用注意欄の`clinical_symptom_action`の
-テキストをそのまま「観察項目」候補として流用する（自動・粗いが早く出せる方針）。
-精度が問題になった薬剤から、専用列を持たせる方式（案2）へ個別移行する想定。
+v1は`serious_adverse_events`のテキストをそのまま「観察項目」候補として流用する
+（自動・粗いが早く出せる方針）。精度が問題になった薬剤から、専用列を持たせる
+方式（案2）へ個別移行する想定。
+
+【2026-09修正】以前は併用注意欄の`clinical_symptom_action`も観察項目に混ぜて
+いたが、これは薬品詳細ページの「飲み合わせ注意」セクション（drug_pair_interaction
+由来）と内容が重複してしまうため廃止した。観察項目はあくまで「重大な副作用」
+から見た、その薬単体の観察ポイントとする。飲み合わせに起因する注意点は
+「飲み合わせ注意」セクションのみに表示する。
 
 使い方：
     python export_db_to_json.py --db ./karteno_drugs.db --out ./site/data
@@ -37,10 +43,11 @@ import sqlite3
 from pathlib import Path
 
 
-def derive_observation_points(serious_adverse_events, caution_interactions):
+def derive_observation_points(serious_adverse_events):
     """
-    v1の簡易実装：重大な副作用テキストと併用注意の臨床症状・措置方法テキストを
-    行・句点単位に分割し、観察項目の候補リストとして返す。
+    v1の簡易実装：重大な副作用テキストを行・句点単位に分割し、
+    観察項目の候補リストとして返す。飲み合わせ（併用注意）由来のテキストは
+    含めない（「飲み合わせ注意」セクションと重複するため）。
     看護知識による個別の精査は行っていないため、あくまで叩き台。
     """
     points = []
@@ -56,8 +63,6 @@ def derive_observation_points(serious_adverse_events, caution_interactions):
                 points.append(line)
 
     add_lines(serious_adverse_events)
-    for text in caution_interactions:
-        add_lines(text)
 
     return points
 
@@ -120,12 +125,6 @@ def export(db_path: Path, out_dir: Path):
             (d["id"],),
         ).fetchall()
 
-        caution_texts = [
-            row["clinical_symptom_action"]
-            for row in interactions
-            if row["interaction_type"] == "caution"
-        ]
-
         detail = {
             "id": d["id"],
             "brand_name": d["brand_name"],
@@ -136,7 +135,7 @@ def export(db_path: Path, out_dir: Path):
             "contraindications": d["contraindications"],
             "application_precautions": d["application_precautions"],
             "serious_adverse_events": d["serious_adverse_events"],
-            "observation_points": derive_observation_points(d["serious_adverse_events"], caution_texts),
+            "observation_points": derive_observation_points(d["serious_adverse_events"]),
             "is_in_formulary": bool(d["is_in_formulary"]),
             "interactions": [dict(row) for row in interactions],
             # 施設ごとの注意点（第2層）は今後ここに追加する想定。
