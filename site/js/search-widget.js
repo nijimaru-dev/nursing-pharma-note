@@ -21,9 +21,21 @@ function createSearchWidget({ inputEl, resultsEl, onSelect, placeholder }) {
       inputEl.placeholder = "データの読み込みに失敗しました";
     });
 
-  function render(matches) {
+  function render(matches, query) {
     resultsEl.innerHTML = "";
     activeIndex = -1;
+
+    if (matches.length === 0) {
+      if (query) {
+        const empty = document.createElement("div");
+        empty.className = "search-no-results";
+        empty.textContent = `「${query}」に一致する薬品は見つかりませんでした。別の表記（一般名・商品名）もお試しください。`;
+        resultsEl.appendChild(empty);
+      }
+      positionResults();
+      return;
+    }
+
     matches.forEach((drug) => {
       const a = document.createElement(onSelect ? "button" : "a");
       if (onSelect) a.type = "button";
@@ -43,6 +55,7 @@ function createSearchWidget({ inputEl, resultsEl, onSelect, placeholder }) {
       });
       resultsEl.appendChild(a);
     });
+    positionResults();
   }
 
   function escapeHTML(str) {
@@ -51,9 +64,25 @@ function createSearchWidget({ inputEl, resultsEl, onSelect, placeholder }) {
     }[c]));
   }
 
+  /**
+   * 画面下端に近く候補一覧を下に開くスペースが無い場合、
+   * 検索欄の上に開く（UI/UX標準機能チェックリスト 9章「画面端での見切れ回避」対応）。
+   */
+  function positionResults() {
+    if (!resultsEl.children.length) return;
+    resultsEl.classList.remove("search-results--up");
+    const inputRect = inputEl.getBoundingClientRect();
+    const estimatedHeight = Math.min(resultsEl.scrollHeight || 200, 340);
+    const spaceBelow = window.innerHeight - inputRect.bottom;
+    if (spaceBelow < estimatedHeight + 16 && inputRect.top > estimatedHeight) {
+      resultsEl.classList.add("search-results--up");
+    }
+  }
+
   inputEl.addEventListener("input", () => {
-    const matches = DrugData.search(allDrugs, inputEl.value);
-    render(matches);
+    const query = inputEl.value.trim();
+    const matches = DrugData.search(allDrugs, query);
+    render(matches, query);
   });
 
   inputEl.addEventListener("keydown", (e) => {

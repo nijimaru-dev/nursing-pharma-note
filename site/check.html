@@ -57,6 +57,7 @@
 
 <script src="/js/data.js"></script>
 <script src="/js/search-widget.js"></script>
+<script src="/js/toast.js"></script>
 <script>
 document.getElementById("year").textContent = new Date().getFullYear();
 
@@ -66,9 +67,34 @@ function escapeHTML(str) {
   }[c]));
 }
 
+// 選択状態はページ遷移・再読み込みをまたいで保持する
+// （UI/UX標準機能チェックリスト 1章「URLと画面状態の同期」・3章「入力値の保持」対応）
+const STORAGE_KEY = "npn-check-selected";
+
+function loadStoredSelection() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return [];
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function saveSelection() {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(Array.from(selected.values())));
+  } catch (e) {
+    // localStorageが使えない環境（プライベートモード等）では保持をあきらめる
+  }
+}
+
 const selected = new Map(); // id -> drug (index形式)
 const selectedListEl = document.getElementById("selected-drugs");
 const resultsRoot = document.getElementById("check-results");
+
+loadStoredSelection().forEach((drug) => selected.set(drug.id, drug));
 
 createSearchWidget({
   inputEl: document.getElementById("drug-search"),
@@ -77,10 +103,14 @@ createSearchWidget({
   onSelect: (drug) => {
     if (selected.has(drug.id)) return;
     selected.set(drug.id, drug);
+    saveSelection();
     renderSelected();
     renderCheck();
   },
 });
+
+renderSelected();
+renderCheck();
 
 function renderSelected() {
   selectedListEl.innerHTML = "";
@@ -96,6 +126,7 @@ function renderSelected() {
     removeBtn.textContent = "×";
     removeBtn.addEventListener("click", () => {
       selected.delete(drug.id);
+      saveSelection();
       renderSelected();
       renderCheck();
     });
@@ -121,7 +152,15 @@ function renderCheck() {
     return;
   }
 
-  resultsRoot.innerHTML = `<h2 class="section-label">チェック結果</h2><div id="interaction-results"></div>`;
+  resultsRoot.innerHTML = `
+    <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; margin-top:40px;">
+      <h2 class="section-label" style="margin:0;">チェック結果</h2>
+      <button type="button" class="btn-copy" id="copy-check-results">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="1.5"/><path d="M16 8V5.5A1.5 1.5 0 0014.5 4h-9A1.5 1.5 0 004 5.5v9A1.5 1.5 0 005.5 16H8"/></svg>
+        結果をコピー
+      </button>
+    </div>
+    <div id="interaction-results"></div>`;
   const interactionResultsEl = document.getElementById("interaction-results");
   const idSet = new Set(ids);
 
@@ -184,6 +223,25 @@ function renderCheck() {
     });
 
     interactionResultsEl.innerHTML = html;
+
+    document.getElementById("copy-check-results").addEventListener("click", () => {
+      const lines = [];
+      lines.push(`複数薬チェック結果（${new Date().toLocaleDateString("ja-JP")}）`);
+      lines.push(`選択した薬：${ids.map((id) => selected.get(id).brand_name || selected.get(id).generic_name).join("、")}`);
+      lines.push("");
+      sorted.forEach((p) => {
+        lines.push(`【${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}】${p.aBrand} × ${p.bBrand}`);
+        lines.push(p.source_text);
+        lines.push("");
+      });
+      noneFoundPairs.forEach(([a, b]) => {
+        lines.push(`【記載なし】${a.brand_name} × ${b.brand_name}`);
+        lines.push("記載されている相互作用は見つかりませんでした。安全という意味ではありません。");
+        lines.push("");
+      });
+      lines.push("※本結果は参考情報です。診断・治療の代替にはなりません。");
+      copyTextToClipboard(lines.join("\n").trim());
+    });
 
     renderCommonIndications(ids);
   });
