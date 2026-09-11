@@ -1,0 +1,19 @@
+{
+  "id": 1395,
+  "brand_name": "アンブロキソール塩酸塩内用液0.75%「ツルハラ」",
+  "generic_name": "アンブロキソール塩酸塩",
+  "therapeutic_classification": "気道潤滑去痰剤",
+  "indications": "下記疾患の去痰\n急性気管支炎、気管支喘息、慢性気管支炎、気管支拡張症、肺結核、塵肺症、手術後の喀痰喀出困難\n慢性副鼻腔炎の排膿",
+  "dose_admin": "通常、成人には1回2mL（アンブロキソール塩酸塩として15mg）を1日3回経口投与する。なお、年齢・症状により適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）\n発疹、顔面浮腫、呼吸困難、血圧低下等があらわれることがある。\n皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "発疹、顔面浮腫、呼吸困難、血圧低下等があらわれることがある",
+    "皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

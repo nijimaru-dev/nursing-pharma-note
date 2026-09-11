@@ -1,0 +1,506 @@
+[
+  {
+    "other_id": 2290,
+    "other_brand": "エジュラント錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14619,
+    "other_brand": "リカムビス水懸筋注600mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 7956,
+    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7960,
+    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7961,
+    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7962,
+    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7965,
+    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7966,
+    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7971,
+    "other_brand": "テオロング錠50mg",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7112,
+    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7115,
+    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7122,
+    "other_brand": "タクロリムスカプセル5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7124,
+    "other_brand": "タクロリムス軟膏0.1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7125,
+    "other_brand": "タクロリムス軟膏0.1％「PP」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7126,
+    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7128,
+    "other_brand": "タクロリムス錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7138,
+    "other_brand": "タクロリムス錠5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7140,
+    "other_brand": "タクロリムス錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7298,
+    "other_brand": "タリムス点眼液0.1%",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンメチルジゴキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンメチルジゴキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンメチルジゴキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンメチルジゴキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンメチルジゴキシン"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンメチルジゴキシン"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 2883,
+    "other_brand": "エルロチニブ錠25mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 2884,
+    "other_brand": "エルロチニブ錠150mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 3759,
+    "other_brand": "カルケンスカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5062,
+    "other_brand": "ゲフィチニブ錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5063,
+    "other_brand": "ゲフィチニブ錠250mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5064,
+    "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5065,
+    "other_brand": "ゲフィチニブ錠250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5880,
+    "other_brand": "ジカディア錠150mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 6331,
+    "other_brand": "スプリセル錠20mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7094,
+    "other_brand": "タイケルブ錠250mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7156,
+    "other_brand": "タシグナカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7248,
+    "other_brand": "タブレクタ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7310,
+    "other_brand": "タルセバ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7311,
+    "other_brand": "タルセバ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7417,
+    "other_brand": "ダサチニブ錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7419,
+    "other_brand": "ダサチニブ錠20mg「BMSH」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 12943,
+    "other_brand": "ボシュリフ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 17280,
+    "other_brand": "酸化マグネシウム「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17282,
+    "other_brand": "酸化マグネシウム「JG」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17283,
+    "other_brand": "酸化マグネシウム「NP」原末",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17285,
+    "other_brand": "酸化マグネシウム原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17290,
+    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17292,
+    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17316,
+    "other_brand": "重カマ「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17322,
+    "other_brand": "重質酸化マグネシウム　シオエ",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17324,
+    "other_brand": "重質酸化マグネシウム「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17327,
+    "other_brand": "重質酸化マグネシウム「東海」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 15193,
+    "other_brand": "レズロック錠200mg",
+    "interaction_type": "caution",
+    "source_text": "ベルモスジルメシル酸塩"
+  },
+  {
+    "other_id": 13626,
+    "other_brand": "メソトレキセート注射液50mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13627,
+    "other_brand": "メソトレキセート注射液5mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13628,
+    "other_brand": "メソトレキセート点滴静注液200mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13630,
+    "other_brand": "メソトレキセート錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13681,
+    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13685,
+    "other_brand": "メトトレキサート錠2mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13687,
+    "other_brand": "メトトレキサート錠2mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 14613,
+    "other_brand": "リウマトレックスカプセル2mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16597,
+    "other_brand": "注射用メソトレキセート50mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16598,
+    "other_brand": "注射用メソトレキセート5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  },
+  {
+    "other_id": 5833,
+    "other_brand": "ジアゼパム錠2mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  },
+  {
+    "other_id": 5834,
+    "other_brand": "ジアゼパム錠2「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  },
+  {
+    "other_id": 5836,
+    "other_brand": "ジアゼパム錠2mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  },
+  {
+    "other_id": 5837,
+    "other_brand": "ジアゼパム錠2mg「タイホウ」",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  },
+  {
+    "other_id": 6303,
+    "other_brand": "スピジア点鼻液5mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトインジアゼパム"
+  }
+]

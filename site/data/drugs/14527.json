@@ -1,0 +1,43 @@
+{
+  "id": 14527,
+  "brand_name": "ラマトロバン錠50mg「KO」",
+  "generic_name": "ラマトロバン",
+  "therapeutic_classification": "プロスタグランジンD\n2\n・トロンボキサンA\n2\n受容体拮抗剤アレルギー性鼻炎治療剤",
+  "indications": "アレルギー性鼻炎",
+  "dose_admin": "通常、成人にはラマトロバンとして1回75mgを1日2回、朝食後及び夕食後（又は就寝前）に経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "肝炎（頻度不明）、肝機能障害（0.2%）、黄疸（頻度不明）\n肝炎、AST、ALT、Al-P、γ-GTP、LDHの著しい上昇等を伴う肝機能障害、黄疸があらわれることがある。",
+  "observation_points": [
+    "肝炎（頻度不明）、肝機能障害（0.2%）、黄疸（頻度不明）",
+    "肝炎、AST、ALT、Al-P、γ-GTP、LDHの著しい上昇等を伴う肝機能障害、黄疸があらわれることがある",
+    "これらの薬剤と併用することにより出血傾向の増強をきたすおそれがある",
+    "観察を十分に行い、用量を調節するなど注意すること",
+    "ヒト血漿タンパク結合に対する相互作用の検討（",
+    "in vitro",
+    "）において、サリチル酸により本剤の非結合型分率が1.3～1.9倍上昇することがある",
+    "テオフィリンとの併用により、本剤の血中濃度が上昇することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗血小板剤\nチクロピジン等\n血栓溶解剤\nウロキナーゼ等\n抗凝血剤\nヘパリン\nワルファリン等",
+      "clinical_symptom_action": "これらの薬剤と併用することにより出血傾向の増強をきたすおそれがある。\n観察を十分に行い、用量を調節するなど注意すること。",
+      "mechanism_risk_factor": "本剤は血小板凝集能を抑制するため、類似の作用を持つ薬剤と併用することにより作用が増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サリチル酸系製剤\nアスピリン等",
+      "clinical_symptom_action": "ヒト血漿タンパク結合に対する相互作用の検討（\nin vitro\n）において、サリチル酸により本剤の非結合型分率が1.3～1.9倍上昇することがある。",
+      "mechanism_risk_factor": "本剤がサリチル酸と血漿タンパク結合部位で置換し、遊離型血中濃度が上昇すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テオフィリン",
+      "clinical_symptom_action": "テオフィリンとの併用により、本剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

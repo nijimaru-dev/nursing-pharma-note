@@ -1,0 +1,56 @@
+{
+  "id": 14614,
+  "brand_name": "リオナ錠250mg",
+  "generic_name": "クエン酸第二鉄水和物錠",
+  "therapeutic_classification": "高リン血症治療剤\n鉄欠乏性貧血治療剤",
+  "indications": "慢性腎臓病患者における高リン血症の改善\n鉄欠乏性貧血",
+  "dose_admin": "〈慢性腎臓病患者における高リン血症の改善〉\n通常，成人には，クエン酸第二鉄として1回500mgを開始用量とし，1日3回食直後に経口投与する。以後，症状，血清リン濃度の程度により適宜増減するが，最高用量は1日6,000mgとする。\n〈鉄欠乏性貧血〉\n通常，成人には，クエン酸第二鉄として1回500mgを1日1回食直後に経口投与する。患者の状態に応じて適宜増減するが，最高用量は1回500mgを1日2回までとする。",
+  "contraindications": "〈効能共通〉\n本剤の成分に対し過敏症の既往歴のある患者\n〈鉄欠乏性貧血〉\n鉄欠乏状態にない患者（鉄過剰症を来すおそれがある）",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により，硬い鋭角部が食道粘膜へ刺入し，更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n薬剤投与時の注意\n腹部のX線又はMRI検査で，本剤が存在する胃腸管の画像に未消化錠が写る可能性がある。\n本剤の投与により便が黒色を呈することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の作用を減弱させるおそれがあるので，同時に服用させないなど注意すること",
+    "これら薬剤の作用を減弱させるおそれがあるので，併用する場合にはこれらの薬剤の作用を観察すること",
+    "他のクエン酸製剤との併用で血中アルミニウム濃度が上昇したとの報告があるので，同時に服用させないなど注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キノロン系抗菌剤\n,\nシプロフロキサシン等",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがあるので，同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "これら薬剤と結合し，吸収を減少させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン剤\nレボチロキシン等\nテトラサイクリン系抗生物質\n,\n,\nテトラサイクリン塩酸塩\nドキシサイクリン塩酸塩水和物等",
+      "clinical_symptom_action": "これら薬剤の作用を減弱させるおそれがあるので，併用する場合にはこれらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これら薬剤と結合し，吸収を減少させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セフジニル",
+      "clinical_symptom_action": "これら薬剤の作用を減弱させるおそれがあるので，併用する場合にはこれらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これら薬剤と結合し，吸収を減少させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗パーキンソン剤\nレボドパ・ベンセラジド塩酸塩等",
+      "clinical_symptom_action": "これら薬剤の作用を減弱させるおそれがあるので，併用する場合にはこれらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これら薬剤と結合し，吸収を減少させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エルトロンボパグ オラミン",
+      "clinical_symptom_action": "これら薬剤の作用を減弱させるおそれがあるので，併用する場合にはこれらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これら薬剤と結合し，吸収を減少させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口アルミニウム製剤\n水酸化アルミニウムゲル\n合成ケイ酸アルミニウム",
+      "clinical_symptom_action": "他のクエン酸製剤との併用で血中アルミニウム濃度が上昇したとの報告があるので，同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "クエン酸との併用により，吸収が促進されるとの報告がある。"
+    }
+  ],
+  "facility_notes": ""
+}

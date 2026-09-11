@@ -7,8 +7,8 @@
 const DrugData = (() => {
   const DATA_ROOT = "/data";
   let indexPromise = null;
-  let interactionsPromise = null;
   const detailCache = new Map();
+  const interactionCache = new Map();
 
   function fetchJSON(path) {
     return fetch(path).then((res) => {
@@ -22,9 +22,22 @@ const DrugData = (() => {
     return indexPromise;
   }
 
-  function loadInteractions() {
-    if (!interactionsPromise) interactionsPromise = fetchJSON(`${DATA_ROOT}/interactions.json`);
-    return interactionsPromise;
+  /**
+   * 指定した薬品idが関わる相互作用ペアだけを取得する。
+   * 全薬剤分の相互作用をまとめた1ファイルは45万件規模になりGitHubの
+   * ファイルサイズ上限を超えるため、薬品ごとに分割している
+   * （interactions/{id}.json、無ければ相互作用の記載なし＝空配列）。
+   */
+  function loadDrugInteractions(id) {
+    if (!interactionCache.has(id)) {
+      const promise = fetch(`${DATA_ROOT}/interactions/${id}.json`).then((res) => {
+        if (res.status === 404) return [];
+        if (!res.ok) throw new Error(`相互作用データの取得に失敗しました: id=${id}`);
+        return res.json();
+      });
+      interactionCache.set(id, promise);
+    }
+    return interactionCache.get(id);
   }
 
   function loadDrug(id) {
@@ -55,5 +68,5 @@ const DrugData = (() => {
       .slice(0, 20);
   }
 
-  return { loadIndex, loadInteractions, loadDrug, search };
+  return { loadIndex, loadDrugInteractions, loadDrug, search };
 })();

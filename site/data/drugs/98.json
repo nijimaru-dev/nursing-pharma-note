@@ -1,0 +1,32 @@
+{
+  "id": 98,
+  "brand_name": "アクイプタ錠60mg",
+  "generic_name": "アトゲパント水和物",
+  "therapeutic_classification": "経口CGRP受容体拮抗薬",
+  "indications": "片頭痛発作の発症抑制",
+  "dose_admin": "通常、成人にはアトゲパントとして60mgを1日1回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "過敏症反応（頻度不明）\nアナフィラキシー、呼吸困難、発疹、そう痒症、蕁麻疹及び顔面浮腫等の過敏症反応があらわれることがあり、投与から数日後にあらわれることもある。",
+  "observation_points": [
+    "過敏症反応（頻度不明）",
+    "アナフィラキシー、呼吸困難、発疹、そう痒症、蕁麻疹及び顔面浮腫等の過敏症反応があらわれることがあり、投与から数日後にあらわれることもある",
+    "本剤の副作用が増強されるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強いCYP3A阻害剤\nイトラコナゾールクラリスロマイシン\n,",
+      "clinical_symptom_action": "本剤の副作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤の強いCYP3A阻害作用により、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "OATP阻害剤シクロスポリン\n,",
+      "clinical_symptom_action": "本剤の副作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のOATP阻害作用により本剤の血中濃度が上昇する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

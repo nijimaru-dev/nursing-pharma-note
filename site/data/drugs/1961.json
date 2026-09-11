@@ -1,0 +1,42 @@
+{
+  "id": 1961,
+  "brand_name": "ウェリレグ錠40mg",
+  "generic_name": "ベルズチファン錠",
+  "therapeutic_classification": "─抗悪性腫瘍剤─HIF-2α阻害剤",
+  "indications": "フォン・ヒッペル・リンドウ病関連腫瘍\nがん化学療法後に増悪した根治切除不能又は転移性の腎細胞癌",
+  "dose_admin": "通常、成人には、ベルズチファンとして、1日1回120mgを経口投与する。なお、患者の状態により適宜減量する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n湿気を避けるため、服用直前にPTPシートから取り出すよう指導すること。",
+  "serious_adverse_events": "貧血（74.4%）\nEPO減少に伴い貧血があらわれることがある。必要に応じて輸血や赤血球造血刺激因子製剤の投与を検討すること。\n,\n低酸素症（10.4%）\n,",
+  "observation_points": [
+    "貧血（74.4%）",
+    "EPO減少に伴い貧血があらわれることがある",
+    "必要に応じて輸血や赤血球造血刺激因子製剤の投与を検討すること",
+    ",",
+    "低酸素症（10.4%）",
+    "本剤の副作用が増強するおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること",
+    "これらの薬剤の有効性が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C19阻害剤\nフルコナゾール\nフルボキサミン\nチクロピジン等",
+      "clinical_symptom_action": "本剤の副作用が増強するおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "これらの薬剤がCYP2C19を阻害することにより、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "UGT2B17阻害剤\nイマチニブ等",
+      "clinical_symptom_action": "本剤の副作用が増強するおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "これらの薬剤がUGT2B17を阻害することにより、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aの基質となる薬剤\nフェンタニル\nミダゾラム\n経口避妊薬（ノルエチステロン・エチニルエストラジオール等）等\n,",
+      "clinical_symptom_action": "これらの薬剤の有効性が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP3Aを誘導することにより、これらの薬剤の血中濃度が低下する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

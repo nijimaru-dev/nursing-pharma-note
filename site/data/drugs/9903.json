@@ -1,0 +1,32 @@
+{
+  "id": 9903,
+  "brand_name": "バクスミー点鼻粉末剤3mg",
+  "generic_name": "グルカゴン点鼻粉末",
+  "therapeutic_classification": "低血糖時救急治療剤",
+  "indications": "低血糖時の救急処置",
+  "dose_admin": "通常、グルカゴンとして1回3mgを鼻腔内に投与する。",
+  "contraindications": "褐色細胞腫又はパラガングリオーマの患者［カテコールアミンの遊離を刺激して、急激な血圧の上昇を招くおそれがある。］\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n患者又は看護者（家族等）に添付の取扱説明書にしたがって、使用方法を指導すること。\n本剤は防湿のため黄色の容器に包装されているので、投与直前に包装用フィルムを開封すること。\n薬剤投与時の注意\n本剤は鼻腔粘膜への噴霧のみに使用すること。\n本剤は1回使用の製剤であり、使用後は容器と噴霧器を廃棄すること。",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "脈拍数の一時的な増加及び血圧の一時的な上昇が起こることがある",
+    "ワルファリンカリウムの抗凝血作用が増強することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β遮断剤\nビソプロロールフマル酸塩カルベジロールアテノロール等",
+      "clinical_symptom_action": "脈拍数の一時的な増加及び血圧の一時的な上昇が起こることがある。",
+      "mechanism_risk_factor": "β遮断剤の薬理作用が、グルカゴンのカテコールアミン分泌刺激に伴う臨床症状発現に影響する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリンカリウム",
+      "clinical_symptom_action": "ワルファリンカリウムの抗凝血作用が増強することがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

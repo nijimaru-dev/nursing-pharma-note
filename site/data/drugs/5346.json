@@ -1,0 +1,44 @@
+{
+  "id": 5346,
+  "brand_name": "サチュロ錠100mg",
+  "generic_name": "ベダキリンフマル酸塩",
+  "therapeutic_classification": "結核化学療法剤",
+  "indications": "［適応菌種］本剤に感性の結核菌［適応症］多剤耐性肺結核",
+  "dose_admin": "通常、成人には投与開始から2週間はベダキリンとして1日1回400mgを食直後に経口投与する。その後、3週以降は、ベダキリンとして1回200mgを週3回、48時間以上の間隔をあけて食直後に経口投与する。投与に際しては、必ず他の抗結核薬と併用すること。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "QT延長（2.7％）\n,\n,\n,\n肝機能障害（頻度不明）\nAST、ALT等の上昇を伴う肝機能障害があらわれることがある。",
+  "observation_points": [
+    "QT延長（2.7％）",
+    ",",
+    "肝機能障害（頻度不明）",
+    "AST、ALT等の上昇を伴う肝機能障害があらわれることがある",
+    "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある",
+    "本剤投与中の併用は、リスクとベネフィットを考慮して慎重に判断すること",
+    "QT延長を起こすおそれがある",
+    "リスクとベネフィットを考慮して本剤投与の適応を慎重に判断すること",
+    "QT延長の増加が認められている"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中等度又は強力なCYP3A4誘導作用を有する薬剤\nリファブチン、エファビレンツ等",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。本剤投与中の併用は、リスクとベネフィットを考慮して慎重に判断すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A4誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT延長を起こすことが知られている薬剤\nフルオロキノロン系抗菌薬\nモキシフロキサシン等\nケトコナゾール（経口剤：国内未発売）デラマニド",
+      "clinical_symptom_action": "QT延長を起こすおそれがある。リスクとベネフィットを考慮して本剤投与の適応を慎重に判断すること。",
+      "mechanism_risk_factor": "併用により相加的なQT延長を起こすおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロファジミン",
+      "clinical_symptom_action": "QT延長の増加が認められている。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

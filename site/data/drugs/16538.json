@@ -1,0 +1,22 @@
+{
+  "id": 16538,
+  "brand_name": "歯科用ヨード・グリセリン",
+  "generic_name": "日本薬局方 歯科用ヨード・グリセリン",
+  "therapeutic_classification": "口腔粘膜・根管消毒剤",
+  "indications": "口腔粘膜（歯肉）及び根管の消毒",
+  "dose_admin": "適量を綿球又は綿繊維につけ、局所に貼付する。",
+  "contraindications": "2.1 本剤又はヨウ素に対し過敏症の既往歴のある患者2.2 水銀剤を使用中の患者［10.1参照］",
+  "application_precautions": "薬剤使用時の注意\n眼に入った場合は、直ちに多量の水で15分以上洗い流し、なお異常が認められる場合は眼科医に相談すること。\n本剤が手指又は白衣等に付着した場合は、ハイポアルコール（チオ硫酸ナトリウム・エタノール溶液）等で脱色し、充分水洗いすること。",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "水銀剤\n［2.2参照］",
+      "clinical_symptom_action": "ヨウ化水銀が発生し、誤飲した場合には吐き気、嘔吐をもよおす可能性がある",
+      "mechanism_risk_factor": "水銀剤との併用により毒性の強いヨウ化水銀が発生するおそれがある"
+    }
+  ],
+  "facility_notes": ""
+}

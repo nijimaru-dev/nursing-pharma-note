@@ -1,0 +1,79 @@
+{
+  "id": 4218,
+  "brand_name": "キャベジンUコーワ配合散",
+  "generic_name": "メチルメチオニンスルホニウムクロリド\nメタケイ酸アルミン酸マグネシウム\n沈降炭酸カルシウム\n炭酸マグネシウム",
+  "therapeutic_classification": "消化性潰瘍・胃炎治療剤",
+  "indications": "下記疾患における自覚症状及び他覚所見の改善胃潰瘍、十二指腸潰瘍、胃炎",
+  "dose_admin": "通常成人1回1.0～1.5gを1日3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "甲状腺機能低下症又は副甲状腺機能亢進症のある患者［高カルシウム血症を起こすことがある。］\n透析療法を受けている患者\nテトラサイクリン系抗生物質を投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること",
+    "高カルシウム血症及び高マグネシウム血症があらわれやすくなるので、注意すること",
+    "排泄を遅延させることがあるので注意すること",
+    "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること",
+    "アルカローシスがあらわれることがある",
+    "観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと",
+    "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがある",
+    "観察を十分に行い、このような症状があらわれた場合には投与を中止すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩（アクロマイシン）デメチルクロルテトラサイクリン塩酸塩（レダマイシン）ドキシサイクリン塩酸塩水和物（ビブラマイシン）ミノサイクリン塩酸塩（ミノマイシン）",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがある。",
+      "mechanism_risk_factor": "2価、3価の金属と難溶性のキレートを形成し、消化管からの吸収を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ニューキノロン系抗菌剤\nエノキサシン水和物ノルフロキサシンオフロキサシン等\nビスホスホン酸塩系骨代謝改善剤\nエチドロン酸二ナトリウム",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "キレートを形成し、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン剤\nレボチロキシンナトリウム水和物等\n胆汁酸製剤\nウルソデオキシコール酸ケノデオキシコール酸\nジギタリス製剤\nジゴキシン等\nジフルニサル",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害されると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "鉄剤\n硫酸鉄水和物フマル酸第一鉄等",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤による胃内pHの上昇及び難溶性塩形成により、これらの薬剤の吸収が阻害されるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "活性型ビタミンD\n3\n製剤\nアルファカルシドールカルシトリオール",
+      "clinical_symptom_action": "高カルシウム血症及び高マグネシウム血症があらわれやすくなるので、注意すること。",
+      "mechanism_risk_factor": "これらの薬剤が腸管でのカルシウム及びマグネシウムの吸収を促進させることが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キニジン硫酸塩水和物等",
+      "clinical_symptom_action": "排泄を遅延させることがあるので注意すること。",
+      "mechanism_risk_factor": "制酸剤との併用で、尿のpHが上昇し、排泄に影響を与えることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クエン酸製剤\nクエン酸カリウムクエン酸ナトリウム水和物等",
+      "clinical_symptom_action": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "キレートを形成し、アルミニウムの吸収が促進されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血清カリウム抑制イオン交換樹脂\nポリスチレンスルホン酸カルシウムポリスチレンスルホン酸ナトリウム",
+      "clinical_symptom_action": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。",
+      "mechanism_risk_factor": "本剤の金属カチオンとイオン交換樹脂が結合することにより、腸管内に分泌された重炭酸塩が中和されずに再吸収されるためと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "牛乳、乳製品カルシウム製剤",
+      "clinical_symptom_action": "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがある。観察を十分に行い、このような症状があらわれた場合には投与を中止すること。",
+      "mechanism_risk_factor": "機序は不明であるが血清カルシウムの上昇と本剤による血中pHの上昇が関与すると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

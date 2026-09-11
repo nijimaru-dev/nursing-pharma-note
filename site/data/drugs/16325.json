@@ -1,0 +1,37 @@
+{
+  "id": 16325,
+  "brand_name": "安息香酸ナトリウムカフェイン原末「マルイシ」",
+  "generic_name": "安息香酸ナトリウムカフェイン",
+  "therapeutic_classification": "中枢興奮・鎮痛剤",
+  "indications": "ねむけ、倦怠感、血管拡張性及び脳圧亢進性頭痛（片頭痛、高血圧性頭痛、カフェイン禁断性頭痛など）",
+  "dose_admin": "安息香酸ナトリウムカフェインとして、通常成人1回0.1～0.6gを1日2～3回経口投与する。\nなお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "過度の中枢神経刺激作用が現れることがある",
+    "頻脈、血圧上昇等が現れることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他のキサンチン系薬剤　アミノフィリン水和物　ジプロフィリン　テオフィリン等\n中枢神経興奮薬　エフェドリン塩酸塩　マオウ等",
+      "clinical_symptom_action": "過度の中枢神経刺激作用が現れることがある。",
+      "mechanism_risk_factor": "併用薬の代謝・排泄を遅延させることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "MAO阻害剤　セレギリン塩酸塩　ラサギリンメシル酸塩　サフィナミドメシル酸塩",
+      "clinical_symptom_action": "頻脈、血圧上昇等が現れることがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "過度の中枢神経刺激作用が現れることがある。",
+      "mechanism_risk_factor": "カフェインの代謝・排泄を遅延させることがある。"
+    }
+  ],
+  "facility_notes": ""
+}

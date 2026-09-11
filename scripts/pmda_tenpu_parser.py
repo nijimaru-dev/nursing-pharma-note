@@ -8,8 +8,13 @@ KarteNo用にクレンジングしてSQLiteへ格納するスクリプト。
 前提：
 - 入力はPMDAサイトから個別にダウンロードしたXMLファイル群（1薬剤=1ファイルが基本、
   ただし1ファイルに複数の販売名・YJコードが含まれる場合がある）
+- PMDAの一括ダウンロードデータは「薬品名フォルダ1つにつきXML1つ」という
+  サブフォルダ構造になっているため、--input-dir 配下は再帰的に検索する
+  （画像ファイル等は無視し、拡張子.xmlのみを対象とする）
 - タグ名は製薬協「医療用医薬品添付文書情報の電子ファイル作成の手引き－XML形式－」
-  （2019年5月 暫定版第1版）4.3項目名一覧に基づく（本スクリプト作成時点で確認済み）
+  （2019年5月 暫定版第1版）4.3項目名一覧に基づく。ただし実データはルート要素に
+  XML名前空間が付与されているため、パース時に名前空間プレフィックスを除去してから
+  タグ名で検索している（_strip_namespaces参照）
 - ネットワークダウンロード自体はこのスクリプトでは行わない
   （PMDAサイトから手動または別途スクリプトで取得したXMLを input-dir に置く前提）
 
@@ -69,28 +74,64 @@ def _find_all(root, tagname):
     return root.iter(tagname)
 
 
-def parse_interaction_table(table_elem):
+def _strip_namespaces(root):
+    """
+    実際のPMDA添付文書XMLはルート要素に
+    xmlns="http://info.pmda.go.jp/namespace/prescription_drugs/package_insert/1.0"
+    のような名前空間が付与されており、素のタグ名（"GenericName"等）での
+    find/iter が一致しない（該当項目が静かに空文字になる）。
+    将来の名前空間URI変更にも耐えられるよう、URIをハードコードせず
+    "{...}"プレフィックスを機械的に剥がす。
+    """
+    for elem in root.iter():
+        if isinstance(elem.tag, str) and elem.tag.startswith("{"):
+            elem.tag = elem.tag.split("}", 1)[1]
+    return root
+
+
+def parse_interaction_item(item_elem):
     """
     10.1併用禁忌 / 10.2併用注意 のテーブル1件分（ContraIndication / PrecautionsForCombi）
     から 薬剤名等・臨床症状措置方法・機序危険因子 を抜き出す。
-    XMLスキーマ上、列名タグが明示されていないケースがあるため、
-    子要素の並び順（薬剤名等→臨床症状・措置方法→機序・危険因子）をフォールバックに使う。
+
+    実データの構造は
+        <ContraIndication>/<PrecautionsForCombi>
+          <WidthDefinition>...</WidthDefinition>   列幅定義。データではない
+          <Drug>
+            <DrugName>...</DrugName>
+            <ClinSymptomsAndMeasures>...</ClinSymptomsAndMeasures>
+            <MechanismAndRiskFactors>...</MechanismAndRiskFactors>
+          </Drug>
+          （<Drug>が複数並ぶ場合もある）
+        </ContraIndication>
+    のように、実データは<Drug>配下にタグ名で3項目が入っている。
+    1テーブル項目につき複数<Drug>があり得るため、Drugごとに1行を返す（リスト）。
+
+    <Drug>が見つからない未知の構造のファイル向けに、旧来の「直接の子要素の
+    並び順（薬剤名→臨床症状・措置方法→機序・危険因子）」をフォールバックとして残す。
     """
-    drug_name, clinical, mechanism = "", "", ""
-    children = list(table_elem)
+    rows = []
+    drug_elems = item_elem.findall("Drug")
+    if drug_elems:
+        for drug in drug_elems:
+            rows.append({
+                "drug_name_or_class": _text_all(drug.find("DrugName")),
+                "clinical_symptom_action": _text_all(drug.find("ClinSymptomsAndMeasures")),
+                "mechanism_risk_factor": _text_all(drug.find("MechanismAndRiskFactors")),
+            })
+        return rows
+
+    # フォールバック：位置ベース（WidthDefinition等を除いた直接の子要素の並び順）
+    children = [c for c in list(item_elem) if c.tag != "WidthDefinition"]
     texts = [_text_all(c) for c in children]
-    # 手引きの表定義通り3列想定。列数がずれるファイルもあるため安全に取得する。
-    if len(texts) >= 1:
-        drug_name = texts[0]
-    if len(texts) >= 2:
-        clinical = texts[1]
-    if len(texts) >= 3:
-        mechanism = texts[2]
-    return {
+    drug_name = texts[0] if len(texts) >= 1 else ""
+    clinical = texts[1] if len(texts) >= 2 else ""
+    mechanism = texts[2] if len(texts) >= 3 else ""
+    return [{
         "drug_name_or_class": drug_name,
         "clinical_symptom_action": clinical,
         "mechanism_risk_factor": mechanism,
-    }
+    }]
 
 
 def parse_tenpu_file(filepath: Path):
@@ -105,7 +146,7 @@ def parse_tenpu_file(filepath: Path):
     except ET.ParseError as e:
         return None, f"XML parse error: {e}"
 
-    root = tree.getroot()
+    root = _strip_namespaces(tree.getroot())
 
     generic_name = _text_all(root.find(f".//{TAG['generic_name']}"))
     therapeutic_classification = _text_all(root.find(f".//{TAG['therapeutic_classification']}"))
@@ -135,11 +176,11 @@ def parse_tenpu_file(filepath: Path):
         contra_block = interactions_root.find(f".//{TAG['contra_combi']}")
         if contra_block is not None:
             for item in contra_block.iter(TAG["contra_combi_item"]):
-                contra_combi_rows.append(parse_interaction_table(item))
+                contra_combi_rows.extend(parse_interaction_item(item))
         caution_block = interactions_root.find(f".//{TAG['caution_combi']}")
         if caution_block is not None:
             for item in caution_block.iter(TAG["caution_combi_item"]):
-                caution_combi_rows.append(parse_interaction_table(item))
+                caution_combi_rows.extend(parse_interaction_item(item))
 
     # 重大な副作用
     serious_adverse_text = ""
@@ -230,7 +271,8 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
 
     formulary_names = load_formulary(formulary_path)
 
-    xml_files = sorted(input_dir.glob("*.xml"))
+    # 実際のPMDA一括ダウンロードデータは「1薬剤=1サブフォルダ」構造のため再帰的に探索する
+    xml_files = sorted(input_dir.rglob("*.xml"))
     if not xml_files:
         print(f"[警告] {input_dir} にXMLファイルが見つかりません", file=sys.stderr)
 

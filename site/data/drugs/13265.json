@@ -1,0 +1,172 @@
+{
+  "id": 13265,
+  "brand_name": "マルファ懸濁用配合顆粒",
+  "generic_name": "乾燥水酸化アルミニウムゲル・水酸化マグネシウム配合剤",
+  "therapeutic_classification": "消化性潰瘍・胃炎治療剤",
+  "indications": "下記疾患における制酸作用と症状の改善\n胃・十二指腸潰瘍、胃炎、上部消化管機能異常",
+  "dose_admin": "通常成人には1日1.6～4.8gを数回に分割し、本品1gに対し用時約10mLの水に懸濁して経口投与するか、または、そのまま経口投与する。なお、年齢・症状により適宜増減する。",
+  "contraindications": "透析療法を受けている患者［長期投与によりアルミニウム脳症、アルミニウム骨症、貧血等があらわれることがある。］\n,\n,",
+  "application_precautions": "薬剤投与時の注意\n本剤は用時懸濁し、懸濁後は速やかに服用すること。また、本剤を水とともに経口投与するにあたっては、コップ1杯の水とともに服用すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "ペニシラミンの効果を減弱するおそれがある",
+    "ミコフェノール酸 モフェチルの作用が減弱するおそれがある",
+    "アジスロマイシン水和物の最高血中濃度低下の報告がある",
+    "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること",
+    "高マグネシウム血症を起こすことがあるので、慎重に投与すること",
+    "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること",
+    "アルカローシスがあらわれることがある",
+    "観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと",
+    "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること",
+    "ドルテグラビルの血漿中濃度をC",
+    "max",
+    "で72%、C",
+    "24",
+    "で74%低下させる",
+    "ドルテグラビルナトリウムは本剤投与2時間前又は6時間後の投与が推奨される",
+    "本剤との同時投与は避けること",
+    "本剤の投与が必要な場合には、ダサチニブ投与の少なくとも2時間前又は2時間後に投与すること",
+    "同時に投与することにより、ガバペンチンの最高血漿中濃度（C",
+    "）が17%及び血漿中濃度−時間曲線下面積（AUC）が20%低下した",
+    "本剤の投与後少なくとも2時間以降にガバペンチンを服用することが望ましい",
+    "同時に服用するとエルトロンボパグ オラミンの吸収が著しく妨げられることがあるので、投与前4時間及び後2時間は本剤の投与を避けること",
+    "ラルテグラビル投与前後6時間以内に本剤を併用投与した場合、ラルテグラビルの血漿中濃度が低下する",
+    "本剤投与はリオシグアト投与後1時間以上経過してからとすること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ペニシラミン",
+      "clinical_symptom_action": "ペニシラミンの効果を減弱するおそれがある。",
+      "mechanism_risk_factor": "同時投与した場合、ペニシラミンの吸収率が低下するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミコフェノール酸 モフェチル",
+      "clinical_symptom_action": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "併用により、ミコフェノール酸 モフェチルの吸収が減少したとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アジスロマイシン水和物",
+      "clinical_symptom_action": "アジスロマイシン水和物の最高血中濃度低下の報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリンミノサイクリン等",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "キレートを形成し、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ニューキノロン系抗菌剤\nエノキサシン水和物シプロフロキサシンノルフロキサシン等",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "キレートを形成し、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビスホスホン酸塩系骨代謝改善剤\nエチドロン酸二ナトリウム",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "キレートを形成し、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシン等",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン剤\nレボチロキシンナトリウム水和物等",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "胆汁酸製剤\nウルソデオキシコール酸ケノデオキシコール酸",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェキソフェナジン",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "鉄剤\n硫酸鉄水和物フマル酸第一鉄等",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤による胃内pHの上昇及び難溶性塩形成により、これらの薬剤の吸収が阻害されるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セフジニルセフポドキシム プロキセチル",
+      "clinical_symptom_action": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "機序は不明であるが、これらの薬剤の吸収が阻害されるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "活性型ビタミンD\n3\n製剤\nアルファカルシドールカルシトリオール",
+      "clinical_symptom_action": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。",
+      "mechanism_risk_factor": "これらの薬剤によりマグネシウムの腸管からの吸収が促進することが考えられる。（特に腎障害のある患者）"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クエン酸製剤\nクエン酸カリウムクエン酸ナトリウム水和物等",
+      "clinical_symptom_action": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること。",
+      "mechanism_risk_factor": "キレートを形成し、アルミニウムの吸収が促進されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血清カリウム抑制イオン交換樹脂\nポリスチレンスルホン酸カルシウムポリスチレンスルホン酸ナトリウム",
+      "clinical_symptom_action": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。",
+      "mechanism_risk_factor": "本剤の金属カチオンとイオン交換樹脂が結合することにより、腸管内に分泌された重炭酸塩が中和されずに再吸収されるためと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "大量の牛乳カルシウム製剤",
+      "clinical_symptom_action": "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること。",
+      "mechanism_risk_factor": "機序は不明であるが、血清カルシウムの上昇と本剤による血中pHの上昇が関与すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドルテグラビルナトリウム",
+      "clinical_symptom_action": "ドルテグラビルの血漿中濃度をC\nmax\nで72%、C\n24\nで74%低下させる。ドルテグラビルナトリウムは本剤投与2時間前又は6時間後の投与が推奨される。",
+      "mechanism_risk_factor": "錯体を形成することにより、ドルテグラビルの吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダサチニブ",
+      "clinical_symptom_action": "本剤との同時投与は避けること。本剤の投与が必要な場合には、ダサチニブ投与の少なくとも2時間前又は2時間後に投与すること。",
+      "mechanism_risk_factor": "ダサチニブの吸収が抑制され、血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ガバペンチン",
+      "clinical_symptom_action": "同時に投与することにより、ガバペンチンの最高血漿中濃度（C\nmax\n）が17%及び血漿中濃度−時間曲線下面積（AUC）が20%低下した。本剤の投与後少なくとも2時間以降にガバペンチンを服用することが望ましい。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エルトロンボパグ オラミン",
+      "clinical_symptom_action": "同時に服用するとエルトロンボパグ オラミンの吸収が著しく妨げられることがあるので、投与前4時間及び後2時間は本剤の投与を避けること。",
+      "mechanism_risk_factor": "錯体を形成する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラルテグラビル",
+      "clinical_symptom_action": "ラルテグラビル投与前後6時間以内に本剤を併用投与した場合、ラルテグラビルの血漿中濃度が低下する。",
+      "mechanism_risk_factor": "キレート形成によるラルテグラビルの吸収抑制等がおこるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リオシグアト",
+      "clinical_symptom_action": "本剤投与はリオシグアト投与後1時間以上経過してからとすること。",
+      "mechanism_risk_factor": "消化管内pHの上昇によりリオシグアトのバイオアベイラビリティが低下する。"
+    }
+  ],
+  "facility_notes": ""
+}

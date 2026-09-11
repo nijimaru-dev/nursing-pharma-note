@@ -1,0 +1,25 @@
+{
+  "id": 13023,
+  "brand_name": "ボンアルファ軟膏2μg/g",
+  "generic_name": "タカルシトール水和物",
+  "therapeutic_classification": "活性型VD\n3\n角化症治療剤",
+  "indications": "乾癬、魚鱗癬、掌蹠膿疱症、掌蹠角化症、毛孔性紅色粃糠疹",
+  "dose_admin": "通常1日2回適量を患部に塗布する。",
+  "contraindications": "本剤の成分に対して過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n使用時\n眼科用として角膜、結膜に使用しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "血清カルシウム値が上昇する可能性がある",
+    "その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD及びその誘導体\nアルファカルシドール\nカルシトリオール\nカルシポトリオール\nマキサカルシトール等",
+      "clinical_symptom_action": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。",
+      "mechanism_risk_factor": "相加作用"
+    }
+  ],
+  "facility_notes": ""
+}

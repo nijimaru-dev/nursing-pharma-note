@@ -1,0 +1,79 @@
+{
+  "id": 14764,
+  "brand_name": "リタリン錠10mg",
+  "generic_name": "メチルフェニデート塩酸塩",
+  "therapeutic_classification": "中枢神経刺激剤",
+  "indications": "ナルコレプシー",
+  "dose_admin": "メチルフェニデート塩酸塩として、通常成人1日20～60mgを1～2回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "過度の不安、緊張、興奮性のある患者［中枢神経刺激作用により症状を悪化させることがある。］\n閉塞隅角緑内障の患者［眼圧を上昇させるおそれがある。］\n甲状腺機能亢進のある患者［循環器系に影響を及ぼすことがある。］\n不整頻拍、狭心症のある患者［症状が悪化するおそれがある。］\n本剤の成分に対し過敏症の既往歴のある患者\n運動性チック、Tourette症候群の患者又はその既往歴・家族歴のある患者［症状を悪化又は誘発させることがある。］\n重症うつ病の患者［抑うつ症状が悪化するおそれがある。］\n褐色細胞腫又はパラガングリオーマのある患者［血圧を上昇させるおそれがある。］\nモノアミンオキシダーゼ（MAO）阻害剤を投与中又は投与中止後14日以内の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "剥脱性皮膚炎（頻度不明）\n狭心症（頻度不明）\n悪性症候群（Syndrome malin）（頻度不明）\n発熱、高度の筋硬直、CK上昇等があらわれることがあるので、このような場合には体冷却、水分補給等の適切な処置を行うこと。\n脳血管障害（血管炎、脳梗塞、脳出血、脳卒中）（頻度不明）\n肝不全、肝機能障害（いずれも頻度不明）\n肝不全（急性肝不全等）、肝機能障害があらわれることがある。",
+  "observation_points": [
+    "剥脱性皮膚炎（頻度不明）",
+    "狭心症（頻度不明）",
+    "悪性症候群（Syndrome malin）（頻度不明）",
+    "発熱、高度の筋硬直、CK上昇等があらわれることがあるので、このような場合には体冷却、水分補給等の適切な処置を行うこと",
+    "脳血管障害（血管炎、脳梗塞、脳出血、脳卒中）（頻度不明）",
+    "肝不全、肝機能障害（いずれも頻度不明）",
+    "肝不全（急性肝不全等）、肝機能障害があらわれることがある",
+    "昇圧作用を増強させることがある",
+    "クマリン系抗凝血剤の作用が増強されることがある",
+    "抗痙攣剤の作用が増強されることがある",
+    "三環系抗うつ剤、選択的セロトニン再取り込み阻害剤の作用が増強されることがある",
+    "本剤の作用が増強するおそれがあるため、注意して投与すること",
+    "本剤との併用により、突然死の報告がある",
+    "精神神経系の副作用が増強されることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "MAO阻害剤セレギリン（エフピー）ラサギリン（アジレクト）サフィナミド（エクフィナ）",
+      "clinical_symptom_action": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。MAO阻害剤を投与中又は投与中止後14日以内の患者には本剤を投与しないこと。",
+      "mechanism_risk_factor": "脳内モノアミン総量が増加するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "昇圧剤",
+      "clinical_symptom_action": "昇圧作用を増強させることがある。",
+      "mechanism_risk_factor": "本剤は交感神経刺激作用を有するため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系抗凝血剤\nワルファリン",
+      "clinical_symptom_action": "クマリン系抗凝血剤の作用が増強されることがある。",
+      "mechanism_risk_factor": "クマリン系抗凝血剤の半減期を延長させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン",
+      "clinical_symptom_action": "抗痙攣剤の作用が増強されることがある。",
+      "mechanism_risk_factor": "本剤はこれらの薬剤の代謝を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三環系抗うつ剤\nイミプラミン等\n選択的セロトニン再取り込み阻害剤\nフルボキサミンパロキセチンセルトラリン　等",
+      "clinical_symptom_action": "三環系抗うつ剤、選択的セロトニン再取り込み阻害剤の作用が増強されることがある。",
+      "mechanism_risk_factor": "本剤はこれらの薬剤の代謝を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン",
+      "clinical_symptom_action": "本剤の作用が増強するおそれがあるため、注意して投与すること。",
+      "mechanism_risk_factor": "ノルアドレナリンへの作用を相加的又は相乗的に増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロニジン",
+      "clinical_symptom_action": "本剤との併用により、突然死の報告がある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "精神神経系の副作用が増強されることがある。",
+      "mechanism_risk_factor": "アルコールは本剤の精神神経系の作用を増強させる。"
+    }
+  ],
+  "facility_notes": ""
+}

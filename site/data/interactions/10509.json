@@ -1,0 +1,392 @@
+[
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル　アラフェナミド\nビクタルビ配合錠"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル　アラフェナミド\nビクタルビ配合錠"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル　アラフェナミド\nビクタルビ配合錠"
+  },
+  {
+    "other_id": 1449,
+    "other_brand": "アーリーダ錠60mg",
+    "interaction_type": "contraindicated",
+    "source_text": "レナカパビルナトリウム\nシュンレンカ\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nゲンボイヤ\nダルナビル エタノール付加物・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nシムツーザ\nビクテグラビルナトリウム・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nビクタルビ\nリルピビリン塩酸塩・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nオデフシィ"
+  },
+  {
+    "other_id": 1523,
+    "other_brand": "イクスタンジ錠40mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ドラビリン\n（ピフェルトロ）\nエンシトレルビル　フマル酸\n（ゾコーバ）\nレナカパビルナトリウム\n（シュンレンカ）\nニルマトレルビル・リトナビル\n（パキロビッド）\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（ゲンボイヤ）\nダルナビル エタノール付加物・コビシスタット\n（プレジコビックス）\nダルナビル エタノール付加物・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（シムツーザ）\nドルテグラビルナトリウム・リルピビリン塩酸塩\n（ジャルカ）\nビクテグラビルナトリウム・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（ビクタルビ）\nリルピビリン\n（リカムビス）\nリルピビリン塩酸塩\n（エジュラント）\nリルピビリン塩酸塩・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（オデフシィ）"
+  },
+  {
+    "other_id": 8763,
+    "other_brand": "トランコロンP配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル アラフェナミド（ビクタルビ配合錠）"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル アラフェナミド\n（ビクタルビ配合錠）"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル　アラフェナミド\nビクタルビ配合錠"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル アラフェナミド\n（ビクタルビ配合錠）"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）フェニトイン（アレビアチン）ホスフェニトイン（ホストイン）アパルタミド（アーリーダ）セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 3183,
+    "other_brand": "オペプリム",
+    "interaction_type": "contraindicated",
+    "source_text": "エンザルタミド（イクスタンジ）エンコラフェニブ（ビラフトビ）イボシデニブ（ティブソボ）ミトタン（オペプリム）"
+  },
+  {
+    "other_id": 7937,
+    "other_brand": "ティブソボ錠250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エンザルタミド（イクスタンジ）エンコラフェニブ（ビラフトビ）イボシデニブ（ティブソボ）ミトタン（オペプリム）"
+  },
+  {
+    "other_id": 13336,
+    "other_brand": "ミコブティンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 156,
+    "other_brand": "アシクロビル軟膏5%「ラクール」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 157,
+    "other_brand": "アシクロビルシロップ8%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 158,
+    "other_brand": "アシクロビル内服ゼリー200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 159,
+    "other_brand": "アシクロビル内服ゼリー800mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 161,
+    "other_brand": "アシクロビル点滴静注液250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 162,
+    "other_brand": "アシクロビル点滴静注液250mgバッグ100mL「アイロム」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 163,
+    "other_brand": "アシクロビル点滴静注用250mg「アイロム」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 164,
+    "other_brand": "アシクロビル点滴静注用250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 170,
+    "other_brand": "アシクロビル錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 174,
+    "other_brand": "アシクロビル顆粒40％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 175,
+    "other_brand": "アシクロビル顆粒40％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 177,
+    "other_brand": "アシクロビルDS80％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 178,
+    "other_brand": "アシクロビルDS80%「NK」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 4158,
+    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 6984,
+    "other_brand": "ゾビラックスクリーム5%",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 6985,
+    "other_brand": "ゾビラックス点滴静注用250",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 6988,
+    "other_brand": "ゾビラックス軟膏5%",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 6989,
+    "other_brand": "ゾビラックス錠200",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 6991,
+    "other_brand": "ゾビラックス顆粒40%",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9939,
+    "other_brand": "バラシクロビル粒状錠500mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9940,
+    "other_brand": "バラシクロビル錠500mg「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9941,
+    "other_brand": "バラシクロビル錠500mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9943,
+    "other_brand": "バラシクロビル錠500mg「サトウ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9944,
+    "other_brand": "バラシクロビル錠500mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9945,
+    "other_brand": "バラシクロビル錠500mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9947,
+    "other_brand": "バラシクロビル錠500mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9948,
+    "other_brand": "バラシクロビル錠500mg「日本臓器」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9949,
+    "other_brand": "バラシクロビル錠500mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9950,
+    "other_brand": "バラシクロビル錠500mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9951,
+    "other_brand": "バラシクロビル錠500mg「EE」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9952,
+    "other_brand": "バラシクロビル錠500mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9955,
+    "other_brand": "バラシクロビル錠500mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9956,
+    "other_brand": "バラシクロビル錠500mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 9957,
+    "other_brand": "バラシクロビル錠500mg「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 10059,
+    "other_brand": "バルトレックス錠500",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 10060,
+    "other_brand": "バルトレックス顆粒50%",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビル塩酸塩バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビルナトリウム・エムトリシタビン・テノホビル　アラフェナミド\n（ビクタルビ配合錠）"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル アラフェナミド\n（ビクタルビ配合錠）"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル アラフェナミド\nビクタルビ配合錠"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ビクテグラビル・エムトリシタビン・テノホビル　アラフェナミド\nビクタルビ配合錠"
+  }
+]

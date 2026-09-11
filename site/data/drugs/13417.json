@@ -1,0 +1,19 @@
+{
+  "id": 13417,
+  "brand_name": "ミノアレ散66.7%",
+  "generic_name": "トリメタジオン散",
+  "therapeutic_classification": "抗てんかん剤",
+  "indications": "定型欠神発作（小発作）\n小型（運動）発作［ミオクロニー発作、失立（無動）発作、点頭てんかん（幼児けい縮発作、BNSけいれん等）］",
+  "dose_admin": "トリメタジオンとして、通常成人1日1.0gを毎食後3回に分割経口投与する。症状、耐薬性に応じて適宜漸増し、治療効果がみられるまで増量するが、最高1日2.0gを限度とする。\n小児においては、成人量を基準として体重により決定する。\n症状、耐薬性に応じて適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の患者\n妊婦又は妊娠している可能性のある女性\n重篤な肝障害のある患者\n重篤な腎障害のある患者\n重篤な血液障害のある患者\n網膜・視神経障害のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "皮膚粘膜眼症候群（Stevens-Johnson症候群）、中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、SLE様症状（いずれも頻度不明）\n再生不良性貧血、汎血球減少（いずれも頻度不明）\n筋無力症（頻度不明）",
+  "observation_points": [
+    "皮膚粘膜眼症候群（Stevens-Johnson症候群）、中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、SLE様症状（いずれも頻度不明）",
+    "再生不良性貧血、汎血球減少（いずれも頻度不明）",
+    "筋無力症（頻度不明）"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

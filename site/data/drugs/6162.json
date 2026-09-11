@@ -1,0 +1,40 @@
+{
+  "id": 6162,
+  "brand_name": "スインプロイク錠0.2mg",
+  "generic_name": "ナルデメジントシル酸塩",
+  "therapeutic_classification": "経口末梢性μオピオイド受容体拮抗薬",
+  "indications": "オピオイド誘発性便秘症",
+  "dose_admin": "通常、成人にはナルデメジンとして1回0.2mgを1日1回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n消化管閉塞若しくはその疑いのある患者、又は消化管閉塞の既往歴を有し再発のおそれの高い患者［消化管穿孔を起こすおそれがある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "重度の下痢（0.7%）\n脱水症状まで至ることがあるため、異常が認められた場合には補液等の適切な処置を行うこと。",
+  "observation_points": [
+    "重度の下痢（0.7%）",
+    "脱水症状まで至ることがあるため、異常が認められた場合には補液等の適切な処置を行うこと",
+    "本剤の血中濃度が上昇し、副作用が発現するおそれがある",
+    "本剤の血中濃度が低下し、効果が減弱するおそれがある",
+    "また、血液脳関門への影響により、本剤の脳内濃度が上昇するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A阻害剤\nイトラコナゾール、フルコナゾール等\n,",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、副作用が発現するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4を介する本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A誘導剤\nリファンピシン等",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4を介する本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "P-糖蛋白阻害剤\nシクロスポリン等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、副作用が発現するおそれがある。また、血液脳関門への影響により、本剤の脳内濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "P-糖蛋白を介する本剤の輸送が阻害される。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,57 @@
+{
+  "id": 3763,
+  "brand_name": "カルシトリオールカプセル0.25μg「サワイ」",
+  "generic_name": "カルシトリオール",
+  "therapeutic_classification": "活性型ビタミンD\n3\n製剤",
+  "indications": "骨粗鬆症\n下記疾患におけるビタミンD代謝異常に伴う諸症状（低カルシウム血症、しびれ、テタニー、知覚異常、筋力低下、骨痛、骨病変等）の改善\n慢性腎不全\n副甲状腺機能低下症クル病・骨軟化症",
+  "dose_admin": "〈効能共通〉\n本剤は患者の血清カルシウム濃度の十分な管理のもとに投与量を調節する。\n〈骨粗鬆症〉\n通常、成人にはカルシトリオールとして1日0.5μgを2回に分けて経口投与する。ただし、年齢、症状により適宜増減する。\n〈慢性腎不全〉\n通常、成人1日1回カルシトリオールとして0.25～0.75μgを経口投与する。ただし、年齢、症状により適宜増減する。\n〈副甲状腺機能低下症、その他のビタミンD代謝異常に伴う疾患〉\n通常、成人1日1回カルシトリオールとして0.5～2.0μgを経口投与する。ただし、疾患、年齢、症状、病型により適宜増減する。",
+  "contraindications": "高カルシウム血症又はビタミンD中毒症状を伴う患者［血清カルシウム値を更に上昇させる。］\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "高カルシウム血症があらわれるおそれがある",
+    "高マグネシウム血症があらわれるおそれがある",
+    "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある",
+    "高カルシウム血症に伴う不整脈があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD及びその誘導体\nアルファカルシドール　等\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "作用が相互に増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PTH製剤\nテリパラチド　等\nPTHrP製剤\nアバロパラチド酢酸塩\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム製剤\n乳酸カルシウム水和物炭酸カルシウム　等\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤は腸管でのカルシウムの吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等",
+      "clinical_symptom_action": "高マグネシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "他のビタミンD誘導体と同様に腸管でのマグネシウムの吸収を促進させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム\n炭酸マグネシウム　等",
+      "clinical_symptom_action": "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある。",
+      "mechanism_risk_factor": "血中マグネシウムの増加により代謝性アルカローシスが持続するため、尿細管でのカルシウム再吸収が増加する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス\n,",
+      "clinical_symptom_action": "高カルシウム血症に伴う不整脈があらわれるおそれがある。",
+      "mechanism_risk_factor": "血清カルシウムの濃度が上昇すると、ジギタリスの作用が増強される。"
+    }
+  ],
+  "facility_notes": ""
+}

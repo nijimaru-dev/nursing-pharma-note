@@ -1,0 +1,560 @@
+[
+  {
+    "other_id": 157,
+    "other_brand": "アシクロビルシロップ8%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 158,
+    "other_brand": "アシクロビル内服ゼリー200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 159,
+    "other_brand": "アシクロビル内服ゼリー800mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 160,
+    "other_brand": "アシクロビル点滴静注液250mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 161,
+    "other_brand": "アシクロビル点滴静注液250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 162,
+    "other_brand": "アシクロビル点滴静注液250mgバッグ100mL「アイロム」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 163,
+    "other_brand": "アシクロビル点滴静注用250mg「アイロム」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 164,
+    "other_brand": "アシクロビル点滴静注用250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 165,
+    "other_brand": "アシクロビル点滴静注用250mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 170,
+    "other_brand": "アシクロビル錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 171,
+    "other_brand": "アシクロビル錠200mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 174,
+    "other_brand": "アシクロビル顆粒40％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 175,
+    "other_brand": "アシクロビル顆粒40％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 176,
+    "other_brand": "アシクロビル顆粒40%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 177,
+    "other_brand": "アシクロビルDS80％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 178,
+    "other_brand": "アシクロビルDS80%「NK」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 4294,
+    "other_brand": "クエストラン粉末44.4%",
+    "interaction_type": "caution",
+    "source_text": "抗リウマチ剤\nメトトレキサート\nサラゾスルファピリジン\n非ステロイド性抗炎症剤\nピロキシカム\nテノキシカム\nメロキシカム\nジクロフェナク\nイブプロフェン\nフェニルブタゾン\nナプロキセン\nフルフェナム酸アルミニウム\n副腎皮質ホルモン剤\nヒドロコルチゾン\n免疫抑制剤\nミコフェノール酸　モフェチル\nチアジド系降圧利尿剤\nクロルタリドン\nメチクラン\nメフルシド\nテトラサイクリン\nフェノバルビタール\nバンコマイシン塩酸塩\n甲状腺ホルモン製剤\nジギタリス強心配糖体\nラロキシフェン塩酸塩\nフィブラート系薬剤\nベザフィブラート\nフェノフィブラート"
+  },
+  {
+    "other_id": 16120,
+    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン（乾燥弱毒生麻しんワクチン、乾燥弱毒生風しんワクチン、経口生ポリオワクチン　等）"
+  },
+  {
+    "other_id": 16121,
+    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン（乾燥弱毒生麻しんワクチン、乾燥弱毒生風しんワクチン、経口生ポリオワクチン　等）"
+  },
+  {
+    "other_id": 4515,
+    "other_brand": "クレセンバカプセル40mg",
+    "interaction_type": "caution",
+    "source_text": "イサブコナゾニウム硫酸塩"
+  },
+  {
+    "other_id": 4517,
+    "other_brand": "クレセンバ点滴静注用200mg",
+    "interaction_type": "caution",
+    "source_text": "イサブコナゾニウム硫酸塩"
+  },
+  {
+    "other_id": 152,
+    "other_brand": "アザニン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリンミゾリビン"
+  },
+  {
+    "other_id": 1785,
+    "other_brand": "イムラン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリンミゾリビン"
+  },
+  {
+    "other_id": 11660,
+    "other_brand": "ブレディニン錠25",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリンミゾリビン"
+  },
+  {
+    "other_id": 11662,
+    "other_brand": "ブレディニンOD錠25",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリンミゾリビン"
+  },
+  {
+    "other_id": 13339,
+    "other_brand": "ミゾリビン錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリンミゾリビン"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5264,
+    "other_brand": "コレバイン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "腸肝循環に影響を与える薬剤コレスチラミンコレスチミド"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 14574,
+    "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 14578,
+    "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 14579,
+    "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 14583,
+    "other_brand": "ランソプラゾールOD錠15mg「DK」",
+    "interaction_type": "caution",
+    "source_text": "ランソプラゾール"
+  },
+  {
+    "other_id": 5631,
+    "other_brand": "シプロキサン注200mg",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンアモキシシリン・クラブラン酸（合剤）"
+  },
+  {
+    "other_id": 5637,
+    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンアモキシシリン・クラブラン酸（合剤）"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン"
+  },
+  {
+    "other_id": 156,
+    "other_brand": "アシクロビル軟膏5%「ラクール」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビルガンシクロビルバルガンシクロビル"
+  },
+  {
+    "other_id": 4158,
+    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビルガンシクロビルバルガンシクロビル"
+  },
+  {
+    "other_id": 6984,
+    "other_brand": "ゾビラックスクリーム5%",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビルガンシクロビルバルガンシクロビル"
+  },
+  {
+    "other_id": 6985,
+    "other_brand": "ゾビラックス点滴静注用250",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビルガンシクロビルバルガンシクロビル"
+  },
+  {
+    "other_id": 6988,
+    "other_brand": "ゾビラックス軟膏5%",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビルガンシクロビルバルガンシクロビル"
+  },
+  {
+    "other_id": 6989,
+    "other_brand": "ゾビラックス錠200",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビルガンシクロビルバルガンシクロビル"
+  },
+  {
+    "other_id": 6991,
+    "other_brand": "ゾビラックス顆粒40%",
+    "interaction_type": "caution",
+    "source_text": "アシクロビルバラシクロビルガンシクロビルバルガンシクロビル"
+  },
+  {
+    "other_id": 1,
+    "other_brand": "「ビケンHA」",
+    "interaction_type": "caution",
+    "source_text": "不活化ワクチン\nインフルエンザHAワクチン等"
+  },
+  {
+    "other_id": 1935,
+    "other_brand": "インフルエンザHAワクチン「生研」",
+    "interaction_type": "caution",
+    "source_text": "不活化ワクチン\nインフルエンザHAワクチン等"
+  },
+  {
+    "other_id": 1938,
+    "other_brand": "インフルエンザHAワクチン「KMB」",
+    "interaction_type": "caution",
+    "source_text": "不活化ワクチン\nインフルエンザHAワクチン等"
+  },
+  {
+    "other_id": 11522,
+    "other_brand": "フルービックHA",
+    "interaction_type": "caution",
+    "source_text": "不活化ワクチン\nインフルエンザHAワクチン等"
+  },
+  {
+    "other_id": 11523,
+    "other_brand": "フルービックHAシリンジ",
+    "interaction_type": "caution",
+    "source_text": "不活化ワクチン\nインフルエンザHAワクチン等"
+  },
+  {
+    "other_id": 9939,
+    "other_brand": "バラシクロビル粒状錠500mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9940,
+    "other_brand": "バラシクロビル錠500mg「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9941,
+    "other_brand": "バラシクロビル錠500mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9944,
+    "other_brand": "バラシクロビル錠500mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9945,
+    "other_brand": "バラシクロビル錠500mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9946,
+    "other_brand": "バラシクロビル錠500mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9947,
+    "other_brand": "バラシクロビル錠500mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9948,
+    "other_brand": "バラシクロビル錠500mg「日本臓器」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9949,
+    "other_brand": "バラシクロビル錠500mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9950,
+    "other_brand": "バラシクロビル錠500mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9951,
+    "other_brand": "バラシクロビル錠500mg「EE」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9952,
+    "other_brand": "バラシクロビル錠500mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9953,
+    "other_brand": "バラシクロビル錠500mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9954,
+    "other_brand": "バラシクロビル錠500mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9955,
+    "other_brand": "バラシクロビル錠500mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9956,
+    "other_brand": "バラシクロビル錠500mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9957,
+    "other_brand": "バラシクロビル錠500mg「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9958,
+    "other_brand": "バラシクロビル錠500mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9959,
+    "other_brand": "バラシクロビル錠500mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9960,
+    "other_brand": "バラシクロビル顆粒50%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 9961,
+    "other_brand": "バラシクロビル顆粒50%「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 10059,
+    "other_brand": "バルトレックス錠500",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 10060,
+    "other_brand": "バルトレックス顆粒50%",
+    "interaction_type": "caution",
+    "source_text": "ミコフェノール酸　モフェチル"
+  },
+  {
+    "other_id": 17280,
+    "other_brand": "酸化マグネシウム「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17282,
+    "other_brand": "酸化マグネシウム「JG」",
+    "interaction_type": "caution",
+    "source_text": "セフジニルセフポドキシム　プロキセチルミコフェノール酸　モフェチルペニシラミン"
+  },
+  {
+    "other_id": 17283,
+    "other_brand": "酸化マグネシウム「NP」原末",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17285,
+    "other_brand": "酸化マグネシウム原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17286,
+    "other_brand": "酸化マグネシウム細粒83%〈ハチ〉",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17287,
+    "other_brand": "酸化マグネシウム細粒83％「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17288,
+    "other_brand": "酸化マグネシウム細粒83％「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17289,
+    "other_brand": "酸化マグネシウム錠200mg「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17293,
+    "other_brand": "酸化マグネシウム錠250mg「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17316,
+    "other_brand": "重カマ「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17322,
+    "other_brand": "重質酸化マグネシウム　シオエ",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17323,
+    "other_brand": "重質酸化マグネシウム「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17324,
+    "other_brand": "重質酸化マグネシウム「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  },
+  {
+    "other_id": 17327,
+    "other_brand": "重質酸化マグネシウム「東海」",
+    "interaction_type": "caution",
+    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸　モフェチル\nペニシラミン"
+  }
+]

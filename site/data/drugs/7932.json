@@ -1,0 +1,46 @@
+{
+  "id": 7932,
+  "brand_name": "ツロブテロール塩酸塩DS小児用0.1％「タカタ」",
+  "generic_name": "ツロブテロール塩酸塩",
+  "therapeutic_classification": "閉塞性気道疾患用剤",
+  "indications": "下記疾患の気道閉塞性障害にもとづく呼吸困難など諸症状の緩解。\n気管支喘息、急性気管支炎、慢性気管支炎、喘息性気管支炎、肺気腫、珪肺症、塵肺症",
+  "dose_admin": "通常、小児に対し、ドライシロップとして1日40mg/kg（ツロブテロール塩酸塩として0.04mg/kg）を2回に分け、用時溶解して経口投与する。ただし、年齢、症状により適宜増減する。なお、標準投与量は、通常、下記の用量を1日2回に分け、用時溶解して経口投与する。\n年　　齢\nドライシロップとして1日量（ツロブテロール塩酸塩として1日量）\n0.5～3歳未満3～9歳未満9～15歳\n0.25～0.5g（0.25～0.5mg）0.5～1g（0.5～1mg）1～2g（1～2mg）",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "重篤な血清カリウム値の低下（頻度不明）\nキサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること。\n,",
+  "observation_points": [
+    "重篤な血清カリウム値の低下（頻度不明）",
+    "キサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること",
+    ",",
+    "不整脈、場合によっては心停止を起こすおそれがある",
+    "低カリウム血症による不整脈を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カテコールアミン製剤\nエピネフリンイソプロテレノール等",
+      "clinical_symptom_action": "不整脈、場合によっては心停止を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤及びカテコールアミン製剤はともに交感神経刺激作用を持つ。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キサンチン誘導体\nテオフィリンアミノフィリンジプロフィリン等\n,\n,",
+      "clinical_symptom_action": "低カリウム血症による不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤及びキサンチン誘導体はともに細胞内へのカリウム移行作用を持つ。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ステロイド剤\nプレドニゾロンベタメタゾンヒドロコルチゾン等\n,\n,",
+      "clinical_symptom_action": "低カリウム血症による不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "ステロイド剤及び利尿剤は尿中へのカリウム排泄を増加させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤\nトリクロルメチアジドフロセミドアセタゾラミド等\n,\n,",
+      "clinical_symptom_action": "低カリウム血症による不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "ステロイド剤及び利尿剤は尿中へのカリウム排泄を増加させる。"
+    }
+  ],
+  "facility_notes": ""
+}

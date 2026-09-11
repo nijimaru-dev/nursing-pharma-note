@@ -1,0 +1,818 @@
+[
+  {
+    "other_id": 253,
+    "other_brand": "アジレクト錠1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "三環系抗うつ薬\nアミトリプチリン塩酸塩\nトリプタノール\nアモキサピン\nアモキサン\nイミプラミン塩酸塩\nトフラニール\nクロミプラミン塩酸塩\nアナフラニール\nドスレピン塩酸塩\nプロチアデン\nトリミプラミンマレイン酸塩\nスルモンチール\nノルトリプチリン塩酸塩\nノリトレン\nロフェプラミン塩酸塩\nアンプリット"
+  },
+  {
+    "other_id": 2269,
+    "other_brand": "エクフィナ錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 6661,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 11579,
+    "other_brand": "ブチルスコポラミン臭化物注射液20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作動薬\nブチルスコポラミン臭化物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "コリン作動薬\nピロカルピン塩酸塩"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "コリン作動薬\nピロカルピン塩酸塩"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 9904,
+    "other_brand": "バクタ配合錠",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 6715,
+    "other_brand": "セレニカR顆粒40%",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10082,
+    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10083,
+    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10084,
+    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10086,
+    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10088,
+    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10089,
+    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10092,
+    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10094,
+    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10095,
+    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤等\nカルバマゼピン\nフェニトイン\nセイヨウオトギリソウ（St.John's Wort）含有食品"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤等\nカルバマゼピン\nフェニトイン\nセイヨウオトギリソウ（St.John's Wort）含有食品"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤等\nカルバマゼピン\nフェニトイン\nセイヨウオトギリソウ（St.John's Wort）含有食品"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤等\nカルバマゼピン\nフェニトイン\nセイヨウオトギリソウ（St.John's Wort）含有食品"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤等\nカルバマゼピン\nフェニトイン\nセイヨウオトギリソウ（St.John's Wort）含有食品"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤等\nカルバマゼピン\nフェニトイン\nセイヨウオトギリソウ（St.John's Wort）含有食品"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nリトナビル\nホスアンプレナビル"
+  },
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6阻害作用を有する薬剤\n選択的セロトニン再取り込み阻害剤\nフルボキサミン\nパロキセチン\n抗不整脈剤\nキニジン\nプロパフェノン\nフレカイニド\nシメチジン\nフェノチアジン系製剤"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6阻害作用を有する薬剤\n選択的セロトニン再取り込み阻害剤\nフルボキサミン\nパロキセチン\n抗不整脈剤\nキニジン\nプロパフェノン\nフレカイニド\nシメチジン\nフェノチアジン系製剤"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6阻害作用を有する薬剤\n選択的セロトニン再取り込み阻害剤\nフルボキサミン\nパロキセチン\n抗不整脈剤\nキニジン\nプロパフェノン\nフレカイニド\nシメチジン\nフェノチアジン系製剤"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6阻害作用を有する薬剤\n選択的セロトニン再取り込み阻害剤\nフルボキサミン\nパロキセチン\n抗不整脈剤\nキニジン\nプロパフェノン\nフレカイニド\nシメチジン\nフェノチアジン系製剤"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6阻害作用を有する薬剤\n選択的セロトニン再取り込み阻害剤\nフルボキサミン\nパロキセチン\n抗不整脈剤\nキニジン\nプロパフェノン\nフレカイニド\nシメチジン\nフェノチアジン系製剤"
+  },
+  {
+    "other_id": 2763,
+    "other_brand": "エフピーOD錠2.5",
+    "interaction_type": "contraindicated",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩\nトリプタノール\n®\nアモキサピン\nアモキサン\n®\nイミプラミン塩酸塩\nトフラニール\n®\nクロミプラミン塩酸塩\nアナフラニール\n®\nドスレピン塩酸塩\nプロチアデン\n®\nトリミプラミンマレイン酸塩\nスルモンチール\n®\nノルトリプチリン塩酸塩\nノリトレン\n®\nロフェプラミン塩酸塩\nアンプリット\n®\n,"
+  },
+  {
+    "other_id": 2795,
+    "other_brand": "エボザックカプセル30mg",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作用を有する薬剤\nフェノチアジン系抗精神病薬\nクロルプロマジン　等\n三環系抗うつ薬\nアミトリプチリン塩酸塩\nイミプラミン塩酸塩　等"
+  },
+  {
+    "other_id": 3550,
+    "other_brand": "オンジェンティス錠25mg",
+    "interaction_type": "caution",
+    "source_text": "三環系・四環系抗うつ薬、ノルアドレナリン再取込み阻害薬、ノルアドレナリン・セロトニン作動性抗うつ剤\nアミトリプチリン塩酸塩マプロチリン塩酸塩ベンラファキシン塩酸塩デュロキセチン塩酸塩ミルタザピン等"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物\nアミトリプチリン塩酸塩\nイミプラミン塩酸塩\nノルトリプチリン塩酸塩\nトラゾドン塩酸塩"
+  },
+  {
+    "other_id": 5341,
+    "other_brand": "サインバルタカプセル20mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 5379,
+    "other_brand": "サラジェン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作用を有する薬剤\nフェノチアジン系抗精神病薬\nクロルプロマジン 等\n三環系抗うつ薬\nアミトリプチリン塩酸塩\nイミプラミン塩酸塩 等"
+  },
+  {
+    "other_id": 5380,
+    "other_brand": "サラジェン顆粒0.5%",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作用を有する薬剤\nフェノチアジン系抗精神病薬\nクロルプロマジン 等\n三環系抗うつ薬\nアミトリプチリン塩酸塩\nイミプラミン塩酸塩 等"
+  },
+  {
+    "other_id": 5391,
+    "other_brand": "サリグレンカプセル30mg",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作用を有する薬剤\nフェノチアジン系抗精神病薬\nクロルプロマジン　等\n三環系抗うつ薬\nアミトリプチリン塩酸塩\nイミプラミン塩酸塩　等"
+  },
+  {
+    "other_id": 5503,
+    "other_brand": "ザズベイカプセル30mg",
+    "interaction_type": "caution",
+    "source_text": "ミルタザピン\n三環系・四環系抗うつ剤\nイミプラミン塩酸塩、アミトリプチリン塩酸塩　等"
+  },
+  {
+    "other_id": 5844,
+    "other_brand": "ジェイゾロフト錠25mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6619,
+    "other_brand": "セルトラリン錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6620,
+    "other_brand": "セルトラリン錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6622,
+    "other_brand": "セルトラリン錠25mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6623,
+    "other_brand": "セルトラリン錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6624,
+    "other_brand": "セルトラリン錠25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6625,
+    "other_brand": "セルトラリン錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6626,
+    "other_brand": "セルトラリン錠25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6627,
+    "other_brand": "セルトラリン錠25mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6628,
+    "other_brand": "セルトラリン錠25mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6618,
+    "other_brand": "セルトラリン錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6621,
+    "other_brand": "セルトラリン錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 6662,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
+    "interaction_type": "contraindicated",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩\nトリプタノール\n®\nアモキサピン\nアモキサン\n®\nイミプラミン塩酸塩\nトフラニール\n®\nクロミプラミン塩酸塩\nアナフラニール\n®\nドスレピン塩酸塩\nプロチアデン\n®\nトリミプラミンマレイン酸塩\nスルモンチール\n®\nノルトリプチリン塩酸塩\nノリトレン\n®\nロフェプラミン塩酸塩\nアンプリット\n®\n,"
+  },
+  {
+    "other_id": 6817,
+    "other_brand": "ソセゴン注射液15mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン神経系賦活作用を有する抗うつ剤\nアミトリプチリン塩酸塩等"
+  },
+  {
+    "other_id": 6818,
+    "other_brand": "ソセゴン注射液30mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン神経系賦活作用を有する抗うつ剤\nアミトリプチリン塩酸塩等"
+  },
+  {
+    "other_id": 6819,
+    "other_brand": "ソセゴン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン神経系賦活作用を有する抗うつ剤\nアミトリプチリン塩酸塩等"
+  },
+  {
+    "other_id": 7411,
+    "other_brand": "ダイフェン配合錠",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤等\nクロミプラミン塩酸塩、イミプラミン塩酸塩、アミトリプチリン塩酸塩等"
+  },
+  {
+    "other_id": 8311,
+    "other_brand": "デプロメール錠25",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 8365,
+    "other_brand": "デュロキセチンカプセル20mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8366,
+    "other_brand": "デュロキセチンカプセル20mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8368,
+    "other_brand": "デュロキセチンカプセル20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8369,
+    "other_brand": "デュロキセチンカプセル20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8370,
+    "other_brand": "デュロキセチンカプセル20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8371,
+    "other_brand": "デュロキセチンカプセル20mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8372,
+    "other_brand": "デュロキセチンカプセル20mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8373,
+    "other_brand": "デュロキセチンカプセル20mg「三笠」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8374,
+    "other_brand": "デュロキセチンカプセル20mg「日医工G」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8375,
+    "other_brand": "デュロキセチンカプセル20mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8377,
+    "other_brand": "デュロキセチンカプセル20mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8378,
+    "other_brand": "デュロキセチンカプセル20mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8379,
+    "other_brand": "デュロキセチンカプセル20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8380,
+    "other_brand": "デュロキセチンカプセル20mg「KMP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8381,
+    "other_brand": "デュロキセチンカプセル20mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8399,
+    "other_brand": "デュロキセチン錠20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8400,
+    "other_brand": "デュロキセチン錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8403,
+    "other_brand": "デュロキセチンOD錠20mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8376,
+    "other_brand": "デュロキセチンカプセル20mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 9907,
+    "other_brand": "バクトラミン注",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤 等\nクロミプラミン塩酸塩イミプラミン塩酸塩アミトリプチリン塩酸塩 等"
+  },
+  {
+    "other_id": 9908,
+    "other_brand": "バクトラミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤等\nクロミプラミン塩酸塩、イミプラミン塩酸塩、アミトリプチリン塩酸塩等"
+  },
+  {
+    "other_id": 10120,
+    "other_brand": "パキシル錠5mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10123,
+    "other_brand": "パキシルCR錠6.25mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10197,
+    "other_brand": "パロキセチン錠10mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10198,
+    "other_brand": "パロキセチン錠5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10199,
+    "other_brand": "パロキセチン錠5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10201,
+    "other_brand": "パロキセチン錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10202,
+    "other_brand": "パロキセチン錠5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10204,
+    "other_brand": "パロキセチン錠5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10205,
+    "other_brand": "パロキセチン錠5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10206,
+    "other_brand": "パロキセチン錠5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10207,
+    "other_brand": "パロキセチン錠5mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10208,
+    "other_brand": "パロキセチン錠5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10209,
+    "other_brand": "パロキセチン錠5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10210,
+    "other_brand": "パロキセチン錠5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10211,
+    "other_brand": "パロキセチン錠5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10212,
+    "other_brand": "パロキセチン錠5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10213,
+    "other_brand": "パロキセチン錠5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10214,
+    "other_brand": "パロキセチン錠5mg「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10215,
+    "other_brand": "パロキセチン錠5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10216,
+    "other_brand": "パロキセチン錠5mg「TSU」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10217,
+    "other_brand": "パロキセチン錠5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10218,
+    "other_brand": "パロキセチン錠5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10203,
+    "other_brand": "パロキセチン錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩ノルトリプチリン塩酸塩イミプラミン塩酸塩"
+  },
+  {
+    "other_id": 10457,
+    "other_brand": "ヒロポン",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩　等"
+  },
+  {
+    "other_id": 11483,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 11484,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 11485,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 11486,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 11487,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 11488,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 12316,
+    "other_brand": "ベタニス錠25mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩\nノルトリプチリン塩酸塩\nイミプラミン塩酸塩\n等"
+  },
+  {
+    "other_id": 13658,
+    "other_brand": "メチレンブルー静注50mg「第一三共」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩\nノルトリプチリン塩酸塩\nイミプラミン塩酸塩\nクロミプラミン塩酸塩等"
+  },
+  {
+    "other_id": 14524,
+    "other_brand": "ラボナ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nイミプラミン塩酸塩\nアミトリプチリン塩酸塩\nノルトリプチリン塩酸塩"
+  },
+  {
+    "other_id": 15094,
+    "other_brand": "ルボックス錠25",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピン\n三環系抗うつ剤\nイミプラミン塩酸塩アミトリプチリン塩酸塩クロミプラミン塩酸塩\nベンゾジアゼピン系薬剤\nアルプラゾラムブロマゼパムジアゼパム等\nオランザピンクロザピンロピニロール塩酸塩メキシレチン塩酸塩シルデナフィルクエン酸塩"
+  },
+  {
+    "other_id": 15170,
+    "other_brand": "レグパラ錠12.5mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ薬\nアミトリプチリン塩酸塩\nイミプラミン塩酸塩　等\nブチロフェノン系抗精神病薬\nハロペリドール　等\nフレカイニド酢酸塩\nビンブラスチン硫酸塩"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\n三環系抗うつ剤\nアミトリプチリン塩酸塩等"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\n三環系抗うつ剤\nアミトリプチリン塩酸塩等"
+  }
+]

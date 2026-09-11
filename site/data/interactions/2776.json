@@ -1,0 +1,410 @@
+[
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\nエプクルーサ配合錠"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\nエプクルーサ配合錠"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\nエプクルーサ配合錠"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）\n,"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン（テグレトール）フェニトイン（アレビアチン）フェノバルビタール（フェノバール）\n,"
+  },
+  {
+    "other_id": 17280,
+    "other_brand": "酸化マグネシウム「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17282,
+    "other_brand": "酸化マグネシウム「JG」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17283,
+    "other_brand": "酸化マグネシウム「NP」原末",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17285,
+    "other_brand": "酸化マグネシウム原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17290,
+    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17292,
+    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17316,
+    "other_brand": "重カマ「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17322,
+    "other_brand": "重質酸化マグネシウム　シオエ",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17324,
+    "other_brand": "重質酸化マグネシウム「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 17327,
+    "other_brand": "重質酸化マグネシウム「東海」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+  },
+  {
+    "other_id": 4084,
+    "other_brand": "ガスター散10%",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 4086,
+    "other_brand": "ガスター注射液10mg",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 4088,
+    "other_brand": "ガスター錠10mg",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 4090,
+    "other_brand": "ガスターD錠10mg",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10942,
+    "other_brand": "ファモチジン錠10「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10948,
+    "other_brand": "ファモチジン注射用10mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10956,
+    "other_brand": "ファモチジン錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10961,
+    "other_brand": "ファモチジン錠10mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10962,
+    "other_brand": "ファモチジン錠10mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10963,
+    "other_brand": "ファモチジン錠10mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10964,
+    "other_brand": "ファモチジン錠10mg「TBP」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10967,
+    "other_brand": "ファモチジン錠10mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10982,
+    "other_brand": "ファモチジン静注液10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10983,
+    "other_brand": "ファモチジン静注液10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10986,
+    "other_brand": "ファモチジン静注10mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10987,
+    "other_brand": "ファモチジン静注10mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10990,
+    "other_brand": "ファモチジンD錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10991,
+    "other_brand": "ファモチジンD錠10mg「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10995,
+    "other_brand": "ファモチジンOD錠10mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 10999,
+    "other_brand": "ファモチジンOD錠10mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 11002,
+    "other_brand": "ファモチジンOD錠10mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 11005,
+    "other_brand": "ファモチジンOD錠10mg「TBP」",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n受容体拮抗剤ファモチジン等"
+  },
+  {
+    "other_id": 3224,
+    "other_brand": "オメプラゾール錠10「SW」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤オメプラゾール等"
+  },
+  {
+    "other_id": 3225,
+    "other_brand": "オメプラゾール錠10mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤オメプラゾール等"
+  },
+  {
+    "other_id": 3226,
+    "other_brand": "オメプラゾール錠10mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤オメプラゾール等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤オメプラゾール等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤オメプラゾール等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤オメプラゾール等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤オメプラゾール等"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 13336,
+    "other_brand": "ミコブティンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 8021,
+    "other_brand": "テノゼット錠300mg",
+    "interaction_type": "caution",
+    "source_text": "テノホビル ジソプロキシルフマル酸塩を含有する製剤"
+  },
+  {
+    "other_id": 8763,
+    "other_brand": "トランコロンP配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・べルパタスビル（エプクルーサ配合錠）"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\n（エプクルーサ配合錠）"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\n（エプクルーサ配合錠）"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\n（エプクルーサ配合錠）"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\n（エプクルーサ配合錠）"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\nエプクルーサ配合錠"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ソホスブビル・ベルパタスビル\nエプクルーサ配合錠"
+  }
+]

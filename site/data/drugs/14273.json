@@ -1,0 +1,22 @@
+{
+  "id": 14273,
+  "brand_name": "ヨーグリ",
+  "generic_name": "日本薬局方　歯科用ヨード・グリセリン",
+  "therapeutic_classification": "口腔粘膜・根管消毒剤",
+  "indications": "口腔粘膜（歯肉）及び根管の消毒",
+  "dose_admin": "適量を綿球又は綿繊維につけ、局所に貼付する。",
+  "contraindications": "本剤又はヨウ素に対し過敏症の既往歴のある患者\n水銀剤を投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "水銀剤",
+      "clinical_symptom_action": "ヨウ化水銀が発生し、誤飲した場合には吐き気、嘔吐をもよおす可能性がある。",
+      "mechanism_risk_factor": "水銀剤との併用により毒性の強いヨウ化水銀が発生するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

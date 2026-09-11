@@ -1,0 +1,31 @@
+{
+  "id": 6810,
+  "brand_name": "ゼンタコートカプセル3mg",
+  "generic_name": "ブデソニド腸溶性顆粒充填カプセル",
+  "therapeutic_classification": "クローン病治療剤",
+  "indications": "軽症から中等症の活動期クローン病",
+  "dose_admin": "通常、成人にはブデソニドとして9mgを1日1回朝経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n有効な抗菌剤の存在しない感染症、深在性真菌症の患者［症状が増悪するおそれがある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤による副作用の発現リスクが高くなる可能性があるので、観察を十分に行い、慎重に投与すること",
+    "本剤の服用中は摂取しないよう注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4阻害剤イトラコナゾール等",
+      "clinical_symptom_action": "本剤による副作用の発現リスクが高くなる可能性があるので、観察を十分に行い、慎重に投与すること。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が阻害されることにより、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツ、グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の服用中は摂取しないよう注意すること。",
+      "mechanism_risk_factor": "小腸のCYP3A4による本剤の代謝が阻害されることにより、本剤の血中濃度が上昇する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

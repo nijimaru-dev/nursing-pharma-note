@@ -1,0 +1,500 @@
+[
+  {
+    "other_id": 105,
+    "other_brand": "アクチバシン注600万",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンオザグレルナトリウムチクロピジン塩酸塩クロピドグレル硫酸塩シロスタゾールジピリダモール等\n,\n,"
+  },
+  {
+    "other_id": 481,
+    "other_brand": "アデノシン負荷用静注60mgシリンジ「FRI」",
+    "interaction_type": "contraindicated",
+    "source_text": "ジピリダモール\nペルサンチン"
+  },
+  {
+    "other_id": 482,
+    "other_brand": "アデノスキャン注60mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ジピリダモール\nペルサンチン"
+  },
+  {
+    "other_id": 483,
+    "other_brand": "アデホス−Lコーワ注10mg",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 486,
+    "other_brand": "アデホスコーワ腸溶錠20",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 489,
+    "other_brand": "アデホスコーワ顆粒10％",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 693,
+    "other_brand": "アプニション静注15mg",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 794,
+    "other_brand": "アミノフィリン注250mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 795,
+    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 796,
+    "other_brand": "アミノフィリン静注液250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 797,
+    "other_brand": "アミノフィリン静注250mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 798,
+    "other_brand": "アミノフィリン静注250mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 1035,
+    "other_brand": "アリクストラ皮下注1.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nヘパリン低分子ヘパリンワルファリン等\n血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩等\n血栓溶解剤\nウロキナーゼt-PA製剤等"
+  },
+  {
+    "other_id": 1037,
+    "other_brand": "アリクストラ皮下注5mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nヘパリン低分子ヘパリンワルファリン等\n血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩等\n血栓溶解剤\nウロキナーゼt-PA製剤等"
+  },
+  {
+    "other_id": 1146,
+    "other_brand": "アルガトロバン注射液10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 1147,
+    "other_brand": "アルガトロバンHI注10mg/2mL「フソー」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 2228,
+    "other_brand": "ウロナーゼ冠動注用12万単位",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\nヘパリン\nワルファリンカリウム\nアルガトロバン水和物　等\n血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩　等\n血栓溶解剤\nt-PA製剤　等\n,"
+  },
+  {
+    "other_id": 2229,
+    "other_brand": "ウロナーゼ静注用6万単位",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\nヘパリン\nワルファリンカリウム\nアルガトロバン水和物　等\n血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩　等\n血栓溶解剤\nt-PA製剤　等\n,"
+  },
+  {
+    "other_id": 2823,
+    "other_brand": "エリキュース錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン\nクロピドグレル硫酸塩\nジピリダモール\nチクロピジン塩酸塩\nシロスタゾール\nオザグレルナトリウム等"
+  },
+  {
+    "other_id": 4477,
+    "other_brand": "クリアクター静注用40万",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、\nクロピドグレル硫酸塩、\nジピリダモール、\nチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 4510,
+    "other_brand": "クレキサン皮下注キット2000IU",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制剤\nチクロピジン塩酸塩\nジピリダモール　等"
+  },
+  {
+    "other_id": 4940,
+    "other_brand": "グルトパ注600万",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンオザグレルナトリウムチクロピジン塩酸塩クロピドグレル硫酸塩シロスタゾールジピリダモール等\n,\n,"
+  },
+  {
+    "other_id": 7956,
+    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系製剤\nテオフィリンアミノフィリン"
+  },
+  {
+    "other_id": 7960,
+    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系製剤\nテオフィリンアミノフィリン"
+  },
+  {
+    "other_id": 7961,
+    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系製剤\nテオフィリンアミノフィリン"
+  },
+  {
+    "other_id": 7962,
+    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系製剤\nテオフィリンアミノフィリン"
+  },
+  {
+    "other_id": 7965,
+    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系製剤\nテオフィリンアミノフィリン"
+  },
+  {
+    "other_id": 7966,
+    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系製剤\nテオフィリンアミノフィリン"
+  },
+  {
+    "other_id": 7971,
+    "other_brand": "テオロング錠50mg",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系製剤\nテオフィリンアミノフィリン"
+  },
+  {
+    "other_id": 481,
+    "other_brand": "アデノシン負荷用静注60mgシリンジ「FRI」",
+    "interaction_type": "caution",
+    "source_text": "アデノシン三リン酸二ナトリウム"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nダビガトランエテキシラート、ヘパリン等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nダビガトランエテキシラート、ヘパリン等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nダビガトランエテキシラート、ヘパリン等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nダビガトランエテキシラート、ヘパリン等"
+  },
+  {
+    "other_id": 6376,
+    "other_brand": "スロンノンHI注10mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 7459,
+    "other_brand": "ダルテパリンNa静注2500単位/10mLシリンジ「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモール等"
+  },
+  {
+    "other_id": 7463,
+    "other_brand": "ダルテパリンNa静注5000単位/5mL「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモール等"
+  },
+  {
+    "other_id": 7464,
+    "other_brand": "ダルテパリンNa静注5000単位/5mL「日新」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモール等"
+  },
+  {
+    "other_id": 7465,
+    "other_brand": "ダルテパリンNa静注5000単位/5mL「AFP」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモール等"
+  },
+  {
+    "other_id": 7952,
+    "other_brand": "テオドール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 7954,
+    "other_brand": "テオドール顆粒20%",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 7957,
+    "other_brand": "テオフィリン徐放カプセル100mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 7959,
+    "other_brand": "テオフィリン徐放カプセル50mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 7967,
+    "other_brand": "テオフィリン徐放DS小児用20%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 7968,
+    "other_brand": "テオフィリン徐放U錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 9628,
+    "other_brand": "ネオフィリン原末",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 9629,
+    "other_brand": "ネオフィリン注点滴用バッグ250mg",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 9630,
+    "other_brand": "ネオフィリン注250mg",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 9632,
+    "other_brand": "ネオフィリン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 9705,
+    "other_brand": "ノバスタンHI注10mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 10183,
+    "other_brand": "パルナパリンNa透析用100単位/mLシリンジ20mL「フソー」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nジピリダモール\nチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 11336,
+    "other_brand": "フラグミン静注5000単位/5mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモール等"
+  },
+  {
+    "other_id": 11750,
+    "other_brand": "プラザキサカプセル75mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、ジピリダモール、チクロピジン塩酸塩、クロピドグレル硫酸塩等"
+  },
+  {
+    "other_id": 12133,
+    "other_brand": "ヘパフィルド透析用150単位/mLシリンジ20mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12136,
+    "other_brand": "ヘパフラッシュ10単位/mLシリンジ5mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12140,
+    "other_brand": "ヘパリンカルシウム注1万単位/10mL「YD」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12142,
+    "other_brand": "ヘパリンカルシウム皮下注5千単位/0.2mLシリンジ「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩　等"
+  },
+  {
+    "other_id": 12143,
+    "other_brand": "ヘパリンナトリウム注1万単位/10mL「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩　等"
+  },
+  {
+    "other_id": 12144,
+    "other_brand": "ヘパリンナトリウム注5千単位/5mL「YD」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12149,
+    "other_brand": "ヘパリンナトリウム注N1万単位/10mL「YD」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12182,
+    "other_brand": "ヘパリンCa注射液2万単位/20mL「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12185,
+    "other_brand": "ヘパリンCa皮下注1万単位/0.4mL「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12186,
+    "other_brand": "ヘパリンCa皮下注2万単位/0.8mL「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12187,
+    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ「オーツカ」5mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12189,
+    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ5mL「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12190,
+    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ5mL「NIG」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12199,
+    "other_brand": "ヘパリンNa注5千単位/5mL「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩　等"
+  },
+  {
+    "other_id": 12201,
+    "other_brand": "ヘパリンNa透析用カテーテルロック用1,000単位/mLシリンジ5mL「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12202,
+    "other_brand": "ヘパリンNa透析用150単位/mL「フソー」20mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12208,
+    "other_brand": "ヘパリンNa透析用250単位/mL「フソー」20mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 12209,
+    "other_brand": "ヘパリンNa透析用250単位/mL「NS」20mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12204,
+    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「NIG」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12203,
+    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「フソー」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 12210,
+    "other_brand": "ヘパリンNa透析用250単位/mLシリンジ12mL「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリンジピリダモールチクロピジン塩酸塩\n等"
+  },
+  {
+    "other_id": 14201,
+    "other_brand": "ユニコン錠100",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 14623,
+    "other_brand": "リクシアナ錠15mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、ジピリダモール、チクロピジン塩酸塩、クロピドグレル硫酸塩等\n,"
+  },
+  {
+    "other_id": 14626,
+    "other_brand": "リクシアナOD錠15mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、ジピリダモール、チクロピジン塩酸塩、クロピドグレル硫酸塩等\n,"
+  },
+  {
+    "other_id": 14632,
+    "other_brand": "リコモジュリン点滴静注用12800",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、ジピリダモール、チクロピジン塩酸塩、非ステロイド系抗炎症剤等"
+  },
+  {
+    "other_id": 15952,
+    "other_brand": "ローヘパ透析用100単位/mLシリンジ20mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nジピリダモール\nチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 15955,
+    "other_brand": "ローヘパ透析用500単位/mLバイアル10mL",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nジピリダモール\nチクロピジン塩酸塩等"
+  },
+  {
+    "other_id": 17590,
+    "other_brand": "ATP注10mg「イセイ」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 17592,
+    "other_brand": "ATP注20mg「イセイ」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  },
+  {
+    "other_id": 17593,
+    "other_brand": "ATP腸溶錠20mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジピリダモール"
+  }
+]

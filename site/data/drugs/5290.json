@@ -1,0 +1,22 @@
+{
+  "id": 5290,
+  "brand_name": "コンバントリンドライシロップ100mg",
+  "generic_name": "ピランテルパモ酸塩ドライシロップ",
+  "therapeutic_classification": "広域駆虫剤",
+  "indications": "回虫、鉤虫、蟯虫、東洋毛様線虫の駆除",
+  "dose_admin": "通常小児に対し体重1kg当りピランテルとして10mgを1回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nピペラジン系駆虫薬（ピペラジンリン酸塩水和物）を投与中の患者",
+  "application_precautions": "薬剤投与時の注意\n本剤は、用時適量の水を加えシロップ剤として投与するが、そのまま経口投与することもできる。",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ピペラジン系駆虫薬\nピペラジンリン酸塩水和物",
+      "clinical_symptom_action": "両剤の駆虫作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "両剤の駆虫作用が拮抗したとの報告がある\n。"
+    }
+  ],
+  "facility_notes": ""
+}

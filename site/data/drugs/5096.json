@@ -1,0 +1,295 @@
+{
+  "id": 5096,
+  "brand_name": "ゲンボイヤ配合錠",
+  "generic_name": "エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩配合錠",
+  "therapeutic_classification": "抗ウイルス化学療法剤",
+  "indications": "HIV-1感染症",
+  "dose_admin": "通常，成人及び体重25kg以上の小児には，1回1錠（エルビテグラビルとして150mg，コビシスタットとして150mg，エムトリシタビンとして200mg及びテノホビル アラフェナミドとして10mgを含有）を1日1回食後に経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n次の薬剤を投与中の患者：カルバマゼピン，フェノバルビタール，フェニトイン，ホスフェニトイン，リファンピシン，アパルタミド，セイヨウオトギリソウ（St. John’s Wort：セント・ジョーンズ・ワート）含有食品，エンザルタミド，エンコラフェニブ，イボシデニブ，ミトタン，ジヒドロエルゴタミンメシル酸塩，エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン，エルゴメトリンマレイン酸塩，メチルエルゴメトリンマレイン酸塩，アスナプレビル，シンバスタチン，ピモジド，シルデナフィルクエン酸塩（レバチオ），バルデナフィル塩酸塩水和物，タダラフィル（アドシルカ），ブロナンセリン，アゼルニジピン，リバーロキサバン，トリアゾラム，ミダゾラム，ロミタピドメシル酸塩，エプレレノン，テラプレビル\n腎機能又は肝機能障害がありコルヒチンを投与中の患者\n,\n,",
+  "application_precautions": "薬剤調製時の注意\n粉砕時の安定性データは得られていないため，本剤を粉砕して使用しないこと。",
+  "serious_adverse_events": "腎不全又は重度の腎機能障害（1%未満）\n腎機能不全，腎不全，急性腎障害，近位腎尿細管機能障害，ファンコニー症候群，急性腎尿細管壊死，腎性尿崩症又は腎炎等の重度の腎機能障害が現れることがあるので，臨床検査値に異常が認められた場合には，投与を中止する等，適切な処置を行うこと。特に腎機能障害の既往がある患者や腎毒性のある薬剤が投与されている患者では注意すること。\n,\n,\n,\n,\n,\n乳酸アシドーシス及び脂肪沈着による重度の肝腫大（脂肪肝）（頻度不明）\n乳酸アシドーシス又は肝細胞毒性が疑われる臨床症状又は検査値異常（アミノトランスフェラーゼの急激な上昇等）が認められた場合には，本剤の投与を一時中止すること。特に肝疾患の危険因子を有する患者においては注意すること。エムトリシタビン又はテノホビルを含む核酸系逆転写酵素阻害薬の単独投与又はこれらの併用療法により，重篤な乳酸アシドーシス及び脂肪沈着による重度の肝腫大（脂肪肝）が，女性に多く報告されている。",
+  "observation_points": [
+    "腎不全又は重度の腎機能障害（1%未満）",
+    "腎機能不全，腎不全，急性腎障害，近位腎尿細管機能障害，ファンコニー症候群，急性腎尿細管壊死，腎性尿崩症又は腎炎等の重度の腎機能障害が現れることがあるので，臨床検査値に異常が認められた場合には，投与を中止する等，適切な処置を行うこと",
+    "特に腎機能障害の既往がある患者や腎毒性のある薬剤が投与されている患者では注意すること",
+    ",",
+    "乳酸アシドーシス及び脂肪沈着による重度の肝腫大（脂肪肝）（頻度不明）",
+    "乳酸アシドーシス又は肝細胞毒性が疑われる臨床症状又は検査値異常（アミノトランスフェラーゼの急激な上昇等）が認められた場合には，本剤の投与を一時中止すること",
+    "特に肝疾患の危険因子を有する患者においては注意すること",
+    "エムトリシタビン又はテノホビルを含む核酸系逆転写酵素阻害薬の単独投与又はこれらの併用療法により，重篤な乳酸アシドーシス及び脂肪沈着による重度の肝腫大（脂肪肝）が，女性に多く報告されている",
+    "これら薬剤の血中濃度が上昇する可能性がある",
+    "本剤と併用する場合は，これら薬剤の血中濃度をモニタリングすることが望ましい",
+    "本剤と併用する場合は，患者の状態を注意して観察することが望ましい",
+    "本剤と併用時にこれら薬剤を増量する場合は慎重に行い，患者の状態を注意して観察することが望ましい",
+    "コルヒチンの血中濃度が上昇する可能性がある",
+    "アトルバスタチンの血中濃度が上昇する可能性がある",
+    "アトルバスタチンカルシウム水和物と併用する場合は，最少量から投与し，安全性を観察しながら増量すること",
+    "サルメテロールの血中濃度が上昇し，QT延長，動悸及び洞性頻脈等の心血管系有害事象の発現リスクが上昇する可能性がある",
+    "これら薬剤の血中濃度が上昇し，低血圧，失神，視覚障害及び持続勃起等の有害事象が増加する可能性がある",
+    "本剤と併用する場合は，これら薬剤の減量を考慮すること",
+    "また，患者の状態を注意して観察することが望ましい",
+    "ボセンタン水和物の血中濃度が上昇する可能性がある",
+    "本剤と併用する場合は，ボセンタン水和物の減量を考慮すること",
+    "フルチカゾンの血中濃度が上昇し，内因性の血清コルチゾール濃度が低下する可能性がある",
+    "特に長期間併用する場合は，他剤への変更を考慮すること",
+    "エルビテグラビル及びコビシスタットの血中濃度が著しく低下する可能性がある",
+    "クラリスロマイシン及びコビシスタットの血中濃度が上昇する可能性がある",
+    "エルビテグラビル，コビシスタット及びこれら薬剤の血中濃度が上昇する可能性がある",
+    "これら薬剤と併用する場合は，患者の状態を注意して観察し，減量等の措置を考慮すること",
+    "リスペリドンの血中濃度が上昇する可能性がある",
+    "本剤と併用する場合は，リスペリドンの減量を考慮すること",
+    "エルビテグラビルの血中濃度が低下する可能性があるため，2時間以上間隔をあけて投与することが望ましい",
+    "ジゴキシンの血中濃度が上昇する可能性がある",
+    "本剤と併用する場合は，血中濃度のモニタリングを行うことが望ましい",
+    "エルビテグラビル及びコビシスタットの血中濃度が著しく低下し，テノホビル アラフェナミドの血中濃度が低下する可能性がある",
+    "また，リファブチンの活性代謝物である25-脱アセチル体の血中濃度が上昇する可能性がある",
+    "これら薬剤，テノホビル又はエムトリシタビンの血中濃度が上昇し，これら薬剤又は本剤による有害事象を増強する可能性がある",
+    "エチニルエストラジオールの血中濃度が低下する可能性がある",
+    "ワルファリンの血中濃度が変動する可能性があるためINRのモニタリングを行うことが望ましい",
+    "併用は避けることが望ましい"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カルバマゼピン（テグレトール）\nフェノバルビタール（フェノバール）\nフェニトイン（アレビアチン）\nホスフェニトイン（ホストイン）\nリファンピシン（リファジン）\nアパルタミド（アーリーダ）\nセイヨウオトギリソウ（St. John’s Wort：セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "エルビテグラビル及びコビシスタットの血中濃度が著しく低下する可能性がある。また，テノホビル アラフェナミドの血中濃度が低下する可能性がある。",
+      "mechanism_risk_factor": "これら薬剤のCYP3A及びP-gpの誘導作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エンザルタミド（イクスタンジ）\nエンコラフェニブ（ビラフトビ）\nイボシデニブ（ティブソボ）\nミトタン（オペプリム）",
+      "clinical_symptom_action": "エルビテグラビル及びコビシスタットの血中濃度が著しく低下する可能性がある。",
+      "mechanism_risk_factor": "これら薬剤のCYP3A誘導作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ジヒドロエルゴタミンメシル酸塩\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴメトリンマレイン酸塩\nメチルエルゴメトリンマレイン酸塩（メテルギン）",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇し，重篤な又は生命に危険を及ぼすような事象（末梢血管攣縮，四肢及びその他組織の虚血等）が起こる可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アスナプレビル（スンベプラ）",
+      "clinical_symptom_action": "アスナプレビルの血中濃度が上昇し，肝臓に関連した有害事象が発現し，また，重症化する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シンバスタチン（リポバス）",
+      "clinical_symptom_action": "シンバスタチンの血中濃度が上昇し，重篤な有害事象（横紋筋融解症を含むミオパチー等）が起こる可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ピモジド（オーラップ）",
+      "clinical_symptom_action": "ピモジドの血中濃度が上昇し，重篤な又は生命に危険を及ぼすような事象（不整脈等）が起こる可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シルデナフィルクエン酸塩（レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（アドシルカ）",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇し，視覚障害，低血圧，持続勃起及び失神等の有害事象が起こる可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ブロナンセリン（ロナセン）\nアゼルニジピン（カルブロック）\nリバーロキサバン（イグザレルト）",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇し，重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トリアゾラム（ハルシオン）\nミダゾラム（ドルミカム）",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇し，重篤な又は生命に危険を及ぼすような事象（鎮静作用の延長や増強又は呼吸抑制等）が起こる可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ロミタピドメシル酸塩（ジャクスタピッド）",
+      "clinical_symptom_action": "ロミタピドの血中濃度が著しく上昇する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エプレレノン（セララ）",
+      "clinical_symptom_action": "エプレレノンの血中濃度が上昇し、血清カリウム値の上昇を誘発する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "テラプレビル（テラビック）",
+      "clinical_symptom_action": "テノホビル アラフェナミドの抗HIV-1活性が低下するため，本剤の効果が減弱する可能性がある。",
+      "mechanism_risk_factor": "テラプレビルのカテプシンA活性阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nジソピラミド\nリドカイン塩酸塩\nプロパフェノン塩酸塩\nキニジン硫酸塩水和物",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，これら薬剤の血中濃度をモニタリングすることが望ましい。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン\nタクロリムス水和物\nテムシロリムス",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，これら薬剤の血中濃度をモニタリングすることが望ましい。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロナゼパム\nエトスクシミド",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，患者の状態を注意して観察することが望ましい。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アムロジピンベシル酸塩\nジルチアゼム塩酸塩\nフェロジピン\nニカルジピン塩酸塩\nニフェジピン\nベラパミル塩酸塩",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，患者の状態を注意して観察することが望ましい。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "パロキセチン塩酸塩水和物\nアミトリプチリン塩酸塩\nイミプラミン塩酸塩\nノルトリプチリン塩酸塩\nトラゾドン塩酸塩",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用時にこれら薬剤を増量する場合は慎重に行い，患者の状態を注意して観察することが望ましい。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コルヒチン\n,\n,",
+      "clinical_symptom_action": "コルヒチンの血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アトルバスタチンカルシウム水和物",
+      "clinical_symptom_action": "アトルバスタチンの血中濃度が上昇する可能性がある。アトルバスタチンカルシウム水和物と併用する場合は，最少量から投与し，安全性を観察しながら増量すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サルメテロールキシナホ酸塩",
+      "clinical_symptom_action": "サルメテロールの血中濃度が上昇し，QT延長，動悸及び洞性頻脈等の心血管系有害事象の発現リスクが上昇する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シルデナフィルクエン酸塩（バイアグラ）\nタダラフィル（シアリス，ザルティア）",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇し，低血圧，失神，視覚障害及び持続勃起等の有害事象が増加する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロラゼプ酸二カリウム\nジアゼパム\nエスタゾラム\nフルラゼパム塩酸塩\nゾルピデム酒石酸塩",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，これら薬剤の減量を考慮すること。また，患者の状態を注意して観察することが望ましい。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボセンタン水和物",
+      "clinical_symptom_action": "ボセンタン水和物の血中濃度が上昇する可能性がある。本剤と併用する場合は，ボセンタン水和物の減量を考慮すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダサチニブ水和物\nラパチニブトシル酸塩水和物\nエベロリムス\nブデソニド\nトルバプタン\nエレトリプタン臭化水素酸塩\nクエチアピンフマル酸塩",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルチカゾン",
+      "clinical_symptom_action": "フルチカゾンの血中濃度が上昇し，内因性の血清コルチゾール濃度が低下する可能性がある。特に長期間併用する場合は，他剤への変更を考慮すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デキサメタゾン",
+      "clinical_symptom_action": "エルビテグラビル及びコビシスタットの血中濃度が著しく低下する可能性がある。",
+      "mechanism_risk_factor": "デキサメタゾンのCYP3A誘導作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クラリスロマイシン",
+      "clinical_symptom_action": "クラリスロマイシン及びコビシスタットの血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "クラリスロマイシン及びコビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾール\nボリコナゾール",
+      "clinical_symptom_action": "エルビテグラビル，コビシスタット及びこれら薬剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "これら薬剤及びコビシスタットのCYP3A等阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フレカイニド酢酸塩\nメキシレチン塩酸塩",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，これら薬剤の血中濃度をモニタリングすることが望ましい。",
+      "mechanism_risk_factor": "コビシスタットのCYP2D6阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ペルフェナジン",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。これら薬剤と併用する場合は，患者の状態を注意して観察し，減量等の措置を考慮すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP2D6阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メトプロロール酒石酸塩\nチモロールマレイン酸塩",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。これら薬剤と併用する場合は，患者の状態を注意して観察し，減量等の措置を考慮すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP2D6阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リスペリドン",
+      "clinical_symptom_action": "リスペリドンの血中濃度が上昇する可能性がある。本剤と併用する場合は，リスペリドンの減量を考慮すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A及びCYP2D6阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "酒石酸トルテロジン\nデキストロメトルファン臭化水素酸塩水和物",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A及びCYP2D6阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "多価陽イオン（Mg，Al，Ca，Fe，Zn等）含有経口製剤\nマグネシウム・アルミニウム含有制酸剤\nマグネシウム含有下剤\nスクラルファート水和物　等",
+      "clinical_symptom_action": "エルビテグラビルの血中濃度が低下する可能性があるため，2時間以上間隔をあけて投与することが望ましい。",
+      "mechanism_risk_factor": "エルビテグラビルが多価陽イオンと錯体（キレート）を形成し吸収が抑制されるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジゴキシンの血中濃度が上昇する可能性がある。本剤と併用する場合は，血中濃度のモニタリングを行うことが望ましい。",
+      "mechanism_risk_factor": "コビシスタットが消化管においてP-gpを阻害するため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファブチン",
+      "clinical_symptom_action": "エルビテグラビル及びコビシスタットの血中濃度が著しく低下し，テノホビル アラフェナミドの血中濃度が低下する可能性がある。また，リファブチンの活性代謝物である25-脱アセチル体の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "リファブチンのCYP3A及びP-gp誘導作用，及びコビシスタットのCYP3A阻害作用によるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アシクロビル\nバラシクロビル塩酸塩\nガンシクロビル\nバルガンシクロビル塩酸塩",
+      "clinical_symptom_action": "これら薬剤，テノホビル又はエムトリシタビンの血中濃度が上昇し，これら薬剤又は本剤による有害事象を増強する可能性がある。",
+      "mechanism_risk_factor": "尿細管への能動輸送により排泄される薬剤と併用する場合，排泄経路の競合により排泄が遅延するため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エチニルエストラジオール",
+      "clinical_symptom_action": "エチニルエストラジオールの血中濃度が低下する可能性がある。",
+      "mechanism_risk_factor": "機序不明。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリンカリウム",
+      "clinical_symptom_action": "ワルファリンの血中濃度が変動する可能性があるためINRのモニタリングを行うことが望ましい。",
+      "mechanism_risk_factor": "機序不明。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "腎毒性を有する薬剤\n,\n,\n,\n,\n,",
+      "clinical_symptom_action": "併用は避けることが望ましい。",
+      "mechanism_risk_factor": "腎毒性を有する薬剤は腎機能障害の危険因子となる。"
+    }
+  ],
+  "facility_notes": ""
+}

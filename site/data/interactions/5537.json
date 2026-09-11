@@ -1,0 +1,128 @@
+[
+  {
+    "other_id": 691,
+    "other_brand": "アブラキサン点滴静注用100mg",
+    "interaction_type": "caution",
+    "source_text": "ビタミンA、アゾール系抗真菌剤（ミコナゾール等）、マクロライド系抗生剤（エリスロマイシン等）、ステロイド系ホルモン剤（エチニルエストラジオール等）、ジヒドロピリジン系カルシウムチャンネルブロッカー（ニフェジピン等）、シクロスポリン、ベラパミル塩酸塩、キニジン硫酸塩水和物、ミダゾラム、ラパチニブトシル酸塩水和物"
+  },
+  {
+    "other_id": 809,
+    "other_brand": "アムノレイク錠2mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビタミンA製剤（チョコラA等）"
+  },
+  {
+    "other_id": 1594,
+    "other_brand": "イソトレックスカプセル8mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビタミンA製剤\n（チョコラA等）"
+  },
+  {
+    "other_id": 6829,
+    "other_brand": "ソホノスカプセル1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビタミンA製剤（チョコラA等）"
+  },
+  {
+    "other_id": 7107,
+    "other_brand": "タキソール注射液30mg",
+    "interaction_type": "caution",
+    "source_text": "ビタミンA、アゾール系抗真菌剤（ミコナゾール等）、マクロライド系抗生剤（エリスロマイシン等）、ステロイド系ホルモン剤（エチニルエストラジオール等）、ジヒドロピリジン系カルシウムチャンネルブロッカー（ニフェジピン等）、シクロスポリン、ベラパミル塩酸塩、キニジン硫酸塩水和物、ミダゾラム、フェナセチン、ラパチニブトシル酸塩水和物"
+  },
+  {
+    "other_id": 7309,
+    "other_brand": "タルグレチンカプセル75mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビタミンA製剤\nチョコラA等"
+  },
+  {
+    "other_id": 7532,
+    "other_brand": "チガソンカプセル10",
+    "interaction_type": "contraindicated",
+    "source_text": "ビタミンA製剤（チョコラA　等）"
+  },
+  {
+    "other_id": 10130,
+    "other_brand": "パクリタキセル注射液30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ビタミンA，アゾール系抗真菌剤（ミコナゾール等），マクロライド系抗生剤（エリスロマイシン等），ステロイド系ホルモン剤（エチニルエストラジオール等），ジヒドロピリジン系カルシウムチャンネルブロッカー（ニフェジピン等），シクロスポリン，ベラパミル塩酸塩，キニジン硫酸塩水和物，ミダゾラム，フェナセチン，ラパチニブトシル酸塩水和物"
+  },
+  {
+    "other_id": 10131,
+    "other_brand": "パクリタキセル注射液30mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ビタミンA、アゾール系抗真菌剤（ミコナゾール等）、マクロライド系抗生剤（エリスロマイシン等）、ステロイド系ホルモン剤（エチニルエストラジオール等）、ジヒドロピリジン系カルシウムチャンネルブロッカー（ニフェジピン等）、シクロスポリン、ベラパミル塩酸塩、キニジン硫酸塩水和物、ミダゾラム、フェナセチン、ラパチニブトシル酸塩水和物"
+  },
+  {
+    "other_id": 10135,
+    "other_brand": "パクリタキセル注30mg/5mL「NK」",
+    "interaction_type": "caution",
+    "source_text": "ビタミンA、アゾール系抗真菌剤（ミコナゾール等）、マクロライド系抗生剤（エリスロマイシン等）、ステロイド系ホルモン剤（エチニルエストラジオール等）、ジヒドロピリジン系カルシウムチャンネルブロッカー（ニフェジピン等）、シクロスポリン、ベラパミル塩酸塩、キニジン硫酸塩水和物、ミダゾラム、フェナセチン、ラパチニブトシル酸塩水和物"
+  },
+  {
+    "other_id": 10137,
+    "other_brand": "パクリタキセル点滴静注液30mg/5mL「ホスピーラ」",
+    "interaction_type": "caution",
+    "source_text": "ビタミンA、アゾール系抗真菌剤（ミコナゾール等）、マクロライド系抗生剤（エリスロマイシン等）、ステロイド系ホルモン剤（エチニルエストラジオール等）、ジヒドロピリジン系カルシウムチャンネルブロッカー（ニフェジピン等）、シクロスポリン、ベラパミル塩酸塩、キニジン硫酸塩水和物、ミダゾラム、フェナセチン、ラパチニブトシル酸塩水和物"
+  },
+  {
+    "other_id": 12269,
+    "other_brand": "ベサノイドカプセル10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ビタミンA製剤\n（チョコラA等）"
+  },
+  {
+    "other_id": 13419,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンA\nレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13420,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンA\nレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13421,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンA\nレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13422,
+    "other_brand": "ミノサイクリン塩酸塩錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンAレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13423,
+    "other_brand": "ミノサイクリン塩酸塩錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンAレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13426,
+    "other_brand": "ミノサイクリン塩酸塩顆粒2％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンAレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13443,
+    "other_brand": "ミノマイシンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンAレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13445,
+    "other_brand": "ミノマイシン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンAレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  },
+  {
+    "other_id": 13446,
+    "other_brand": "ミノマイシン顆粒2％",
+    "interaction_type": "caution",
+    "source_text": "外用剤を除くビタミンA製剤、レチノイド製剤\nビタミンAレチノールパルミチン酸エステルエトレチナートトレチノイン"
+  }
+]

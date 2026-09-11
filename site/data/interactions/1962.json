@@ -1,0 +1,152 @@
+[
+  {
+    "other_id": 1322,
+    "other_brand": "アロカリス点滴静注235mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nデキサメタゾン、ドセタキセル、シクロホスファミド、エトポシド、ピモジド、ミダゾラム、エリスロマイシン、経口避妊剤（エチニルエストラジオール・レボノルゲストレル）等\n,"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 4980,
+    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 4982,
+    "other_brand": "ケトコナゾールクリーム2％「MYK」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 4985,
+    "other_brand": "ケトコナゾールローション2％「MYK」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 9469,
+    "other_brand": "ニゾラールクリーム2%",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 9470,
+    "other_brand": "ニゾラールローション2％",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等\nイミダゾール系抗真菌剤\nケトコナゾール等\nトリアゾール系抗真菌剤\nイトラコナゾール等"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 10654,
+    "other_brand": "ビラミューン錠200",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンバルビツール酸系製剤\nフェノバルビタール等\nカルバマゼピン\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン、エファビレンツ\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "HIVプロテアーゼ阻害剤\nリトナビル等"
+  }
+]

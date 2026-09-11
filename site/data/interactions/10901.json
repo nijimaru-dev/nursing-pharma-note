@@ -1,0 +1,164 @@
+[
+  {
+    "other_id": 2836,
+    "other_brand": "エリル点滴静注液30mg",
+    "interaction_type": "caution",
+    "source_text": "ファスジル塩酸塩水和物"
+  },
+  {
+    "other_id": 10918,
+    "other_brand": "ファスジル塩酸塩点滴静注液30mg「KCC」",
+    "interaction_type": "caution",
+    "source_text": "ファスジル塩酸塩水和物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "ファスジル塩酸塩水和物"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "ファスジル塩酸塩水和物"
+  },
+  {
+    "other_id": 9424,
+    "other_brand": "ニカルジピン塩酸塩注射液2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血管拡張薬\nニカルジピン塩酸塩等"
+  },
+  {
+    "other_id": 9425,
+    "other_brand": "ニカルジピン塩酸塩注射液2mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "血管拡張薬\nニカルジピン塩酸塩等"
+  },
+  {
+    "other_id": 9430,
+    "other_brand": "ニカルジピン塩酸塩錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血管拡張薬\nニカルジピン塩酸塩等"
+  },
+  {
+    "other_id": 3069,
+    "other_brand": "オザグレルナトリウム点滴静注液40mg「JD」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3071,
+    "other_brand": "オザグレルNa注射液20mgシリンジ「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3074,
+    "other_brand": "オザグレルNa注射用20mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3077,
+    "other_brand": "オザグレルNa注80mgシリンジ「IP」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3078,
+    "other_brand": "オザグレルNa点滴静注液20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3084,
+    "other_brand": "オザグレルNa点滴静注20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3085,
+    "other_brand": "オザグレルNa点滴静注20mg「IP」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3093,
+    "other_brand": "オザグレルNa点滴静注80mgバッグ「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3094,
+    "other_brand": "オザグレルNa点滴静注80mgバッグ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3095,
+    "other_brand": "オザグレルNa点滴静注80mg/100mLバッグ「IP」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3097,
+    "other_brand": "オザグレルNa静注液20mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 3662,
+    "other_brand": "カタクロット注射液40mg",
+    "interaction_type": "caution",
+    "source_text": "オザグレルナトリウム"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン\n,"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3を阻害する薬剤\nシクロスポリンA、ロピナビル、リトナビル等"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3を阻害する薬剤\nシクロスポリンA、ロピナビル、リトナビル等"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3を阻害する薬剤\nシクロスポリンA、ロピナビル、リトナビル等"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3を阻害する薬剤\nシクロスポリンA、ロピナビル、リトナビル等"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3を阻害する薬剤\nシクロスポリンA、ロピナビル、リトナビル等"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3を阻害する薬剤\nシクロスポリンA、ロピナビル、リトナビル等"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3を阻害する薬剤\nシクロスポリンA、ロピナビル、リトナビル等"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "other_id": 691,
+    "other_brand": "アブラキサン点滴静注用100mg",
+    "interaction_type": "caution",
+    "source_text": "ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 2922,
+    "other_brand": "エンドキサン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アントラサイクリン系薬剤\nドキソルビシン塩酸塩、エピルビシン塩酸塩等"
+  },
+  {
+    "other_id": 4158,
+    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "骨髄抑制作用のある薬剤及び腎機能障害作用のある薬剤\nジアフェニルスルホン\nビンクリスチン硫酸塩\nビンブラスチン硫酸塩\nドキソルビシン塩酸塩\nヒドロキシカルバミド\nフルシトシン\nアムホテリシンB\nペンタミジンイセチオン酸塩\n核酸誘導体等"
+  },
+  {
+    "other_id": 5292,
+    "other_brand": "コンビビル配合錠",
+    "interaction_type": "caution",
+    "source_text": "ペンタミジンイセチオン酸塩、ピリメタミン（国内未発売）、スルファメトキサゾール・トリメトプリム、フルシトシン、ガンシクロビル、インターフェロン、ビンクリスチン硫酸塩、ビンブラスチン硫酸塩、ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 5434,
+    "other_brand": "サレドカプセル25",
+    "interaction_type": "caution",
+    "source_text": "ドキソルビシン塩酸塩\nデキサメタゾン\n経口避妊薬"
+  },
+  {
+    "other_id": 7107,
+    "other_brand": "タキソール注射液30mg",
+    "interaction_type": "caution",
+    "source_text": "ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 8288,
+    "other_brand": "デノシン点滴静注用500mg",
+    "interaction_type": "caution",
+    "source_text": "骨髄抑制作用のある薬剤及び腎機能障害作用のある薬剤\nジアフェニルスルホン\nビンクリスチン硫酸塩\nビンブラスチン硫酸塩\nドキソルビシン塩酸塩\nヒドロキシカルバミド\nフルシトシン\nアムホテリシンB\nペンタミジンイセチオン酸塩\n核酸誘導体等"
+  },
+  {
+    "other_id": 10130,
+    "other_brand": "パクリタキセル注射液30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "パクリタキセル"
+  },
+  {
+    "other_id": 10135,
+    "other_brand": "パクリタキセル注30mg/5mL「NK」",
+    "interaction_type": "caution",
+    "source_text": "パクリタキセル"
+  },
+  {
+    "other_id": 9967,
+    "other_brand": "バリキサ錠450mg",
+    "interaction_type": "caution",
+    "source_text": "骨髄抑制作用のある薬剤及び腎機能障害作用のある薬剤\nジアフェニルスルホン\nビンクリスチン硫酸塩\nビンブラスチン硫酸塩\nドキソルビシン塩酸塩\nヒドロキシカルバミド\nフルシトシン\nアムホテリシンB\nペンタミジンイセチオン酸塩\n核酸誘導体等"
+  },
+  {
+    "other_id": 10131,
+    "other_brand": "パクリタキセル注射液30mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 10137,
+    "other_brand": "パクリタキセル点滴静注液30mg/5mL「ホスピーラ」",
+    "interaction_type": "caution",
+    "source_text": "ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 15215,
+    "other_brand": "レトロビルカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "ペンタミジンイセチオン酸塩、ピリメタミン（国内未発売）、スルファメトキサゾール・トリメトプリム、フルシトシン、ガンシクロビル、インターフェロン、ビンクリスチン硫酸塩、ビンブラスチン硫酸塩、ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 16582,
+    "other_brand": "注射用エンドキサン100mg",
+    "interaction_type": "caution",
+    "source_text": "アントラサイクリン系薬剤\nドキソルビシン塩酸塩、エピルビシン塩酸塩等"
+  },
+  {
+    "other_id": 17024,
+    "other_brand": "経口用エンドキサン原末100mg",
+    "interaction_type": "caution",
+    "source_text": "アントラサイクリン系薬剤\nドキソルビシン塩酸塩、エピルビシン塩酸塩等"
+  }
+]

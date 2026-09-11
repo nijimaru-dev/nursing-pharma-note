@@ -1,0 +1,42 @@
+{
+  "id": 7592,
+  "brand_name": "チョコラA錠1万単位",
+  "generic_name": "ビタミンA油",
+  "therapeutic_classification": "ビタミンA剤",
+  "indications": "ビタミンA欠乏症の治療\n（夜盲症、結膜乾燥症、角膜乾燥症、角膜軟化症）\n下記疾患のうち、ビタミンAの欠乏または代謝障害が関与すると推定される場合\n角化性皮膚疾患",
+  "dose_admin": "治療の目的には、ビタミンAとして通常成人1日10,000～100,000ビタミンA単位を経口投与する。なお、年齢、症状により適宜増減する。なお、ビタミンAとして通常成人1日3,000～100,000ビタミンA単位である。",
+  "contraindications": "レチノイド製剤（エトレチナート、トレチノイン、タミバロテン、ベキサロテン）を投与中の患者\n妊娠3ヵ月以内又は妊娠を希望する女性へのビタミンA5,000IU／日以上の投与（ビタミンA欠乏症の女性は除く）",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "パクリタキセルの血中濃度が上昇する"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エトレチナート\n（チガソン）",
+      "clinical_symptom_action": "ビタミンAの正常血中濃度には影響を及ぼさないが、ビタミンA過剰症と類似した副作用症状があらわれることがある。",
+      "mechanism_risk_factor": "エトレチナートのビタミンA様作用により、ビタミンAの作用が増強される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トレチノイン\n（ベサノイド）",
+      "clinical_symptom_action": "ビタミンA過剰症と類似した副作用症状を起こすおそれがある。",
+      "mechanism_risk_factor": "トレチノインはビタミンAの活性代謝物である。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "タミバロテン\n（アムノレイク）\nベキサロテン\n（タルグレチン）",
+      "clinical_symptom_action": "ビタミンA過剰症と類似した副作用症状を起こすおそれがある。",
+      "mechanism_risk_factor": "これら薬剤はビタミンAと同じレチノイドである。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "パクリタキセル",
+      "clinical_symptom_action": "パクリタキセルの血中濃度が上昇する。",
+      "mechanism_risk_factor": "本剤によるチトクロームP450（CYP2C8）に対する競合的阻害作用による。"
+    }
+  ],
+  "facility_notes": ""
+}

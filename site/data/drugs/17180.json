@@ -1,0 +1,30 @@
+{
+  "id": 17180,
+  "brand_name": "苦味チンキ「ニッコー」",
+  "generic_name": "苦味チンキ",
+  "therapeutic_classification": "苦味健胃剤",
+  "indications": "矯味・矯臭の目的で調剤に用いる。また、苦味健胃剤の調剤に用いる。",
+  "dose_admin": "矯味・矯臭の目的で調剤に用いる。また、苦味健胃剤の調剤に用いる。",
+  "contraindications": "ジスルフィラム、シアナミド、カルモフール、プロカルバジン塩酸塩を投与中の患者［10.参照］",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤とのアルコール反応（顔面潮紅、悪心、頻脈、多汗、頭痛等）を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ジスルフィラム（ノックビン）\nシアナミド（シアナマイド）\nカルモフール（ミフロール）\nプロカルバジン塩酸塩",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等）を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "N-メチルテトラゾールチオメチル基を有するセフェム系抗生物質\nセフメノキシム塩酸塩\nセフォペラゾンナトリウム\nセフブペラゾンナトリウム\nセフミノクスナトリウム水和物\nセフメタゾールナトリウム\nラタモキセフナトリウム\nメトロニダゾール",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応（顔面潮紅、悪心、頻脈、多汗、頭痛等）を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    }
+  ],
+  "facility_notes": ""
+}

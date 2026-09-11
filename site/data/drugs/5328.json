@@ -1,0 +1,40 @@
+{
+  "id": 5328,
+  "brand_name": "サイスタダン原末",
+  "generic_name": "ベタイン製剤",
+  "therapeutic_classification": "ホモシスチン尿症治療剤",
+  "indications": "ホモシスチン尿症",
+  "dose_admin": "通常、ベタインとして11歳以上には1回3g、11歳未満には1回50mg/kgを1日2回経口投与する。なお、患者の状態、血漿中総ホモシステイン値、血漿中メチオニン値等を参考に適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤調製時の注意\nグラシン紙等水分透過性の高い包材で分包して投薬する場合には、気密性の高い容器に入れるなどして湿気を避けて保存すること（グラシン紙を用いた分包を開放状態で保存した場合、吸湿及び潮解が認められている）。\n薬剤投与時の注意\n本剤を水に溶かして服用する場合は、溶解後速やかに服用すること。",
+  "serious_adverse_events": "脳浮腫（頻度不明\n）\n血漿中メチオニン値の上昇を伴う脳浮腫があらわれることがある。\n自発報告等によるため",
+  "observation_points": [
+    "脳浮腫（頻度不明",
+    "）",
+    "血漿中メチオニン値の上昇を伴う脳浮腫があらわれることがある",
+    "自発報告等によるため",
+    "左記の薬剤との併用時の安全性は検討されていないが、服用間隔は30分以上空けることが推奨される"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミノ酸配合剤\n胎盤加水分解物\n胎盤絨毛分解物\n総合アミノ酸製剤［ESポリタミン顆粒］",
+      "clinical_symptom_action": "左記の薬剤との併用時の安全性は検討されていないが、服用間隔は30分以上空けることが推奨される。",
+      "mechanism_risk_factor": "本剤によるGABA取り込み阻害作用により、左記の薬剤のGABA作用が増強される可能性が考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "催眠鎮静剤・抗不安剤\nベンゾジアゼピン系\nバルビツール酸系\n非ベンゾジアゼピン系",
+      "clinical_symptom_action": "左記の薬剤との併用時の安全性は検討されていないが、服用間隔は30分以上空けることが推奨される。",
+      "mechanism_risk_factor": "本剤によるGABA取り込み阻害作用により、左記の薬剤のGABA作用が増強される可能性が考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗てんかん剤\nバルビツール酸系\nヒダントイン系\nベンゾジアゼピン系\n分岐脂肪酸系等",
+      "clinical_symptom_action": "左記の薬剤との併用時の安全性は検討されていないが、服用間隔は30分以上空けることが推奨される。",
+      "mechanism_risk_factor": "本剤によるGABA取り込み阻害作用により、左記の薬剤のGABA作用が増強される可能性が考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

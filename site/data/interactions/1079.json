@@ -1,0 +1,344 @@
+[
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\nボスミン"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4181,
+    "other_brand": "キシロカインポンプスプレー8%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14784,
+    "other_brand": "リドカインテープ18mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14788,
+    "other_brand": "リドカインポンプスプレー8％「日新」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14791,
+    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14797,
+    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14809,
+    "other_brand": "リドカイン点滴静注液1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14810,
+    "other_brand": "リドカイン静注液2％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 16535,
+    "other_brand": "歯科用キシロカインカートリッジ",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体、麻酔剤等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体、麻酔剤等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体、麻酔剤等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体、麻酔剤等"
+  },
+  {
+    "other_id": 9097,
+    "other_brand": "ドパストンカプセル250mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ製剤"
+  },
+  {
+    "other_id": 9099,
+    "other_brand": "ドパストン静注25mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ製剤"
+  },
+  {
+    "other_id": 9101,
+    "other_brand": "ドパゾール錠200mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ製剤"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール（飲酒）"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール（飲酒）"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール（飲酒）"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4439,
+    "other_brand": "クラリシッド錠200mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4440,
+    "other_brand": "クラリシッド錠50mg小児用",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4441,
+    "other_brand": "クラリス錠50小児用",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4442,
+    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4443,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4444,
+    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4447,
+    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4448,
+    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4450,
+    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4451,
+    "other_brand": "クラリスロマイシン錠200㎎「大正」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4452,
+    "other_brand": "クラリスロマイシン錠200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4453,
+    "other_brand": "クラリスロマイシン錠200mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4455,
+    "other_brand": "クラリスロマイシン錠200mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4458,
+    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4460,
+    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4461,
+    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4463,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 4467,
+    "other_brand": "クラリス錠200",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害作用を有する薬剤\nイトラコナゾール、クラリスロマイシン等"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "肝代謝酵素（特にCYP3A4）誘導作用を有する薬剤\nカルバマゼピン、リファンピシン等"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "肝代謝酵素（特にCYP3A4）誘導作用を有する薬剤\nカルバマゼピン、リファンピシン等"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "肝代謝酵素（特にCYP3A4）誘導作用を有する薬剤\nカルバマゼピン、リファンピシン等"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "肝代謝酵素（特にCYP3A4）誘導作用を有する薬剤\nカルバマゼピン、リファンピシン等"
+  }
+]

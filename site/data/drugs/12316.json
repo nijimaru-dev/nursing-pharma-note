@@ -1,0 +1,81 @@
+{
+  "id": 12316,
+  "brand_name": "ベタニス錠25mg",
+  "generic_name": "ミラベグロン錠\nMirabegron",
+  "therapeutic_classification": "選択的β\n3\nアドレナリン受容体作動性過活動膀胱治療剤",
+  "indications": "過活動膀胱における尿意切迫感、頻尿及び切迫性尿失禁",
+  "dose_admin": "通常、成人にはミラベグロンとして50mgを1日1回食後に経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n重篤な心疾患を有する患者［心拍数増加等が報告されており、症状が悪化するおそれがある。］\n妊婦及び妊娠している可能性のある女性\n授乳婦\n重度の肝機能障害患者（Child-Pughスコア10以上）\nフレカイニド酢酸塩あるいはプロパフェノン塩酸塩投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n本剤は徐放性製剤であるため、割ったり、砕いたり、すりつぶしたりしないで、そのままかまずに服用するよう指導すること。割ったり、砕いたり、すりつぶしたりして服用すると、本剤の徐放性が失われ、薬物動態が変わるおそれがある。",
+  "serious_adverse_events": "尿閉（頻度不明）\n高血圧（頻度不明）\n収縮期血圧180mmHg以上又は拡張期血圧110mmHg以上に至った例も報告されている。",
+  "observation_points": [
+    "尿閉（頻度不明）",
+    "高血圧（頻度不明）",
+    "収縮期血圧180mmHg以上又は拡張期血圧110mmHg以上に至った例も報告されている",
+    "頻脈、心室細動発現の危険性が増大する",
+    "心拍数増加等があらわれるおそれがある",
+    "本剤の作用が減弱する可能性がある",
+    "これらの薬剤の作用を増強するおそれがある",
+    "メトプロロールの作用を増強するおそれがある",
+    "QT延長、心室性不整脈（Torsades de Pointesを含む）等を起こすおそれがある",
+    "併用する場合には、ジゴキシンの血中濃度をモニタリングすることが望ましい"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フレカイニド酢酸塩（タンボコール）\nプロパフェノン塩酸塩（プロノン）",
+      "clinical_symptom_action": "QT延長、心室性不整脈（Torsades de Pointesを含む）等を起こすおそれがある。",
+      "mechanism_risk_factor": "ともに催不整脈作用があり、また本剤のCYP2D6阻害作用により、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カテコールアミン\nアドレナリン\nイソプレナリン\n等",
+      "clinical_symptom_action": "頻脈、心室細動発現の危険性が増大する。",
+      "mechanism_risk_factor": "カテコールアミンの併用によりアドレナリン作動性神経刺激の増大が起こる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾール\nリトナビル\nアタザナビル\nインジナビル\nネルフィナビル\nサキナビル\nクラリスロマイシン",
+      "clinical_symptom_action": "心拍数増加等があらわれるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤はCYP3A4を強く阻害し、また一部の薬剤はP-糖蛋白の阻害作用も有することから、併用により本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン\nフェニトイン\nカルバマゼピン",
+      "clinical_symptom_action": "本剤の作用が減弱する可能性がある。",
+      "mechanism_risk_factor": "これらの薬剤はCYP3A4及びP-糖蛋白を誘導し、併用により本剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2D6の基質\nデキストロメトルファン\nフェノチアジン系抗精神病剤\nペルフェナジン\nドネペジル\n等",
+      "clinical_symptom_action": "これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP2D6阻害作用により、これらの薬剤又はその活性代謝物の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三環系抗うつ剤\nアミトリプチリン塩酸塩\nノルトリプチリン塩酸塩\nイミプラミン塩酸塩\n等",
+      "clinical_symptom_action": "これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP2D6阻害作用により、これらの薬剤又はその活性代謝物の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メトプロロール",
+      "clinical_symptom_action": "メトプロロールの作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP2D6阻害作用により、これらの薬剤又はその活性代謝物の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ピモジド",
+      "clinical_symptom_action": "QT延長、心室性不整脈（Torsades de Pointesを含む）等を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP2D6阻害作用により、ピモジドの血中濃度が上昇する可能性があり、かつ本剤及びピモジドがともに催不整脈作用を有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "併用する場合には、ジゴキシンの血中濃度をモニタリングすることが望ましい。",
+      "mechanism_risk_factor": "本剤のP-糖蛋白阻害作用により、ジゴキシンの血中濃度が上昇する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

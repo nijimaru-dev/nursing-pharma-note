@@ -1,0 +1,91 @@
+{
+  "id": 15922,
+  "brand_name": "ロラピタ静注2mg",
+  "generic_name": "ロラゼパム",
+  "therapeutic_classification": "抗けいれん剤",
+  "indications": "てんかん重積状態",
+  "dose_admin": "通常、成人にはロラゼパムとして4mgを静脈内投与する。投与速度は2mg/分を目安として緩徐に投与すること。なお、必要に応じて4mgを追加投与するが、初回投与と追加投与の総量として8mgを超えないこと。通常、生後3ヵ月以上の小児にはロラゼパムとして0.05mg/kg（最大4mg）を静脈内投与する。投与速度は2mg/分を目安として緩徐に投与すること。なお、必要に応じて0.05mg/kgを追加投与するが、初回投与と追加投与の総量として0.1mg/kgを超えないこと。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n急性閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n重症筋無力症のある患者［筋弛緩作用により症状が悪化するおそれがある。］\nショックの患者、昏睡の患者、バイタルサインの悪い急性アルコール中毒の患者［副作用として心停止が報告されており、これらの患者の症状を悪化させるおそれがある。］",
+  "application_precautions": "薬剤調製時の注意\n本剤は調製時の採取容量を考慮して過量充填されている。適切なシリンジで本剤の適用量を採取し、同量の注射用水、生理食塩液又は5％ブドウ糖注射液を加え、シリンジ内で希釈（希釈後の濃度：ロラゼパムとして1mg/mL）して投与すること。なお、希釈後は、30分以内に使用すること。\n薬剤投与時の注意\n本剤は静脈内にのみ投与すること。",
+  "serious_adverse_events": "呼吸抑制（頻度不明）、無呼吸（頻度不明）\n,\n心停止（頻度不明）\n昏睡（頻度不明）\n激越（頻度不明）、錯乱（頻度不明）、攻撃性（頻度不明）",
+  "observation_points": [
+    "呼吸抑制（頻度不明）、無呼吸（頻度不明）",
+    ",",
+    "心停止（頻度不明）",
+    "昏睡（頻度不明）",
+    "激越（頻度不明）、錯乱（頻度不明）、攻撃性（頻度不明）",
+    "眠気、注意力・集中力・反射運動能力等の低下を増強することがある",
+    "（1）眠気、注意力・集中力・反射運動能力等の低下を増強することがある",
+    "（2）併用中の本剤を急速に減量又は中止すると痙攣発作が起こることがある",
+    "筋弛緩作用を増強することがある",
+    "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある",
+    "循環虚脱を発現する危険性が高まり、重度の循環虚脱から心停止、呼吸停止に至るおそれがある",
+    "ロラゼパムの消失半減期が延長することがあるので、プロベネシドと併用する際は適宜減量すること",
+    "ロラゼパムの消失半減期が延長することがある",
+    "ロラゼパムの血中濃度が低下することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\nフェノチアジン誘導体バルビツール酸誘導体等\nモノアミン酸化酵素阻害剤",
+      "clinical_symptom_action": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール（飲酒）",
+      "clinical_symptom_action": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マプロチリン",
+      "clinical_symptom_action": "（1）眠気、注意力・集中力・反射運動能力等の低下を増強することがある。（2）併用中の本剤を急速に減量又は中止すると痙攣発作が起こることがある。",
+      "mechanism_risk_factor": "（1）相互に中枢神経抑制作用を増強することがある。（2）本剤の抗痙攣作用により抑制されていたマプロチリン塩酸塩の痙攣誘発作用が本剤の減量・中止によりあらわれることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダントロレンナトリウム",
+      "clinical_symptom_action": "筋弛緩作用を増強することがある。",
+      "mechanism_risk_factor": "相互に筋弛緩作用を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プレガバリン",
+      "clinical_symptom_action": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。",
+      "mechanism_risk_factor": "相加的な作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロザピン",
+      "clinical_symptom_action": "循環虚脱を発現する危険性が高まり、重度の循環虚脱から心停止、呼吸停止に至るおそれがある。",
+      "mechanism_risk_factor": "心循環系の副作用が相互に増強されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プロベネシド",
+      "clinical_symptom_action": "ロラゼパムの消失半減期が延長することがあるので、プロベネシドと併用する際は適宜減量すること。",
+      "mechanism_risk_factor": "プロベネシドのグルクロン酸抱合阻害による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルプロ酸",
+      "clinical_symptom_action": "ロラゼパムの消失半減期が延長することがある。",
+      "mechanism_risk_factor": "バルプロ酸のグルクロン酸抱合阻害による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "ロラゼパムの血中濃度が低下することがある。",
+      "mechanism_risk_factor": "リファンピシンの肝薬物代謝酵素誘導による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口避妊ステロイド",
+      "clinical_symptom_action": "ロラゼパムの血中濃度が低下することがある。",
+      "mechanism_risk_factor": "経口避妊ステロイドのUDP-グルクロン酸転移酵素（UGT）誘導作用によると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,44 @@
+{
+  "id": 5996,
+  "brand_name": "ジフェンヒドラミン塩酸塩注10mg「日新」",
+  "generic_name": "ジフェンヒドラミン塩酸塩",
+  "therapeutic_classification": "アレルギー性疾患治療剤",
+  "indications": "じん麻疹\n皮膚疾患に伴う瘙痒（湿疹・皮膚炎）\n枯草熱\nアレルギー性鼻炎\n血管運動性鼻炎\n急性鼻炎\n春季カタルに伴う瘙痒",
+  "dose_admin": "ジフェンヒドラミン塩酸塩として、通常、成人1回10～30mgを皮下、または筋肉内注射する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n前立腺肥大等下部尿路に閉塞性疾患のある患者［抗コリン作用による膀胱平滑筋の弛緩、膀胱括約筋の緊張により、症状を悪化させるおそれがある。］",
+  "application_precautions": "薬剤投与時の注意\n筋肉内注射にあたっては、組織・神経等への影響を避けるため、下記の点に注意すること。\n同一部位への反復注射は行わないこと。また、低出生体重児・新生児・乳児・幼児・小児には特に注意すること。\n神経走行部を避けるよう注意すること。\n注射針を刺入したとき、激痛を訴えたり、血液の逆流をみた場合は、直ちに針を抜き、部位をかえて注射すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "中枢神経抑制作用が増強することがある",
+    "併用する場合には、定期的に臨床症状を観察し、用量に注意する",
+    "抗コリン作用（口渇、便秘、尿閉、麻痺性イレウス等）が増強することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "中枢神経抑制作用が増強することがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。",
+      "mechanism_risk_factor": "相加的に作用（中枢神経抑制作用）を増強させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\n催眠剤\n鎮静剤\n抗不安剤等",
+      "clinical_symptom_action": "中枢神経抑制作用が増強することがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。",
+      "mechanism_risk_factor": "相加的に作用（中枢神経抑制作用）を増強させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "MAO阻害剤",
+      "clinical_symptom_action": "中枢神経抑制作用が増強することがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。",
+      "mechanism_risk_factor": "相加的に作用（中枢神経抑制作用）を増強させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗コリン作用を有する薬剤\n三環系抗うつ剤\nフェノチアジン系薬剤\nアトロピン硫酸塩水和物等",
+      "clinical_symptom_action": "抗コリン作用（口渇、便秘、尿閉、麻痺性イレウス等）が増強することがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。",
+      "mechanism_risk_factor": "相加的に作用（抗コリン作用）を増強させる。"
+    }
+  ],
+  "facility_notes": ""
+}

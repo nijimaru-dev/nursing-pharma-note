@@ -1,0 +1,22 @@
+{
+  "id": 11848,
+  "brand_name": "プリビナ点眼液0.5mg/mL",
+  "generic_name": "ナファゾリン硝酸塩",
+  "therapeutic_classification": "眼科用局所血管収縮剤",
+  "indications": "表在性充血（原因療法と併用）",
+  "dose_admin": "通常成人1回1～2滴を1日2～3回点眼する。なお、年令、症状により適宜増減する。",
+  "contraindications": "閉塞隅角緑内障の患者［アドレナリン作用により散瞳を来し、症状を悪化させる。］\nMAO阻害剤の投与を受けている患者",
+  "application_precautions": "薬剤調製時の注意\n本品を小分けする場合は、微生物の混入等汚染が起きないよう注意し、一度小分けしたものは、本品容器に戻さないこと。また、汚染が起きたときは使用しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "MAO阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）",
+      "clinical_symptom_action": "急激な血圧上昇が起こるおそれがある。",
+      "mechanism_risk_factor": "本剤はアドレナリン作動薬であり、MAO阻害剤の投与を受けている患者では、ノルアドレナリンの蓄積が増大しているため、併用した場合急激な血圧上昇が起こるおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,347 @@
+{
+  "id": 4206,
+  "brand_name": "キニジン硫酸塩「VTRS」原末",
+  "generic_name": "キニジン硫酸塩水和物",
+  "therapeutic_classification": "不整脈治療剤",
+  "indications": "期外収縮（上室性、心室性）、発作性頻拍（上室性、心室性）、新鮮心房細動、発作性心房細動の予防、陳旧性心房細動、心房粗動、電気ショック療法との併用及びその後の洞調律の維持、急性心筋梗塞時における心室性不整脈の予防",
+  "dose_admin": "経口的に投与するが、著明な副作用を有するゆえ、原則として入院させて用いる。本剤の投与法は心房細動の除去を目的とする場合を標準とし、漸増法と大量投与法に大別できる。その他の不整脈に対しては、原則として少量持続投与でよく、この場合には外来にて投与してもよい。\n試験投与\n治療に先だち、1回量0.1～0.2gを経口投与し、副作用があらわれた時は、投与を中止する。副作用を調べる際には血圧測定と心電図記録を行う必要がある。\n漸増法\n成人における慢性心房細動に対しては、例えばキニジン硫酸塩水和物として、1回量0.2gを最初1日3回（6～8時間おき）に投与し、効果がない場合は、2日目ごとに1回量を0.4g、0.6gのごとく増すか、投与回数を1～2日目ごとに4、5、6回のごとく増す。不整脈除去効果が得られたら、そこで維持量投与に切りかえ、あるいは投与を中止する。6日間投与して効果がない場合、途中で副作用があらわれた場合には、投与を中止すること。本剤は昼間のみ与えるのが原則である。\n大量投与\nはじめから大量を与え、投与期間の短縮をはかるもので、成人における慢性心房細動に対しては、たとえばキニジン硫酸塩水和物として、1回量0.4gを1日5回、3日間与え、効果がない場合には投与を中止する。効果が得られた場合の維持投与は漸増法と同様である。わが国では漸増法でよいとする報告が多い。\n維持量投与\nキニジン硫酸塩水和物として、通常、成人1日量0.2～0.6gを1～3回に分割経口投与するが、個人差が大きい。電気ショック療法との併用及びその後の洞調律の維持に対する用量もこれに準ずる。なお、年齢、症状により適宜増減する。",
+  "contraindications": "刺激伝導障害（房室ブロック、洞房ブロック、脚ブロック等）のある患者［失神発作あるいは突然死をおこすおそれがある。］\n重篤なうっ血性心不全のある患者［本疾患を悪化させるおそれがある。］\n高カリウム血症のある患者［心疾患を悪化させるおそれがある。］\n本剤に過敏症の既往歴のある患者\nアミオダロン塩酸塩（注射）、バルデナフィル塩酸塩水和物、エリグルスタット酒石酸塩、シポニモド　フマル酸、フィンゴリモド塩酸塩、ロナファルニブ、トレミフェンクエン酸塩、セリチニブ、ボリコナゾール、ポサコナゾール、モキシフロキサシン塩酸塩、ラスクフロキサシン塩酸塩（注射）、リトナビル、ニルマトレルビル・リトナビル、エンシトレルビル　フマル酸、イトラコナゾール、フルコナゾール、ホスフルコナゾール、ミコナゾール、メフロキン塩酸塩を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\n〈錠〉\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "高度伝導障害、心停止、心室細動（いずれも頻度不明）\nこれらの致死性不整脈が突然発現することがある。QRS幅の増大、あるいは期外収縮の発生数の増加、心室頻拍、P波の消失が認められた場合には投与を中止すること。\n心不全（頻度不明）\n心筋の収縮力を低下させ、心不全、血圧低下をおこすことがあるので、このような場合には投与を中止すること。\nSLE様症状（頻度不明）\n無顆粒球症、白血球減少、再生不良性貧血、溶血性貧血（いずれも頻度不明）\n血小板減少性紫斑病（頻度不明）",
+  "observation_points": [
+    "高度伝導障害、心停止、心室細動（いずれも頻度不明）",
+    "これらの致死性不整脈が突然発現することがある",
+    "QRS幅の増大、あるいは期外収縮の発生数の増加、心室頻拍、P波の消失が認められた場合には投与を中止すること",
+    "心不全（頻度不明）",
+    "心筋の収縮力を低下させ、心不全、血圧低下をおこすことがあるので、このような場合には投与を中止すること",
+    "SLE様症状（頻度不明）",
+    "無顆粒球症、白血球減少、再生不良性貧血、溶血性貧血（いずれも頻度不明）",
+    "血小板減少性紫斑病（頻度不明）",
+    "本剤の作用が減弱することがある",
+    "相互に作用が増強するおそれがある",
+    "左記薬剤の作用が減弱するおそれがある",
+    "左記薬剤の作用を増強することがある",
+    "左記薬剤の血中濃度が上昇することがあるので、左記薬剤の用量を減量するなど注意して投与すること",
+    "左記薬剤の作用が増強するおそれがある",
+    "左記薬剤の作用を増強させることがある",
+    "β遮断作用（心拍数減少、徐脈）の増強が報告されている",
+    "左記薬剤、本剤の副作用がともに増大することがある",
+    "致死的な心室性不整脈等があらわれることがあるので、必要に応じて本剤を減量するなど慎重に投与すること",
+    "動物実験において左記薬剤の作用が増強するとの報告がある",
+    "過度の心機能抑制があらわれることがあるので、用量に注意すること",
+    "左記薬剤の血漿中濃度を上昇させるおそれがある",
+    "左記薬剤の血中濃度が上昇することがある",
+    "本剤の作用が増強するおそれがある",
+    "左記薬剤の抗凝血作用を増強させることがある",
+    "QT延長、心室性不整脈（Torsade de pointesを含む）を起こすおそれがある",
+    "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある",
+    "QT間隔延長作用を増強する可能性がある",
+    "左記薬剤の血中濃度や分布に影響を与える可能性がある",
+    "QT間隔延長を起こす又は悪化させるおそれがある",
+    "血中濃度上昇に伴うQT延長、心室性不整脈（Torsade de pointesを含む）等が報告されているので、慎重に投与すること",
+    "左記薬剤を併用した場合、相加的なQT延長がみられるおそれがある",
+    "QT 延長、心室性不整脈（Torsade de pointesを含む）があらわれるおそれがある",
+    "本剤の血中濃度が低下する可能性があるため、注意して投与すること",
+    "本剤の血中濃度を上昇させる可能性がある",
+    "本剤の血中濃度が上昇する可能性があるので、血中濃度のモニタリングを行うことが望ましい",
+    "本剤の代謝が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アミオダロン塩酸塩（注射）\nアンカロン注",
+      "clinical_symptom_action": "併用によりTorsade de pointesを起こすことがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増加することがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "バルデナフィル塩酸塩水和物",
+      "clinical_symptom_action": "QT延長等があらわれるおそれがある。",
+      "mechanism_risk_factor": "相互にQT延長を増強することが考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エリグルスタット酒石酸塩\nサデルガ",
+      "clinical_symptom_action": "併用によりQT延長等を生じるおそれがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増強すると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シポニモド　フマル酸\nメーゼント\nフィンゴリモド塩酸塩\nイムセラ、ジレニア",
+      "clinical_symptom_action": "Torsade de pointes等の重篤な不整脈を生じるおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の投与により心拍数が減少するため、併用により不整脈を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ロナファルニブ\nゾキンヴィ",
+      "clinical_symptom_action": "本剤の血中濃度上昇により、QT延長作用が増強するおそれがある。",
+      "mechanism_risk_factor": "左記薬剤のCYP3Aに対する阻害作用により、本剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トレミフェンクエン酸塩\nフェアストン",
+      "clinical_symptom_action": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はQT間隔を延長させるおそれがあるため。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "セリチニブ\nジカディア",
+      "clinical_symptom_action": "QT 延長等があらわれるおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の肝薬物代謝酵素（CYP3A4）阻害作用により、本剤の代謝が阻害され、血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ボリコナゾール\nブイフェンド",
+      "clinical_symptom_action": "QT延長等があらわれるおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の肝薬物代謝酵素（CYP3A4）阻害作用により、本剤の代謝が阻害され、血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ポサコナゾール\nノクサフィル",
+      "clinical_symptom_action": "QT延長、心室頻拍（Torsade de pointesを含む）等の心血管系の重篤な副作用を引き起こすおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の併用により、CYP3A4が阻害され、本剤の血漿中濃度が上昇すると予測される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "モキシフロキサシン塩酸塩\nアベロックス",
+      "clinical_symptom_action": "QT延長等があらわれるおそれがある。",
+      "mechanism_risk_factor": "相互にQT延長を増強することが考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ラスクフロキサシン塩酸塩（注射）\nラスビック点滴静注",
+      "clinical_symptom_action": "心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。",
+      "mechanism_risk_factor": "左記薬剤を併用した場合、相加的なQT延長がみられるおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リトナビル\nノービア\nニルマトレルビル・リトナビル\nパキロビッド",
+      "clinical_symptom_action": "QT延長等の重篤な副作用を起こすおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の肝薬物代謝酵素（CYP3A）に対する競合的阻害作用により、本剤の血中濃度が大幅に上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エンシトレルビル　フマル酸\nゾコーバ",
+      "clinical_symptom_action": "本剤の血中濃度上昇により、QT延長が発現するおそれがある。",
+      "mechanism_risk_factor": "左記薬剤のCYP3Aに対する阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "イトラコナゾール\nイトリゾール",
+      "clinical_symptom_action": "本剤の作用が増強するおそれがある。",
+      "mechanism_risk_factor": "左記薬剤のチトクロームP450に対する競合的阻害作用により、本剤の血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フルコナゾール\nジフルカン\nホスフルコナゾール\nプロジフ",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することにより、QT延長、Torsade de pointesを発現するおそれがある。",
+      "mechanism_risk_factor": "左記薬剤は本剤の肝臓における主たる代謝酵素であるチトクロームP450 3A4を阻害するので、併用により本剤の血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ミコナゾール\nフロリードF注\nフロリードゲル経口用",
+      "clinical_symptom_action": "QT延長等があらわれるおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の肝薬物代謝酵素（CYP3A4）阻害作用により、本剤の代謝が阻害され、血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "メフロキン塩酸塩\nメファキン",
+      "clinical_symptom_action": "急性脳症候群、暗赤色尿、呼吸困難、貧血、溶血。",
+      "mechanism_risk_factor": "併用投与により心臓に対して累積的に毒性を与える可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "本剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "左記薬剤の肝薬物代謝酵素誘導作用により、本剤の代謝が促進され、血中濃度が低下することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "トラマドール塩酸塩",
+      "clinical_symptom_action": "相互に作用が増強するおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メロキシカム",
+      "clinical_symptom_action": "左記薬剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "機序は十分に解明されていないが、本剤が左記薬剤の代謝を亢進させた（\nin vitro\n試験）との報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三環系抗うつ剤\nイミプラミン塩酸塩\nクロミプラミン塩酸塩\nロフェプラミン塩酸塩等",
+      "clinical_symptom_action": "左記薬剤の作用を増強することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素阻害作用により、左記薬剤の代謝が阻害され、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デュロキセチン塩酸塩",
+      "clinical_symptom_action": "左記薬剤の血中濃度が上昇することがあるので、左記薬剤の用量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤のCYP2D6阻害作用により、左記薬剤の血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドネペジル塩酸塩",
+      "clinical_symptom_action": "左記薬剤の作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素阻害作用により、左記薬剤の代謝が阻害され、血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "骨格筋弛緩剤\nツボクラリン\nパンクロニウム臭化物\nベクロニウム臭化物等",
+      "clinical_symptom_action": "左記薬剤の作用を増強させることがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "チモロールマレイン酸塩",
+      "clinical_symptom_action": "β遮断作用（心拍数減少、徐脈）の増強が報告されている。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素阻害作用により、左記薬剤の代謝が阻害され、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシン\nジギトキシン\nメチルジゴキシン等",
+      "clinical_symptom_action": "左記薬剤、本剤の副作用がともに増大することがある。",
+      "mechanism_risk_factor": "左記薬剤と本剤との間には競合排泄現象が認められている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミオダロン塩酸塩（経口）",
+      "clinical_symptom_action": "致死的な心室性不整脈等があらわれることがあるので、必要に応じて本剤を減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤の血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アプリンジン塩酸塩フレカイニド酢酸塩メキシレチン塩酸塩",
+      "clinical_symptom_action": "動物実験において左記薬剤の作用が増強するとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メトプロロール酒石酸塩",
+      "clinical_symptom_action": "左記薬剤の作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP2D6）阻害作用により、左記薬剤の代謝が阻害され、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボピンドロールマロン酸塩",
+      "clinical_symptom_action": "過度の心機能抑制があらわれることがあるので、用量に注意すること。",
+      "mechanism_risk_factor": "共に心機能抑制作用を有するため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボピンドロールマロン酸塩",
+      "clinical_symptom_action": "左記薬剤の血漿中濃度を上昇させるおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP2D6阻害作用により、左記薬剤の代謝が遅延する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ベラパミル塩酸塩",
+      "clinical_symptom_action": "致死的な心室性不整脈等があらわれることがあるので、必要に応じて本剤を減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤の血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デキストロメトルファン臭化水素酸塩水和物",
+      "clinical_symptom_action": "左記薬剤の作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP2D6）阻害作用により、左記薬剤の代謝が阻害され、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロペラミド塩酸塩",
+      "clinical_symptom_action": "左記薬剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "尿アルカリ化剤\n乾燥水酸化アルミニウムゲル\n炭酸水素ナトリウム等",
+      "clinical_symptom_action": "本剤の作用が増強するおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の尿中pHを上昇させる作用により、本剤の尿中排泄率が低下し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリンカリウム",
+      "clinical_symptom_action": "左記薬剤の抗凝血作用を増強させることがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三酸化ヒ素",
+      "clinical_symptom_action": "QT延長、心室性不整脈（Torsade de pointesを含む）を起こすおそれがある。",
+      "mechanism_risk_factor": "左記薬剤及び本剤はいずれもQT延長あるいは心室性不整脈（Torsade de pointesを含む）を起こすことがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "スニチニブリンゴ酸塩",
+      "clinical_symptom_action": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。",
+      "mechanism_risk_factor": "左記薬剤及び本剤はいずれもQT間隔を延長させるおそれがあるため、併用により作用が増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダサチニブ水和物",
+      "clinical_symptom_action": "QT間隔延長作用を増強する可能性がある。",
+      "mechanism_risk_factor": "左記薬剤及び本剤はいずれもQT間隔を延長させるおそれがあるため、併用により作用が増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラパチニブトシル酸塩水和物",
+      "clinical_symptom_action": "左記薬剤の血中濃度や分布に影響を与える可能性がある。",
+      "mechanism_risk_factor": "左記薬剤はP-糖蛋白質の基質であることが示されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラパチニブトシル酸塩水和物",
+      "clinical_symptom_action": "QT間隔延長を起こす又は悪化させるおそれがある。",
+      "mechanism_risk_factor": "左記薬剤及び本剤はいずれもQT間隔を延長させるおそれがあり、併用により作用が増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エリスロマイシン",
+      "clinical_symptom_action": "血中濃度上昇に伴うQT延長、心室性不整脈（Torsade de pointesを含む）等が報告されているので、慎重に投与すること。",
+      "mechanism_risk_factor": "左記薬剤の肝薬物代謝酵素（CYP3A4）に対する競合的阻害作用により、本剤の血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "左記薬剤の肝薬物代謝酵素誘導作用により、本剤の代謝が促進され、血中濃度が低下することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シプロフロキサシン塩酸塩",
+      "clinical_symptom_action": "左記薬剤を併用した場合、相加的なQT延長がみられるおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メシル酸ガレノキサシン水和物",
+      "clinical_symptom_action": "QT 延長、心室性不整脈（Torsade de pointesを含む）があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤の単独投与で、QT延長作用がみられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エトラビリン",
+      "clinical_symptom_action": "本剤の血中濃度が低下する可能性があるため、注意して投与すること。",
+      "mechanism_risk_factor": "左記薬剤のCYP3A4誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダルナビルエタノール付加物",
+      "clinical_symptom_action": "本剤の血中濃度を上昇させる可能性がある。",
+      "mechanism_risk_factor": "左記薬剤及びリトナビルのCYP3A4に対する阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ホスアンプレナビルカルシウム水和物",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性があるので、血中濃度のモニタリングを行うことが望ましい。",
+      "mechanism_risk_factor": "アンプレナビルと本剤はCYP3A4で代謝されるため、併用により代謝が競合的に阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St.John’s Wort,セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の代謝が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること。",
+      "mechanism_risk_factor": "セイヨウオトギリソウにより誘導された肝薬物代謝酵素（チトクローム P450）が本剤の代謝を促進し、クリアランスを上昇させるためと考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

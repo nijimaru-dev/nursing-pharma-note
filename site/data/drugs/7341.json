@@ -1,0 +1,98 @@
+{
+  "id": 7341,
+  "brand_name": "タンボコール静注50mg",
+  "generic_name": "フレカイニド酢酸塩",
+  "therapeutic_classification": "頻脈性不整脈治療剤",
+  "indications": "緊急治療を要する下記不整脈頻脈性不整脈（症候性の発作性心房細動・粗動、発作性上室性頻拍、心室頻拍、及び医師が生命に関わると判定した重症の心室性期外収縮）",
+  "dose_admin": "通常、成人には1回0.1～0.2mL／kg（フレカイニド酢酸塩として1.0～2.0mg／kg）を必要に応じてブドウ糖液で希釈し、血圧及び心電図監視下10分間かけて静脈内に注射する。なお、総投与量はフレカイニド酢酸塩として1回150mgまでとする。",
+  "contraindications": "うっ血性心不全のある患者［本剤は陰性変力作用を有し、心不全症状を更に悪化させることがある。］\n高度の房室ブロック、高度の洞房ブロックのある患者［本剤は房室伝導、洞房伝導を抑制する作用を有し、刺激伝導を更に悪化させることがある。］\n心筋梗塞後の無症候性心室性期外収縮あるいは非持続型心室頻拍のある患者［突然死に関する臨床試験（CAST）の結果、このような患者では本薬の経口剤の投与により死亡率が増加するとの報告がある。］\n妊婦又は妊娠している可能性のある女性\nリトナビルを投与中の患者\nミラベグロンを投与中の患者\nテラプレビルを投与中の患者",
+  "application_precautions": "薬剤調製時の注意\n本剤を希釈して使用する場合は、希釈液としてブドウ糖液のみを使用すること。\n生理食塩液、リンゲル液、ソリタ-T1号、T2号、T3号、ラクテック注等塩化物を含有する溶液及びアルカリ性溶液と配合した場合、白濁ないし白色沈殿を生じるため配合しないこと。",
+  "serious_adverse_events": "一過性心停止、心室頻拍（Torsade de pointesを含む）、心房粗動、心室細動（各0.1～5％未満）、Adams-Stokes発作（0.1％未満）\n一過性心停止、心室頻拍（Torsade de pointesを含む）、心房粗動、心室細動、Adams-Stokes発作があらわれることがある。このような場合には、本剤の投与を中止し、次の処置法を考慮すること。\n,\n,\nドパミン、ドブタミン、イソプレナリン等の強心薬投与\nIABP等の補助循環\nペーシングや電気的除細動",
+  "observation_points": [
+    "一過性心停止、心室頻拍（Torsade de pointesを含む）、心房粗動、心室細動（各0.1～5％未満）、Adams-Stokes発作（0.1％未満）",
+    "一過性心停止、心室頻拍（Torsade de pointesを含む）、心房粗動、心室細動、Adams-Stokes発作があらわれることがある",
+    "このような場合には、本剤の投与を中止し、次の処置法を考慮すること",
+    ",",
+    "ドパミン、ドブタミン、イソプレナリン等の強心薬投与",
+    "IABP等の補助循環",
+    "ペーシングや電気的除細動",
+    "相手薬剤の血中濃度が上昇することがある",
+    "心機能低下や房室ブロックがあらわれることがある",
+    "また、プロプラノロールとの併用においては、本剤並びにプロプラノロールの血中濃度が上昇することがある",
+    "本剤の血中濃度が上昇するおそれがある",
+    "本剤の血中濃度が上昇することがある",
+    "本剤の血中濃度が低下することがある",
+    "本剤の血中濃度が1.5倍に上昇するとの報告があるので、本剤を2/3に減量すること",
+    "実験的不整脈モデルにおいて抗不整脈活性あるいは毒性症状が増強するとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リトナビル（ノービア）",
+      "clinical_symptom_action": "不整脈、血液障害、痙攣等の重篤な副作用を起こすおそれがある。",
+      "mechanism_risk_factor": "リトナビルのチトクロームP450に対する競合的阻害作用により、併用した場合、本剤の血中濃度が大幅に上昇することが予測される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ミラベグロン（ベタニス）",
+      "clinical_symptom_action": "QTが延長し、心室性不整脈（Torsade de pointesを含む）等を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤並びにミラベグロンは催不整脈作用を有する。また、ミラベグロンのチトクロームP450（CYP2D6）阻害作用により、本剤の血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "テラプレビル（テラビック）",
+      "clinical_symptom_action": "QTが延長し、心室性不整脈（Torsade de pointesを含む）等を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤並びにテラプレビルはQT延長作用を有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス配糖体\nジゴキシンジギトキシンデスラノシド等",
+      "clinical_symptom_action": "相手薬剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β遮断剤\nプロプラノロール塩酸塩等",
+      "clinical_symptom_action": "心機能低下や房室ブロックがあらわれることがある。また、プロプラノロールとの併用においては、本剤並びにプロプラノロールの血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "本剤並びにβ遮断剤（プロプラノロール等）は相互に陰性変力作用と房室伝導抑制作用を有する。また、本剤並びにプロプラノロールはともにCYP2D6の基質であるため、相手薬剤の代謝を競合的に阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "パロキセチン塩酸塩水和物",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "相手薬剤が肝代謝酵素CYP2D6を阻害することにより、本剤の血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジンキニジン硫酸塩水和物",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "相手薬剤のチトクロームP450阻害作用に基づく。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトインフェノバルビタールカルバマゼピン",
+      "clinical_symptom_action": "本剤の血中濃度が低下することがある。",
+      "mechanism_risk_factor": "相手薬剤の肝薬物代謝酵素誘導作用に基づく。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミオダロン塩酸塩",
+      "clinical_symptom_action": "本剤の血中濃度が1.5倍に上昇するとの報告があるので、本剤を2/3に減量すること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "Ca拮抗剤\nベラパミル塩酸塩等",
+      "clinical_symptom_action": "心機能低下や房室ブロックがあらわれることがある。",
+      "mechanism_risk_factor": "本剤並びにCa拮抗剤（ベラパミル等）は相互に陰性変力作用と房室伝導抑制作用を有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "塩酸リドカインプロカインアミド塩酸塩",
+      "clinical_symptom_action": "実験的不整脈モデルにおいて抗不整脈活性あるいは毒性症状が増強するとの報告がある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

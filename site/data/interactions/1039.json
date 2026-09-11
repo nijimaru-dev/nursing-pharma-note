@@ -1,0 +1,242 @@
+[
+  {
+    "other_id": 403,
+    "other_brand": "アゾセミド錠30mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩等"
+  },
+  {
+    "other_id": 404,
+    "other_brand": "アゾセミド錠30mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤エタクリン酸フロセミドアゾセミド等"
+  },
+  {
+    "other_id": 7397,
+    "other_brand": "ダイアート錠30mg",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤エタクリン酸フロセミドアゾセミド等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤エタクリン酸フロセミドアゾセミド等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤エタクリン酸フロセミドアゾセミド等"
+  },
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤エタクリン酸フロセミドアゾセミド等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤エタクリン酸フロセミドアゾセミド等"
+  },
+  {
+    "other_id": 3925,
+    "other_brand": "カルボプラチン注射液50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性及び聴器毒性を有する薬剤バンコマイシンエンビオマイシン白金含有抗悪性腫瘍剤（シスプラチン、カルボプラチン、ネダプラチン）等"
+  },
+  {
+    "other_id": 3926,
+    "other_brand": "カルボプラチン注射液50mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性及び聴器毒性を有する薬剤バンコマイシンエンビオマイシン白金含有抗悪性腫瘍剤（シスプラチン、カルボプラチン、ネダプラチン）等"
+  },
+  {
+    "other_id": 3932,
+    "other_brand": "カルボプラチン点滴静注液50mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性及び聴器毒性を有する薬剤バンコマイシンエンビオマイシン白金含有抗悪性腫瘍剤（シスプラチン、カルボプラチン、ネダプラチン）等"
+  },
+  {
+    "other_id": 3933,
+    "other_brand": "カルボプラチン点滴静注液50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性及び聴器毒性を有する薬剤バンコマイシンエンビオマイシン白金含有抗悪性腫瘍剤（シスプラチン、カルボプラチン、ネダプラチン）等"
+  },
+  {
+    "other_id": 5597,
+    "other_brand": "シスプラチン点滴静注10mg「マルコ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性及び聴器毒性を有する薬剤バンコマイシンエンビオマイシン白金含有抗悪性腫瘍剤（シスプラチン、カルボプラチン、ネダプラチン）等"
+  },
+  {
+    "other_id": 10168,
+    "other_brand": "パラプラチン注射液50mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性及び聴器毒性を有する薬剤バンコマイシンエンビオマイシン白金含有抗悪性腫瘍剤（シスプラチン、カルボプラチン、ネダプラチン）等"
+  },
+  {
+    "other_id": 12956,
+    "other_brand": "ボトックスビスタ注用50単位",
+    "interaction_type": "caution",
+    "source_text": "神経筋遮断剤麻酔剤筋弛緩剤ツボクラリンパンクロニウム臭化物ベクロニウム臭化物トルペリゾンA型ボツリヌス毒素製剤等"
+  },
+  {
+    "other_id": 12958,
+    "other_brand": "ボトックス注用50単位",
+    "interaction_type": "caution",
+    "source_text": "神経筋遮断剤麻酔剤筋弛緩剤ツボクラリンパンクロニウム臭化物ベクロニウム臭化物トルペリゾンA型ボツリヌス毒素製剤等"
+  },
+  {
+    "other_id": 827,
+    "other_brand": "アムビゾーム点滴静注用50mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 9841,
+    "other_brand": "ハリゾンシロップ100mg/mL",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 11028,
+    "other_brand": "ファンギゾンシロップ100mg/mL",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 11029,
+    "other_brand": "ファンギゾン注射用50mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤シクロスポリンアムホテリシンB等"
+  },
+  {
+    "other_id": 8717,
+    "other_brand": "トラセミド錠4mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質（ゲンタマイシン硫酸塩、アミカシン硫酸塩等）"
+  },
+  {
+    "other_id": 8719,
+    "other_brand": "トラセミドOD錠4mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質（ゲンタマイシン硫酸塩、アミカシン硫酸塩等）"
+  },
+  {
+    "other_id": 11534,
+    "other_brand": "フロセミド注20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 11535,
+    "other_brand": "フロセミド注20mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 11544,
+    "other_brand": "フロセミド錠40mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 11540,
+    "other_brand": "フロセミド錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 11537,
+    "other_brand": "フロセミド錠10mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 11538,
+    "other_brand": "フロセミド錠10mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 11539,
+    "other_brand": "フロセミド錠10mg「SN」",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 14367,
+    "other_brand": "ラシックス注100mg",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 14368,
+    "other_brand": "ラシックス注20mg",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 14369,
+    "other_brand": "ラシックス錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩"
+  },
+  {
+    "other_id": 15092,
+    "other_brand": "ルプラック錠4mg",
+    "interaction_type": "caution",
+    "source_text": "アミノグリコシド系抗生物質（ゲンタマイシン硫酸塩、アミカシン硫酸塩等）"
+  },
+  {
+    "other_id": 16783,
+    "other_brand": "点滴静注用ホスカビル注24mg/mL",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤\nアミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩 等\nスルファメトキサゾール・トリメトプリム\nバンコマイシン塩酸塩\nアムホテリシンB\nシクロスポリン\nタクロリムス水和物\nメトトレキサート\nシスプラチン 等"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": 2194,
+  "brand_name": "ウブレチド点眼液1%",
+  "generic_name": "ジスチグミン臭化物（Distigmine Bromide）製剤",
+  "therapeutic_classification": "緑内障、調節性内斜視重症筋無力症（眼筋型）治療剤",
+  "indications": "緑内障、調節性内斜視、重症筋無力症（眼筋型）",
+  "dose_admin": "1回1滴を1日1～2回点眼する。",
+  "contraindications": "前駆期緑内障の患者［眼圧上昇を来すおそれがある。］\n脱分極性筋弛緩剤（スキサメトニウム）を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。\n薬液汚染防止のため、点眼のとき、容器の先端が直接目に触れないように注意すること。\n患眼を開瞼して結膜嚢内に点眼し、1～5分間閉瞼して涙嚢部を圧迫させた後、開瞼すること。\n他の点眼剤を併用する場合には、少なくとも5分以上間隔をあけてから点眼すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "相互に作用を拮抗する",
+    "相互に作用を増強する",
+    "相互に作用を増強する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "脱分極性筋弛緩剤\nスキサメトニウム塩化物水和物\nスキサメトニウム注、レラキシン注",
+      "clinical_symptom_action": "脱分極性筋弛緩剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "1）脱分極性筋弛緩剤はコリンエステラーゼにより代謝されるため、本剤により代謝が阻害されることが考えられる。2）本剤による直接ニコチン様作用には脱分極性筋弛緩作用がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副交感神経抑制剤\nアトロピン硫酸塩水和物等",
+      "clinical_symptom_action": "相互に作用を拮抗する。",
+      "mechanism_risk_factor": "本剤のムスカリン様作用と拮抗することが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コリン作動薬\nベタネコール塩化物等",
+      "clinical_symptom_action": "相互に作用を増強する。",
+      "mechanism_risk_factor": "本剤のコリン作用と相加・相乗作用があらわれることが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コリンエステラーゼ阻害薬\nドネペジル塩酸塩等",
+      "clinical_symptom_action": "相互に作用を増強する可能性がある。",
+      "mechanism_risk_factor": "本剤のコリン作用と相加・相乗作用があらわれることが考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

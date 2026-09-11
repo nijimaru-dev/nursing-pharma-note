@@ -1,0 +1,32 @@
+{
+  "id": 5252,
+  "brand_name": "コリマイシン散200万単位/g",
+  "generic_name": "コリスチンメタンスルホン酸ナトリウム散",
+  "therapeutic_classification": "抗生物質製剤",
+  "indications": "〈適応菌種〉\nコリスチンに感性の大腸菌、赤痢菌\n〈適応症〉\n感染性腸炎",
+  "dose_admin": "通常、成人にはコリスチンメタンスルホン酸ナトリウムとして1回300万～600万単位を1日3～4回経口投与する。小児には1日30万～40万単位/kgを3～4回に分割経口投与する。なお、年齢、症状により適宜増減する。ただし、小児用量は成人量を上限とする。",
+  "contraindications": "ポリミキシンB又はコリスチンに対する過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "過剰な筋弛緩があらわれる恐れがあり、閉瞼不全、頸部筋脱力、呼吸困難、嚥下障害等のリスクが高まるおそれがある",
+    "腎障害があらわれることがある",
+    "腎障害があらわれた場合には、必要に応じ、投与中止等の適切な処置を行うこと"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボツリヌス毒素製剤",
+      "clinical_symptom_action": "過剰な筋弛緩があらわれる恐れがあり、閉瞼不全、頸部筋脱力、呼吸困難、嚥下障害等のリスクが高まるおそれがある。",
+      "mechanism_risk_factor": "本剤およびボツリヌス毒素製剤はともに筋弛緩作用を有するため、作用が増強されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "パロモマイシン硫酸塩",
+      "clinical_symptom_action": "腎障害があらわれることがある。腎障害があらわれた場合には、必要に応じ、投与中止等の適切な処置を行うこと。",
+      "mechanism_risk_factor": "コリスチン\n及びパロモマイシン硫酸塩は腎障害を悪化させる作用を有しており、併用によりそれらの作用が増強される可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

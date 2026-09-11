@@ -1,0 +1,64 @@
+{
+  "id": 4708,
+  "brand_name": "クービビック錠25mg",
+  "generic_name": "ダリドレキサント塩酸塩製剤",
+  "therapeutic_classification": "オレキシン受容体拮抗薬－不眠症治療薬－",
+  "indications": "不眠症",
+  "dose_admin": "通常、成人にはダリドレキサントとして1日1回50mgを就寝直前に経口投与する。なお、患者の状態に応じて1日1回25mgを投与することができる。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n重度の肝機能障害（Child-Pugh分類C）のある患者\n,\nイトラコナゾール、クラリスロマイシン、ボリコナゾール、ポサコナゾール、リトナビル含有製剤、コビシスタット含有製剤、セリチニブ、エンシトレルビル フマル酸を投与中の患者\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "中枢神経系に対する抑制作用を増強させるおそれがあるため、本剤又は併用薬の投与量の減量の必要性を検討したうえで慎重に投与すること",
+    "本剤投与中の患者の飲酒に注意する必要がある",
+    "本剤の血漿中濃度が上昇し、本剤の副作用が増強するおそれがある",
+    "本剤の効果が減弱するおそれがあるため、CYP3A誘導作用のない又は弱い薬剤への代替を考慮すること",
+    "これらの薬剤の血中濃度が上昇するおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "イトラコナゾール（イトリゾール）クラリスロマイシン（クラリス、クラリシッド）ボリコナゾール（ブイフェンド）ポサコナゾール（ノクサフィル）リトナビル含有製剤（カレトラ、ノービア、パキロビッド）コビシスタット含有製剤（シムツーザ、ゲンボイヤ、プレジコビックス）セリチニブ（ジカディア）エンシトレルビル フマル酸（ゾコーバ）\n,",
+      "clinical_symptom_action": "本剤の副作用を増強させるおそれがある。",
+      "mechanism_risk_factor": "本剤の代謝酵素であるCYP3Aを強く阻害し、本剤の血漿中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤フェノチアジン誘導体、バルビツール酸誘導体 等",
+      "clinical_symptom_action": "中枢神経系に対する抑制作用を増強させるおそれがあるため、本剤又は併用薬の投与量の減量の必要性を検討したうえで慎重に投与すること。",
+      "mechanism_risk_factor": "本剤及びこれらの薬剤は中枢神経系に対する抑制作用を有するため、相互に作用を増強させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール（飲酒）",
+      "clinical_symptom_action": "本剤投与中の患者の飲酒に注意する必要がある。",
+      "mechanism_risk_factor": "本剤及びアルコールは中枢神経抑制作用を有するため、相互に作用を増強させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中程度のCYP3A阻害剤ジルチアゼム、ベラパミル、エリスロマイシン、フルコナゾール 等\n,",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇し、本剤の副作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤の代謝酵素であるCYP3Aを中程度に阻害し、本剤の血漿中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強い又は中程度のCYP3A誘導剤リファンピシン、フェニトイン、エファビレンツ、カルバマゼピン 等",
+      "clinical_symptom_action": "本剤の効果が減弱するおそれがあるため、CYP3A誘導作用のない又は弱い薬剤への代替を考慮すること。",
+      "mechanism_risk_factor": "本剤の代謝酵素であるCYP3Aを誘導し、本剤の血漿中濃度を減少させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A基質ミダゾラム、シンバスタチン、タクロリムス 等",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇するおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がCYP3Aを阻害し、これらの薬剤の血中濃度を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "治療域の狭いP-gp基質ジゴキシン 等",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇するおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がP-gpを阻害し、これらの薬剤の血中濃度を上昇させる可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "other_id": 5062,
+    "other_brand": "ゲフィチニブ錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ゲフィチニブ"
+  },
+  {
+    "other_id": 5063,
+    "other_brand": "ゲフィチニブ錠250mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ゲフィチニブ"
+  },
+  {
+    "other_id": 5064,
+    "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
+    "interaction_type": "caution",
+    "source_text": "ゲフィチニブ"
+  },
+  {
+    "other_id": 5065,
+    "other_brand": "ゲフィチニブ錠250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ゲフィチニブ"
+  },
+  {
+    "other_id": 6163,
+    "other_brand": "スオード錠100",
+    "interaction_type": "caution",
+    "source_text": "合成抗菌剤プルリフロキサシン"
+  },
+  {
+    "other_id": 2290,
+    "other_brand": "エジュラント錠25mg",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n遮断剤\nファモチジン\nシメチジンニザチジンラニチジン"
+  },
+  {
+    "other_id": 3122,
+    "other_brand": "オデフシィ配合錠",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n遮断剤\nファモチジン\nシメチジンニザチジンラニチジン"
+  },
+  {
+    "other_id": 6056,
+    "other_brand": "ジャルカ配合錠",
+    "interaction_type": "caution",
+    "source_text": "H\n2\n遮断剤ファモチジンシメチジンニザチジンラニチジン塩酸塩"
+  },
+  {
+    "other_id": 9795,
+    "other_brand": "ハイツエキシン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "H2受容体拮抗剤\nシメチジン\nファモチジン\nニザチジン等"
+  }
+]

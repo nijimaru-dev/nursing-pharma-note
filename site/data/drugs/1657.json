@@ -1,0 +1,43 @@
+{
+  "id": 1657,
+  "brand_name": "イドビンソ配合錠",
+  "generic_name": "ドラビリン・イスラトラビル水和物",
+  "therapeutic_classification": "抗ウイルス化学療法剤",
+  "indications": "HIV-1感染症",
+  "dose_admin": "通常、成人には、1回1錠（ドラビリンとして100mg及びイスラトラビルとして0.25mgを含有）を1日1回経口投与する。本剤は食事の有無にかかわらず投与できる。",
+  "contraindications": "カルバマゼピン、フェノバルビタール、フェニトイン、ホスフェニトイン、エンザルタミド、アパルタミド、リファンピシン、ミトタン、イボシデニブ、エンコラフェニブ、セイヨウオトギリソウ（St. John’s Wort：セント・ジョーンズ・ワート）含有食品、ラミブジン、エムトリシタビンを投与中の患者\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある",
+    "本剤のイスラトラビルの活性体であるイスラトラビル三リン酸の細胞内濃度が低下し、治療効果が減弱するおそれがあるため、本剤との併用は推奨しない"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カルバマゼピン（テグレトール）\nフェノバルビタール（フェノバール）\nフェニトイン（アレビアチン）\nホスフェニトイン（ホストイン）\nエンザルタミド（イクスタンジ）\nアパルタミド（アーリーダ）\nリファンピシン（リファジン）\nミトタン（オペプリム）\nイボシデニブ（ティブソボ）\nエンコラフェニブ（ビラフトビ）\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,\n,",
+      "clinical_symptom_action": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤及び食品の強力なCYP3A4誘導作用により、ドラビリンの代謝が促進されると予測される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ラミブジン（エピビル）\nエムトリシタビン（デシコビ）\n,\n,",
+      "clinical_symptom_action": "本剤のイスラトラビルの活性体であるイスラトラビル三リン酸の細胞内濃度が低下し、治療効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらデオキシシチジンキナーゼの基質である薬剤との競合により、細胞内でのイスラトラビルのリン酸化が抑制される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファブチン\n,\n,",
+      "clinical_symptom_action": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "リファブチンのCYP3A4誘導作用により、ドラビリンの代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヌクレオシド系代謝拮抗剤\nクラドリビン\nクロファラビン\nシタラビン\nフルダラビン\nゲムシタビン\n,",
+      "clinical_symptom_action": "本剤のイスラトラビルの活性体であるイスラトラビル三リン酸の細胞内濃度が低下し、治療効果が減弱するおそれがあるため、本剤との併用は推奨しない。",
+      "mechanism_risk_factor": "デオキシシチジンキナーゼの基質である薬剤との競合により、細胞内でのイスラトラビルのリン酸化が抑制されると予測される。"
+    }
+  ],
+  "facility_notes": ""
+}

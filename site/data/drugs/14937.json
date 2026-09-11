@@ -1,0 +1,540 @@
+{
+  "id": 14937,
+  "brand_name": "リファジンカプセル150mg",
+  "generic_name": "リファンピシン",
+  "therapeutic_classification": "抗酸菌症治療薬",
+  "indications": "〈適応菌種〉本剤に感性のマイコバクテリウム属〈適応症〉肺結核及びその他の結核症、マイコバクテリウム・アビウムコンプレックス（MAC）症を含む非結核性抗酸菌症、ハンセン病",
+  "dose_admin": "〈肺結核及びその他の結核症〉\n通常成人には、リファンピシンとして1回450mg（力価）を1日1回毎日経口投与する。ただし、感性併用剤のある場合は週2日投与でもよい。原則として朝食前空腹時投与とし、年齢、症状により適宜増減する。また、他の抗結核剤との併用が望ましい。\n〈MAC症を含む非結核性抗酸菌症〉\n通常成人には、リファンピシンとして1回450mg（力価）を1日1回毎日経口投与する。原則として朝食前空腹時投与とし、年齢、症状、体重により適宜増減するが、1日最大量は600mg（力価）を超えない。\n〈ハンセン病〉\n通常成人には、リファンピシンとして1回600mg（力価）を1ヵ月に1～2回または1回450mg（力価）を1日1回毎日経口投与する。原則として朝食前空腹時投与とし、年齢、症状により適宜増減する。また、他の抗ハンセン病剤と併用すること。",
+  "contraindications": "胆道閉塞又は重篤な肝機能障害のある患者\nルラシドン塩酸塩、タダラフィル（アドシルカ）、マシテンタン、ペマフィブラート、チカグレロル、ロルラチニブ、ボリコナゾール、イサブコナゾニウム硫酸塩、リルピビリン塩酸塩、リルピビリン塩酸塩・テノホビル　アラフェナミドフマル酸塩・エムトリシタビン、ドルテグラビルナトリウム・リルピビリン塩酸塩、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩、ダルナビル　エタノール付加物・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩、ドラビリン、ドラビリン・イスラトラビル水和物、カボテグラビル、カボテグラビルナトリウム、レナカパビルナトリウム、ソホスブビル、レジパスビル　アセトン付加物・ソホスブビル、ソホスブビル・ベルパタスビル、グレカプレビル水和物・ピブレンタスビル、テノホビル　アラフェナミドフマル酸塩、ビクテグラビルナトリウム・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩、アメナメビル、ニルマトレルビル・リトナビル、エンシトレルビル　フマル酸、アルテメテル・ルメファントリン又はプラジカンテルを投与中の患者\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "劇症肝炎等の重篤な肝機能障害（頻度不明）\nショック（頻度不明）、アナフィラキシー（頻度不明）\n初期症状：悪寒、顔面潮紅、呼吸困難等\n腎不全（頻度不明）、間質性腎炎（頻度不明）、ネフローゼ症候群（頻度不明）\n溶血性貧血（頻度不明）\n無顆粒球症（頻度不明）、血小板減少（頻度不明）\n偽膜性大腸炎等の血便を伴う重篤な大腸炎（頻度不明）\n症状：腹痛、頻回の下痢等\n中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（頻度不明）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）、扁平苔癬型皮疹（頻度不明）、天疱瘡様及び類天疱瘡様皮疹（頻度不明）、紅皮症（剥脱性皮膚炎）（頻度不明）\n間質性肺炎（頻度不明）",
+  "observation_points": [
+    "劇症肝炎等の重篤な肝機能障害（頻度不明）",
+    "ショック（頻度不明）、アナフィラキシー（頻度不明）",
+    "初期症状：悪寒、顔面潮紅、呼吸困難等",
+    "腎不全（頻度不明）、間質性腎炎（頻度不明）、ネフローゼ症候群（頻度不明）",
+    "溶血性貧血（頻度不明）",
+    "無顆粒球症（頻度不明）、血小板減少（頻度不明）",
+    "偽膜性大腸炎等の血便を伴う重篤な大腸炎（頻度不明）",
+    "症状：腹痛、頻回の下痢等",
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（頻度不明）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）、扁平苔癬型皮疹（頻度不明）、天疱瘡様及び類天疱瘡様皮疹（頻度不明）、紅皮症（剥脱性皮膚炎）（頻度不明）",
+    "間質性肺炎（頻度不明）",
+    "これらの薬剤の作用が減弱することがある",
+    "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある",
+    "外国人健康成人を対象に行った併用試験において、ピタバスタチンのCmax及びAUCが上昇したとの報告がある",
+    "セレキシパグの活性代謝物のAUCが低下したとの報告がある",
+    "ダビガトランの血中濃度が低下することがある",
+    "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある",
+    "クロピドグレル硫酸塩との併用は避けることが望ましい",
+    "外国人健康成人を対象に行った併用試験において、レフルノミドの活性代謝物のCmaxが上昇したとの報告がある",
+    "ロミデプシンの血中濃度が上昇するおそれがある",
+    "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある",
+    "重篤な肝機能障害があらわれることがある",
+    "エタンブトール塩酸塩の視力障害を増強するおそれがある",
+    "視力障害について観察を十分に行う",
+    "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある",
+    "ドルテグラビルの血漿中濃度が低下したとの報告がある",
+    "テノホビル　アラフェナミドフマル酸塩の作用が減弱することがある",
+    "アトバコンとの併用により、アトバコンの血中濃度が約53%低下し、t",
+    "1/2",
+    "は約33時間短縮したとの報告がある",
+    "オキシコドン塩酸塩水和物の作用が減弱することがある",
+    "メサドン塩酸塩の作用が減弱することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "精神神経用剤\nルラシドン塩酸塩\nラツーダ",
+      "clinical_symptom_action": "ルラシドン塩酸塩の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A4誘導作用により、ルラシドン塩酸塩の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "循環器官用薬\nタダラフィル\nアドシルカ",
+      "clinical_symptom_action": "タダラフィルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、本剤（600mg/日）の併用で、タダラフィル（10mg）のCmax及びAUCをそれぞれ46%及び88%低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "循環器官用薬\nマシテンタン\nオプスミット",
+      "clinical_symptom_action": "マシテンタンの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、マシテンタンの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "高脂血症用剤\nペマフィブラート\nパルモディア",
+      "clinical_symptom_action": "ペマフィブラートの血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "本剤がトランスポーター（OATP1B1及びOATP1B3）を阻害すると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "血液・体液用剤\nチカグレロル\nブリリンタ",
+      "clinical_symptom_action": "チカグレロルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、チカグレロルの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗悪性腫瘍剤\nロルラチニブ\nローブレナ",
+      "clinical_symptom_action": "ALT及びASTが上昇するおそれがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗真菌剤\nボリコナゾール\nブイフェンド",
+      "clinical_symptom_action": "ボリコナゾールの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、ボリコナゾールのCmax及びAUCをそれぞれ93%及び96%低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗真菌剤\nイサブコナゾニウム硫酸塩\nクレセンバ",
+      "clinical_symptom_action": "イサブコナゾニウム硫酸塩の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A誘導作用により、イサブコナゾニウム硫酸塩の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nリルピビリン塩酸塩\nエジュラント",
+      "clinical_symptom_action": "リルピビリン塩酸塩の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、リルピビリン塩酸塩の代謝を促進し、Cmin、Cmax及びAUC\n24\nをそれぞれ89%、69%及び80%低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nリルピビリン塩酸塩・テノホビル　アラフェナミドフマル酸塩・エムトリシタビン\nオデフシィ",
+      "clinical_symptom_action": "リルピビリン及びテノホビル　アラフェナミドの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A誘導作用により、リルピビリンの代謝が促進し、血中濃度を低下させると考えられている。また、P糖蛋白誘導作用により、テノホビル　アラフェナミドの血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nドルテグラビルナトリウム・リルピビリン塩酸塩\nジャルカ",
+      "clinical_symptom_action": "ドルテグラビル及びリルピビリンの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A4及びUGT1A1誘導作用により、ドルテグラビルの代謝が促進し、血中濃度を低下させると考えられている。また、CYP3A4誘導作用によりリルピビリンの代謝が促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\nゲンボイヤ",
+      "clinical_symptom_action": "エルビテグラビル、コビシスタット及びテノホビルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、エルビテグラビル及びコビシスタットの代謝を促進し、血中濃度を低下させると考えられている。また、本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nダルナビル　エタノール付加物・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\nシムツーザ",
+      "clinical_symptom_action": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A誘導作用により、ダルナビル、コビシスタット及びテノホビル　アラフェナミドの代謝を促進し、血中濃度を低下させると考えられている。また、本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nドラビリン\nピフェルトロ\nドラビリン・イスラトラビル水和物\nイドビンソ",
+      "clinical_symptom_action": "ドラビリンの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A4誘導作用により、ドラビリンの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nカボテグラビル\nカボテグラビルナトリウム\nボカブリア",
+      "clinical_symptom_action": "カボテグラビルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のUGT1A1誘導作用により、カボテグラビルの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nレナカパビルナトリウム\nシュンレンカ",
+      "clinical_symptom_action": "レナカパビルの作用が減弱し、耐性が発現するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A、P糖蛋白及びUGT1A1 誘導作用により、レナカパビルの血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nソホスブビル\nソバルディ",
+      "clinical_symptom_action": "ソホスブビルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nレジパスビル　アセトン付加物・ソホスブビル\nハーボニー",
+      "clinical_symptom_action": "レジパスビル　アセトン付加物及びソホスブビルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nソホスブビル・ベルパタスビル\nエプクルーサ",
+      "clinical_symptom_action": "ソホスブビル及びベルパタスビルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP及びP糖蛋白誘導作用により、ソホスブビル及びベルパタスビルの血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nグレカプレビル水和物・ピブレンタスビル\nマヴィレット",
+      "clinical_symptom_action": "グレカプレビル水和物及びピブレンタスビルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nテノホビル　アラフェナミドフマル酸塩\nベムリディ",
+      "clinical_symptom_action": "テノホビル　アラフェナミドフマル酸塩の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nビクテグラビルナトリウム・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\nビクタルビ",
+      "clinical_symptom_action": "ビクテグラビルの血漿中濃度が低下するため、効果が減弱し、耐性が発現する可能性があることから、併用しないこと。また、テノホビル　アラフェナミドの血漿中濃度も低下する可能性がある。",
+      "mechanism_risk_factor": "本剤のCYP3A、UGT1A1及びP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nアメナメビル\nアメナリーフ",
+      "clinical_symptom_action": "アメナメビルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、アメナメビルの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nニルマトレルビル・リトナビル\nパキロビッド",
+      "clinical_symptom_action": "ニルマトレルビル及びリトナビルの作用の減弱や耐性出現のおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A誘導作用により、ニルマトレルビル及びリトナビルの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗ウイルス剤\nエンシトレルビル　フマル酸\nゾコーバ",
+      "clinical_symptom_action": "エンシトレルビル　フマル酸の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A誘導作用により、エンシトレルビル　フマル酸の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "抗原虫剤\nアルテメテル・ルメファントリン\nリアメット",
+      "clinical_symptom_action": "アルテメテル及びルメファントリンの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、アルテメテル及びルメファントリンの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "駆虫剤\nプラジカンテル\nビルトリシド",
+      "clinical_symptom_action": "プラジカンテルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4）誘導作用により、プラジカンテルの代謝を促進し、血中濃度を約100%低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "催眠鎮静剤、抗不安剤\nベンゾジアゼピン系薬剤\nジアゼパムミダゾラムトリアゾラム等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "催眠鎮静剤、抗不安剤\n不眠症治療薬\nゾルピデム酒石酸塩ゾピクロン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗てんかん剤\nフェニトインカルバマゼピン等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗てんかん剤\nラモトリギン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤のUGT誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "解熱鎮痛消炎剤\nアセトアミノフェン",
+      "clinical_symptom_action": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素誘導作用により、アセトアミノフェンの代謝を促進し、肝毒性を有する代謝物の産生を増加させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "解熱鎮痛消炎剤\nブプレノルフィン塩酸塩",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、ブプレノルフィン塩酸塩の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗パーキンソン剤\nイストラデフィリン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "精神神経用剤\nハロペリドールブロムペリドールオランザピンクエチアピンフマル酸塩クロザピンノルトリプチリン塩酸塩ミルタザピン等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経系用薬\nドネペジル塩酸塩スボレキサント",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "鎮けい剤\nチザニジン塩酸塩",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強心剤\nジギタリス製剤",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）及びP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "不整脈用剤\nキニジン硫酸塩水和物メキシレチン塩酸塩ジソピラミドプロパフェノン塩酸塩ピルシカイニド塩酸塩水和物β遮断剤\nメトプロロール酒石酸塩プロプラノロール塩酸塩等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤\nトルバプタン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血圧降下剤\nブナゾシン塩酸塩エプレレノンカルベジロールアゼルニジピン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血圧降下剤\nエナラプリルマレイン酸塩",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血管収縮剤\nエレトリプタン臭化水素酸塩",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血管拡張剤\nカルシウム拮抗薬\nベラパミル塩酸塩ニフェジピン等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "高脂血症用剤\nクロフィブラートフルバスタチンナトリウムCYP3A4で代謝される薬剤\nシンバスタチン等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "高脂血症用剤\nピタバスタチンカルシウム",
+      "clinical_symptom_action": "外国人健康成人を対象に行った併用試験において、ピタバスタチンのCmax及びAUCが上昇したとの報告がある。",
+      "mechanism_risk_factor": "有機アニオントランスポーターを介したピタバスタチンの肝臓への取り込みを阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "循環器官用薬\nボセンタン水和物トレプロスチニル",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "循環器官用薬\nセレキシパグ",
+      "clinical_symptom_action": "セレキシパグの活性代謝物のAUCが低下したとの報告がある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP2C8）誘導作用により、セレキシパグの活性代謝物の代謝が促進すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "気管支拡張剤\nテオフィリン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "消化器官用薬\n5-HT\n3\n受容体拮抗型制吐薬\nオンダンセトロン塩酸塩水和物\nNK\n1\n受容体拮抗型制吐薬\nホスアプレピタントメグルミン\nセビメリン塩酸塩水和物",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、これらの薬剤又は活性代謝物の血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副腎皮質ホルモン剤",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "卵胞ホルモン・黄体ホルモン剤",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "泌尿生殖器官用薬\nホスホジエステラーゼ5阻害剤\nシルデナフィルクエン酸塩バルデナフィル塩酸塩水和物タダラフィル（シアリス、ザルティア）",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "泌尿生殖器官用薬\n過活動膀胱治療薬\nコハク酸ソリフェナシン等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "泌尿生殖器官用薬\n過活動膀胱治療薬\nミラベグロンビベグロン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）及びP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "外皮用薬\nジアフェニルスルホン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、ジアフェニルスルホンの代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血液凝固阻止剤\nクマリン系抗凝固薬",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血液凝固阻止剤\nリバーロキサバンアピキサバン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）及びP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血液凝固阻止剤\nダビガトランエテキシラートメタンスルホン酸塩",
+      "clinical_symptom_action": "ダビガトランの血中濃度が低下することがある。",
+      "mechanism_risk_factor": "本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血液・体液用薬\nクロピドグレル硫酸塩",
+      "clinical_symptom_action": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。",
+      "mechanism_risk_factor": "本剤のCYP2C19誘導作用により、クロピドグレル硫酸塩の活性代謝物の血漿中濃度が上昇すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "解毒剤\nデフェラシロクス",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤のUGT誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖尿病用剤\nカナグリフロジン水和物",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤のUGT1A9及びUGT2B4誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖尿病用剤\nその他CYP3A4等で代謝される経口糖尿病薬",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "代謝性医薬品\nミコフェノール酸モフェチルシクロスポリンタクロリムス水和物トファシチニブクエン酸塩エリグルスタット酒石酸塩",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "代謝性医薬品\nレフルノミド",
+      "clinical_symptom_action": "外国人健康成人を対象に行った併用試験において、レフルノミドの活性代謝物のCmaxが上昇したとの報告がある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、レフルノミドから活性代謝物への代謝を促進すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗悪性腫瘍製剤\nCYP3A4等で代謝される薬剤\nイリノテカン塩酸塩水和物タモキシフェンクエン酸塩トレミフェンクエン酸塩イマチニブメシル酸塩ゲフィチニブラパチニブトシル酸塩水和物レトロゾールエンザルタミド等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、これらの薬剤又は活性代謝物の血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗悪性腫瘍製剤\nギルテリチニブフマル酸塩",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤のCYP3A及びP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗悪性腫瘍製剤\nロミデプシン",
+      "clinical_symptom_action": "ロミデプシンの血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗生物質製剤\nクラリスロマイシンクロラムフェニコールドキシサイクリン塩酸塩水和物",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗真菌剤\nカスポファンギン酢酸塩",
+      "clinical_symptom_action": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。",
+      "mechanism_risk_factor": "トランスポーター（OATP1B1）を介した輸送過程が影響すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗結核薬\n抗結核薬\nイソニアジド等",
+      "clinical_symptom_action": "重篤な肝機能障害があらわれることがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素誘導作用により、イソニアジドの代謝を促進し、肝毒性を有する代謝物の産生を増加させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗結核薬\nエタンブトール塩酸塩",
+      "clinical_symptom_action": "エタンブトール塩酸塩の視力障害を増強するおそれがある。視力障害について観察を十分に行う。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "合成抗菌剤\nリネゾリド",
+      "clinical_symptom_action": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nHIVプロテアーゼ阻害剤（リトナビル、ロピナビル等）ネビラピンマラビロクエファビレンツ",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nジドブジン",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤のUGT誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nラルテグラビルカリウム",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤のUGT1A1誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nドルテグラビルナトリウム",
+      "clinical_symptom_action": "ドルテグラビルの血漿中濃度が低下したとの報告がある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）及びUGT1A1誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗ウイルス剤\nHIV感染症治療薬\nエムトリシタビン・テノホビル　アラフェナミドフマル酸塩",
+      "clinical_symptom_action": "テノホビル　アラフェナミドフマル酸塩の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤のP糖蛋白誘導作用によるものと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "化学療法剤\nテルビナフィン塩酸塩アゾール系抗真菌薬\nフルコナゾール等",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、これらの薬剤の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "化学療法剤\nアトバコン",
+      "clinical_symptom_action": "アトバコンとの併用により、アトバコンの血中濃度が約53%低下し、t\n1/2\nは約33時間短縮したとの報告がある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "天然麻薬\nオキシコドン塩酸塩水和物",
+      "clinical_symptom_action": "オキシコドン塩酸塩水和物の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、オキシコドン塩酸塩水和物の代謝を促進し、血中濃度を低下させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "合成麻薬\nメサドン塩酸塩",
+      "clinical_symptom_action": "メサドン塩酸塩の作用が減弱することがある。",
+      "mechanism_risk_factor": "本剤の肝薬物代謝酵素（CYP3A4等）誘導作用により、メサドン塩酸塩の代謝を促進し、血中濃度を低下させると考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

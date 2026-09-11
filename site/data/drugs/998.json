@@ -1,0 +1,59 @@
+{
+  "id": 998,
+  "brand_name": "アメナリーフ錠200mg",
+  "generic_name": "アメナメビル",
+  "therapeutic_classification": "抗ヘルペスウイルス剤",
+  "indications": "帯状疱疹\n再発性の単純疱疹",
+  "dose_admin": "〈帯状疱疹〉\n通常、成人にはアメナメビルとして1回400mgを1日1回食後に経口投与する。\n〈再発性の単純疱疹〉\n通常、成人にはアメナメビルとして1200mgを食後に単回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nリファンピシンを投与中の患者\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "多形紅斑（頻度不明）",
+  "observation_points": [
+    "多形紅斑（頻度不明）",
+    "これらの薬剤の血中濃度が低下し、これらの薬剤の作用を減弱するおそれがある",
+    "本剤の血中濃度が上昇するおそれがある",
+    "本剤の血中濃度が低下し、本剤の作用が減弱するおそれがある",
+    "相互に血中濃度が低下し、本剤及びこれらの薬剤の作用が減弱するおそれがある",
+    "この薬剤の血中濃度が低下し、この薬剤の作用を減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン（リファジン）\n,",
+      "clinical_symptom_action": "相互に血中濃度が低下し、本剤及びこの薬剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤及びこの薬剤のCYP3A誘導作用により相互に代謝が促進されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aの基質となる薬剤\nミダゾラム、ブロチゾラム、ニフェジピン等",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が低下し、これらの薬剤の作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A誘導作用によりこれらの薬剤の代謝が促進されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aを阻害する薬剤\nリトナビル、クラリスロマイシン等\nグレープフルーツジュース",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤が本剤の代謝を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aを誘導する薬剤\nリファブチン、カルバマゼピン、フェノバルビタール等\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "相互に血中濃度が低下し、本剤及びこれらの薬剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤及びこれらの薬剤のCYP3A誘導作用により相互に代謝が促進されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2B6の基質となる薬剤\nエファビレンツ",
+      "clinical_symptom_action": "この薬剤の血中濃度が低下し、この薬剤の作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP2B6誘導作用によりCYP2B6の基質となる薬剤の代謝が促進されると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "other_id": 1322,
+    "other_brand": "アロカリス点滴静注235mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nデキサメタゾン、ドセタキセル、シクロホスファミド、エトポシド、ピモジド、ミダゾラム、エリスロマイシン、経口避妊剤（エチニルエストラジオール・レボノルゲストレル）等\n,"
+  },
+  {
+    "other_id": 3640,
+    "other_brand": "オータイロカプセル40mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）、シンバスタチン等\n,"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 11853,
+    "other_brand": "プリミドン錠250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 13336,
+    "other_brand": "ミコブティンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 9795,
+    "other_brand": "ハイツエキシン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム\nトリアゾラム\nジアゼパム\n経口避妊薬（レボノルゲストレル・エチニルエストラジオール、デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール）等"
+  },
+  {
+    "other_id": 10600,
+    "other_brand": "ビブラマイシン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）"
+  },
+  {
+    "other_id": 11035,
+    "other_brand": "フィコンパ点滴静注用2mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（レボノルゲストレル）"
+  },
+  {
+    "other_id": 11036,
+    "other_brand": "フィコンパ錠2mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（レボノルゲストレル）"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11392,
+    "other_brand": "フルコナゾールカプセル50mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11395,
+    "other_brand": "フルコナゾールカプセル50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11408,
+    "other_brand": "フルコナゾール静注50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11409,
+    "other_brand": "フルコナゾール静注50mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 11653,
+    "other_brand": "ブルキンザカプセル80mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）、トリアゾラム等\n,"
+  },
+  {
+    "other_id": 12024,
+    "other_brand": "プロジフ静注液100",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬\nエチニルエストラジオールレボノルゲストレル等"
+  },
+  {
+    "other_id": 12585,
+    "other_brand": "ペランパネル錠2mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（レボノルゲストレル）"
+  },
+  {
+    "other_id": 12586,
+    "other_brand": "ペランパネル錠2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（レボノルゲストレル）"
+  },
+  {
+    "other_id": 12591,
+    "other_brand": "ペランパネル錠2mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（レボノルゲストレル）"
+  },
+  {
+    "other_id": 12587,
+    "other_brand": "ペランパネルOD錠2mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（レボノルゲストレル）"
+  },
+  {
+    "other_id": 12971,
+    "other_brand": "ボラニゴ錠10mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 15198,
+    "other_brand": "レダマイシンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "黄体・卵胞ホルモン配合剤\n経口避妊剤\nレボノルゲストレル・エチニルエストラジオール\nノルエチステロン・エチニルエストラジオール\nデソゲストレル・エチニルエストラジオール等"
+  }
+]

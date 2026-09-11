@@ -1,0 +1,24 @@
+{
+  "id": 15349,
+  "brand_name": "レボカルニチンFF内用液10%「トーワ」",
+  "generic_name": "レボカルニチン内用液",
+  "therapeutic_classification": "レボカルニチン製剤",
+  "indications": "カルニチン欠乏症",
+  "dose_admin": "通常、成人には、レボカルニチンとして、1日1.5～3g（15～30mL）を3回に分割経口投与する。なお、患者の状態に応じて適宜増減する。通常、小児には、レボカルニチンとして、1日体重1kgあたり25～100mg（0.25～1mL）を3回に分割経口投与する。なお、患者の状態に応じて適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n分包品は、1回使い切りである。開封後は全量を速やかに服用すること。\n小児の手の届かない所に保管すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "低血糖症状があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖尿病用薬\n経口糖尿病治療薬インスリン製剤等",
+      "clinical_symptom_action": "低血糖症状があらわれるおそれがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

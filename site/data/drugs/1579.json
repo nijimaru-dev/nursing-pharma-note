@@ -1,0 +1,40 @@
+{
+  "id": 1579,
+  "brand_name": "イセルティ錠100mg",
+  "generic_name": "リンザゴリクスコリン錠",
+  "therapeutic_classification": "GnRHアンタゴニスト",
+  "indications": "子宮筋腫に基づく下記諸症状の改善\n過多月経、下腹痛、腰痛、貧血",
+  "dose_admin": "通常、成人にはリンザゴリクスとして200mgを1日1回経口投与する。なお、初回投与は月経周期1～5日目に行う。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性\n,\n診断のつかない異常性器出血の患者［悪性疾患の可能性がある。］\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "うつ状態（1%未満）\nエストロゲン低下作用に基づく更年期障害様のうつ状態があらわれることがある。",
+  "observation_points": [
+    "うつ状態（1%未満）",
+    "エストロゲン低下作用に基づく更年期障害様のうつ状態があらわれることがある",
+    "本剤の効果が減弱することがある",
+    "QT間隔延長があらわれるおそれがある",
+    "これらの薬剤の血中濃度が上昇し、副作用が増強する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "性ホルモン剤（エストラジオール誘導体、エストリオール誘導体、結合型エストロゲン製剤、卵胞ホルモンと黄体ホルモンの合剤、両性混合ホルモン剤等）",
+      "clinical_symptom_action": "本剤の効果が減弱することがある。",
+      "mechanism_risk_factor": "本剤は性ホルモンの分泌を低下させることにより薬効を示す。したがって、性ホルモン剤の投与は本剤の治療効果を減弱させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT間隔延長を起こすことが知られている薬剤\nアジスロマイシン\nクラリスロマイシン\nレボフロキサシン等",
+      "clinical_symptom_action": "QT間隔延長があらわれるおそれがある。",
+      "mechanism_risk_factor": "併用によりQT間隔延長作用が増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C8の基質となる薬剤\nレパグリニド\nピオグリタゾン\nモンテルカスト等",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇し、副作用が増強する可能性がある。",
+      "mechanism_risk_factor": "本剤のCYP2C8阻害作用による。"
+    }
+  ],
+  "facility_notes": ""
+}

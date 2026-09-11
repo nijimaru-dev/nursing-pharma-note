@@ -1,0 +1,41 @@
+{
+  "id": 10892,
+  "brand_name": "ピレスパ錠200mg",
+  "generic_name": "ピルフェニドン",
+  "therapeutic_classification": "抗線維化剤",
+  "indications": "特発性肺線維症",
+  "dose_admin": "通常、成人にはピルフェニドンとして初期用量1回200mgを1日3回（1日600mg）食後に経口投与し、患者の状態を観察しながら1回量を200mgずつ漸増し、1回600mg（1日1800mg）まで増量する。なお、症状により適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "肝機能障害（頻度不明）、黄疸（0.4%）\nAST、ALT等の上昇を伴う肝機能障害、黄疸があらわれ、肝不全に至ることがある。\n無顆粒球症、白血球減少、好中球減少（いずれも頻度不明）",
+  "observation_points": [
+    "肝機能障害（頻度不明）、黄疸（0.4%）",
+    "AST、ALT等の上昇を伴う肝機能障害、黄疸があらわれ、肝不全に至ることがある",
+    "無顆粒球症、白血球減少、好中球減少（いずれも頻度不明）",
+    "本剤のAUCが約4倍増加したとの報告がある",
+    "本剤のAUCが約1.8倍増加したとの報告がある",
+    "本剤のAUCが約50%に減少したとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルボキサミンマレイン酸塩",
+      "clinical_symptom_action": "本剤のAUCが約4倍増加したとの報告がある\n。",
+      "mechanism_risk_factor": "これらの薬剤はCYP1A2を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シプロフロキサシン",
+      "clinical_symptom_action": "本剤のAUCが約1.8倍増加したとの報告がある\n。",
+      "mechanism_risk_factor": "これらの薬剤はCYP1A2を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タバコ",
+      "clinical_symptom_action": "本剤のAUCが約50%に減少したとの報告がある\n。",
+      "mechanism_risk_factor": "喫煙はCYP1A2を誘導する。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -123,13 +123,33 @@ function renderCheck() {
 
   resultsRoot.innerHTML = `<h2 class="section-label">チェック結果</h2><div id="interaction-results"></div>`;
   const interactionResultsEl = document.getElementById("interaction-results");
+  const idSet = new Set(ids);
 
-  DrugData.loadInteractions().then((pairs) => {
-    const idSet = new Set(ids);
-    const relevant = pairs.filter((p) => idSet.has(p.drug_a_id) && idSet.has(p.drug_b_id));
+  // 相互作用は薬品ごとのファイル（interactions/{id}.json）に分割されているため、
+  // 選択された薬の分だけ取得し、選択セット内の相手だけを拾い上げる。
+  Promise.all(
+    ids.map((id) => DrugData.loadDrugInteractions(id).then((list) => ({ id, list })))
+  ).then((results) => {
+    const foundPairs = new Map(); // "aId-bId-type" -> 表示用データ
+    results.forEach(({ id, list }) => {
+      list.forEach((entry) => {
+        if (!idSet.has(entry.other_id)) return;
+        const [aId, bId] = [id, entry.other_id].sort((x, y) => x - y);
+        const key = `${aId}-${bId}-${entry.interaction_type}`;
+        if (foundPairs.has(key)) return;
+        foundPairs.set(key, {
+          aId,
+          bId,
+          aBrand: selected.get(aId).brand_name || selected.get(aId).generic_name,
+          bBrand: selected.get(bId).brand_name || selected.get(bId).generic_name,
+          interaction_type: entry.interaction_type,
+          source_text: entry.source_text,
+        });
+      });
+    });
 
     // 選択された全ペアのうち、相互作用が見つかったものと見つからなかったものを分ける
-    const foundPairKeys = new Set(relevant.map((p) => `${p.drug_a_id}-${p.drug_b_id}`));
+    const foundPairKeys = new Set(Array.from(foundPairs.values()).map((p) => `${p.aId}-${p.bId}`));
     const noneFoundPairs = [];
     for (let i = 0; i < ids.length; i++) {
       for (let j = i + 1; j < ids.length; j++) {
@@ -140,7 +160,7 @@ function renderCheck() {
       }
     }
 
-    const sorted = relevant.slice().sort((a, b) =>
+    const sorted = Array.from(foundPairs.values()).sort((a, b) =>
       a.interaction_type === b.interaction_type ? 0 : a.interaction_type === "contraindicated" ? -1 : 1
     );
 
@@ -149,7 +169,7 @@ function renderCheck() {
       html += `
         <div class="result-card ${p.interaction_type === "caution" ? "result-card--caution" : ""}">
           <div class="pair-type">${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</div>
-          <div class="pair-name">${escapeHTML(p.a_brand)} × ${escapeHTML(p.b_brand)}</div>
+          <div class="pair-name">${escapeHTML(p.aBrand)} × ${escapeHTML(p.bBrand)}</div>
           <div class="pair-detail">${escapeHTML(p.source_text)}</div>
         </div>`;
     });

@@ -1,0 +1,24 @@
+{
+  "id": 8012,
+  "brand_name": "テトラサイクリン・プレステロン歯科用軟膏",
+  "generic_name": "エピジヒドロコレステリン・テトラサイクリン塩酸塩軟膏",
+  "therapeutic_classification": "歯科用抗生物質製剤",
+  "indications": "<適応菌種>\nテトラサイクリン感性菌\n<適応症>\n歯周組織炎、抜歯創・口腔手術創の二次感染、感染性口内炎",
+  "dose_admin": "1日数回、患部に適量を塗布又は塗擦する。",
+  "contraindications": "テトラサイクリン系抗生物質に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤使用前の注意\n使用の際は、患部の唾液等を脱脂綿等で拭き取り、患部をなるべく乾燥させること。\n薬剤使用後の注意\n塗布後はしばらく（1時間程度）うがいや食事を控えること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の作用が減弱することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ハロゲン剤（ヨード、次亜塩素酸）、金属の塩類（カルシウム、マグネシウム、アルミニウム、鉄剤等）",
+      "clinical_symptom_action": "本剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

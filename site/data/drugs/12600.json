@@ -1,0 +1,54 @@
+{
+  "id": 12600,
+  "brand_name": "ペリアクチンシロップ0.04%",
+  "generic_name": "シプロヘプタジン塩酸塩水和物シロップ",
+  "therapeutic_classification": "抗アレルギー剤",
+  "indications": "皮膚疾患に伴う瘙痒（湿疹・皮膚炎、皮膚瘙痒症、薬疹）\nじん麻疹\n血管運動性浮腫\n枯草熱\nアレルギー性鼻炎\n血管運動性鼻炎\n感冒等上気道炎に伴うくしゃみ・鼻汁・咳嗽",
+  "dose_admin": "シプロヘプタジン塩酸塩として、通常成人1回4mgを1日1～3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n狭窄性胃潰瘍のある患者［抗コリン作用により胃内容の停滞が起こり、その結果胃酸分泌亢進が起き、症状を悪化させるおそれがある。］\n幽門十二指腸閉塞のある患者［抗コリン作用により胃内容の停滞、幽門十二指腸部の膨満が起こり、症状を悪化させるおそれがある。］\n前立腺肥大等下部尿路に閉塞性疾患のある患者［抗コリン作用により尿閉を悪化させるおそれがある。］\n気管支喘息の急性発作時の患者\n新生児・低出生体重児\n老齢の衰弱した患者\n,\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "錯乱、幻覚（いずれも頻度不明）\n痙攣（頻度不明）\n無顆粒球症（頻度不明）",
+  "observation_points": [
+    "錯乱、幻覚（いずれも頻度不明）",
+    "痙攣（頻度不明）",
+    "無顆粒球症（頻度不明）",
+    "相互に作用を増強することがある",
+    "抗コリン作用が持続、増強されるおそれがある",
+    "抗コリン作用が増強されるおそれがある",
+    "これらの薬剤の作用を減弱することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "相互に作用を増強することがある。",
+      "mechanism_risk_factor": "両薬剤とも中枢神経抑制作用を有するため、併用により鎮静作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\n睡眠剤\n鎮静剤\nトランキライザー\n抗不安剤　等",
+      "clinical_symptom_action": "相互に作用を増強することがある。",
+      "mechanism_risk_factor": "両薬剤とも中枢神経抑制作用を有するため、併用により鎮静作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩\nラサギリンメシル酸塩\nサフィナミドメシル酸塩",
+      "clinical_symptom_action": "抗コリン作用が持続、増強されるおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗コリン作動薬\nアトロピン硫酸塩水和物\nブチルスコポラミン臭化物\nブトロピウム臭化物　等",
+      "clinical_symptom_action": "抗コリン作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "本剤は弱いながらも抗コリン作用を有するため、併用により抗コリン作用が増強する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セロトニン系を介して効果を発揮する抗うつ薬\n選択的セロトニン再取り込み阻害剤　等",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "本剤は抗セロトニン作用を有するため、これらの薬剤によるセロトニン神経伝達増強作用が減弱する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

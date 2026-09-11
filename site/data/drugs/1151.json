@@ -1,0 +1,42 @@
+{
+  "id": 1151,
+  "brand_name": "アルギメート点滴静注10%",
+  "generic_name": "L-アルギニン L-グルタミン酸塩水和物製剤",
+  "therapeutic_classification": "高アンモニア血症改善剤",
+  "indications": "高アンモニア血症",
+  "dose_admin": "L-アルギニンL-グルタミン酸塩として、通常成人1日2～20gを1～数回に分けて点滴静脈内注射する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "全般的な注意\n針は、ゴム栓の刻印部（凹部）に垂直にゆっくりと刺すこと。斜めに刺した場合、削り片の混入及び液漏れの原因となるおそれがある。また、針は同一箇所に繰り返し刺さないこと。\n薬剤投与時の注意\n原則として、連結管を用いたタンデム方式による投与は行わないこと。輸液セット内に空気が流入するおそれがある。\n容器の目盛りは目安として使用すること。\n残液は使用しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "アンモニアを産生したり、アンモニア代謝排泄を抑制する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "全身麻酔剤\nバルビツール酸類",
+      "clinical_symptom_action": "アンモニアを産生したり、アンモニア代謝排泄を抑制する可能性がある。",
+      "mechanism_risk_factor": "肝におけるアンモニア代謝を阻害することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イソニアジド",
+      "clinical_symptom_action": "アンモニアを産生したり、アンモニア代謝排泄を抑制する可能性がある。",
+      "mechanism_risk_factor": "血中アンモニア濃度を増大させることを示唆する報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イオン交換樹脂製剤",
+      "clinical_symptom_action": "アンモニアを産生したり、アンモニア代謝排泄を抑制する可能性がある。",
+      "mechanism_risk_factor": "アンモニア毒性を増悪するといわれているが詳細は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤\nチアジド系利尿剤",
+      "clinical_symptom_action": "アンモニアを産生したり、アンモニア代謝排泄を抑制する可能性がある。",
+      "mechanism_risk_factor": "血中カリウム値の低下により代償的にアンモニアの上昇が生じるとの説がある。"
+    }
+  ],
+  "facility_notes": ""
+}

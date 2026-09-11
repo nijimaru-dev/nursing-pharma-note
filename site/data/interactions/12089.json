@@ -1,0 +1,92 @@
+[
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 5557,
+    "other_brand": "シクロスポリンカプセル10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 5563,
+    "other_brand": "シクロスポリンカプセル10mg「TC」",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 5812,
+    "other_brand": "シンビット静注用50mg",
+    "interaction_type": "caution",
+    "source_text": "プロブコール\nフェノチアジン系薬剤\n三環系抗うつ剤\n四環系抗うつ剤\n交感神経作動薬"
+  },
+  {
+    "other_id": 8797,
+    "other_brand": "トリセノックス点滴静注12mg",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nドロペリドール\n抗精神病薬\nクロルプロマジン、ハロペリドール、ピモジド、チオリダジン等\n抗うつ薬\nイミプラミン等\n抗不整脈薬\nアミオダロン、ベプリジル、ジソピラミド、プロカインアミド、キニジン、ソタロール等\nフロセミド\nプロブコール\nファモチジン\nプロピベリン\n消化管運動亢進薬\nシサプリド、ドンペリドン等\n抗菌薬\nクラリスロマイシン、エリスロマイシン、スパルフロキサシン等\n抗真菌薬\nフルコナゾール等\nペンタミジン\n等"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "オクトレオチドランレオチドパシレオチドプロブコール"
+  },
+  {
+    "other_id": 4607,
+    "other_brand": "クロフィブラートカプセル250mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "クロフィブラート"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "クロフィブラート"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "クロフィブラート"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "クロフィブラート"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "クロフィブラート"
+  }
+]

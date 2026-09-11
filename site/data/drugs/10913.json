@@ -1,0 +1,48 @@
+{
+  "id": 10913,
+  "brand_name": "ピートルチュアブル錠250mg",
+  "generic_name": "スクロオキシ水酸化鉄チュアブル錠",
+  "therapeutic_classification": "高リン血症治療剤",
+  "indications": "透析中の慢性腎臓病患者における高リン血症の改善",
+  "dose_admin": "通常、成人には、鉄として1回250mgを開始用量とし、1日3回食直前に経口投与する。以後、症状、血清リン濃度の程度により適宜増減するが、最高用量は1日3000mgとする。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤調製時の注意\n通常の錠剤に比べてやわらかいため、自動分包機には適さない。\n薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n本剤は口中で噛み砕いて服用すること。\n本剤の投与により便が黒色を呈することがある。\n本剤の投与により口内が一時的に着色（茶褐色）することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の作用を減弱させるおそれがあるので、併用する場合には、これらの薬剤の作用を観察すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nドキシサイクリン塩酸塩水和物等",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがあるので、併用する場合には、これらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これらの薬剤と結合し、吸収を減少させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物等",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがあるので、併用する場合には、これらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これらの薬剤と結合し、吸収を減少させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セフジニル",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがあるので、併用する場合には、これらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これらの薬剤では、鉄剤との結合により、吸収が減少するおそれがあるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗パーキンソン剤\nベンセラジド塩酸塩・レボドパ等",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがあるので、併用する場合には、これらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これらの薬剤では、鉄剤との結合により、吸収が減少するおそれがあるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エルトロンボパグ オラミン",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがあるので、併用する場合には、これらの薬剤の作用を観察すること。",
+      "mechanism_risk_factor": "これらの薬剤では、鉄剤との結合により、吸収が減少するおそれがあるとの報告がある。"
+    }
+  ],
+  "facility_notes": ""
+}

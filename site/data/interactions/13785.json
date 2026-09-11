@@ -1,0 +1,110 @@
+[
+  {
+    "other_id": 9097,
+    "other_brand": "ドパストンカプセル250mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ等"
+  },
+  {
+    "other_id": 9099,
+    "other_brand": "ドパストン静注25mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ等"
+  },
+  {
+    "other_id": 9101,
+    "other_brand": "ドパゾール錠200mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ等"
+  },
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "腎尿細管分泌（カチオン輸送系）により排泄される薬剤\nシメチジン等"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "腎尿細管分泌（カチオン輸送系）により排泄される薬剤\nシメチジン等"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "腎尿細管分泌（カチオン輸送系）により排泄される薬剤\nシメチジン等"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "腎尿細管分泌（カチオン輸送系）により排泄される薬剤\nシメチジン等"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "腎尿細管分泌（カチオン輸送系）により排泄される薬剤\nシメチジン等"
+  },
+  {
+    "other_id": 7394,
+    "other_brand": "ダイアモックス末",
+    "interaction_type": "caution",
+    "source_text": "尿アルカリ化を起こす薬剤\nアセタゾラミド等\n,"
+  },
+  {
+    "other_id": 753,
+    "other_brand": "アマンタジン塩酸塩錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 754,
+    "other_brand": "アマンタジン塩酸塩錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 757,
+    "other_brand": "アマンタジン塩酸塩錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 758,
+    "other_brand": "アマンタジン塩酸塩錠50mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 759,
+    "other_brand": "アマンタジン塩酸塩錠50mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 8259,
+    "other_brand": "デキストロメトルファン臭化水素酸塩錠15mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 13621,
+    "other_brand": "メジコン錠15mg",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "NMDA受容体拮抗作用を有する薬剤\nアマンタジン塩酸塩、デキストロメトルファン臭化水素酸塩水和物等"
+  }
+]

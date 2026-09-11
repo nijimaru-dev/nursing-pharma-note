@@ -1,0 +1,24 @@
+{
+  "id": 10166,
+  "brand_name": "パム静注500mg",
+  "generic_name": "プラリドキシムヨウ化物",
+  "therapeutic_classification": "有機リン剤中毒解毒剤",
+  "indications": "有機リン剤の中毒",
+  "dose_admin": "プラリドキシムヨウ化物として通常成人1回1gを静脈内に徐々に注射する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "混注により薬効発現が遅延することがあるので、併用する必要がある場合は混注しないこと"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アトロピン",
+      "clinical_symptom_action": "混注により薬効発現が遅延することがあるので、併用する必要がある場合は混注しないこと。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

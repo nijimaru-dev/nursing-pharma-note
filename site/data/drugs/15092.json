@@ -1,0 +1,122 @@
+{
+  "id": 15092,
+  "brand_name": "ルプラック錠4mg",
+  "generic_name": "トラセミド錠",
+  "therapeutic_classification": "ループ利尿剤",
+  "indications": "心性浮腫\n腎性浮腫\n肝性浮腫",
+  "dose_admin": "通常、成人には、トラセミドとして、1日1回4～8mgを経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "無尿の患者［本剤の効果が期待できない。］\n肝性昏睡の患者\n体液中のナトリウム、カリウムが明らかに減少している患者［電解質失調を起こすおそれがある。］\nデスモプレシン酢酸塩水和物（男性における夜間多尿による夜間頻尿）を投与中の患者\n本剤の成分又はスルフォンアミド誘導体に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "肝機能障害（0.03%）、黄疸（頻度不明）\nAST、ALT、ALPの上昇等を伴う肝機能障害、黄疸があらわれることがある。\n血小板減少（頻度不明）\n低カリウム血症、高カリウム血症（いずれも頻度不明）\n血清カリウム値の異常変動に伴い、不整脈、全身倦怠感、脱力等が発現するおそれがある。\n,\n,\n,\n,",
+  "observation_points": [
+    "肝機能障害（0.03%）、黄疸（頻度不明）",
+    "AST、ALT、ALPの上昇等を伴う肝機能障害、黄疸があらわれることがある",
+    "血小板減少（頻度不明）",
+    "低カリウム血症、高カリウム血症（いずれも頻度不明）",
+    "血清カリウム値の異常変動に伴い、不整脈、全身倦怠感、脱力等が発現するおそれがある",
+    ",",
+    "昇圧アミンの作用を減弱するおそれがあるので、手術前の患者に使用する場合には、一時休薬等の処置を講ずること",
+    "麻痺作用を増強することがあるので、手術前の患者に使用する場合には、一時休薬等の処置を講ずること",
+    "併用する降圧剤の用量調節に注意する",
+    "併用を避けることが望ましい",
+    "やむを得ず投与する場合には、アミノグリコシド系抗生物質の血中濃度をモニターし、投与量、投与間隔を調節する",
+    "併用する場合には、慎重に投与する",
+    "不整脈を起こすおそれがある",
+    "血清カリウム値をモニターし、カリウム剤の補充を行う",
+    "過剰のカリウム放出を起こすおそれがあるので、併用する場合には、慎重に投与する",
+    "糖尿病用剤の作用を著しく減弱するおそれがある",
+    "リチウム中毒を起こすおそれがあるので、血中リチウム濃度に注意すること",
+    "サリチル酸中毒が発現するおそれがある",
+    "本剤の利尿作用が減弱されるおそれがある",
+    "尿酸排泄促進剤の尿酸排泄作用を減弱するおそれがある",
+    "症候性低ナトリウム血症があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）",
+      "clinical_symptom_action": "低ナトリウム血症が発現するおそれがある。",
+      "mechanism_risk_factor": "いずれも低ナトリウム血症が発現するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "昇圧アミン（ノルアドレナリン等）",
+      "clinical_symptom_action": "昇圧アミンの作用を減弱するおそれがあるので、手術前の患者に使用する場合には、一時休薬等の処置を講ずること。",
+      "mechanism_risk_factor": "本剤が昇圧アミンに対する血管壁の反応性を低下させるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ツボクラリン及びその類似物質（ツボクラリン塩化物塩酸塩水和物）",
+      "clinical_symptom_action": "麻痺作用を増強することがあるので、手術前の患者に使用する場合には、一時休薬等の処置を講ずること。",
+      "mechanism_risk_factor": "血清カリウム値の低下により、これらの薬剤の神経・筋遮断作用が増強されると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "降圧剤（ACE阻害剤、β遮断剤等）",
+      "clinical_symptom_action": "併用する降圧剤の用量調節に注意する。",
+      "mechanism_risk_factor": "併用により降圧作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミノグリコシド系抗生物質（ゲンタマイシン硫酸塩、アミカシン硫酸塩等）",
+      "clinical_symptom_action": "併用を避けることが望ましい。やむを得ず投与する場合には、アミノグリコシド系抗生物質の血中濃度をモニターし、投与量、投与間隔を調節する。",
+      "mechanism_risk_factor": "アミノグリコシド系抗生物質の腎障害及び第8脳神経障害（聴力障害）を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セファロスポリン系抗生物質",
+      "clinical_symptom_action": "併用する場合には、慎重に投与する。",
+      "mechanism_risk_factor": "尿細管でのナトリウムの再吸収の増加に伴い、セファロスポリン系抗生物質の再吸収も増加し、腎毒性を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス剤（ジギトキシン、ジゴキシン等）",
+      "clinical_symptom_action": "不整脈を起こすおそれがある。血清カリウム値をモニターし、カリウム剤の補充を行う。",
+      "mechanism_risk_factor": "低カリウム血症を起こし、ジギタリスの心臓毒性を増強する可能性が考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖質副腎皮質ホルモン剤ACTHグリチルリチン製剤",
+      "clinical_symptom_action": "過剰のカリウム放出を起こすおそれがあるので、併用する場合には、慎重に投与する。",
+      "mechanism_risk_factor": "ともにカリウム排泄作用を有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖尿病用剤",
+      "clinical_symptom_action": "糖尿病用剤の作用を著しく減弱するおそれがある。",
+      "mechanism_risk_factor": "細胞内外のカリウム喪失がインスリン分泌の抑制、末梢でのインスリン感受性の低下をもたらすと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リチウム（炭酸リチウム）",
+      "clinical_symptom_action": "リチウム中毒を起こすおそれがあるので、血中リチウム濃度に注意すること。",
+      "mechanism_risk_factor": "リチウムの腎における再吸収を促進し、リチウムの血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サリチル酸誘導体（サリチル酸ナトリウム、アスピリン等）",
+      "clinical_symptom_action": "サリチル酸中毒が発現するおそれがある。",
+      "mechanism_risk_factor": "腎の排泄部位において両剤の競合が起こり、サリチル酸誘導体の排泄が遅れるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "非ステロイド性消炎鎮痛剤（インドメタシン等）",
+      "clinical_symptom_action": "本剤の利尿作用が減弱されるおそれがある。",
+      "mechanism_risk_factor": "非ステロイド性消炎鎮痛剤のプロスタグランジン合成抑制による水、ナトリウム体内貯留傾向が、本剤の水、ナトリウム排泄作用に拮抗するためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "尿酸排泄促進剤（プロベネシド等）",
+      "clinical_symptom_action": "尿酸排泄促進剤の尿酸排泄作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "尿酸再吸収の間接的増大により、尿酸排泄促進剤の作用が抑制される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルバマゼピン",
+      "clinical_symptom_action": "症候性低ナトリウム血症があらわれることがある。",
+      "mechanism_risk_factor": "ナトリウム排泄作用が増強され、低ナトリウム血症が起こる。"
+    }
+  ],
+  "facility_notes": ""
+}

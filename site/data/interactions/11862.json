@@ -1,0 +1,866 @@
+[
+  {
+    "other_id": 496,
+    "other_brand": "アトバコン内用懸濁液15％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン塩酸塩メトクロプラミド"
+  },
+  {
+    "other_id": 716,
+    "other_brand": "アポカイン皮下注30mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤ブチロフェノン系薬剤メトクロプラミド等"
+  },
+  {
+    "other_id": 1959,
+    "other_brand": "ウインタミン細粒（10％）",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 2269,
+    "other_brand": "エクフィナ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン\nブチロフェノン系薬剤\nハロペリドール\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 2763,
+    "other_brand": "エフピーOD錠2.5",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン\nペラジン等\nブチロフェノン系薬剤\nブロムペリドール等\nスルピリド\nメトクロプラミド"
+  },
+  {
+    "other_id": 3695,
+    "other_brand": "カバサール錠0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤（クロルプロマジン等）ブチロフェノン系薬剤（ハロペリドール等）メトクロプラミド等"
+  },
+  {
+    "other_id": 3708,
+    "other_brand": "カベルゴリン錠0.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤（クロルプロマジン等）ブチロフェノン系薬剤（ハロペリドール等）メトクロプラミド等"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 4531,
+    "other_brand": "クレミン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 4608,
+    "other_brand": "クロフェクトン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 4611,
+    "other_brand": "クロフェクトン顆粒10%",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 4669,
+    "other_brand": "クロルプロマジン塩酸塩錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 4758,
+    "other_brand": "グラマリール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nスルピリド等\nフェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等"
+  },
+  {
+    "other_id": 5259,
+    "other_brand": "コレアジン錠12.5mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤ブチロフェノン系薬剤メトクロプラミドドンペリドン等"
+  },
+  {
+    "other_id": 5277,
+    "other_brand": "コントミン筋注10mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 5280,
+    "other_brand": "コントミン糖衣錠12.5mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 5373,
+    "other_brand": "サムチレール内用懸濁液15%",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン塩酸塩メトクロプラミド"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 5557,
+    "other_brand": "シクロスポリンカプセル10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 5563,
+    "other_brand": "シクロスポリンカプセル10mg「TC」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 5881,
+    "other_brand": "ジギラノゲン注0.4mg",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリド\nメトクロプラミド\nドンペリドン等"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン 等"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン　等"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン　等"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン　等"
+  },
+  {
+    "other_id": 6320,
+    "other_brand": "スピロピタン錠0.25mg",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミド\nスルピリド\nチアプリド等\nドンペリドン等"
+  },
+  {
+    "other_id": 6361,
+    "other_brand": "スルピリドカプセル50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6362,
+    "other_brand": "スルピリド錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6363,
+    "other_brand": "スルピリド錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6364,
+    "other_brand": "スルピリド錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6368,
+    "other_brand": "スルピリド錠50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6369,
+    "other_brand": "スルピリド錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6370,
+    "other_brand": "スルピリド錠50mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6661,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン\nペラジン等\nブチロフェノン系薬剤\nブロムペリドール等\nスルピリド\nメトクロプラミド"
+  },
+  {
+    "other_id": 6662,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン\nペラジン等\nブチロフェノン系薬剤\nブロムペリドール等\nスルピリド\nメトクロプラミド"
+  },
+  {
+    "other_id": 6718,
+    "other_brand": "セレネース内服液0.2％",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 6719,
+    "other_brand": "セレネース注5mg",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 6720,
+    "other_brand": "セレネース錠0.75mg",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 6946,
+    "other_brand": "ゾテピン細粒10％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド\nドンペリドン"
+  },
+  {
+    "other_id": 6954,
+    "other_brand": "ゾニサミドOD錠25mgTRE「アメル」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6955,
+    "other_brand": "ゾニサミドOD錠25mgTRE「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6956,
+    "other_brand": "ゾニサミドOD錠25mgTRE「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6957,
+    "other_brand": "ゾニサミドOD錠25mgTRE「サンド」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6958,
+    "other_brand": "ゾニサミドOD錠25mgTRE「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6959,
+    "other_brand": "ゾニサミドOD錠25mgTRE「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6960,
+    "other_brand": "ゾニサミドOD錠25mgTRE「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6961,
+    "other_brand": "ゾニサミドOD錠25mgTRE「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6962,
+    "other_brand": "ゾニサミドOD錠25mgTRE「日医工」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6963,
+    "other_brand": "ゾニサミドOD錠25mgTRE「日新」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6964,
+    "other_brand": "ゾニサミドOD錠25mgTRE「杏林」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6965,
+    "other_brand": "ゾニサミドOD錠25mgTRE「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6966,
+    "other_brand": "ゾニサミドOD錠25mgTRE「KO」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6967,
+    "other_brand": "ゾニサミドOD錠25mgTRE「SMPP」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6968,
+    "other_brand": "ゾニサミドOD錠25mgTRE「ZE」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 7503,
+    "other_brand": "チアプリド錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nスルピリド等\nフェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等"
+  },
+  {
+    "other_id": 7505,
+    "other_brand": "チアプリド錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nスルピリド等\nフェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等"
+  },
+  {
+    "other_id": 7506,
+    "other_brand": "チアプリド錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nスルピリド等\nフェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等"
+  },
+  {
+    "other_id": 7507,
+    "other_brand": "チアプリド錠25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nスルピリド等\nフェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 8818,
+    "other_brand": "トリラホン錠2mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 8877,
+    "other_brand": "トレリーフOD錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 8886,
+    "other_brand": "トロペロン注4mg",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 8888,
+    "other_brand": "トロペロン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 8960,
+    "other_brand": "ドグマチール筋注100mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 8961,
+    "other_brand": "ドグマチール筋注50mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 8962,
+    "other_brand": "ドグマチール細粒10％",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 8964,
+    "other_brand": "ドグマチール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 8959,
+    "other_brand": "ドグマチールカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 9561,
+    "other_brand": "ニュープロパッチ2.25mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド等"
+  },
+  {
+    "other_id": 9567,
+    "other_brand": "ニューレプチル錠5mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドン、\nメトクロプラミド"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド"
+  },
+  {
+    "other_id": 9706,
+    "other_brand": "ノバミン筋注5mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9707,
+    "other_brand": "ノバミン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9854,
+    "other_brand": "ハルロピテープ8mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬\nメトクロプラミド\nスルピリド等"
+  },
+  {
+    "other_id": 9859,
+    "other_brand": "ハロペリドール注5mg「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 9863,
+    "other_brand": "ハロペリドール細粒1%「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 9862,
+    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 9861,
+    "other_brand": "ハロペリドール細粒1%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 9860,
+    "other_brand": "ハロペリドール錠0.75mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 9865,
+    "other_brand": "ハロペリドール錠0.75mg「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド　等\nドンペリドン　等"
+  },
+  {
+    "other_id": 9876,
+    "other_brand": "ハロマンス注50mg",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミドスルピリドチアプリド等\nドンペリドン等"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン　等"
+  },
+  {
+    "other_id": 10316,
+    "other_brand": "パーロデル錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドールスピペロン等\nイミノジベンジル系薬剤\nカルピプラミン等\n非定型抗精神病剤\nペロスピロンブロナンセリン等\nメトクロプラミドドンペリドン"
+  },
+  {
+    "other_id": 10452,
+    "other_brand": "ヒルナミン錠（5mg）",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 10687,
+    "other_brand": "ビ・シフロール錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 10908,
+    "other_brand": "ピーゼットシー散1％",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 10909,
+    "other_brand": "ピーゼットシー筋注2mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 10910,
+    "other_brand": "ピーゼットシー糖衣錠2mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 11468,
+    "other_brand": "フルデカシン筋注25mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 11511,
+    "other_brand": "フルメジン糖衣錠（0.25）",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 11574,
+    "other_brand": "ブスコパン注20mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nメトクロプラミド等"
+  },
+  {
+    "other_id": 11575,
+    "other_brand": "ブスコパン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nメトクロプラミド等"
+  },
+  {
+    "other_id": 11579,
+    "other_brand": "ブチルスコポラミン臭化物注射液20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nメトクロプラミド等"
+  },
+  {
+    "other_id": 11580,
+    "other_brand": "ブチルスコポラミン臭化物注20mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nメトクロプラミド等"
+  },
+  {
+    "other_id": 11581,
+    "other_brand": "ブチルスコポラミン臭化物錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nメトクロプラミド等"
+  },
+  {
+    "other_id": 11732,
+    "other_brand": "ブロムペリドール錠1mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11733,
+    "other_brand": "ブロムペリドール錠1mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11742,
+    "other_brand": "ブロモクリプチン錠2.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドールスピペロン等\nイミノジベンジル系薬剤\nカルピプラミン等\n非定型抗精神病剤\nペロスピロンブロナンセリン等\nメトクロプラミドドンペリドン"
+  },
+  {
+    "other_id": 11743,
+    "other_brand": "ブロモクリプチン錠2.5mg「フソー」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドールスピペロン等\nイミノジベンジル系薬剤\nカルピプラミン等\n非定型抗精神病剤\nペロスピロンブロナンセリン等\nメトクロプラミドドンペリドン"
+  },
+  {
+    "other_id": 11744,
+    "other_brand": "ブロモクリプチン錠2.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドールスピペロン等\nイミノジベンジル系薬剤\nカルピプラミン等\n非定型抗精神病剤\nペロスピロンブロナンセリン等\nメトクロプラミドドンペリドン"
+  },
+  {
+    "other_id": 11800,
+    "other_brand": "プラミペキソール塩酸塩錠0.125mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11801,
+    "other_brand": "プラミペキソール塩酸塩錠0.125mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11802,
+    "other_brand": "プラミペキソール塩酸塩錠0.125mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11803,
+    "other_brand": "プラミペキソール塩酸塩錠0.125mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11804,
+    "other_brand": "プラミペキソール塩酸塩錠0.125mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11805,
+    "other_brand": "プラミペキソール塩酸塩錠0.125mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11812,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11814,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11815,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11816,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 11822,
+    "other_brand": "プラミペキソール塩酸塩OD錠0.125mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン\nチエチルペラジン等\nブチロフェノン系薬剤\nハロペリドール等\nラウオルフィアアルカロイド薬剤\nレセルピン等\nベンザミド系薬剤\nスルピリド\nチアプリド等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン\nチエチルペラジン等\nブチロフェノン系薬剤\nハロペリドール等\nラウオルフィアアルカロイド薬剤\nレセルピン等\nベンザミド系薬剤\nスルピリド\nチアプリド等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン\nチエチルペラジン等\nブチロフェノン系薬剤\nハロペリドール等\nラウオルフィアアルカロイド薬剤\nレセルピン等\nベンザミド系薬剤\nスルピリド\nチアプリド等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン\nチエチルペラジン等\nブチロフェノン系薬剤\nハロペリドール等\nラウオルフィアアルカロイド薬剤\nレセルピン等\nベンザミド系薬剤\nスルピリド\nチアプリド等"
+  },
+  {
+    "other_id": 585,
+    "other_brand": "アトロピン注0.05%シリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン剤\nアトロピン硫酸塩水和物\nブチルスコポラミン臭化物等"
+  },
+  {
+    "other_id": 586,
+    "other_brand": "アトロピン硫酸塩水和物「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "抗コリン剤\nアトロピン硫酸塩水和物\nブチルスコポラミン臭化物等"
+  },
+  {
+    "other_id": 12068,
+    "other_brand": "プロピタン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "抗ドパミン作用を有する薬剤\nベンザミド系薬剤\nメトクロプラミド\nスルピリド\nチアプリド等\nドンペリドン等"
+  },
+  {
+    "other_id": 12296,
+    "other_brand": "ベスレミ皮下注250μgシリンジ",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6の基質\nメトプロロール\nアミトリプチリン\nメトクロプラミド等"
+  },
+  {
+    "other_id": 12641,
+    "other_brand": "ペルゴリド錠50μg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n（フェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド等）"
+  },
+  {
+    "other_id": 12654,
+    "other_brand": "ペルマックス錠50μg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n（フェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド等）"
+  },
+  {
+    "other_id": 12657,
+    "other_brand": "ペロスピロン塩酸塩錠4mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 13253,
+    "other_brand": "マラロン小児用配合錠",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン塩酸塩メトクロプラミド"
+  },
+  {
+    "other_id": 13453,
+    "other_brand": "ミラペックスLA錠0.375mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\nフェノチアジン系薬剤、ブチロフェノン系薬剤、メトクロプラミド、ドンペリドン"
+  },
+  {
+    "other_id": 13654,
+    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン　等\n,"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン　等\n,"
+  },
+  {
+    "other_id": 14429,
+    "other_brand": "ラパリムス錠1mg",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nカルシウム拮抗剤\nジルチアゼム\nニカルジピン\nベラパミル\n抗真菌剤\nフルコナゾール\nイトラコナゾール\nケトコナゾール\nボリコナゾール等\nマクロライド系抗生物質\nエリスロマイシン\nクラリスロマイシン等\nメトクロプラミド\nブロモクリプチン\nシメチジン\nダナゾール\nレテルモビル\nプロテアーゼ阻害剤\nリトナビル等\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 15117,
+    "other_brand": "ルーラン錠4mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 15132,
+    "other_brand": "レキップ錠0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬メトクロプラミドスルピリド等"
+  },
+  {
+    "other_id": 15135,
+    "other_brand": "レキップCR錠2mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬メトクロプラミドスルピリド等"
+  },
+  {
+    "other_id": 15411,
+    "other_brand": "レボトミン筋注25mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 15409,
+    "other_brand": "レボトミン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 15496,
+    "other_brand": "レボメプロマジン錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 15840,
+    "other_brand": "ロドピン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "メトクロプラミド\nドンペリドン"
+  },
+  {
+    "other_id": 15854,
+    "other_brand": "ロピニロール徐放錠2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬メトクロプラミドスルピリド等"
+  },
+  {
+    "other_id": 15855,
+    "other_brand": "ロピニロール徐放錠2mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬メトクロプラミドスルピリド等"
+  },
+  {
+    "other_id": 15856,
+    "other_brand": "ロピニロール徐放錠2mg「KMP」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬メトクロプラミドスルピリド等"
+  },
+  {
+    "other_id": 15860,
+    "other_brand": "ロピニロール錠0.25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬メトクロプラミドスルピリド等"
+  },
+  {
+    "other_id": 15863,
+    "other_brand": "ロピニロールOD錠0.25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン拮抗剤\n抗精神病薬メトクロプラミドスルピリド等"
+  }
+]

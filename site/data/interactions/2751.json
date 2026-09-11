@@ -1,0 +1,68 @@
+[
+  {
+    "other_id": 7107,
+    "other_brand": "タキソール注射液30mg",
+    "interaction_type": "caution",
+    "source_text": "パクリタキセル"
+  },
+  {
+    "other_id": 10130,
+    "other_brand": "パクリタキセル注射液30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "パクリタキセル"
+  },
+  {
+    "other_id": 10135,
+    "other_brand": "パクリタキセル注30mg/5mL「NK」",
+    "interaction_type": "caution",
+    "source_text": "パクリタキセル"
+  },
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 2922,
+    "other_brand": "エンドキサン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アントラサイクリン系薬剤\nドキソルビシン塩酸塩、エピルビシン塩酸塩等"
+  },
+  {
+    "other_id": 16582,
+    "other_brand": "注射用エンドキサン100mg",
+    "interaction_type": "caution",
+    "source_text": "アントラサイクリン系薬剤\nドキソルビシン塩酸塩、エピルビシン塩酸塩等"
+  },
+  {
+    "other_id": 17024,
+    "other_brand": "経口用エンドキサン原末100mg",
+    "interaction_type": "caution",
+    "source_text": "アントラサイクリン系薬剤\nドキソルビシン塩酸塩、エピルビシン塩酸塩等"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": 9600,
+  "brand_name": "ネイリンカプセル100mg",
+  "generic_name": "ホスラブコナゾール\nL\n-リシンエタノール付加物カプセル",
+  "therapeutic_classification": "経口抗真菌剤",
+  "indications": "〈適応菌種〉\n皮膚糸状菌（トリコフィトン属）\n〈適応症〉\n爪白癬",
+  "dose_admin": "通常、成人には1日1回1カプセル（ラブコナゾールとして100mg）を12週間経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある患者",
+  "application_precautions": "薬剤交付時の注意\n患者に対し、次の点に注意するよう指導すること。\nPTP包装の薬剤はPTPシートから取り出して服用するよう指示すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n本剤は吸湿性があるので、服用直前にPTPシートから取り出すこと。",
+  "serious_adverse_events": "肝機能障害（頻度不明）\n,\n,\n多形紅斑（頻度不明）",
+  "observation_points": [
+    "肝機能障害（頻度不明）",
+    ",",
+    "多形紅斑（頻度不明）",
+    "これらの薬剤の血中濃度を上昇させる可能性がある",
+    "ワルファリンの作用が増強し、著しいINR上昇があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aにより主に代謝される薬剤\nシンバスタチン\nミダゾラム\nアゼルニジピン等\n,",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。",
+      "mechanism_risk_factor": "ラブコナゾールのCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリン",
+      "clinical_symptom_action": "ワルファリンの作用が増強し、著しいINR上昇があらわれることがある。",
+      "mechanism_risk_factor": "アゾール系抗真菌剤でINR上昇が報告されている。"
+    }
+  ],
+  "facility_notes": ""
+}

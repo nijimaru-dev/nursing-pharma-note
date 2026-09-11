@@ -1,0 +1,1328 @@
+[
+  {
+    "other_id": 55,
+    "other_brand": "アイソボリン点滴静注用25mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 452,
+    "other_brand": "アテディオ配合錠",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 476,
+    "other_brand": "アデカット7.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤\nスピロノラクトントリアムテレン等\nエプレレノンカリウム補給剤トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 637,
+    "other_brand": "アナフラニール点滴静注液25mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 638,
+    "other_brand": "アナフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 783,
+    "other_brand": "アミサリン注100mg",
+    "interaction_type": "caution",
+    "source_text": "サルファ剤\nスルファメトキサゾール・トリメトプリム 等"
+  },
+  {
+    "other_id": 785,
+    "other_brand": "アミサリン錠125mg",
+    "interaction_type": "caution",
+    "source_text": "サルファ剤\nスルファメトキサゾール・トリメトプリム 等"
+  },
+  {
+    "other_id": 790,
+    "other_brand": "アミトリプチリン塩酸塩錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 810,
+    "other_brand": "アムバロ配合錠「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 812,
+    "other_brand": "アムバロ配合錠「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 814,
+    "other_brand": "アムバロ配合錠「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 815,
+    "other_brand": "アムバロ配合錠「サンド」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 816,
+    "other_brand": "アムバロ配合錠「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 817,
+    "other_brand": "アムバロ配合錠「日新」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 818,
+    "other_brand": "アムバロ配合錠「杏林」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 819,
+    "other_brand": "アムバロ配合錠「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 820,
+    "other_brand": "アムバロ配合錠「FFP」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 821,
+    "other_brand": "アムバロ配合錠「JG」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 822,
+    "other_brand": "アムバロ配合錠「NIG」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 823,
+    "other_brand": "アムバロ配合錠「TCK」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 824,
+    "other_brand": "アムバロ配合錠「YD」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 825,
+    "other_brand": "アムバロ配合OD錠「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 826,
+    "other_brand": "アムバロ配合OD錠「日医工」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 1000,
+    "other_brand": "アモキサンカプセル10mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロンクロラムフェニコールシメチジンスルファメトキサゾール・トリメトプリムチクロピジンフルコナゾールフルボキサミンホスフルコナゾールミコナゾールセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロン\nクロラムフェニコール\nシメチジン\nスルファメトキサゾール・トリメトプリム\nチクロピジン\nフルコナゾール\nフルボキサミン\nホスフルコナゾール\nミコナゾール\nセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロンクロラムフェニコールシメチジンスルファメトキサゾール・トリメトプリムチクロピジンフルコナゾールフルボキサミンホスフルコナゾールミコナゾールセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 1770,
+    "other_brand": "イミドール糖衣錠（10）",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 1781,
+    "other_brand": "イムノマックス−γ注50",
+    "interaction_type": "caution",
+    "source_text": "合成抗菌剤\nスルファメトキサゾール・トリメトプリム製剤"
+  },
+  {
+    "other_id": 2529,
+    "other_brand": "エックスフォージ配合錠",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2530,
+    "other_brand": "エックスフォージ配合OD錠",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2546,
+    "other_brand": "エナラプリルマレイン酸塩細粒1％「アメル」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2576,
+    "other_brand": "エナラプリルマレイン酸塩錠5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2547,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2548,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2550,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2551,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2552,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2553,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「フソー」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2554,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2556,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2557,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2558,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2559,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「NikP」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2560,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン\nカリウム補給剤：\n塩化カリウム\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2742,
+    "other_brand": "エピビル錠150",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2777,
+    "other_brand": "エプジコム配合錠",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 2935,
+    "other_brand": "エンレスト錠50mg",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 4158,
+    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 4728,
+    "other_brand": "グラセプターカプセル0.5mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 5058,
+    "other_brand": "ケレンディア錠10mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5208,
+    "other_brand": "コディオ配合錠MD",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5292,
+    "other_brand": "コンビビル配合錠",
+    "interaction_type": "caution",
+    "source_text": "ペンタミジンイセチオン酸塩、ピリメタミン（国内未発売）、スルファメトキサゾール・トリメトプリム、フルシトシン、ガンシクロビル、インターフェロン、ビンクリスチン硫酸塩、ビンブラスチン硫酸塩、ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 5557,
+    "other_brand": "シクロスポリンカプセル10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 5563,
+    "other_brand": "シクロスポリンカプセル10mg「TC」",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 5881,
+    "other_brand": "ジギラノゲン注0.4mg",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾール\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 6373,
+    "other_brand": "スルモンチール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 6785,
+    "other_brand": "ゼフィックス錠100",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム合剤"
+  },
+  {
+    "other_id": 7112,
+    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7113,
+    "other_brand": "タクロリムスカプセル0.5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7114,
+    "other_brand": "タクロリムスカプセル0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7115,
+    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7120,
+    "other_brand": "タクロリムスカプセル5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7121,
+    "other_brand": "タクロリムスカプセル5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7122,
+    "other_brand": "タクロリムスカプセル5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7128,
+    "other_brand": "タクロリムス錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7126,
+    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7127,
+    "other_brand": "タクロリムス錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7138,
+    "other_brand": "タクロリムス錠5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7139,
+    "other_brand": "タクロリムス錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 7140,
+    "other_brand": "タクロリムス錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 8214,
+    "other_brand": "ディオバン錠20mg",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 8218,
+    "other_brand": "ディオバンOD錠20mg",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 8288,
+    "other_brand": "デノシン点滴静注用500mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 8692,
+    "other_brand": "トフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 8804,
+    "other_brand": "トリプタノール錠10",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 8824,
+    "other_brand": "トリーメク配合錠",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 8903,
+    "other_brand": "ドウベイト配合錠",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9572,
+    "other_brand": "ニューロタン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "ホスカルネットアムホテリシンBアミノ糖系抗生物質\nゲンタマイシントブラマイシン等\nスルファメトキサゾール・トリメトプリムシプロフロキサシンバンコマイシンガンシクロビルフィブラート系薬剤\nベザフィブラートフェノフィブラート等"
+  },
+  {
+    "other_id": 9735,
+    "other_brand": "ノリトレン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 11307,
+    "other_brand": "フォリアミン錠",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 11308,
+    "other_brand": "フォリアミン注射液",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 13626,
+    "other_brand": "メソトレキセート注射液50mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 13627,
+    "other_brand": "メソトレキセート注射液5mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 13628,
+    "other_brand": "メソトレキセート点滴静注液200mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 13630,
+    "other_brand": "メソトレキセート錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 13681,
+    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 13685,
+    "other_brand": "メトトレキサート錠2mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 13687,
+    "other_brand": "メトトレキサート錠2mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 14613,
+    "other_brand": "リウマトレックスカプセル2mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 16597,
+    "other_brand": "注射用メソトレキセート50mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 16598,
+    "other_brand": "注射用メソトレキセート5mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 15264,
+    "other_brand": "レパグリニド錠0.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "レパグリニド"
+  },
+  {
+    "other_id": 2944,
+    "other_brand": "オイグルコン錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニルウレア系経口糖尿病用剤\nグリクラジド、グリベンクラミド等"
+  },
+  {
+    "other_id": 4767,
+    "other_brand": "グリクラジド錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニルウレア系経口糖尿病用剤\nグリクラジド、グリベンクラミド等"
+  },
+  {
+    "other_id": 4832,
+    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニルウレア系経口糖尿病用剤\nグリクラジド、グリベンクラミド等"
+  },
+  {
+    "other_id": 4840,
+    "other_brand": "グリミクロンHA錠20mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニルウレア系経口糖尿病用剤\nグリクラジド、グリベンクラミド等"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 7124,
+    "other_brand": "タクロリムス軟膏0.1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7125,
+    "other_brand": "タクロリムス軟膏0.1％「PP」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7298,
+    "other_brand": "タリムス点眼液0.1%",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "ガンシクロビル、バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "ガンシクロビル、バルガンシクロビル塩酸塩"
+  },
+  {
+    "other_id": 1173,
+    "other_brand": "アルダクトンA細粒10％",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3389,
+    "other_brand": "オルメサルタン錠5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3392,
+    "other_brand": "オルメサルタン錠5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3393,
+    "other_brand": "オルメサルタン錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3394,
+    "other_brand": "オルメサルタン錠5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3429,
+    "other_brand": "オルメサルタンOD錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3433,
+    "other_brand": "オルメサルタンOD錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 6313,
+    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 6315,
+    "other_brand": "スピロノラクトン錠25mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 6316,
+    "other_brand": "スピロノラクトン錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 6317,
+    "other_brand": "スピロノラクトン錠25mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 15229,
+    "other_brand": "レニベース錠2.5",
+    "interaction_type": "caution",
+    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル等\nアンジオテンシン変換酵素阻害剤\nエナラプリルマレイン酸塩等\n抗アルドステロン剤・カリウム保持性利尿剤\nスピロノラクトン等"
+  },
+  {
+    "other_id": 9967,
+    "other_brand": "バリキサ錠450mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9980,
+    "other_brand": "バルサルタン錠20mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9982,
+    "other_brand": "バルサルタン錠20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9984,
+    "other_brand": "バルサルタン錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9985,
+    "other_brand": "バルサルタン錠20mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9986,
+    "other_brand": "バルサルタン錠20mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9987,
+    "other_brand": "バルサルタン錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9988,
+    "other_brand": "バルサルタン錠20mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9989,
+    "other_brand": "バルサルタン錠20mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9990,
+    "other_brand": "バルサルタン錠20mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9991,
+    "other_brand": "バルサルタン錠20mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9992,
+    "other_brand": "バルサルタン錠20mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9993,
+    "other_brand": "バルサルタン錠20mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9994,
+    "other_brand": "バルサルタン錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9995,
+    "other_brand": "バルサルタン錠20mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9996,
+    "other_brand": "バルサルタン錠20mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10048,
+    "other_brand": "バルサルタンOD錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10068,
+    "other_brand": "バルヒディオ配合錠MD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10069,
+    "other_brand": "バルヒディオ配合錠MD「サンド」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10070,
+    "other_brand": "バルヒディオ配合錠MD「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10071,
+    "other_brand": "バルヒディオ配合錠MD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10072,
+    "other_brand": "バルヒディオ配合錠MD「JG」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10073,
+    "other_brand": "バルヒディオ配合錠MD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10074,
+    "other_brand": "バルヒディオ配合錠MD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "トリメトプリム含有製剤\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロン\nシメチジン\nスルファメトキサゾール・トリメトプリム\nチクロピジン\nフルコナゾール\nフルボキサミン\nホスフルコナゾール\nミコナゾール\nセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 12014,
+    "other_brand": "プログラフカプセル0.5mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 12016,
+    "other_brand": "プログラフカプセル5mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 12017,
+    "other_brand": "プログラフ注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 12019,
+    "other_brand": "プログラフ顆粒0.2mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB\nアミノ糖系抗生物質\nスルファメトキサゾール・トリメトプリム\n非ステロイド性抗炎症剤\n等"
+  },
+  {
+    "other_id": 12040,
+    "other_brand": "プロチアデン錠25",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム（ST合剤）\nリファンピシン"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン\nアロプリノール\nイソニアジド\nエトスクシミド\nオメプラゾール\nクロラムフェニコール\nジスルフィラム\nシメチジン\nジルチアゼム\nスルチアム\nスルファメトキサゾール・トリメトプリム\nチクロピジン\nパラアミノサリチル酸\nフルコナゾール\nフルボキサミン\nホスフルコナゾール\nミコナゾール\nメチルフェニデート\nエソメプラゾール\nセリチニブ"
+  },
+  {
+    "other_id": 12875,
+    "other_brand": "ホリナート錠25mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12876,
+    "other_brand": "ホリナート錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12877,
+    "other_brand": "ホリナート錠25mg「タイホウ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12878,
+    "other_brand": "ホリナート錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12879,
+    "other_brand": "ホリナート錠25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12880,
+    "other_brand": "ホリナート錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12881,
+    "other_brand": "ホリナート錠25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12882,
+    "other_brand": "ホリナート錠25mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 13251,
+    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 13654,
+    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム\n,\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 13673,
+    "other_brand": "メトジェクト皮下注7.5mgシリンジ0.15mL",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 13682,
+    "other_brand": "メトトレキサートカプセル2mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 13686,
+    "other_brand": "メトトレキサート錠2mg「タナベ」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 13683,
+    "other_brand": "メトトレキサートカプセル2mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 13684,
+    "other_brand": "メトトレキサート錠1mg「日本臓器」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 13690,
+    "other_brand": "メトトレキサート錠2mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 14239,
+    "other_brand": "ユーゼル錠25mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム\n,\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 14427,
+    "other_brand": "ラバミコム配合錠「アメル」",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15068,
+    "other_brand": "ルジオミール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15091,
+    "other_brand": "ルプキネスカプセル7.9mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性のある薬剤\nアムホテリシンB、アミノ糖系抗生物質、スルファメトキサゾール・トリメトプリム、非ステロイド性抗炎症剤等"
+  },
+  {
+    "other_id": 15166,
+    "other_brand": "レクチゾール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム配合剤（ST合剤）"
+  },
+  {
+    "other_id": 15215,
+    "other_brand": "レトロビルカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "ペンタミジンイセチオン酸塩、ピリメタミン（国内未発売）、スルファメトキサゾール・トリメトプリム、フルシトシン、ガンシクロビル、インターフェロン、ビンクリスチン硫酸塩、ビンブラスチン硫酸塩、ドキソルビシン塩酸塩"
+  },
+  {
+    "other_id": 15482,
+    "other_brand": "レボホリナート点滴静注用25「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15483,
+    "other_brand": "レボホリナート点滴静注用25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15484,
+    "other_brand": "レボホリナート点滴静注用25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15485,
+    "other_brand": "レボホリナート点滴静注用25mg「ヤクルト」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15486,
+    "other_brand": "レボホリナート点滴静注用25mg「HK」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15487,
+    "other_brand": "レボホリナート点滴静注用25mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15488,
+    "other_brand": "レボホリナート点滴静注用25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15530,
+    "other_brand": "ロイコボリン注3mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤スルファメトキサゾール・トリメトプリム等"
+  },
+  {
+    "other_id": 15531,
+    "other_brand": "ロイコボリン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤スルファメトキサゾール・トリメトプリム等"
+  },
+  {
+    "other_id": 15532,
+    "other_brand": "ロイコボリン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤スルファメトキサゾール・トリメトプリム等"
+  },
+  {
+    "other_id": 15658,
+    "other_brand": "ロサルタンカリウム錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15659,
+    "other_brand": "ロサルタンカリウム錠25mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15661,
+    "other_brand": "ロサルタンカリウム錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15662,
+    "other_brand": "ロサルタンカリウム錠25mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15663,
+    "other_brand": "ロサルタンカリウム錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15664,
+    "other_brand": "ロサルタンカリウム錠25mg「DK」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15665,
+    "other_brand": "ロサルタンカリウム錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15666,
+    "other_brand": "ロサルタンカリウム錠25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15667,
+    "other_brand": "ロサルタンカリウム錠25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15668,
+    "other_brand": "ロサルタンカリウム錠25mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15669,
+    "other_brand": "ロサルタンカリウム錠25mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15694,
+    "other_brand": "ロサルタンK錠25mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15697,
+    "other_brand": "ロサルタンK錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15698,
+    "other_brand": "ロサルタンK錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15699,
+    "other_brand": "ロサルタンK錠25mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15700,
+    "other_brand": "ロサルタンK錠25mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15701,
+    "other_brand": "ロサルタンK錠25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15702,
+    "other_brand": "ロサルタンK錠25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤：\nスピロノラクトン\nトリアムテレン等\nカリウム補給剤：\n塩化カリウム\nアンジオテンシン変換酵素阻害剤\nトリメトプリム含有製剤：\nスルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nサルファ剤及びその配合剤\nスルファメトキサゾール・トリメトプリム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nサルファ剤及びその配合剤\nスルファメトキサゾール・トリメトプリム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 16783,
+    "other_brand": "点滴静注用ホスカビル注24mg/mL",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤\nアミノグリコシド系抗生物質\nゲンタマイシン硫酸塩\nアミカシン硫酸塩 等\nスルファメトキサゾール・トリメトプリム\nバンコマイシン塩酸塩\nアムホテリシンB\nシクロスポリン\nタクロリムス水和物\nメトトレキサート\nシスプラチン 等"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロンシメチジンスルファメトキサゾール・トリメトプリムチクロピジンフルコナゾールフルボキサミンホスフルコナゾールミコナゾール\nセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 17544,
+    "other_brand": "25mgプロトゲン錠",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム配合剤（ST合剤）"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": 11248,
+  "brand_name": "フェロ・グラデュメット錠105mg",
+  "generic_name": "乾燥硫酸鉄",
+  "therapeutic_classification": "徐放型鉄剤",
+  "indications": "鉄欠乏性貧血",
+  "dose_admin": "鉄として、通常成人1日105～210mgを1～2回に分けて、空腹時に、又は副作用が強い場合には、食事直後に、経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "鉄欠乏状態にない患者［鉄過剰症をきたすおそれがある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n本剤は徐放錠であるので、噛んだり、砕いたりせずに服用するよう指導すること。\n本剤が口腔内や食道に停留し、潰瘍形成に至った症例が認められているので、服用にあたっては十分量の水とともに服用し、直ちに飲み下すよう注意させること。\n,",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の吸収が阻害され、作用が減弱することがあるので、できるだけ投与間隔をあけるなど注意すること",
+    "相互に吸収が阻害され、作用が減弱することがあるので、できるだけ投与間隔をあけるなど注意すること",
+    "本剤の吸収が阻害されるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン製剤\n乾燥甲状腺\nリオチロニン\nレボチロキシン",
+      "clinical_symptom_action": "これらの薬剤の吸収が阻害され、作用が減弱することがあるので、できるだけ投与間隔をあけるなど注意すること。",
+      "mechanism_risk_factor": "難溶性の複合体を形成することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セフジニル\nニューキノロン系抗菌剤\nノルフロキサシン\nシプロフロキサシン等",
+      "clinical_symptom_action": "これらの薬剤の吸収が阻害され、作用が減弱することがあるので、できるだけ投与間隔をあけるなど注意すること。",
+      "mechanism_risk_factor": "キレートを形成する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリン\nドキシサイクリン\nミノサイクリン",
+      "clinical_symptom_action": "相互に吸収が阻害され、作用が減弱することがあるので、できるだけ投与間隔をあけるなど注意すること。",
+      "mechanism_risk_factor": "キレートを形成する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸剤",
+      "clinical_symptom_action": "本剤の吸収が阻害されるおそれがある。",
+      "mechanism_risk_factor": "難溶性の複合体の形成又は消化管のpHの上昇によると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タンニン酸を含有する食品等",
+      "clinical_symptom_action": "本剤の吸収が阻害されるおそれがある。",
+      "mechanism_risk_factor": "難溶性の複合体を形成する。"
+    }
+  ],
+  "facility_notes": ""
+}

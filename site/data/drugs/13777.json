@@ -1,0 +1,33 @@
+{
+  "id": 13777,
+  "brand_name": "メベンダゾール錠100",
+  "generic_name": "メベンダゾール",
+  "therapeutic_classification": "駆虫剤",
+  "indications": "鞭虫症",
+  "dose_admin": "通常、成人及び小児に対してはメベンダゾールとして1回100mgを1日2回（朝・夕）3日間経口投与する。ただし、体重20kg以下の小児には半量にするなど、適宜減量する。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤投与時の注意\n蛔虫が混合感染している場合、本剤の投与によって迷入する場合があるので、あらかじめ蛔虫を駆除してから投与するように注意すること。\n薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "ショック・アナフィラキシー（頻度不明）\n中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（頻度不明）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）",
+  "observation_points": [
+    "ショック・アナフィラキシー（頻度不明）",
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（頻度不明）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）",
+    "長期併用投与により、本剤の血中濃度が上昇したとの報告がある",
+    "併用により中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）があらわれたとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "長期併用投与により、本剤の血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "肝臓における本剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メトロニダゾール",
+      "clinical_symptom_action": "併用により中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）があらわれたとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

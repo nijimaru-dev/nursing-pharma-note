@@ -1,0 +1,30 @@
+{
+  "id": 10849,
+  "brand_name": "ピフェルトロ錠100mg",
+  "generic_name": "ドラビリン錠",
+  "therapeutic_classification": "抗ウイルス化学療法剤",
+  "indications": "HIV-1感染症",
+  "dose_admin": "通常、成人にはドラビリンとして100mgを1日1回経口投与する。本剤は、食事の有無にかかわらず投与できる。投与に際しては、必ず他の抗HIV薬と併用すること。",
+  "contraindications": "カルバマゼピン、フェノバルビタール、フェニトイン、ホスフェニトイン、エンザルタミド、アパルタミド、リファンピシン、ミトタン、イボシデニブ、エンコラフェニブ、セイヨウオトギリソウ（St. John’s Wort：セント・ジョーンズ・ワート）含有食品を投与中の患者\n,\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血漿中濃度が低下し、治療効果が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カルバマゼピン（テグレトール）\nフェノバルビタール（フェノバール）\nフェニトイン（アレビアチン）\nホスフェニトイン（ホストイン）\nエンザルタミド（イクスタンジ）\nアパルタミド（アーリーダ）\nリファンピシン（リファジン）\nミトタン（オペプリム）\nイボシデニブ（ティブソボ）\nエンコラフェニブ（ビラフトビ）\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,\n,",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、治療効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤及び食品の強力なCYP3A4誘導作用により、本剤の代謝が促進されると予測される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファブチン\n,\n,",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、治療効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "リファブチンのCYP3A4誘導作用により、本剤の代謝が促進される。"
+    }
+  ],
+  "facility_notes": ""
+}

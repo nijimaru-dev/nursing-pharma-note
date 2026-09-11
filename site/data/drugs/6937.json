@@ -1,0 +1,326 @@
+{
+  "id": 6937,
+  "brand_name": "ゾキンヴィカプセル50mg",
+  "generic_name": "ロナファルニブ製剤",
+  "therapeutic_classification": "早老症治療用剤\nファルネシルトランスフェラーゼ阻害剤",
+  "indications": "ハッチンソン・ギルフォード・プロジェリア症候群及びプロセシング不全性のプロジェロイド・ラミノパチー",
+  "dose_admin": "通常、ロナファルニブとして開始用量115mg/m\n2\n（体表面積）を1日2回、朝夕の食事中又は食直後に経口投与し、4カ月後に維持用量150mg/m\n2\n（体表面積）を1日2回、朝夕の食事中又は食直後に経口投与する。なお、患者の状態に応じて適宜減量する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n強いCYP3A阻害剤（イトラコナゾール、ボリコナゾール、ポサコナゾール、リトナビル含有製剤、アタザナビル硫酸塩、ダルナビル エタノール付加物、ホスアンプレナビルカルシウム水和物、コビシスタット含有製剤、クラリスロマイシン含有製剤、セリチニブ、エンシトレルビル フマル酸）を投与中の患者\n,\n次の薬剤を投与中の患者：キニジン硫酸塩水和物、ベプリジル塩酸塩水和物、チカグレロル、エプレレノン、エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン、メチルエルゴメトリンマレイン酸塩、トリアゾラム、アナモレリン塩酸塩、イバブラジン塩酸塩、ベネトクラクス〔再発又は難治性の慢性リンパ性白血病（小リンパ球性リンパ腫を含む）の用量漸増期〕、イブルチニブ、ブロナンセリン、ルラシドン塩酸塩、アゼルニジピン含有製剤、スボレキサント、タダラフィル（アドシルカ）、バルデナフィル塩酸塩水和物、ロミタピドメシル酸塩、リファブチン、フィネレノン、リバーロキサバン、アパルタミド、カルバマゼピン、ミダゾラム、アトルバスタチンカルシウム水和物含有製剤、シンバスタチン\n,\n腎機能又は肝機能障害のある患者で、コルヒチンを投与中の患者\n,\n,",
+  "application_precautions": "薬剤交付時の注意\n本剤は吸湿性があるため、分包せずボトルのまま交付すること。\n患者又は保護者等に対し、以下の点に注意するよう説明すること。\n冷蔵を避けて室温で保存すること。\n開封後は、湿気を防ぐため、ボトル内の乾燥剤は取り出さず、使用の都度ボトルのキャップをしっかり締めること。",
+  "serious_adverse_events": "重度の下痢（4.8%）\n重度の下痢により脱水症状を来すおそれがあるので、補液等の適切な処置を行うとともに、本剤の減量又は休薬を考慮すること。\n,\n肝機能障害（3.2%）\nQT間隔延長（頻度不明）\n,\n,\n,",
+  "observation_points": [
+    "重度の下痢（4.8%）",
+    "重度の下痢により脱水症状を来すおそれがあるので、補液等の適切な処置を行うとともに、本剤の減量又は休薬を考慮すること",
+    ",",
+    "肝機能障害（3.2%）",
+    "QT間隔延長（頻度不明）",
+    "本薬の血中濃度が上昇するおそれがあるので、特に本剤投与開始時及び用量調節時は副作用の発現に注意すること",
+    "本薬の血中濃度が上昇するおそれがあるので、本剤投与中の摂取は避けること",
+    "本薬の血中濃度が減少し、作用が減弱するおそれがあるので、CYP3A誘導作用のない薬剤への代替を考慮すること",
+    "本薬の血中濃度が減少し、作用が減弱するおそれがある",
+    "また、ボセンタン水和物の血中濃度が上昇し、副作用が発現しやすくなるおそれがある",
+    "リオシグアトの血中濃度を上昇させるおそれがある",
+    "本剤との併用が必要な場合は、患者の状態に注意し、必要に応じてリオシグアトの減量を考慮すること",
+    "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある",
+    "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある",
+    "これらの薬剤の血中濃度を上昇させ、筋神経系の副作用を増強するおそれがある",
+    "ベネトクラクスの副作用が増強されるおそれがあるので、ベネトクラクスを減量するとともに、患者の状態を慎重に観察し、副作用の発現に十分に注意すること",
+    "これらの薬剤の血中濃度を上昇させるおそれがある",
+    "コルヒチンの血中濃度上昇により、作用が増強されるおそれがある",
+    "イリノテカンの活性代謝物の血中濃度を上昇させるおそれがある",
+    "これらの薬剤の血中濃度が上昇するおそれがある",
+    "本薬の血中濃度が上昇するおそれがあるので、副作用の発現に注意すること",
+    "副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること",
+    "ロペラミドの副作用が増強されるおそれがあるので、必要に応じてロペラミドの用量を調整すること",
+    "本剤の併用により、ロペラミドのC",
+    "max",
+    "及びAUCがそれぞれ3.14倍及び3.99倍に増加したとの報告がある",
+    "QT間隔延長を起こす又は悪化させるおそれがあるため、患者の状態を慎重に観察すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "強いCYP3A阻害剤\nイトラコナゾール\n（イトリゾール）\nボリコナゾール\n（ブイフェンド）\nポサコナゾール\n（ノクサフィル）\nクラリスロマイシン含有製剤\n（クラリシッド、クラリス、ボノサップ、ラベキュア）\nリトナビル含有製剤\n（ノービア、パキロビッド、カレトラ）\nアタザナビル硫酸塩\n（レイアタッツ）\nダルナビル エタノール付加物\n（プリジスタ、プリジスタナイーブ）\nホスアンプレナビルカルシウム水和物\n（レクシヴァ）\nコビシスタット含有製剤\n（ゲンボイヤ、シムツーザ、プレジコビックス）\nセリチニブ\n（ジカディア）\nエンシトレルビル フマル酸\n（ゾコーバ）\n,",
+      "clinical_symptom_action": "本剤の副作用が増強するおそれがある。",
+      "mechanism_risk_factor": "CYP3Aを強く阻害することにより本薬の代謝が阻害され、本薬の血中濃度が著しく上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ミダゾラム\n（ドルミカム、ブコラム、ミダフレッサ）\n,",
+      "clinical_symptom_action": "過度の鎮静や呼吸抑制を起こすおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アトルバスタチンカルシウム水和物含有製剤\n（リピトール、アトーゼット、カデュエット）\nシンバスタチン\n（リポバス）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、横紋筋融解症を含むミオパチー等の重篤な副作用を起こすおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "キニジン硫酸塩水和物\nベプリジル塩酸塩水和物\n（ベプリコール）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、QT延長作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "チカグレロル\n（ブリリンタ）",
+      "clinical_symptom_action": "チカグレロルの血中濃度上昇により、血小板凝集抑制作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エプレレノン\n（セララ）",
+      "clinical_symptom_action": "エプレレノンの血中濃度上昇により、血清カリウム値の上昇を誘発するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n（クリアミン）\nメチルエルゴメトリンマレイン酸塩\n（パルタンM）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、血管攣縮等の重篤な副作用が発現するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トリアゾラム\n（ハルシオン）",
+      "clinical_symptom_action": "トリアゾラムの血中濃度上昇により、過度の鎮静や呼吸抑制が発現するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アナモレリン塩酸塩\n（エドルミズ）",
+      "clinical_symptom_action": "アナモレリン塩酸塩の血中濃度が上昇し、副作用の発現が増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "イバブラジン塩酸塩\n（コララン）",
+      "clinical_symptom_action": "過度の徐脈があらわれることがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ベネトクラクス〔再発又は難治性の慢性リンパ性白血病（小リンパ球性リンパ腫を含む）の用量漸増期〕\n（ベネクレクスタ）",
+      "clinical_symptom_action": "ベネトクラクスの血中濃度が上昇し、腫瘍崩壊症候群の発現が増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "イブルチニブ\n（イムブルビカ）",
+      "clinical_symptom_action": "イブルチニブの血中濃度が上昇し、副作用の発現が増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ブロナンセリン\n（ロナセン）\nルラシドン塩酸塩\n（ラツーダ）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アゼルニジピン含有製剤\n（カルブロック、レザルタス）",
+      "clinical_symptom_action": "アゼルニジピンの作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "スボレキサント\n（ベルソムラ）",
+      "clinical_symptom_action": "スボレキサントの血中濃度上昇により、作用を著しく増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "タダラフィル\n（アドシルカ）\nバルデナフィル塩酸塩水和物",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ロミタピドメシル酸塩\n（ジャクスタピッド）",
+      "clinical_symptom_action": "ロミタピドメシル酸塩の血中濃度を著しく上昇させるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファブチン\n（ミコブティン）",
+      "clinical_symptom_action": "リファブチンの血中濃度上昇により、作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フィネレノン\n（ケレンディア）",
+      "clinical_symptom_action": "フィネレノンの血中濃度を著しく上昇させるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リバーロキサバン\n（イグザレルト）",
+      "clinical_symptom_action": "リバーロキサバンの血中濃度上昇により、抗凝固作用が増強し、出血の危険性が増大するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3A及びP-gp阻害作用により、リバーロキサバンのクリアランスが低下することが考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アパルタミド\n（アーリーダ）\nカルバマゼピン\n（テグレトール）",
+      "clinical_symptom_action": "本薬の血中濃度が減少し、作用が減弱するおそれがある。また、これらの薬剤の血中濃度が上昇し、副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本薬の代謝が促進される。また、本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中程度のCYP3A阻害剤\nエリスロマイシン\nベラパミル\nフルコナゾール等",
+      "clinical_symptom_action": "本薬の血中濃度が上昇するおそれがあるので、特に本剤投与開始時及び用量調節時は副作用の発現に注意すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A阻害作用により、本薬の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツ含有食品",
+      "clinical_symptom_action": "本薬の血中濃度が上昇するおそれがあるので、本剤投与中の摂取は避けること。",
+      "mechanism_risk_factor": "CYP3Aを阻害することにより本薬の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A誘導剤\nリファンピシン\nフェニトイン\nフェノバルビタール\nエファビレンツ\nミトタン\nモダフィニル\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品等",
+      "clinical_symptom_action": "本薬の血中濃度が減少し、作用が減弱するおそれがあるので、CYP3A誘導作用のない薬剤への代替を考慮すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本薬の代謝が促進される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボセンタン水和物",
+      "clinical_symptom_action": "本薬の血中濃度が減少し、作用が減弱するおそれがある。また、ボセンタン水和物の血中濃度が上昇し、副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "ボセンタン水和物のCYP3A誘導作用により、本薬の代謝が促進されるおそれがある。また、本薬のCYP3A阻害作用により、ボセンタン水和物の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リオシグアト",
+      "clinical_symptom_action": "リオシグアトの血中濃度を上昇させるおそれがある。本剤との併用が必要な場合は、患者の状態に注意し、必要に応じてリオシグアトの減量を考慮すること。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副腎皮質ステロイド剤\nブデソニド\nシクレソニド\nデキサメタゾン\nメチルプレドニゾロン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "オピオイド系鎮痛剤\nフェンタニル\nフェンタニルクエン酸塩\nオキシコドン塩酸塩水和物",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "免疫抑制剤\nシクロスポリン\nタクロリムス水和物",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗悪性腫瘍剤\nドセタキセル\nエベロリムス\nテムシロリムス\nゲフィチニブ\nダサチニブ水和物\nエルロチニブ塩酸塩\nラパチニブトシル酸塩水和物\nボルテゾミブ\nイマチニブメシル酸塩\nスニチニブリンゴ酸塩\nボスチニブ水和物\nカバジタキセル\nクリゾチニブ\nシロリムス\nパノビノスタット乳酸塩\nポナチニブ塩酸塩\nルキソリチニブリン酸塩\nアキシチニブ\nニロチニブ塩酸塩水和物",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マラビロク\nアプレピタント\nサルメテロールキシナホ酸塩\nシナカルセト塩酸塩\nアルプラゾラム\nゾピクロン\nトルテロジン酒石酸塩\nオキシブチニン塩酸塩\nグアンファシン塩酸塩\nジエノゲスト",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ブプレノルフィン塩酸塩\nエレトリプタン臭化水素酸塩",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム拮抗剤\nニフェジピン\nフェロジピン\nベラパミル塩酸塩",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗精神病剤\nハロペリドール\nアリピプラゾール\nクエチアピンフマル酸塩",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗凝固薬\nワルファリンカリウム\nアピキサバン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジソピラミド\nシロスタゾール",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩\nビンブラスチン硫酸塩",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させ、筋神経系の副作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ベネトクラクス〔再発又は難治性の慢性リンパ性白血病（小リンパ球性リンパ腫を含む）の維持投与期、急性骨髄性白血病〕",
+      "clinical_symptom_action": "ベネトクラクスの副作用が増強されるおそれがあるので、ベネトクラクスを減量するとともに、患者の状態を慎重に観察し、副作用の発現に十分に注意すること。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PDE5阻害剤\nシルデナフィルクエン酸塩\nタダラフィル（ザルティア、シアリス）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コルヒチン\n,\n,",
+      "clinical_symptom_action": "コルヒチンの血中濃度上昇により、作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3Aに対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イリノテカン塩酸塩水和物",
+      "clinical_symptom_action": "イリノテカンの活性代謝物の血中濃度を上昇させるおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP3A阻害作用により、イリノテカンの活性代謝物の無毒化が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C19の基質となる薬剤\nオメプラゾール\nジアゼパム\nランソプラゾール等",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "本薬のCYP2C19阻害作用により、これらの薬剤の代謝が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "P-gpの基質となる薬剤\nジゴキシン\nフェキソフェナジン\nダビガトランエテキシラートメタンスルホン酸塩等\n,",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "本薬がP-gpを阻害することにより、P-gpを介したこれらの薬剤の輸送が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "P-gp阻害剤\nカルベジロール\nアミオダロン等",
+      "clinical_symptom_action": "本薬の血中濃度が上昇するおそれがあるので、副作用の発現に注意すること。",
+      "mechanism_risk_factor": "これらの薬剤がP-gpを阻害することにより、P-gpを介した本薬の輸送が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メトホルミン",
+      "clinical_symptom_action": "副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本薬がMATE1を阻害することにより、メトホルミンの排出が阻害される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロペラミド\n,\n,",
+      "clinical_symptom_action": "ロペラミドの副作用が増強されるおそれがあるので、必要に応じてロペラミドの用量を調整すること。本剤の併用により、ロペラミドのC\nmax\n及びAUCがそれぞれ3.14倍及び3.99倍に増加したとの報告がある。",
+      "mechanism_risk_factor": "本薬がCYP3A及びP-gpを阻害することにより、ロペラミドのクリアランスが低下することが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT間隔延長を起こすことが知られている薬剤\nイミプラミン\nメサドン等\n,\n,",
+      "clinical_symptom_action": "QT間隔延長を起こす又は悪化させるおそれがあるため、患者の状態を慎重に観察すること。",
+      "mechanism_risk_factor": "共にQT間隔延長に関連する副作用を有するため。"
+    }
+  ],
+  "facility_notes": ""
+}

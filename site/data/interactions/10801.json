@@ -1,0 +1,164 @@
+[
+  {
+    "other_id": 2829,
+    "other_brand": "エリスロシン点滴静注用500mg",
+    "interaction_type": "caution",
+    "source_text": "ピタバスタチンカルシウム水和物"
+  },
+  {
+    "other_id": 2830,
+    "other_brand": "エリスロシン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "ピタバスタチンカルシウム水和物"
+  },
+  {
+    "other_id": 2827,
+    "other_brand": "エリスロシンドライシロップ10％",
+    "interaction_type": "caution",
+    "source_text": "ピタバスタチンカルシウム水和物"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ピタバスタチンカルシウム水和物"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン（サンディミュン）（ネオーラル）\n,\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 12273,
+    "other_brand": "ベザフィブラート徐放錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 12278,
+    "other_brand": "ベザフィブラートSR錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 12279,
+    "other_brand": "ベザフィブラートSR錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 12280,
+    "other_brand": "ベザフィブラートSR錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等\n,\n,"
+  },
+  {
+    "other_id": 9432,
+    "other_brand": "ニコチネルTTS30",
+    "interaction_type": "caution",
+    "source_text": "ニコチン酸\n,"
+  },
+  {
+    "other_id": 4294,
+    "other_brand": "クエストラン粉末44.4%",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン"
+  },
+  {
+    "other_id": 13275,
+    "other_brand": "マヴィレット配合錠",
+    "interaction_type": "caution",
+    "source_text": "フルバスタチンナトリウムピタバスタチンカルシウム水和物"
+  },
+  {
+    "other_id": 13276,
+    "other_brand": "マヴィレット配合顆粒小児用",
+    "interaction_type": "caution",
+    "source_text": "フルバスタチンナトリウムピタバスタチンカルシウム水和物"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": 11847,
+  "brand_name": "プリビナ液0.05％",
+  "generic_name": "ナファゾリン硝酸塩",
+  "therapeutic_classification": "点鼻用局所血管収縮剤",
+  "indications": "上気道の諸疾患の充血・うっ血\n上気道粘膜の表面麻酔時における局所麻酔剤の効力持続時間の延長",
+  "dose_admin": "通常、成人鼻腔内には1回2～4滴を1日数回、咽頭・喉頭には1回1～2mLを1日数回塗布又は噴霧する。なお、年齢、症状により適宜増減する。局所麻酔剤への添加には、局所麻酔剤1mLあたり0.05%液2～4滴の割合で添加する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n乳児及び2歳未満の幼児\nMAO阻害剤の投与を受けている患者",
+  "application_precautions": "薬剤調製時の注意\n本品を小分けする場合は、微生物の混入等汚染が起きないよう注意し、一度小分けしたものは、本品容器に戻さないこと。また、汚染が起きたときは使用しないこと。\n薬剤使用時の注意\n眼科用として使用しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "MAO阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）",
+      "clinical_symptom_action": "急激な血圧上昇が起こるおそれがある。",
+      "mechanism_risk_factor": "本剤はアドレナリン作動薬であり、MAO阻害剤の投与を受けている患者では、ノルアドレナリンの蓄積が増大しているため、併用した場合急激な血圧上昇が起こるおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

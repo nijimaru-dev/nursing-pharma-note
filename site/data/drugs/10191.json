@@ -1,0 +1,76 @@
+{
+  "id": 10191,
+  "brand_name": "パルモディア錠0.1mg",
+  "generic_name": "ペマフィブラート",
+  "therapeutic_classification": "高脂血症治療剤",
+  "indications": "高脂血症（家族性を含む）",
+  "dose_admin": "通常、成人にはペマフィブラートとして1回0.1mgを1日2回朝夕に経口投与する。なお、年齢、症状に応じて適宜増減するが、最大用量は1回0.2mgを1日2回までとする。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n重篤な肝障害、Child-Pugh分類B又はCの肝硬変のある患者あるいは胆道閉塞のある患者\n,\n,\n胆石のある患者［胆石形成が報告されている。］\n妊婦又は妊娠している可能性のある女性\nシクロスポリン、リファンピシンを投与中の患者\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "横紋筋融解症（頻度不明）\n筋肉痛、脱力感、CK上昇、血中及び尿中ミオグロビン上昇を特徴とする横紋筋融解症があらわれ、これに伴って急性腎障害等の重篤な腎障害があらわれることがあるので、このような場合には直ちに投与を中止し、適切な処置を行うこと。\n,\n,\n,\n肝機能障害、黄疸（いずれも頻度不明）",
+  "observation_points": [
+    "横紋筋融解症（頻度不明）",
+    "筋肉痛、脱力感、CK上昇、血中及び尿中ミオグロビン上昇を特徴とする横紋筋融解症があらわれ、これに伴って急性腎障害等の重篤な腎障害があらわれることがあるので、このような場合には直ちに投与を中止し、適切な処置を行うこと",
+    ",",
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "急激な腎機能悪化を伴う横紋筋融解症があらわれやすい",
+    "自覚症状（筋肉痛、脱力感）の発現、CK上昇、血中及び尿中ミオグロビン上昇並びに血清クレアチニン上昇等の腎機能の悪化を認めた場合は直ちに投与を中止すること",
+    "併用する場合には必要に応じて本剤の減量を考慮すること",
+    "また、本剤の増量の必要性を慎重に判断すること",
+    "併用により本剤の血漿中濃度が上昇したとの報告がある",
+    "本剤の血漿中濃度が低下する可能性があるので、併用する場合には、可能な限り間隔をあけて投与することが望ましい",
+    "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シクロスポリン\n（サンディミュン）（ネオーラル）\n,",
+      "clinical_symptom_action": "併用により本剤の血漿中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "左記薬剤のOATP1B1、OATP1B3、CYP2C8、CYP2C9及びCYP3Aの阻害作用によると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン\n（リファジン）\n,",
+      "clinical_symptom_action": "併用により本剤の血漿中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "左記薬剤のOATP1B1及びOATP1B3の阻害作用によると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HMG-CoA還元酵素阻害薬\nプラバスタチンナトリウムシンバスタチンフルバスタチンナトリウム等\n,",
+      "clinical_symptom_action": "急激な腎機能悪化を伴う横紋筋融解症があらわれやすい。自覚症状（筋肉痛、脱力感）の発現、CK上昇、血中及び尿中ミオグロビン上昇並びに血清クレアチニン上昇等の腎機能の悪化を認めた場合は直ちに投与を中止すること。",
+      "mechanism_risk_factor": "危険因子：腎機能に関する臨床検査値に異常が認められる患者"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロピドグレル硫酸塩",
+      "clinical_symptom_action": "併用する場合には必要に応じて本剤の減量を考慮すること。また、本剤の増量の必要性を慎重に判断すること。併用により本剤の血漿中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "左記薬剤のCYP2C8及びOATP1B1の阻害作用によると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クラリスロマイシンHIVプロテアーゼ阻害剤\nリトナビル等",
+      "clinical_symptom_action": "併用する場合には必要に応じて本剤の減量を考慮すること。また、本剤の増量の必要性を慎重に判断すること。併用により本剤の血漿中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "左記薬剤のCYP3A、OATP1B1及びOATP1B3の阻害作用によると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルコナゾール",
+      "clinical_symptom_action": "併用により本剤の血漿中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "左記薬剤のCYP2C9及びCYP3Aの阻害によると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "陰イオン交換樹脂\nコレスチラミンコレスチミド",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下する可能性があるので、併用する場合には、可能な限り間隔をあけて投与することが望ましい。",
+      "mechanism_risk_factor": "同時投与により本剤が左記薬剤に吸着され吸収が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強いCYP3A誘導剤\nカルバマゼピンフェノバルビタールフェニトインセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "左記薬剤の強いCYP3Aの誘導作用により、本剤の代謝が促進されると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

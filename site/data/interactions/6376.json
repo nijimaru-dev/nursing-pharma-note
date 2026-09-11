@@ -1,0 +1,374 @@
+[
+  {
+    "other_id": 105,
+    "other_brand": "アクチバシン注600万",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\nヘパリンワルファリンカリウムアルガトロバン水和物ダビガトランエテキシラートメタンスルホン酸塩リバーロキサバン等\n,\n,\n,"
+  },
+  {
+    "other_id": 2228,
+    "other_brand": "ウロナーゼ冠動注用12万単位",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\nヘパリン\nワルファリンカリウム\nアルガトロバン水和物　等\n血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩　等\n血栓溶解剤\nt-PA製剤　等\n,"
+  },
+  {
+    "other_id": 2229,
+    "other_brand": "ウロナーゼ静注用6万単位",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\nヘパリン\nワルファリンカリウム\nアルガトロバン水和物　等\n血小板凝集抑制作用を有する薬剤\nアスピリン\nジピリダモール\nチクロピジン塩酸塩　等\n血栓溶解剤\nt-PA製剤　等\n,"
+  },
+  {
+    "other_id": 2823,
+    "other_brand": "エリキュース錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nワルファリンカリウム\n未分画ヘパリン\nへパリン誘導体\n低分子ヘパリン\nエノキサパリンナトリウム\nフォンダパリヌクスナトリウム\nダビガトランエテキシラートメタンスルホン酸塩\nアルガトロバン水和物等\n血栓溶解剤\nウロキナーゼ\nt-PA等\n非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム\nナプロキセン等\nデフィブロチドナトリウム"
+  },
+  {
+    "other_id": 4477,
+    "other_brand": "クリアクター静注用40万",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\nヘパリン、\n低分子量ヘパリン、\nワルファリンカリウム、\nアルガトロバン水和物、\nXa阻害剤、\n乾燥濃縮人活性化プロテインC等\n,\n,"
+  },
+  {
+    "other_id": 4940,
+    "other_brand": "グルトパ注600万",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\nヘパリンワルファリンカリウムアルガトロバン水和物ダビガトランエテキシラートメタンスルホン酸塩リバーロキサバン等\n,\n,\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nアルテプラーゼ、ウロキナーゼ等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nアルテプラーゼ、ウロキナーゼ等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nアルテプラーゼ、ウロキナーゼ等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nアルテプラーゼ、ウロキナーゼ等"
+  },
+  {
+    "other_id": 8305,
+    "other_brand": "デフィブラーゼ点滴静注液10単位",
+    "interaction_type": "caution",
+    "source_text": "フィブリノーゲン低下作用を有する酵素製剤\nバトロキソビン等"
+  },
+  {
+    "other_id": 287,
+    "other_brand": "アスピリン「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 290,
+    "other_brand": "アスピリン「ホエイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 291,
+    "other_brand": "アスピリン「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 292,
+    "other_brand": "アスピリン原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 294,
+    "other_brand": "アスピリン腸溶錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 296,
+    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 297,
+    "other_brand": "アスピリン腸溶錠100mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3069,
+    "other_brand": "オザグレルナトリウム点滴静注液40mg「JD」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3071,
+    "other_brand": "オザグレルNa注射液20mgシリンジ「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3074,
+    "other_brand": "オザグレルNa注射用20mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3077,
+    "other_brand": "オザグレルNa注80mgシリンジ「IP」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3078,
+    "other_brand": "オザグレルNa点滴静注液20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3084,
+    "other_brand": "オザグレルNa点滴静注20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3085,
+    "other_brand": "オザグレルNa点滴静注20mg「IP」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3093,
+    "other_brand": "オザグレルNa点滴静注80mgバッグ「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3094,
+    "other_brand": "オザグレルNa点滴静注80mgバッグ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3095,
+    "other_brand": "オザグレルNa点滴静注80mg/100mLバッグ「IP」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3097,
+    "other_brand": "オザグレルNa静注液20mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 3662,
+    "other_brand": "カタクロット注射液40mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4563,
+    "other_brand": "クロピドグレル錠25mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4565,
+    "other_brand": "クロピドグレル錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4567,
+    "other_brand": "クロピドグレル錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4570,
+    "other_brand": "クロピドグレル錠25mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4572,
+    "other_brand": "クロピドグレル錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4573,
+    "other_brand": "クロピドグレル錠25mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4574,
+    "other_brand": "クロピドグレル錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4575,
+    "other_brand": "クロピドグレル錠25mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 4581,
+    "other_brand": "クロピドグレル錠25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5707,
+    "other_brand": "シロスタゾール錠50mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5709,
+    "other_brand": "シロスタゾール錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5713,
+    "other_brand": "シロスタゾール錠50mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5725,
+    "other_brand": "シロスタゾールOD錠50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5729,
+    "other_brand": "シロスタゾールOD錠50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5730,
+    "other_brand": "シロスタゾールOD錠50mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5984,
+    "other_brand": "ジピリダモール錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5987,
+    "other_brand": "ジピリダモール錠12.5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 5989,
+    "other_brand": "ジピリダモール錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 7542,
+    "other_brand": "チクロピジン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 7543,
+    "other_brand": "チクロピジン塩酸塩錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 9890,
+    "other_brand": "バイアスピリン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 10157,
+    "other_brand": "パナルジン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 11964,
+    "other_brand": "プレタール散20％",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 11965,
+    "other_brand": "プレタールOD錠50mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nアスピリン、オザグレルナトリウム、チクロピジン塩酸塩、クロピドグレル硫酸塩、シロスタゾール、ジピリダモール等"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗血栓剤\n血液凝固阻止剤\n抗トロンビン剤\nアルガトロバン水和物\nダビガトランエテキシラートメタンスルホン酸塩"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "抗血栓剤\n血液凝固阻止剤\n抗トロンビン剤\nアルガトロバン水和物\nダビガトランエテキシラートメタンスルホン酸塩"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "抗血栓剤\n血液凝固阻止剤\n抗トロンビン剤\nアルガトロバン水和物\nダビガトランエテキシラートメタンスルホン酸塩"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "抗血栓剤\n血液凝固阻止剤\n抗トロンビン剤\nアルガトロバン水和物\nダビガトランエテキシラートメタンスルホン酸塩"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "抗血栓剤\n血液凝固阻止剤\n抗トロンビン剤\nアルガトロバン水和物\nダビガトランエテキシラートメタンスルホン酸塩"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗血栓剤\n血液凝固阻止剤\n抗トロンビン剤\nアルガトロバン水和物\nダビガトランエテキシラートメタンスルホン酸塩"
+  }
+]

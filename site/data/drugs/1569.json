@@ -1,0 +1,65 @@
+{
+  "id": 1569,
+  "brand_name": "イストラデフィリン錠20mg「ケミファ」",
+  "generic_name": "イストラデフィリン",
+  "therapeutic_classification": "アデノシンA\n2A\n受容体拮抗薬",
+  "indications": "レボドパ含有製剤で治療中のパーキンソン病におけるウェアリングオフ現象の改善",
+  "dose_admin": "本剤は、レボドパ含有製剤と併用する。通常、成人にはイストラデフィリンとして20mgを1日1回経口投与する。なお、症状により40mgを1日1回経口投与できる。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性\n重度の肝障害のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "精神障害\n幻視（4.5％）、幻覚（3.2％）、妄想（0.8％）、せん妄（0.6％）、不安障害（0.5％）、うつの悪化・抑うつ（0.5％）、被害妄想（0.3％）、幻聴（0.2％）、体感幻覚（0.2％）、躁病（0.2％）、激越（0.2％）、衝動制御障害（0.2％）等があらわれることがある。",
+  "observation_points": [
+    "精神障害",
+    "幻視（4.5％）、幻覚（3.2％）、妄想（0.8％）、せん妄（0.6％）、不安障害（0.5％）、うつの悪化・抑うつ（0.5％）、被害妄想（0.3％）、幻聴（0.2％）、体感幻覚（0.2％）、躁病（0.2％）、激越（0.2％）、衝動制御障害（0.2％）等があらわれることがある",
+    "本剤の作用が増強される可能性がある",
+    "本剤の作用が減弱する可能性がある",
+    "左記薬剤の作用が増強される可能性がある",
+    "エンタカポンとの併用によりジスキネジーの発現頻度の上昇が認められた"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aを強く阻害する薬剤\nイトラコナゾールクラリスロマイシン 等\n,",
+      "clinical_symptom_action": "本剤の作用が増強される可能性がある。",
+      "mechanism_risk_factor": "CYP3A阻害剤との併用により、本剤の代謝が阻害され血中濃度が増加する可能性がある。ケトコナゾールと本剤を併用した際に、本剤のAUC\n0-∞\nは増加し、t\n1/2\nは延長した。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aを阻害する薬剤\nエリスロマイシンフルコナゾール 等",
+      "clinical_symptom_action": "本剤の作用が増強される可能性がある。",
+      "mechanism_risk_factor": "CYP3A阻害剤との併用により、本剤の代謝が阻害され血中濃度が増加する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aを誘導する薬剤\nリファンピシンカルバマゼピン 等\nセイヨウオトギリソウ（St. John’s Wort, セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の作用が減弱する可能性がある。",
+      "mechanism_risk_factor": "CYP3A誘導剤との併用により、本剤の代謝が促進され血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aの基質となる薬剤\nミダゾラムアトルバスタチンロミタピドメシル酸塩 等\n,",
+      "clinical_symptom_action": "左記薬剤の作用が増強される可能性がある。",
+      "mechanism_risk_factor": "本剤との併用により、CYP3Aの基質となる薬剤の代謝が阻害され血中濃度が増加する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "P糖蛋白の基質となる薬剤\nジゴキシンアトルバスタチン 等\n,",
+      "clinical_symptom_action": "左記薬剤の作用が増強される可能性がある。",
+      "mechanism_risk_factor": "本剤との併用により、P糖蛋白が阻害され、P糖蛋白の基質となる薬剤の血中濃度が増加する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タバコ（喫煙）",
+      "clinical_symptom_action": "本剤の作用が減弱する可能性がある。",
+      "mechanism_risk_factor": "喫煙によるCYP1A1及びCYP1A2の誘導により、本剤の代謝が亢進し血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エンタカポン",
+      "clinical_symptom_action": "エンタカポンとの併用によりジスキネジーの発現頻度の上昇が認められた。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

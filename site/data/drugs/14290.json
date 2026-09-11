@@ -1,0 +1,38 @@
+{
+  "id": 14290,
+  "brand_name": "ライアットMIBG−I131静注",
+  "generic_name": "3-ヨードベンジルグアニジン（\n131\nI）",
+  "therapeutic_classification": "放射性医薬品／褐色細胞腫・パラガングリオーマ・神経芽腫治療薬",
+  "indications": "MIBG集積陽性の治癒切除不能な褐色細胞腫・パラガングリオーマ\nMIBG集積陽性の神経芽腫",
+  "dose_admin": "〈MIBG集積陽性の治癒切除不能な褐色細胞腫・パラガングリオーマ〉\n通常、成人には3-ヨードベンジルグアニジン（\n131\nI）として1回5.55～7.4GBqを1時間かけて点滴静注する。\n〈MIBG集積陽性の神経芽腫〉\n通常、3-ヨードベンジルグアニジン（\n131\nI）として1回296～666MBq/kgを1～4時間かけて点滴静注する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性\n,",
+  "application_precautions": "薬剤調製時の注意\n本剤は解凍開始後4時間以内に投与開始すること。また、解凍後に再凍結しないこと。",
+  "serious_adverse_events": "骨髄抑制\nリンパ球減少（81.3%）、血小板減少（62.5%）、白血球減少（43.8%）、好中球減少（25.0%）等があらわれることがある。",
+  "observation_points": [
+    "骨髄抑制",
+    "リンパ球減少（81.3%）、血小板減少（62.5%）、白血球減少（43.8%）、好中球減少（25.0%）等があらわれることがある",
+    "本剤の有効性が減弱するおそれがあるので、併用を避けることが望ましい"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラベタロール塩酸塩\n,",
+      "clinical_symptom_action": "本剤の有効性が減弱するおそれがあるので、併用を避けることが望ましい。",
+      "mechanism_risk_factor": "これらの薬剤により、本剤の腫瘍への集積が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "レセルピン",
+      "clinical_symptom_action": "本剤の有効性が減弱するおそれがあるので、併用を避けることが望ましい。",
+      "mechanism_risk_factor": "これらの薬剤により、本剤の腫瘍への集積が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三環系抗うつ剤\nイミプラミン塩酸塩等",
+      "clinical_symptom_action": "本剤の有効性が減弱するおそれがあるので、併用を避けることが望ましい。",
+      "mechanism_risk_factor": "これらの薬剤により、本剤の腫瘍への集積が低下する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

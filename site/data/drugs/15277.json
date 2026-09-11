@@ -1,0 +1,32 @@
+{
+  "id": 15277,
+  "brand_name": "レプチラーゼ注1単位",
+  "generic_name": "ヘモコアグラーゼ",
+  "therapeutic_classification": "酵素止血剤",
+  "indications": "肺出血、鼻出血、口腔内出血、性器出血、腎出血、創傷よりの出血など。",
+  "dose_admin": "通常、成人1日1～2クロブスイツキー単位、小児は1日0.3～1.0クロブスイツキー単位を静脈内又は筋肉内注射する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "トロンビンを投与中の患者",
+  "application_precautions": "薬剤投与時の注意\n静脈内注射時\n急速に投与すると、ときに悪心、胸内不快感、心悸亢進、一過性の熱感、頭痛等があらわれることがあるのでゆっくりと静脈内に投与すること。\n筋肉内注射時\n組織・神経などへの影響を避けるため、以下の点に配慮すること。\n神経走行部位を避けるように注意すること。\n繰り返し注射する場合には、例えば左右交互に注射するなど、注射部位を変えて行うこと。\n注射針を刺入したとき、激痛を訴えたり、血液の逆流を見た場合は、直ちに針を抜き、部位を変えて行うこと。",
+  "serious_adverse_events": "ショック\nショック症状（頻度不明）があらわれることがある。",
+  "observation_points": [
+    "ショック",
+    "ショック症状（頻度不明）があらわれることがある",
+    "大量併用により血栓形成傾向があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トロンビン",
+      "clinical_symptom_action": "血栓形成傾向があらわれるおそれがある。",
+      "mechanism_risk_factor": "血栓形成を促進する作用があり、併用により血栓形成傾向が増大する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗プラスミン剤\nトラネキサム酸 ε-アミノカプロン酸等",
+      "clinical_symptom_action": "大量併用により血栓形成傾向があらわれるおそれがある\n。",
+      "mechanism_risk_factor": "本剤によって形成されたフィブリン塊が抗プラスミン剤により比較的長く残存し閉塞状態を持続させるおそれがある\n。"
+    }
+  ],
+  "facility_notes": ""
+}

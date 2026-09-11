@@ -1,0 +1,848 @@
+[
+  {
+    "other_id": 79,
+    "other_brand": "アウィクリ注 フレックスタッチ 総量300単位",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 672,
+    "other_brand": "アピドラ注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 673,
+    "other_brand": "アピドラ注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 674,
+    "other_brand": "アピドラ注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 718,
+    "other_brand": "アマリール0.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロンクロラムフェニコールシメチジンスルファメトキサゾール・トリメトプリムチクロピジンフルコナゾールフルボキサミンホスフルコナゾールミコナゾールセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロン\nクロラムフェニコール\nシメチジン\nスルファメトキサゾール・トリメトプリム\nチクロピジン\nフルコナゾール\nフルボキサミン\nホスフルコナゾール\nミコナゾール\nセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロンクロラムフェニコールシメチジンスルファメトキサゾール・トリメトプリムチクロピジンフルコナゾールフルボキサミンホスフルコナゾールミコナゾールセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 1894,
+    "other_brand": "インスリン　アスパルトBS注カート NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 1895,
+    "other_brand": "インスリン　アスパルトBS注ソロスター NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 1896,
+    "other_brand": "インスリン　アスパルトBS注100単位/mL NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 1898,
+    "other_brand": "インスリン グラルギンBS注キット「FFP」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 1897,
+    "other_brand": "インスリン　グラルギンBS注カート「リリー」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 1900,
+    "other_brand": "インスリン　リスプロBS注カート　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 1902,
+    "other_brand": "インスリン　リスプロBS注100単位/mL　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 2922,
+    "other_brand": "エンドキサン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン\nクロラムフェニコール"
+  },
+  {
+    "other_id": 2944,
+    "other_brand": "オイグルコン錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4270,
+    "other_brand": "キーンス配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4846,
+    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4848,
+    "other_brand": "グリメピリド錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4851,
+    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4852,
+    "other_brand": "グリメピリド錠0.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4853,
+    "other_brand": "グリメピリド錠0.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4854,
+    "other_brand": "グリメピリド錠0.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4855,
+    "other_brand": "グリメピリド錠0.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4856,
+    "other_brand": "グリメピリド錠0.5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4858,
+    "other_brand": "グリメピリド錠0.5mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4859,
+    "other_brand": "グリメピリド錠0.5mg「NC」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4861,
+    "other_brand": "グリメピリド錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4863,
+    "other_brand": "グリメピリド錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4865,
+    "other_brand": "グリメピリド錠0.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 5055,
+    "other_brand": "ケラチナミンコーワクリーム20％",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 16428,
+    "other_brand": "尿素「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 16430,
+    "other_brand": "尿素クリーム10％「SUN」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 16432,
+    "other_brand": "尿素クリーム20％「SUN」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン"
+  },
+  {
+    "other_id": 16582,
+    "other_brand": "注射用エンドキサン100mg",
+    "interaction_type": "caution",
+    "source_text": "シクロホスファミド水和物"
+  },
+  {
+    "other_id": 17024,
+    "other_brand": "経口用エンドキサン原末100mg",
+    "interaction_type": "caution",
+    "source_text": "シクロホスファミド水和物"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13626,
+    "other_brand": "メソトレキセート注射液50mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13627,
+    "other_brand": "メソトレキセート注射液5mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13628,
+    "other_brand": "メソトレキセート点滴静注液200mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13630,
+    "other_brand": "メソトレキセート錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13681,
+    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13685,
+    "other_brand": "メトトレキサート錠2mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13687,
+    "other_brand": "メトトレキサート錠2mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 14613,
+    "other_brand": "リウマトレックスカプセル2mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16597,
+    "other_brand": "注射用メソトレキセート50mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16598,
+    "other_brand": "注射用メソトレキセート5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nフェノバルビタール等"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nフェノバルビタール等"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nフェノバルビタール等"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 4767,
+    "other_brand": "グリクラジド錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4768,
+    "other_brand": "グリクラジド錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4769,
+    "other_brand": "グリクラジド錠20mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4832,
+    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4833,
+    "other_brand": "グリベンクラミド錠1.25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4834,
+    "other_brand": "グリベンクラミド錠1.25mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4835,
+    "other_brand": "グリベンクラミド錠1.25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4840,
+    "other_brand": "グリミクロンHA錠20mg",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4843,
+    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4849,
+    "other_brand": "グリメピリド錠0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4850,
+    "other_brand": "グリメピリド錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4857,
+    "other_brand": "グリメピリド錠0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4860,
+    "other_brand": "グリメピリド錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4862,
+    "other_brand": "グリメピリド錠0.5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4864,
+    "other_brand": "グリメピリド錠0.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4912,
+    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4913,
+    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4914,
+    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 5557,
+    "other_brand": "シクロスポリンカプセル10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アミオダロンカルシウム拮抗剤\nジルチアゼムニカルジピンベラパミル\nマクロライド系抗生物質\nエリスロマイシン等\nクロラムフェニコールアゾール系抗真菌剤\nフルコナゾールイトラコナゾール等\nノルフロキサシン\nHIVプロテアーゼ阻害剤\nリトナビル等\nコビシスタットを含有する製剤卵胞・黄体ホルモン剤ダナゾールブロモクリプチンアロプリノールフルボキサミンイマチニブダサチニブスチリペントール"
+  },
+  {
+    "other_id": 5563,
+    "other_brand": "シクロスポリンカプセル10mg「TC」",
+    "interaction_type": "caution",
+    "source_text": "アミオダロンカルシウム拮抗剤\nジルチアゼムニカルジピンベラパミル\nマクロライド系抗生物質\nエリスロマイシン等\nクロラムフェニコールアゾール系抗真菌剤\nフルコナゾールイトラコナゾール等\nノルフロキサシン\nHIVプロテアーゼ阻害剤\nリトナビル等\nコビシスタットを含有する製剤卵胞・黄体ホルモン剤ダナゾールブロモクリプチンアロプリノールフルボキサミンイマチニブダサチニブスチリペントール"
+  },
+  {
+    "other_id": 6202,
+    "other_brand": "スターシス錠30mg",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 6825,
+    "other_brand": "ソニアス配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nスルホニルウレア剤速効型インスリン分泌促進薬α-グルコシダーゼ阻害剤ビグアナイド系薬剤DPP-4阻害剤GLP-1アナログ製剤インスリン製剤SGLT2阻害剤\n糖尿病用薬の血糖降下作用を増強する薬剤\nβ-遮断薬モノアミン酸化酵素阻害薬フィブラート系の高脂血症治療薬ワルファリンプロベネシドサリチル酸製剤プロピオン酸系消炎薬アリール酢酸系消炎薬オキシカム系消炎薬クラリスロマイシンサルファ剤クロラムフェニコールテトラサイクリン系抗生物質シプロフロキサシンレボフロキサシン水和物アゾール系抗真菌薬シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物等"
+  },
+  {
+    "other_id": 6851,
+    "other_brand": "ソリクア配合注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 7005,
+    "other_brand": "ゾルトファイ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 8763,
+    "other_brand": "トランコロンP配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミノフィリン水和物\nクロラムフェニコール\nテオフィリン\nパロキセチン\nフレカイニド"
+  },
+  {
+    "other_id": 8861,
+    "other_brand": "トレシーバ注　フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 8862,
+    "other_brand": "トレシーバ注　ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9326,
+    "other_brand": "ナテグリニド錠30mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9724,
+    "other_brand": "ノボラピッド注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9726,
+    "other_brand": "ノボラピッド注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9727,
+    "other_brand": "ノボラピッド注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9728,
+    "other_brand": "ノボラピッド30ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9729,
+    "other_brand": "ノボラピッド30ミックス注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9730,
+    "other_brand": "ノボラピッド50ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9731,
+    "other_brand": "ノボリン30R注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9732,
+    "other_brand": "ノボリンN注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9733,
+    "other_brand": "ノボリンR注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9734,
+    "other_brand": "ノボリンR注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "アミノフィリン水和物\nクロラムフェニコール\nテオフィリン\nパロキセチン\nフレカイニド\nメトロニダゾール"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9又はCYP2C19を阻害する薬剤\nアミオダロンクロラムフェニコールシメチジンスルファメトキサゾール・トリメトプリムチクロピジンフルコナゾールフルボキサミンホスフルコナゾールミコナゾールセリチニブ\nアシミニブ\nニチシノン"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミドトピラマートクロラムフェニコールタクロリムステラプレビル\nブリーバラセタム"
+  },
+  {
+    "other_id": 10427,
+    "other_brand": "ヒューマリン3/7注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10429,
+    "other_brand": "ヒューマリン3/7注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10430,
+    "other_brand": "ヒューマリンN注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10432,
+    "other_brand": "ヒューマリンN注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10433,
+    "other_brand": "ヒューマリンR注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10435,
+    "other_brand": "ヒューマリンR注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10436,
+    "other_brand": "ヒューマログミックス25注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10438,
+    "other_brand": "ヒューマログミックス50注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10440,
+    "other_brand": "ヒューマログ注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10443,
+    "other_brand": "ヒューマログ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 10919,
+    "other_brand": "ファスティック錠30",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 11032,
+    "other_brand": "フィアスプ注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 11034,
+    "other_brand": "フィアスプ注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン\nアロプリノール\nイソニアジド\nエトスクシミド\nオメプラゾール\nクロラムフェニコール\nジスルフィラム\nシメチジン\nジルチアゼム\nスルチアム\nスルファメトキサゾール・トリメトプリム\nチクロピジン\nパラアミノサリチル酸\nフルコナゾール\nフルボキサミン\nホスフルコナゾール\nミコナゾール\nメチルフェニデート\nエソメプラゾール\nセリチニブ"
+  },
+  {
+    "other_id": 13673,
+    "other_brand": "メトジェクト皮下注7.5mgシリンジ0.15mL",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系薬剤テトラサイクリンクロラムフェニコールフェニトインバルビツール酸誘導体"
+  },
+  {
+    "other_id": 13682,
+    "other_brand": "メトトレキサートカプセル2mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系薬剤テトラサイクリンクロラムフェニコールフェニトインバルビツール酸誘導体"
+  },
+  {
+    "other_id": 13686,
+    "other_brand": "メトトレキサート錠2mg「タナベ」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系薬剤テトラサイクリンクロラムフェニコールフェニトインバルビツール酸誘導体"
+  },
+  {
+    "other_id": 13683,
+    "other_brand": "メトトレキサートカプセル2mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系薬剤テトラサイクリンクロラムフェニコールフェニトインバルビツール酸誘導体"
+  },
+  {
+    "other_id": 13684,
+    "other_brand": "メトトレキサート錠1mg「日本臓器」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系薬剤テトラサイクリンクロラムフェニコールフェニトインバルビツール酸誘導体"
+  },
+  {
+    "other_id": 13690,
+    "other_brand": "メトトレキサート錠2mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系薬剤テトラサイクリンクロラムフェニコールフェニトインバルビツール酸誘導体"
+  },
+  {
+    "other_id": 14292,
+    "other_brand": "ライゾデグ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 14591,
+    "other_brand": "ランタス注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 14592,
+    "other_brand": "ランタス注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 14593,
+    "other_brand": "ランタス注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 14594,
+    "other_brand": "ランタスXR注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 14938,
+    "other_brand": "リファンピシンカプセル150mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "抗生物質製剤\nクラリスロマイシンクロラムフェニコールドキシサイクリン塩酸塩水和物"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "caution",
+    "source_text": "アミノフィリン水和物\nクロラムフェニコール\nテオフィリン\nパロキセチン\nフレカイニド\nメトロニダゾール"
+  },
+  {
+    "other_id": 15101,
+    "other_brand": "ルムジェブ注カート",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 15104,
+    "other_brand": "ルムジェブ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 15332,
+    "other_brand": "レベミル注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 15333,
+    "other_brand": "レベミル注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "caution",
+    "source_text": "アミノフィリン水和物、クロラムフェニコール、テオフィリン、パロキセチン、フレカイニド、メトロニダゾール"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗生物質製剤\nクロラムフェニコール系"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "抗生物質製剤\nクロラムフェニコール系"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "抗生物質製剤\nクロラムフェニコール系"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "抗生物質製剤\nクロラムフェニコール系"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "抗生物質製剤\nクロラムフェニコール系"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗生物質製剤\nクロラムフェニコール系"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド\nトピラマート\nクロラムフェニコール\nタクロリムス\nテラプレビル\nブリーバラセタム"
+  }
+]

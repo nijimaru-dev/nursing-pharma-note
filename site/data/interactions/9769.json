@@ -1,0 +1,14 @@
+[
+  {
+    "other_id": 5597,
+    "other_brand": "シスプラチン点滴静注10mg「マルコ」",
+    "interaction_type": "caution",
+    "source_text": "他の抗悪性腫瘍剤\nシスプラチン等\n放射線照射"
+  },
+  {
+    "other_id": 12408,
+    "other_brand": "ベネシッド錠250mg",
+    "interaction_type": "caution",
+    "source_text": "腎陰イオン輸送系阻害剤\nプロベネシド等"
+  }
+]

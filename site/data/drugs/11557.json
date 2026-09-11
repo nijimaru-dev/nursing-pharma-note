@@ -1,0 +1,24 @@
+{
+  "id": 11557,
+  "brand_name": "フロリード腟坐剤100mg",
+  "generic_name": "ミコナゾール硝酸塩",
+  "therapeutic_classification": "抗真菌剤",
+  "indications": "カンジダに起因する腟炎および外陰腟炎",
+  "dose_admin": "1日1回1個を腟深部に挿入する。一般に6日間投与で真菌学的効果（一次効果）および自他覚症状の改善が得られるが、菌の再出現防止のためには14日間投与することが望ましい。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n本剤は腟内に投与させること。\n本剤の基剤として使用されている油脂性成分は、コンドーム等の避妊用ラテックスゴム製品の品質を劣化・破損する可能性があるため、これらとの接触を避けさせること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "ワルファリンの作用を増強することがある（腟からの吸収はほとんど認められていないが、外国において、ワルファリンとの併用により出血を来した症例が報告されている）"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリンカリウム",
+      "clinical_symptom_action": "ワルファリンの作用を増強することがある（腟からの吸収はほとんど認められていないが、外国において、ワルファリンとの併用により出血を来した症例が報告されている）。",
+      "mechanism_risk_factor": "ミコナゾール硝酸塩がCYP3A及びCYP2C9を阻害することによると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

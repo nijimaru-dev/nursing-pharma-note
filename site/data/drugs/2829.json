@@ -1,0 +1,247 @@
+{
+  "id": 2829,
+  "brand_name": "エリスロシン点滴静注用500mg",
+  "generic_name": "エリスロマイシンラクトビオン酸塩",
+  "therapeutic_classification": "マクロライド系抗生物質製剤",
+  "indications": "＜適応菌種＞\nエリスロマイシンに感性のブドウ球菌属、レンサ球菌属、肺炎球菌、ジフテリア菌\n＜適応症＞\n外傷・熱傷及び手術創等の二次感染、肺炎、ジフテリア",
+  "dose_admin": "通常、成人にはエリスロマイシンとして1日600～1500mg（力価）を2～3回に分けて1回2時間以上かけて点滴静注する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン、ジヒドロエルゴタミンメシル酸塩、ピモジド、ロミタピドメシル酸塩、アミオダロン（注射剤）、クリンダマイシン（注射剤、経口剤）、リンコマイシン塩酸塩水和物を投与中の患者",
+  "application_precautions": "薬剤調製時の注意\n注射液は注射用水で5%溶液をつくり、これをブドウ糖注射液、生理食塩液等で希釈して点滴静注溶液とする。5%溶液を調製するには、本剤1バイアルに注射用水10mLを加える。\n5%溶液調製の際には、生理食塩液あるいは無機塩類を含有する溶液を使用しないこと。5%溶液をさらに希釈する際には、注射用水を使用しないこと（低張になる）。\n5%溶液は冷蔵庫内で2週間安定である。\n薬剤投与時の注意\n血管痛、血栓、静脈炎を起こすことがあるので注意すること。",
+  "serious_adverse_events": "偽膜性大腸炎等の血便を伴う重篤な大腸炎（頻度不明）\n腹痛、頻回の下痢があらわれた場合には、直ちに投与を中止するなど適切な処置を行うこと。\n心室頻拍（Torsade de pointesを含む）、心室細動、QT延長（頻度不明）\n,\nショック、アナフィラキシー（頻度不明）\n呼吸困難、胸内苦悶、血圧低下等があらわれた場合には投与を中止し、適切な処置を行うこと。\n中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）\n急性腎障害（急性間質性腎炎）（頻度不明）\n肝機能障害、黄疸（頻度不明）\nAST、ALT、ALPの上昇等を伴う肝機能障害や黄疸があらわれることがある。",
+  "observation_points": [
+    "偽膜性大腸炎等の血便を伴う重篤な大腸炎（頻度不明）",
+    "腹痛、頻回の下痢があらわれた場合には、直ちに投与を中止するなど適切な処置を行うこと",
+    "心室頻拍（Torsade de pointesを含む）、心室細動、QT延長（頻度不明）",
+    ",",
+    "ショック、アナフィラキシー（頻度不明）",
+    "呼吸困難、胸内苦悶、血圧低下等があらわれた場合には投与を中止し、適切な処置を行うこと",
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）",
+    "急性腎障害（急性間質性腎炎）（頻度不明）",
+    "肝機能障害、黄疸（頻度不明）",
+    "AST、ALT、ALPの上昇等を伴う肝機能障害や黄疸があらわれることがある",
+    "QT延長、心室性不整脈（Torsade de pointesを含む）等が報告されているので、減量するなど慎重に投与すること",
+    "悪心・嘔吐、不整脈、痙攣等が報告されているので、減量するなど慎重に投与すること",
+    "腎障害等が報告されているので、減量するなど慎重に投与すること",
+    "出血傾向、プロトロンビン時間延長等が報告されているので、減量するなど慎重に投与すること",
+    "骨髄機能抑制、下痢等の副作用を増強するおそれがあるため、減量するなど慎重に投与すること",
+    "好中球減少、筋肉痛等が報告されているので、減量するなど慎重に投与すること",
+    "傾眠、運動失調等が報告されているので、減量するなど慎重に投与すること",
+    "降圧作用の増強が報告されているので、減量するなど慎重に投与すること",
+    "血圧低下、徐脈性不整脈、乳酸アシドーシス等が報告されているので、減量するなど慎重に投与すること",
+    "鎮静作用の増強が報告されているので、減量するなど慎重に投与すること",
+    "めまい、運動失調等が報告されているので、減量するなど慎重に投与すること",
+    "下痢、腹痛、発熱、筋肉痛、汎血球減少、呼吸困難等が報告されているので、減量するなど慎重に投与すること",
+    "シンバスタチン、アトルバスタチンカルシウム水和物との併用により、筋肉痛、脱力感、CK上昇、血中及び尿中ミオグロビン上昇を特徴とし、急激な腎機能悪化を伴う横紋筋融解症があらわれたとの報告がある",
+    "減量するなど慎重に投与すること",
+    "これらの薬剤の作用が増強するおそれがある",
+    "ドンペリドンの血中濃度が上昇する",
+    "また、ドンペリドンとの併用により、QT延長が報告されている",
+    "これらの薬剤の消失半減期が延長するとの報告があるので、減量するなど慎重に投与すること",
+    "エバスチンの代謝物カレバスチンの血中濃度が上昇するとの報告がある",
+    "出血のリスクを増大させるおそれがある",
+    "併用する場合、エドキサバントシル酸塩水和物の用量は、エドキサバントシル酸塩水和物の電子添文を参照すること",
+    "ジゴキシンの作用増強による嘔気、嘔吐、不整脈等の中毒症状が報告されているので、減量するなど慎重に投与すること",
+    "難聴が報告されているので、減量するなど慎重に投与すること",
+    "本剤のAUCが上昇することが予想される",
+    "併用してもクリンダマイシンの効果があらわれないと考えられる",
+    "リバーロキサバンの血中濃度が上昇したとの報告がある",
+    "フェキソフェナジンの血漿中濃度を上昇させるとの報告がある",
+    "本剤の作用が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nジヒドロエルゴタミンメシル酸塩",
+      "clinical_symptom_action": "四肢の虚血、血管攣縮等が報告されている。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ピモジド",
+      "clinical_symptom_action": "QT延長、心室性不整脈（Torsade de pointesを含む）等が発現するおそれがある。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ロミタピドメシル酸塩（ジャクスタピッド）",
+      "clinical_symptom_action": "ロミタピドメシル酸塩の血中濃度が著しく上昇するおそれがある。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アミオダロン（注射剤）（アンカロン注）",
+      "clinical_symptom_action": "併用によりTorsade de pointesのリスクが増加する。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増加することがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "クリンダマイシン（注射剤、経口剤）（ダラシンS注射液、ダラシンカプセル）\nリンコマイシン塩酸塩水和物（リンコシン）",
+      "clinical_symptom_action": "併用してもこれらの薬剤の効果があらわれないと考えられる。",
+      "mechanism_risk_factor": "本剤の細菌のリボゾーム50S Subunitへの親和性がこれらの薬剤より高いと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジソピラミド\nキニジン硫酸塩水和物",
+      "clinical_symptom_action": "QT延長、心室性不整脈（Torsade de pointesを含む）等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テオフィリン\n,\nアミノフィリン水和物",
+      "clinical_symptom_action": "悪心・嘔吐、不整脈、痙攣等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン\nタクロリムス水和物",
+      "clinical_symptom_action": "腎障害等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリンカリウム",
+      "clinical_symptom_action": "出血傾向、プロトロンビン時間延長等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イリノテカン塩酸塩水和物",
+      "clinical_symptom_action": "骨髄機能抑制、下痢等の副作用を増強するおそれがあるため、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビンカアルカロイド\nビンブラスチン硫酸塩\nビノレルビン酒石酸塩等",
+      "clinical_symptom_action": "好中球減少、筋肉痛等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルプロ酸ナトリウム",
+      "clinical_symptom_action": "傾眠、運動失調等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェロジピン",
+      "clinical_symptom_action": "降圧作用の増強が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ベラパミル塩酸塩",
+      "clinical_symptom_action": "血圧低下、徐脈性不整脈、乳酸アシドーシス等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミダゾラム\nトリアゾラム",
+      "clinical_symptom_action": "鎮静作用の増強が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルバマゼピン",
+      "clinical_symptom_action": "めまい、運動失調等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コルヒチン",
+      "clinical_symptom_action": "下痢、腹痛、発熱、筋肉痛、汎血球減少、呼吸困難等が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シンバスタチン\nアトルバスタチンカルシウム水和物",
+      "clinical_symptom_action": "シンバスタチン、アトルバスタチンカルシウム水和物との併用により、筋肉痛、脱力感、CK上昇、血中及び尿中ミオグロビン上昇を特徴とし、急激な腎機能悪化を伴う横紋筋融解症があらわれたとの報告がある。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ピタバスタチンカルシウム水和物",
+      "clinical_symptom_action": "シンバスタチン、アトルバスタチンカルシウム水和物との併用により、筋肉痛、脱力感、CK上昇、血中及び尿中ミオグロビン上昇を特徴とし、急激な腎機能悪化を伴う横紋筋融解症があらわれたとの報告がある。",
+      "mechanism_risk_factor": "本剤がピタバスタチンの肝臓への取り込みを阻害するためと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ブロモクリプチンメシル酸塩\nドセタキセル水和物\nパクリタキセル\nセレギリン塩酸塩\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\nタダラフィル\nシロスタゾール",
+      "clinical_symptom_action": "減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ブロナンセリン\nクロザピン\nゾピクロン\nアルプラゾラム\nエプレレノン\nエレトリプタン臭化水素酸塩\nエベロリムス",
+      "clinical_symptom_action": "これらの薬剤の作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドンペリドン",
+      "clinical_symptom_action": "ドンペリドンの血中濃度が上昇する。また、ドンペリドンとの併用により、QT延長が報告されている。",
+      "mechanism_risk_factor": "本剤はCYP3Aと結合し、複合体を形成するため、これらの薬剤の代謝を抑制し、血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副腎皮質ホルモン剤\nメチルプレドニゾロン\n等",
+      "clinical_symptom_action": "これらの薬剤の消失半減期が延長するとの報告があるので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤はこれらの薬剤の代謝を抑制することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エバスチン",
+      "clinical_symptom_action": "エバスチンの代謝物カレバスチンの血中濃度が上昇するとの報告がある。",
+      "mechanism_risk_factor": "本剤はこれらの薬剤の代謝を抑制することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エドキサバントシル酸塩水和物",
+      "clinical_symptom_action": "出血のリスクを増大させるおそれがある。併用する場合、エドキサバントシル酸塩水和物の用量は、エドキサバントシル酸塩水和物の電子添文を参照すること。",
+      "mechanism_risk_factor": "本剤がP-糖蛋白質を阻害し、エドキサバンの血中濃度を上昇させるためと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジゴキシンの作用増強による嘔気、嘔吐、不整脈等の中毒症状が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "本剤の腸内細菌叢への影響により、ジゴキシンの代謝が抑制される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "難聴が報告されているので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A阻害作用により、本剤の代謝が抑制され、血中濃度が上昇すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル",
+      "clinical_symptom_action": "本剤のAUCが上昇することが予想される。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A阻害作用により、本剤の代謝が抑制され、血中濃度が上昇すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クリンダマイシン（外用剤）",
+      "clinical_symptom_action": "併用してもクリンダマイシンの効果があらわれないと考えられる。",
+      "mechanism_risk_factor": "本剤の細菌のリボゾーム50S Subunitへの親和性がクリンダマイシンより高いと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リバーロキサバン",
+      "clinical_symptom_action": "リバーロキサバンの血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "本剤がCYP3A4及びP-糖蛋白質を阻害することによりリバーロキサバンのクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェキソフェナジン塩酸塩",
+      "clinical_symptom_action": "フェキソフェナジンの血漿中濃度を上昇させるとの報告がある。",
+      "mechanism_risk_factor": "P-糖蛋白質の阻害によるフェキソフェナジンのクリアランスの低下及び吸収率の増加に起因するものと推定される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4誘導作用を有する薬剤\nリファンピシン、リファブチン、フェニトイン、フェノバルビタール等\nセイヨウオトギリソウ（St. John's Wort, セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝を促進し、本剤の血中濃度を低下させる。"
+    }
+  ],
+  "facility_notes": ""
+}

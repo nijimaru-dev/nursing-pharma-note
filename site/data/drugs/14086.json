@@ -1,0 +1,30 @@
+{
+  "id": 14086,
+  "brand_name": "モンテルカスト錠5mg「CEO」",
+  "generic_name": "モンテルカストナトリウム錠",
+  "therapeutic_classification": "ロイコトリエン受容体拮抗剤\n気管支喘息・アレルギー性鼻炎治療剤",
+  "indications": "気管支喘息、アレルギー性鼻炎",
+  "dose_admin": "〈気管支喘息〉\n通常、成人にはモンテルカストとして10mgを1日1回就寝前に経口投与する。\n〈アレルギー性鼻炎〉\n通常、成人にはモンテルカストとして5～10mgを1日1回就寝前に経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n食事の有無にかかわらず投与できる。\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "アナフィラキシー（頻度不明）\n血管浮腫（頻度不明）\n劇症肝炎、肝炎、肝機能障害、黄疸（いずれも頻度不明）\n中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形紅斑（いずれも頻度不明）\n血小板減少（頻度不明）\n初期症状として、紫斑、鼻出血、歯肉出血等の出血傾向があらわれることがある。",
+  "observation_points": [
+    "アナフィラキシー（頻度不明）",
+    "血管浮腫（頻度不明）",
+    "劇症肝炎、肝炎、肝機能障害、黄疸（いずれも頻度不明）",
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形紅斑（いずれも頻度不明）",
+    "血小板減少（頻度不明）",
+    "初期症状として、紫斑、鼻出血、歯肉出血等の出血傾向があらわれることがある",
+    "本剤の作用が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェノバルビタール",
+      "clinical_symptom_action": "本剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "フェノバルビタールがCYP3A4を誘導し、本剤の代謝が促進される。"
+    }
+  ],
+  "facility_notes": ""
+}

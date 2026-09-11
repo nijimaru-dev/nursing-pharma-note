@@ -1,0 +1,476 @@
+[
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 1562,
+    "other_brand": "イスコチン原末",
+    "interaction_type": "caution",
+    "source_text": "イソニアジド"
+  },
+  {
+    "other_id": 1563,
+    "other_brand": "イスコチン注100mg",
+    "interaction_type": "caution",
+    "source_text": "イソニアジド"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 11853,
+    "other_brand": "プリミドン錠250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nプリミドン\nリファンピシン"
+  },
+  {
+    "other_id": 496,
+    "other_brand": "アトバコン内用懸濁液15％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェンベンゾジアゼピン系薬剤アシクロビルオピオイド系鎮痛薬セファロスポリン系抗生物質止しゃ薬緩下剤"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1374,
+    "other_brand": "アンジュ21錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1376,
+    "other_brand": "アンジュ28錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1709,
+    "other_brand": "イマチニブ錠100mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1710,
+    "other_brand": "イマチニブ錠100mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1712,
+    "other_brand": "イマチニブ錠100mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1717,
+    "other_brand": "イマチニブ錠100mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1718,
+    "other_brand": "イマチニブ錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1719,
+    "other_brand": "イマチニブ錠100mg「KMP」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1720,
+    "other_brand": "イマチニブ錠100mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1721,
+    "other_brand": "イマチニブ錠100mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1711,
+    "other_brand": "イマチニブ錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1713,
+    "other_brand": "イマチニブ錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1714,
+    "other_brand": "イマチニブ錠100mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1715,
+    "other_brand": "イマチニブ錠100mg「ヤクルト」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 1716,
+    "other_brand": "イマチニブ錠100mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 4831,
+    "other_brand": "グリベック錠100mg",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 5373,
+    "other_brand": "サムチレール内用懸濁液15%",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェンベンゾジアゼピン系薬剤アシクロビルオピオイド系鎮痛薬セファロスポリン系抗生物質止しゃ薬緩下剤"
+  },
+  {
+    "other_id": 5813,
+    "other_brand": "シンフェーズT28錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 5857,
+    "other_brand": "ジェミーナ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 6611,
+    "other_brand": "セリンクロ錠10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "オピオイド系薬剤（鎮痛、麻酔）（ただし、緊急事態により使用する場合を除く）\nモルヒネ（MSコンチン等）\nフェンタニル（フェントス等）\nフェンタニル・ドロペリドール（タラモナール）\nレミフェンタニル（アルチバ等）\nオキシコドン（オキシコンチン等）\nメサドン（メサペイン）\nブプレノルフィン（ノルスパン等）\nタペンタドール（タペンタ）\nトラマドール（トラマール等）\nトラマドール・アセトアミノフェン（トラムセット）\nペチジン\nペチジン・レバロルファン（ペチロルファン）\nペンタゾシン（ソセゴン等）\nヒドロモルフォン（ナルサス等）"
+  },
+  {
+    "other_id": 8763,
+    "other_brand": "トランコロンP配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 8787,
+    "other_brand": "トリキュラー錠28",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 9154,
+    "other_brand": "ドロエチフレックス配合錠「あすか」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 9155,
+    "other_brand": "ドロエチフレックス配合錠「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 9156,
+    "other_brand": "ドロエチ配合錠「あすか」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 9157,
+    "other_brand": "ドロエチ配合錠「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 10928,
+    "other_brand": "ファボワール錠21",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 10930,
+    "other_brand": "ファボワール錠28",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 11342,
+    "other_brand": "フリウェル配合錠LD「あすか」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 11343,
+    "other_brand": "フリウェル配合錠LD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 11344,
+    "other_brand": "フリウェル配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 11345,
+    "other_brand": "フリウェル配合錠LD「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 11767,
+    "other_brand": "プラノバール配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 12035,
+    "other_brand": "プロセキソール錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 13259,
+    "other_brand": "マルシロン配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 13287,
+    "other_brand": "マーベロン21",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 13691,
+    "other_brand": "メトピロンカプセル250mg",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 14188,
+    "other_brand": "ヤーズフレックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 14189,
+    "other_brand": "ヤーズ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 14520,
+    "other_brand": "ラベルフィーユ28錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 14519,
+    "other_brand": "ラベルフィーユ21錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 14524,
+    "other_brand": "ラボナ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "解熱・鎮痛剤\nイブプロフェンジクロフェナクナトリウムアセトアミノフェン"
+  },
+  {
+    "other_id": 14938,
+    "other_brand": "リファンピシンカプセル150mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアセトアミノフェン"
+  },
+  {
+    "other_id": 15080,
+    "other_brand": "ルナベル配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 15184,
+    "other_brand": "レスピア静注・経口液60mg",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアセトアミノフェン"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアセトアミノフェン"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアセトアミノフェン"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアセトアミノフェン"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアセトアミノフェン"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアセトアミノフェン"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "アセトアミノフェン"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": 7558,
+  "brand_name": "チノカプセル125",
+  "generic_name": "ケノデオキシコール酸カプセル",
+  "therapeutic_classification": "経口胆石溶解剤",
+  "indications": "外殻石灰化を認めないコレステロール系胆石の溶解",
+  "dose_admin": "通常、成人にはケノデオキシコール酸として、300～400mgを1日2～3回に分割経口投与する。なお、年齢、症状により適宜増減するが、1日最高投与量は600mgとする。",
+  "contraindications": "重篤な胆道・膵障害のある患者［利胆作用があるため、原疾患を悪化させるおそれがある。］\n重篤な肝障害のある患者\n肝・胆道系に閉塞性病変のある患者\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "血糖降下作用を増強するおそれがある",
+    "本剤の作用を減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "スルフォニル尿素系経口糖尿病薬\nトルブタミド等",
+      "clinical_symptom_action": "血糖降下作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤によりトルブタミドが血漿蛋白から遊離することが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸剤\n水酸化アルミニウムゲル等",
+      "clinical_symptom_action": "本剤の作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "アルミニウムを含有する制酸剤は本剤を吸着し、本剤の吸収が阻害されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コレスチラミン",
+      "clinical_symptom_action": "本剤の作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "コレスチラミンは陰イオン交換樹脂であるため、本剤と結合し吸収が阻害されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "脂質低下剤\nクロフィブラート等",
+      "clinical_symptom_action": "本剤の作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "脂質低下剤は胆汁中のコレステロール分泌を促進するため、コレステロール胆石形成が促進され、本剤の作用を減弱するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

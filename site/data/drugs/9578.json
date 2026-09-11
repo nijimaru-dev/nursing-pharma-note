@@ -1,0 +1,55 @@
+{
+  "id": 9578,
+  "brand_name": "ニルバジピン錠2mg「サワイ」",
+  "generic_name": "ニルバジピン",
+  "therapeutic_classification": "Ca拮抗剤",
+  "indications": "本態性高血圧症",
+  "dose_admin": "ニルバジピンとして、通常、成人には1回2～4mgを1日2回経口投与する。",
+  "contraindications": "頭蓋内出血で止血が完成していないと推定される患者［出血を助長するおそれがある。］\n脳卒中急性期で頭蓋内圧が亢進している患者［頭蓋内圧の亢進を増悪するおそれがある。］\n妊婦又は妊娠している可能性のある女性\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "肝機能障害（0.1%未満）\nAST、ALT、γ-GTP上昇等の肝機能障害があらわれることがある。",
+  "observation_points": [
+    "肝機能障害（0.1%未満）",
+    "AST、ALT、γ-GTP上昇等の肝機能障害があらわれることがある",
+    "血圧降下作用が増強することがある",
+    "本剤の作用が増強するおそれがある",
+    "ただし、本剤に関する症例報告はない",
+    "相手薬及び本剤の作用が増強するおそれがある",
+    "相手薬の血中濃度に注意すること",
+    "本剤の作用が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他の血圧降下剤",
+      "clinical_symptom_action": "血圧降下作用が増強することがある。",
+      "mechanism_risk_factor": "薬理学的な相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "本剤の作用が増強するおそれがある。ただし、本剤に関する症例報告はない。",
+      "mechanism_risk_factor": "シメチジンが薬物代謝酵素CYP3A4を阻害するため、本剤の血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル、サキナビル、イトラコナゾール、グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の作用が増強するおそれがある。ただし、本剤に関する症例報告はない。",
+      "mechanism_risk_factor": "相手薬が薬物代謝酵素CYP3A4を阻害するため、本剤の血中濃度を上昇させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タクロリムス、シクロスポリン",
+      "clinical_symptom_action": "相手薬及び本剤の作用が増強するおそれがある。ただし、本剤に関する症例報告はない。相手薬の血中濃度に注意すること。",
+      "mechanism_risk_factor": "本剤及び相手薬が薬物代謝酵素CYP3A4で代謝されるため相互に代謝が阻害され、相手薬及び本剤の血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の作用が減弱するおそれがある。ただし、本剤に関する症例報告はない。",
+      "mechanism_risk_factor": "リファンピシンが薬物代謝酵素CYP3A4を誘導するため、本剤の血中濃度を低下させる。"
+    }
+  ],
+  "facility_notes": ""
+}

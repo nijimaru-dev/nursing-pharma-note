@@ -1,0 +1,32 @@
+{
+  "id": 15272,
+  "brand_name": "レブコビ筋注2.4mg",
+  "generic_name": "エラペグアデマーゼ（遺伝子組換え）",
+  "therapeutic_classification": "ポリエチレングリコール修飾遺伝子組換えアデノシンデアミナーゼ酵素製剤",
+  "indications": "アデノシンデアミナーゼ欠損症",
+  "dose_admin": "通常、エラペグアデマーゼ（遺伝子組換え）として0.2mg/kgを1週間に1回筋肉内注射する。なお、患者の状態に応じて適宜増減するが、1回あたりの最大投与量は0.3mg/kgとする。ただし、速やかにアデノシンデアミナーゼ活性を上昇させる必要がある場合には、1回0.2mg/kgを1週間に2回筋肉内注射することができる。",
+  "contraindications": "",
+  "application_precautions": "薬剤調製時の注意\n使用後の残液は、細菌汚染のおそれがあるので再使用しないこと。\n他の製剤との混注は避けること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある",
+    "本剤との併用は避けることが望ましい",
+    "ペントスタチンとの併用により、本剤の作用が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビダラビン、ネララビン",
+      "clinical_symptom_action": "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある。本剤との併用は避けることが望ましい。",
+      "mechanism_risk_factor": "本剤のADA活性により、ビダラビン、ネララビンが代謝される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ペントスタチン",
+      "clinical_symptom_action": "ペントスタチンとの併用により、本剤の作用が減弱するおそれがある。本剤との併用は避けることが望ましい。",
+      "mechanism_risk_factor": "ペントスタチンのADA酵素の阻害により、本剤の効果が減弱するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

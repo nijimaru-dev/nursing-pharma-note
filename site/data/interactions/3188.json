@@ -1,0 +1,248 @@
+[
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3阻害剤\nシクロスポリン\nロピナビル・リトナビル等"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3阻害剤\nシクロスポリン\nロピナビル・リトナビル等"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3阻害剤\nシクロスポリン\nロピナビル・リトナビル等"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3阻害剤\nシクロスポリン\nロピナビル・リトナビル等"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3阻害剤\nシクロスポリン\nロピナビル・リトナビル等"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3阻害剤\nシクロスポリン\nロピナビル・リトナビル等"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "OATP1B1/1B3阻害剤\nシクロスポリン\nロピナビル・リトナビル等"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 3224,
+    "other_brand": "オメプラゾール錠10「SW」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\nラベプラゾール等"
+  },
+  {
+    "other_id": 3225,
+    "other_brand": "オメプラゾール錠10mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\nラベプラゾール等"
+  },
+  {
+    "other_id": 3226,
+    "other_brand": "オメプラゾール錠10mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\nラベプラゾール等"
+  },
+  {
+    "other_id": 14574,
+    "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\nラベプラゾール等"
+  },
+  {
+    "other_id": 14578,
+    "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\nラベプラゾール等"
+  },
+  {
+    "other_id": 14579,
+    "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\nラベプラゾール等"
+  },
+  {
+    "other_id": 14583,
+    "other_brand": "ランソプラゾールOD錠15mg「DK」",
+    "interaction_type": "caution",
+    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\nラベプラゾール等"
+  },
+  {
+    "other_id": 153,
+    "other_brand": "アザルフィジンEN錠250mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 5381,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 5382,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 5387,
+    "other_brand": "サラゾピリン坐剤500mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 5388,
+    "other_brand": "サラゾピリン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15759,
+    "other_brand": "ロスバスタチン錠2.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15761,
+    "other_brand": "ロスバスタチン錠2.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15765,
+    "other_brand": "ロスバスタチン錠2.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15766,
+    "other_brand": "ロスバスタチン錠2.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15767,
+    "other_brand": "ロスバスタチン錠2.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15768,
+    "other_brand": "ロスバスタチン錠2.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15801,
+    "other_brand": "ロスバスタチンOD錠2.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15803,
+    "other_brand": "ロスバスタチンOD錠2.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15804,
+    "other_brand": "ロスバスタチンOD錠2.5mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  }
+]

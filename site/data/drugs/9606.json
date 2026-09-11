@@ -1,0 +1,22 @@
+{
+  "id": 9606,
+  "brand_name": "ネオグリセロール",
+  "generic_name": "歯科用ヨウ素・硫酸亜鉛水和物・ヨウ化ナトリウム・グリセリン配合剤",
+  "therapeutic_classification": "口腔粘膜・根管消毒剤",
+  "indications": "口腔粘膜(歯肉)及び根管の消毒",
+  "dose_admin": "適量を綿球又は綿繊維につけ、局所に貼付する。",
+  "contraindications": "本剤又はヨウ素に対し過敏症の既往歴のある患者\n水銀剤を使用中の患者",
+  "application_precautions": "薬剤投与時の注意\n本剤が手指、衣服等に付着した場合には、チオ硫酸ナトリウム溶液（ハイポ）等で脱色し、十分に水洗すること。万一眼に入った場合には、直ちに多量の水で洗浄する等の適切な処置を行うこと。",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "水銀剤",
+      "clinical_symptom_action": "－",
+      "mechanism_risk_factor": "毒性のあるヨウ化水銀が発生するおそれがある"
+    }
+  ],
+  "facility_notes": ""
+}

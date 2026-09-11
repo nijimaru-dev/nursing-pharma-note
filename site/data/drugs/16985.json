@@ -1,0 +1,46 @@
+{
+  "id": 16985,
+  "brand_name": "硫酸マグネシウム「ヤマゼン」M",
+  "generic_name": "硫酸マグネシウム水和物",
+  "therapeutic_classification": "下薬",
+  "indications": "○ 便秘症\n○ 胆石症",
+  "dose_admin": "〈経口〉\n便秘症には、硫酸マグネシウム水和物として1回5～15gを多量の水とともに経口投与する。\n〈注入〉\n胆石症には、25～50％溶液20～50mLを十二指腸ゾンデで注入する。",
+  "contraindications": "",
+  "application_precautions": "薬剤調製時の注意〈胆石症〉\n配合変化\n本剤の水溶液とサルファ剤、アルカリ炭酸塩、炭酸水素塩、酒石酸塩、可溶性リン酸塩、ヒ酸塩、臭化カリウム、臭化アンモニウム等を含む製剤と混合した場合、沈殿を生じることがあるので、混合を避けること。",
+  "serious_adverse_events": "マグネシウム中毒（頻度不明）\n多量投与により、まれに中毒を起こし、熱感、血圧低下、中枢神経抑制、呼吸麻痺等の症状があらわれることがある。解毒にはカルシウム剤を静注する。",
+  "observation_points": [
+    "マグネシウム中毒（頻度不明）",
+    "多量投与により、まれに中毒を起こし、熱感、血圧低下、中枢神経抑制、呼吸麻痺等の症状があらわれることがある",
+    "解毒にはカルシウム剤を静注する",
+    "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること",
+    "CK(CPK)上昇があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ニューキノロン系抗菌剤　シプロフロキサシン　ノルフロキサシン　トスフロキサシンテトラサイクリン系抗生物質　ミノサイクリン　ドキシサイクリン　テトラサイクリン等エチドロン酸二ナトリウム",
+      "clinical_symptom_action": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。",
+      "mechanism_risk_factor": "マグネシウムがこれらの薬剤とキレートを形成し、これらの薬剤の吸収を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ペニシラミン",
+      "clinical_symptom_action": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。",
+      "mechanism_risk_factor": "吸収率が低下するため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セフジニル",
+      "clinical_symptom_action": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "塩酸リトドリン",
+      "clinical_symptom_action": "CK(CPK)上昇があらわれることがある",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

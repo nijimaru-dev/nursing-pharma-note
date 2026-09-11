@@ -1,0 +1,32 @@
+{
+  "id": 12257,
+  "brand_name": "ベオーバ錠50mg（旧包装品）",
+  "generic_name": "ビベグロン錠",
+  "therapeutic_classification": "選択的β\n3\nアドレナリン受容体作動性過活動膀胱治療剤",
+  "indications": "過活動膀胱における尿意切迫感、頻尿及び切迫性尿失禁",
+  "dose_admin": "通常、成人にはビベグロンとして50mgを1日1回食後に経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "尿閉（頻度不明）",
+  "observation_points": [
+    "尿閉（頻度不明）",
+    "ケトコナゾールと併用したとき、ビベグロンの血中濃度が上昇したとの報告がある",
+    "ビベグロンの作用が減弱する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アゾール系抗真菌剤\nイトラコナゾール等\nHIVプロテアーゼ阻害剤\nリトナビル等",
+      "clinical_symptom_action": "ケトコナゾールと併用したとき、ビベグロンの血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "CYP3A4及びP-gpを阻害する薬物と併用することにより、ビベグロンの血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン\nフェニトイン\nカルバマゼピン",
+      "clinical_symptom_action": "ビベグロンの作用が減弱する可能性がある。",
+      "mechanism_risk_factor": "CYP3A4及びP-gpを誘導する薬物と併用することにより、ビベグロンの血中濃度が低下する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

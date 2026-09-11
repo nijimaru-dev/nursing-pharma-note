@@ -1,0 +1,40 @@
+{
+  "id": 7004,
+  "brand_name": "ゾリンザカプセル100mg",
+  "generic_name": "ボリノスタット",
+  "therapeutic_classification": "抗悪性腫瘍剤\nヒストン脱アセチル化酵素阻害剤",
+  "indications": "皮膚T細胞性リンパ腫",
+  "dose_admin": "通常、成人にはボリノスタットとして1日1回400mgを食後経口投与する。なお、患者の状態により適宜減量する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n重度の肝障害患者\n,\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。\n薬剤投与時の注意\nカプセルを開けたり、つぶしたりしないこと。カプセル内の粉末を皮膚又は粘膜に直接接触させないこと。直接接触した場合には、完全に洗い流すこと。",
+  "serious_adverse_events": "肺塞栓症（4.7%）、深部静脈血栓症（1.2%）\n血小板減少症（25.6%）\n貧血（12.8%）\n脱水症状（1.2%）\n高血糖（4.7%）\n,\n腎不全（頻度不明\n）",
+  "observation_points": [
+    "肺塞栓症（4.7%）、深部静脈血栓症（1.2%）",
+    "血小板減少症（25.6%）",
+    "貧血（12.8%）",
+    "脱水症状（1.2%）",
+    "高血糖（4.7%）",
+    ",",
+    "腎不全（頻度不明",
+    "）",
+    "プロトロンビン時間（PT）延長及びINR上昇があらわれることがある",
+    "PT及びINRを注意深くモニターすること",
+    "消化管出血、血小板減少、貧血等の副作用が増強することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系抗凝血剤：\nワルファリン",
+      "clinical_symptom_action": "プロトロンビン時間（PT）延長及びINR上昇があらわれることがある。PT及びINRを注意深くモニターすること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルプロ酸",
+      "clinical_symptom_action": "消化管出血、血小板減少、貧血等の副作用が増強することがある。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

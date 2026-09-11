@@ -1,0 +1,24 @@
+{
+  "id": 8285,
+  "brand_name": "デトキソール静注液2g",
+  "generic_name": "チオ硫酸ナトリウム注射液",
+  "therapeutic_classification": "解毒剤",
+  "indications": "シアン及びシアン化合物による中毒\nヒ素剤による中毒",
+  "dose_admin": "チオ硫酸ナトリウム水和物として、通常、成人1日1～2gを静脈内注射する。シアン及びシアン化合物中毒には、通常、成人1回12.5～25gを静脈内注射する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤投与時の注意\n本剤の投与にあたっては注射の速度をできるだけ遅くすること。ヒドロキソコバラミンとの化学的配合変化が認められるので、同じ静脈ラインでの同時投与は避けること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "ヒドロキソコバラミンを同時に投与すると、解毒作用が抑制することが考えられるため、同時に投与しないこと"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヒドロキソコバラミン",
+      "clinical_symptom_action": "ヒドロキソコバラミンを同時に投与すると、解毒作用が抑制することが考えられるため、同時に投与しないこと。",
+      "mechanism_risk_factor": "チオ硫酸－コバラミン化合物の形成が起こる。"
+    }
+  ],
+  "facility_notes": ""
+}

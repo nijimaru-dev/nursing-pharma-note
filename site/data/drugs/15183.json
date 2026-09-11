@@ -1,0 +1,43 @@
+{
+  "id": 15183,
+  "brand_name": "レスタミンコーワ錠10mg",
+  "generic_name": "ジフェンヒドラミン塩酸塩",
+  "therapeutic_classification": "アレルギー性疾患治療剤",
+  "indications": "じん麻疹、皮膚疾患に伴うそう痒（湿疹・皮膚炎）、枯草熱、アレルギー性鼻炎、血管運動性鼻炎、急性鼻炎、春季カタルに伴うそう痒",
+  "dose_admin": "通常、成人1回3～5錠（ジフェンヒドラミン塩酸塩として30～50mg）を1日2～3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n前立腺肥大等下部尿路に閉塞性疾患のある患者［抗コリン作用による膀胱平滑筋の弛緩、膀胱括約筋の緊張により、症状を悪化させるおそれがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "減量するなど慎重に投与すること",
+    "用量を調節するなど注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\n催眠剤鎮静剤抗不安剤等",
+      "clinical_symptom_action": "減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "相互に作用を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "MAO阻害剤",
+      "clinical_symptom_action": "減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "中枢神経抑制作用が増強され、また抗コリン作動性による副作用が増強されることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗コリン作用のある薬剤\n三環系抗うつ剤フェノチアジン系薬剤アトロピン硫酸塩水和物等",
+      "clinical_symptom_action": "減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "併用により抗コリン作用が増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "用量を調節するなど注意すること。",
+      "mechanism_risk_factor": "飲酒により相互に作用を増強することがある。"
+    }
+  ],
+  "facility_notes": ""
+}

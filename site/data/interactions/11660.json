@@ -1,0 +1,26 @@
+[
+  {
+    "other_id": 6613,
+    "other_brand": "セルセプトカプセル250",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリンミゾリビン"
+  },
+  {
+    "other_id": 16120,
+    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン\n乾燥弱毒生麻しんワクチン、乾燥弱毒生風しんワクチン、経口生ポリオワクチン、乾燥BCG等"
+  },
+  {
+    "other_id": 16121,
+    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン\n乾燥弱毒生麻しんワクチン、乾燥弱毒生風しんワクチン、経口生ポリオワクチン、乾燥BCG等"
+  },
+  {
+    "other_id": 13335,
+    "other_brand": "ミコフェノール酸モフェチルカプセル250mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリンミゾリビン"
+  }
+]

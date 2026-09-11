@@ -1,0 +1,24 @@
+{
+  "id": 3668,
+  "brand_name": "カチーフN錠5mg",
+  "generic_name": "フィトナジオン錠\nフィトナジオン散",
+  "therapeutic_classification": "ビタミンK\n1\n製剤",
+  "indications": "ビタミンK欠乏症の予防及び治療\n・各種薬剤（クマリン系抗凝血薬、サリチル酸、抗生物質など）投与中におこる低プロトロンビン血症\n・胆道及び胃腸障害に伴うビタミンKの吸収障害\n・新生児の低プロトロンビン血症\n・肝障害に伴う低プロトロンビン血症\nビタミンK欠乏が推定される出血",
+  "dose_admin": "フィトナジオンとして、通常成人1日5～15mg、新生児出血の予防には母体に対し10mg、薬剤投与中におこる低プロトロンビン血症等には20～50mgを分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤調製時の注意\n〈散〉\n調剤に際して、遮光薬包紙を用いるのが望ましい。\nアルカリ性の薬剤との配合によって、含量が低下することがあるので配合を避けることが望ましい。\n薬剤交付時の注意\n〈錠〉\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "併用に注意する"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系抗凝血薬\n（ワルファリンカリウム）",
+      "clinical_symptom_action": "併用に注意する。",
+      "mechanism_risk_factor": "ワルファリンの作用を減弱する。"
+    }
+  ],
+  "facility_notes": ""
+}

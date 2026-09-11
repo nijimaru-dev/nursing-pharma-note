@@ -1,0 +1,24 @@
+{
+  "id": 8279,
+  "brand_name": "デソパン錠60mg",
+  "generic_name": "トリロスタン",
+  "therapeutic_classification": "副腎皮質ホルモン合成阻害剤",
+  "indications": "特発性アルドステロン症\n手術適応とならない原発性アルドステロン症及びクッシング症候群\n上記疾患におけるアルドステロン及びコルチゾール分泌過剰状態の改善並びにそれに伴なう諸症状の改善",
+  "dose_admin": "通常、成人には初期投与量として1日240mg（4錠）を3～4回に分割投与する。維持量として1日240mg～480mg（4～8錠）を3～4回に分割投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "副腎皮質機能抑制作用の増強がみられることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミトタン",
+      "clinical_symptom_action": "副腎皮質機能抑制作用の増強がみられることがある。",
+      "mechanism_risk_factor": "ミトタンは副腎皮質細胞毒作用及びステロイド合成阻害作用を有する。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,470 @@
+[
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 8311,
+    "other_brand": "デプロメール錠25",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 11483,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 11484,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 11485,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 11487,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 11488,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 15094,
+    "other_brand": "ルボックス錠25",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,"
+  },
+  {
+    "other_id": 5631,
+    "other_brand": "シプロキサン注200mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2阻害剤\nシプロフロキサシン、ベムラフェニブ、メキシレチン等"
+  },
+  {
+    "other_id": 5637,
+    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2阻害剤\nシプロフロキサシン、ベムラフェニブ、メキシレチン等"
+  },
+  {
+    "other_id": 6807,
+    "other_brand": "ゼルボラフ錠240mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2阻害剤\nシプロフロキサシン、ベムラフェニブ、メキシレチン等"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等"
+  },
+  {
+    "other_id": 1374,
+    "other_brand": "アンジュ21錠",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 1376,
+    "other_brand": "アンジュ28錠",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 2381,
+    "other_brand": "エストラジオール錠0.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 2946,
+    "other_brand": "オイラゾンクリーム0.05％",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 5857,
+    "other_brand": "ジェミーナ配合錠",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 6058,
+    "other_brand": "ジュリナ錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 8236,
+    "other_brand": "デカドロン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 8238,
+    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 8251,
+    "other_brand": "デキサメタゾン軟膏口腔用0.1%「CH」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 8787,
+    "other_brand": "トリキュラー錠28",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 9682,
+    "other_brand": "ノアルテン錠（5mg）",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 9760,
+    "other_brand": "ノルレボ錠1.5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 11342,
+    "other_brand": "フリウェル配合錠LD「あすか」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 11345,
+    "other_brand": "フリウェル配合錠LD「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 11569,
+    "other_brand": "ブコラム口腔用液2.5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 12035,
+    "other_brand": "プロセキソール錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 13342,
+    "other_brand": "ミダゾラム注10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 13343,
+    "other_brand": "ミダフレッサ静注0.1％",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 14519,
+    "other_brand": "ラベルフィーユ21錠",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 14520,
+    "other_brand": "ラベルフィーユ28錠",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 15080,
+    "other_brand": "ルナベル配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 15217,
+    "other_brand": "レナデックス錠2mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 15416,
+    "other_brand": "レボノルゲストレル錠1.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,"
+  },
+  {
+    "other_id": 7107,
+    "other_brand": "タキソール注射液30mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8の基質となる薬剤\nレパグリニド、パクリタキセル、モンテルカスト等"
+  },
+  {
+    "other_id": 10130,
+    "other_brand": "パクリタキセル注射液30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8の基質となる薬剤\nレパグリニド、パクリタキセル、モンテルカスト等"
+  },
+  {
+    "other_id": 10135,
+    "other_brand": "パクリタキセル注30mg/5mL「NK」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8の基質となる薬剤\nレパグリニド、パクリタキセル、モンテルカスト等"
+  },
+  {
+    "other_id": 15264,
+    "other_brand": "レパグリニド錠0.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8の基質となる薬剤\nレパグリニド、パクリタキセル、モンテルカスト等"
+  },
+  {
+    "other_id": 616,
+    "other_brand": "アドフィードパップ40mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9の基質となる薬剤\nワルファリン、フルルビプロフェン、フェニトイン等"
+  },
+  {
+    "other_id": 11520,
+    "other_brand": "フルルビプロフェンテープ20mg「QQ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9の基質となる薬剤\nワルファリン、フルルビプロフェン、フェニトイン等"
+  },
+  {
+    "other_id": 11549,
+    "other_brand": "フロベン錠40",
+    "interaction_type": "caution",
+    "source_text": "CYP2C9の基質となる薬剤\nワルファリン、フルルビプロフェン、フェニトイン等"
+  },
+  {
+    "other_id": 3224,
+    "other_brand": "オメプラゾール錠10「SW」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 3225,
+    "other_brand": "オメプラゾール錠10mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 3226,
+    "other_brand": "オメプラゾール錠10mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 4339,
+    "other_brand": "クエン酸「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 7282,
+    "other_brand": "タモキシフェン錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 7283,
+    "other_brand": "タモキシフェン錠10mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 7285,
+    "other_brand": "タモキシフェン錠10mg「MYL」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 16578,
+    "other_brand": "注射用イホマイド1g",
+    "interaction_type": "caution",
+    "source_text": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等"
+  },
+  {
+    "other_id": 153,
+    "other_brand": "アザルフィジンEN錠250mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 1529,
+    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 1531,
+    "other_brand": "イグザレルト細粒分包10mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 1533,
+    "other_brand": "イグザレルト錠10mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 1535,
+    "other_brand": "イグザレルト錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 1536,
+    "other_brand": "イグザレルトOD錠10mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 5381,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 5382,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 5387,
+    "other_brand": "サラゾピリン坐剤500mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 5388,
+    "other_brand": "サラゾピリン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 14906,
+    "other_brand": "リバーロキサバン錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 14907,
+    "other_brand": "リバーロキサバン錠10mg「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 14910,
+    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 14913,
+    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 14914,
+    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  }
+]

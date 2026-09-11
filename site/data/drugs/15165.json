@@ -1,0 +1,36 @@
+{
+  "id": 15165,
+  "brand_name": "レクタブル2mg注腸フォーム14回",
+  "generic_name": "ブデソニド注腸フォーム剤",
+  "therapeutic_classification": "潰瘍性大腸炎治療剤",
+  "indications": "潰瘍性大腸炎（重症を除く）",
+  "dose_admin": "通常、成人には1回あたり1プッシュ（ブデソニドとして2mg）、1日2回直腸内に噴射する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nデスモプレシン酢酸塩水和物（男性における夜間多尿による夜間頻尿）を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\n患者に本剤を交付する際には、患者用説明文書＜レクタブル\n®\n2mg注腸フォーム14回を使用される方へ＞を渡し、使用方法を指導すること。\n薬剤投与時の注意\n本剤は、接触性皮膚炎を誘発する可能性のあるセタノール並びにプロピレングリコールを含有することから、接触性皮膚炎誘発を防ぐため、腸管外へ漏出した場合には、速やかにふき取ること。また、異常が認められた場合には、適切な処置を行うこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血中濃度が上昇するおそれがあり、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）",
+      "clinical_symptom_action": "低ナトリウム血症が発現するおそれがある。",
+      "mechanism_risk_factor": "機序不明。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4阻害剤\nイトラコナゾール\nエリスロマイシン\nシクロスポリン\nコビシスタット等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがあり、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が阻害されることにより、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがあり、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。",
+      "mechanism_risk_factor": "発現機序の詳細は不明であるが、グレープフルーツジュースに含まれる成分が、CYP3A4を抑制するためと考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

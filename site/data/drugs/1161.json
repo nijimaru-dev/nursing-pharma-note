@@ -1,0 +1,31 @@
+{
+  "id": 1161,
+  "brand_name": "アルジオキサ錠100mg「トーワ」",
+  "generic_name": "アルジオキサ錠",
+  "therapeutic_classification": "胃炎・消化性潰瘍治療剤",
+  "indications": "下記疾患における自覚症状及び他覚所見の改善胃潰瘍、十二指腸潰瘍、胃炎",
+  "dose_admin": "アルジオキサとして、通常成人1日300～400mgを3～4回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "透析療法を受けている患者［他のアルミニウム含有製剤で、長期投与によりアルミニウム脳症、アルミニウム骨症があらわれたとの報告がある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "テトラサイクリン系抗生物質の作用が減弱するおそれがあるので、同時に服用させないこと",
+    "ニューキノロン系抗菌剤の作用が減弱するおそれがあるので、同時に服用させないこと"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリンドキシサイクリン塩酸塩水和物等",
+      "clinical_symptom_action": "テトラサイクリン系抗生物質の作用が減弱するおそれがあるので、同時に服用させないこと。",
+      "mechanism_risk_factor": "本剤に含まれるアルミニウムイオンとキレートを形成し、吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ニューキノロン系抗菌剤\n塩酸シプロフロキサシンノルフロキサシンオフロキサシン等",
+      "clinical_symptom_action": "ニューキノロン系抗菌剤の作用が減弱するおそれがあるので、同時に服用させないこと。",
+      "mechanism_risk_factor": "本剤に含まれるアルミニウムイオンとキレートを形成し、吸収が阻害される。"
+    }
+  ],
+  "facility_notes": ""
+}

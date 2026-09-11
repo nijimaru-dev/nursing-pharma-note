@@ -1,0 +1,186 @@
+{
+  "id": 15217,
+  "brand_name": "レナデックス錠2mg",
+  "generic_name": "デキサメタゾン",
+  "therapeutic_classification": "副腎皮質ホルモン製剤",
+  "indications": "多発性骨髄腫",
+  "dose_admin": "通常、成人にはデキサメタゾンとして40mgを1日1回、4日間経口投与する。なお、投与量及び投与日数は、患者の状態及び併用する他の抗悪性腫瘍剤により適宜減ずる。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n次の薬剤を使用中の患者デスモプレシン酢酸塩水和物（男性における夜間多尿による夜間頻尿）、リルピビリン、リルピビリン塩酸塩・テノホビル アラフェナミドフマル酸塩・エムトリシタビン、リルピビリン塩酸塩・ドルテグラビルナトリウム",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。\n薬剤分割後の注意\n本剤を分割後は、光を避けて保存し、1ヵ月以内に使用すること。",
+  "serious_adverse_events": "誘発感染症、感染症の増悪（24.0%）\nB型肝炎ウイルスの増殖による肝炎があらわれることがある。また、進行性多巣性白質脳症（PML）が認められることがあるので、本剤の投与中及び投与終了後は患者の状態を十分に観察し、意識障害、認知機能障害、麻痺症状（片麻痺、四肢麻痺）、構音障害、失語等の症状があらわれた場合には、MRIによる画像診断及び脳脊髄液検査を行うとともに、適切な処置を行うこと。\n,\n,\n,\n,\n続発性副腎皮質機能不全（0.6%）、糖尿病（1.1%）\n,\n,\n,\n消化性潰瘍（1.1%）、消化管穿孔（頻度不明）、膵炎（頻度不明）\n,\n精神変調（頻度不明）、うつ状態（6.3%）、痙攣（頻度不明）\n,\n骨粗鬆症（0.6%）、大腿骨及び上腕骨等の骨頭無菌性壊死（0.6%）、ミオパチー（2.3%）、脊椎圧迫骨折（頻度不明）、長骨の病的骨折（頻度不明）\n,\n緑内障（頻度不明）、後嚢白内障（1.1%）\n連用により眼圧亢進、緑内障、後嚢白内障を来すことがある。\n,\n,\n血栓塞栓症（5.7%）\n腫瘍崩壊症候群（頻度不明）\n異常が認められた場合には、適切な処置（生理食塩液、高尿酸血症治療剤等の投与、透析等）を行うとともに、症状が回復するまで患者の状態を十分に観察すること。",
+  "observation_points": [
+    "誘発感染症、感染症の増悪（24.0%）",
+    "B型肝炎ウイルスの増殖による肝炎があらわれることがある",
+    "また、進行性多巣性白質脳症（PML）が認められることがあるので、本剤の投与中及び投与終了後は患者の状態を十分に観察し、意識障害、認知機能障害、麻痺症状（片麻痺、四肢麻痺）、構音障害、失語等の症状があらわれた場合には、MRIによる画像診断及び脳脊髄液検査を行うとともに、適切な処置を行うこと",
+    ",",
+    "続発性副腎皮質機能不全（0.6%）、糖尿病（1.1%）",
+    "消化性潰瘍（1.1%）、消化管穿孔（頻度不明）、膵炎（頻度不明）",
+    "精神変調（頻度不明）、うつ状態（6.3%）、痙攣（頻度不明）",
+    "骨粗鬆症（0.6%）、大腿骨及び上腕骨等の骨頭無菌性壊死（0.6%）、ミオパチー（2.3%）、脊椎圧迫骨折（頻度不明）、長骨の病的骨折（頻度不明）",
+    "緑内障（頻度不明）、後嚢白内障（1.1%）",
+    "連用により眼圧亢進、緑内障、後嚢白内障を来すことがある",
+    "血栓塞栓症（5.7%）",
+    "腫瘍崩壊症候群（頻度不明）",
+    "異常が認められた場合には、適切な処置（生理食塩液、高尿酸血症治療剤等の投与、透析等）を行うとともに、症状が回復するまで患者の状態を十分に観察すること",
+    "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある",
+    "カスポファンギンの血中濃度が低下するおそれがある",
+    "本剤の作用が減弱することが報告されている",
+    "フェニトインの血中濃度が上昇又は低下するとの報告がある",
+    "本剤のAUCが上昇あるいはこれらの薬剤のAUCが低下するおそれがある",
+    "本剤の作用が増強されるおそれがある",
+    "副腎皮質ホルモン剤の作用が増強されるとの報告がある",
+    "併用により本剤又はメフロキンの血中濃度が変動するおそれがある",
+    "副腎皮質ホルモン剤の大量投与により、併用したシクロスポリンの血中濃度が上昇するとの報告がある",
+    "併用時に本剤を減量すると、血清中のサリチル酸誘導体の濃度が増加し、サリチル酸中毒を起こすことが報告されている",
+    "抗凝血剤の作用を減弱させることが報告されている",
+    "これらの薬剤の作用を減弱させることが報告されている",
+    "これらの薬剤の作用を減弱させるおそれがある",
+    "低カリウム血症があらわれることがある",
+    "血清カルシウム濃度が低下するおそれがある",
+    "副腎皮質ホルモン剤の代謝が促進され、血中濃度が低下するとの報告がある",
+    "血栓症と血栓塞栓症のリスクを高める危険性がある",
+    "海外において、多発性骨髄腫における本剤との併用により、中毒性表皮壊死症（Toxic Epidermal Necrolysis : TEN）が発現したとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）",
+      "clinical_symptom_action": "低ナトリウム血症が発現するおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リルピビリン\nエジュラント、リカムビス\nリルピビリン塩酸塩・テノホビル アラフェナミドフマル酸塩・エムトリシタビン\nオデフシィ\nリルピビリン塩酸塩・ドルテグラビルナトリウム\nジャルカ",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A4誘導作用により、これらの薬剤の代謝が促進される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "主にCYP3A4で代謝される薬剤\nイマチニブメシル酸塩\nエプレレノン\nエレトリプタン臭化水素酸塩\nドネペジル塩酸塩等",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP3A4誘導作用により、これらの薬剤の代謝が促進される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カスポファンギン酢酸塩",
+      "clinical_symptom_action": "カスポファンギンの血中濃度が低下するおそれがある。",
+      "mechanism_risk_factor": "本剤がカスポファンギンの取り込み輸送過程に影響し、カスポファンギンのクリアランス誘導が起きると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4を誘導する薬剤\nバルビツール酸誘導体\nフェノバルビタール\nリファンピシン\nカルバマゼピン等",
+      "clinical_symptom_action": "本剤の作用が減弱することが報告されている。",
+      "mechanism_risk_factor": "これらの薬剤はチトクロームP450を誘導し、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "本剤の作用が減弱することが報告されている。",
+      "mechanism_risk_factor": "フェニトインがチトクロームP450を誘導し、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "フェニトインの血中濃度が上昇又は低下するとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nリトナビル\nホスアンプレナビルカルシウム水和物\nダルナビルエタノール付加物",
+      "clinical_symptom_action": "本剤のAUCが上昇あるいはこれらの薬剤のAUCが低下するおそれがある。",
+      "mechanism_risk_factor": "チトクロームP450に対して競合する可能性がある。また、本剤がチトクロームP450を誘導することより、これらの薬剤の代謝が促進される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アプレピタント",
+      "clinical_symptom_action": "本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "アプレピタントの用量依存的なCYP3A4阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エンシトレルビル　フマル酸",
+      "clinical_symptom_action": "本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "エンシトレルビルのCYP3Aに対する阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マクロライド系抗生物質\nエリスロマイシン\nアゾール系抗真菌剤\nイトラコナゾール",
+      "clinical_symptom_action": "副腎皮質ホルモン剤の作用が増強されるとの報告がある。",
+      "mechanism_risk_factor": "本剤の代謝が阻害されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メフロキン塩酸塩",
+      "clinical_symptom_action": "併用により本剤又はメフロキンの血中濃度が変動するおそれがある。",
+      "mechanism_risk_factor": "メフロキンはCYP3Aにより代謝されることが示唆されており、相互に影響を受ける可能性が考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "副腎皮質ホルモン剤の大量投与により、併用したシクロスポリンの血中濃度が上昇するとの報告がある。",
+      "mechanism_risk_factor": "シクロスポリンの代謝を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サリチル酸誘導体\nアスピリン",
+      "clinical_symptom_action": "併用時に本剤を減量すると、血清中のサリチル酸誘導体の濃度が増加し、サリチル酸中毒を起こすことが報告されている。",
+      "mechanism_risk_factor": "本剤はサリチル酸誘導体の腎排泄と肝代謝を促進し、血清中のサリチル酸誘導体の濃度が低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗凝血剤\nワルファリンカリウム",
+      "clinical_symptom_action": "抗凝血剤の作用を減弱させることが報告されている。",
+      "mechanism_risk_factor": "本剤は血液凝固促進作用がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口糖尿病用剤\nアセトヘキサミド\nインスリン製剤",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させることが報告されている。",
+      "mechanism_risk_factor": "本剤は肝臓での糖新生を促進し、末梢組織での糖利用を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血圧降下剤",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱させるおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド\nフロセミド",
+      "clinical_symptom_action": "低カリウム血症があらわれることがある。",
+      "mechanism_risk_factor": "本剤は尿細管でのカリウム排泄促進作用がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム受容体作動薬\nエボカルセト\nエテルカルセチド塩酸塩\nシナカルセト塩酸塩",
+      "clinical_symptom_action": "血清カルシウム濃度が低下するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤の血中カルシウム低下作用が増強される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エフェドリン塩酸塩",
+      "clinical_symptom_action": "副腎皮質ホルモン剤の代謝が促進され、血中濃度が低下するとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サリドマイド",
+      "clinical_symptom_action": "血栓症と血栓塞栓症のリスクを高める危険性がある。",
+      "mechanism_risk_factor": "相互に作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サリドマイド",
+      "clinical_symptom_action": "海外において、多発性骨髄腫における本剤との併用により、中毒性表皮壊死症（Toxic Epidermal Necrolysis : TEN）が発現したとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

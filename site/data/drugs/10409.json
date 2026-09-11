@@ -1,0 +1,87 @@
+{
+  "id": 10409,
+  "brand_name": "ヒポカ5mgカプセル",
+  "generic_name": "バルニジピン塩酸塩",
+  "therapeutic_classification": "持効性Ca拮抗剤",
+  "indications": "高血圧症、腎実質性高血圧症、腎血管性高血圧症",
+  "dose_admin": "通常、成人にはバルニジピン塩酸塩として10～15mgを1日1回朝食後に経口投与する。ただし、1日5～10mgより投与を開始し、必要に応じ漸次増量する。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n体内動態が変わる可能性があるので、かみくだいたり、カプセルを開けて服用しないよう注意すること。",
+  "serious_adverse_events": "アナフィラキシー（頻度不明）\nアナフィラキシー（呼吸困難、全身潮紅、血管性浮腫、蕁麻疹等）があらわれることがある。\n過度の血圧低下（頻度不明）\n肝機能障害、黄疸（いずれも頻度不明）\nAST・ALT・γ-GTPの上昇等を伴う肝機能障害や黄疸があらわれることがある。",
+  "observation_points": [
+    "アナフィラキシー（頻度不明）",
+    "アナフィラキシー（呼吸困難、全身潮紅、血管性浮腫、蕁麻疹等）があらわれることがある",
+    "過度の血圧低下（頻度不明）",
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST・ALT・γ-GTPの上昇等を伴う肝機能障害や黄疸があらわれることがある",
+    "血圧降下作用が増強することがある",
+    "ジゴキシンの作用を増強し、中毒症状（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある",
+    "必要に応じジゴキシンを減量する",
+    "（1）フェニトインの作用を増強し、中毒症状（神経的）があらわれることがある",
+    "必要に応じフェニトインを減量する",
+    "（2）本剤の作用が減弱されることがある",
+    "必要に応じ本剤を増量する",
+    "本剤の作用が減弱されることがある",
+    "本剤の作用が増強され、血圧低下、頻脈等があらわれることがある",
+    "必要に応じ本剤を減量する",
+    "本剤の血中濃度が上昇し、本剤の作用が増強されるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他の血圧降下剤",
+      "clinical_symptom_action": "血圧降下作用が増強することがある。",
+      "mechanism_risk_factor": "薬理学的な相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジゴキシンの作用を増強し、中毒症状（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。必要に応じジゴキシンを減量する。",
+      "mechanism_risk_factor": "主に腎でのクリアランスを減少させ、ジゴキシンの血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "（1）フェニトインの作用を増強し、中毒症状（神経的）があらわれることがある。必要に応じフェニトインを減量する。（2）本剤の作用が減弱されることがある。必要に応じ本剤を増量する。",
+      "mechanism_risk_factor": "（1）本剤の蛋白結合率が高いため、血漿蛋白結合競合により、遊離型フェニトインが上昇する。（2）CYP3A4が誘導され、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の作用が減弱されることがある。必要に応じ本剤を増量する。",
+      "mechanism_risk_factor": "CYP3A4が誘導され、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "本剤の作用が増強され、血圧低下、頻脈等があらわれることがある。必要に応じ本剤を減量する。",
+      "mechanism_risk_factor": "これらの薬剤によりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nサキナビル\nリトナビル　等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤によりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アゾール系抗真菌薬\nイトラコナゾール　等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤によりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マクロライド系抗生物質\nエリスロマイシン　等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤によりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤によりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    }
+  ],
+  "facility_notes": ""
+}

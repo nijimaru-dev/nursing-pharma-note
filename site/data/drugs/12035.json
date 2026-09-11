@@ -1,0 +1,116 @@
+{
+  "id": 12035,
+  "brand_name": "プロセキソール錠0.5mg",
+  "generic_name": "エチニルエストラジオール",
+  "therapeutic_classification": "卵胞ホルモン製剤",
+  "indications": "前立腺癌、閉経後の末期乳癌（男性ホルモン療法に抵抗を示す場合）",
+  "dose_admin": "前立腺癌、乳癌には、通常1回1～2錠を1日3回経口投与する。ただし、年齢、症状により適宜増減する。なお、原体の再評価結果の用法及び用量は、前立腺癌、乳癌にはエチニルエストラジオールとして、通常成人1回0.05～1.0mgを1日3回経口投与である。",
+  "contraindications": "〈効能共通〉\nエストロゲン依存性悪性腫瘍（例えば、乳癌、子宮内膜癌）及びその疑いのある患者（治療の目的で投与する場合を除く）\n［腫瘍の悪化あるいは顕性化を促すことがある。］\n血栓性静脈炎、肺塞栓症又はその既往歴のある患者\n［血液凝固能の亢進により、これらの症状が増悪することがある。］\n〈閉経後の末期乳癌（男性ホルモン療法に抵抗を示す場合）〉\n未治療の子宮内膜増殖症のある患者\n［子宮内膜増殖症は細胞異型を伴う場合がある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "血栓症（頻度不明）\n長期連用により、血栓症（心筋、脳、四肢等）があらわれることがある。\n心不全、狭心症（頻度不明）",
+  "observation_points": [
+    "血栓症（頻度不明）",
+    "長期連用により、血栓症（心筋、脳、四肢等）があらわれることがある",
+    "心不全、狭心症（頻度不明）",
+    "これらの薬剤の作用が増強するおそれがある",
+    "本剤の効果の減弱化及び不正性器出血の発現率が増大するおそれがある",
+    "黄体ホルモン・卵胞ホルモン配合剤との併用で、月経異常があらわれたとの報告がある",
+    "これらの薬剤の作用を減弱するおそれがある",
+    "血糖降下剤の作用が減弱するおそれがある",
+    "血糖値その他患者の状態を十分観察し、血糖降下剤の用量を調節するなど注意する",
+    "これらの薬剤の血中濃度が低下するおそれがある",
+    "本剤の作用が減弱するおそれがある",
+    "本剤の血中濃度が上昇するおそれがある",
+    "ボリコナゾールの血中濃度が上昇するおそれがある",
+    "アセトアミノフェンの血中濃度が低下するおそれがある",
+    "本剤の効果の減弱化及び不正性器出血の発現率が増大するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副腎皮質ホルモン\nプレドニゾロン等\n三環系抗うつ剤\nイミプラミン等\nセレギリン塩酸塩\nシクロスポリン\nテオフィリン\nオメプラゾール",
+      "clinical_symptom_action": "これらの薬剤の作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤はこれらの薬剤の代謝を抑制すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン\nバルビツール酸系製剤\nフェノバルビタール等\nヒダントイン系製剤\nフェニトインナトリウム等\nカルバマゼピン\nボセンタン\nモダフィニル\nトピラマート",
+      "clinical_symptom_action": "本剤の効果の減弱化及び不正性器出血の発現率が増大するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤は薬物代謝酵素を誘導し、本剤の代謝を促進すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリン等\nペニシリン系抗生物質\nアンピシリン水和物等",
+      "clinical_symptom_action": "本剤の効果の減弱化及び不正性器出血の発現率が増大するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤は腸内細菌叢を変化させ、本剤の腸肝循環による再吸収を抑制すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テルビナフィン塩酸塩",
+      "clinical_symptom_action": "黄体ホルモン・卵胞ホルモン配合剤との併用で、月経異常があらわれたとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "Gn-RH誘導体\nブセレリン酢酸塩等",
+      "clinical_symptom_action": "これらの薬剤の作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤は性ホルモンの分泌を低下することにより薬効を示すため、性ホルモンである本剤の投与によってこれらの薬剤の効果を減弱する可能性が考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等",
+      "clinical_symptom_action": "血糖降下剤の作用が減弱するおそれがある。血糖値その他患者の状態を十分観察し、血糖降下剤の用量を調節するなど注意する。",
+      "mechanism_risk_factor": "本剤は耐糖能を低下させ、血糖降下剤の作用を減弱させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラモトリギンモルヒネサリチル酸",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が低下するおそれがある。",
+      "mechanism_risk_factor": "本剤はこれらの薬剤のグルクロン酸抱合を促進すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nネルフィナビルメシル酸塩、リトナビル、ダルナビル、ホスアンプレナビル（リトナビル併用時）、ロピナビル・リトナビル配合剤等\n非ヌクレオシド系逆転写酵素阻害剤\nネビラピン",
+      "clinical_symptom_action": "本剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "エチニルエストラジオールのAUCが減少する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nアタザナビル",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "アタザナビルは本剤の代謝酵素（CYP3A4）を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "非ヌクレオシド系逆転写酵素阻害剤\nエトラビリン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "エトラビリンは本剤の代謝酵素（CYP2C9）を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルコナゾール",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "フルコナゾールは本剤の代謝酵素（CYP3A4）を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボリコナゾール",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。ボリコナゾールの血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "ボリコナゾールは本剤の代謝酵素（CYP3A4）を阻害すると考えられる。本剤がボリコナゾールの代謝酵素（CYP2C19）を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アセトアミノフェン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。アセトアミノフェンの血中濃度が低下するおそれがある。",
+      "mechanism_risk_factor": "アセトアミノフェンはエチニルエストラジオールの硫酸抱合を阻害すると考えられる。本剤が肝におけるアセトアミノフェンのグルクロン酸抱合を促進すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の効果の減弱化及び不正性器出血の発現率が増大するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること。",
+      "mechanism_risk_factor": "この食品は薬物代謝酵素を誘導し、本剤の代謝を促進すると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3643,
+  "brand_name": "オーファディンカプセル2mg",
+  "generic_name": "ニチシノンカプセル\nNitisinone",
+  "therapeutic_classification": "高チロシン血症I型治療剤",
+  "indications": "高チロシン血症I型",
+  "dose_admin": "通常、ニチシノンとして1日1mg/kgを2回に分割して経口投与する。なお、患者の状態に応じて適宜増減するが、1日2mg/kgを上限とする。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "眼障害\n結膜炎、角膜混濁、角膜炎、羞明、眼痛（各1～10%未満）、眼瞼炎（0.1～1%未満）等の眼障害があらわれることがある。異常が認められた場合には、食事療法の順守を確認し、適切な処置を行うこと。\n血小板減少症、白血球減少症、顆粒球減少症（各1～10%未満）",
+  "observation_points": [
+    "眼障害",
+    "結膜炎、角膜混濁、角膜炎、羞明、眼痛（各1～10%未満）、眼瞼炎（0.1～1%未満）等の眼障害があらわれることがある",
+    "異常が認められた場合には、食事療法の順守を確認し、適切な処置を行うこと",
+    "血小板減少症、白血球減少症、顆粒球減少症（各1～10%未満）",
+    "これらの薬剤の作用を増強するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C9の基質となる薬剤\nワルファリン\nフェニトイン\n等",
+      "clinical_symptom_action": "これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤のCYP2C9阻害作用により、これらの薬剤の血漿中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "OAT1/OAT3の基質となる薬剤\nフロセミド\nメトトレキサート\nバリシチニブ\n等",
+      "clinical_symptom_action": "これらの薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤のOAT1/OAT3阻害作用により、これらの薬剤の血漿中濃度が上昇する。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6439,
+  "brand_name": "セネガシロップ「ケンエー」",
+  "generic_name": "日局　セネガシロップ",
+  "therapeutic_classification": "去痰剤",
+  "indications": "下記疾患に伴う喀痰喀出困難\n急性気管支炎、感冒、上気道炎",
+  "dose_admin": "セネガシロップとして、通常成人1日10～35mLを3回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "ジスルフィラム、シアナミド、カルモフール、プロカルバジン塩酸塩を投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ジスルフィラム (ノックビン)、シアナミド(シアナマイド)、カルモフール、プロカルバジン塩酸塩",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "N－メチルテトラゾールチオメチル基を有するセフェム系抗生物質（セフメノキシム塩酸塩、セフォペラゾンナトリウム、セフミノクスナトリウム水和物、セフメタゾールナトリウム、ラタモキセフナトリウム）、メトロニダゾール",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3700,
+  "brand_name": "カフェイン水和物原末「マルイシ」",
+  "generic_name": "カフェイン水和物",
+  "therapeutic_classification": "中枢興奮・鎮痛剤",
+  "indications": "ねむけ、倦怠感、血管拡張性及び脳圧亢進性頭痛（片頭痛、高血圧性頭痛、カフェイン禁断性頭痛など）",
+  "dose_admin": "カフェイン水和物として、通常成人1回0.1～0.3gを1日2～3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "過度の中枢神経刺激作用が現れることがある",
+    "頻脈、血圧上昇等が現れることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他のキサンチン系薬剤\nアミノフィリン水和物ジプロフィリンテオフィリン等\n中枢神経興奮薬\nエフェドリン塩酸塩マオウ等",
+      "clinical_symptom_action": "過度の中枢神経刺激作用が現れることがある。",
+      "mechanism_risk_factor": "併用薬の代謝・排泄を遅延させることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "MAO阻害剤\nセレギリン塩酸塩ラサギリンメシル酸塩サフィナミドメシル酸塩",
+      "clinical_symptom_action": "頻脈、血圧上昇等が現れることがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "過度の中枢神経刺激作用が現れることがある。",
+      "mechanism_risk_factor": "本剤の代謝・排泄を遅延させることがある。"
+    }
+  ],
+  "facility_notes": ""
+}

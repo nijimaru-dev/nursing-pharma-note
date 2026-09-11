@@ -1,0 +1,83 @@
+{
+  "id": 5259,
+  "brand_name": "コレアジン錠12.5mg",
+  "generic_name": "テトラベナジン錠",
+  "therapeutic_classification": "非律動性不随意運動治療薬",
+  "indications": "ハンチントン病に伴う舞踏運動",
+  "dose_admin": "通常、成人にはテトラベナジンとして1日量12.5mg（12.5mgの1日1回投与）から経口投与を開始し、以後症状を観察しながら1週毎に1日量として12.5mgずつ増量し、維持量を定める。その後は、症状により適宜増減するが、1日最高投与量は100mgとする。なお、1日量が25mgの場合は1日2回、1日量が37.5mg以上の場合には1日3回に分けて投与することとし、1回最高投与量は37.5mgとする。",
+  "contraindications": "自殺念慮、自殺企図のある患者、不安定なうつ病・うつ状態の患者\n,\n,\n,\n,\n,\n重篤な肝機能障害のある患者（Child-Pughスコア10以上）\n,\nMAO阻害剤を投与中あるいは投与中止後2週間以内の患者\nレセルピンを投与中あるいは投与中止後3週間以内の患者\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "うつ病・うつ状態（5%以上）、自殺念慮、自殺企図（いずれも頻度不明）\n,\n,\n,\n,\n,\n,\n悪性症候群（Syndrome malin）（頻度不明）\n無動緘黙、強度の筋強剛、嚥下困難、頻脈、血圧の変動、発汗等が発現し、それに引き続き発熱がみられる場合は、中止し、体冷却、水分補給等の全身管理とともに適切な処置を行う。本症発症時には、白血球の増加や血清CKの上昇がみられることが多く、また、ミオグロビン尿を伴う腎機能の低下がみられることがある。",
+  "observation_points": [
+    "うつ病・うつ状態（5%以上）、自殺念慮、自殺企図（いずれも頻度不明）",
+    ",",
+    "悪性症候群（Syndrome malin）（頻度不明）",
+    "無動緘黙、強度の筋強剛、嚥下困難、頻脈、血圧の変動、発汗等が発現し、それに引き続き発熱がみられる場合は、中止し、体冷却、水分補給等の全身管理とともに適切な処置を行う",
+    "本症発症時には、白血球の増加や血清CKの上昇がみられることが多く、また、ミオグロビン尿を伴う腎機能の低下がみられることがある",
+    "本剤の活性代謝物の血中濃度が上昇することがあるので、本剤を減量するなど考慮すること",
+    "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある",
+    "相互に作用を減弱することがある",
+    "相互に作用を増強することがある",
+    "起立性低血圧等を起こすおそれがある",
+    "相互に作用を増強することがあるため併用は推奨されない",
+    "併用する場合は観察を十分に行い、副作用の発現に注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "MAO阻害剤\nセレギリン（エフピー）",
+      "clinical_symptom_action": "MAO阻害剤の作用が増強することがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合は、少なくとも2週間の間隔をおくこと。",
+      "mechanism_risk_factor": "併用によりMAO阻害剤の作用が増強されるおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "レセルピン",
+      "clinical_symptom_action": "相互に作用を増強することがある。レセルピンの投与を受けた患者に本剤を投与する場合は、少なくとも3週間の間隔をおくこと。",
+      "mechanism_risk_factor": "本剤と類似した作用メカニズムを有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2D6を阻害する薬剤\nパロキセチンキニジン等\n,",
+      "clinical_symptom_action": "本剤の活性代謝物の血中濃度が上昇することがあるので、本剤を減量するなど考慮すること。",
+      "mechanism_risk_factor": "これらの薬剤の薬物代謝酵素阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT間隔延長を起こすことが知られている薬剤\nクロルプロマジンハロペリドール等",
+      "clinical_symptom_action": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。",
+      "mechanism_risk_factor": "いずれもQT間隔を延長させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "レボドパ",
+      "clinical_symptom_action": "相互に作用を減弱することがある。",
+      "mechanism_risk_factor": "本剤はモノアミン涸渇作用を有していることから、ドパミン作動性神経において作用が拮抗する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドパミン拮抗剤\nフェノチアジン系薬剤ブチロフェノン系薬剤メトクロプラミドドンペリドン等",
+      "clinical_symptom_action": "相互に作用を増強することがある。",
+      "mechanism_risk_factor": "本剤はモノアミン涸渇作用を有していることから、併用により作用が増強されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "降圧剤",
+      "clinical_symptom_action": "起立性低血圧等を起こすおそれがある。",
+      "mechanism_risk_factor": "降圧剤の作用を増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール中枢神経抑制剤",
+      "clinical_symptom_action": "相互に作用を増強することがある。",
+      "mechanism_risk_factor": "併用により作用が増強されたり、鎮静及び傾眠を悪化させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルベナジン",
+      "clinical_symptom_action": "相互に作用を増強することがあるため併用は推奨されない。併用する場合は観察を十分に行い、副作用の発現に注意すること。",
+      "mechanism_risk_factor": "本剤と類似した作用機序を有することから、併用により作用が増強されるおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

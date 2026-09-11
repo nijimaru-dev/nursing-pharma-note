@@ -1,0 +1,2594 @@
+[
+  {
+    "other_id": 79,
+    "other_brand": "アウィクリ注 フレックスタッチ 総量300単位",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 138,
+    "other_brand": "アグリリンカプセル0.5mg",
+    "interaction_type": "caution",
+    "source_text": "QT間隔延長を起こすことが知られている薬剤（イミプラミン、ピモジド等）抗不整脈薬（キニジン、プロカインアミド、ジソピラミド等）"
+  },
+  {
+    "other_id": 306,
+    "other_brand": "アスペノンカプセル10",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミドキニジン硫酸塩水和物メキシレチン塩酸塩"
+  },
+  {
+    "other_id": 453,
+    "other_brand": "アテノロール錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 454,
+    "other_brand": "アテノロール錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 455,
+    "other_brand": "アテノロール錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 456,
+    "other_brand": "アテノロール錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 458,
+    "other_brand": "アテノロール錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 459,
+    "other_brand": "アテノロール錠25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 627,
+    "other_brand": "アナグレリドカプセル0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "QT間隔延長を起こすことが知られている薬剤（イミプラミン、ピモジド等）抗不整脈薬（キニジン、プロカインアミド、ジソピラミド等）"
+  },
+  {
+    "other_id": 672,
+    "other_brand": "アピドラ注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 673,
+    "other_brand": "アピドラ注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 674,
+    "other_brand": "アピドラ注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 694,
+    "other_brand": "アプリンジン塩酸塩カプセル10mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミドキニジン硫酸塩水和物メキシレチン塩酸塩"
+  },
+  {
+    "other_id": 712,
+    "other_brand": "アベロックス錠400mg",
+    "interaction_type": "contraindicated",
+    "source_text": "クラスIA抗不整脈薬\nキニジン\nプロカインアミド（アミサリン）\nジソピラミド（リスモダン）\nシベンゾリン（シベノール）\nピルメノール（ピメノール）\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン）\nソタロール（ソタコール）等"
+  },
+  {
+    "other_id": 718,
+    "other_brand": "アマリール0.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 767,
+    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 769,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 770,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 771,
+    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 1167,
+    "other_brand": "アルセノール錠25",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミドアジマリン等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピンイトラコナゾールイマチニブオンダンセトロンキニジンクエチアピンジソピラミドニソルジピンニフェジピンフェロジピンプラジカンテルベラパミル　等副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合:シアリス、ザルティア）シルデナフィルバルデナフィル"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピンイトラコナゾールイマチニブオンダンセトロンキニジンクエチアピンジソピラミドニソルジピンニフェジピンフェロジピンプラジカンテルベラパミル　等副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合:シアリス、ザルティア）シルデナフィルバルデナフィル"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピンイトラコナゾールイマチニブオンダンセトロンキニジンクエチアピンジソピラミドニソルジピンニフェジピンフェロジピンプラジカンテルベラパミル　等副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合:シアリス、ザルティア）シルデナフィルバルデナフィル"
+  },
+  {
+    "other_id": 1325,
+    "other_brand": "アロチノロール塩酸塩錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nアミオダロンソタロール"
+  },
+  {
+    "other_id": 1326,
+    "other_brand": "アロチノロール塩酸塩錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nアミオダロンソタロール"
+  },
+  {
+    "other_id": 1327,
+    "other_brand": "アロチノロール塩酸塩錠5mg「DSP」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nアミオダロンソタロール"
+  },
+  {
+    "other_id": 1328,
+    "other_brand": "アロチノロール塩酸塩錠5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nアミオダロンソタロール"
+  },
+  {
+    "other_id": 1371,
+    "other_brand": "アンカロン錠100",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 1440,
+    "other_brand": "アーチスト錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 1567,
+    "other_brand": "イストダックス点滴静注用10mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン塩酸塩、ジソピラミド、プロカインアミド塩酸塩、キニジン硫酸塩水和物、ソタロール塩酸塩等\nQT間隔延長を起こすことが知られている他の薬剤\nクラリスロマイシン、オンダンセトロン塩酸塩水和物、メサドン塩酸塩、モキシフロキサシン塩酸塩、ベプリジル塩酸塩水和物、ピモジド等"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 1894,
+    "other_brand": "インスリン　アスパルトBS注カート NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 1895,
+    "other_brand": "インスリン　アスパルトBS注ソロスター NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 1896,
+    "other_brand": "インスリン　アスパルトBS注100単位/mL NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 1898,
+    "other_brand": "インスリン グラルギンBS注キット「FFP」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 1897,
+    "other_brand": "インスリン　グラルギンBS注カート「リリー」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 1900,
+    "other_brand": "インスリン　リスプロBS注カート　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 1902,
+    "other_brand": "インスリン　リスプロBS注100単位/mL　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 1914,
+    "other_brand": "インデラル注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 1915,
+    "other_brand": "インデラル錠10mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 2829,
+    "other_brand": "エリスロシン点滴静注用500mg",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド\nキニジン硫酸塩水和物"
+  },
+  {
+    "other_id": 2830,
+    "other_brand": "エリスロシン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド\nキニジン硫酸塩水和物"
+  },
+  {
+    "other_id": 2827,
+    "other_brand": "エリスロシンドライシロップ10％",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド\nキニジン硫酸塩水和物"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミドキニジン硫酸塩水和物"
+  },
+  {
+    "other_id": 2944,
+    "other_brand": "オイグルコン錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 3128,
+    "other_brand": "オノアクト点滴静注用50mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロンニフェカラント等"
+  },
+  {
+    "other_id": 3254,
+    "other_brand": "オラビ錠口腔用50mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物\nアトルバスタチンカルシウム水和物\nビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩、\nビンブラスチン硫酸塩、\nビノレルビン酒石酸塩等\nジヒドロピリジン系カルシウム拮抗剤\nニフェジピン、\nアムロジピンベシル酸塩、\nニカルジピン塩酸塩等\nベラパミル塩酸塩\nシルデナフィルクエン酸塩\nアルプラゾラム\nミダゾラム\nブロチゾラム\nメチルプレドニゾロン\nセレギリン塩酸塩\nエバスチン\nイマチニブメシル酸塩\nジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 3707,
+    "other_brand": "カプレルサ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン\nプロカインアミド\nジソピラミド等\nQT間隔延長を起こすおそれがある他の薬剤\nオンダンセトロン\nクラリスロマイシン\nハロペリドール等\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 3722,
+    "other_brand": "カムザイオスカプセル1mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠA抗不整脈薬\nジソピラミド\nシベンゾリン等"
+  },
+  {
+    "other_id": 3794,
+    "other_brand": "カルテオロール塩酸塩錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3795,
+    "other_brand": "カルテオロール塩酸塩錠5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3836,
+    "other_brand": "カルバン錠25",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nジソピラミド、プロカインアミド、アジマリン等"
+  },
+  {
+    "other_id": 3839,
+    "other_brand": "カルビスケン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミド\nプロカインアミド\nアジマリン等\nアミオダロン"
+  },
+  {
+    "other_id": 3845,
+    "other_brand": "カルベジロール錠1.25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3846,
+    "other_brand": "カルベジロール錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3847,
+    "other_brand": "カルベジロール錠1.25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3848,
+    "other_brand": "カルベジロール錠1.25mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3849,
+    "other_brand": "カルベジロール錠1.25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3850,
+    "other_brand": "カルベジロール錠1.25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3851,
+    "other_brand": "カルベジロール錠1.25mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3852,
+    "other_brand": "カルベジロール錠1.25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3866,
+    "other_brand": "カルベジロール錠10mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3853,
+    "other_brand": "カルベジロール錠1.25mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 3855,
+    "other_brand": "カルベジロール錠1.25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 4270,
+    "other_brand": "キーンス配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4439,
+    "other_brand": "クラリシッド錠200mg",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4440,
+    "other_brand": "クラリシッド錠50mg小児用",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4446,
+    "other_brand": "クラリスロマイシン錠小児用50mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4447,
+    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4448,
+    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4449,
+    "other_brand": "クラリスロマイシン錠200mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4450,
+    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4451,
+    "other_brand": "クラリスロマイシン錠200㎎「大正」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4452,
+    "other_brand": "クラリスロマイシン錠200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4453,
+    "other_brand": "クラリスロマイシン錠200mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4454,
+    "other_brand": "クラリスロマイシン錠200mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4455,
+    "other_brand": "クラリスロマイシン錠200mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4456,
+    "other_brand": "クラリスロマイシン錠200mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4442,
+    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4460,
+    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4461,
+    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4443,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4463,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4444,
+    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4445,
+    "other_brand": "クラリスロマイシン錠小児用50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4458,
+    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4467,
+    "other_brand": "クラリス錠200",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン 等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4441,
+    "other_brand": "クラリス錠50小児用",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤（CYP3Aで代謝される薬剤）\n〔トリアゾラム\nミダゾラム\n等〕\n非定型抗精神病薬（CYP3Aで代謝される薬剤）\n〔クエチアピンフマル酸塩\nアリピプラゾール\nブロナンセリン  等〕\nジソピラミド\nトルバプタン\nエプレレノン\nエレトリプタン臭化水素酸塩\nカルシウム拮抗剤（アゼルニジピンを除くCYP3Aで代謝される薬剤）\n〔ニフェジピン\nベラパミル塩酸塩 等〕\nリオシグアト\nジエノゲスト\nホスホジエステラーゼ5阻害剤\n〔シルデナフィルクエン酸塩\nタダラフィル\n〔シアリス、ザルティア〕等〕\nクマリン系抗凝血剤\nワルファリンカリウム\nドセタキセル水和物\nアベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル／フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 4767,
+    "other_brand": "グリクラジド錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミドシベンゾリンピルメノール"
+  },
+  {
+    "other_id": 4768,
+    "other_brand": "グリクラジド錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミドシベンゾリンピルメノール"
+  },
+  {
+    "other_id": 4769,
+    "other_brand": "グリクラジド錠20mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミドシベンゾリンピルメノール"
+  },
+  {
+    "other_id": 4832,
+    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4833,
+    "other_brand": "グリベンクラミド錠1.25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4834,
+    "other_brand": "グリベンクラミド錠1.25mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4835,
+    "other_brand": "グリベンクラミド錠1.25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4840,
+    "other_brand": "グリミクロンHA錠20mg",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミドシベンゾリンピルメノール"
+  },
+  {
+    "other_id": 4843,
+    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4846,
+    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4848,
+    "other_brand": "グリメピリド錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4849,
+    "other_brand": "グリメピリド錠0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4850,
+    "other_brand": "グリメピリド錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4851,
+    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4852,
+    "other_brand": "グリメピリド錠0.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4853,
+    "other_brand": "グリメピリド錠0.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4854,
+    "other_brand": "グリメピリド錠0.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4855,
+    "other_brand": "グリメピリド錠0.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4856,
+    "other_brand": "グリメピリド錠0.5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4857,
+    "other_brand": "グリメピリド錠0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4858,
+    "other_brand": "グリメピリド錠0.5mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4859,
+    "other_brand": "グリメピリド錠0.5mg「NC」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4860,
+    "other_brand": "グリメピリド錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4861,
+    "other_brand": "グリメピリド錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4862,
+    "other_brand": "グリメピリド錠0.5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4863,
+    "other_brand": "グリメピリド錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4864,
+    "other_brand": "グリメピリド錠0.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4865,
+    "other_brand": "グリメピリド錠0.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4912,
+    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4913,
+    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4914,
+    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 5056,
+    "other_brand": "ケルロング錠5mg",
+    "interaction_type": "caution",
+    "source_text": "クラスI抗不整脈剤\nジソピラミド\nプロカインアミド塩酸塩\nアジマリン等\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nジソピラミド\nリドカイン塩酸塩\nプロパフェノン塩酸塩\nキニジン硫酸塩水和物"
+  },
+  {
+    "other_id": 5100,
+    "other_brand": "コアテック注5mg",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド"
+  },
+  {
+    "other_id": 5101,
+    "other_brand": "コアベータ静注用12.5mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロンニフェカラント等"
+  },
+  {
+    "other_id": 5248,
+    "other_brand": "コララン錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "QT延長作用のある薬剤\nキニジン、ジソピラミド、ベプリジル、ソタロール、アミオダロン、メフロキン、ペンタミジン等\n,"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロンベプリジルジソピラミドリドカイン（全身投与）キニジン"
+  },
+  {
+    "other_id": 5812,
+    "other_brand": "シンビット静注用50mg",
+    "interaction_type": "caution",
+    "source_text": "Ⅰa群不整脈用剤\nプロカインアミド\nキニジン\nジソピラミド\nⅢ群不整脈用剤\nアミオダロン経口剤\nソタロール"
+  },
+  {
+    "other_id": 6296,
+    "other_brand": "スニチニブ錠12.5mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 6309,
+    "other_brand": "スピラマイシン錠150万単位「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA及びクラスIII抗不整脈薬\nキニジン\nジソピラミド\nアミオダロン\nソタロール等\nスルトプリド等"
+  },
+  {
+    "other_id": 6331,
+    "other_brand": "スプリセル錠20mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 6380,
+    "other_brand": "スーテントカプセル12.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 6609,
+    "other_brand": "セリプロロール塩酸塩錠100mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミドプロカインアミド塩酸塩アジマリン等\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 6663,
+    "other_brand": "セレクトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミドプロカインアミド塩酸塩アジマリン等\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 6733,
+    "other_brand": "セロケン錠20mg",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミド\nプロカインアミド等\nClassⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 6734,
+    "other_brand": "セロケンL錠120mg",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nClassⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 6807,
+    "other_brand": "ゼルボラフ錠240mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン、プロカインアミド、ジソピラミド、ソタロール　等"
+  },
+  {
+    "other_id": 6820,
+    "other_brand": "ソタコール錠40mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nジソピラミド\nアミオダロン塩酸塩（経口）等"
+  },
+  {
+    "other_id": 6822,
+    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nジソピラミド\nアミオダロン塩酸塩（経口）等"
+  },
+  {
+    "other_id": 6825,
+    "other_brand": "ソニアス配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nスルホニルウレア剤速効型インスリン分泌促進薬α-グルコシダーゼ阻害剤ビグアナイド系薬剤DPP-4阻害剤GLP-1アナログ製剤インスリン製剤SGLT2阻害剤\n糖尿病用薬の血糖降下作用を増強する薬剤\nβ-遮断薬モノアミン酸化酵素阻害薬フィブラート系の高脂血症治療薬ワルファリンプロベネシドサリチル酸製剤プロピオン酸系消炎薬アリール酢酸系消炎薬オキシカム系消炎薬クラリスロマイシンサルファ剤クロラムフェニコールテトラサイクリン系抗生物質シプロフロキサシンレボフロキサシン水和物アゾール系抗真菌薬シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物等"
+  },
+  {
+    "other_id": 6851,
+    "other_brand": "ソリクア配合注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "ジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 7005,
+    "other_brand": "ゾルトファイ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 7094,
+    "other_brand": "タイケルブ錠250mg",
+    "interaction_type": "caution",
+    "source_text": "QT間隔延長を起こすことが知られている薬剤\nイミプラミンピモジド等\n抗不整脈薬\nキニジンプロカインアミドジソピラミド等"
+  },
+  {
+    "other_id": 7156,
+    "other_brand": "タシグナカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロンジソピラミドプロカインアミドキニジンソタロール等\nQT間隔延長を起こすおそれのある他の薬剤\nクラリスロマイシンハロペリドールモキシフロキサシンベプリジルピモジド等\n,\n,"
+  },
+  {
+    "other_id": 7417,
+    "other_brand": "ダサチニブ錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 7418,
+    "other_brand": "ダサチニブ錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 7419,
+    "other_brand": "ダサチニブ錠20mg「BMSH」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 7420,
+    "other_brand": "ダサチニブ錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 7421,
+    "other_brand": "ダサチニブ錠20mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジン硫酸塩水和物プロカインアミド塩酸塩ジソピラミドソタロール塩酸塩等"
+  },
+  {
+    "other_id": 8022,
+    "other_brand": "テノーミン錠50",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 8772,
+    "other_brand": "トランデート錠50mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nジソピラミド\nプロカインアミド等"
+  },
+  {
+    "other_id": 8797,
+    "other_brand": "トリセノックス点滴静注12mg",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nドロペリドール\n抗精神病薬\nクロルプロマジン、ハロペリドール、ピモジド、チオリダジン等\n抗うつ薬\nイミプラミン等\n抗不整脈薬\nアミオダロン、ベプリジル、ジソピラミド、プロカインアミド、キニジン、ソタロール等\nフロセミド\nプロブコール\nファモチジン\nプロピベリン\n消化管運動亢進薬\nシサプリド、ドンペリドン等\n抗菌薬\nクラリスロマイシン、エリスロマイシン、スパルフロキサシン等\n抗真菌薬\nフルコナゾール等\nペンタミジン\n等"
+  },
+  {
+    "other_id": 8861,
+    "other_brand": "トレシーバ注　フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 8862,
+    "other_brand": "トレシーバ注　ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9328,
+    "other_brand": "ナディック錠30mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド　等\nアミオダロンソタロール"
+  },
+  {
+    "other_id": 9582,
+    "other_brand": "ニロチニブカプセル150mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロンジソピラミドプロカインアミドキニジンソタロール等\nQT間隔延長を起こすおそれのある他の薬剤\nクラリスロマイシンハロペリドールモキシフロキサシンベプリジルピモジド等\n,\n,"
+  },
+  {
+    "other_id": 9724,
+    "other_brand": "ノボラピッド注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9726,
+    "other_brand": "ノボラピッド注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9727,
+    "other_brand": "ノボラピッド注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9728,
+    "other_brand": "ノボラピッド30ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9729,
+    "other_brand": "ノボラピッド30ミックス注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9730,
+    "other_brand": "ノボラピッド50ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9731,
+    "other_brand": "ノボリン30R注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9732,
+    "other_brand": "ノボリンN注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9733,
+    "other_brand": "ノボリンR注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9734,
+    "other_brand": "ノボリンR注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 9763,
+    "other_brand": "ノーモサング点滴静注250mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4で代謝を受ける薬剤\nCa拮抗薬\nニフェジピン\nジルチアゼム\nベラパミル 等\n抗不整脈薬\nアミオダロン\nジソピラミド\nリドカイン\nプロパフェノン\nキニジン 等\n抗てんかん薬\nフェニトイン\nカルバマゼピン\n鎮痛薬\nフェンタニル 等\n鎮咳薬\nセラトロダスト\nデキストロメトルファン"
+  },
+  {
+    "other_id": 9800,
+    "other_brand": "ハイパジールコーワ錠3",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等"
+  },
+  {
+    "other_id": 9815,
+    "other_brand": "ハイヤスタ錠10mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nアミオダロン、ジソピラミド、プロカインアミド等\nQT間隔を延長させることが知られている他の薬剤\nクラリスロマイシン、モキシフロキサシン、ベプリジル等"
+  },
+  {
+    "other_id": 10052,
+    "other_brand": "バルデナフィル錠10mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "クラスⅠA抗不整脈薬\nキニジン、プロカインアミド（アミサリン）、ジソピラミド（リスモダン（経口剤））、シベンゾリン（シベノール）、ピルメノール（ピメノール）\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン（経口剤））、ソタロール（ソタコール）\n,"
+  },
+  {
+    "other_id": 10053,
+    "other_brand": "バルデナフィル錠10mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "クラスⅠA抗不整脈薬\nキニジン、プロカインアミド（アミサリン）、ジソピラミド（リスモダン（経口剤））、シベンゾリン（シベノール）、ピルメノール（ピメノール）\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン（経口剤））、ソタロール（ソタコール）\n,"
+  },
+  {
+    "other_id": 10054,
+    "other_brand": "バルデナフィル錠5mg「FCI」",
+    "interaction_type": "contraindicated",
+    "source_text": "クラスⅠA抗不整脈薬\nキニジン、プロカインアミド（アミサリン）、ジソピラミド（リスモダン（経口剤））、シベンゾリン（シベノール）、ピルメノール（ピメノール）\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン（経口剤））、ソタロール（ソタコール）\n,"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピンイトラコナゾールイマチニブオンダンセトロンキニジンクエチアピンジソピラミドニソルジピンニフェジピンフェロジピンプラジカンテルベラパミル　等副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合:シアリス、ザルティア）シルデナフィルバルデナフィル"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピンイグラチモドイトラコナゾールイマチニブオンダンセトロンキニジンクエチアピンジソピラミドニソルジピンニフェジピンフェロジピンプラジカンテルベラパミルモンテルカスト等副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合：シアリス、ザルティア）、シルデナフィル、バルデナフィル"
+  },
+  {
+    "other_id": 10427,
+    "other_brand": "ヒューマリン3/7注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10429,
+    "other_brand": "ヒューマリン3/7注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10430,
+    "other_brand": "ヒューマリンN注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10432,
+    "other_brand": "ヒューマリンN注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10433,
+    "other_brand": "ヒューマリンR注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10435,
+    "other_brand": "ヒューマリンR注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10436,
+    "other_brand": "ヒューマログミックス25注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10438,
+    "other_brand": "ヒューマログミックス50注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10440,
+    "other_brand": "ヒューマログ注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10443,
+    "other_brand": "ヒューマログ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10531,
+    "other_brand": "ビソノテープ2mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドリン酸塩\nプロカインアミド塩酸塩\nアジマリン　等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10534,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10535,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10536,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「テバ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10537,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10538,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10539,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10540,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10541,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10542,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10543,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 10605,
+    "other_brand": "ビベスピエアロスフィア120吸入",
+    "interaction_type": "caution",
+    "source_text": "QT間隔延長を起こすことが知られている薬剤\n抗不整脈剤\nキニジン\nプロカインアミド\nジソピラミド等\n三環系抗うつ剤等\nイミプラミン等"
+  },
+  {
+    "other_id": 10673,
+    "other_brand": "ビレーズトリエアロスフィア56吸入",
+    "interaction_type": "caution",
+    "source_text": "QT間隔延長を起こすことが知られている薬剤\n抗不整脈剤\nキニジン\nプロカインアミド\nジソピラミド等\n三環系抗うつ剤等\nイミプラミン等"
+  },
+  {
+    "other_id": 10675,
+    "other_brand": "ビレーズトリ7.2エアロスフィア56吸入",
+    "interaction_type": "caution",
+    "source_text": "QT間隔延長を起こすことが知られている薬剤\n抗不整脈剤\nキニジン\nプロカインアミド\nジソピラミド等\n三環系抗うつ剤等\nイミプラミン等"
+  },
+  {
+    "other_id": 11032,
+    "other_brand": "フィアスプ注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 11034,
+    "other_brand": "フィアスプ注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 11555,
+    "other_brand": "フロリードゲル経口用2%",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物\nアトルバスタチン\nビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩\nビノレルビン酒石酸塩\nビンブラスチン硫酸塩　等\nジヒドロピリジン系カルシウム拮抗剤\nニフェジピン\nアムロジピンベシル酸塩\nシルニジピン　等\nベラパミル塩酸塩\nシルデナフィルクエン酸塩\nアルプラゾラム\nミダゾラム\nブロチゾラム\nメチルプレドニゾロン\nセレギリン塩酸塩\nエバスチン\nイマチニブメシル酸塩\nジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 11559,
+    "other_brand": "フロリードF注200mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物\nアトルバスタチン\nビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩\nビノレルビン酒石酸塩\nビンブラスチン硫酸塩　等\nジヒドロピリジン系カルシウム拮抗剤\nニフェジピン\nアムロジピンベシル酸塩\nシルニジピン　等\nベラパミル塩酸塩\nシルデナフィルクエン酸塩\nアルプラゾラム\nミダゾラム\nブロチゾラム\nメチルプレドニゾロン\nセレギリン塩酸塩\nエバスチン\nイマチニブメシル酸塩\nジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 11664,
+    "other_brand": "ブレビブロック注 100mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド\nプロカインアミド等\nアナモレリン塩酸塩"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロンベプリジルジソピラミドリドカイン（全身投与）キニジン"
+  },
+  {
+    "other_id": 12090,
+    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド\nプロカインアミド\n等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 12091,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 12092,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 12093,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 12225,
+    "other_brand": "ヘマンジオルシロップ小児用0.375%",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド、プロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 12305,
+    "other_brand": "ベタキソロール塩酸塩錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラスI抗不整脈剤\nジソピラミド\nプロカインアミド塩酸塩\nアジマリン等\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 12306,
+    "other_brand": "ベタキソロール塩酸塩錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "クラスI抗不整脈剤\nジソピラミド\nプロカインアミド塩酸塩\nアジマリン等\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 12307,
+    "other_brand": "ベタキソロール塩酸塩錠5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クラスI抗不整脈剤\nジソピラミド\nプロカインアミド塩酸塩\nアジマリン等\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3A4の基質となる薬剤\nアゼルニジピン\nイトラコナゾール\nイマチニブ\nオンダンセトロン\nキニジン\nクエチアピン\nジソピラミド\nニフェジピン\nフェロジピン\nプラジカンテル\nベラパミル等\n副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合：シアリス、ザルティア）\nシルデナフィル\nバルデナフィル"
+  },
+  {
+    "other_id": 12964,
+    "other_brand": "ボノサップパック400",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤\nCYP3Aで代謝される薬剤\nトリアゾラム\n、ミダゾラム\n等\n非定型抗精神病薬\nCYP3Aで代謝される薬剤\nクエチアピンフマル酸塩アリピプラゾールブロナンセリン等\nジソピラミドトルバプタンエプレレノンエレトリプタン臭化水素酸塩カルシウム拮抗剤\nアゼルニジピンを除くCYP3Aで代謝される薬剤\nニフェジピン、ベラパミル塩酸塩等\nリオシグアトジエノゲストホスホジエステラーゼ5阻害剤\nシルデナフィルクエン酸塩\n、タダラフィル〔シアリス、ザルティア〕等\nクマリン系抗凝血剤\nワルファリンカリウム等\nドセタキセル水和物アベマシクリブ\nオキシコドン塩酸塩水和物\nフェンタニル/フェンタニルクエン酸塩"
+  },
+  {
+    "other_id": 13329,
+    "other_brand": "ミケラン細粒1%",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 13330,
+    "other_brand": "ミケラン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 13331,
+    "other_brand": "ミケランLAカプセル15mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 13561,
+    "other_brand": "メインテート錠0.625mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等\nクラスⅢ抗不整脈剤\nアミオダロン塩酸塩"
+  },
+  {
+    "other_id": 13605,
+    "other_brand": "メサペイン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nスニチニブ、ダサチニブ、マプロチリン等\n抗不整脈剤\nジソピラミド、プロカインアミド、アミオダロン、ソタロール等\n抗精神病剤"
+  },
+  {
+    "other_id": 13692,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミド\nプロカインアミド等\nClassⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 13693,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミド\nプロカインアミド等\nClassⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 13694,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミド\nプロカインアミド等\nClassⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 13935,
+    "other_brand": "メーゼント錠0.25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "クラスⅠa抗不整脈剤\nキニジン\n（硫酸キニジン）\nプロカインアミド\n（アミサリン）\nジソピラミド\n（リスモダン）\nシベンゾリン\n（シベノール）\nピルメノール\n（ピメノール）\nクラスⅢ抗不整脈剤\nアミオダロン\n（アンカロン）\nソタロール\n（ソタコール）\nニフェカラント\n（シンビット）\nべプリジル塩酸塩\n（ベプリコール）"
+  },
+  {
+    "other_id": 14292,
+    "other_brand": "ライゾデグ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 14454,
+    "other_brand": "ラベタロール塩酸塩錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nジソピラミド\nプロカインアミド等"
+  },
+  {
+    "other_id": 14572,
+    "other_brand": "ランジオロール塩酸塩点滴静注用50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミド\nプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン\nニフェカラント等"
+  },
+  {
+    "other_id": 14591,
+    "other_brand": "ランタス注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 14592,
+    "other_brand": "ランタス注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 14593,
+    "other_brand": "ランタス注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 14594,
+    "other_brand": "ランタスXR注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 14610,
+    "other_brand": "リアメット配合錠",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nキニーネ\nクラスIa、クラスIIIの抗不整脈剤\nジソピラミド\nプロカインアミド\nキニジン\nアミオダロン\nソタロール等\n抗精神病薬\nピモジド\nクロルプロマジン\nハロペリドール等\n抗うつ剤\nアミトリプチリン\nイミプラミン等\nマクロライド系抗菌剤\nエリスロマイシン等\nフルオロキノロン系抗菌剤\nモキシフロキサシン等\nアゾール系抗真菌剤\nフルコナゾール等\n等"
+  },
+  {
+    "other_id": 4339,
+    "other_brand": "クエン酸「ヤマゼン」",
+    "interaction_type": "contraindicated",
+    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+  },
+  {
+    "other_id": 8872,
+    "other_brand": "トレミフェン錠40mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+  },
+  {
+    "other_id": 13939,
+    "other_brand": "モキシフロキサシン点眼液0.5%「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+  },
+  {
+    "other_id": 767,
+    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射剤）\nアンカロン注"
+  },
+  {
+    "other_id": 769,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射剤）\nアンカロン注"
+  },
+  {
+    "other_id": 770,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射剤）\nアンカロン注"
+  },
+  {
+    "other_id": 1370,
+    "other_brand": "アンカロン注150",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射剤）\nアンカロン注"
+  },
+  {
+    "other_id": 1371,
+    "other_brand": "アンカロン錠100",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射剤）\nアンカロン注"
+  },
+  {
+    "other_id": 17260,
+    "other_brand": "酒石酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 6155,
+    "other_brand": "ジレニアカプセル0.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "フィンゴリモド塩酸塩\nイムセラ\nジレニア"
+  },
+  {
+    "other_id": 11082,
+    "other_brand": "フィンゴリモドカプセル0.5mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "フィンゴリモド塩酸塩\nイムセラ\nジレニア"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "シポニモドフマル酸塩\nメーゼント"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "シポニモドフマル酸塩\nメーゼント"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "シポニモドフマル酸塩\nメーゼント"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "シポニモドフマル酸塩\nメーゼント"
+  },
+  {
+    "other_id": 102,
+    "other_brand": "アクチット輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 103,
+    "other_brand": "アクチット輸液（200mLバッグ）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 792,
+    "other_brand": "アミニック輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 802,
+    "other_brand": "アミノレバンEN配合散",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 807,
+    "other_brand": "アミユー配合顆粒",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 1291,
+    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 1667,
+    "other_brand": "イノソリッド配合経腸用半固形剤",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 1674,
+    "other_brand": "イノラス配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 1783,
+    "other_brand": "イムフレックスCPD-MAP",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 2259,
+    "other_brand": "エクストラニール腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 2606,
+    "other_brand": "エネーボ配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 2895,
+    "other_brand": "エレメンミック注",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 2896,
+    "other_brand": "エレンタール配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 2897,
+    "other_brand": "エレンタールP乳幼児用配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 2901,
+    "other_brand": "エンシュア・リキッド",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 2902,
+    "other_brand": "エンシュア・H",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4056,
+    "other_brand": "カーボスター透析剤・L（6L）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4058,
+    "other_brand": "カーボスター透析剤・M",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4059,
+    "other_brand": "カーボスター透析剤・P（袋）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4065,
+    "other_brand": "カーミパック生理食塩液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4069,
+    "other_brand": "カーミパック生理食塩液L",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4072,
+    "other_brand": "カーミパックACD−A液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4073,
+    "other_brand": "カーミC リューコトラップ MAP",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4074,
+    "other_brand": "カーミCA液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4254,
+    "other_brand": "キンダリー透析剤5E",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4267,
+    "other_brand": "キンダリー透析剤AF5号(6L)",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4269,
+    "other_brand": "キンダリー透析剤AF5P号",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4487,
+    "other_brand": "クリニザルツ輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 5362,
+    "other_brand": "サブパック血液ろ過用補充液−Bi",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 5403,
+    "other_brand": "サルプレップ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 5623,
+    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6190,
+    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6204,
+    "other_brand": "スチックゼノールA",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6448,
+    "other_brand": "セパセルインテグラC−MAP",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6449,
+    "other_brand": "セパセルインテグラCA",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6852,
+    "other_brand": "ソリタ−T配合顆粒2号",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6853,
+    "other_brand": "ソリタ−T配合顆粒3号",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6854,
+    "other_brand": "ソリタ−T1号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6856,
+    "other_brand": "ソリタ−T2号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6858,
+    "other_brand": "ソリタ−T3号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6860,
+    "other_brand": "ソリタ−T3号G輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6862,
+    "other_brand": "ソリタ−T4号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6864,
+    "other_brand": "ソリタックス−H輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6915,
+    "other_brand": "ソルバノン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 7352,
+    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 7370,
+    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 7388,
+    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 7391,
+    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 7614,
+    "other_brand": "ツインパル輸液（500mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 7616,
+    "other_brand": "ツインラインNF配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 8204,
+    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 8206,
+    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 8879,
+    "other_brand": "トレーランG液50g",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 9436,
+    "other_brand": "ニコペリック腹膜透析液（1500mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 9601,
+    "other_brand": "ネオアミユー輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 9844,
+    "other_brand": "ハルトマン−G3号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 9851,
+    "other_brand": "ハルトマンD液「フソー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 9898,
+    "other_brand": "バイフィル透析剤",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10153,
+    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10154,
+    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10194,
+    "other_brand": "パレセーフ輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10195,
+    "other_brand": "パレプラス輸液（500mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10500,
+    "other_brand": "ビカーボン輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10760,
+    "other_brand": "ピシバニール注射用1KE",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10905,
+    "other_brand": "ピーエヌツイン−1号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 11855,
+    "other_brand": "プリミーフォート経腸用液6",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 12013,
+    "other_brand": "プロクトセディル軟膏",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 12219,
+    "other_brand": "ヘパンED配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 12605,
+    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 12613,
+    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 13012,
+    "other_brand": "ボルヒール組織接着用（0.5mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 13292,
+    "other_brand": "ミオテクター冠血管注",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 13356,
+    "other_brand": "ミッドペリック135腹膜透析液1L",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 13369,
+    "other_brand": "ミッドペリックL135腹膜透析液1L",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 13390,
+    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 13895,
+    "other_brand": "メルスモン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14019,
+    "other_brand": "モリアミンS注",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14020,
+    "other_brand": "モリプロンF輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14192,
+    "other_brand": "ユエキンキープ3号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14295,
+    "other_brand": "ラエンネック",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14312,
+    "other_brand": "ラクトリンゲル液′′フソー′′",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14319,
+    "other_brand": "ラクトリンゲルS注「フソー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14365,
+    "other_brand": "ラコールNF配合経腸用半固形剤",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14366,
+    "other_brand": "ラコールNF配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14824,
+    "other_brand": "リナセートD輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14826,
+    "other_brand": "リナセートF輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14840,
+    "other_brand": "リハビックス−K1号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14947,
+    "other_brand": "リプラス1号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14950,
+    "other_brand": "リプラス3号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 15014,
+    "other_brand": "リンゲル液「フソー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 15046,
+    "other_brand": "リンパック透析剤TA1",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 15047,
+    "other_brand": "リンパック透析剤TA3",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 15048,
+    "other_brand": "リンパック透析剤TA5",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 15138,
+    "other_brand": "レギュニール HCa 1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 15150,
+    "other_brand": "レギュニール LCa 1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 15997,
+    "other_brand": "ワンパル1号輸液（800mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16012,
+    "other_brand": "ヴィーン3G輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16013,
+    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16015,
+    "other_brand": "ヴィーンD輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16016,
+    "other_brand": "ヴィーンD輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16018,
+    "other_brand": "ヴィーンF輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16098,
+    "other_brand": "乳糖水和物「ホエイ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16567,
+    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16572,
+    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16575,
+    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 16948,
+    "other_brand": "白色ワセリン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17210,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17211,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17212,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17213,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17214,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17215,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17216,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17217,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17218,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17219,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17220,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17221,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17222,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17223,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17224,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17225,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17226,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17227,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17228,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17229,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17230,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17231,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17232,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17233,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17234,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17235,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17236,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17237,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17238,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17239,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17240,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17241,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17242,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17243,
+    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17523,
+    "other_brand": "10%EL−3号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17584,
+    "other_brand": "ACD-A液 250mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17585,
+    "other_brand": "AK−ソリタ透析剤・DL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17586,
+    "other_brand": "AK−ソリタ透析剤・DP",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17587,
+    "other_brand": "AK−ソリタ透析剤・FL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17588,
+    "other_brand": "AK−ソリタ透析剤・FP",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17602,
+    "other_brand": "Dドライ透析剤2.5S",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17603,
+    "other_brand": "Dドライ透析剤2.75S",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17604,
+    "other_brand": "Dドライ透析剤3.0S",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17614,
+    "other_brand": "EL−3号輸液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17618,
+    "other_brand": "ESポリタミン配合顆粒",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17631,
+    "other_brand": "JMS ACD-A液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17632,
+    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 17718,
+    "other_brand": "T&Tオルファクトメーター",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン"
+  },
+  {
+    "other_id": 5055,
+    "other_brand": "ケラチナミンコーワクリーム20％",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 16428,
+    "other_brand": "尿素「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 16430,
+    "other_brand": "尿素クリーム10％「SUN」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 16432,
+    "other_brand": "尿素クリーム20％「SUN」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "ラスクフロキサシン塩酸塩（錠剤）\nラスビック"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "ラスクフロキサシン塩酸塩（錠剤）\nラスビック"
+  },
+  {
+    "other_id": 14938,
+    "other_brand": "リファンピシンカプセル150mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "不整脈用剤\nキニジン硫酸塩水和物メキシレチン塩酸塩ジソピラミドプロパフェノン塩酸塩ピルシカイニド塩酸塩水和物β遮断剤\nメトプロロール酒石酸塩プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 15101,
+    "other_brand": "ルムジェブ注カート",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 15104,
+    "other_brand": "ルムジェブ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩\nジソピラミド\nピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 15111,
+    "other_brand": "ルリッド錠150",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA抗不整脈薬\nキニジン\nジソピラミド\nクラスIII抗不整脈薬\nアミオダロン\nソタロール等\n,"
+  },
+  {
+    "other_id": 15332,
+    "other_brand": "レベミル注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 15333,
+    "other_brand": "レベミル注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 15556,
+    "other_brand": "ロキシスロマイシン錠150mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA抗不整脈薬\nキニジン\nジソピラミド\nクラスIII抗不整脈薬\nアミオダロン\nソタロール等\n,"
+  },
+  {
+    "other_id": 15557,
+    "other_brand": "ロキシスロマイシン錠150mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA抗不整脈薬\nキニジン\nジソピラミド\nクラスIII抗不整脈薬\nアミオダロン\nソタロール等\n,"
+  },
+  {
+    "other_id": 15878,
+    "other_brand": "ロプレソール錠20mg",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミド\nプロカインアミド等\nClassⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 15880,
+    "other_brand": "ロプレソールSR錠120mg",
+    "interaction_type": "caution",
+    "source_text": "ClassⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nClassⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 15939,
+    "other_brand": "ローガン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "クラスI抗不整脈剤\nジソピラミド\nプロカインアミド塩酸塩\nアジマリン\n等"
+  },
+  {
+    "other_id": 16020,
+    "other_brand": "ヴォトリエント錠200mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈薬\nキニジンプロカインアミドジソピラミド等\nQT間隔を延長させる可能性のある薬剤\nクラリスロマイシンイミプラミンピモジド等"
+  },
+  {
+    "other_id": 16332,
+    "other_brand": "小児用ミケラン細粒0.2%",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nリン酸ジソピラミド\nプロカインアミド塩酸塩等"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピンイグラチモドイトラコナゾールイマチニブオンダンセトロンキニジンクエチアピンジソピラミドニソルジピンニフェジピンフェロジピンプラジカンテルベラパミルモンテルカスト　等副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合:シアリス、ザルティア）シルデナフィルバルデナフィル"
+  }
+]

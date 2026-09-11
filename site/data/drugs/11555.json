@@ -1,0 +1,124 @@
+{
+  "id": 11555,
+  "brand_name": "フロリードゲル経口用2%",
+  "generic_name": "ミコナゾール",
+  "therapeutic_classification": "口腔・食道カンジダ症治療剤",
+  "indications": "カンジダ属による下記感染症\n口腔カンジダ症、食道カンジダ症",
+  "dose_admin": "〈口腔カンジダ症〉\n通常、成人にはミコナゾールとして1日200～400mg（ミコナゾールゲル10～20g）を4回（毎食後および就寝前）に分け、口腔内にまんべんなく塗布する。なお、病巣が広範囲に存在する場合には、口腔内にできるだけ長く含んだ後、嚥下する。\n〈食道カンジダ症〉\n通常、成人にはミコナゾールとして1日200～400mg（ミコナゾールゲル10～20g）を4回（毎食後および就寝前）に分け、口腔内に含んだ後、少量ずつ嚥下する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nワルファリンカリウム、ピモジド、キニジン硫酸塩水和物、トリアゾラム、シンバスタチン、アゼルニジピン、オルメサルタン メドキソミル・アゼルニジピン、ニソルジピン、ブロナンセリン、エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン、ジヒドロエルゴタミンメシル酸塩、リバーロキサバン、アスナプレビル、ロミタピドメシル酸塩、ルラシドン塩酸塩を投与中の患者\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤投与時の注意\n眼科用として、角膜、結膜には投与しないこと。\n義歯装着患者では十分な効果が得られにくい場合があるので、よく義歯を洗浄し、義歯にも塗布させること。\n薬剤投与後の注意\n本剤投与後は含嗽、食物摂取を控えさせること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の作用を増強することがある",
+    "これらの薬剤による骨髄抑制等の副作用が増強するおそれがある",
+    "シクロスポリンの血中濃度が上昇することがある",
+    "これらの薬剤の血中濃度が上昇するおそれがある",
+    "ミコナゾール又はこれらの薬剤の血中濃度が上昇するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ワルファリンカリウム\nワーファリン",
+      "clinical_symptom_action": "ワルファリンの作用が増強し、重篤な出血あるいは著しいINR上昇があらわれることがある。また、併用中止後も、ワルファリンの作用が遷延し重篤な出血を来したとの報告もある。患者がワルファリンの治療を必要とする場合は、ワルファリンの治療を優先し、本剤を投与しないこと。",
+      "mechanism_risk_factor": "ミコナゾールがワルファリンの代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ピモジド\nオーラップ",
+      "clinical_symptom_action": "ピモジドによるQT延長、心室性不整脈（torsades de pointesを含む）等の重篤な心臓血管系の副作用があらわれるおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "キニジン硫酸塩水和物\nキニジン硫酸塩",
+      "clinical_symptom_action": "キニジンによるQT延長等があらわれるおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トリアゾラム\nハルシオン",
+      "clinical_symptom_action": "トリアゾラムの作用の増強及び作用時間の延長があらわれるおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シンバスタチン\nリポバス",
+      "clinical_symptom_action": "シンバスタチンによる横紋筋融解症があらわれるおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アゼルニジピン\nカルブロック\nオルメサルタン メドキソミル・アゼルニジピン\nレザルタス配合錠\nニソルジピン\nブロナンセリン\nロナセン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン配合錠\nジヒドロエルゴタミンメシル酸塩",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇し、血管攣縮等の重篤な副作用があらわれるおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リバーロキサバン\nイグザレルト",
+      "clinical_symptom_action": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アスナプレビル\nスンベプラ",
+      "clinical_symptom_action": "アスナプレビルの血中濃度が上昇し、肝胆道系の副作用が発現又は重症化するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ロミタピドメシル酸塩\nジャクスタピッド",
+      "clinical_symptom_action": "ロミタピドメシル酸塩の血中濃度が著しく上昇するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ルラシドン塩酸塩\nラツーダ",
+      "clinical_symptom_action": "ルラシドン塩酸塩の血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口血糖降下剤\nグリベンクラミド\nグリクラジド\nアセトヘキサミド　等",
+      "clinical_symptom_action": "これらの薬剤の作用を増強することがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン\nカルバマゼピン",
+      "clinical_symptom_action": "これらの薬剤の作用を増強することがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドセタキセル\nパクリタキセル\nイリノテカン塩酸塩水和物",
+      "clinical_symptom_action": "これらの薬剤による骨髄抑制等の副作用が増強するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "シクロスポリンの血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タクロリムス水和物\nアトルバスタチン\nビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩\nビノレルビン酒石酸塩\nビンブラスチン硫酸塩　等\nジヒドロピリジン系カルシウム拮抗剤\nニフェジピン\nアムロジピンベシル酸塩\nシルニジピン　等\nベラパミル塩酸塩\nシルデナフィルクエン酸塩\nアルプラゾラム\nミダゾラム\nブロチゾラム\nメチルプレドニゾロン\nセレギリン塩酸塩\nエバスチン\nイマチニブメシル酸塩\nジソピラミド\nシロスタゾール",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールがこれらの薬剤の代謝酵素であるCYPを阻害することによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nリトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物　等",
+      "clinical_symptom_action": "ミコナゾール又はこれらの薬剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "ミコナゾールとこれらの薬剤との、代謝における競合的阻害作用によると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

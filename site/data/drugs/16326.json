@@ -1,0 +1,37 @@
+{
+  "id": 16326,
+  "brand_name": "安息香酸Naカフェイン注100mg「フソー」",
+  "generic_name": "安息香酸ナトリウムカフェイン注射液",
+  "therapeutic_classification": "中枢興奮・鎮痛剤",
+  "indications": "ねむけ、倦怠感\n血管拡張性及び脊椎穿刺後頭痛",
+  "dose_admin": "安息香酸ナトリウムカフェインとして、通常成人1回0.1～0.4gを1日1～3回皮下、筋肉内又は静脈内注射する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤投与時の注意\n皮下・筋肉内注射時\n組織・神経などへの影響を避けるため、下記の点に配慮すること。\n神経走行部位を避けるよう注意すること。\n繰返し注射する場合には、注射部位を変え、たとえば左右交互に注射するなど配慮すること。なお、乳児、幼児、小児には連用しないことが望ましい。\n注射針を刺入したとき、激痛を訴えたり、血液の逆流をみた場合は、直ちに針を抜き、部位を変えて注射すること。\n静脈内注射時\nできるだけゆっくり行うこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "過度の中枢神経刺激作用があらわれることがある",
+    "頻脈、血圧上昇等があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キサンチン系薬剤\nアミノフィリン水和物\nジプロフィリン\nテオフィリン等\n中枢神経興奮薬",
+      "clinical_symptom_action": "過度の中枢神経刺激作用があらわれることがある。",
+      "mechanism_risk_factor": "併用薬の代謝・排泄を遅延させることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤",
+      "clinical_symptom_action": "頻脈、血圧上昇等があらわれることがある。",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "過度の中枢神経刺激作用があらわれることがある。",
+      "mechanism_risk_factor": "カフェインの代謝・排泄を遅延させることがある。"
+    }
+  ],
+  "facility_notes": ""
+}

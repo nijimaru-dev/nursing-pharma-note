@@ -1,16 +1,14 @@
 {
   "id": 8,
-  "brand_name": "プルゼニド",
-  "generic_name": "センノシド",
-  "therapeutic_classification": "下剤・便秘用薬",
-  "indications": "便秘症",
-  "dose_admin": "通常成人1日1回12～24mgを就寝前に経口投与する。",
-  "contraindications": "急性腹症が疑われる患者、痙攣性便秘の患者",
-  "application_precautions": "連用により耐性を生じることがある。漫然と長期投与しない。",
-  "serious_adverse_events": "記載なし",
-  "observation_points": [
-    "記載なし"
-  ],
+  "brand_name": "〔東洋〕七物降下湯エキス細粒",
+  "generic_name": "七物降下湯",
+  "therapeutic_classification": "漢方製剤",
+  "indications": "身体虚弱の傾向のあるものの次の諸症：高血圧に伴う随伴症状（のぼせ、肩こり、耳なり、頭重）",
+  "dose_admin": "通常1日3回 1回2.5g（1包）を空腹時経口投与年令症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [],
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

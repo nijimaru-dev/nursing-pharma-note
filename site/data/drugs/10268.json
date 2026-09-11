@@ -1,0 +1,18 @@
+{
+  "id": 10268,
+  "brand_name": "パロノセトロン静注0.75mg/2mLシリンジ「NP」",
+  "generic_name": "パロノセトロン塩酸塩",
+  "therapeutic_classification": "5-HT\n3\n受容体拮抗型制吐剤",
+  "indications": "抗悪性腫瘍剤（シスプラチン等）投与に伴う消化器症状（悪心、嘔吐）（遅発期を含む）",
+  "dose_admin": "通常、成人にはパロノセトロンとして0.75mgを1日1回静注又は点滴静注する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤投与時の注意\n本剤は、30秒以上かけて緩徐に投与すること。",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）\nショック、アナフィラキシー（そう痒感、発赤、胸部苦悶感、呼吸困難、血圧低下等）があらわれることがある。",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "ショック、アナフィラキシー（そう痒感、発赤、胸部苦悶感、呼吸困難、血圧低下等）があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

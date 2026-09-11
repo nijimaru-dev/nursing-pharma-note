@@ -1,0 +1,56 @@
+{
+  "id": 3775,
+  "brand_name": "カルスロット錠5",
+  "generic_name": "マニジピン塩酸塩錠",
+  "therapeutic_classification": "持続性Ca拮抗降圧剤",
+  "indications": "高血圧症",
+  "dose_admin": "通常、成人にはマニジピン塩酸塩として10～20mgを1日1回朝食後に経口投与する。ただし、1日5mgから投与を開始し、必要に応じ漸次増量する。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "過度の血圧低下による一過性の意識消失、脳梗塞等（いずれも頻度不明）\n無顆粒球症、血小板減少（いずれも頻度不明）\n心室性期外収縮、上室性期外収縮（いずれも頻度不明）\n紅皮症（頻度不明）",
+  "observation_points": [
+    "過度の血圧低下による一過性の意識消失、脳梗塞等（いずれも頻度不明）",
+    "無顆粒球症、血小板減少（いずれも頻度不明）",
+    "心室性期外収縮、上室性期外収縮（いずれも頻度不明）",
+    "紅皮症（頻度不明）",
+    "相互に作用を増強するおそれがある",
+    "他のカルシウム拮抗剤（ニフェジピン等）がジゴキシンの血中濃度を上昇させることが報告されている",
+    "他のカルシウム拮抗剤（ニフェジピン等）の作用が増強することが報告されている",
+    "本剤の作用が減弱することがある",
+    "本剤の血中濃度が上昇することが報告されている"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他の降圧剤",
+      "clinical_symptom_action": "相互に作用を増強するおそれがある。",
+      "mechanism_risk_factor": "相加的あるいは相乗的に作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "他のカルシウム拮抗剤（ニフェジピン等）がジゴキシンの血中濃度を上昇させることが報告されている。",
+      "mechanism_risk_factor": "ジゴキシンの排泄が阻害され、血中濃度が上昇することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "他のカルシウム拮抗剤（ニフェジピン等）の作用が増強することが報告されている。",
+      "mechanism_risk_factor": "シメチジンがカルシウム拮抗剤の肝での代謝を抑制すること、又は、シメチジンが胃酸分泌を抑制して消化管のpHを上昇させ、カルシウム拮抗剤の吸収を増加させることが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "リファンピシンが肝薬物代謝酵素を誘導し、カルシウム拮抗剤の代謝を促進することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することが報告されている。",
+      "mechanism_risk_factor": "グレープフルーツ中の成分が、本剤の肝薬物代謝酵素であるCYP3A4を阻害することが考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

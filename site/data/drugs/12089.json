@@ -1,0 +1,36 @@
+{
+  "id": 12089,
+  "brand_name": "プロブコール錠250mg「サワイ」",
+  "generic_name": "プロブコール",
+  "therapeutic_classification": "高脂血症治療剤",
+  "indications": "高脂血症（家族性高コレステロール血症、黄色腫を含む。）",
+  "dose_admin": "通常、成人にはプロブコールとして1日量500mgを2回に分けて食後に経口投与する。なお、年齢、症状により適宜増減するが、家族性高コレステロール血症の場合は、プロブコールとして1日量1,000mgまで増量することができる。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n重篤な心室性不整脈（多源性心室性期外収縮の多発）のある患者［より重篤な心室性不整脈（Torsade de pointes）を起こすおそれがある。］\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "心室性不整脈（Torsade de pointes）、失神（いずれも頻度不明）\n著明なQT延長に伴う心室性不整脈（Torsade de pointes）、失神があらわれることがある。\n消化管出血、末梢神経炎（いずれも頻度不明）\n横紋筋融解症（頻度不明）\n筋肉痛、脱力感、CK上昇、血中及び尿中ミオグロビン上昇を特徴とする横紋筋融解症があらわれることがある。",
+  "observation_points": [
+    "心室性不整脈（Torsade de pointes）、失神（いずれも頻度不明）",
+    "著明なQT延長に伴う心室性不整脈（Torsade de pointes）、失神があらわれることがある",
+    "消化管出血、末梢神経炎（いずれも頻度不明）",
+    "横紋筋融解症（頻度不明）",
+    "筋肉痛、脱力感、CK上昇、血中及び尿中ミオグロビン上昇を特徴とする横紋筋融解症があらわれることがある",
+    "シクロスポリンの作用が減弱するおそれがある",
+    "HDL-コレステロールが著しく低下したとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "シクロスポリンの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "機序は不明であるが、シクロスポリンの血中濃度が低下したとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロフィブラート",
+      "clinical_symptom_action": "HDL-コレステロールが著しく低下したとの報告がある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

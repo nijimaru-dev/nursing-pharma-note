@@ -1,0 +1,28 @@
+{
+  "id": 5393,
+  "brand_name": "サリチル酸ナトリウム静注0.5g「日新」",
+  "generic_name": "サリチル酸ナトリウム",
+  "therapeutic_classification": "神経痛治療剤",
+  "indications": "症候性神経痛",
+  "dose_admin": "サリチル酸ナトリウムとして通常成人1回0.5～1g（本剤10～20mL）を1日1～数回静脈内に注射する。なお、年令・症状により適宜増減する。",
+  "contraindications": "本剤の成分又はサリチル酸系化合物（アスピリン等）に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性\n,",
+  "application_precautions": "薬剤投与時の注意\n投与速度\nできるだけゆっくり投与すること。",
+  "serious_adverse_events": "ショック（頻度不明）\n胸内苦悶、血圧低下、顔面蒼白、脈拍異常、呼吸困難等があらわれることがある。\n皮膚粘膜眼症候群（Stevens-Johnson症候群）、剥脱性皮膚炎（いずれも頻度不明）\n再生不良性貧血（頻度不明）",
+  "observation_points": [
+    "ショック（頻度不明）",
+    "胸内苦悶、血圧低下、顔面蒼白、脈拍異常、呼吸困難等があらわれることがある",
+    "皮膚粘膜眼症候群（Stevens-Johnson症候群）、剥脱性皮膚炎（いずれも頻度不明）",
+    "再生不良性貧血（頻度不明）",
+    "これら薬剤の作用を増強するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系抗凝血剤\nワルファリン\n糖尿病用剤\nインスリン製剤\nトルブタミド等",
+      "clinical_symptom_action": "これら薬剤の作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤によりクマリン系抗凝血剤や糖尿病用剤が血漿蛋白から遊離することが考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4643,
+  "brand_name": "クロマイ腟錠100mg",
+  "generic_name": "クロラムフェニコール",
+  "therapeutic_classification": "抗生物質製剤",
+  "indications": "〈適応菌種〉\nクロラムフェニコール感性菌\n〈適応症〉\n細菌性腟炎",
+  "dose_admin": "1回1錠1日1回局所に挿入する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤投与時の注意\n本剤は水にあうと吸湿し、崩壊するので、ぬれたピンセット等で取扱わないこと。",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）\n呼吸困難、発疹、血圧低下等の異常が認められた場合には投与を中止し、適切な処置を行うこと。",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "呼吸困難、発疹、血圧低下等の異常が認められた場合には投与を中止し、適切な処置を行うこと"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

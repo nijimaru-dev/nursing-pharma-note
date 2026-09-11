@@ -1,0 +1,2600 @@
+[
+  {
+    "other_id": 2290,
+    "other_brand": "エジュラント錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14619,
+    "other_brand": "リカムビス水懸筋注600mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 7956,
+    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7960,
+    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7961,
+    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7962,
+    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7965,
+    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7966,
+    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7971,
+    "other_brand": "テオロング錠50mg",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン"
+  },
+  {
+    "other_id": 7112,
+    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7115,
+    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7122,
+    "other_brand": "タクロリムスカプセル5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7124,
+    "other_brand": "タクロリムス軟膏0.1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7125,
+    "other_brand": "タクロリムス軟膏0.1％「PP」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7126,
+    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7128,
+    "other_brand": "タクロリムス錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7138,
+    "other_brand": "タクロリムス錠5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7140,
+    "other_brand": "タクロリムス錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 7298,
+    "other_brand": "タリムス点眼液0.1%",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン\nメチルジゴキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン\nメチルジゴキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン\nメチルジゴキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン\nメチルジゴキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン\nメチルジゴキシン"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン\nメチルジゴキシン"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 2883,
+    "other_brand": "エルロチニブ錠25mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 2884,
+    "other_brand": "エルロチニブ錠150mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 3759,
+    "other_brand": "カルケンスカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5062,
+    "other_brand": "ゲフィチニブ錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5063,
+    "other_brand": "ゲフィチニブ錠250mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5064,
+    "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5065,
+    "other_brand": "ゲフィチニブ錠250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 5880,
+    "other_brand": "ジカディア錠150mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 6331,
+    "other_brand": "スプリセル錠20mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7094,
+    "other_brand": "タイケルブ錠250mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7156,
+    "other_brand": "タシグナカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7248,
+    "other_brand": "タブレクタ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7310,
+    "other_brand": "タルセバ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7311,
+    "other_brand": "タルセバ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7417,
+    "other_brand": "ダサチニブ錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7419,
+    "other_brand": "ダサチニブ錠20mg「BMSH」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 12943,
+    "other_brand": "ボシュリフ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "イトラコナゾール\nチロシンキナーゼ阻害剤\nゲフィチニブ\nボスチニブ水和物\nニロチニブ塩酸塩水和物\nエルロチニブ塩酸塩\nアカラブルチニブ\nセリチニブ\nダサチニブ水和物\nダコミチニブ水和物\nラパチニブトシル酸塩水和物\nカプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 17280,
+    "other_brand": "酸化マグネシウム「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17282,
+    "other_brand": "酸化マグネシウム「JG」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17283,
+    "other_brand": "酸化マグネシウム「NP」原末",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17285,
+    "other_brand": "酸化マグネシウム原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17290,
+    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17292,
+    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17316,
+    "other_brand": "重カマ「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17322,
+    "other_brand": "重質酸化マグネシウム　シオエ",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17324,
+    "other_brand": "重質酸化マグネシウム「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 17327,
+    "other_brand": "重質酸化マグネシウム「東海」",
+    "interaction_type": "caution",
+    "source_text": "酸化マグネシウム"
+  },
+  {
+    "other_id": 15193,
+    "other_brand": "レズロック錠200mg",
+    "interaction_type": "caution",
+    "source_text": "ベルモスジルメシル酸塩"
+  },
+  {
+    "other_id": 13626,
+    "other_brand": "メソトレキセート注射液50mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13627,
+    "other_brand": "メソトレキセート注射液5mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13628,
+    "other_brand": "メソトレキセート点滴静注液200mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13630,
+    "other_brand": "メソトレキセート錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13681,
+    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13685,
+    "other_brand": "メトトレキサート錠2mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13687,
+    "other_brand": "メトトレキサート錠2mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 14613,
+    "other_brand": "リウマトレックスカプセル2mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16597,
+    "other_brand": "注射用メソトレキセート50mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16598,
+    "other_brand": "注射用メソトレキセート5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nクマリン系抗凝固剤\nワルファリンカリウム\n,"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nクマリン系抗凝固剤\nワルファリンカリウム\n,"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nクマリン系抗凝固剤\nワルファリンカリウム\n,"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nクマリン系抗凝固剤\nワルファリンカリウム\n,"
+  },
+  {
+    "other_id": 1529,
+    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 1531,
+    "other_brand": "イグザレルト細粒分包10mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 1533,
+    "other_brand": "イグザレルト錠10mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 1535,
+    "other_brand": "イグザレルト錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 1536,
+    "other_brand": "イグザレルトOD錠10mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 8896,
+    "other_brand": "トロンビン液モチダ ソフトボトル5千",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 8898,
+    "other_brand": "トロンビン経口・外用剤5千「F」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 11750,
+    "other_brand": "プラザキサカプセル75mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 14906,
+    "other_brand": "リバーロキサバン錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 14907,
+    "other_brand": "リバーロキサバン錠10mg「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 14910,
+    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 14913,
+    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 14914,
+    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 17025,
+    "other_brand": "経口用トロンビン細粒0.5万単位「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 17026,
+    "other_brand": "経口用トロンビン細粒5千単位",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n血液凝固阻止剤\nヘパリン製剤\nダナパロイドナトリウム\n第Xa因子阻害剤\nリバーロキサバン等\n抗トロンビン剤\nダビガトランエテキシラートメタンスルホン酸塩等\nトロンボモデュリン アルファ等\n,"
+  },
+  {
+    "other_id": 1542,
+    "other_brand": "イコサペント酸エチルカプセル300mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 1544,
+    "other_brand": "イコサペント酸エチルカプセル300mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 1545,
+    "other_brand": "イコサペント酸エチルカプセル300mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 1546,
+    "other_brand": "イコサペント酸エチルカプセル300mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 1548,
+    "other_brand": "イコサペント酸エチル粒状カプセル300mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 1549,
+    "other_brand": "イコサペント酸エチル粒状カプセル300mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 1550,
+    "other_brand": "イコサペント酸エチル粒状カプセル300mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 1551,
+    "other_brand": "イコサペント酸エチル粒状カプセル300mg「TC」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 2658,
+    "other_brand": "エパデールカプセル300",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 2659,
+    "other_brand": "エパデールEMカプセル2g",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 2660,
+    "other_brand": "エパデールS300",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3069,
+    "other_brand": "オザグレルナトリウム点滴静注液40mg「JD」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3071,
+    "other_brand": "オザグレルNa注射液20mgシリンジ「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3074,
+    "other_brand": "オザグレルNa注射用20mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3077,
+    "other_brand": "オザグレルNa注80mgシリンジ「IP」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3078,
+    "other_brand": "オザグレルNa点滴静注液20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3084,
+    "other_brand": "オザグレルNa点滴静注20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3085,
+    "other_brand": "オザグレルNa点滴静注20mg「IP」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3093,
+    "other_brand": "オザグレルNa点滴静注80mgバッグ「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3094,
+    "other_brand": "オザグレルNa点滴静注80mgバッグ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3095,
+    "other_brand": "オザグレルNa点滴静注80mg/100mLバッグ「IP」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3097,
+    "other_brand": "オザグレルNa静注液20mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 3662,
+    "other_brand": "カタクロット注射液40mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4563,
+    "other_brand": "クロピドグレル錠25mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4565,
+    "other_brand": "クロピドグレル錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4567,
+    "other_brand": "クロピドグレル錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4570,
+    "other_brand": "クロピドグレル錠25mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4572,
+    "other_brand": "クロピドグレル錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4573,
+    "other_brand": "クロピドグレル錠25mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4574,
+    "other_brand": "クロピドグレル錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4575,
+    "other_brand": "クロピドグレル錠25mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 4581,
+    "other_brand": "クロピドグレル錠25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5404,
+    "other_brand": "サルポグレラート塩酸塩錠50mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5406,
+    "other_brand": "サルポグレラート塩酸塩錠50mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5408,
+    "other_brand": "サルポグレラート塩酸塩錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5410,
+    "other_brand": "サルポグレラート塩酸塩錠50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5412,
+    "other_brand": "サルポグレラート塩酸塩錠50mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5417,
+    "other_brand": "サルポグレラート塩酸塩錠50mg「TSU」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5707,
+    "other_brand": "シロスタゾール錠50mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5709,
+    "other_brand": "シロスタゾール錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5713,
+    "other_brand": "シロスタゾール錠50mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5725,
+    "other_brand": "シロスタゾールOD錠50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5729,
+    "other_brand": "シロスタゾールOD錠50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 5730,
+    "other_brand": "シロスタゾールOD錠50mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 7542,
+    "other_brand": "チクロピジン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 7543,
+    "other_brand": "チクロピジン塩酸塩錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 10157,
+    "other_brand": "パナルジン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 11964,
+    "other_brand": "プレタール散20％",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 11965,
+    "other_brand": "プレタールOD錠50mg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 12023,
+    "other_brand": "プロサイリン錠20",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 12456,
+    "other_brand": "ベラサスLA錠60μg",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 12461,
+    "other_brand": "ベラプロストナトリウム錠20μg「JG」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 12462,
+    "other_brand": "ベラプロストNa錠20μg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 12463,
+    "other_brand": "ベラプロストNa錠20μg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 12466,
+    "other_brand": "ベラプロストNa錠20μg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "血小板凝集抑制作用を有する薬剤\nチクロピジン塩酸塩\nシロスタゾール\nクロピドグレル硫酸塩\nトロンボキサン合成酵素阻害剤\nオザグレルナトリウム\nプロスタグランジンE\n1\n製剤、E\n1\n及びI\n2\n誘導体製剤\nベラプロストナトリウム等\nサルポグレラート塩酸塩\nイコサペント酸エチル等\n,"
+  },
+  {
+    "other_id": 102,
+    "other_brand": "アクチット輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 103,
+    "other_brand": "アクチット輸液（200mLバッグ）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 792,
+    "other_brand": "アミニック輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 802,
+    "other_brand": "アミノレバンEN配合散",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 807,
+    "other_brand": "アミユー配合顆粒",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 1291,
+    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 1667,
+    "other_brand": "イノソリッド配合経腸用半固形剤",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 1674,
+    "other_brand": "イノラス配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 1783,
+    "other_brand": "イムフレックスCPD-MAP",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2228,
+    "other_brand": "ウロナーゼ冠動注用12万単位",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2229,
+    "other_brand": "ウロナーゼ静注用6万単位",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2259,
+    "other_brand": "エクストラニール腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2606,
+    "other_brand": "エネーボ配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2895,
+    "other_brand": "エレメンミック注",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2896,
+    "other_brand": "エレンタール配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2897,
+    "other_brand": "エレンタールP乳幼児用配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2901,
+    "other_brand": "エンシュア・リキッド",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 2902,
+    "other_brand": "エンシュア・H",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4056,
+    "other_brand": "カーボスター透析剤・L（6L）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4058,
+    "other_brand": "カーボスター透析剤・M",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4059,
+    "other_brand": "カーボスター透析剤・P（袋）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4065,
+    "other_brand": "カーミパック生理食塩液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4069,
+    "other_brand": "カーミパック生理食塩液L",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4072,
+    "other_brand": "カーミパックACD−A液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4073,
+    "other_brand": "カーミC リューコトラップ MAP",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4074,
+    "other_brand": "カーミCA液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4254,
+    "other_brand": "キンダリー透析剤5E",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4267,
+    "other_brand": "キンダリー透析剤AF5号(6L)",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4269,
+    "other_brand": "キンダリー透析剤AF5P号",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 4487,
+    "other_brand": "クリニザルツ輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 5362,
+    "other_brand": "サブパック血液ろ過用補充液−Bi",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 5403,
+    "other_brand": "サルプレップ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 5623,
+    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6190,
+    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6204,
+    "other_brand": "スチックゼノールA",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6448,
+    "other_brand": "セパセルインテグラC−MAP",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6449,
+    "other_brand": "セパセルインテグラCA",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6852,
+    "other_brand": "ソリタ−T配合顆粒2号",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6853,
+    "other_brand": "ソリタ−T配合顆粒3号",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6854,
+    "other_brand": "ソリタ−T1号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6856,
+    "other_brand": "ソリタ−T2号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6858,
+    "other_brand": "ソリタ−T3号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6860,
+    "other_brand": "ソリタ−T3号G輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6862,
+    "other_brand": "ソリタ−T4号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6864,
+    "other_brand": "ソリタックス−H輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6915,
+    "other_brand": "ソルバノン",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 7352,
+    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 7370,
+    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 7388,
+    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 7391,
+    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 7614,
+    "other_brand": "ツインパル輸液（500mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 7616,
+    "other_brand": "ツインラインNF配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 8204,
+    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 8206,
+    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 8879,
+    "other_brand": "トレーランG液50g",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 9436,
+    "other_brand": "ニコペリック腹膜透析液（1500mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 9601,
+    "other_brand": "ネオアミユー輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 9844,
+    "other_brand": "ハルトマン−G3号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 9851,
+    "other_brand": "ハルトマンD液「フソー」",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 9898,
+    "other_brand": "バイフィル透析剤",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 10153,
+    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 10154,
+    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 10194,
+    "other_brand": "パレセーフ輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 10195,
+    "other_brand": "パレプラス輸液（500mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 10500,
+    "other_brand": "ビカーボン輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 10760,
+    "other_brand": "ピシバニール注射用1KE",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 10905,
+    "other_brand": "ピーエヌツイン−1号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 11855,
+    "other_brand": "プリミーフォート経腸用液6",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 12013,
+    "other_brand": "プロクトセディル軟膏",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 12219,
+    "other_brand": "ヘパンED配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 12605,
+    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 12613,
+    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 13012,
+    "other_brand": "ボルヒール組織接着用（0.5mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 13292,
+    "other_brand": "ミオテクター冠血管注",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 13356,
+    "other_brand": "ミッドペリック135腹膜透析液1L",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 13369,
+    "other_brand": "ミッドペリックL135腹膜透析液1L",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 13390,
+    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 13895,
+    "other_brand": "メルスモン",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14019,
+    "other_brand": "モリアミンS注",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14020,
+    "other_brand": "モリプロンF輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14192,
+    "other_brand": "ユエキンキープ3号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14295,
+    "other_brand": "ラエンネック",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14312,
+    "other_brand": "ラクトリンゲル液′′フソー′′",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14319,
+    "other_brand": "ラクトリンゲルS注「フソー」",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14365,
+    "other_brand": "ラコールNF配合経腸用半固形剤",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14366,
+    "other_brand": "ラコールNF配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14824,
+    "other_brand": "リナセートD輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14826,
+    "other_brand": "リナセートF輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14840,
+    "other_brand": "リハビックス−K1号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14947,
+    "other_brand": "リプラス1号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 14950,
+    "other_brand": "リプラス3号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 15014,
+    "other_brand": "リンゲル液「フソー」",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 15046,
+    "other_brand": "リンパック透析剤TA1",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 15047,
+    "other_brand": "リンパック透析剤TA3",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 15048,
+    "other_brand": "リンパック透析剤TA5",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 15138,
+    "other_brand": "レギュニール HCa 1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 15150,
+    "other_brand": "レギュニール LCa 1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 15997,
+    "other_brand": "ワンパル1号輸液（800mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16012,
+    "other_brand": "ヴィーン3G輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16013,
+    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16015,
+    "other_brand": "ヴィーンD輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16016,
+    "other_brand": "ヴィーンD輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16018,
+    "other_brand": "ヴィーンF輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16098,
+    "other_brand": "乳糖水和物「ホエイ」",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16567,
+    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16572,
+    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16575,
+    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 16948,
+    "other_brand": "白色ワセリン",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17210,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17211,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17212,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17213,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17214,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17215,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17216,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17217,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17218,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17219,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17220,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17221,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17222,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17223,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17224,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17225,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17226,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17227,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17228,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17229,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17230,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17231,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17232,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17233,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17234,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17235,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17236,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17237,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17238,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17239,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17240,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17241,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17242,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17243,
+    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17523,
+    "other_brand": "10%EL−3号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17584,
+    "other_brand": "ACD-A液 250mL",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17585,
+    "other_brand": "AK−ソリタ透析剤・DL",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17586,
+    "other_brand": "AK−ソリタ透析剤・DP",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17587,
+    "other_brand": "AK−ソリタ透析剤・FL",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17588,
+    "other_brand": "AK−ソリタ透析剤・FP",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17602,
+    "other_brand": "Dドライ透析剤2.5S",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17603,
+    "other_brand": "Dドライ透析剤2.75S",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17604,
+    "other_brand": "Dドライ透析剤3.0S",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17614,
+    "other_brand": "EL−3号輸液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17618,
+    "other_brand": "ESポリタミン配合顆粒",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17631,
+    "other_brand": "JMS ACD-A液",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17632,
+    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 17718,
+    "other_brand": "T&Tオルファクトメーター",
+    "interaction_type": "caution",
+    "source_text": "血栓溶解剤\nウロキナーゼ\nt-PA製剤等\n,"
+  },
+  {
+    "other_id": 6715,
+    "other_brand": "セレニカR顆粒40%",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10082,
+    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10083,
+    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10084,
+    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10086,
+    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10088,
+    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10089,
+    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10092,
+    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10094,
+    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 10095,
+    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "バルプロ酸ナトリウム"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 11975,
+    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 11977,
+    "other_brand": "プレドニゾロン錠1mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 11978,
+    "other_brand": "プレドニゾロン錠1mg（旭化成）",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 11981,
+    "other_brand": "プレドニゾロン錠5mg「ミタ」",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 11986,
+    "other_brand": "プレドニン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 12354,
+    "other_brand": "ベタメタゾン錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 13733,
+    "other_brand": "メドロール錠2mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 15033,
+    "other_brand": "リンデロン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 15034,
+    "other_brand": "リンデロン坐剤0.5mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン剤\nベタメタゾン\nプレドニゾロン\nメチルプレドニゾロン等"
+  },
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nヒドロクロロチアジド等\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 1914,
+    "other_brand": "インデラル注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 1915,
+    "other_brand": "インデラル錠10mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2546,
+    "other_brand": "エナラプリルマレイン酸塩細粒1％「アメル」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2547,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2548,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2550,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2551,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2554,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2556,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2557,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2559,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「NikP」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2560,
+    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 2576,
+    "other_brand": "エナラプリルマレイン酸塩錠5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 12090,
+    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 12091,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 12093,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 15229,
+    "other_brand": "レニベース錠2.5",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nピンドロール等\nACE阻害剤\nエナラプリルマレイン酸塩等"
+  },
+  {
+    "other_id": 4780,
+    "other_brand": "グリセリン「ヤマゼン」M",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4781,
+    "other_brand": "グリセリン　シオエ",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4783,
+    "other_brand": "グリセリン「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4784,
+    "other_brand": "グリセリン「タイセイ」M",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4786,
+    "other_brand": "グリセリン「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4788,
+    "other_brand": "グリセリン「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4790,
+    "other_brand": "グリセリン「ヤクハン」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4791,
+    "other_brand": "グリセリン「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4793,
+    "other_brand": "グリセリン「東海」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4795,
+    "other_brand": "グリセリン「東豊」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4796,
+    "other_brand": "グリセリン「NikP」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4807,
+    "other_brand": "グリセリン浣腸「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 4811,
+    "other_brand": "グリセリン浣腸液50%「ケンエー」　30mL",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 9491,
+    "other_brand": "ニトログリセリン注25mg／50mLシリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 9496,
+    "other_brand": "ニトログリセリン静注25mg／50mLRFIDシリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 9499,
+    "other_brand": "ニトロペン舌下錠0.3mg",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 13400,
+    "other_brand": "ミニトロテープ27mg",
+    "interaction_type": "caution",
+    "source_text": "ニトログリセリン製剤"
+  },
+  {
+    "other_id": 12408,
+    "other_brand": "ベネシッド錠250mg",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド\nベンズブロマロン"
+  },
+  {
+    "other_id": 1658,
+    "other_brand": "イドメシンコーワゲル1％",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 1920,
+    "other_brand": "インドメタシンクリーム1％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 1922,
+    "other_brand": "インドメタシンパップ70mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 1924,
+    "other_brand": "インドメタシン坐剤12.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5891,
+    "other_brand": "ジクロフェナクナトリウムテープ15mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5896,
+    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「ゼリア」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5897,
+    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「日医工」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5922,
+    "other_brand": "ジクロフェナクNa坐剤12.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5924,
+    "other_brand": "ジクロフェナクNa坐剤25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5933,
+    "other_brand": "ジクロフェナクNa点眼液0.1％「日新」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5934,
+    "other_brand": "ジクロフェナクNa錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5935,
+    "other_brand": "ジクロフェナクNa錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 5941,
+    "other_brand": "ジクロード点眼液0.1%",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 12995,
+    "other_brand": "ボルタレンサポ12.5mg",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 13001,
+    "other_brand": "ボルタレン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性解熱鎮痛消炎剤\nインドメタシン\nジクロフェナクナトリウム等\n,"
+  },
+  {
+    "other_id": 1704,
+    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "イブプロフェン\nナプロキセン\nピロキシカム\nスルピリン"
+  },
+  {
+    "other_id": 11223,
+    "other_brand": "フェルデン軟膏0.5％",
+    "interaction_type": "caution",
+    "source_text": "イブプロフェン\nナプロキセン\nピロキシカム\nスルピリン"
+  },
+  {
+    "other_id": 11654,
+    "other_brand": "ブルフェン錠100",
+    "interaction_type": "caution",
+    "source_text": "イブプロフェン\nナプロキセン\nピロキシカム\nスルピリン"
+  },
+  {
+    "other_id": 7394,
+    "other_brand": "ダイアモックス末",
+    "interaction_type": "caution",
+    "source_text": "炭酸脱水酵素阻害剤\nアセタゾラミド等"
+  },
+  {
+    "other_id": 1040,
+    "other_brand": "アリセプトドライシロップ1%",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 1041,
+    "other_brand": "アリセプト内服ゼリー3mg",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 1044,
+    "other_brand": "アリセプト錠3mg",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 1048,
+    "other_brand": "アリセプトD錠3mg",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8977,
+    "other_brand": "ドネペジル塩酸塩内服ゼリー3mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8983,
+    "other_brand": "ドネペジル塩酸塩錠3mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8984,
+    "other_brand": "ドネペジル塩酸塩錠3mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8986,
+    "other_brand": "ドネペジル塩酸塩錠3mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8988,
+    "other_brand": "ドネペジル塩酸塩錠3mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8990,
+    "other_brand": "ドネペジル塩酸塩錠3mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8991,
+    "other_brand": "ドネペジル塩酸塩錠3mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8992,
+    "other_brand": "ドネペジル塩酸塩錠3mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8993,
+    "other_brand": "ドネペジル塩酸塩錠3mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8994,
+    "other_brand": "ドネペジル塩酸塩錠3mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8995,
+    "other_brand": "ドネペジル塩酸塩錠3mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 8997,
+    "other_brand": "ドネペジル塩酸塩錠3mg「TSU」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9028,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9029,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9031,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9033,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9035,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9039,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9040,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9042,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9043,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9045,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 9049,
+    "other_brand": "ドネペジル塩酸塩OD錠3mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "ドネペジル塩酸塩"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 14527,
+    "other_brand": "ラマトロバン錠50mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "プロスタグランジンD\n2\n、トロンボキサンA\n2\n受容体拮抗剤\nラマトロバン\nセラトロダスト"
+  },
+  {
+    "other_id": 8311,
+    "other_brand": "デプロメール錠25",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）\nフルボキサミンマレイン酸塩\n塩酸セルトラリン等\n,"
+  },
+  {
+    "other_id": 11483,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）\nフルボキサミンマレイン酸塩\n塩酸セルトラリン等\n,"
+  },
+  {
+    "other_id": 11484,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）\nフルボキサミンマレイン酸塩\n塩酸セルトラリン等\n,"
+  },
+  {
+    "other_id": 11485,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）\nフルボキサミンマレイン酸塩\n塩酸セルトラリン等\n,"
+  },
+  {
+    "other_id": 11487,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）\nフルボキサミンマレイン酸塩\n塩酸セルトラリン等\n,"
+  },
+  {
+    "other_id": 11488,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）\nフルボキサミンマレイン酸塩\n塩酸セルトラリン等\n,"
+  },
+  {
+    "other_id": 15094,
+    "other_brand": "ルボックス錠25",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）\nフルボキサミンマレイン酸塩\n塩酸セルトラリン等\n,"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n,"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n,"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n,"
+  },
+  {
+    "other_id": 5833,
+    "other_brand": "ジアゼパム錠2mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ジアゼパム"
+  },
+  {
+    "other_id": 5834,
+    "other_brand": "ジアゼパム錠2「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ジアゼパム"
+  },
+  {
+    "other_id": 5836,
+    "other_brand": "ジアゼパム錠2mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ジアゼパム"
+  },
+  {
+    "other_id": 5837,
+    "other_brand": "ジアゼパム錠2mg「タイホウ」",
+    "interaction_type": "caution",
+    "source_text": "ジアゼパム"
+  },
+  {
+    "other_id": 6303,
+    "other_brand": "スピジア点鼻液5mg",
+    "interaction_type": "caution",
+    "source_text": "ジアゼパム"
+  },
+  {
+    "other_id": 13764,
+    "other_brand": "メフィーゴパック",
+    "interaction_type": "contraindicated",
+    "source_text": "抗血小板薬アスピリン（バイアスピリン、アスピリン）アスピリン含有製剤（バファリン、コンプラビン配合錠、タケルダ配合錠）チクロピジン塩酸塩（パナルジン）クロピドグレル硫酸塩（プラビックス）プラスグレル塩酸塩（エフィエント）チカグレロル（ブリリンタ）シロスタゾール（プレタール）イコサペント酸エチル（エパデール）ベラプロストナトリウム（ドルナー）サルボグレラート塩酸塩（アンプラーグ）"
+  }
+]

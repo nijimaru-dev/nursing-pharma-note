@@ -1,0 +1,410 @@
+{
+  "id": 11845,
+  "brand_name": "プリジスタ錠600mg",
+  "generic_name": "ダルナビル エタノール付加物",
+  "therapeutic_classification": "抗ウイルス化学療法剤",
+  "indications": "HIV感染症",
+  "dose_admin": "通常、成人にはダルナビルとして1回600 mgとリトナビル1回100 mgをそれぞれ1日2回食事中又は食直後に併用投与する。投与に際しては、必ず他の抗HIV薬と併用すること。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nトリアゾラム、ミダゾラム、ピモジド、エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン、ジヒドロエルゴタミン、エルゴメトリン、メチルエルゴメトリン、バルデナフィル、ブロナンセリン、シルデナフィル（レバチオ）、タダラフィル（アドシルカ）、アゼルニジピン、アゼルニジピン・オルメサルタン メドキソミル、ルラシドン、フィネレノン、ボクロスポリン、リバーロキサバンを投与中の患者\n腎機能あるいは肝機能障害患者で、コルヒチンを投与中の患者\n,\n,\n低出生体重児、新生児、乳児、3歳未満の幼児\n,",
+  "application_precautions": "",
+  "serious_adverse_events": "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（頻度不明）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（0.1％未満）、多形紅斑（0.1％未満）、急性汎発性発疹性膿疱症（頻度不明）\n重度の発疹があらわれた場合は、本剤の投与を直ちに中止し適切な処置を行うこと。\n肝機能障害、黄疸（頻度不明）\nAST、ALT、γ-GTPの上昇等を伴う肝機能障害、黄疸があらわれることがある。\n急性膵炎（0.5%）",
+  "observation_points": [
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（頻度不明）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（0.1％未満）、多形紅斑（0.1％未満）、急性汎発性発疹性膿疱症（頻度不明）",
+    "重度の発疹があらわれた場合は、本剤の投与を直ちに中止し適切な処置を行うこと",
+    "肝機能障害、黄疸（頻度不明）",
+    "AST、ALT、γ-GTPの上昇等を伴う肝機能障害、黄疸があらわれることがある",
+    "急性膵炎（0.5%）",
+    "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること",
+    "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある",
+    "併用する場合には注意して投与すること",
+    "本剤/リトナビル600/100 mg 1日2回とリファブチン150 mg 2日1回を併用したとき、リファブチンの活性代謝物のAUCが9.8倍に増加した",
+    "併用する場合には必要に応じてリファブチンの投与量を減量するなど注意して投与すること",
+    "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある",
+    "併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること",
+    "サルメテロールの血中濃度上昇により、QT延長、動悸、洞性頻脈などの心血管系事象の発現リスクが増大する可能性がある",
+    "併用する場合には必要に応じてサルメテロールの投与量を減量するなど注意して投与すること",
+    "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した",
+    "併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること",
+    "本剤/リトナビル600/100 mg 1日2回とカルバマゼピン200 mg 1日2回を併用したとき、カルバマゼピンのAUCが45%増加した",
+    "併用する場合には必要に応じてカルバマゼピンの投与量を減量するなど注意して投与すること",
+    "これらの薬剤の血中濃度を上昇させる可能性がある",
+    "ダルナビル/リトナビル800/100mgとダビガトランエテキシラート150mgを併用したとき、ダルナビル/リトナビル単回投与時のダビガトランのAUC及びC",
+    "max",
+    "は1.7倍及び1.6倍に上昇し、ダルナビル/リトナビル反復投与時のダビガトランのAUC及びC",
+    "はいずれも1.2倍に上昇した",
+    "併用する場合には必要に応じてダビガトランエテキシラートを減量するなど注意して投与すること",
+    "本剤/リトナビル600/100 mg 1日2回とジゴキシン0.4 mg 1日1回を併用したとき、ジゴキシンのAUCが77%増加した",
+    "併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること",
+    "コルヒチンの血中濃度を上昇させる可能性がある（コルヒチンとリトナビルとの併用により、コルヒチンのAUCが196%増加したとの報告がある）",
+    "併用する場合には必要に応じてコルヒチンの投与量を減量するなど注意して投与すること",
+    "グレカプレビルの血中濃度を上昇させる可能性がある",
+    "併用する場合には必要に応じてグレカプレビル・ピブレンタスビルの投与量を減量するなど注意して投与すること",
+    "本剤/リトナビル600/100mg 1日2回とエチニルエストラジオール/ノルエチステロン35 µg/1 mg 1日1回を併用したとき、エチニルエストラジオール及びノルエチステロンのAUCはそれぞれ44及び14%減少した",
+    "本剤を投与する場合は、別の避妊方法を行うことが望ましい",
+    "ダルナビル/リトナビル400/100 mg 1日2回と併用したとき、セルトラリン（50 mg 1日1回）のAUCが49%、パロキセチン（20 mg 1日1回）のAUCが39%減少した",
+    "本剤/リトナビル600/100 mg 1日2回とメサドンを併用したとき、R（－）メサドン及びS（＋）メサドンのAUCがそれぞれ16%及び36%減少した",
+    "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある",
+    "併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること",
+    "ワルファリンの血中濃度に影響を与えることがある",
+    "併用する場合には必要に応じて本剤又はワルファリンの投与量を調節するなど注意して投与すること",
+    "テノホビル（フマル酸テノホビルジソプロキシル300 mg 1日1回）とダルナビル/リトナビル300/100 mg 1日2回を併用したとき、テノホビルのAUCが22%増加した",
+    "本剤/リトナビルと併用する場合には、用量を調節する必要はない",
+    "これらの薬剤との相互作用を示さないと推察される",
+    "本剤/リトナビル600/100 mg 1日2回とエトラビリン100 mg 1日2回を併用したとき、エトラビリンのAUCが37%減少した",
+    "ダルナビル/リトナビル300/100 mg 1日2回とエファビレンツ600 mg 1日1回を併用したとき、ダルナビルのAUCが13%減少し、エファビレンツのAUCが21%増加した",
+    "ダルナビル/リトナビル400/100 mg 1日2回とネビラピン200 mg 1日2回を併用したとき、ネビラピンのAUCが27%増加した",
+    "ダルナビル/リトナビル800/100 mg 1日1回とリルピビリン150 mg 1日1回を併用したとき、リルピビリンのAUCが130%増加した",
+    "本剤/リトナビルとリルピビリンを併用する場合には、用量を調節する必要はない",
+    "本剤600 mgとリトナビル100 mgをそれぞれ1日2回併用したとき、リトナビルにより本剤のAUCは14倍に増加した",
+    "本剤はリトナビル100 mgを併用投与することが推奨される",
+    "ダルナビル/リトナビル1200/100 mg 1日2回とロピナビル・リトナビル400・100 mg 1日2回又はダルナビル1200 mg 1日2回とロピナビル・リトナビル533・133.3 mg 1日2回を併用したとき、ダルナビルのAUCは40%減少した",
+    "本剤/リトナビルと併用したときのロピナビル・リトナビルの推奨用量は確立していないため、本剤及びリトナビルとの併用は推奨されない",
+    "ダルナビル/リトナビル400/100 mg 1日2回とアタザナビル300 mg 1日1回を併用したとき、ダルナビル及びアタザナビルの薬物動態に有意な影響はみられなかった",
+    "上記以外のプロテアーゼ阻害剤は、本剤/リトナビルとの併用は推奨されない",
+    "本剤/リトナビルとラルテグラビルを併用したとき、本剤の血漿中濃度が減少する可能性がある",
+    "本剤/リトナビルとラルテグラビルを併用する場合には、用量を調節する必要はない",
+    "本剤/リトナビル600/100 mg 1日2回とドルテグラビル30 mg 1日1回を併用したとき、ドルテグラビルのAUCが22%減少した",
+    "本剤/リトナビルとドルテグラビルを併用する場合には、用量を調節する必要はない",
+    "本剤/リトナビル600/100 mg 1日2回とマラビロク150 mg 1日2回を併用したとき、マラビロクのAUCが305%増加した"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ピモジド",
+      "clinical_symptom_action": "ピモジドの血中濃度上昇により、不整脈等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン\nジヒドロエルゴタミン\nジヒデルゴット\nエルゴメトリン\nメチルエルゴメトリン\nパルタンM",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、末梢血管痙縮、虚血等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "バルデナフィル\nレビトラ",
+      "clinical_symptom_action": "バルデナフィルの血中濃度が上昇し、半減期が延長するおそれがある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ブロナンセリン\nロナセン",
+      "clinical_symptom_action": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アゼルニジピン\nカルブロック\nアゼルニジピン・オルメサルタン メドキソミル\nレザルタス配合錠",
+      "clinical_symptom_action": "アゼルニジピンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ルラシドン\nラツーダ",
+      "clinical_symptom_action": "ルラシドンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フィネレノン\nケレンディア",
+      "clinical_symptom_action": "フィネレノンの血中濃度が著しく上昇するおそれがある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ボクロスポリン\nルプキネス",
+      "clinical_symptom_action": "ボクロスポリンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リバーロキサバン\nイグザレルト",
+      "clinical_symptom_action": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用又はP糖蛋白阻害作用により、リバーロキサバンの血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。",
+      "mechanism_risk_factor": "これらの薬剤の薬物代謝酵素誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。",
+      "mechanism_risk_factor": "これらの薬剤の薬物代謝酵素誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェノバルビタールフェニトイン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。",
+      "mechanism_risk_factor": "これらの薬剤の薬物代謝酵素誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デキサメタゾン（全身投与）",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。併用する場合には注意して投与すること。",
+      "mechanism_risk_factor": "これらの薬剤の薬物代謝酵素誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファブチン",
+      "clinical_symptom_action": "本剤/リトナビル600/100 mg 1日2回とリファブチン150 mg 2日1回を併用したとき、リファブチンの活性代謝物のAUCが9.8倍に増加した。併用する場合には必要に応じてリファブチンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シンバスタチンアトルバスタチン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サルメテロール",
+      "clinical_symptom_action": "サルメテロールの血中濃度上昇により、QT延長、動悸、洞性頻脈などの心血管系事象の発現リスクが増大する可能性がある。併用する場合には必要に応じてサルメテロールの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クラリスロマイシン",
+      "clinical_symptom_action": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルバマゼピン",
+      "clinical_symptom_action": "本剤/リトナビル600/100 mg 1日2回とカルバマゼピン200 mg 1日2回を併用したとき、カルバマゼピンのAUCが45%増加した。併用する場合には必要に応じてカルバマゼピンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミオダロンベプリジルリドカイン（全身投与）キニジン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリンタクロリムス",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルチカゾン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダサチニブエベロリムス",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボセンタン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アピキサバン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダビガトランエテキシラート",
+      "clinical_symptom_action": "ダルナビル/リトナビル800/100mgとダビガトランエテキシラート150mgを併用したとき、ダルナビル/リトナビル単回投与時のダビガトランのAUC及びC\nmax\nは1.7倍及び1.6倍に上昇し、ダルナビル/リトナビル反復投与時のダビガトランのAUC及びC\nmax\nはいずれも1.2倍に上昇した。併用する場合には必要に応じてダビガトランエテキシラートを減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのP糖蛋白阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロスバスタチン\nプラバスタチン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "本剤/リトナビル600/100 mg 1日2回とジゴキシン0.4 mg 1日1回を併用したとき、ジゴキシンのAUCが77%増加した。併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのP糖蛋白阻害作用により、ジゴキシンの血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コルヒチン\n,\n,",
+      "clinical_symptom_action": "コルヒチンの血中濃度を上昇させる可能性がある（コルヒチンとリトナビルとの併用により、コルヒチンのAUCが196%増加したとの報告がある）。併用する場合には必要に応じてコルヒチンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用又はP糖蛋白阻害作用により、コルヒチンの血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレカプレビル・ピブレンタスビル",
+      "clinical_symptom_action": "グレカプレビルの血中濃度を上昇させる可能性がある。併用する場合には必要に応じてグレカプレビル・ピブレンタスビルの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルのP糖蛋白、BCRP又はOATP1B阻害作用により、グレカプレビルの血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口避妊剤\n（エチニルエストラジオール、ノルエチステロン等）",
+      "clinical_symptom_action": "本剤/リトナビル600/100mg 1日2回とエチニルエストラジオール/ノルエチステロン35 µg/1 mg 1日1回を併用したとき、エチニルエストラジオール及びノルエチステロンのAUCはそれぞれ44及び14%減少した。本剤を投与する場合は、別の避妊方法を行うことが望ましい。",
+      "mechanism_risk_factor": "リトナビルの薬物代謝酵素誘導作用により、これらの薬剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セルトラリン\nパロキセチン",
+      "clinical_symptom_action": "ダルナビル/リトナビル400/100 mg 1日2回と併用したとき、セルトラリン（50 mg 1日1回）のAUCが49%、パロキセチン（20 mg 1日1回）のAUCが39%減少した。併用する場合には注意して投与すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メサドン",
+      "clinical_symptom_action": "本剤/リトナビル600/100 mg 1日2回とメサドンを併用したとき、R（－）メサドン及びS（＋）メサドンのAUCがそれぞれ16%及び36%減少した。併用する場合には注意して投与すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール",
+      "clinical_symptom_action": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルとこれらの薬剤のCYP3A4に対する阻害作用により、相互に代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリン",
+      "clinical_symptom_action": "ワルファリンの血中濃度に影響を与えることがある。併用する場合には必要に応じて本剤又はワルファリンの投与量を調節するなど注意して投与すること。",
+      "mechanism_risk_factor": "本剤及びリトナビルの薬物代謝酵素に対する阻害作用により、血中濃度に変化がおこることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヌクレオシド/ヌクレオチド系逆転写酵素阻害剤（NRTI/NtRTI）",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テノホビル",
+      "clinical_symptom_action": "テノホビル（フマル酸テノホビルジソプロキシル300 mg 1日1回）とダルナビル/リトナビル300/100 mg 1日2回を併用したとき、テノホビルのAUCが22%増加した。本剤/リトナビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジドブジンエムトリシタビンラミブジンアバカビル",
+      "clinical_symptom_action": "これらの薬剤との相互作用を示さないと推察される。",
+      "mechanism_risk_factor": "これらの薬剤は主に腎排泄型であり、本剤と排泄経路が異なる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "非ヌクレオシド系逆転写酵素阻害剤（NNRTI）",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エトラビリン",
+      "clinical_symptom_action": "本剤/リトナビル600/100 mg 1日2回とエトラビリン100 mg 1日2回を併用したとき、エトラビリンのAUCが37%減少した。本剤/リトナビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エファビレンツ",
+      "clinical_symptom_action": "ダルナビル/リトナビル300/100 mg 1日2回とエファビレンツ600 mg 1日1回を併用したとき、ダルナビルのAUCが13%減少し、エファビレンツのAUCが21%増加した。本剤/リトナビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "エファビレンツの薬物代謝酵素誘導作用により本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ネビラピン",
+      "clinical_symptom_action": "ダルナビル/リトナビル400/100 mg 1日2回とネビラピン200 mg 1日2回を併用したとき、ネビラピンのAUCが27%増加した。本剤/リトナビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、ネビラピンの代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リルピビリン",
+      "clinical_symptom_action": "ダルナビル/リトナビル800/100 mg 1日1回とリルピビリン150 mg 1日1回を併用したとき、リルピビリンのAUCが130%増加した。本剤/リトナビルとリルピビリンを併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "本剤及びリトナビルのCYP3A4に対する阻害作用により、リルピビリンの代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤（PI）",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル\n,",
+      "clinical_symptom_action": "本剤600 mgとリトナビル100 mgをそれぞれ1日2回併用したとき、リトナビルにより本剤のAUCは14倍に増加した。本剤はリトナビル100 mgを併用投与することが推奨される。",
+      "mechanism_risk_factor": "リトナビルのCYP3A4に対する阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロピナビル・リトナビル",
+      "clinical_symptom_action": "ダルナビル/リトナビル1200/100 mg 1日2回とロピナビル・リトナビル400・100 mg 1日2回又はダルナビル1200 mg 1日2回とロピナビル・リトナビル533・133.3 mg 1日2回を併用したとき、ダルナビルのAUCは40%減少した。本剤/リトナビルと併用したときのロピナビル・リトナビルの推奨用量は確立していないため、本剤及びリトナビルとの併用は推奨されない。",
+      "mechanism_risk_factor": "本剤及びリトナビルとこれらの薬剤のCYP3A4に対する阻害作用により、血中濃度に変化がおこることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アタザナビル",
+      "clinical_symptom_action": "ダルナビル/リトナビル400/100 mg 1日2回とアタザナビル300 mg 1日1回を併用したとき、ダルナビル及びアタザナビルの薬物動態に有意な影響はみられなかった。本剤/リトナビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他のHIVプロテアーゼ阻害剤",
+      "clinical_symptom_action": "上記以外のプロテアーゼ阻害剤は、本剤/リトナビルとの併用は推奨されない。",
+      "mechanism_risk_factor": "上記以外のプロテアーゼ阻害剤は、本剤/リトナビルとの併用は推奨されない。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "インテグラーゼ阻害剤",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラルテグラビル",
+      "clinical_symptom_action": "本剤/リトナビルとラルテグラビルを併用したとき、本剤の血漿中濃度が減少する可能性がある。本剤/リトナビルとラルテグラビルを併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドルテグラビル",
+      "clinical_symptom_action": "本剤/リトナビル600/100 mg 1日2回とドルテグラビル30 mg 1日1回を併用したとき、ドルテグラビルのAUCが22%減少した。本剤/リトナビルとドルテグラビルを併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "その他のHIV薬",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マラビロク",
+      "clinical_symptom_action": "本剤/リトナビル600/100 mg 1日2回とマラビロク150 mg 1日2回を併用したとき、マラビロクのAUCが305%増加した。",
+      "mechanism_risk_factor": "リトナビルのCYP3A4に対する阻害作用により、マラビロクの代謝が阻害される。"
+    }
+  ],
+  "facility_notes": ""
+}

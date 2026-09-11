@@ -1,0 +1,32 @@
+[
+  {
+    "other_id": 153,
+    "other_brand": "アザルフィジンEN錠250mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5381,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5382,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5387,
+    "other_brand": "サラゾピリン坐剤500mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5388,
+    "other_brand": "サラゾピリン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  }
+]

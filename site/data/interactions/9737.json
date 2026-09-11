@@ -1,0 +1,1910 @@
+[
+  {
+    "other_id": 253,
+    "other_brand": "アジレクト錠1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "セロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩\nトレドミン\nデュロキセチン塩酸塩\nサインバルタ\nベンラファキシン塩酸塩\nイフェクサー"
+  },
+  {
+    "other_id": 403,
+    "other_brand": "アゾセミド錠30mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 404,
+    "other_brand": "アゾセミド錠30mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 497,
+    "other_brand": "アトモキセチンカプセル5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 498,
+    "other_brand": "アトモキセチンカプセル5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 499,
+    "other_brand": "アトモキセチンカプセル5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤（イミプラミン塩酸塩等）\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 500,
+    "other_brand": "アトモキセチンカプセル5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 513,
+    "other_brand": "アトモキセチン内用液0.4%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 514,
+    "other_brand": "アトモキセチン内用液0.4％「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 515,
+    "other_brand": "アトモキセチン内用液0.4％「JG」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 516,
+    "other_brand": "アトモキセチン錠5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 517,
+    "other_brand": "アトモキセチン錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 518,
+    "other_brand": "アトモキセチン錠5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 519,
+    "other_brand": "アトモキセチン錠5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤（イミプラミン塩酸塩等）\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 520,
+    "other_brand": "アトモキセチン錠5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 625,
+    "other_brand": "アドレナリン注0.1%シリンジ「テルモ」",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン製剤\nイソプレナリン塩酸塩（プロタノール等）\nノルアドレナリン（ノルアドリナリン）等\nアドレナリン作動薬\nβ刺激薬（ベネトリン等）\nエフェドリン（エフェドリン）\nメチルエフェドリン（メチエフ等）　等"
+  },
+  {
+    "other_id": 625,
+    "other_brand": "アドレナリン注0.1%シリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ薬\nイミプラミン\nアミトリプチリン等\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nミルナシプラン等\nその他の抗うつ薬\nマプロチリン等"
+  },
+  {
+    "other_id": 637,
+    "other_brand": "アナフラニール点滴静注液25mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリンノルアドレナリンフェニレフリン等"
+  },
+  {
+    "other_id": 638,
+    "other_brand": "アナフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリンノルアドレナリンフェニレフリン等"
+  },
+  {
+    "other_id": 688,
+    "other_brand": "アブストラル舌下錠100μg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）モノアミン酸化酵素阻害剤 等"
+  },
+  {
+    "other_id": 766,
+    "other_brand": "アマージ錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 790,
+    "other_brand": "アミトリプチリン塩酸塩錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 994,
+    "other_brand": "アメジニウムメチル硫酸塩錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリン"
+  },
+  {
+    "other_id": 995,
+    "other_brand": "アメジニウムメチル硫酸塩錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリン"
+  },
+  {
+    "other_id": 996,
+    "other_brand": "アメジニウムメチル硫酸塩錠10mg「フソー」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリン"
+  },
+  {
+    "other_id": 997,
+    "other_brand": "アメジニウムメチル硫酸塩錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリン"
+  },
+  {
+    "other_id": 1290,
+    "other_brand": "アレルギン散1%",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパノルアドレナリン"
+  },
+  {
+    "other_id": 1529,
+    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 1531,
+    "other_brand": "イグザレルト細粒分包10mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nセロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 1533,
+    "other_brand": "イグザレルト錠10mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 1535,
+    "other_brand": "イグザレルト錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 1536,
+    "other_brand": "イグザレルトOD錠10mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 1602,
+    "other_brand": "イソフルラン吸入麻酔液「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\nアドレナリンノルアドレナリン等"
+  },
+  {
+    "other_id": 1682,
+    "other_brand": "イフェクサーSRカプセル37.5mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩含有製剤、メサドン塩酸塩、ペンタゾシン含有製剤、ペチジン塩酸塩含有製剤、タペンタドール塩酸塩、デキストロメトルファン臭化水素酸塩水和物含有製剤、フェンタニル含有製剤、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等"
+  },
+  {
+    "other_id": 1727,
+    "other_brand": "イミグランキット皮下注3mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 1728,
+    "other_brand": "イミグラン点鼻液20",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 1729,
+    "other_brand": "イミグラン錠50",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 1770,
+    "other_brand": "イミドール糖衣錠（10）",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリンノルアドレナリンフェニレフリン等"
+  },
+  {
+    "other_id": 1839,
+    "other_brand": "イルトラ配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 1950,
+    "other_brand": "イーフェンバッカル錠50μg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 2246,
+    "other_brand": "エカード配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 2269,
+    "other_brand": "エクフィナ錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "セロトニン・ノルアドレナリン再取り込み阻害剤ミルナシプラン塩酸塩\nトレドミン\nデュロキセチン塩酸塩\nサインバルタ\nベンラファキシン塩酸塩\nイフェクサー"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "contraindicated",
+    "source_text": "イソプレナリン、ノルアドレナリン等のカテコールアミン製剤、アドレナリン作動薬\nプロタノール等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ薬\nイミプラミンアミトリプチリン等\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nミルナシプラン等\nその他の抗うつ薬\nマプロチリン等"
+  },
+  {
+    "other_id": 2763,
+    "other_brand": "エフピーOD錠2.5",
+    "interaction_type": "contraindicated",
+    "source_text": "ノルアドレナリン・セロトニン作動性抗うつ剤\nミルタザピン\nレメロン\n®\nリフレックス\n®"
+  },
+  {
+    "other_id": 2887,
+    "other_brand": "エレトリプタン錠20mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2888,
+    "other_brand": "エレトリプタン錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2889,
+    "other_brand": "エレトリプタン錠20mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2890,
+    "other_brand": "エレトリプタン錠20mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2891,
+    "other_brand": "エレトリプタン錠20mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2892,
+    "other_brand": "エレトリプタン錠20mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2893,
+    "other_brand": "エレトリプタン錠20mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2894,
+    "other_brand": "エレトリプタン錠20mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 2910,
+    "other_brand": "エンタカポン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "COMTにより代謝される薬剤\nアドレナリンノルアドレナリンイソプレナリンドパミン等"
+  },
+  {
+    "other_id": 2911,
+    "other_brand": "エンタカポン錠100mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "COMTにより代謝される薬剤\nアドレナリンノルアドレナリンイソプレナリンドパミン等"
+  },
+  {
+    "other_id": 2912,
+    "other_brand": "エンタカポン錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "COMTにより代謝される薬剤\nアドレナリンノルアドレナリンイソプレナリンドパミン等"
+  },
+  {
+    "other_id": 2913,
+    "other_brand": "エンタカポン錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "COMTにより代謝される薬剤\nアドレナリンノルアドレナリンイソプレナリンドパミン等"
+  },
+  {
+    "other_id": 2934,
+    "other_brand": "エンペラシン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 3550,
+    "other_brand": "オンジェンティス錠25mg",
+    "interaction_type": "caution",
+    "source_text": "COMTにより代謝される薬剤\nアドレナリン（別名エピネフリン）ノルアドレナリン（別名ノルエピネフリン）dl-イソプレナリン塩酸塩ドパミン塩酸塩等"
+  },
+  {
+    "other_id": 3552,
+    "other_brand": "オンダンセトロン注射液4mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nMAO阻害剤　等"
+  },
+  {
+    "other_id": 3553,
+    "other_brand": "オンダンセトロン注4mgシリンジ「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 3554,
+    "other_brand": "オンダンセトロンODフィルム4mg「GFP」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nMAO阻害剤　等"
+  },
+  {
+    "other_id": 3649,
+    "other_brand": "カイトリル注1mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 3652,
+    "other_brand": "カイトリル錠1mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 3671,
+    "other_brand": "カデチア配合錠LD「あすか」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 3672,
+    "other_brand": "カデチア配合錠LD「テバ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 4190,
+    "other_brand": "キシロカイン注射液「0.5%」エピレナミン（1：100,000）含有",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン製剤\nイソプレナリン塩酸塩（プロタノール等）ノルアドレナリン（ノルアドリナリン）等\nアドレナリン作動薬\nβ刺激薬（ベネトリン等）エフェドリン（エフェドリン）メチルエフェドリン（メチエフ等）　等"
+  },
+  {
+    "other_id": 4190,
+    "other_brand": "キシロカイン注射液「0.5%」エピレナミン（1：100,000）含有",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ薬\nイミプラミン等\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nミルナシプラン等\nその他の抗うつ薬\nマプロチリン等\nMAO阻害薬"
+  },
+  {
+    "other_id": 4483,
+    "other_brand": "クリアミン配合錠A1.0",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン\nノルアドレナリン\nフェニレフリン"
+  },
+  {
+    "other_id": 4541,
+    "other_brand": "クロザリル錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン作動薬\nアドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）ノルアドレナリン（ノルアドリナリン）\n,"
+  },
+  {
+    "other_id": 4663,
+    "other_brand": "クロルフェニラミンマレイン酸塩散1%「ホエイ」",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ\nノルアドレナリン"
+  },
+  {
+    "other_id": 4664,
+    "other_brand": "クロルフェニラミンマレイン酸塩散1%「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパノルアドレナリン"
+  },
+  {
+    "other_id": 4733,
+    "other_brand": "グラニセトロン内服ゼリー1mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4738,
+    "other_brand": "グラニセトロン点滴静注バッグ3mg/50mL「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4736,
+    "other_brand": "グラニセトロン点滴静注バッグ1mg/50mL「HK」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4737,
+    "other_brand": "グラニセトロン点滴静注バッグ1mg/50mL「NIG」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4735,
+    "other_brand": "グラニセトロン静注液1mg「アイロム」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4748,
+    "other_brand": "グラニセトロン静注液1mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4745,
+    "other_brand": "グラニセトロン静注液1mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4750,
+    "other_brand": "グラニセトロン静注液1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 4747,
+    "other_brand": "グラニセトロン静注液1mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）MAO阻害剤　等"
+  },
+  {
+    "other_id": 5208,
+    "other_brand": "コディオ配合錠MD",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 5244,
+    "other_brand": "コムタン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "COMTにより代謝される薬剤\nアドレナリンノルアドレナリンイソプレナリンドパミン等"
+  },
+  {
+    "other_id": 5272,
+    "other_brand": "コンサータ錠18mg",
+    "interaction_type": "caution",
+    "source_text": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン"
+  },
+  {
+    "other_id": 5341,
+    "other_brand": "サインバルタカプセル20mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 5345,
+    "other_brand": "サクコルチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 5356,
+    "other_brand": "サノレックス錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリンノルアドレナリン等"
+  },
+  {
+    "other_id": 5492,
+    "other_brand": "ザイボックス注射液600mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 5493,
+    "other_brand": "ザイボックス錠600mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 5639,
+    "other_brand": "シベクトロ点滴静注用200mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウム\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\n選択的セロトニン再取り込み阻害剤（SSRI）\nトリプタン系薬剤\nL-トリプトファン含有製剤\nトラマドール塩酸塩\nフェンタニル\nメサドン塩酸塩\nペチジン塩酸塩等"
+  },
+  {
+    "other_id": 5640,
+    "other_brand": "シベクトロ錠200mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウム\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\n選択的セロトニン再取り込み阻害剤（SSRI）\nトリプタン系薬剤\nL-トリプトファン含有製剤\nトラマドール塩酸塩\nフェンタニル\nメサドン塩酸塩\nペチジン塩酸塩等"
+  },
+  {
+    "other_id": 5843,
+    "other_brand": "ジアゾキシドカプセル25mg「OP」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 6200,
+    "other_brand": "スタレボ配合錠L50",
+    "interaction_type": "caution",
+    "source_text": "COMTにより代謝される薬剤\nアドレナリンノルアドレナリンイソプレナリンドパミン等"
+  },
+  {
+    "other_id": 6282,
+    "other_brand": "ストラテラカプセル5mg",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 6286,
+    "other_brand": "ストラテラ内用液0.4%",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリンに影響する薬剤\n三環系抗うつ剤(イミプラミン塩酸塩等)\n選択的セロトニン・ノルアドレナリン再取り込み阻害剤\nメチルフェニデート塩酸塩等"
+  },
+  {
+    "other_id": 6343,
+    "other_brand": "スマトリプタン錠50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6342,
+    "other_brand": "スマトリプタン錠50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6345,
+    "other_brand": "スマトリプタン錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6346,
+    "other_brand": "スマトリプタン錠50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6347,
+    "other_brand": "スマトリプタン錠50mg「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6348,
+    "other_brand": "スマトリプタン錠50mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6350,
+    "other_brand": "スマトリプタン錠50mg「TW」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6351,
+    "other_brand": "スマトリプタン錠50mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6352,
+    "other_brand": "スマトリプタン錠50mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 6381,
+    "other_brand": "スープレン吸入麻酔液",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 6599,
+    "other_brand": "セボフルラン吸入麻酔液「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\n（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 6600,
+    "other_brand": "セボフルラン吸入麻酔液「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\n（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 6601,
+    "other_brand": "セボフレン吸入麻酔液",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\n（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 6661,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "ノルアドレナリン・セロトニン作動性抗うつ剤\nミルタザピン\nレメロン\n®\nリフレックス\n®"
+  },
+  {
+    "other_id": 6662,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
+    "interaction_type": "contraindicated",
+    "source_text": "ノルアドレナリン・セロトニン作動性抗うつ剤\nミルタザピン\nレメロン\n®\nリフレックス\n®"
+  },
+  {
+    "other_id": 6710,
+    "other_brand": "セレスタミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 7064,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7065,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7066,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7067,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7068,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7069,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7070,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7088,
+    "other_brand": "ゾーミッグ錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7089,
+    "other_brand": "ゾーミッグRM錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩、パロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩、デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 7397,
+    "other_brand": "ダイアート錠30mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 7594,
+    "other_brand": "チラーヂンS散0.01％",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン、ノルアドレナリン、エフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 7595,
+    "other_brand": "チラーヂンS錠12.5μg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン、ノルアドレナリン、エフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 7600,
+    "other_brand": "チラーヂンS静注液200μg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン、ノルアドレナリン、エフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 7601,
+    "other_brand": "チロナミン錠5μg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン\nノルアドレナリン\nエフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 8086,
+    "other_brand": "テルチア配合錠AP「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 8087,
+    "other_brand": "テルチア配合錠AP「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 8088,
+    "other_brand": "テルチア配合錠AP「日医工」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 8089,
+    "other_brand": "テルチア配合錠AP「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 8090,
+    "other_brand": "テルチア配合錠AP「NIG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 8269,
+    "other_brand": "デジレル錠25",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nパロキセチン\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nアミトリプチリン\nイミプラミン塩酸塩\nクロミプラミン塩酸塩\nタンドスピロン\n炭酸リチウム\nトリプタン系薬剤\nL-トリプトファン含有製剤\nタペンタドール塩酸塩含有製剤\nデキストロメトルファン臭化水素酸塩水和物含有製剤\nトラマドール塩酸塩含有製剤\nフェンタニル含有製剤\nペチジン塩酸塩含有製剤\nペンタゾシン含有製剤\nメサドン塩酸塩\n等"
+  },
+  {
+    "other_id": 8365,
+    "other_brand": "デュロキセチンカプセル20mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8366,
+    "other_brand": "デュロキセチンカプセル20mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8368,
+    "other_brand": "デュロキセチンカプセル20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8369,
+    "other_brand": "デュロキセチンカプセル20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8370,
+    "other_brand": "デュロキセチンカプセル20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8371,
+    "other_brand": "デュロキセチンカプセル20mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8372,
+    "other_brand": "デュロキセチンカプセル20mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8373,
+    "other_brand": "デュロキセチンカプセル20mg「三笠」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8374,
+    "other_brand": "デュロキセチンカプセル20mg「日医工G」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8375,
+    "other_brand": "デュロキセチンカプセル20mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8377,
+    "other_brand": "デュロキセチンカプセル20mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8378,
+    "other_brand": "デュロキセチンカプセル20mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8379,
+    "other_brand": "デュロキセチンカプセル20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8380,
+    "other_brand": "デュロキセチンカプセル20mg「KMP」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8381,
+    "other_brand": "デュロキセチンカプセル20mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8399,
+    "other_brand": "デュロキセチン錠20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8400,
+    "other_brand": "デュロキセチン錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8403,
+    "other_brand": "デュロキセチンOD錠20mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8376,
+    "other_brand": "デュロキセチンカプセル20mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n炭酸リチウム、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）及び選択的セロトニン再取り込み阻害剤（SSRI）、トラマドール塩酸塩、トリプタン系薬剤、L-トリプトファン含有製剤、リネゾリド等\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 8407,
+    "other_brand": "デュロテップMTパッチ2.1mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 8692,
+    "other_brand": "トフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリンノルアドレナリンフェニレフリン等"
+  },
+  {
+    "other_id": 8717,
+    "other_brand": "トラセミド錠4mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン（ノルアドレナリン等）"
+  },
+  {
+    "other_id": 8719,
+    "other_brand": "トラセミドOD錠4mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン（ノルアドレナリン等）"
+  },
+  {
+    "other_id": 8722,
+    "other_brand": "トラゾドン塩酸塩錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nパロキセチン\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nアミトリプチリン\nイミプラミン塩酸塩\nクロミプラミン塩酸塩\nタンドスピロン\n炭酸リチウム\nトリプタン系薬剤\nL-トリプトファン含有製剤\nタペンタドール塩酸塩含有製剤\nデキストロメトルファン臭化水素酸塩水和物含有製剤\nトラマドール塩酸塩含有製剤\nフェンタニル含有製剤\nペチジン塩酸塩含有製剤\nペンタゾシン含有製剤\nメサドン塩酸塩\n等"
+  },
+  {
+    "other_id": 8791,
+    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 8792,
+    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 8789,
+    "other_brand": "トリクロルメチアジド錠1mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 8794,
+    "other_brand": "トリクロルメチアジド錠2mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 8790,
+    "other_brand": "トリクロルメチアジド錠1mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 8796,
+    "other_brand": "トリクロルメチアジド錠2mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 8804,
+    "other_brand": "トリプタノール錠10",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 8816,
+    "other_brand": "トリモール錠2mg",
+    "interaction_type": "caution",
+    "source_text": "ノルアドレナリン遊離抑制作用を有する血圧降下剤\nグアネチジン等"
+  },
+  {
+    "other_id": 8822,
+    "other_brand": "トリンテリックス錠10mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\nトリプタン系薬剤\nスマトリプタンコハク酸塩等\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）セロトニン前駆物（L-トリプトファン）含有製剤又は食品トラマドール塩酸塩含有製剤\nメサドン塩酸塩\nペチジン塩酸塩含有製剤\nタペンタドール塩酸塩\nフェンタニル含有製剤\nペンタゾシン含有製剤\nデキストロメトルファン臭化水素酸塩水和物含有製剤炭酸リチウム等\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品　等"
+  },
+  {
+    "other_id": 8863,
+    "other_brand": "トレドミン錠12.5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリンノルアドレナリン"
+  },
+  {
+    "other_id": 9329,
+    "other_brand": "ナトリックス錠1",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン等"
+  },
+  {
+    "other_id": 9404,
+    "other_brand": "ナラトリプタン錠2.5mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 9637,
+    "other_brand": "ネオレスタミンコーワ散1％",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパノルアドレナリン"
+  },
+  {
+    "other_id": 9638,
+    "other_brand": "ネオレスタール注射液10mg",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパノルアドレナリン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "イソプレナリン、ノルアドレナリン等のカテコールアミン製剤、アドレナリン作動薬\nプロタノール等"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ薬\nイミプラミンアミトリプチリン等\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nミルナシプラン等\nその他の抗うつ薬\nマプロチリン等"
+  },
+  {
+    "other_id": 9735,
+    "other_brand": "ノリトレン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬　アドレナリン　ノルアドレナリン　等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "他のカテコールアミン製剤\nアドレナリン（ボスミン、エピペン等）イソプレナリン塩酸塩等（プロタノール等）"
+  },
+  {
+    "other_id": 253,
+    "other_brand": "アジレクト錠1mg",
+    "interaction_type": "caution",
+    "source_text": "MAO阻害剤\nセレギリン塩酸塩、ラサギリンメシル酸塩、サフィナミドメシル酸塩等"
+  },
+  {
+    "other_id": 2269,
+    "other_brand": "エクフィナ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "MAO阻害剤\nセレギリン塩酸塩、ラサギリンメシル酸塩、サフィナミドメシル酸塩等"
+  },
+  {
+    "other_id": 6661,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "MAO阻害剤\nセレギリン塩酸塩、ラサギリンメシル酸塩、サフィナミドメシル酸塩等"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "MAO阻害剤\nセレギリン塩酸塩、ラサギリンメシル酸塩、サフィナミドメシル酸塩等"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "MAO阻害剤\nセレギリン塩酸塩、ラサギリンメシル酸塩、サフィナミドメシル酸塩等"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nイミプラミン、アミトリプチリン等\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nミルナシプラン等\nその他の抗うつ剤\nマプロチリン等"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nイミプラミン、アミトリプチリン等\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nミルナシプラン等\nその他の抗うつ剤\nマプロチリン等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート"
+  },
+  {
+    "other_id": 494,
+    "other_brand": "アトニン−O注1単位",
+    "interaction_type": "caution",
+    "source_text": "分娩促進剤\nオキシトシン等\nエルゴタミン製剤"
+  },
+  {
+    "other_id": 3023,
+    "other_brand": "オキシトシン注射液5単位「F」",
+    "interaction_type": "caution",
+    "source_text": "分娩促進剤\nオキシトシン等\nエルゴタミン製剤"
+  },
+  {
+    "other_id": 1173,
+    "other_brand": "アルダクトンA細粒10％",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 6313,
+    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 6315,
+    "other_brand": "スピロノラクトン錠25mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 6316,
+    "other_brand": "スピロノラクトン錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 6317,
+    "other_brand": "スピロノラクトン錠25mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 11358,
+    "other_brand": "フルイトラン錠1mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 14733,
+    "other_brand": "リズミック錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アメジニウムメチル硫酸塩"
+  },
+  {
+    "other_id": 9892,
+    "other_brand": "バイカロン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン（ノルアドレナリン等）"
+  },
+  {
+    "other_id": 10068,
+    "other_brand": "バルヒディオ配合錠MD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 10069,
+    "other_brand": "バルヒディオ配合錠MD「サンド」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 10070,
+    "other_brand": "バルヒディオ配合錠MD「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 10071,
+    "other_brand": "バルヒディオ配合錠MD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 10072,
+    "other_brand": "バルヒディオ配合錠MD「JG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 10073,
+    "other_brand": "バルヒディオ配合錠MD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 10074,
+    "other_brand": "バルヒディオ配合錠MD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 10388,
+    "other_brand": "ヒドロクロロチアジド錠12.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 10390,
+    "other_brand": "ヒドロクロロチアジドOD錠12.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 10527,
+    "other_brand": "ビスミラー散1%",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ\nノルアドレナリン"
+  },
+  {
+    "other_id": 10528,
+    "other_brand": "ビスミラー注5mg",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ\nノルアドレナリン"
+  },
+  {
+    "other_id": 10595,
+    "other_brand": "ビバンセカプセル20mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、三環系抗うつ剤等"
+  },
+  {
+    "other_id": 11084,
+    "other_brand": "フィンテプラ内用液2.2mg/mL",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\n選択的セロトニン再取り込み阻害剤（SSRI）\nトリプタン系薬剤\nL-トリプトファンを含有する製剤\nリチウム製剤\nトラマドール塩酸塩等\n三環系抗うつ薬（TCA）\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 11249,
+    "other_brand": "フェンタニルクエン酸塩1日用テープ0.5mg「テイコク」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11251,
+    "other_brand": "フェンタニルクエン酸塩1日用テープ1mg「第一三共」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11261,
+    "other_brand": "フェンタニル注射液0.1mg「第一三共」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、モノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11260,
+    "other_brand": "フェンタニル注射液0.1mg「テルモ」赤",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、モノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11265,
+    "other_brand": "フェンタニル1日用テープ0.84mg「ユートク」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）モノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11270,
+    "other_brand": "フェンタニル3日用テープ2.1mg「テイコク」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11271,
+    "other_brand": "フェンタニル3日用テープ2.1mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11272,
+    "other_brand": "フェンタニル3日用テープ2.1mg「ユートク」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11273,
+    "other_brand": "フェンタニル3日用テープ2.1mg「HMT」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11290,
+    "other_brand": "フェントステープ0.5mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nモノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 11534,
+    "other_brand": "フロセミド注20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 11535,
+    "other_brand": "フロセミド注20mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 11544,
+    "other_brand": "フロセミド錠40mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 11540,
+    "other_brand": "フロセミド錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 11537,
+    "other_brand": "フロセミド錠10mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 11538,
+    "other_brand": "フロセミド錠10mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 11539,
+    "other_brand": "フロセミド錠10mg「SN」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 11750,
+    "other_brand": "プラザキサカプセル75mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）"
+  },
+  {
+    "other_id": 11766,
+    "other_brand": "プラデスミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 11997,
+    "other_brand": "プレミネント配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 12040,
+    "other_brand": "プロチアデン錠25",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン等"
+  },
+  {
+    "other_id": 12312,
+    "other_brand": "ベタセレミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 12543,
+    "other_brand": "ペチジン塩酸塩注射液35mg「タケダ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）等"
+  },
+  {
+    "other_id": 12546,
+    "other_brand": "ペチロルファン配合注HD",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）等"
+  },
+  {
+    "other_id": 13119,
+    "other_brand": "ポララミンシロップ0.04％",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 13120,
+    "other_brand": "ポララミンドライシロップ0.2％",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 13122,
+    "other_brand": "ポララミン注5mg",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 13121,
+    "other_brand": "ポララミン散1%",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 13185,
+    "other_brand": "マクサルト錠10mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩\nパロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩"
+  },
+  {
+    "other_id": 13251,
+    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン\nフェニレフリン等"
+  },
+  {
+    "other_id": 13297,
+    "other_brand": "ミカトリオ配合錠",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 13337,
+    "other_brand": "ミコンビ配合錠AP",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリンアドレナリン"
+  },
+  {
+    "other_id": 13510,
+    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリンノルアドレナリン"
+  },
+  {
+    "other_id": 13511,
+    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリンノルアドレナリン"
+  },
+  {
+    "other_id": 13512,
+    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリンノルアドレナリン"
+  },
+  {
+    "other_id": 13658,
+    "other_brand": "メチレンブルー静注50mg「第一三共」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩\nデュロキセチン塩酸塩等"
+  },
+  {
+    "other_id": 13765,
+    "other_brand": "メフルシド錠25mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン（ノルアドレナリン等）"
+  },
+  {
+    "other_id": 13989,
+    "other_brand": "モディオダール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧剤\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 14367,
+    "other_brand": "ラシックス注100mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 14368,
+    "other_brand": "ラシックス注20mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 14369,
+    "other_brand": "ラシックス錠10mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nアドレナリン\nノルアドレナリン"
+  },
+  {
+    "other_id": 14436,
+    "other_brand": "ラフェンタテープ1.38mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）モノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 14623,
+    "other_brand": "リクシアナ錠15mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nセロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14626,
+    "other_brand": "リクシアナOD錠15mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nセロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14634,
+    "other_brand": "リザトリプタンOD錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩\nパロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩"
+  },
+  {
+    "other_id": 14635,
+    "other_brand": "リザトリプタンOD錠10mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩\nパロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩"
+  },
+  {
+    "other_id": 14636,
+    "other_brand": "リザトリプタンOD錠10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤\nフルボキサミンマレイン酸塩\nパロキセチン塩酸塩水和物等\nセロトニン・ノルアドレナリン再取り込み阻害剤\nミルナシプラン塩酸塩"
+  },
+  {
+    "other_id": 14764,
+    "other_brand": "リタリン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン"
+  },
+  {
+    "other_id": 14829,
+    "other_brand": "リネゾリド点滴静注液600mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 14830,
+    "other_brand": "リネゾリド点滴静注液600mg「日医工」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 14831,
+    "other_brand": "リネゾリド点滴静注液600mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 14832,
+    "other_brand": "リネゾリド点滴静注液600mg「KCC」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 14833,
+    "other_brand": "リネゾリド点滴静注600mg/300mL「HK」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 14834,
+    "other_brand": "リネゾリド錠600mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 14835,
+    "other_brand": "リネゾリド錠600mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n炭酸リチウムセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）選択的セロトニン再取り込み阻害剤（SSRI）トリプタン系薬剤L-トリプトファン含有製剤\nトラマドール塩酸塩フェンタニルメサドン塩酸塩ペチジン塩酸塩等"
+  },
+  {
+    "other_id": 14906,
+    "other_brand": "リバーロキサバン錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14907,
+    "other_brand": "リバーロキサバン錠10mg「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14910,
+    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14911,
+    "other_brand": "リバーロキサバンOD錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14912,
+    "other_brand": "リバーロキサバンOD錠10mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14913,
+    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14914,
+    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14915,
+    "other_brand": "リバーロキサバンOD錠10mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 14916,
+    "other_brand": "リバーロキサバンOD錠10mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害剤セロトニン・ノルアドレナリン再取り込み阻害剤"
+  },
+  {
+    "other_id": 15064,
+    "other_brand": "リーマス錠100",
+    "interaction_type": "caution",
+    "source_text": "セロトニン・ノルアドレナリン再取り込み阻害剤〔ミルナシプラン塩酸塩等〕"
+  },
+  {
+    "other_id": 15068,
+    "other_brand": "ルジオミール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作動薬\nアドレナリン\nノルアドレナリン\nフェニレフリン等"
+  },
+  {
+    "other_id": 15092,
+    "other_brand": "ルプラック錠4mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン（ノルアドレナリン等）"
+  },
+  {
+    "other_id": 15120,
+    "other_brand": "レイボー錠50mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n選択的セロトニン再取り込み阻害剤\nセロトニン・ノルアドレナリン再取り込み阻害剤\n三環系抗うつ剤等\nMAO阻害剤"
+  },
+  {
+    "other_id": 15191,
+    "other_brand": "レスリン錠25",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作動薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nパロキセチン\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nアミトリプチリン\nイミプラミン塩酸塩\nクロミプラミン塩酸塩\nタンドスピロン\n炭酸リチウム\nトリプタン系薬剤\nL-トリプトファン含有製剤\nタペンタドール塩酸塩含有製剤\nデキストロメトルファン臭化水素酸塩水和物含有製剤\nトラマドール塩酸塩含有製剤\nフェンタニル含有製剤\nペチジン塩酸塩含有製剤\nペンタゾシン含有製剤\nメサドン塩酸塩\n等"
+  },
+  {
+    "other_id": 15405,
+    "other_brand": "レボチロキシンNa錠25μg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン、ノルアドレナリン、エフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 15518,
+    "other_brand": "レルパックス錠20mg",
+    "interaction_type": "caution",
+    "source_text": "選択的セロトニン再取り込み阻害薬\nフルボキサミンマレイン酸塩パロキセチン塩酸塩水和物セルトラリン塩酸塩\nセロトニン・ノルアドレナリン再取り込み阻害薬\nミルナシプラン塩酸塩デュロキセチン塩酸塩"
+  },
+  {
+    "other_id": 15721,
+    "other_brand": "ロサルヒド配合錠LD「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15723,
+    "other_brand": "ロサルヒド配合錠LD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15724,
+    "other_brand": "ロサルヒド配合錠LD「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15725,
+    "other_brand": "ロサルヒド配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15726,
+    "other_brand": "ロサルヒド配合錠LD「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15727,
+    "other_brand": "ロサルヒド配合錠LD「三和」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15728,
+    "other_brand": "ロサルヒド配合錠LD「日医工」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15729,
+    "other_brand": "ロサルヒド配合錠LD「日新」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15730,
+    "other_brand": "ロサルヒド配合錠LD「杏林」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15731,
+    "other_brand": "ロサルヒド配合錠LD「科研」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15732,
+    "other_brand": "ロサルヒド配合錠LD「EP」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15733,
+    "other_brand": "ロサルヒド配合錠LD「JG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15734,
+    "other_brand": "ロサルヒド配合錠LD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15735,
+    "other_brand": "ロサルヒド配合錠LD「NPI」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15736,
+    "other_brand": "ロサルヒド配合錠LD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15737,
+    "other_brand": "ロサルヒド配合錠LD「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15738,
+    "other_brand": "ロサルヒド配合錠LD「YD」",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン：\nノルアドレナリン\nアドレナリン"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nデュロキセチン塩酸塩等"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nデュロキセチン塩酸塩等"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nデュロキセチン塩酸塩等"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nデュロキセチン塩酸塩等"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nデュロキセチン塩酸塩等"
+  },
+  {
+    "other_id": 15991,
+    "other_brand": "ワンデュロパッチ0.84mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）モノアミン酸化酵素阻害剤等"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "精神神経用剤\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）\nデュロキセチン塩酸塩等"
+  },
+  {
+    "other_id": 12545,
+    "other_brand": "ペチロルファン注射液",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）\nセロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）等"
+  },
+  {
+    "other_id": 16757,
+    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン・ノルアドレナリン再取り込み阻害剤〔ミルナシプラン塩酸塩等〕"
+  },
+  {
+    "other_id": 16758,
+    "other_brand": "炭酸リチウム錠100mg「大正」",
+    "interaction_type": "caution",
+    "source_text": "セロトニン・ノルアドレナリン再取り込み阻害剤〔ミルナシプラン塩酸塩等〕"
+  },
+  {
+    "other_id": 17542,
+    "other_brand": "5mcgチロナミン錠",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン\nノルアドレナリン\nエフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 17596,
+    "other_brand": "d−クロルフェニラミンマレイン酸塩シロップ0.04%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 17597,
+    "other_brand": "d−\nクロルフェニラミンマレイン酸塩シロップ0.04%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 17598,
+    "other_brand": "d−クロルフェニラミンマレイン酸塩シロップ0.04%「日新」",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  },
+  {
+    "other_id": 17599,
+    "other_brand": "d-クロルフェニラミンマレイン酸塩錠2mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ドロキシドパ、ノルアドレナリン"
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "id": 16005,
+  "brand_name": "ヱフェドリン「ナガヰ」注射液40mg",
+  "generic_name": "エフェドリン塩酸塩",
+  "therapeutic_classification": "気管支拡張・鎮咳剤、昇圧剤",
+  "indications": "下記疾患に伴う咳嗽\n気管支喘息、喘息性（様）気管支炎、感冒、急性気管支炎、慢性気管支炎、肺結核、上気道炎（咽喉頭炎、鼻カタル）\n鼻粘膜の充血・腫脹\n麻酔時の血圧降下",
+  "dose_admin": "l\n－エフェドリン塩酸塩として、通常成人1回25～40mgを皮下注射する。また、麻酔時の血圧降下には、通常成人1回4～8mgを静脈内注射することができる。なお、年齢、症状により適宜増減する。",
+  "contraindications": "カテコールアミン（アドレナリン、イソプレナリン、ドパミン等）を投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "心室細動、心室頻拍、冠攣縮等（いずれも頻度不明）\n静脈内注射で重篤な心室細動、心室頻拍、冠攣縮等があらわれ、心停止に至ることがある。\n,\n,\n重篤な血清カリウム値の低下（頻度不明）\nキサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること。\n,",
+  "observation_points": [
+    "心室細動、心室頻拍、冠攣縮等（いずれも頻度不明）",
+    "静脈内注射で重篤な心室細動、心室頻拍、冠攣縮等があらわれ、心停止に至ることがある",
+    ",",
+    "重篤な血清カリウム値の低下（頻度不明）",
+    "キサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること",
+    "心室細動、心室頻拍等の不整脈があらわれることがある",
+    "血圧上昇、頻脈等の発現が報告されている",
+    "冠動脈疾患のある患者に併用すると、本剤の作用を増強し、冠不全のリスクが増大するおそれがある",
+    "血清カリウム値が低下するおそれがあるので、血清カリウム値をモニターするとともに、減量するなど注意すること",
+    "血圧の異常上昇を起こすおそれがあるので、血圧等に注意し、慎重に投与すること",
+    "不整脈を起こすおそれがある",
+    "クロフェダノール塩酸塩の作用が減弱されることがある",
+    "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなるので、減量するなど慎重に投与すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カテコールアミン\nアドレナリン\nボスミン\nイソプレナリン\nプロタノール　等\nドパミン　等",
+      "clinical_symptom_action": "不整脈、場合によっては心停止を起こすおそれがある。",
+      "mechanism_risk_factor": "併用により交感神経刺激作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ハロゲン化吸入麻酔剤\nセボフルランイソフルランデスフルラン",
+      "clinical_symptom_action": "心室細動、心室頻拍等の不整脈があらわれることがある。",
+      "mechanism_risk_factor": "ハロゲン化吸入麻酔剤は交感神経刺激剤に対する心筋の感受性を高める。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩ラサギリンメシル酸塩サフィナミドメシル酸塩",
+      "clinical_symptom_action": "血圧上昇、頻脈等の発現が報告されている。",
+      "mechanism_risk_factor": "これらの薬剤のMAO-B選択性が低下した場合、交感神経刺激作用が増強されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺製剤\nレボチロキシンリオチロニン",
+      "clinical_symptom_action": "冠動脈疾患のある患者に併用すると、本剤の作用を増強し、冠不全のリスクが増大するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤が心臓のカテコールアミンに対する感受性を増大するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キサンチン誘導体\nテオフィリンジプロフィリン　等\nステロイド剤\nプレドニゾロン\nベタメタゾン　等\n利尿剤\nフロセミド\nヒドロクロロチアジド　等\n,",
+      "clinical_symptom_action": "血清カリウム値が低下するおそれがあるので、血清カリウム値をモニターするとともに、減量するなど注意すること。",
+      "mechanism_risk_factor": "併用により血清カリウム低下作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "オキシトシン",
+      "clinical_symptom_action": "血圧の異常上昇を起こすおそれがあるので、血圧等に注意し、慎重に投与すること。",
+      "mechanism_risk_factor": "併用により血圧上昇作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシンメチルジゴキシン\nデスラノシド",
+      "clinical_symptom_action": "不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤及びジギタリス製剤の薬力学的相互作用により、不整脈が誘発されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロフェダノール塩酸塩",
+      "clinical_symptom_action": "クロフェダノール塩酸塩の作用が減弱されることがある。",
+      "mechanism_risk_factor": "クロフェダノール塩酸塩は咳中枢に作用し、咳嗽抑制作用を示す。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マオウ含有製剤\n葛根湯\n小青竜湯\n麻黄湯　等",
+      "clinical_symptom_action": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなるので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "交感神経刺激作用が増強されることが考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

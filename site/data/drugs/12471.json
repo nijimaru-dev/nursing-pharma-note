@@ -1,0 +1,40 @@
+{
+  "id": 12471,
+  "brand_name": "ベリキューボ錠2.5mg",
+  "generic_name": "ベルイシグアト",
+  "therapeutic_classification": "慢性心不全治療剤/可溶性グアニル酸シクラーゼ（sGC）刺激剤",
+  "indications": "慢性心不全ただし、慢性心不全の標準的な治療を受けている患者に限る。",
+  "dose_admin": "通常、成人にはベルイシグアトとして、1回2.5mgを1日1回食後経口投与から開始し、2週間間隔で1回投与量を5mg及び10mgに段階的に増量する。なお、血圧等患者の状態に応じて適宜減量する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n可溶性グアニル酸シクラーゼ（sGC）刺激薬（リオシグアト）を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "低血圧（7.4%）\n,\n,",
+  "observation_points": [
+    "低血圧（7.4%）",
+    ",",
+    "症候性低血圧を起こすおそれがある",
+    "治療上の有益性と危険性を十分に考慮し、治療上やむを得ないと判断された場合にのみ併用すること",
+    "血圧等患者の状態を継続的に観察しながら慎重に投与すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "可溶性グアニル酸シクラーゼ（sGC）刺激薬\nリオシグアト（アデムパス）",
+      "clinical_symptom_action": "症候性低血圧を起こすおそれがある。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、降圧作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PDE5阻害剤\nシルデナフィルクエン酸塩等",
+      "clinical_symptom_action": "症候性低血圧を起こすおそれがある。治療上の有益性と危険性を十分に考慮し、治療上やむを得ないと判断された場合にのみ併用すること。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、降圧作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等",
+      "clinical_symptom_action": "症候性低血圧を起こすおそれがある。血圧等患者の状態を継続的に観察しながら慎重に投与すること。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、降圧作用を増強するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

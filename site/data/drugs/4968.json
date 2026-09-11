@@ -1,0 +1,24 @@
+{
+  "id": 4968,
+  "brand_name": "ケイツーシロップ0.2%",
+  "generic_name": "メナテトレノン",
+  "therapeutic_classification": "ビタミンK\n2\nシロップ剤",
+  "indications": "新生児出血症及び新生児低プロトロンビン血症の治療\n新生児・乳児ビタミンK欠乏性出血症の予防",
+  "dose_admin": "〈新生児出血症及び新生児低プロトロンビン血症の治療〉\n通常1日1回、1mL（メナテトレノンとして2mg）を経口投与する。なお、症状に応じて3mL（メナテトレノンとして6mg）まで増量する。\n〈新生児・乳児ビタミンK欠乏性出血症の予防〉\n通常、出生後、哺乳が確立したことを確かめてから、1回1mL（メナテトレノンとして2mg）を経口投与する。その後、2回目として生後1週間又は産科退院時のいずれか早い時期、3回目として生後1ヵ月時にそれぞれ1回1mLを経口投与する。",
+  "contraindications": "",
+  "application_precautions": "薬剤投与時の注意\n出生後早期の新生児への投与は白湯で10倍程度に薄めるか、又は哺乳確立後に投与を行うこと。本剤は、シロップ剤で高浸透圧になっている。\n新生児又は乳児では、スティック包装から哺乳瓶やスプーン等に移して服用させること。スティック包装から直接服用させると誤嚥や口唇が傷付くおそれがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "併用に注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系抗凝血薬（ワルファリンカリウム）",
+      "clinical_symptom_action": "併用に注意すること。",
+      "mechanism_risk_factor": "ワルファリンの作用を減弱する。"
+    }
+  ],
+  "facility_notes": ""
+}

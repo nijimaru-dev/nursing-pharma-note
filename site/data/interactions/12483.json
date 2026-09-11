@@ -1,0 +1,128 @@
+[
+  {
+    "other_id": 16120,
+    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン（乾燥弱毒生麻しんワクチン、乾燥弱毒生風しんワクチン、経口生ポリオワクチン、乾燥BCG等）"
+  },
+  {
+    "other_id": 16121,
+    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン（乾燥弱毒生麻しんワクチン、乾燥弱毒生風しんワクチン、経口生ポリオワクチン、乾燥BCG等）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを阻害する薬剤\nフルコナゾール等"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8、CYP2C9又はCYP3Aを誘導する薬剤\nリファンピシン等"
+  },
+  {
+    "other_id": 453,
+    "other_brand": "アテノロール錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール等\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 454,
+    "other_brand": "アテノロール錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール等\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 456,
+    "other_brand": "アテノロール錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール等\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 458,
+    "other_brand": "アテノロール錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール等\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 8022,
+    "other_brand": "テノーミン錠50",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール等\n,\n,\n,\n,\n,"
+  }
+]

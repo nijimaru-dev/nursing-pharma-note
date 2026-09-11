@@ -1,0 +1,38 @@
+[
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4を阻害する薬剤\nエリスロマイシン等"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "リトナビル"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+  }
+]

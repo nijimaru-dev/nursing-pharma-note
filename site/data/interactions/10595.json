@@ -1,0 +1,254 @@
+[
+  {
+    "other_id": 253,
+    "other_brand": "アジレクト錠1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リスデキサンフェタミンメシル酸塩\nビバンセ\nメチルフェニデート塩酸塩\nコンサータリタリン\nメタンフェタミン塩酸塩\nヒロポン\nマジンドール\nサノレックス"
+  },
+  {
+    "other_id": 2269,
+    "other_brand": "エクフィナ錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "中枢神経刺激剤メチルフェニデート塩酸塩\nリタリン\nコンサータ\nリスデキサンフェタミンメシル酸塩\nビバンセ\nメタンフェタミン塩酸塩\nヒロポン"
+  },
+  {
+    "other_id": 2763,
+    "other_brand": "エフピーOD錠2.5",
+    "interaction_type": "contraindicated",
+    "source_text": "メタンフェタミン塩酸塩\nヒロポン\n®\nリスデキサンフェタミンメシル酸塩\nビバンセ\n®"
+  },
+  {
+    "other_id": 6661,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "メタンフェタミン塩酸塩\nヒロポン\n®\nリスデキサンフェタミンメシル酸塩\nビバンセ\n®"
+  },
+  {
+    "other_id": 6662,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
+    "interaction_type": "contraindicated",
+    "source_text": "メタンフェタミン塩酸塩\nヒロポン\n®\nリスデキサンフェタミンメシル酸塩\nビバンセ\n®"
+  },
+  {
+    "other_id": 8863,
+    "other_brand": "トレドミン錠12.5mg",
+    "interaction_type": "caution",
+    "source_text": "リスデキサンフェタミンメシル酸塩"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩\n（エフピー）\nラサギリンメシル酸塩\n（アジレクト）\nサフィナミドメシル酸塩\n（エクフィナ）"
+  },
+  {
+    "other_id": 9897,
+    "other_brand": "バイフィル専用炭酸水素ナトリウム補充液1.39%",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 16761,
+    "other_brand": "炭酸水素ナトリウム「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 16762,
+    "other_brand": "炭酸水素ナトリウム「ヤマゼン」M",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 16764,
+    "other_brand": "炭酸水素ナトリウム　シオエ",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 16766,
+    "other_brand": "炭酸水素ナトリウム「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 16771,
+    "other_brand": "炭酸水素ナトリウム「フソー」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 16772,
+    "other_brand": "炭酸水素ナトリウム「昭和」（M）",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 16773,
+    "other_brand": "炭酸水素ナトリウム「東海」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 17317,
+    "other_brand": "重ソー注7%「CMX」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 17319,
+    "other_brand": "重ソー静注7％「NS」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 17321,
+    "other_brand": "重ソー静注8.4％「NS」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHをアルカリ化する薬剤\n炭酸水素ナトリウム等"
+  },
+  {
+    "other_id": 258,
+    "other_brand": "アスコルビン酸「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHを酸性化する薬剤\nアスコルビン酸等"
+  },
+  {
+    "other_id": 260,
+    "other_brand": "アスコルビン酸原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHを酸性化する薬剤\nアスコルビン酸等"
+  },
+  {
+    "other_id": 272,
+    "other_brand": "アスコルビン酸注500mgPB「日新」",
+    "interaction_type": "caution",
+    "source_text": "尿のpHを酸性化する薬剤\nアスコルビン酸等"
+  },
+  {
+    "other_id": 9779,
+    "other_brand": "ハイシー顆粒25%",
+    "interaction_type": "caution",
+    "source_text": "尿のpHを酸性化する薬剤\nアスコルビン酸等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、三環系抗うつ剤等"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、三環系抗うつ剤等"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、三環系抗うつ剤等"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、三環系抗うつ剤等"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）、セロトニン・ノルアドレナリン再取り込み阻害剤（SNRI）、三環系抗うつ剤等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート塩酸塩"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート塩酸塩"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート塩酸塩"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート塩酸塩"
+  },
+  {
+    "other_id": 14764,
+    "other_brand": "リタリン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート塩酸塩"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート塩酸塩"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "メチルフェニデート塩酸塩"
+  },
+  {
+    "other_id": 13510,
+    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "リスデキサンフェタミンメシル酸塩"
+  },
+  {
+    "other_id": 13511,
+    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リスデキサンフェタミンメシル酸塩"
+  },
+  {
+    "other_id": 13512,
+    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "リスデキサンフェタミンメシル酸塩"
+  }
+]

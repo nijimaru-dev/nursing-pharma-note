@@ -1,0 +1,182 @@
+{
+  "id": 4767,
+  "brand_name": "グリクラジド錠20mg「サワイ」",
+  "generic_name": "グリクラジド",
+  "therapeutic_classification": "経口血糖降下剤",
+  "indications": "インスリン非依存型糖尿病（成人型糖尿病）（ただし、食事療法・運動療法のみで十分な効果が得られない場合に限る。）",
+  "dose_admin": "グリクラジドとして、通常成人では1日40mgより開始し、1日1～2回（朝又は朝夕）食前又は食後に経口投与する。維持量は通常1日40～120mgであるが、160mgを超えないものとする。",
+  "contraindications": "重症ケトーシス、糖尿病性昏睡又は前昏睡、インスリン依存型糖尿病の患者［インスリンの適用である。］\n重篤な肝又は腎機能障害のある患者［低血糖を起こすおそれがある。］\n,\n,\n重症感染症、手術前後、重篤な外傷のある患者［インスリンの適用である。］\n下痢、嘔吐等の胃腸障害のある患者［低血糖を起こすおそれがある。］\n本剤の成分又はスルホンアミド系薬剤に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "低血糖（1.9%）\n脱力感、高度の空腹感、発汗等（初期症状として）が、また、心悸亢進、振戦、頭痛、知覚異常、不安、興奮、神経過敏、集中力低下、精神障害、意識障害、痙れん等があらわれることがある。なお、徐々に進行する低血糖では、精神障害、意識障害等が主である場合があるので注意すること。低血糖症状が認められた場合には、糖質を含む食品を摂取するなど適切な処置を行うこと。ただし、α-グルコシダーゼ阻害剤との併用により低血糖症状が認められた場合にはブドウ糖を投与すること。\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n無顆粒球症（0.1%未満）\n肝機能障害、黄疸（0.1%未満）\nAST、ALT、ALPの上昇等を伴う肝機能障害、黄疸があらわれることがある。",
+  "observation_points": [
+    "低血糖（1.9%）",
+    "脱力感、高度の空腹感、発汗等（初期症状として）が、また、心悸亢進、振戦、頭痛、知覚異常、不安、興奮、神経過敏、集中力低下、精神障害、意識障害、痙れん等があらわれることがある",
+    "なお、徐々に進行する低血糖では、精神障害、意識障害等が主である場合があるので注意すること",
+    "低血糖症状が認められた場合には、糖質を含む食品を摂取するなど適切な処置を行うこと",
+    "ただし、α-グルコシダーゼ阻害剤との併用により低血糖症状が認められた場合にはブドウ糖を投与すること",
+    ",",
+    "無顆粒球症（0.1%未満）",
+    "肝機能障害、黄疸（0.1%未満）",
+    "AST、ALT、ALPの上昇等を伴う肝機能障害、黄疸があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤チアゾリジン系薬剤α-グルコシダーゼ阻害剤DPP-4阻害剤GLP-1受容体作動薬SGLT2阻害剤\nイメグリミン塩酸塩　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "これらの薬剤の血糖降下作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ピラゾロン系消炎剤\nケトフェニルブタゾン等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "ピラゾロン系消炎剤によるスルホニル尿素系薬剤の蛋白結合の阻害、肝代謝の抑制、腎排泄の抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サルファ剤\nスルファメトキサゾール　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "サルファ剤によるスルホニル尿素系薬剤の蛋白結合の阻害、肝代謝の抑制等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サリチル酸剤\nアスピリンサザピリン　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "サリチル酸剤によるスルホニル尿素系薬剤の蛋白結合の阻害、サリチル酸剤の血糖降下作用が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロフィブラートベザフィブラート",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "これらの薬剤によるスルホニル尿素系薬剤の蛋白結合の阻害又は腎排泄の抑制、インスリン抵抗性の減弱等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系薬剤\nワルファリン",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "これらの薬剤によるスルホニル尿素系薬剤の肝代謝の抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロラムフェニコール",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "これらの薬剤によるスルホニル尿素系薬剤の肝代謝の抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミコナゾールフルコナゾール",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "これらの薬剤によるスルホニル尿素系薬剤の肝代謝の抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プロベネシド",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "プロベネシドによるスルホニル尿素系薬剤の腎排泄の抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジヒドロエルゴタミン製剤",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "ジヒドロエルゴタミン製剤によるスルホニル尿素系薬剤のインスリン分泌作用の促進が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジソピラミドシベンゾリンピルメノール",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "これらの薬剤によるインスリン分泌の促進等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β遮断剤\nプロプラノロールピンドロール　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明であるが、アドレナリンを介した低血糖からの回復の抑制、低血糖時の交感神経症状（心悸亢進等）の不顕性化等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明であるが、モノアミン酸化酵素阻害剤によるインスリン分泌の促進、肝での糖新生抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三環系抗うつ剤\nイミプラミンノルトリプチリン　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明であるが、三環系抗うつ剤による低血糖に対する反応の変化、末梢でのインスリン感受性促進が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリンドキシサイクリン　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クラリスロマイシン",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アドレナリン",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "アドレナリンによる末梢でのブドウ糖の取り込み抑制、肝での糖新生促進、インスリン分泌の抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副腎皮質ホルモン",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "副腎皮質ホルモンによる肝での糖新生促進、末梢でのインスリン感受性低下等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン\n乾燥甲状腺リオチロニンレボチロキシン",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "甲状腺ホルモンによる腸管でのブドウ糖吸収促進、肝での糖新生促進等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "利尿剤によるインスリン分泌抑制、末梢でのインスリン感受性低下等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "フェニトインによるインスリン分泌抑制が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "リファンピシンによるスルホニル尿素系薬剤の肝代謝の促進が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イソニアジドニコチン酸",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "これらの薬剤による血糖上昇作用が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "卵胞ホルモン\nエチニルエストラジオールエストリオール　等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明であるが、卵胞ホルモンによるコルチゾール分泌変化、組織での糖利用変化、成長ホルモンの過剰産生、肝機能の変化、末梢でのインスリン感受性低下等が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェノチアジン系薬剤\nクロルプロマジン等",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明であるが、クロルプロマジンによるインスリン分泌抑制、副腎からのアドレナリン遊離が考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ピラジナミド",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

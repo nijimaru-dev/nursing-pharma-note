@@ -1,0 +1,119 @@
+{
+  "id": 9892,
+  "brand_name": "バイカロン錠25mg",
+  "generic_name": "メフルシド錠",
+  "therapeutic_classification": "降圧利尿剤",
+  "indications": "下記の慢性浮腫における利尿心性浮腫、腎性浮腫、肝性浮腫\n高血圧症（本態性、腎性）",
+  "dose_admin": "メフルシドとして、通常成人1日25～50mgを経口投与する。この1日量を朝1回投与するか、または朝、昼の2回に分けて経口投与する。なお、年齢、症状により適宜増減する。ただし、高血圧症に用いる場合には少量から投与を開始して徐々に増量すること。また、悪性高血圧に用いる場合には、通常、他の降圧剤と併用すること。",
+  "contraindications": "無尿、急性腎不全の患者［腎機能を更に悪化させるおそれがある。］\n体液中のナトリウム・カリウムが明らかに減少している患者［低ナトリウム血症、低カリウム血症等の電解質失調を悪化させるおそれがある。］\n,\n既往にチアジド系薬剤又はその類似化合物（スルホンアミド誘導体）に対する過敏症を起こした患者［皮疹、光線過敏症があらわれるおそれがある。］\n肝性昏睡の患者\nデスモプレシン酢酸塩水和物（男性における夜間多尿による夜間頻尿）を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "低ナトリウム血症（頻度不明）\n倦怠感、食欲不振、嘔気、嘔吐、痙攣、意識障害等を伴う低ナトリウム血症があらわれることがある。\n,\n,\n,\n,\n,\n,\n低カリウム血症（頻度不明）\n倦怠感、脱力感、不整脈等を伴う低カリウム血症があらわれることがある。\n,\n,\n,\n,\n,\n,\n,",
+  "observation_points": [
+    "低ナトリウム血症（頻度不明）",
+    "倦怠感、食欲不振、嘔気、嘔吐、痙攣、意識障害等を伴う低ナトリウム血症があらわれることがある",
+    ",",
+    "低カリウム血症（頻度不明）",
+    "倦怠感、脱力感、不整脈等を伴う低カリウム血症があらわれることがある",
+    "起立性低血圧を増強することがある",
+    "昇圧アミンの作用を減弱させるおそれがある",
+    "手術前の患者に使用する場合には一時休薬等の処置を行うこと",
+    "麻痺作用を増強するおそれがある",
+    "血圧低下を起こすおそれがあるので、降圧剤の用量調節等に注意すること",
+    "不整脈等を起こすおそれがある",
+    "本剤の連用により電解質失調があらわれることがあるので、血清カリウム値に十分注意すること",
+    "血清カリウム値の低下があらわれやすくなる",
+    "低カリウム血症を起こすおそれがある",
+    "糖尿病用剤の作用を著しく減弱するおそれがある",
+    "リチウム中毒（手指の振戦、せん妄、痙攣等）を起こすおそれがある",
+    "血清リチウム濃度に注意すること",
+    "利尿降圧効果を減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "デスモプレシン酢酸塩水和物\n（ミニリンメルト）（男性における夜間多尿による夜間頻尿）\n,",
+      "clinical_symptom_action": "低ナトリウム血症が発現するおそれがある。",
+      "mechanism_risk_factor": "いずれも低ナトリウム血症が発現するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルビツール酸誘導体",
+      "clinical_symptom_action": "起立性低血圧を増強することがある。",
+      "mechanism_risk_factor": "これらの薬剤の中枢抑制作用と利尿剤の降圧作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "あへんアルカロイド系麻薬",
+      "clinical_symptom_action": "起立性低血圧を増強することがある。",
+      "mechanism_risk_factor": "あへんアルカロイドの大量投与で血圧下降があらわれることが報告されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール（飲酒）",
+      "clinical_symptom_action": "起立性低血圧を増強することがある。",
+      "mechanism_risk_factor": "アルコールは心血管系の抑制作用があり、利尿剤の降圧作用を増強する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "昇圧アミン（ノルアドレナリン等）",
+      "clinical_symptom_action": "昇圧アミンの作用を減弱させるおそれがある。手術前の患者に使用する場合には一時休薬等の処置を行うこと。",
+      "mechanism_risk_factor": "ノルアドレナリン等の昇圧アミンに対する血管壁の反応性を低下させる可能性が考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ツボクラリン及びその類似作用物質（ツボクラリン塩化物塩酸塩水和物等）",
+      "clinical_symptom_action": "麻痺作用を増強するおそれがある。手術前の患者に使用する場合には一時休薬等の処置を行うこと。",
+      "mechanism_risk_factor": "チアジド系利尿剤は低カリウム血症を起こすことによりツボクラリンの神経遮断作用を増強すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他の降圧剤（ACE阻害剤、β遮断剤等）",
+      "clinical_symptom_action": "血圧低下を起こすおそれがあるので、降圧剤の用量調節等に注意すること。",
+      "mechanism_risk_factor": "β遮断剤、ACE阻害剤、Ca拮抗剤、α遮断剤、クロニジン、メチルドパとの併用により、降圧作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス剤（ジゴキシン、ジギトキシン）",
+      "clinical_symptom_action": "不整脈等を起こすおそれがある。本剤の連用により電解質失調があらわれることがあるので、血清カリウム値に十分注意すること。",
+      "mechanism_risk_factor": "低カリウム血症を起こし、ジギタリスの心臓毒性を増強する可能性が考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グリチルリチン製剤",
+      "clinical_symptom_action": "血清カリウム値の低下があらわれやすくなる。",
+      "mechanism_risk_factor": "グリチルリチン製剤は低カリウム血症を主徴とした偽アルドステロン症を引き起こすことがある。したがって両剤の併用により低カリウム血症を増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖質副腎皮質ホルモン剤\nACTH",
+      "clinical_symptom_action": "低カリウム血症を起こすおそれがある。",
+      "mechanism_risk_factor": "糖質副腎皮質ホルモンを併用するとカリウム排泄が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖尿病用剤（SU剤、インスリン）",
+      "clinical_symptom_action": "糖尿病用剤の作用を著しく減弱するおそれがある。",
+      "mechanism_risk_factor": "カリウム欠乏時には、血糖上昇反応に対して膵臓のβ細胞のインスリンを放出する能力が低下すると考えられている。また、末梢でのインスリン作用が影響を受けるとの考えもある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リチウム",
+      "clinical_symptom_action": "リチウム中毒（手指の振戦、せん妄、痙攣等）を起こすおそれがある。血清リチウム濃度に注意すること。",
+      "mechanism_risk_factor": "チアジド系利尿剤の長期投与ではナトリウムの近位尿細管再吸収が代償的に増加し、その結果、リチウムの再吸収も同様に増加するといわれている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コレスチラミン",
+      "clinical_symptom_action": "利尿降圧効果を減弱するおそれがある。",
+      "mechanism_risk_factor": "コレスチラミンの吸着作用により、利尿剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "非ステロイド系消炎鎮痛剤（インドメタシン等）",
+      "clinical_symptom_action": "利尿降圧効果を減弱するおそれがある。",
+      "mechanism_risk_factor": "非ステロイド系消炎鎮痛剤のプロスタグランジン合成抑制による水・Na体内貯留傾向が、本剤の水・Na排泄作用に拮抗するためと考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

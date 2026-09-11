@@ -1,0 +1,26 @@
+[
+  {
+    "other_id": 3128,
+    "other_brand": "オノアクト点滴静注用50mg",
+    "interaction_type": "caution",
+    "source_text": "コリンエステラーゼ阻害剤\nネオスチグミンジスチグミン臭化物エドロホニウム塩化物等"
+  },
+  {
+    "other_id": 5101,
+    "other_brand": "コアベータ静注用12.5mg",
+    "interaction_type": "caution",
+    "source_text": "コリンエステラーゼ阻害剤\nネオスチグミンジスチグミン臭化物エドロホニウム塩化物等"
+  },
+  {
+    "other_id": 11664,
+    "other_brand": "ブレビブロック注 100mg",
+    "interaction_type": "caution",
+    "source_text": "コリンエステラーゼ阻害剤\nネオスチグミン\nジスチグミン臭化物\nエドロホニウム塩化物等"
+  },
+  {
+    "other_id": 14572,
+    "other_brand": "ランジオロール塩酸塩点滴静注用50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "コリンエステラーゼ阻害剤\nネオスチグミン\nジスチグミン臭化物\nエドロホニウム塩化物等"
+  }
+]

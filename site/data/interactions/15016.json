@@ -1,0 +1,26 @@
+[
+  {
+    "other_id": 2829,
+    "other_brand": "エリスロシン点滴静注用500mg",
+    "interaction_type": "contraindicated",
+    "source_text": "クリンダマイシン（注射剤、経口剤）（ダラシンS注射液、ダラシンカプセル）\nリンコマイシン塩酸塩水和物（リンコシン）"
+  },
+  {
+    "other_id": 2830,
+    "other_brand": "エリスロシン錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "クリンダマイシン（注射剤、経口剤）（ダラシンS注射液、ダラシンカプセル）\nリンコマイシン塩酸塩水和物（リンコシン）"
+  },
+  {
+    "other_id": 2827,
+    "other_brand": "エリスロシンドライシロップ10％",
+    "interaction_type": "contraindicated",
+    "source_text": "クリンダマイシン（注射剤、経口剤）（ダラシンS注射液、ダラシンカプセル）\nリンコマイシン塩酸塩水和物（リンコシン）"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "クリンダマイシン（注射剤、経口剤）\n（ダラシンS注射液、ダラシンカプセル）\nリンコマイシン塩酸塩水和物\n（リンコシン）"
+  }
+]

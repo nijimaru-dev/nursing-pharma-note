@@ -1,0 +1,43 @@
+{
+  "id": 15523,
+  "brand_name": "レルミナ錠40mg",
+  "generic_name": "レルゴリクス",
+  "therapeutic_classification": "GnRHアンタゴニスト",
+  "indications": "子宮筋腫に基づく下記諸症状の改善過多月経、下腹痛、腰痛、貧血\n子宮内膜症に基づく疼痛の改善",
+  "dose_admin": "通常、成人にはレルゴリクスとして40mgを1日1回食前に経口投与する。なお、初回投与は月経周期1～5日目に行う。",
+  "contraindications": "妊婦又は妊娠している可能性のある患者、授乳中の患者\n,\n,\n診断のつかない異常性器出血の患者［悪性疾患の可能性がある。］\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "うつ状態（1％未満）\nエストロゲン低下作用に基づく更年期障害様のうつ状態があらわれることがある。\n肝機能障害（頻度不明）\nAST、ALTの上昇等を伴う肝機能障害があらわれることがある。\n狭心症（1％未満）",
+  "observation_points": [
+    "うつ状態（1％未満）",
+    "エストロゲン低下作用に基づく更年期障害様のうつ状態があらわれることがある",
+    "肝機能障害（頻度不明）",
+    "AST、ALTの上昇等を伴う肝機能障害があらわれることがある",
+    "狭心症（1％未満）",
+    "本剤の血中濃度が上昇することがある",
+    "本剤の血中濃度が低下し、効果が減弱することがある",
+    "本剤の効果が減弱することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エリスロマイシン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "P-gpが阻害されることによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、効果が減弱することがある。",
+      "mechanism_risk_factor": "P-gpが誘導されることによると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "性ホルモン剤\nエストラジオール誘導体エストリオール誘導体結合型エストロゲン製剤卵胞ホルモンと黄体ホルモンの合剤両性混合ホルモン剤等",
+      "clinical_symptom_action": "本剤の効果が減弱することがある。",
+      "mechanism_risk_factor": "本剤は性ホルモンの分泌を低下させることにより薬効を示す。したがって、性ホルモン剤の投与は本剤の治療効果を減弱させる可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

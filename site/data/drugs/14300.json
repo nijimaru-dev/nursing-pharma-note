@@ -1,0 +1,24 @@
+{
+  "id": 14300,
+  "brand_name": "ラクツロース・シロップ60％「コーワ」",
+  "generic_name": "ラクツロース",
+  "therapeutic_classification": "経口用二糖類製剤",
+  "indications": "高アンモニア血症に伴う下記症候の改善\n精神神経障害、脳波異常、手指振戦",
+  "dose_admin": "通常成人1日量30～60mLを2～3回に分けて経口投与する。症状により適宜増減する。なお、本剤の投与により、下痢が惹起されることがあるので少量より投与を開始して漸増し、1日2～3回の軟便がみられる量を投与する。",
+  "contraindications": "ガラクトース血症の患者［本剤はガラクトース（13w/v%以下）及び乳糖（7w/v%以下）を含有する。］",
+  "application_precautions": "薬剤交付時の注意\n分包品は服用直前まで開封しないこと。服用後の残液は廃棄し、保存しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "消化器系副作用が増強される可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "α-グルコシダーゼ阻害剤\nアカルボースボグリボースミグリトール",
+      "clinical_symptom_action": "消化器系副作用が増強される可能性がある。",
+      "mechanism_risk_factor": "左記薬剤により増加する未消化多糖類及びラクツロースは、共に腸内細菌で分解されるため、併用により腸内ガスの発生や下痢等が増加する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

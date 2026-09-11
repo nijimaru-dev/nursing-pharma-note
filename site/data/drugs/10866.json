@@ -1,0 +1,28 @@
+{
+  "id": 10866,
+  "brand_name": "ピラマイド原末",
+  "generic_name": "ピラジナミド",
+  "therapeutic_classification": "結核化学療法剤",
+  "indications": "〈適応菌種〉\n本剤に感性の結核菌\n〈適応症〉\n肺結核及びその他の結核症",
+  "dose_admin": "通常、成人は、ピラジナミドとして、1日量1.5～2.0gを1～3回に分けて経口投与する。年齢、症状により適宜増減する。なお、他の抗結核薬と併用すること。",
+  "contraindications": "肝障害のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "重篤な肝障害（頻度不明）\n劇症肝炎等の重篤な肝障害、黄疸があらわれることがある。\n,\n間質性腎炎（頻度不明）",
+  "observation_points": [
+    "重篤な肝障害（頻度不明）",
+    "劇症肝炎等の重篤な肝障害、黄疸があらわれることがある",
+    ",",
+    "間質性腎炎（頻度不明）",
+    "副作用として肝障害の頻度が高く、併用により肝障害発現の危険性が増大する"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "肝障害を起こしやすい薬剤",
+      "clinical_symptom_action": "副作用として肝障害の頻度が高く、併用により肝障害発現の危険性が増大する。",
+      "mechanism_risk_factor": "危険因子：肝障害のある患者"
+    }
+  ],
+  "facility_notes": ""
+}

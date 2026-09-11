@@ -1,0 +1,24 @@
+{
+  "id": 4972,
+  "brand_name": "ケイラーゼSA配合顆粒",
+  "generic_name": "ビオヂアスターゼ2000配合剤",
+  "therapeutic_classification": "総合消化酵素製剤",
+  "indications": "消化異常症状の改善",
+  "dose_admin": "通常成人は、1回240mgを1日3回食後経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nウシ又はブタたん白質に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤調製時の注意\n顆粒の腸溶性皮膜を破損せぬように注意すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "両剤の薬効に影響を及ぼす可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "α-グルコシダーゼ阻害剤アカルボース",
+      "clinical_symptom_action": "両剤の薬効に影響を及ぼす可能性がある。",
+      "mechanism_risk_factor": "アカルボースはα-アミラーゼ活性の阻害作用を有するので、炭水化物消化酵素製剤とは作用が拮抗するためと考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

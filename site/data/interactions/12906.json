@@ -1,0 +1,230 @@
+[
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\nボカブリア"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\nボカブリア"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\nボカブリア"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 8763,
+    "other_brand": "トランコロンP配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\nボカブリア"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン\nリファジン\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール"
+  },
+  {
+    "other_id": 13336,
+    "other_brand": "ミコブティンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13626,
+    "other_brand": "メソトレキセート注射液50mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13627,
+    "other_brand": "メソトレキセート注射液5mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13628,
+    "other_brand": "メソトレキセート点滴静注液200mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13630,
+    "other_brand": "メソトレキセート錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13681,
+    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13685,
+    "other_brand": "メトトレキサート錠2mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13687,
+    "other_brand": "メトトレキサート錠2mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 14613,
+    "other_brand": "リウマトレックスカプセル2mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16597,
+    "other_brand": "注射用メソトレキセート50mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16598,
+    "other_brand": "注射用メソトレキセート5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 14938,
+    "other_brand": "リファンピシンカプセル150mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "抗ウイルス剤\nHIV感染症治療薬\nカボテグラビル\nカボテグラビルナトリウム\nボカブリア"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\n（ボカブリア）"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\nボカブリア"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "カボテグラビル\nボカブリア"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": 4480,
+  "brand_name": "クリアナール錠200mg",
+  "generic_name": "フドステイン錠",
+  "therapeutic_classification": "気道分泌細胞正常化剤",
+  "indications": "以下の慢性呼吸器疾患における去痰気管支喘息、慢性気管支炎、気管支拡張症、肺結核、塵肺症、肺気腫、非定型抗酸菌症、びまん性汎細気管支炎",
+  "dose_admin": "通常、成人にはフドステインとして1回400mgを1日3回食後経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、Al-P、LDHの上昇等を伴う肝機能障害や黄疸があらわれることがある。\n中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）",
+  "observation_points": [
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST、ALT、Al-P、LDHの上昇等を伴う肝機能障害や黄疸があらわれることがある",
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

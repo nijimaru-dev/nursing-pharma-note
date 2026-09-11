@@ -1,0 +1,338 @@
+[
+  {
+    "other_id": 1890,
+    "other_brand": "インクレミンシロップ5％",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウムリオチロニンナトリウム等"
+  },
+  {
+    "other_id": 4347,
+    "other_brand": "クエン酸第一鉄ナトリウム錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物\nリオチロニンナトリウム等"
+  },
+  {
+    "other_id": 4349,
+    "other_brand": "クエン酸第一鉄Na錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物\nリオチロニンナトリウム等"
+  },
+  {
+    "other_id": 4350,
+    "other_brand": "クエン酸第一鉄Na錠50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物\nリオチロニンナトリウム等"
+  },
+  {
+    "other_id": 4351,
+    "other_brand": "クエン酸第一鉄Na錠50mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物\nリオチロニンナトリウム等"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム等"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム等"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム等"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン\nノルアドレナリン\nエフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン\nノルアドレナリン\nエフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン\nノルアドレナリン\nエフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン\nノルアドレナリン\nエフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン\nノルアドレナリン\nエフェドリン・メチルエフェドリン含有製剤"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体製剤\nジゴキシン\nジギトキシン等"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体製剤\nジゴキシン\nジギトキシン等"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体製剤\nジゴキシン\nジギトキシン等"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体製剤\nジゴキシン\nジギトキシン等"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体製剤\nジゴキシン\nジギトキシン等"
+  },
+  {
+    "other_id": 4294,
+    "other_brand": "クエストラン粉末44.4%",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 5264,
+    "other_brand": "コレバイン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 11302,
+    "other_brand": "フォスブロック錠250mg",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 12718,
+    "other_brand": "ホスレノールチュアブル錠250mg",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 12720,
+    "other_brand": "ホスレノール顆粒分包250mg",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 12722,
+    "other_brand": "ホスレノールOD錠250mg",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 15216,
+    "other_brand": "レナジェル錠250mg",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 16733,
+    "other_brand": "炭酸ランタン顆粒分包250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン\nコレスチミド\n鉄剤\nアルミニウム含有制酸剤\n炭酸カルシウム\n炭酸ランタン水和物\nセベラマー塩酸塩"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン製剤\nカルバマゼピン\nフェノバルビタール"
+  },
+  {
+    "other_id": 2381,
+    "other_brand": "エストラジオール錠0.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 2386,
+    "other_brand": "エストリオール錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 2387,
+    "other_brand": "エストリール腟錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 2388,
+    "other_brand": "エストリール錠100γ",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 6058,
+    "other_brand": "ジュリナ錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 11996,
+    "other_brand": "プレマリン錠0.625mg",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 12898,
+    "other_brand": "ホーリン錠1mg",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 12899,
+    "other_brand": "ホーリンV腟用錠1mg",
+    "interaction_type": "caution",
+    "source_text": "経口エストロゲン製剤\n結合型エストロゲン\nエストラジオール\nエストリオール等"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "リオチロニンナトリウム\nレボチロキシンナトリウム水和物"
+  },
+  {
+    "other_id": 11246,
+    "other_brand": "フェロミア錠50mg",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物\nリオチロニンナトリウム等"
+  },
+  {
+    "other_id": 13654,
+    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "甲状腺製剤\n乾燥甲状腺レボチロキシンナトリウム水和物リオチロニンナトリウム"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "甲状腺製剤\n乾燥甲状腺レボチロキシンナトリウム水和物リオチロニンナトリウム"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "caution",
+    "source_text": "リオチロニンナトリウム\nレボチロキシンナトリウム水和物"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "caution",
+    "source_text": "リオチロニンナトリウム、レボチロキシンナトリウム水和物"
+  }
+]

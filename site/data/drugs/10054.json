@@ -1,0 +1,107 @@
+{
+  "id": 10054,
+  "brand_name": "バルデナフィル錠5mg「FCI」",
+  "generic_name": "バルデナフィル塩酸塩水和物錠",
+  "therapeutic_classification": "勃起不全治療剤",
+  "indications": "勃起不全（満足な性行為を行うに十分な勃起とその維持が出来ない患者）",
+  "dose_admin": "通常、成人には1日1回バルデナフィルとして10mgを性行為の約1時間前に経口投与する。10mgの投与で十分な効果が得られず、忍容性が良好と判断された器質性又は混合型勃起不全患者に対しては、20mgに増量することができる。高齢者（65歳以上）、中等度の肝障害のある患者については、本剤の血漿中濃度が上昇することが認められているので、5mgを開始用量とし、最高用量は10mgとする。1日の投与は1回とし、投与間隔は24時間以上とすること。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n硝酸剤あるいは一酸化窒素（NO）供与剤（ニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等）を投与中の患者\n,\n心血管系障害を有するなど性行為が不適当と考えられる患者\n,\n先天性のQT延長患者（QT延長症候群）、クラスIA（キニジン、プロカインアミド、ジソピラミド（経口剤）、シベンゾリン、ピルメノール）又はクラスⅢ（アミオダロン（経口剤）、ソタロール）の抗不整脈薬を投与中の患者\n,\n脳梗塞・脳出血や心筋梗塞の既往歴が最近6ヵ月以内にある患者\n,\n重度の肝障害のある患者\n血液透析が必要な腎障害のある患者\n低血圧（安静時収縮期血圧＜90mmHg）又は治療による管理がなされていない高血圧（安静時収縮期血圧＞170mmHg又は安静時拡張期血圧＞100mmHg）患者\n,\n不安定狭心症のある患者\n,\nリオシグアト、CYP3A4を阻害する薬剤（リトナビル、アタザナビル、ホスアンプレナビル、ロピナビル・リトナビル、ニルマトレルビル・リトナビル、ダルナビルを含有する製剤、ケトコナゾール（外用剤を除く）、イトラコナゾール、エンシトレルビル、コビシスタットを含有する製剤、セリチニブ）を投与中の患者\n網膜色素変性症患者［網膜色素変性症の患者にはホスホジエステラーゼ（PDE）の遺伝的障害を持つ症例が少数認められる。］",
+  "application_precautions": "薬剤交付時の注意\n本剤には性行為感染症を防ぐ効果はない。\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "エリスロマイシンで、本剤のAUCが4倍に増加し、Cmaxが3倍に上昇するとの報告がある",
+    "本剤の血漿中濃度が上昇するおそれがある",
+    "本剤の血漿中濃度が低下するおそれがある",
+    "併用により、降圧作用が増強するおそれがある",
+    "併用により、症候性低血圧があらわれるおそれがあるので、α遮断薬と併用する場合には、α遮断薬との投与間隔を考慮すること",
+    ","
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,",
+      "clinical_symptom_action": "併用により降圧作用が増強し、過度に血圧を下降させることがある。",
+      "mechanism_risk_factor": "NOはcGMPの産生を刺激し、一方、本剤はcGMPの分解を抑制することから、両剤の併用によりcGMPの増大を介するNOの降圧作用が増強する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リオシグアト（アデムパス）",
+      "clinical_symptom_action": "症候性低血圧を起こすことがある。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、全身血圧に相加的な影響を及ぼすおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "CYP3A4を阻害する薬剤\nリトナビル（ノービア）\n,",
+      "clinical_symptom_action": "本剤のAUC\n0-24\nが49倍に増加し、Cmaxが13倍に上昇し、半減期が10倍に延長するとの報告がある\n。",
+      "mechanism_risk_factor": "CYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アタザナビル（レイアタッツ）ホスアンプレナビル（レクシヴァ）ロピナビル・リトナビル（カレトラ）\nニルマトレルビル・リトナビル（パキロビッド）ダルナビルを含有する製剤（プリジスタ、プレジコビックス、シムツーザ）",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇し、半減期が延長するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,",
+      "clinical_symptom_action": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。",
+      "mechanism_risk_factor": "CYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エンシトレルビル（ゾコーバ）",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "セリチニブ（ジカディア）",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "コビシスタットを含有する製剤（スタリビルド、ゲンボイヤ、プレジコビックス、シムツーザ）",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "クラスⅠA抗不整脈薬\nキニジン、プロカインアミド（アミサリン）、ジソピラミド（リスモダン（経口剤））、シベンゾリン（シベノール）、ピルメノール（ピメノール）\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン（経口剤））、ソタロール（ソタコール）\n,",
+      "clinical_symptom_action": "本剤の心臓伝導系への影響を検討する臨床薬理試験において本剤投与によるQTc延長がみられている。",
+      "mechanism_risk_factor": "これらの薬剤はいずれもQTc延長作用がみられている。本剤を併用した場合、相加的なQTc延長がみられるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4を阻害する薬剤\nマクロライド系抗生物質（エリスロマイシン等）\n,",
+      "clinical_symptom_action": "エリスロマイシンで、本剤のAUCが4倍に増加し、Cmaxが3倍に上昇するとの報告がある\n。",
+      "mechanism_risk_factor": "CYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビカルタミド",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4阻害によりクリアランスが減少する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4を誘導する薬剤\nリファンピシン等",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4誘導によりクリアランスが増加する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルペリチド",
+      "clinical_symptom_action": "併用により、降圧作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用により降圧作用が増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "α遮断薬\nテラゾシン、タムスロシン等\n,\n,",
+      "clinical_symptom_action": "併用により、症候性低血圧があらわれるおそれがあるので、α遮断薬と併用する場合には、α遮断薬との投与間隔を考慮すること\n,\n,\n,\n。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用により降圧作用が増強する。"
+    }
+  ],
+  "facility_notes": ""
+}

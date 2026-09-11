@@ -1,0 +1,902 @@
+[
+  {
+    "other_id": 490,
+    "other_brand": "アデムパス錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "リトナビル含有製剤\nアタザナビル\nリルピビリン含有製剤\nコビシスタット含有製剤\nアバカビル含有製剤\nダルナビル含有製剤\nホスアンプレナビル"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "contraindicated",
+    "source_text": "タダラフィル（肺高血圧症を適応とする場合）\nアドシルカ\nマシテンタン\nオプスミット\nマシテンタン・タダラフィル\nユバンシ配合錠\nチカグレロル\nブリリンタ\nアルテメテル・ルメファントリン\nリアメット配合錠\nダルナビル・コビシスタット\nプレジコビックス配合錠\nドラビリン\nピフェルトロ\nルラシドン\nラツーダ\nリルピビリン\nエジュラント\nイサブコナゾニウム\nクレセンバ\nエンシトレルビル\nゾコーバ\nニルマトレルビル・リトナビル\nパキロビッド"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "タダラフィル（肺高血圧症を適応とする場合）\nアドシルカ\nマシテンタン\nオプスミット\nマシテンタン・タダラフィル\nユバンシ配合錠\nチカグレロル\nブリリンタ\nアルテメテル・ルメファントリン\nリアメット配合錠\nダルナビル・コビシスタット\nプレジコビックス配合錠\nドラビリン\nピフェルトロ\nルラシドン\nラツーダ\nリルピビリン\nエジュラント\nイサブコナゾニウム\nクレセンバ\nエンシトレルビル\nゾコーバ\nニルマトレルビル・リトナビル\nパキロビッド"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "タダラフィル（肺高血圧症を適応とする場合）\nアドシルカ\nマシテンタン\nオプスミット\nマシテンタン・タダラフィル\nユバンシ配合錠\nチカグレロル\nブリリンタ\nアルテメテル・ルメファントリン\nリアメット配合錠\nダルナビル・コビシスタット\nプレジコビックス配合錠\nドラビリン\nピフェルトロ\nルラシドン\nラツーダ\nリルピビリン\nエジュラント\nイサブコナゾニウム\nクレセンバ\nエンシトレルビル\nゾコーバ\nニルマトレルビル・リトナビル\nパキロビッド"
+  },
+  {
+    "other_id": 1449,
+    "other_brand": "アーリーダ錠60mg",
+    "interaction_type": "contraindicated",
+    "source_text": "レナカパビルナトリウム\nシュンレンカ\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nゲンボイヤ\nダルナビル エタノール付加物・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nシムツーザ\nビクテグラビルナトリウム・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nビクタルビ\nリルピビリン塩酸塩・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nオデフシィ"
+  },
+  {
+    "other_id": 1523,
+    "other_brand": "イクスタンジ錠40mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ドラビリン\n（ピフェルトロ）\nエンシトレルビル　フマル酸\n（ゾコーバ）\nレナカパビルナトリウム\n（シュンレンカ）\nニルマトレルビル・リトナビル\n（パキロビッド）\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（ゲンボイヤ）\nダルナビル エタノール付加物・コビシスタット\n（プレジコビックス）\nダルナビル エタノール付加物・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（シムツーザ）\nドルテグラビルナトリウム・リルピビリン塩酸塩\n（ジャルカ）\nビクテグラビルナトリウム・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（ビクタルビ）\nリルピビリン\n（リカムビス）\nリルピビリン塩酸塩\n（エジュラント）\nリルピビリン塩酸塩・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（オデフシィ）"
+  },
+  {
+    "other_id": 2424,
+    "other_brand": "エソメプラゾールカプセル10mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2425,
+    "other_brand": "エソメプラゾールカプセル10mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2426,
+    "other_brand": "エソメプラゾールカプセル10mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2427,
+    "other_brand": "エソメプラゾールカプセル10mg「ニプロ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2428,
+    "other_brand": "エソメプラゾールカプセル10mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2429,
+    "other_brand": "エソメプラゾールカプセル10mg「杏林」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2430,
+    "other_brand": "エソメプラゾールカプセル10mg「DSEP」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2431,
+    "other_brand": "エソメプラゾールカプセル10mg「YD」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 2440,
+    "other_brand": "エソメプラゾール錠10mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3183,
+    "other_brand": "オペプリム",
+    "interaction_type": "contraindicated",
+    "source_text": "エンシトレルビルフマル酸（ゾコーバ）\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩（ゲンボイヤ）\nダルナビル　エタノール付加物・コビシスタット（プレジコビックス）\nダルナビル　エタノール付加物・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩（シムツーザ）\nドラビリン（ピフェルトロ）\nドラビリン・イスラトラビル水和物（イドビンソ）\nドルテグラビルナトリウム・リルピビリン塩酸塩（ジャルカ）\nビクテグラビルナトリウム・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩（ビクタルビ）\nリルピビリン（リカムビス）\nリルピビリン塩酸塩（エジュラント）\nリルピビリン塩酸塩・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩（オデフシィ）\nレナカパビルナトリウム（シュンレンカ）"
+  },
+  {
+    "other_id": 3217,
+    "other_brand": "オメプラゾン錠10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3219,
+    "other_brand": "オメプラゾール注射用20mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3220,
+    "other_brand": "オメプラゾール注用20mg「NP」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3221,
+    "other_brand": "オメプラゾール注用20mg「TYK」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3222,
+    "other_brand": "オメプラゾール腸溶錠10mg「武田テバ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3224,
+    "other_brand": "オメプラゾール錠10「SW」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3225,
+    "other_brand": "オメプラゾール錠10mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3226,
+    "other_brand": "オメプラゾール錠10mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3227,
+    "other_brand": "オメプラゾール錠10mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3228,
+    "other_brand": "オメプラゾール錠10mg「TSU」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3234,
+    "other_brand": "オメプラール錠10",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 3356,
+    "other_brand": "オルガドロン注射液1.9mg",
+    "interaction_type": "contraindicated",
+    "source_text": "〈本剤全身投与の患者〉\nダクラタスビル塩酸塩\nダクルインザ\nアスナプレビル\nスンベプラ\n〈本剤全身投与の患者（ただし単回投与の場合を除く）〉\nリルピビリン塩酸塩\nエジュラント\nリルピビリン塩酸塩・テノホビル　アラフェナミドフマル酸塩・エムトリシタビン\nオデフシィ\nドルテグラビルナトリウム・リルピビリン塩酸塩\nジャルカ"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール\n（ブイフェンド）\nタダラフィル\n（アドシルカ）\nリルピビリン\n（エジュラント）\nマシテンタン\n（オプスミット）\nチカグレロル\n（ブリリンタ）\nグラゾプレビル\n（グラジナ）\nエルバスビル\n（エレルサ）\nドルテグラビル・リルピビリン\n（ジャルカ）\nダルナビル・コビシスタット\n（プレジコビックス）\nアルテメテル・ルメファントリン\n（リアメット）"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール\n（ブイフェンド）\nタダラフィル\n（アドシルカ）\nリルピビリン\n（エジュラント）\nマシテンタン\n（オプスミット）\nチカグレロル\n（ブリリンタ）\nグラゾプレビル\n（グラジナ）\nエルバスビル\n（エレルサ）\nドルテグラビル・リルピビリン\n（ジャルカ）\nダルナビル・コビシスタット\n（プレジコビックス）\nアルテメテル・ルメファントリン\n（リアメット）"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "リルピビリン塩酸塩"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リルピビリン塩酸塩"
+  },
+  {
+    "other_id": 4217,
+    "other_brand": "キャブピリン配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 7143,
+    "other_brand": "タケキャブ錠10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 7145,
+    "other_brand": "タケキャブOD錠10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 7147,
+    "other_brand": "タケプロンカプセル15",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 7149,
+    "other_brand": "タケプロン静注用30mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 7150,
+    "other_brand": "タケプロンOD錠15",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 7152,
+    "other_brand": "タケルダ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 7937,
+    "other_brand": "ティブソボ錠250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\n（ゲンボイヤ）\nダルナビル　エタノール付加物・コビシスタット\n（プレジコビックス）\nダルナビル　エタノール付加物・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\n（シムツーザ）\nドラビリン\n（ピフェルトロ）\nドラビリン・イスラトラビル水和物\n（イドビンソ）\nドルテグラビルナトリウム・リルピビリン塩酸塩\n（ジャルカ）\nビクテグラビルナトリウム・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\n（ビクタルビ）\nリルピビリン\n（リカムビス）\nリルピビリン塩酸塩\n（エジュラント）\nリルピビリン塩酸塩・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\n（オデフシィ）\nレナカパビルナトリウム\n（シュンレンカ）"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール\n（ブイフェンド）\nタダラフィル\n（アドシルカ）\nリルピビリン\n（エジュラント）\nマシテンタン\n（オプスミット）\nチカグレロル\n（ブリリンタ）\nグラゾプレビル\n（グラジナ）\nエルバスビル\n（エレルサ）\nドルテグラビル・リルピビリン\n（ジャルカ）\nダルナビル・コビシスタット\n（プレジコビックス）\nアルテメテル・ルメファントリン\n（リアメット）"
+  },
+  {
+    "other_id": 8040,
+    "other_brand": "テポックスカプセル200㎎",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4で代謝される薬剤ミダゾラムリルピビリンマラビロクアトルバスタチンタクロリムスシルデナフィルタダラフィルバルデナフィルダルナビル"
+  },
+  {
+    "other_id": 8233,
+    "other_brand": "デカドロン注射液1.65mg",
+    "interaction_type": "contraindicated",
+    "source_text": "〈本剤全身投与の患者〉\nダクラタスビル塩酸塩\nダクルインザ\nアスナプレビル\nスンベプラ\n〈本剤全身投与の患者（ただし単回投与の場合を除く）〉\nリルピビリン塩酸塩\nエジュラント\nリルピビリン塩酸塩・テノホビル　アラフェナミドフマル酸塩・エムトリシタビン\nオデフシィ\nドルテグラビルナトリウム・リルピビリン塩酸塩\nジャルカ"
+  },
+  {
+    "other_id": 8236,
+    "other_brand": "デカドロン錠0.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン\nエジュラント、リカムビス\nリルピビリン塩酸塩・テノホビル　アラフェナミドフマル酸塩・エムトリシタビン\nオデフシィ\nリルピビリン塩酸塩・ドルテグラビルナトリウム\nジャルカ"
+  },
+  {
+    "other_id": 8238,
+    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン\nエジュラント、リカムビス\nリルピビリン塩酸塩・テノホビル　アラフェナミドフマル酸塩・エムトリシタビン\nオデフシィ\nリルピビリン塩酸塩・ドルテグラビルナトリウム\nジャルカ"
+  },
+  {
+    "other_id": 8256,
+    "other_brand": "デキサート注射液1.65mg",
+    "interaction_type": "contraindicated",
+    "source_text": "〈本剤全身投与の患者〉\nダクラタスビル塩酸塩\nダクルインザ\nアスナプレビル\nスンベプラ\n〈本剤全身投与の患者（ただし単回投与の場合を除く）〉\nリルピビリン塩酸塩\nエジュラント\nリルピビリン塩酸塩・テノホビル　アラフェナミドフマル酸塩・エムトリシタビン\nオデフシィ\nドルテグラビルナトリウム・リルピビリン塩酸塩\nジャルカ"
+  },
+  {
+    "other_id": 8763,
+    "other_brand": "トランコロンP配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール（ブイフェンド）\nタダラフィル（肺高血圧症を適応とする場合：アドシルカ）\nマシテンタン（オプスミット）\nチカグレロル（ブリリンタ）\nドラビリン（ピフェルトロ）\nリルピビリン\n（エジュラント、リカムビス）\nイサブコナゾニウム\n（クレセンバ）"
+  },
+  {
+    "other_id": 9649,
+    "other_brand": "ネキシウムカプセル10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 9651,
+    "other_brand": "ネキシウム懸濁用顆粒分包10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール\n（ブイフェンド）\nタダラフィル\n（肺高血圧症を適応とする場合：アドシルカ）\nマシテンタン\n（オプスミット）\nマシテンタン・タダラフィル\n（ユバンシ配合錠）\nチカグレロル\n（ブリリンタ）\nアルテメテル・ルメファントリン\n（リアメット配合錠）\nダルナビル・コビシスタット\n（プレジコビックス配合錠）\nドラビリン\n（ピフェルトロ）\nリルピビリン\n（エジュラント）\nイサブコナゾニウム硫酸塩\n(クレセンバ)"
+  },
+  {
+    "other_id": 10173,
+    "other_brand": "パリエット錠20mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 10172,
+    "other_brand": "パリエット錠5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "タダラフィル（肺高血圧症を適応とする場合）\nアドシルカ\nマシテンタン\nオプスミット\nマシテンタン・タダラフィル\nユバンシ配合錠\nチカグレロル\nブリリンタ\nアルテメテル・ルメファントリン\nリアメット配合錠\nダルナビル・コビシスタット\nプレジコビックス配合錠\nドラビリン\nピフェルトロ\nルラシドン\nラツーダ\nリルピビリン\nエジュラント\nイサブコナゾニウム\nクレセンバ\nエンシトレルビル\nゾコーバ\nニルマトレルビル・リトナビル\nパキロビッド"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン\n（エジュラント）"
+  },
+  {
+    "other_id": 10652,
+    "other_brand": "ビラフトビカプセル50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\nゲンボイヤ\nダルナビル　エタノール付加物・コビシスタット\nプレジコビックス\nダルナビル　エタノール付加物・コビシスタット・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\nシムツーザ\nドラビリン\nピフェルトロ\nドラビリン・イスラトラビル水和物\nイドビンソ\nドルテグラビルナトリウム・リルピビリン塩酸塩\nジャルカ\nビクテグラビルナトリウム・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\nビクタルビ\nリルピビリン\nリカムビス\nリルピビリン塩酸塩\nエジュラント\nリルピビリン塩酸塩・エムトリシタビン・テノホビル　アラフェナミドフマル酸塩\nオデフシィ\nレナカパビルナトリウム\nシュンレンカ"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン（エジュラント）"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン\n（エジュラント）"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン（エジュラント）"
+  },
+  {
+    "other_id": 11845,
+    "other_brand": "プリジスタ錠600mg",
+    "interaction_type": "caution",
+    "source_text": "リルピビリン"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "リルピビリン"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "contraindicated",
+    "source_text": "タダラフィル\n（肺高血圧症を適応とする場合：アドシルカ）\nマシテンタン\n（オプスミット）\nマシテンタン・タダラフィル\n（ユバンシ配合錠）\nチカグレロル\n（ブリリンタ）\nアルテメテル・ルメファントリン\n（リアメット配合錠）\nダルナビル・コビシスタット\n（プレジコビックス配合錠）\nドラビリン\n（ピフェルトロ）\nルラシドン\n（ラツーダ）\nリルピビリン\n（エジュラント）\nイサブコナゾニウム硫酸塩\n(クレセンバ)\nエンシトレルビル　フマル酸\n（ゾコーバ）"
+  },
+  {
+    "other_id": 12964,
+    "other_brand": "ボノサップパック400",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 12968,
+    "other_brand": "ボノピオンパック",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 13336,
+    "other_brand": "ミコブティンカプセル150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン・テノホビル アラフェナミド・エムトリシタビン（オデフシィ配合錠）\nリルピビリン（注射剤）（リカムビス水懸筋注）"
+  },
+  {
+    "other_id": 13336,
+    "other_brand": "ミコブティンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リルピビリン（経口剤）\nドルテグラビルナトリウム・リルピビリン"
+  },
+  {
+    "other_id": 13605,
+    "other_brand": "メサペイン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "アバカビル硫酸塩、エファビレンツ、ネビラピン、リルピビリン塩酸塩、ロピナビル・リトナビル配合剤"
+  },
+  {
+    "other_id": 14457,
+    "other_brand": "ラベプラゾールナトリウム錠10mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14458,
+    "other_brand": "ラベプラゾールナトリウム錠10mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14459,
+    "other_brand": "ラベプラゾールナトリウム錠10mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14462,
+    "other_brand": "ラベプラゾールナトリウム錠20mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14464,
+    "other_brand": "ラベプラゾールナトリウム錠20mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14465,
+    "other_brand": "ラベプラゾールナトリウム錠20mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14466,
+    "other_brand": "ラベプラゾールナトリウム錠20mg「科研」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14467,
+    "other_brand": "ラベプラゾールナトリウム錠20mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14456,
+    "other_brand": "ラベプラゾールナトリウム錠5mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14469,
+    "other_brand": "ラベプラゾールナトリウム錠5mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14470,
+    "other_brand": "ラベプラゾールナトリウム錠5mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14460,
+    "other_brand": "ラベプラゾールナトリウム錠5mg「科研」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14461,
+    "other_brand": "ラベプラゾールナトリウム錠5mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14473,
+    "other_brand": "ラベプラゾールNa塩錠10mg「オーハラ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14478,
+    "other_brand": "ラベプラゾールNa塩錠20mg「オーハラ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14482,
+    "other_brand": "ラベプラゾールNa塩錠20mg「明治」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14474,
+    "other_brand": "ラベプラゾールNa塩錠5mg「オーハラ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14477,
+    "other_brand": "ラベプラゾールNa塩錠5mg「明治」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14497,
+    "other_brand": "ラベプラゾールNa錠20mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14498,
+    "other_brand": "ラベプラゾールNa錠20mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14499,
+    "other_brand": "ラベプラゾールNa錠20mg「ニプロ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14500,
+    "other_brand": "ラベプラゾールNa錠20mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14501,
+    "other_brand": "ラベプラゾールNa錠20mg「杏林」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14502,
+    "other_brand": "ラベプラゾールNa錠20mg「AA」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14503,
+    "other_brand": "ラベプラゾールNa錠20mg「AFP」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14504,
+    "other_brand": "ラベプラゾールNa錠20mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14505,
+    "other_brand": "ラベプラゾールNa錠20mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14506,
+    "other_brand": "ラベプラゾールNa錠20mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14507,
+    "other_brand": "ラベプラゾールNa錠20mg「YD」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14486,
+    "other_brand": "ラベプラゾールNa錠5mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14487,
+    "other_brand": "ラベプラゾールNa錠5mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14488,
+    "other_brand": "ラベプラゾールNa錠5mg「ニプロ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14489,
+    "other_brand": "ラベプラゾールNa錠5mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14490,
+    "other_brand": "ラベプラゾールNa錠5mg「杏林」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14491,
+    "other_brand": "ラベプラゾールNa錠5mg「AA」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14492,
+    "other_brand": "ラベプラゾールNa錠5mg「AFP」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14493,
+    "other_brand": "ラベプラゾールNa錠5mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14494,
+    "other_brand": "ラベプラゾールNa錠5mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14495,
+    "other_brand": "ラベプラゾールNa錠5mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14496,
+    "other_brand": "ラベプラゾールNa錠5mg「YD」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩（エジュラント）"
+  },
+  {
+    "other_id": 14574,
+    "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14575,
+    "other_brand": "ランソプラゾールカプセル15mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14583,
+    "other_brand": "ランソプラゾールOD錠15mg「DK」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14578,
+    "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14579,
+    "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14580,
+    "other_brand": "ランソプラゾールOD錠15mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14582,
+    "other_brand": "ランソプラゾールOD錠15mg「武田テバ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14584,
+    "other_brand": "ランソプラゾールOD錠15mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン\nリファジン\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール\nフェノバルビタール\nフェノバール\nフェニトイン\nアレビアチン\nホスフェニトイン\nホストイン"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール\nフェノバルビタール\nフェノバール\nフェニトイン\nアレビアチン\nホスフェニトイン\nホストイン"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール\nフェノバルビタール\nフェノバール\nフェニトイン\nアレビアチン\nホスフェニトイン\nホストイン"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "カルバマゼピン\nテグレトール\nフェノバルビタール\nフェノバール\nフェニトイン\nアレビアチン\nホスフェニトイン\nホストイン"
+  },
+  {
+    "other_id": 2946,
+    "other_brand": "オイラゾンクリーム0.05％",
+    "interaction_type": "contraindicated",
+    "source_text": "デキサメタゾン（全身投与）（単回投与を除く）\nデカドロン"
+  },
+  {
+    "other_id": 8251,
+    "other_brand": "デキサメタゾン軟膏口腔用0.1%「CH」",
+    "interaction_type": "contraindicated",
+    "source_text": "デキサメタゾン（全身投与）（単回投与を除く）\nデカドロン"
+  },
+  {
+    "other_id": 15217,
+    "other_brand": "レナデックス錠2mg",
+    "interaction_type": "contraindicated",
+    "source_text": "デキサメタゾン（全身投与）（単回投与を除く）\nデカドロン"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4439,
+    "other_brand": "クラリシッド錠200mg",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4440,
+    "other_brand": "クラリシッド錠50mg小児用",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4441,
+    "other_brand": "クラリス錠50小児用",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4442,
+    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4443,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4444,
+    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4447,
+    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4448,
+    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4450,
+    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4451,
+    "other_brand": "クラリスロマイシン錠200㎎「大正」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4452,
+    "other_brand": "クラリスロマイシン錠200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4453,
+    "other_brand": "クラリスロマイシン錠200mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4455,
+    "other_brand": "クラリスロマイシン錠200mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4458,
+    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4460,
+    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4461,
+    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4463,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 4467,
+    "other_brand": "クラリス錠200",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンエリスロマイシン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "QT延長を起こすことが知られている薬剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 14938,
+    "other_brand": "リファンピシンカプセル150mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "抗ウイルス剤\nHIV感染症治療薬\nリルピビリン塩酸塩\nエジュラント"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール\n（ブイフェンド）\nイサブコナゾニウム硫酸塩\n（クレセンバ）\nタダラフィル\n（肺高血圧症を適応とする場合：アドシルカ）\nマシテンタン\n（オプスミット）\nマシテンタン・タダラフィル\n（ユバンシ配合錠）\nチカグレロル\n（ブリリンタ）\nドラビリン\n（ピフェルトロ）\nドラビリン・イスラトラビル水和物\n（イドビンソ配合錠）\nアルテメテル・ルメファントリン\n（リアメット配合錠）\nダルナビル・コビシスタット\n（プレジコビックス配合錠）\nリルピビリン\n（エジュラント）"
+  },
+  {
+    "other_id": 15651,
+    "other_brand": "ロケルマ懸濁用散分包5g",
+    "interaction_type": "caution",
+    "source_text": "抗HIV薬\nアタザナビル硫酸塩\nネルフィナビルメシル酸塩\nリルピビリン塩酸塩　等\nアゾール系抗真菌剤\nイトラコナゾール\nフルコナゾール\nボリコナゾール　等\nチロシンキナーゼ阻害剤\nエルロチニブ塩酸塩\nダサチニブ水和物\nニロチニブ塩酸塩水和物　等"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール\nブイフェンド\nイサブコナゾニウム硫酸塩\nクレセンバ\nタダラフィル\n肺高血圧症を適応とする場合：アドシルカ\nマシテンタン\nオプスミット\nマシテンタン・タダラフィル\nユバンシ配合錠\nチカグレロル\nブリリンタ\nドラビリン\nピフェルトロ\nドラビリン・イスラトラビル水和物\nイドビンソ配合錠\nアルテメテル・ルメファントリン\nリアメット配合錠\nダルナビル・コビシスタット\nプレジコビックス配合錠\nリルピビリン\nエジュラント"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "タダラフィル（肺高血圧症を適応とする場合）\nアドシルカ\nマシテンタン\nオプスミット\nマシテンタン・タダラフィル\nユバンシ配合錠\nチカグレロル\nブリリンタ\nアルテメテル・ルメファントリン\nリアメット配合錠\nダルナビル・コビシスタット\nプレジコビックス配合錠\nドラビリン\nピフェルトロ\nリルピビリン\nエジュラント\nイサブコナゾニウム\nクレセンバ\nニルマトレルビル・リトナビル\nパキロビッド"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": 16558,
+  "brand_name": "沈降炭酸カルシウム「ケンエー」",
+  "generic_name": "日局　沈降炭酸カルシウム",
+  "therapeutic_classification": "制酸剤",
+  "indications": "下記疾患における制酸作用と症状の改善\n胃・十二指腸潰瘍、胃炎（急・慢性胃炎、薬剤性胃炎を含む）、上部消化管機能異常（神経性食思不振、いわゆる胃下垂症、胃酸過多症を含む）",
+  "dose_admin": "沈降炭酸カルシウムとして、通常成人1日1～3g を3～4回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "甲状腺機能低下症又は副甲状腺機能亢進症の患者［症状を悪化させるおそれがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること",
+    "これらの薬剤の効果が減弱するおそれがある",
+    "また、併用によりアルカローシスがあらわれたとの報告がある",
+    "これらの医薬品の作用が増強することがあるので、慎重に投与すること",
+    "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること",
+    "高カルシウム血症を起こすおそれがある",
+    "ロキサデュスタットと併用した場合、ロキサデュスタットの作用が減弱するおそれがあるため、併用する場合は、前後1時間以上あけて本剤を服用すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム等）",
+      "clinical_symptom_action": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "これらの薬剤はカルシウムと難溶性のキレートを形成し、吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "鉄剤",
+      "clinical_symptom_action": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "in vitro試験において、pHの上昇により難溶性の鉄重合体を形成することが報告されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "高カリウム血症改善イオン交換樹脂製剤\n（ポリスチレンスルホン酸カルシウム、ポリスチレンスルホン酸ナトリウム）",
+      "clinical_symptom_action": "これらの薬剤の効果が減弱するおそれがある。また、併用によりアルカローシスがあらわれたとの報告がある。",
+      "mechanism_risk_factor": "カルシウムがこれらの薬剤の陽イオンと交換するためと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\n（ジゴキシン、ジギトキシン等）",
+      "clinical_symptom_action": "これらの医薬品の作用が増強することがあるので、慎重に投与すること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "大量の牛乳、炭酸水素ナトリウム、マグネシウム剤",
+      "clinical_symptom_action": "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "活性型ビタミンD\n3\n製剤\n（アルファカルシドール、カルシトリオール）\nビタミンD\nチアジド系利尿剤",
+      "clinical_symptom_action": "高カルシウム血症を起こすおそれがある。",
+      "mechanism_risk_factor": "併用薬剤が腸管でのカルシウムの吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロキサデュスタット",
+      "clinical_symptom_action": "ロキサデュスタットと併用した場合、ロキサデュスタットの作用が減弱するおそれがあるため、併用する場合は、前後1時間以上あけて本剤を服用すること。",
+      "mechanism_risk_factor": "ロキサデュスタットを酢酸カルシウムと同時投与したところ、ロキサデュスタットのAUC\ninf\nが低下した。"
+    }
+  ],
+  "facility_notes": ""
+}

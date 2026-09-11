@@ -1,0 +1,21 @@
+{
+  "id": 13544,
+  "brand_name": "ムコダイン錠250mg",
+  "generic_name": "L-カルボシステイン",
+  "therapeutic_classification": "気道粘液調整・粘膜正常化剤",
+  "indications": "〇下記疾患の去痰上気道炎（咽頭炎、喉頭炎）、急性気管支炎、気管支喘息、慢性気管支炎、気管支拡張症、肺結核\n〇慢性副鼻腔炎の排膿",
+  "dose_admin": "カルボシステインとして、通常成人1回500mgを1日3回経口投与する。なお、年齢、症状により適宜増減する。製剤別の用量は次のとおりである。\n製剤\n1回量\n投与回数\nムコダイン錠250mg\n2錠\n1日3回経口投与\nムコダイン錠500mg\n1錠",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシー卜から取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）\n肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、Al-P、LDHの上昇等があらわれることがある。\nショック、アナフィラキシー（いずれも頻度不明）\n呼吸困難、浮腫、蕁麻疹等があらわれることがある。",
+  "observation_points": [
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）",
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST、ALT、Al-P、LDHの上昇等があらわれることがある",
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "呼吸困難、浮腫、蕁麻疹等があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

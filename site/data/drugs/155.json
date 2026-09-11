@@ -1,0 +1,17 @@
+{
+  "id": 155,
+  "brand_name": "アシアロシンチ注",
+  "generic_name": "ガラクトシル人血清アルブミンジエチレントリアミン五酢酸テクネチウム（\n99m\nTc）注射液",
+  "therapeutic_classification": "放射性医薬品",
+  "indications": "シンチグラフィによる肝臓の機能及び形態の診断",
+  "dose_admin": "通常，成人には185MBq（1mL）を静脈内投与し，胸腹部前面に検出器を向け，投与直後から経時的にシンチグラムを得ると共に，データ収集及び処理を行うことにより，肝機能指標を得る。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

@@ -1,0 +1,52 @@
+{
+  "id": 8040,
+  "brand_name": "テポックスカプセル200㎎",
+  "generic_name": "テコビリマト水和物",
+  "therapeutic_classification": "抗ウイルス剤",
+  "indications": "痘そう\nエムポックス\n牛痘\n痘そうワクチン接種後のワクチニアウイルスの増殖による合併症",
+  "dose_admin": "通常、成人及び小児には、以下の用法及び用量で14日間、食後に経口投与する。体重13kg以上25kg未満：テコビリマトとして200mgを1日2回12時間毎体重25kg以上40kg未満：テコビリマトとして400mgを1日2回12時間毎体重40kg以上120kg未満：テコビリマトとして600mgを1日2回12時間毎体重120kg以上：テコビリマトとして600mgを1日3回8時間毎",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある",
+    "メサドンの血漿中濃度が低下し、効果が減弱するおそれがある",
+    "レパグリニドの血漿中濃度が上昇する可能性があるため、併用する場合は、低血糖症状等の副作用の発現に十分に注意すること",
+    "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること",
+    "乾燥細胞培養痘そうワクチンの効果が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4で代謝される薬剤ミダゾラムリルピビリンマラビロクアトルバスタチンタクロリムスシルデナフィルタダラフィルバルデナフィルダルナビル",
+      "clinical_symptom_action": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤はCYP3A4を誘導する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メサドン",
+      "clinical_symptom_action": "メサドンの血漿中濃度が低下し、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤はCYP2B6を誘導する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "レパグリニド",
+      "clinical_symptom_action": "レパグリニドの血漿中濃度が上昇する可能性があるため、併用する場合は、低血糖症状等の副作用の発現に十分に注意すること。",
+      "mechanism_risk_factor": "本剤はCYP2C8を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C19で代謝される薬剤オメプラゾールランソプラゾールラベプラゾールボリコナゾール",
+      "clinical_symptom_action": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。",
+      "mechanism_risk_factor": "本剤はCYP2C19を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "乾燥細胞培養痘そうワクチン",
+      "clinical_symptom_action": "乾燥細胞培養痘そうワクチンの効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の抗ワクチニアウイルス作用により、ワクチンに対する免疫応答が低下するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

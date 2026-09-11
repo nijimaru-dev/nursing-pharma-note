@@ -1,0 +1,47 @@
+{
+  "id": 13024,
+  "brand_name": "ボンアルファハイ軟膏20μg/g",
+  "generic_name": "タカルシトール水和物",
+  "therapeutic_classification": "活性型VD\n3\n尋常性乾癬治療剤",
+  "indications": "尋常性乾癬",
+  "dose_admin": "通常1日1回適量を患部に塗布する。",
+  "contraindications": "本剤の成分に対して過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n使用時\n眼科用として角膜、結膜に使用しないこと。\n本剤に触れた手で表皮の欠損個所に触れないよう注意すること。",
+  "serious_adverse_events": "高カルシウム血症（頻度不明）\n高カルシウム血症及び高カルシウム血症によると考えられる臨床症状（倦怠感、食欲不振等）があらわれることがある。異常が認められた場合には、使用を中止し、血清カルシウム値、尿中カルシウム値等の生化学的検査を行い、必要に応じて輸液等の処置を行うこと。\n,\n,",
+  "observation_points": [
+    "高カルシウム血症（頻度不明）",
+    "高カルシウム血症及び高カルシウム血症によると考えられる臨床症状（倦怠感、食欲不振等）があらわれることがある",
+    "異常が認められた場合には、使用を中止し、血清カルシウム値、尿中カルシウム値等の生化学的検査を行い、必要に応じて輸液等の処置を行うこと",
+    ",",
+    "血清カルシウム値が上昇する可能性がある",
+    "その場合には直ちに本剤の塗布を中止し、経過を観察すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サイアザイド系利尿剤",
+      "clinical_symptom_action": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。",
+      "mechanism_risk_factor": "サイアザイド系利尿剤は尿中カルシウムの排泄を減少させ、血清カルシウム値を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム含有製剤\n乳酸カルシウム水和物\n沈降炭酸カルシウム等",
+      "clinical_symptom_action": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。",
+      "mechanism_risk_factor": "本剤は腸管でのカルシウム吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD及びその誘導体\nアルファカルシドール\nカルシトリオール\nカルシポトリオール\nマキサカルシトール等",
+      "clinical_symptom_action": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。",
+      "mechanism_risk_factor": "相加作用"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。",
+      "mechanism_risk_factor": "シクロスポリンによる腎機能の低下により、血清カルシウム値を上昇させる可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

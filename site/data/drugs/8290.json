@@ -1,0 +1,60 @@
+{
+  "id": 8290,
+  "brand_name": "デノタスチュアブル配合錠",
+  "generic_name": "沈降炭酸カルシウム・コレカルシフェロール・炭酸マグネシウム",
+  "therapeutic_classification": "カルシウム／天然型ビタミンD\n3\n／マグネシウム配合剤",
+  "indications": "RANKL阻害剤（デノスマブ（遺伝子組換え）等）投与に伴う低カルシウム血症の治療及び予防",
+  "dose_admin": "通常、1日1回2錠を経口投与する。なお、患者の状態又は臨床検査値に応じて適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n高カルシウム血症の患者［高カルシウム血症が増悪するおそれがある。］\n,\n,",
+  "application_precautions": "薬剤交付時の注意\n本剤は、かみ砕くか、口中で溶かして服用すること。\n吸湿及び光により品質低下が認められているので、分包しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の効果が減弱するおそれがあるので、両剤の服用間隔をできる限りあけること",
+    "この薬剤の吸収が遅延又は減少することがあるので、併用する場合には投与間隔をできる限りあけるなど慎重に投与すること",
+    "ジギタリス製剤の作用を増強し、ジギタリス中毒の症状（嘔気、嘔吐、不整脈等）があらわれるおそれがある",
+    "カルシウムにより効果が減弱するおそれがある",
+    "高カルシウム血症があらわれることがある",
+    "Milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがある",
+    "このような症状があらわれた場合には投与を中止すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nミノサイクリンドキシサイクリンテトラサイクリン等\nニューキノロン系抗菌剤\nレボフロキサシンノルフロキサシンシプロフロキサシントスフロキサシン等",
+      "clinical_symptom_action": "これらの薬剤の効果が減弱するおそれがあるので、両剤の服用間隔をできる限りあけること。",
+      "mechanism_risk_factor": "カルシウム又はマグネシウムとこれらの薬剤が消化管内で難溶性のキレートを形成して、これらの薬剤の吸収を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "レボチロキシンナトリウム",
+      "clinical_symptom_action": "この薬剤の吸収が遅延又は減少することがあるので、併用する場合には投与間隔をできる限りあけるなど慎重に投与すること。",
+      "mechanism_risk_factor": "消化管内でカルシウムと結合し吸収が抑制されると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強心配糖体\nジゴキシン等",
+      "clinical_symptom_action": "ジギタリス製剤の作用を増強し、ジギタリス中毒の症状（嘔気、嘔吐、不整脈等）があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤により高カルシウム血症が発現した場合、強心配糖体の作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ストロンチウム",
+      "clinical_symptom_action": "カルシウムにより効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "ストロンチウムの骨転移部への集積に過剰なカルシウムが競合する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD及びその誘導体\nアルファカルシドールカルシトリオールエルデカルシトール等\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれることがある。",
+      "mechanism_risk_factor": "相加作用"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "大量の牛乳",
+      "clinical_symptom_action": "Milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがある。このような症状があらわれた場合には投与を中止すること。",
+      "mechanism_risk_factor": "腸管からのカルシウムの吸収が増大する。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,111 @@
+{
+  "id": 14732,
+  "brand_name": "リスモダンR錠150mg",
+  "generic_name": "ジソピラミドリン酸塩製剤",
+  "therapeutic_classification": "徐放性不整脈治療剤",
+  "indications": "下記の状態で他の抗不整脈薬が使用できないか、又は無効の場合\n頻脈性不整脈",
+  "dose_admin": "通常成人1回1錠、1日2回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "高度の房室ブロック、高度の洞房ブロックのある患者［刺激伝導障害が悪化し、完全房室ブロック、心停止を起こすおそれがある。］\nうっ血性心不全のある患者［心収縮力低下により、心不全を悪化させるおそれがある。また、催不整脈作用により心室頻拍、心室細動を起こしやすい。］\n透析患者を含む重篤な腎機能障害のある患者\n高度な肝機能障害のある患者\nスパルフロキサシン、モキシフロキサシン塩酸塩、ラスクフロキサシン塩酸塩（注射剤）、トレミフェンクエン酸塩、バルデナフィル塩酸塩水和物、アミオダロン塩酸塩（注射剤）、エリグルスタット酒石酸塩、フィンゴリモド塩酸塩又はシポニモドフマル酸塩を投与中の患者\n閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。\n尿貯留傾向のある患者［抗コリン作用により、尿閉を悪化させるおそれがある。］\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n薬剤投与時の注意\n本剤は徐放性製剤なのでかまずに服用するよう注意すること。",
+  "serious_adverse_events": "心停止（頻度不明）、心室細動（頻度不明）、心室頻拍（Torsades de pointesを含む）（頻度不明）、心室粗動（頻度不明）、心房粗動（頻度不明）、房室ブロック（頻度不明）、洞停止（頻度不明）、失神（頻度不明）、心不全悪化等（頻度不明）\n低血糖（頻度不明）\n低血糖（脱力感、倦怠感、高度の空腹感、冷汗、嘔気、不安、意識障害（意識混濁、昏睡）等）があらわれることがある。低血糖症が認められた場合にはブドウ糖を投与するなど適切な処置を行うこと。\n無顆粒球症（頻度不明）\n肝機能障害（0.9%）、黄疸（頻度不明）\nAST、ALT、γ-GTPの上昇等を伴う肝機能障害や黄疸があらわれることがある。\n麻痺性イレウス（頻度不明）\n緑内障悪化（頻度不明）\n痙攣（頻度不明）",
+  "observation_points": [
+    "心停止（頻度不明）、心室細動（頻度不明）、心室頻拍（Torsades de pointesを含む）（頻度不明）、心室粗動（頻度不明）、心房粗動（頻度不明）、房室ブロック（頻度不明）、洞停止（頻度不明）、失神（頻度不明）、心不全悪化等（頻度不明）",
+    "低血糖（頻度不明）",
+    "低血糖（脱力感、倦怠感、高度の空腹感、冷汗、嘔気、不安、意識障害（意識混濁、昏睡）等）があらわれることがある",
+    "低血糖症が認められた場合にはブドウ糖を投与するなど適切な処置を行うこと",
+    "無顆粒球症（頻度不明）",
+    "肝機能障害（0.9%）、黄疸（頻度不明）",
+    "AST、ALT、γ-GTPの上昇等を伴う肝機能障害や黄疸があらわれることがある",
+    "麻痺性イレウス（頻度不明）",
+    "緑内障悪化（頻度不明）",
+    "痙攣（頻度不明）",
+    "本剤の作用を増強させることがある",
+    "過度の心機能抑制作用があらわれることがある",
+    "本剤の作用を減弱させ、代謝物による抗コリン作用が増強するおそれがある",
+    "低血糖があらわれるおそれがある",
+    "本剤の代謝が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること",
+    "QT延長を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン",
+      "clinical_symptom_action": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増強すると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "バルデナフィル塩酸塩水和物\nレビトラ",
+      "clinical_symptom_action": "QT延長を起こすことがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増強すると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アミオダロン塩酸塩（注射剤）\nアンカロン注",
+      "clinical_symptom_action": "Torsades de pointesを起こすことがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増強すると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エリグルスタット酒石酸塩\nサデルガ",
+      "clinical_symptom_action": "QT延長を生じるおそれがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増強すると考えられる。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フィンゴリモド塩酸塩\nイムセラ\nジレニア",
+      "clinical_symptom_action": "Torsades de pointes等の重篤な不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "フィンゴリモド塩酸塩の投与により心拍数が低下するため、併用により不整脈を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シポニモドフマル酸塩\nメーゼント",
+      "clinical_symptom_action": "Torsades de pointes等の重篤な不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "シポニモドフマル酸塩の投与により心拍数が減少するため、併用により不整脈を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エリスロマイシン\nクラリスロマイシン",
+      "clinical_symptom_action": "本剤の作用を増強させることがある。",
+      "mechanism_risk_factor": "エリスロマイシン、クラリスロマイシンは肝ミクロソームCYP3Aを阻害することが知られている。本剤はCYP3Aで代謝されるため、併用により本剤の代謝が抑制される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β-遮断剤\nアテノロール等",
+      "clinical_symptom_action": "過度の心機能抑制作用があらわれることがある。",
+      "mechanism_risk_factor": "両剤の陰性変力作用と変伝導作用により相互に心機能抑制作用を増強するおそれがある。アテノロールとの併用により本剤のクリアランスが減少すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "本剤の作用を減弱させ、代謝物による抗コリン作用が増強するおそれがある。",
+      "mechanism_risk_factor": "フェニトインにより肝代謝酵素の産生が誘導され、本剤の代謝が促進すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の作用を減弱させ、代謝物による抗コリン作用が増強するおそれがある。",
+      "mechanism_risk_factor": "リファンピシンにより肝代謝酵素の産生が誘導され、本剤の代謝が促進すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等",
+      "clinical_symptom_action": "低血糖があらわれるおそれがある。",
+      "mechanism_risk_factor": "動物実験において本剤がインスリン分泌を促進するとの報告があり、併用によって血糖降下作用が増強される可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St. John's Wort,セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の代謝が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること。",
+      "mechanism_risk_factor": "セイヨウオトギリソウにより誘導された肝薬物代謝酵素が本剤の代謝を促進し、クリアランスを上昇させるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラスクフロキサシン塩酸塩（錠剤）\nラスビック",
+      "clinical_symptom_action": "QT延長を起こすおそれがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が相加的に増加するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

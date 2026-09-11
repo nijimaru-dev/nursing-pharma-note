@@ -1,0 +1,91 @@
+{
+  "id": 6333,
+  "brand_name": "スプレンジール錠2.5mg",
+  "generic_name": "日本薬局方　フェロジピン錠",
+  "therapeutic_classification": "Ca拮抗剤",
+  "indications": "高血圧症",
+  "dose_admin": "通常、成人にはフェロジピンとして1回2.5～5mgを1日2回朝夕経口投与する。なお、年齢、症状により適宜増減するが、効果不十分な場合には、1回10mgを1日2回まで増量することができる。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性\n心原性ショックの患者［血圧低下により症状が悪化するおそれがある。］\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "血管浮腫（頻度不明）",
+  "observation_points": [
+    "血管浮腫（頻度不明）",
+    "相互に作用を増強するおそれがある",
+    "メトプロロールの血中濃度が上昇することがある",
+    "ジゴキシンの血中濃度が上昇することがある",
+    "本剤の血中濃度が上昇し、作用が増強することがある",
+    "本剤の血中濃度が低下し、本剤の作用が減弱することがある",
+    "他のカルシウム拮抗剤（ニフェジピン等）の作用が減弱することが報告されている",
+    "本剤の血中濃度が上昇し、作用が増強するおそれがある",
+    "タクロリムスの血中濃度が上昇し、作用が増強するおそれがある",
+    "患者の状態を注意深く観察し、必要に応じてタクロリムスの用量を調節すること",
+    "本剤の血中濃度が上昇したとの報告がある",
+    "患者の状態を注意深く観察し、過度の血圧低下等の症状が認められた場合には、本剤を減量するなど適切な処置を行う",
+    "またグレープフルーツジュースとの同時服用をしないよう指導すること",
+    "本剤の代謝が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他の降圧剤\nトリクロルメチアジド、カプトプリル等",
+      "clinical_symptom_action": "相互に作用を増強するおそれがある。",
+      "mechanism_risk_factor": "薬理作用が異なる降圧剤の併用により降圧作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メトプロロール酒石酸塩",
+      "clinical_symptom_action": "メトプロロールの血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "本剤の血管拡張作用により肝血流量を増加させ、メトプロロールの初回通過による消失を減少させると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジゴキシンの血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "本剤がジゴキシンの腎クリアランスを低下させることにより、ジゴキシンの血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン\nエリスロマイシン\nイトラコナゾール",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、作用が増強することがある。",
+      "mechanism_risk_factor": "シメチジン、エリスロマイシン、イトラコナゾールが本剤の代謝酵素を阻害することにより、本剤の血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン\nカルバマゼピン\nバルビツール酸誘導体",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の作用が減弱することがある。",
+      "mechanism_risk_factor": "フェニトイン、カルバマゼピン、バルビツール酸誘導体が本剤の代謝酵素を誘導することにより、本剤の血中濃度を低下させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "他のカルシウム拮抗剤（ニフェジピン等）の作用が減弱することが報告されている。",
+      "mechanism_risk_factor": "リファンピシンが代謝酵素を誘導することにより、ニフェジピン等の血中濃度を低下させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nリトナビル等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "HIVプロテアーゼ阻害剤は主としてCYP3A4で代謝を受け、本剤も主として同酵素で代謝を受けるため、競合的阻害により、本剤の血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タクロリムス",
+      "clinical_symptom_action": "タクロリムスの血中濃度が上昇し、作用が増強するおそれがある。患者の状態を注意深く観察し、必要に応じてタクロリムスの用量を調節すること。",
+      "mechanism_risk_factor": "本剤とタクロリムスが同一の代謝酵素で代謝されるため、競合的阻害により、タクロリムスの血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の血中濃度が上昇したとの報告がある。患者の状態を注意深く観察し、過度の血圧低下等の症状が認められた場合には、本剤を減量するなど適切な処置を行う。またグレープフルーツジュースとの同時服用をしないよう指導すること。",
+      "mechanism_risk_factor": "グレープフルーツジュースに含まれる成分が本剤の小腸での代謝（CYP3A4）を抑制し、クリアランスを低下させるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の代謝が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること。",
+      "mechanism_risk_factor": "セイヨウオトギリソウが本剤の代謝酵素（CYP3A4）を誘導すると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

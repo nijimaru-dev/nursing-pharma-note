@@ -1,0 +1,39 @@
+{
+  "id": 1145,
+  "brand_name": "アリメジンシロップ0.05％",
+  "generic_name": "アリメマジン酒石酸塩",
+  "therapeutic_classification": "抗ヒスタミン剤",
+  "indications": "皮膚疾患に伴うそう痒（湿疹、皮膚そう痒症、小児ストロフルス、中毒疹、咬刺症）\nじん麻疹\n感冒等上気道炎に伴うくしゃみ・鼻汁・咳嗽\nアレルギー性鼻炎",
+  "dose_admin": "アリメマジン酒石酸塩として、通常成人1回2.5mg（5mL）を1日3〜4回経口投与する。なお、年齢、症状により適宜増減する。就寝時の頓用には5mg（10mL）を経口投与する。",
+  "contraindications": "本剤の成分、フェノチアジン系化合物又はその類似化合物に対し過敏症の既往歴のある患者\n昏睡状態の患者又はバルビツール酸誘導体・麻酔剤等の中枢神経抑制剤の強い影響下にある患者［本剤は中枢神経抑制作用を有するため、呼吸抑制等があらわれるおそれがある。］\n閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n前立腺肥大等下部尿路に閉塞性疾患のある患者［抗コリン作用を有するため、排尿障害等があらわれるおそれがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "中枢神経抑制作用を増強する",
+    "用量を調節するなど注意する",
+    "降圧作用を増強する",
+    "抗コリン作用を増強する"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\nバルビツール酸誘導体、ベンゾジアゼピン誘導体等\nアルコール",
+      "clinical_symptom_action": "中枢神経抑制作用を増強する。用量を調節するなど注意する。",
+      "mechanism_risk_factor": "相互に作用を増強すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "降圧剤\nACE阻害剤、アンジオテンシンⅡ受容体拮抗剤等",
+      "clinical_symptom_action": "降圧作用を増強する。用量を調節するなど注意する。",
+      "mechanism_risk_factor": "相互に作用を増強すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アトロピン様作用を有する薬剤",
+      "clinical_symptom_action": "抗コリン作用を増強する。用量を調節するなど注意する。",
+      "mechanism_risk_factor": "相互に作用を増強すると考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

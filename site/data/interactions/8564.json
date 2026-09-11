@@ -1,0 +1,284 @@
+[
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 3254,
+    "other_brand": "オラビ錠口腔用50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "contraindicated",
+    "source_text": "ミダゾラム\n［ドルミカム、ミダフレッサ］\nトリアゾラム\n［ハルシオン］"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ミダゾラム\n［ドルミカム、ミダフレッサ］\nトリアゾラム\n［ハルシオン］"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン）\nミダゾラム（ドルミカム）"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム\n,"
+  },
+  {
+    "other_id": 5880,
+    "other_brand": "ジカディア錠150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アナモレリン塩酸塩\n（エドルミズ）\nボクロスポリン\n（ルプキネス）\nイバブラジン塩酸塩\n（コララン）\nキニジン硫酸塩水和物\nチカグレロル\n（ブリリンタ）\nマバカムテン\n（カムザイオス）\nアゼルニジピン\n（カルブロック）\nオルメサルタン メドキソミル・アゼルニジピン\n（レザルタス配合錠）\nエプレレノン\n（セララ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n（クリアミン配合錠）\nシンバスタチン\n（リポバス）\nタダラフィル\n（アドシルカ）\nマシテンタン・タダラフィル\n（ユバンシ配合錠）\nフィネレノン\n（ケレンディア）\nロミタピドメシル酸塩\n（ジャクスタピッド）\nスボレキサント\n（ベルソムラ）\nダリドレキサント塩酸塩\n（クービビック）\nトリアゾラム\n（ハルシオン）\nブロナンセリン\n（ロナセン）\nボルノレキサント水和物\n（ボルズィ）\nルラシドン塩酸塩\n（ラツーダ）\nバルデナフィル塩酸塩水和物\nメチルエルゴメトリンマレイン酸塩\n（パルタンM）\nロナファルニブ\n（ゾキンヴィ）\nイブルチニブ\n（イムブルビカ）"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 7617,
+    "other_brand": "ツカイザ錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nイバブラジン塩酸塩（コララン）\nキニジン硫酸塩水和物\nチカグレロル（ブリリンタ）\nマバカムテン（カムザイオス）\nアゼルニジピン（カルブロック）\nオルメサルタン　メドキソミル・アゼルニジピン（レザルタス配合錠）\nエプレレノン（セララ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）\nシンバスタチン（リポバス）\nタダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ配合錠）\nフィネレノン（ケレンディア）\nロミタピドメシル酸塩（ジャクスタピッド）\nスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nトリアゾラム（ハルシオン）\nブロナンセリン（ロナセン）\nボルノレキサント水和物（ボルズィ）\nルラシドン塩酸塩（ラツーダ）\nバルデナフィル塩酸塩水和物\nメチルエルゴメトリンマレイン酸塩（パルタンM）\nロナファルニブ（ゾキンヴィ）\nイブルチニブ（イムブルビカ）\nパロバロテン（ソホノス）"
+  },
+  {
+    "other_id": 9699,
+    "other_brand": "ノクサフィル点滴静注300mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン）"
+  },
+  {
+    "other_id": 9700,
+    "other_brand": "ノクサフィル錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン）"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ジアゼパム\n［セルシン、ホリゾン］\nクロラゼプ酸二カリウム\n［メンドン］\nエスタゾラム\n［ユーロジン］\nフルラゼパム塩酸塩\n［ダルメート］\nトリアゾラム\n［ハルシオン］\nミダゾラム\n［ドルミカム、ミダフレッサ］"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "contraindicated",
+    "source_text": "ジアゼパム（セルシン、ホリゾン）クロラゼプ酸二カリウム（メンドン）エスタゾラム（ユーロジン）フルラゼパム塩酸塩（ダルメート）トリアゾラム（ハルシオン）ミダゾラム（ドルミカム、ミダフレッサ）\n,"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "contraindicated",
+    "source_text": "ジアゼパム（セルシン、ホリゾン）クロラゼプ酸二カリウム（メンドン）エスタゾラム（ユーロジン）フルラゼパム塩酸塩（ダルメート）トリアゾラム（ハルシオン）ミダゾラム（ドルミカム、ミダフレッサ）\n,"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11392,
+    "other_brand": "フルコナゾールカプセル50mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11395,
+    "other_brand": "フルコナゾールカプセル50mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11408,
+    "other_brand": "フルコナゾール静注50mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11409,
+    "other_brand": "フルコナゾール静注50mg「NP」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 11555,
+    "other_brand": "フロリードゲル経口用2%",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 11559,
+    "other_brand": "フロリードF注200mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン"
+  },
+  {
+    "other_id": 11562,
+    "other_brand": "ブイフェンドドライシロップ2800mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 11563,
+    "other_brand": "ブイフェンド錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 11565,
+    "other_brand": "ブイフェンド200mg静注用",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 11845,
+    "other_brand": "プリジスタ錠600mg",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム"
+  },
+  {
+    "other_id": 12024,
+    "other_brand": "プロジフ静注液100",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム（ハルシオン等）"
+  },
+  {
+    "other_id": 12973,
+    "other_brand": "ボリコナゾール錠50mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 12976,
+    "other_brand": "ボリコナゾール錠50mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 12977,
+    "other_brand": "ボリコナゾール錠50mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 12978,
+    "other_brand": "ボリコナゾール錠50mg「DSEP」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 12974,
+    "other_brand": "ボリコナゾール錠50mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 12980,
+    "other_brand": "ボリコナゾール錠50mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  },
+  {
+    "other_id": 12987,
+    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "トリアゾラム\n（ハルシオン）"
+  }
+]

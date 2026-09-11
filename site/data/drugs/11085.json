@@ -1,0 +1,61 @@
+{
+  "id": 11085,
+  "brand_name": "フェアストン錠40",
+  "generic_name": "トレミフェンクエン酸塩製剤",
+  "therapeutic_classification": "乳癌治療剤",
+  "indications": "閉経後乳癌",
+  "dose_admin": "通常、成人にはトレミフェンとして40mgを1日1回経口投与する。また、既治療例（薬物療法及び放射線療法などに無効例）に対しては、通常成人にトレミフェンとして120mgを1日1回経口投与する。なお、症状により適宜増減する。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性及び授乳婦\n,\n,\nQT延長又はその既往歴のある患者（先天性QT延長症候群等）［心室性頻拍（Torsade de pointesを含む）、QT延長の増悪もしくは再発するおそれがある。］\n低カリウム血症のある患者［心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。］\nクラスIA（キニジン、プロカインアミド等）又はクラスⅢ（アミオダロン、ソタロール等）の抗不整脈薬を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "血栓塞栓症、静脈炎（頻度不明）\n脳梗塞、肺塞栓、血栓塞栓症、静脈炎、血栓性静脈炎があらわれることがある。\n肝機能障害、黄疸（頻度不明）\n子宮筋腫（頻度不明）",
+  "observation_points": [
+    "血栓塞栓症、静脈炎（頻度不明）",
+    "脳梗塞、肺塞栓、血栓塞栓症、静脈炎、血栓性静脈炎があらわれることがある",
+    "肝機能障害、黄疸（頻度不明）",
+    "子宮筋腫（頻度不明）",
+    "高カルシウム血症の危険性を増大させるおそれがある",
+    "抗凝血作用を増強するとの報告があるので、抗凝血剤を減量するなど慎重に投与すること",
+    "本剤の血中濃度が低下するおそれがある",
+    "本剤のAUCが上昇することが予想される"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "クラスIA抗不整脈薬\nキニジン\nプロカインアミド\n（アミサリン）　等\nクラスⅢ抗不整脈薬\nアミオダロン\n（アンカロン）\nソタロール\n（ソタコール）　等",
+      "clinical_symptom_action": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤はいずれもQT間隔を延長させるおそれがあるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "腎臓を介してカルシウムの排泄を減少させる薬物\nチアジド系利尿剤",
+      "clinical_symptom_action": "高カルシウム血症の危険性を増大させるおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系抗凝血剤\nワルファリン",
+      "clinical_symptom_action": "抗凝血作用を増強するとの報告があるので、抗凝血剤を減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "クマリン系薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェノバルビタールフェニトインカルバマゼピン",
+      "clinical_symptom_action": "本剤の血中濃度が低下するおそれがある。",
+      "mechanism_risk_factor": "本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の血中濃度が低下するおそれがある。",
+      "mechanism_risk_factor": "本剤の主要代謝酵素CYP3A4が誘導され、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル",
+      "clinical_symptom_action": "本剤のAUCが上昇することが予想される。",
+      "mechanism_risk_factor": "本剤の主要代謝酵素CYP3A4を阻害する。"
+    }
+  ],
+  "facility_notes": ""
+}

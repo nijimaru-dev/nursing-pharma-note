@@ -1,0 +1,26 @@
+{
+  "id": 8331,
+  "brand_name": "デュタステリドカプセル0.5mgAV「武田テバ」",
+  "generic_name": "デュタステリドカプセル",
+  "therapeutic_classification": "5α還元酵素阻害薬\n前立腺肥大症治療薬",
+  "indications": "前立腺肥大症",
+  "dose_admin": "通常、成人にはデュタステリドとして1回0.5mgを1日1回経口投与する。",
+  "contraindications": "本剤の成分及び他の5α還元酵素阻害薬に対し過敏症の既往歴のある患者\n女性\n,\n,\n小児等\n,\n重度の肝機能障害のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\nカプセルの内容物が口腔咽頭粘膜を刺激する場合があるので、カプセルは噛んだり開けたりせずに服用させること。",
+  "serious_adverse_events": "肝機能障害（1.5%）、黄疸（頻度不明）\nAST、ALT、ビリルビンの上昇等を伴う肝機能障害や黄疸があらわれることがある。",
+  "observation_points": [
+    "肝機能障害（1.5%）、黄疸（頻度不明）",
+    "AST、ALT、ビリルビンの上昇等を伴う肝機能障害や黄疸があらわれることがある",
+    "これらの薬剤との併用により本剤の血中濃度が上昇する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4阻害作用を有する薬剤\nリトナビル等",
+      "clinical_symptom_action": "これらの薬剤との併用により本剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が阻害される。"
+    }
+  ],
+  "facility_notes": ""
+}

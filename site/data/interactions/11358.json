@@ -1,0 +1,3380 @@
+[
+  {
+    "other_id": 10,
+    "other_brand": "〔東洋〕五淋散エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 12,
+    "other_brand": "〔東洋〕人参湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 20,
+    "other_brand": "〔東洋〕半夏瀉心湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 25,
+    "other_brand": "〔東洋〕小柴胡湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 37,
+    "other_brand": "〔東洋〕芍薬甘草湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n補中益気湯抑肝散\n六君子湯　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 44,
+    "other_brand": "〔東洋〕黄連湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 71,
+    "other_brand": "アイミクス配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 79,
+    "other_brand": "アウィクリ注 フレックスタッチ 総量300単位",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 195,
+    "other_brand": "アジルサルタン錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 196,
+    "other_brand": "アジルサルタン錠10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 197,
+    "other_brand": "アジルサルタン錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 200,
+    "other_brand": "アジルサルタン錠10mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 201,
+    "other_brand": "アジルサルタン錠10mg「武田テバ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 202,
+    "other_brand": "アジルサルタン錠10mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 203,
+    "other_brand": "アジルサルタン錠10mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 225,
+    "other_brand": "アジルサルタンOD錠10mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 227,
+    "other_brand": "アジルサルタンOD錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 228,
+    "other_brand": "アジルサルタンOD錠10mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 229,
+    "other_brand": "アジルサルタンOD錠10mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 230,
+    "other_brand": "アジルサルタンOD錠10mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 231,
+    "other_brand": "アジルサルタンOD錠10mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 232,
+    "other_brand": "アジルサルタンOD錠10mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 249,
+    "other_brand": "アジルバ錠10mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 452,
+    "other_brand": "アテディオ配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド　等"
+  },
+  {
+    "other_id": 476,
+    "other_brand": "アデカット7.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 625,
+    "other_brand": "アドレナリン注0.1%シリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 658,
+    "other_brand": "アバプロ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 672,
+    "other_brand": "アピドラ注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 673,
+    "other_brand": "アピドラ注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 674,
+    "other_brand": "アピドラ注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 718,
+    "other_brand": "アマリール0.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 753,
+    "other_brand": "アマンタジン塩酸塩錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nヒドロクロロチアジド\nトリクロルメチアジド\nインダパミド　等\nカリウム保持性利尿剤\nトリアムテレン\nスピロノラクトン\nエプレレノン　等"
+  },
+  {
+    "other_id": 754,
+    "other_brand": "アマンタジン塩酸塩錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nヒドロクロロチアジド\nトリクロルメチアジド\nインダパミド　等\nカリウム保持性利尿剤\nトリアムテレン\nスピロノラクトン\nエプレレノン　等"
+  },
+  {
+    "other_id": 757,
+    "other_brand": "アマンタジン塩酸塩錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nヒドロクロロチアジド\nトリクロルメチアジド\nインダパミド　等\nカリウム保持性利尿剤\nトリアムテレン\nスピロノラクトン\nエプレレノン　等"
+  },
+  {
+    "other_id": 758,
+    "other_brand": "アマンタジン塩酸塩錠50mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nヒドロクロロチアジド\nトリクロルメチアジド\nインダパミド　等\nカリウム保持性利尿剤\nトリアムテレン\nスピロノラクトン\nエプレレノン　等"
+  },
+  {
+    "other_id": 759,
+    "other_brand": "アマンタジン塩酸塩錠50mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nヒドロクロロチアジド\nトリクロルメチアジド\nインダパミド　等\nカリウム保持性利尿剤\nトリアムテレン\nスピロノラクトン\nエプレレノン　等"
+  },
+  {
+    "other_id": 806,
+    "other_brand": "アミファーゲンP注20mL",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 810,
+    "other_brand": "アムバロ配合錠「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 812,
+    "other_brand": "アムバロ配合錠「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 814,
+    "other_brand": "アムバロ配合錠「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 815,
+    "other_brand": "アムバロ配合錠「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 816,
+    "other_brand": "アムバロ配合錠「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 817,
+    "other_brand": "アムバロ配合錠「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 818,
+    "other_brand": "アムバロ配合錠「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 819,
+    "other_brand": "アムバロ配合錠「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 820,
+    "other_brand": "アムバロ配合錠「FFP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 821,
+    "other_brand": "アムバロ配合錠「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 822,
+    "other_brand": "アムバロ配合錠「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 823,
+    "other_brand": "アムバロ配合錠「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 824,
+    "other_brand": "アムバロ配合錠「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 825,
+    "other_brand": "アムバロ配合OD錠「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 826,
+    "other_brand": "アムバロ配合OD錠「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 827,
+    "other_brand": "アムビゾーム点滴静注用50mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジドヒドロクロロチアジド　等"
+  },
+  {
+    "other_id": 1440,
+    "other_brand": "アーチスト錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 1743,
+    "other_brand": "イミダプリル塩酸塩錠10mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1749,
+    "other_brand": "イミダプリル塩酸塩錠10mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1750,
+    "other_brand": "イミダプリル塩酸塩錠10mg「PH」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1751,
+    "other_brand": "イミダプリル塩酸塩錠10mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1752,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1744,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1745,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1746,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1748,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1758,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1759,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「PH」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1760,
+    "other_brand": "イミダプリル塩酸塩錠2.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1803,
+    "other_brand": "イルアミクス配合錠LD「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1805,
+    "other_brand": "イルアミクス配合錠LD「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1807,
+    "other_brand": "イルアミクス配合錠LD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1808,
+    "other_brand": "イルアミクス配合錠LD「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1809,
+    "other_brand": "イルアミクス配合錠LD「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1810,
+    "other_brand": "イルアミクス配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1811,
+    "other_brand": "イルアミクス配合錠LD「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1812,
+    "other_brand": "イルアミクス配合錠LD「DSPB」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1813,
+    "other_brand": "イルアミクス配合錠LD「EE」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1814,
+    "other_brand": "イルアミクス配合錠LD「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1815,
+    "other_brand": "イルアミクス配合錠LD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1816,
+    "other_brand": "イルアミクス配合錠LD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1817,
+    "other_brand": "イルアミクス配合錠LD「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1841,
+    "other_brand": "イルベサルタン錠50mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1842,
+    "other_brand": "イルベサルタン錠50mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1843,
+    "other_brand": "イルベサルタン錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1844,
+    "other_brand": "イルベサルタン錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1846,
+    "other_brand": "イルベサルタン錠50mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1847,
+    "other_brand": "イルベサルタン錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1848,
+    "other_brand": "イルベサルタン錠50mg「DSPB」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1849,
+    "other_brand": "イルベサルタン錠50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1850,
+    "other_brand": "イルベサルタン錠50mg「KMP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1871,
+    "other_brand": "イルベサルタンOD錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1874,
+    "other_brand": "イルベタン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 1894,
+    "other_brand": "インスリン　アスパルトBS注カート NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 1895,
+    "other_brand": "インスリン　アスパルトBS注ソロスター NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 1896,
+    "other_brand": "インスリン　アスパルトBS注100単位/mL NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 1898,
+    "other_brand": "インスリン グラルギンBS注キット「FFP」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 1897,
+    "other_brand": "インスリン　グラルギンBS注カート「リリー」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 1900,
+    "other_brand": "インスリン　リスプロBS注カート　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 1902,
+    "other_brand": "インスリン　リスプロBS注100単位/mL　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 2246,
+    "other_brand": "エカード配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 2529,
+    "other_brand": "エックスフォージ配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 2530,
+    "other_brand": "エックスフォージ配合OD錠",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤チアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 2934,
+    "other_brand": "エンペラシン配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド"
+  },
+  {
+    "other_id": 2935,
+    "other_brand": "エンレスト錠50mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 2941,
+    "other_brand": "エースコール錠1mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 2944,
+    "other_brand": "オイグルコン錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 3123,
+    "other_brand": "オドリック錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジドヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 3356,
+    "other_brand": "オルガドロン注射液1.9mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジドフロセミド"
+  },
+  {
+    "other_id": 3388,
+    "other_brand": "オルメサルタン錠5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3389,
+    "other_brand": "オルメサルタン錠5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3391,
+    "other_brand": "オルメサルタン錠5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3392,
+    "other_brand": "オルメサルタン錠5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3393,
+    "other_brand": "オルメサルタン錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3394,
+    "other_brand": "オルメサルタン錠5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3395,
+    "other_brand": "オルメサルタン錠5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3396,
+    "other_brand": "オルメサルタン錠5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3397,
+    "other_brand": "オルメサルタン錠5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3428,
+    "other_brand": "オルメサルタンOD錠10mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3435,
+    "other_brand": "オルメサルタンOD錠10mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3429,
+    "other_brand": "オルメサルタンOD錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3430,
+    "other_brand": "オルメサルタンOD錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3432,
+    "other_brand": "オルメサルタンOD錠5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3433,
+    "other_brand": "オルメサルタンOD錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3434,
+    "other_brand": "オルメサルタンOD錠5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3458,
+    "other_brand": "オルメテックOD錠5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3573,
+    "other_brand": "オースギ人参湯エキスG",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3585,
+    "other_brand": "オースギ半夏瀉心湯エキスG",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3596,
+    "other_brand": "オースギ小柴胡湯エキスG",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3597,
+    "other_brand": "オースギ小柴胡湯エキスT錠",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3598,
+    "other_brand": "オースギ小青竜湯エキスG",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3599,
+    "other_brand": "オースギ小青竜湯エキスT錠",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3602,
+    "other_brand": "オースギ当帰四逆加呉茱萸生姜湯エキスG",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3618,
+    "other_brand": "オースギ甘麦大棗湯エキスTG",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3671,
+    "other_brand": "カデチア配合錠LD「あすか」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3672,
+    "other_brand": "カデチア配合錠LD「テバ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3703,
+    "other_brand": "カプトリル−Rカプセル18.75mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 3704,
+    "other_brand": "カプトリル錠12.5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 3725,
+    "other_brand": "カムシア配合錠LD「あすか」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3726,
+    "other_brand": "カムシア配合錠LD「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3728,
+    "other_brand": "カムシア配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3729,
+    "other_brand": "カムシア配合錠LD「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3730,
+    "other_brand": "カムシア配合錠LD「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3731,
+    "other_brand": "カムシア配合錠LD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3773,
+    "other_brand": "カルシトリオール静注液0.5μg「F」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 3845,
+    "other_brand": "カルベジロール錠1.25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3846,
+    "other_brand": "カルベジロール錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3847,
+    "other_brand": "カルベジロール錠1.25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3848,
+    "other_brand": "カルベジロール錠1.25mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3849,
+    "other_brand": "カルベジロール錠1.25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3850,
+    "other_brand": "カルベジロール錠1.25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3851,
+    "other_brand": "カルベジロール錠1.25mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3852,
+    "other_brand": "カルベジロール錠1.25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3866,
+    "other_brand": "カルベジロール錠10mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3853,
+    "other_brand": "カルベジロール錠1.25mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3855,
+    "other_brand": "カルベジロール錠1.25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+  },
+  {
+    "other_id": 3960,
+    "other_brand": "カンデサルタン錠2mg「あすか」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3961,
+    "other_brand": "カンデサルタン錠2mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3963,
+    "other_brand": "カンデサルタン錠2mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3966,
+    "other_brand": "カンデサルタン錠2mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3967,
+    "other_brand": "カンデサルタン錠2mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3969,
+    "other_brand": "カンデサルタン錠2mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3970,
+    "other_brand": "カンデサルタン錠2mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3971,
+    "other_brand": "カンデサルタン錠2mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3972,
+    "other_brand": "カンデサルタン錠2mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3973,
+    "other_brand": "カンデサルタン錠2mg「武田テバ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3974,
+    "other_brand": "カンデサルタン錠2mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3975,
+    "other_brand": "カンデサルタン錠2mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3976,
+    "other_brand": "カンデサルタン錠2mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3977,
+    "other_brand": "カンデサルタン錠2mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 4015,
+    "other_brand": "カンデサルタン錠4mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3978,
+    "other_brand": "カンデサルタン錠2mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3965,
+    "other_brand": "カンデサルタン錠2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 3968,
+    "other_brand": "カンデサルタン錠2mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 4190,
+    "other_brand": "キシロカイン注射液「0.5%」エピレナミン（1：100,000）含有",
+    "interaction_type": "caution",
+    "source_text": "利尿剤チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 4235,
+    "other_brand": "キョウミノチン静注PL",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 4270,
+    "other_brand": "キーンス配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 4360,
+    "other_brand": "クラシエ人参湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4374,
+    "other_brand": "クラシエ半夏瀉心湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4375,
+    "other_brand": "クラシエ半夏瀉心湯エキス錠",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4383,
+    "other_brand": "クラシエ小柴胡湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4384,
+    "other_brand": "クラシエ小柴胡湯エキス錠",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4385,
+    "other_brand": "クラシエ小青竜湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4386,
+    "other_brand": "クラシエ小青竜湯エキス錠",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4387,
+    "other_brand": "クラシエ当帰四逆加呉茱萸生姜湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4396,
+    "other_brand": "クラシエ桂枝人参湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4408,
+    "other_brand": "クラシエ甘草湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4412,
+    "other_brand": "クラシエ芍薬甘草湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n補中益気湯抑肝散\n六君子湯　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 4767,
+    "other_brand": "グリクラジド錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4768,
+    "other_brand": "グリクラジド錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4769,
+    "other_brand": "グリクラジド錠20mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4828,
+    "other_brand": "グリチロン配合錠",
+    "interaction_type": "caution",
+    "source_text": "チアジド系及びその類似降圧利尿剤\nトリクロルメチアジドクロルタリドン等"
+  },
+  {
+    "other_id": 4832,
+    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4833,
+    "other_brand": "グリベンクラミド錠1.25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4834,
+    "other_brand": "グリベンクラミド錠1.25mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4835,
+    "other_brand": "グリベンクラミド錠1.25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4840,
+    "other_brand": "グリミクロンHA錠20mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド　等"
+  },
+  {
+    "other_id": 4843,
+    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4846,
+    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4848,
+    "other_brand": "グリメピリド錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4849,
+    "other_brand": "グリメピリド錠0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4850,
+    "other_brand": "グリメピリド錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4851,
+    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4852,
+    "other_brand": "グリメピリド錠0.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4853,
+    "other_brand": "グリメピリド錠0.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4854,
+    "other_brand": "グリメピリド錠0.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4855,
+    "other_brand": "グリメピリド錠0.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4856,
+    "other_brand": "グリメピリド錠0.5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4857,
+    "other_brand": "グリメピリド錠0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4858,
+    "other_brand": "グリメピリド錠0.5mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4859,
+    "other_brand": "グリメピリド錠0.5mg「NC」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4860,
+    "other_brand": "グリメピリド錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4861,
+    "other_brand": "グリメピリド錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4862,
+    "other_brand": "グリメピリド錠0.5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4863,
+    "other_brand": "グリメピリド錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4864,
+    "other_brand": "グリメピリド錠0.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4865,
+    "other_brand": "グリメピリド錠0.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4912,
+    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4913,
+    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4914,
+    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド　等"
+  },
+  {
+    "other_id": 4932,
+    "other_brand": "グルコリン配合静注",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 5039,
+    "other_brand": "ケトプロフェン坐剤50mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 5040,
+    "other_brand": "ケトプロフェン坐剤50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 5043,
+    "other_brand": "ケトプロフェン筋注50mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 5044,
+    "other_brand": "ケナコルト−A皮内用関節腔内用水懸注50mg/5mL",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド等\n注射用アムホテリシンB"
+  },
+  {
+    "other_id": 5045,
+    "other_brand": "ケナコルト−A筋注用関節腔内用水懸注40mg/1mL",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド等\n注射用アムホテリシンB"
+  },
+  {
+    "other_id": 5120,
+    "other_brand": "コタローきゅう帰膠艾湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5128,
+    "other_brand": "コタロー人参湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5136,
+    "other_brand": "コタロー半夏瀉心湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5149,
+    "other_brand": "コタロー小柴胡湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5150,
+    "other_brand": "コタロー小青竜湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5152,
+    "other_brand": "コタロー当帰四逆加呉茱萸生姜湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5155,
+    "other_brand": "コタロー排膿散及湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5173,
+    "other_brand": "コタロー炙甘草湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5175,
+    "other_brand": "コタロー甘麦大棗湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5181,
+    "other_brand": "コタロー芍薬甘草湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n補中益気湯抑肝散\n六君子湯　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5204,
+    "other_brand": "コタロー黄連湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 5208,
+    "other_brand": "コディオ配合錠MD",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 5302,
+    "other_brand": "コートン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド\nフロセミド等\nβ2-刺激剤\nクレンブテロール塩酸塩\nツロブテロール塩酸塩\nプロカテロール塩酸塩水和物等\nアムホテリシンB"
+  },
+  {
+    "other_id": 5345,
+    "other_brand": "サクコルチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド"
+  },
+  {
+    "other_id": 5496,
+    "other_brand": "ザクラス配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 5816,
+    "other_brand": "シンメトレル錠50mg",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nヒドロクロロチアジド\nトリクロルメチアジド\nインダパミド　等\nカリウム保持性利尿剤\nトリアムテレン\nスピロノラクトン\nエプレレノン　等"
+  },
+  {
+    "other_id": 5843,
+    "other_brand": "ジアゾキシドカプセル25mg「OP」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 6059,
+    "other_brand": "ジュンコウ　きゅう帰膠艾湯FCエキス細粒　医療用",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 6068,
+    "other_brand": "ジュンコウ　半夏瀉心湯FCエキス細粒　医療用",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 6072,
+    "other_brand": "ジュンコウ　小柴胡湯FCエキス細粒　医療用",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 6082,
+    "other_brand": "ジュンコウ　芍薬甘草湯FCエキス細粒　医療用",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n補中益気湯抑肝散\n六君子湯　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 6128,
+    "other_brand": "ジルムロ配合錠LD「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6132,
+    "other_brand": "ジルムロ配合錠LD「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6133,
+    "other_brand": "ジルムロ配合錠LD「武田テバ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6134,
+    "other_brand": "ジルムロ配合錠LD「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6135,
+    "other_brand": "ジルムロ配合錠LD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6137,
+    "other_brand": "ジルムロ配合錠LD「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6127,
+    "other_brand": "ジルムロ配合錠LD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6129,
+    "other_brand": "ジルムロ配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6151,
+    "other_brand": "ジルムロ配合OD錠LD「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 6277,
+    "other_brand": "ステロネマ注腸3mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド\nアセタゾラミド\nトリクロルメチアジド　等\nイソプレナリン塩酸塩\nエフェドリン塩酸塩"
+  },
+  {
+    "other_id": 6333,
+    "other_brand": "スプレンジール錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "他の降圧剤\nトリクロルメチアジド、カプトプリル等"
+  },
+  {
+    "other_id": 6665,
+    "other_brand": "セレコキシブ錠100mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6666,
+    "other_brand": "セレコキシブ錠100mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6668,
+    "other_brand": "セレコキシブ錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6669,
+    "other_brand": "セレコキシブ錠100mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6670,
+    "other_brand": "セレコキシブ錠100mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6671,
+    "other_brand": "セレコキシブ錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6672,
+    "other_brand": "セレコキシブ錠100mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6673,
+    "other_brand": "セレコキシブ錠100mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6674,
+    "other_brand": "セレコキシブ錠100mg「三笠」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6675,
+    "other_brand": "セレコキシブ錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6676,
+    "other_brand": "セレコキシブ錠100mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6677,
+    "other_brand": "セレコキシブ錠100mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6678,
+    "other_brand": "セレコキシブ錠100mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6680,
+    "other_brand": "セレコキシブ錠100mg「武田テバ」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6681,
+    "other_brand": "セレコキシブ錠100mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6682,
+    "other_brand": "セレコキシブ錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6683,
+    "other_brand": "セレコキシブ錠100mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6684,
+    "other_brand": "セレコキシブ錠100mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6705,
+    "other_brand": "セレコックス錠100mg",
+    "interaction_type": "caution",
+    "source_text": "フロセミド\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\n等"
+  },
+  {
+    "other_id": 6710,
+    "other_brand": "セレスタミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド"
+  },
+  {
+    "other_id": 6851,
+    "other_brand": "ソリクア配合注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 6928,
+    "other_brand": "ソル・コーテフ注射用100mg",
+    "interaction_type": "caution",
+    "source_text": "カリウム排泄型利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド等"
+  },
+  {
+    "other_id": 6929,
+    "other_brand": "ソル・コーテフ静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "カリウム排泄型利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド等"
+  },
+  {
+    "other_id": 6931,
+    "other_brand": "ソル・メドロール静注用40mg",
+    "interaction_type": "caution",
+    "source_text": "カリウム排泄型利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド等"
+  },
+  {
+    "other_id": 7005,
+    "other_brand": "ゾルトファイ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 7228,
+    "other_brand": "タナトリル錠10",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 7229,
+    "other_brand": "タナトリル錠2.5",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 7620,
+    "other_brand": "ツムラきゅう帰膠艾湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7714,
+    "other_brand": "ツムラ五淋散エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7718,
+    "other_brand": "ツムラ人参湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7729,
+    "other_brand": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7747,
+    "other_brand": "ツムラ小柴胡湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7749,
+    "other_brand": "ツムラ小青竜湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7753,
+    "other_brand": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7760,
+    "other_brand": "ツムラ排膿散及湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7769,
+    "other_brand": "ツムラ桂枝人参湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7778,
+    "other_brand": "ツムラ桔梗湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7791,
+    "other_brand": "ツムラ炙甘草湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7795,
+    "other_brand": "ツムラ甘麦大棗湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7805,
+    "other_brand": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n補中益気湯抑肝散\n六君子湯　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7833,
+    "other_brand": "ツムラ黄連湯エキス顆粒（医療用）",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 7896,
+    "other_brand": "ツロブテロールテープ0.5「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7897,
+    "other_brand": "ツロブテロールテープ0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7898,
+    "other_brand": "ツロブテロールテープ0.5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7899,
+    "other_brand": "ツロブテロールテープ0.5mg「テイコク」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7900,
+    "other_brand": "ツロブテロールテープ0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7901,
+    "other_brand": "ツロブテロールテープ0.5mg「久光」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7902,
+    "other_brand": "ツロブテロールテープ0.5mg「MED」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7903,
+    "other_brand": "ツロブテロールテープ0.5mg「QQ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7904,
+    "other_brand": "ツロブテロールテープ0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7905,
+    "other_brand": "ツロブテロールテープ0.5mg「YP」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 7932,
+    "other_brand": "ツロブテロール塩酸塩DS小児用0.1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミドアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 8041,
+    "other_brand": "テモカプリル塩酸塩錠1mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 8042,
+    "other_brand": "テモカプリル塩酸塩錠1mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 8043,
+    "other_brand": "テモカプリル塩酸塩錠1mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 8058,
+    "other_brand": "テラムロ配合錠AP「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8059,
+    "other_brand": "テラムロ配合錠AP「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8060,
+    "other_brand": "テラムロ配合錠AP「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8061,
+    "other_brand": "テラムロ配合錠AP「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8062,
+    "other_brand": "テラムロ配合錠AP「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8063,
+    "other_brand": "テラムロ配合錠AP「EE」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8064,
+    "other_brand": "テラムロ配合錠AP「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8065,
+    "other_brand": "テラムロ配合錠AP「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8086,
+    "other_brand": "テルチア配合錠AP「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8087,
+    "other_brand": "テルチア配合錠AP「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8088,
+    "other_brand": "テルチア配合錠AP「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8089,
+    "other_brand": "テルチア配合錠AP「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8090,
+    "other_brand": "テルチア配合錠AP「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8124,
+    "other_brand": "テルミサルタン錠20mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8125,
+    "other_brand": "テルミサルタン錠20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8127,
+    "other_brand": "テルミサルタン錠20mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8128,
+    "other_brand": "テルミサルタン錠20mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8129,
+    "other_brand": "テルミサルタン錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8130,
+    "other_brand": "テルミサルタン錠20mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8131,
+    "other_brand": "テルミサルタン錠20mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8132,
+    "other_brand": "テルミサルタン錠20mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8133,
+    "other_brand": "テルミサルタン錠20mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8134,
+    "other_brand": "テルミサルタン錠20mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8135,
+    "other_brand": "テルミサルタン錠20mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8136,
+    "other_brand": "テルミサルタン錠20mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8137,
+    "other_brand": "テルミサルタン錠20mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8138,
+    "other_brand": "テルミサルタン錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8139,
+    "other_brand": "テルミサルタン錠20mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8141,
+    "other_brand": "テルミサルタン錠20mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8143,
+    "other_brand": "テルミサルタン錠20mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8144,
+    "other_brand": "テルミサルタン錠20mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8126,
+    "other_brand": "テルミサルタン錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8188,
+    "other_brand": "テルミサルタンOD錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 8214,
+    "other_brand": "ディオバン錠20mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 8218,
+    "other_brand": "ディオバンOD錠20mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 8233,
+    "other_brand": "デカドロン注射液1.65mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジドフロセミド"
+  },
+  {
+    "other_id": 8236,
+    "other_brand": "デカドロン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド\nフロセミド"
+  },
+  {
+    "other_id": 8238,
+    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド\nフロセミド"
+  },
+  {
+    "other_id": 8256,
+    "other_brand": "デキサート注射液1.65mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジドフロセミド"
+  },
+  {
+    "other_id": 8316,
+    "other_brand": "デポ・メドロール水懸注20mg",
+    "interaction_type": "caution",
+    "source_text": "カリウム排泄型利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド等"
+  },
+  {
+    "other_id": 8412,
+    "other_brand": "デルティバ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "低カリウム血症を起こすことが知られている薬剤\nアミノグリコシド系抗菌薬\nエンビオマイシン硫酸塩、カナマイシン硫酸塩 等\n利尿剤\nフロセミド、トリクロルメチアジド 等\nアムホテリシンB 等"
+  },
+  {
+    "other_id": 8774,
+    "other_brand": "トランドラプリル錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nトリクロルメチアジドヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 8797,
+    "other_brand": "トリセノックス点滴静注12mg",
+    "interaction_type": "caution",
+    "source_text": "利尿薬\nトリクロルメチアジド等\nアムホテリシンB"
+  },
+  {
+    "other_id": 8861,
+    "other_brand": "トレシーバ注　フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤  トリクロルメチアジド"
+  },
+  {
+    "other_id": 8862,
+    "other_brand": "トレシーバ注　ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤  トリクロルメチアジド"
+  },
+  {
+    "other_id": 9471,
+    "other_brand": "ニチファーゲン注",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 9473,
+    "other_brand": "ニチファーゲン配合錠",
+    "interaction_type": "caution",
+    "source_text": "チアジド系及びその類似降圧利尿剤\nトリクロルメチアジドクロルタリドン等"
+  },
+  {
+    "other_id": 9572,
+    "other_brand": "ニューロタン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9626,
+    "other_brand": "ネオファーゲン静注20mL",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 9627,
+    "other_brand": "ネオファーゲンC配合錠",
+    "interaction_type": "caution",
+    "source_text": "チアジド系及びその類似降圧利尿剤\nトリクロルメチアジドクロルタリドン等"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤チアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 9724,
+    "other_brand": "ノボラピッド注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤  トリクロルメチアジド"
+  },
+  {
+    "other_id": 9726,
+    "other_brand": "ノボラピッド注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤  トリクロルメチアジド"
+  },
+  {
+    "other_id": 9727,
+    "other_brand": "ノボラピッド注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤  トリクロルメチアジド"
+  },
+  {
+    "other_id": 9728,
+    "other_brand": "ノボラピッド30ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤　トリクロルメチアジド"
+  },
+  {
+    "other_id": 9729,
+    "other_brand": "ノボラピッド30ミックス注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤　トリクロルメチアジド"
+  },
+  {
+    "other_id": 9730,
+    "other_brand": "ノボラピッド50ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤  トリクロルメチアジド"
+  },
+  {
+    "other_id": 9731,
+    "other_brand": "ノボリン30R注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 9732,
+    "other_brand": "ノボリンN注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 9733,
+    "other_brand": "ノボリンR注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 9734,
+    "other_brand": "ノボリンR注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nチアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nチアジド系類似剤\nインダパミド等\nループ利尿剤\nフロセミド等\nカリウム保持性利尿剤\nスピロノラクトン"
+  },
+  {
+    "other_id": 9980,
+    "other_brand": "バルサルタン錠20mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9982,
+    "other_brand": "バルサルタン錠20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9984,
+    "other_brand": "バルサルタン錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9985,
+    "other_brand": "バルサルタン錠20mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9986,
+    "other_brand": "バルサルタン錠20mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9987,
+    "other_brand": "バルサルタン錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9988,
+    "other_brand": "バルサルタン錠20mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9989,
+    "other_brand": "バルサルタン錠20mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9990,
+    "other_brand": "バルサルタン錠20mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9991,
+    "other_brand": "バルサルタン錠20mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9992,
+    "other_brand": "バルサルタン錠20mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9993,
+    "other_brand": "バルサルタン錠20mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9994,
+    "other_brand": "バルサルタン錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9995,
+    "other_brand": "バルサルタン錠20mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 9996,
+    "other_brand": "バルサルタン錠20mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10048,
+    "other_brand": "バルサルタンOD錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10068,
+    "other_brand": "バルヒディオ配合錠MD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10069,
+    "other_brand": "バルヒディオ配合錠MD「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10070,
+    "other_brand": "バルヒディオ配合錠MD「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10071,
+    "other_brand": "バルヒディオ配合錠MD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10072,
+    "other_brand": "バルヒディオ配合錠MD「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10073,
+    "other_brand": "バルヒディオ配合錠MD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10074,
+    "other_brand": "バルヒディオ配合錠MD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 10375,
+    "other_brand": "ヒシファーゲン配合静注",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 10391,
+    "other_brand": "ヒドロコルチゾンリン酸エステルNa静注液100mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド\nフロセミド等\nβ2-刺激剤\nクレンブテロール塩酸塩\nツロブテロール塩酸塩\nプロカテロール塩酸塩水和物等\nアムホテリシンB"
+  },
+  {
+    "other_id": 10427,
+    "other_brand": "ヒューマリン3/7注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10429,
+    "other_brand": "ヒューマリン3/7注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10430,
+    "other_brand": "ヒューマリンN注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10432,
+    "other_brand": "ヒューマリンN注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10433,
+    "other_brand": "ヒューマリンR注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10435,
+    "other_brand": "ヒューマリンR注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10436,
+    "other_brand": "ヒューマログミックス25注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10438,
+    "other_brand": "ヒューマログミックス50注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10440,
+    "other_brand": "ヒューマログ注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 10443,
+    "other_brand": "ヒューマログ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 11032,
+    "other_brand": "フィアスプ注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 11034,
+    "other_brand": "フィアスプ注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 11243,
+    "other_brand": "フェロジピン錠2.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "他の降圧剤\nトリクロルメチアジド、カプトプリル等"
+  },
+  {
+    "other_id": 8273,
+    "other_brand": "デスモプレシン点鼻スプレー2.5µg「フェリング」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 8274,
+    "other_brand": "デスモプレシン静注4µg「フェリング」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 13404,
+    "other_brand": "ミニリンメルトOD錠60µg",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 13406,
+    "other_brand": "ミニリンメルトOD錠25µg",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 16552,
+    "other_brand": "氷酢酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17262,
+    "other_brand": "酢酸「ヤマゼン」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17264,
+    "other_brand": "酢酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17265,
+    "other_brand": "酢酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17266,
+    "other_brand": "酢酸「ニッコー」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17269,
+    "other_brand": "酢酸「ヨシダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17270,
+    "other_brand": "酢酸「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物\nミニリンメルト（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nアヘンアルカロイド系麻薬\nアルコール"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nアヘンアルカロイド系麻薬\nアルコール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nアヘンアルカロイド系麻薬\nアルコール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nアヘンアルカロイド系麻薬\nアルコール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nアヘンアルカロイド系麻薬\nアルコール"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nアヘンアルカロイド系麻薬\nアルコール"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nアヘンアルカロイド系麻薬\nアルコール"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "昇圧アミン\nノルアドレナリン、アドレナリン"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン、ジギトキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン、ジギトキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン、ジギトキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン、ジギトキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン、ジギトキシン"
+  },
+  {
+    "other_id": 16757,
+    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "リチウム\n炭酸リチウム"
+  },
+  {
+    "other_id": 4294,
+    "other_brand": "クエストラン粉末44.4%",
+    "interaction_type": "caution",
+    "source_text": "コレスチラミン"
+  },
+  {
+    "other_id": 1658,
+    "other_brand": "イドメシンコーワゲル1％",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド系消炎鎮痛剤\nインドメタシン等"
+  },
+  {
+    "other_id": 1920,
+    "other_brand": "インドメタシンクリーム1％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド系消炎鎮痛剤\nインドメタシン等"
+  },
+  {
+    "other_id": 1922,
+    "other_brand": "インドメタシンパップ70mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド系消炎鎮痛剤\nインドメタシン等"
+  },
+  {
+    "other_id": 1924,
+    "other_brand": "インドメタシン坐剤12.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド系消炎鎮痛剤\nインドメタシン等"
+  },
+  {
+    "other_id": 11554,
+    "other_brand": "フロリネフ錠0.1mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性を除く）\nトリクロルメチアジドアセタゾラミドフロセミド等"
+  },
+  {
+    "other_id": 11633,
+    "other_brand": "ブリカニールシロップ0.5mg/mL",
+    "interaction_type": "caution",
+    "source_text": "ステロイド剤\nベタメタゾン、プレドニゾロン、ヒドロコルチゾンコハク酸エステルナトリウム等\nカリウム排泄型利尿剤\nフロセミド、トリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 11634,
+    "other_brand": "ブリカニール錠2mg",
+    "interaction_type": "caution",
+    "source_text": "ステロイド剤\nベタメタゾン、プレドニゾロン、ヒドロコルチゾンコハク酸エステルナトリウム等\nカリウム排泄型利尿剤\nフロセミド、トリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 11709,
+    "other_brand": "ブロプレス錠2",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 11766,
+    "other_brand": "プラデスミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド"
+  },
+  {
+    "other_id": 11974,
+    "other_brand": "プレドニゾロン錠「タケダ」5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 11980,
+    "other_brand": "プレドニゾロン錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 11981,
+    "other_brand": "プレドニゾロン錠5mg「ミタ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 11979,
+    "other_brand": "プレドニゾロン錠2.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 11977,
+    "other_brand": "プレドニゾロン錠1mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 11978,
+    "other_brand": "プレドニゾロン錠1mg（旭化成）",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 11986,
+    "other_brand": "プレドニン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 11997,
+    "other_brand": "プレミネント配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 12312,
+    "other_brand": "ベタセレミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド"
+  },
+  {
+    "other_id": 12343,
+    "other_brand": "ベタメタゾン散0.1%「フソー」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 12354,
+    "other_brand": "ベタメタゾン錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 12663,
+    "other_brand": "ペンタサ坐剤1g",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nデキサメタゾン\nベタメタゾン等"
+  },
+  {
+    "other_id": 12664,
+    "other_brand": "ペンタサ注腸1g",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nデキサメタゾン\nベタメタゾン等"
+  },
+  {
+    "other_id": 12665,
+    "other_brand": "ペンタサ錠250mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nベタメタゾン\nデキサメタゾン等"
+  },
+  {
+    "other_id": 12667,
+    "other_brand": "ペンタサ顆粒94%",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nベタメタゾン\nデキサメタゾン等"
+  },
+  {
+    "other_id": 12685,
+    "other_brand": "ホクナリンテープ0.5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジド\nフロセミド\nアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 12688,
+    "other_brand": "ホクナリン錠1mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミドアセタゾラミド等\n,\n,"
+  },
+  {
+    "other_id": 13297,
+    "other_brand": "ミカトリオ配合錠",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 13306,
+    "other_brand": "ミカムロ配合錠AP",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 13308,
+    "other_brand": "ミカルディス錠20mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 13337,
+    "other_brand": "ミコンビ配合錠AP",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 13404,
+    "other_brand": "ミニリンメルトOD錠60µg",
+    "interaction_type": "caution",
+    "source_text": "低ナトリウム血症を起こすおそれがある薬剤チアジド系利尿剤（トリクロルメチアジド、ヒドロクロロチアジド等）チアジド系類似剤（インダパミド等）ループ利尿剤（フロセミド等）スピロノラクトンオメプラゾール等"
+  },
+  {
+    "other_id": 13609,
+    "other_brand": "メサラジン徐放錠250mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nベタメタゾン\nデキサメタゾン等"
+  },
+  {
+    "other_id": 13610,
+    "other_brand": "メサラジン徐放錠250mg「日医工P」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nベタメタゾン\nデキサメタゾン等"
+  },
+  {
+    "other_id": 13613,
+    "other_brand": "メサラジン注腸1g「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nデキサメタゾン\nベタメタゾン等"
+  },
+  {
+    "other_id": 13614,
+    "other_brand": "メサラジン注腸1g「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nデキサメタゾン\nベタメタゾン等"
+  },
+  {
+    "other_id": 13617,
+    "other_brand": "メサラジン錠250mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド\nスピロノラクトン\nトリクロルメチアジド等\nステロイド剤\nプレドニゾロン\nベタメタゾン\nデキサメタゾン等"
+  },
+  {
+    "other_id": 13733,
+    "other_brand": "メドロール錠2mg",
+    "interaction_type": "caution",
+    "source_text": "カリウム排泄型利尿剤\nトリクロルメチアジドヒドロクロロチアジドフロセミド等"
+  },
+  {
+    "other_id": 14204,
+    "other_brand": "ユニシア配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 14268,
+    "other_brand": "ヨビパス皮下注168μgペン",
+    "interaction_type": "caution",
+    "source_text": "ループ系利尿薬\nフロセミド\nアゾセミド\nトラセミド等\nサイアザイド系利尿薬\nトリクロルメチアジド\nヒドロクロロチアジド等\nサイアザイド系類似利尿薬\nインダパミド等\n,"
+  },
+  {
+    "other_id": 14292,
+    "other_brand": "ライゾデグ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤  トリクロルメチアジド"
+  },
+  {
+    "other_id": 14524,
+    "other_brand": "ラボナ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "チアジド系薬物\nシクロペンチアジドトリクロルメチアジド等"
+  },
+  {
+    "other_id": 14591,
+    "other_brand": "ランタス注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 14592,
+    "other_brand": "ランタス注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 14593,
+    "other_brand": "ランタス注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 14594,
+    "other_brand": "ランタスXR注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド\nループ利尿剤\nフロセミド"
+  },
+  {
+    "other_id": 14641,
+    "other_brand": "リシノプリル錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤、利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 14642,
+    "other_brand": "リシノプリル錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤、利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 14643,
+    "other_brand": "リシノプリル錠5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤、利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 14836,
+    "other_brand": "リノロサール注射液2mg（0.4％）",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 14987,
+    "other_brand": "リメタゾン静注2.5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性を除く）\n（トリクロルメチアジド、アセタゾラミド、フロセミド）"
+  },
+  {
+    "other_id": 15034,
+    "other_brand": "リンデロン坐剤0.5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 15036,
+    "other_brand": "リンデロン懸濁注",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 15039,
+    "other_brand": "リンデロン注20mg（0.4%）",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 15038,
+    "other_brand": "リンデロン注20mg（2%）",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 15041,
+    "other_brand": "リンデロン注2mg（0.4%）",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 15033,
+    "other_brand": "リンデロン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 15101,
+    "other_brand": "ルムジェブ注カート",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 15104,
+    "other_brand": "ルムジェブ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド"
+  },
+  {
+    "other_id": 15178,
+    "other_brand": "レザルタス配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15197,
+    "other_brand": "レダコート錠4mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド、アセタゾラミド、フロセミド等\n注射用アムホテリシンB"
+  },
+  {
+    "other_id": 15217,
+    "other_brand": "レナデックス錠2mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド\nフロセミド"
+  },
+  {
+    "other_id": 15332,
+    "other_brand": "レベミル注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 15333,
+    "other_brand": "レベミル注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤   トリクロルメチアジド"
+  },
+  {
+    "other_id": 15502,
+    "other_brand": "レミゲン静注20mL",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 15552,
+    "other_brand": "ロカルトロール注0.5",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 15658,
+    "other_brand": "ロサルタンカリウム錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15659,
+    "other_brand": "ロサルタンカリウム錠25mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15661,
+    "other_brand": "ロサルタンカリウム錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15662,
+    "other_brand": "ロサルタンカリウム錠25mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15663,
+    "other_brand": "ロサルタンカリウム錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15664,
+    "other_brand": "ロサルタンカリウム錠25mg「DK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15665,
+    "other_brand": "ロサルタンカリウム錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15666,
+    "other_brand": "ロサルタンカリウム錠25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15667,
+    "other_brand": "ロサルタンカリウム錠25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15668,
+    "other_brand": "ロサルタンカリウム錠25mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15669,
+    "other_brand": "ロサルタンカリウム錠25mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15694,
+    "other_brand": "ロサルタンK錠25mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15697,
+    "other_brand": "ロサルタンK錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15698,
+    "other_brand": "ロサルタンK錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15699,
+    "other_brand": "ロサルタンK錠25mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15700,
+    "other_brand": "ロサルタンK錠25mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15701,
+    "other_brand": "ロサルタンK錠25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15702,
+    "other_brand": "ロサルタンK錠25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15721,
+    "other_brand": "ロサルヒド配合錠LD「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15723,
+    "other_brand": "ロサルヒド配合錠LD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15724,
+    "other_brand": "ロサルヒド配合錠LD「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15725,
+    "other_brand": "ロサルヒド配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15726,
+    "other_brand": "ロサルヒド配合錠LD「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15727,
+    "other_brand": "ロサルヒド配合錠LD「三和」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15728,
+    "other_brand": "ロサルヒド配合錠LD「日医工」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15729,
+    "other_brand": "ロサルヒド配合錠LD「日新」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15730,
+    "other_brand": "ロサルヒド配合錠LD「杏林」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15731,
+    "other_brand": "ロサルヒド配合錠LD「科研」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15732,
+    "other_brand": "ロサルヒド配合錠LD「EP」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15733,
+    "other_brand": "ロサルヒド配合錠LD「JG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15734,
+    "other_brand": "ロサルヒド配合錠LD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15735,
+    "other_brand": "ロサルヒド配合錠LD「NPI」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15736,
+    "other_brand": "ロサルヒド配合錠LD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15737,
+    "other_brand": "ロサルヒド配合錠LD「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15738,
+    "other_brand": "ロサルヒド配合錠LD「YD」",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤：\nフロセミド\nトリクロルメチアジド等"
+  },
+  {
+    "other_id": 15934,
+    "other_brand": "ロンゲス錠5mg",
+    "interaction_type": "caution",
+    "source_text": "利尿降圧剤、利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 16047,
+    "other_brand": "三和半夏瀉心湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16057,
+    "other_brand": "三和小柴胡湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16058,
+    "other_brand": "三和小青竜湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16072,
+    "other_brand": "三和芍薬甘草附子湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n補中益気湯\n抑肝散\n六君子湯　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n、\n、"
+  },
+  {
+    "other_id": 16082,
+    "other_brand": "三和附子理中湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　　　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n、\n、"
+  },
+  {
+    "other_id": 16088,
+    "other_brand": "三和黄ごん湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯\n補中益気湯\n抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイン\nグリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミド\nトラセミド\nフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジド\nヒドロクロロチアジド\nベンチルヒドロクロロチアジド　等\n、\n、"
+  },
+  {
+    "other_id": 16284,
+    "other_brand": "太虎堂の人参湯エキス顆粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16290,
+    "other_brand": "太虎堂の半夏瀉心湯エキス顆粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16295,
+    "other_brand": "太虎堂の小柴胡湯エキス顆粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16296,
+    "other_brand": "太虎堂の小青竜湯エキス顆粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16319,
+    "other_brand": "太虎堂の黄連湯エキス顆粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16460,
+    "other_brand": "強力ネオミノファーゲンシー静注シリンジ20mL",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 16462,
+    "other_brand": "強力ネオミノファーゲンシー静注20mL",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 16463,
+    "other_brand": "強力ネオミノファーゲンシーP静注20mL",
+    "interaction_type": "caution",
+    "source_text": "ループ利尿剤\nエタクリン酸、フロセミド等\nチアジド系及びその類似降圧利尿剤\nトリクロルメチアジド、クロルタリドン等"
+  },
+  {
+    "other_id": 16481,
+    "other_brand": "本草人参湯エキス細粒",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16489,
+    "other_brand": "本草半夏瀉心湯エキス顆粒−M",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16494,
+    "other_brand": "本草小柴胡湯エキス顆粒−M",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16495,
+    "other_brand": "本草小青龍湯エキス顆粒−M",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16507,
+    "other_brand": "本草芍薬甘草湯エキス顆粒−M",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n補中益気湯抑肝散\n六君子湯　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 16541,
+    "other_brand": "水溶性ハイドロコートン注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nトリクロルメチアジド\nフロセミド等\nβ2-刺激剤\nクレンブテロール塩酸塩\nツロブテロール塩酸塩\nプロカテロール塩酸塩水和物等\nアムホテリシンB"
+  },
+  {
+    "other_id": 16543,
+    "other_brand": "水溶性プレドニン10mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤（カリウム保持性利尿剤を除く）\nフロセミド、アセタゾラミド、トリクロルメチアジド等"
+  },
+  {
+    "other_id": 17641,
+    "other_brand": "JPS半夏瀉心湯エキス顆粒〔調剤用〕",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 17644,
+    "other_brand": "JPS小柴胡湯エキス顆粒〔調剤用〕",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  },
+  {
+    "other_id": 17645,
+    "other_brand": "JPS小青竜湯エキス顆粒〔調剤用〕",
+    "interaction_type": "caution",
+    "source_text": "カンゾウ含有製剤\n芍薬甘草湯補中益気湯抑肝散　等\nグリチルリチン酸及びその塩類を含有する製剤\nグリチルリチン酸一アンモニウム・グリシン・L-システイングリチルリチン酸一アンモニウム・グリシン・DL-メチオニン配合錠　等\nループ系利尿剤\nアゾセミドトラセミドフロセミド　等\nチアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジドベンチルヒドロクロロチアジド　等\n,\n,"
+  }
+]

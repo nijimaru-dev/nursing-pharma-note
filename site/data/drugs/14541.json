@@ -1,0 +1,60 @@
+{
+  "id": 14541,
+  "brand_name": "ラメルテオン錠8mg「JG」",
+  "generic_name": "ラメルテオン錠",
+  "therapeutic_classification": "メラトニン受容体アゴニスト",
+  "indications": "不眠症における入眠困難の改善",
+  "dose_admin": "通常、成人にはラメルテオンとして1回8mgを就寝前に経口投与する。",
+  "contraindications": "本剤の成分に対する過敏症の既往歴のある患者\n高度な肝機能障害患者\n,\nフルボキサミンマレイン酸塩を投与中の患者\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "アナフィラキシー（じん麻疹、血管性浮腫等）（頻度不明）",
+  "observation_points": [
+    "アナフィラキシー（じん麻疹、血管性浮腫等）（頻度不明）",
+    "本剤の作用が強くあらわれる可能性がある",
+    "フルコナゾールとの併用により本剤の最高血中濃度、AUCが上昇したとの報告がある",
+    "ケトコナゾール（経口：国内未発売）との併用により本剤の最高血中濃度、AUCが上昇したとの報告がある",
+    "本剤の作用が減弱する可能性がある",
+    "リファンピシンとの併用により本剤の最高血中濃度、AUCが低下したとの報告がある",
+    "注意力・集中力・反射運動能力等の低下が増強することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,",
+      "clinical_symptom_action": "本剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により本剤の作用が強くあらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤の主な肝薬物代謝酵素であるCYP1A2を強く阻害する。また、CYP2C9、CYP2C19及びCYP3A4に対する阻害作用の影響も考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP1A2阻害剤\nキノロン系抗菌薬等",
+      "clinical_symptom_action": "本剤の作用が強くあらわれる可能性がある。",
+      "mechanism_risk_factor": "フルボキサミンマレイン酸塩との併用で顕著な本剤の血中濃度上昇が報告されており、その他のCYP1A2阻害剤との併用においても、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C9阻害剤\nフルコナゾール（アゾール系抗真菌薬）等",
+      "clinical_symptom_action": "本剤の作用が強くあらわれる可能性がある。フルコナゾールとの併用により本剤の最高血中濃度、AUCが上昇したとの報告がある。",
+      "mechanism_risk_factor": "これらの薬剤の肝薬物代謝酵素阻害作用により、本剤の代謝を阻害し、血中濃度を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4阻害剤\nマクロライド系抗菌薬等ケトコナゾール（アゾール系抗真菌薬）等",
+      "clinical_symptom_action": "本剤の作用が強くあらわれる可能性がある。ケトコナゾール（経口：国内未発売）との併用により本剤の最高血中濃度、AUCが上昇したとの報告がある。",
+      "mechanism_risk_factor": "これらの薬剤の肝薬物代謝酵素阻害作用により、本剤の代謝を阻害し、血中濃度を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP誘導剤\nリファンピシン（結核治療薬）等",
+      "clinical_symptom_action": "本剤の作用が減弱する可能性がある。リファンピシンとの併用により本剤の最高血中濃度、AUCが低下したとの報告がある。",
+      "mechanism_risk_factor": "CYP3A4等の肝薬物代謝酵素を誘導することにより、本剤の代謝を促進し、血中濃度を減少させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール（飲酒）",
+      "clinical_symptom_action": "注意力・集中力・反射運動能力等の低下が増強することがある。",
+      "mechanism_risk_factor": "アルコールが中枢神経抑制作用を示すため、本剤との相加作用が考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

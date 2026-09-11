@@ -1,0 +1,108 @@
+{
+  "id": 13276,
+  "brand_name": "マヴィレット配合顆粒小児用",
+  "generic_name": "グレカプレビル水和物\nピブレンタスビル",
+  "therapeutic_classification": "抗ウイルス化学療法剤",
+  "indications": "C型慢性肝炎又はC型代償性肝硬変におけるウイルス血症の改善",
+  "dose_admin": "〈セログループ1（ジェノタイプ1）又はセログループ2（ジェノタイプ2）のC型慢性肝炎の場合〉\n通常、3歳以上12歳未満かつ体重45kg未満の小児には、グレカプレビル及びピブレンタスビルとして下記の体重別の用量を1回量とし、1日1回、食後又は食事とともに経口投与する。投与期間は8週間とする。なお、C型慢性肝炎に対する前治療歴に応じて投与期間は12週間とすることができる。12kg以上20kg未満：3包（グレカプレビルとして150mg及びピブレンタスビルとして60mg）20kg以上30kg未満：4包（グレカプレビルとして200mg及びピブレンタスビルとして80mg）30kg以上45kg未満：5包（グレカプレビルとして250mg及びピブレンタスビルとして100mg）\n〈セログループ1（ジェノタイプ1）又はセログループ2（ジェノタイプ2）のC型代償性肝硬変の場合〉\n〈セログループ1（ジェノタイプ1）又はセログループ2（ジェノタイプ2）のいずれにも該当しないC型慢性肝炎又はC型代償性肝硬変の場合〉\n通常、3歳以上12歳未満かつ体重45kg未満の小児には、グレカプレビル及びピブレンタスビルとして下記の体重別の用量を1回量とし、1日1回、食後又は食事とともに経口投与する。投与期間は12週間とする。12kg以上20kg未満：3包（グレカプレビルとして150mg及びピブレンタスビルとして60mg）20kg以上30kg未満：4包（グレカプレビルとして200mg及びピブレンタスビルとして80mg）30kg以上45kg未満：5包（グレカプレビルとして250mg及びピブレンタスビルとして100mg）",
+  "contraindications": "本剤の成分に対して過敏症の既往歴のある患者\n重度（Child-Pugh分類C）の肝機能障害のある患者\n,\nアタザナビル硫酸塩、アトルバスタチンカルシウム水和物、リファンピシンを投与中の患者\n,",
+  "application_precautions": "薬剤交付時の注意\n患者用説明文書を用いて、以下の服用方法を説明すること。\n本剤を低水分含量で軟らかい食品に混合し、混合後15分以内に可能な限り速やかに噛まずに飲み込むこと。\n苦みを呈すること、薬剤が急速に溶解して効果の減弱につながるおそれがあることから、液体又は液状の食品との混合は避けること。\n薬剤の吸収に影響を与えるおそれがあることから、本剤を砕かないこと。",
+  "serious_adverse_events": "肝機能障害、黄疸（いずれも頻度不明）：AST、ALT、ビリルビンの上昇等を伴う肝機能障害、黄疸があらわれることがある。",
+  "observation_points": [
+    "肝機能障害、黄疸（いずれも頻度不明）：AST、ALT、ビリルビンの上昇等を伴う肝機能障害、黄疸があらわれることがある",
+    "これら薬剤の血中濃度が上昇するおそれがある",
+    "グレカプレビル及びピブレンタスビルの血中濃度が低下し、効果が減弱するおそれがある",
+    "ALT上昇のリスクが増加するおそれがある",
+    "ロスバスタチンの血中濃度が上昇するおそれがある",
+    "ロスバスタチンによる副作用の発現リスクが高くなるおそれがある",
+    "シンバスタチンの血中濃度が上昇するおそれがある",
+    "シンバスタチンによる副作用の発現リスクが高くなるおそれがある",
+    "プラバスタチンの血中濃度が上昇するおそれがある",
+    "プラバスタチンによる副作用の発現リスクが高くなるおそれがある",
+    "これらスタチンによる副作用の発現リスクが高くなるおそれがある",
+    "グレカプレビル及びピブレンタスビルの血中濃度が上昇するおそれがある",
+    "グレカプレビルの血中濃度が上昇するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アタザナビル硫酸塩［レイアタッツ］\n,",
+      "clinical_symptom_action": "グレカプレビルの血中濃度が上昇するおそれがある。ALT上昇のリスクが増加するおそれがある。",
+      "mechanism_risk_factor": "アタザナビルのOATP1B阻害作用によるものと考えられる。ALT上昇の機序は不明。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アトルバスタチンカルシウム水和物［リピトール］\n,",
+      "clinical_symptom_action": "アトルバスタチンの血中濃度が上昇するおそれがある。アトルバスタチンによる副作用の発現リスクが高くなるおそれがある。",
+      "mechanism_risk_factor": "グレカプレビル及びピブレンタスビルのOATP1B及びBCRP阻害作用による。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン［リファジン］\n,",
+      "clinical_symptom_action": "グレカプレビル及びピブレンタスビルの血中濃度が低下し、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "リファンピシンのP-gp誘導作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシンダビガトランエテキシラートメタンスルホン酸塩",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "グレカプレビル及びピブレンタスビルのP-gp阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルバマゼピンエファビレンツフェニトインフェノバルビタールセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "グレカプレビル及びピブレンタスビルの血中濃度が低下し、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これら薬剤のP-gp誘導作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エチニルエストラジオール",
+      "clinical_symptom_action": "ALT上昇のリスクが増加するおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロスバスタチンカルシウム",
+      "clinical_symptom_action": "ロスバスタチンの血中濃度が上昇するおそれがある。ロスバスタチンによる副作用の発現リスクが高くなるおそれがある。",
+      "mechanism_risk_factor": "グレカプレビル及びピブレンタスビルのOATP1B及びBCRP阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シンバスタチン",
+      "clinical_symptom_action": "シンバスタチンの血中濃度が上昇するおそれがある。シンバスタチンによる副作用の発現リスクが高くなるおそれがある。",
+      "mechanism_risk_factor": "グレカプレビル及びピブレンタスビルのOATP1B及びBCRP阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プラバスタチンナトリウム",
+      "clinical_symptom_action": "プラバスタチンの血中濃度が上昇するおそれがある。プラバスタチンによる副作用の発現リスクが高くなるおそれがある。",
+      "mechanism_risk_factor": "グレカプレビル及びピブレンタスビルのOATP1B阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルバスタチンナトリウムピタバスタチンカルシウム水和物",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇するおそれがある。これらスタチンによる副作用の発現リスクが高くなるおそれがある。",
+      "mechanism_risk_factor": "グレカプレビル及びピブレンタスビルのOATP1B阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "グレカプレビル及びピブレンタスビルの血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "シクロスポリンのOATP1B、P-gp及びBCRP阻害作用によるものと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロピナビル・リトナビル",
+      "clinical_symptom_action": "グレカプレビル及びピブレンタスビルの血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "これら薬剤のOATP1B、P-gp又はBCRP阻害作用によるものと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダルナビルエタノール付加物/リトナビルダルナビルエタノール付加物・コビシスタット",
+      "clinical_symptom_action": "グレカプレビルの血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "これら薬剤のOATP1B、P-gp又はBCRP阻害作用によるものと考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

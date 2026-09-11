@@ -1,0 +1,174 @@
+{
+  "id": 2290,
+  "brand_name": "エジュラント錠25mg",
+  "generic_name": "リルピビリン塩酸塩",
+  "therapeutic_classification": "抗ウイルス化学療法剤［非ヌクレオシド系逆転写酵素阻害剤（NNRTI）］",
+  "indications": "HIV-1感染症",
+  "dose_admin": "通常、成人にはリルピビリンとして1回25mgを1日1回食事中又は食直後に経口投与する。投与に際しては、必ず他の抗HIV薬と併用すること。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nリファンピシン、カルバマゼピン、フェノバルビタール、フェニトイン、フェニトイン・フェノバルビタール、ホスフェニトイン、アパルタミド、エンザルタミド、イボシデニブ、エンコラフェニブ、ミトタン、デキサメタゾン（全身投与）（単回投与を除く）、セイヨウオトギリソウ（St.John’s Wort、セント・ジョーンズ・ワート）含有食品、プロトンポンプ阻害剤（オメプラゾール、ランソプラゾール、アスピリン・ランソプラゾール、ラベプラゾール、エソメプラゾール、ボノプラザンフマル酸塩、アスピリン・ボノプラザンフマル酸塩）を投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある",
+    "これらの薬剤は、本剤投与の12時間以上前又は4時間以上後に投与すること",
+    "これらの薬剤は、本剤投与の2時間以上前又は4時間以上後に投与すること",
+    "本剤の血中濃度が上昇する可能性がある",
+    "代替としてアジスロマイシン等を考慮すること",
+    "メサドンの血中濃度が低下することがある",
+    "QT延長、心室性頻拍（Torsade de Pointesを含む）が発現するおそれがある",
+    "本剤（食直後投与）とジダノシン400mg 1日1回（空腹時投与）を併用したとき、本剤及びジダノシンの薬物動態に影響はみられなかった",
+    "本剤とジダノシンを併用するときは用量を調節する必要はないが、ジダノシンは空腹時に服用することが望ましいため、本剤服用（食事中又は食直後）の1時間前又は2時間後にジダノシンを投与するなど本剤と同時に投与しないこと",
+    "テノホビル（フマル酸テノホビルジソプロキシル300mg 1日1回）を併用したとき、テノホビルのC",
+    "max",
+    "及びAUCがそれぞれ19%及び23%増加した",
+    "本剤とテノホビルを併用するとき、用量を調節する必要はない",
+    "ダルナビル/リトナビル800/100mgを1日1回併用したとき、本剤のC",
+    "及びAUCがそれぞれ79%及び130%増加した",
+    "ダルナビル/リトナビルと併用する場合には、用量を調節する必要はない",
+    "ロピナビル・リトナビル400・100mgを1日2回併用したとき、本剤のC",
+    "及びAUCがそれぞれ29%及び52%増加した",
+    "ロピナビル・リトナビルと併用する場合には、用量を調節する必要はない",
+    "PIとの併用により、本剤の血中濃度が上昇する可能性がある",
+    "また、本剤は、PIの血中濃度に影響を与えないと推察される",
+    "ラルテグラビル400mgを1日2回併用したとき、本剤の薬物動態に影響を与えなかった",
+    "ラルテグラビルのC",
+    "及びAUCがそれぞれ10%及び9%増加した",
+    "ラルテグラビルと併用する場合には、用量を調節する必要はない"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン\nリファジン\n,",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カルバマゼピン\nテグレトール\nフェノバルビタール\nフェノバール等\nフェニトイン\nアレビアチン、ヒダントール\nフェニトイン・フェノバルビタール\nヒダントールD/E/F、複合アレビアチン\nホスフェニトイン\nホストイン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アパルタミド\nアーリーダ\nエンザルタミド\nイクスタンジ\nイボシデニブ\nティブソボ\nエンコラフェニブ\nビラフトビ",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ミトタン\nオペプリム",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "デキサメタゾン（全身投与）（単回投与を除く）\nデカドロン等",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "セイヨウオトギリソウ（St.John’s Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "プロトンポンプ阻害剤\nオメプラゾール\nオメプラール、オメプラゾン\nランソプラゾール\nタケプロン\nアスピリン・ランソプラゾール\nタケルダ\nラベプラゾール\nパリエット\nエソメプラゾール\nネキシウム\nボノプラザンフマル酸塩\nタケキャブ\nアスピリン・ボノプラザンフマル酸塩\nキャブピリン\n,",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "胃内のpH上昇により、本剤の吸収が低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファブチン\n,",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "リファブチンのCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "H\n2\n遮断剤\nファモチジン\nシメチジンニザチジンラニチジン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。これらの薬剤は、本剤投与の12時間以上前又は4時間以上後に投与すること。",
+      "mechanism_risk_factor": "胃内のpH上昇により、本剤の吸収が低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸剤\n乾燥水酸化アルミニウムゲル沈降炭酸カルシウム等",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。これらの薬剤は、本剤投与の2時間以上前又は4時間以上後に投与すること。",
+      "mechanism_risk_factor": "胃内のpH上昇により、本剤の吸収が低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クラリスロマイシンエリスロマイシン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性がある。代替としてアジスロマイシン等を考慮すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メサドン",
+      "clinical_symptom_action": "メサドンの血中濃度が低下することがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT延長を起こすことが知られている薬剤\nアミオダロンソタロール等\n,",
+      "clinical_symptom_action": "QT延長、心室性頻拍（Torsade de Pointesを含む）が発現するおそれがある。",
+      "mechanism_risk_factor": "本剤75mg及び300mg投与時にQT延長が認められている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヌクレオシド/ヌクレオチド系逆転写酵素阻害剤（NRTI/NtRTI）",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジダノシン",
+      "clinical_symptom_action": "本剤（食直後投与）とジダノシン400mg 1日1回（空腹時投与）を併用したとき、本剤及びジダノシンの薬物動態に影響はみられなかった。本剤とジダノシンを併用するときは用量を調節する必要はないが、ジダノシンは空腹時に服用することが望ましいため、本剤服用（食事中又は食直後）の1時間前又は2時間後にジダノシンを投与するなど本剤と同時に投与しないこと。",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テノホビル",
+      "clinical_symptom_action": "テノホビル（フマル酸テノホビルジソプロキシル300mg 1日1回）を併用したとき、テノホビルのC\nmax\n及びAUCがそれぞれ19%及び23%増加した。本剤とテノホビルを併用するとき、用量を調節する必要はない。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プロテアーゼ阻害剤（PI）",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダルナビル/リトナビル",
+      "clinical_symptom_action": "ダルナビル/リトナビル800/100mgを1日1回併用したとき、本剤のC\nmax\n及びAUCがそれぞれ79%及び130%増加した。ダルナビル/リトナビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "ダルナビル/リトナビルのCYP3A阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロピナビル・リトナビル配合剤",
+      "clinical_symptom_action": "ロピナビル・リトナビル400・100mgを1日2回併用したとき、本剤のC\nmax\n及びAUCがそれぞれ29%及び52%増加した。ロピナビル・リトナビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "ロピナビル・リトナビルのCYP3A阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他のPI\nアタザナビル/リトナビルホスアンプレナビル/リトナビル",
+      "clinical_symptom_action": "PIとの併用により、本剤の血中濃度が上昇する可能性がある。また、本剤は、PIの血中濃度に影響を与えないと推察される。",
+      "mechanism_risk_factor": "PIのCYP3A阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "インテグラーゼ阻害剤",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラルテグラビル",
+      "clinical_symptom_action": "ラルテグラビル400mgを1日2回併用したとき、本剤の薬物動態に影響を与えなかった。ラルテグラビルのC\nmax\n及びAUCがそれぞれ10%及び9%増加した。ラルテグラビルと併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

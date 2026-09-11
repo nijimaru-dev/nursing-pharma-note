@@ -1,0 +1,31 @@
+{
+  "id": 1685,
+  "brand_name": "イフェンプロジル酒石酸塩錠10mg「サワイ」",
+  "generic_name": "イフェンプロジル酒石酸塩",
+  "therapeutic_classification": "",
+  "indications": "脳梗塞後遺症、脳出血後遺症に伴うめまいの改善",
+  "dose_admin": "〈イフェンプロジル酒石酸塩錠10mg「サワイ」〉\n通常成人には、1回2錠（イフェンプロジル酒石酸塩として20mg）を1日3回毎食後経口投与する。\n〈イフェンプロジル酒石酸塩錠20mg「サワイ」〉\n通常成人には、1回1錠（イフェンプロジル酒石酸塩として20mg）を1日3回毎食後経口投与する。",
+  "contraindications": "頭蓋内出血発作後、止血が完成していないと考えられる患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "出血傾向が増強されるおそれがある",
+    "ドロキシドパの作用を減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "出血傾向をきたすと考えられる薬剤",
+      "clinical_symptom_action": "出血傾向が増強されるおそれがある。",
+      "mechanism_risk_factor": "本剤の血小板粘着能・凝集能抑制作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドロキシドパ",
+      "clinical_symptom_action": "ドロキシドパの作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤のα\n1\n受容体遮断作用による。"
+    }
+  ],
+  "facility_notes": ""
+}

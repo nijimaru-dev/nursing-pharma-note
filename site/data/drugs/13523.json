@@ -1,0 +1,113 @@
+{
+  "id": 13523,
+  "brand_name": "ミルマグ錠350mg",
+  "generic_name": "水酸化マグネシウム製剤",
+  "therapeutic_classification": "緩下・制酸剤",
+  "indications": "下記疾患における制酸作用と症状の改善\n胃・十二指腸潰瘍、胃炎（急・慢性胃炎、薬剤性胃炎を含む）、上部消化管機能異常（神経性食思不振、いわゆる胃下垂症、胃酸過多症を含む）\n便秘症",
+  "dose_admin": "効能・効果\n用法・用量\n制酸剤\n水酸化マグネシウムとして、\n通常成人、1日 0.9～2.4g を数回に分割経口投与する。\nなお、年齢、症状により適宜増減する。\n緩下剤\n水酸化マグネシウムとして、\n通常成人、1日 0.9～2.1g を頓用又は数回に分割経口投与する。\nなお、年齢、症状により適宜増減する。",
+  "contraindications": "牛乳に対しアレルギーのある患者 ［本剤は添加物としてカゼインを含有する。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "併用薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること",
+    "併用薬剤の血中濃度が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること",
+    "併用薬剤の血中濃度が低下し、効果が減弱するおそれがある",
+    "併用薬剤の吸収が低下し、効果が減弱するおそれがある",
+    "併用薬剤の血中濃度が低下するとの報告がある",
+    "併用薬剤の吸収・排泄に影響を与えることがあるので、同時に服用させないなど注意すること",
+    "併用薬剤の効果が減弱するおそれがある",
+    "併用により全身性アルカローシス等の症状があらわれたとの報告がある",
+    "高マグネシウム血症をおこすおそれがある",
+    "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること",
+    "下痢が発現しやすくなる",
+    "併用薬剤の吸収・排泄に影響を与えることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）ニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）ビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸ニナトリウム、リセドロン酸ナトリウム等）",
+      "clinical_symptom_action": "併用薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "併用薬剤と錯体を形成し、併用薬剤の吸収を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セフジニルデラビルジンペニシラミン",
+      "clinical_symptom_action": "併用薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロスバスタチンガバペンチン",
+      "clinical_symptom_action": "併用薬剤の血中濃度が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セレコキシブ",
+      "clinical_symptom_action": "併用薬剤の血中濃度が低下し、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミコフェノール酸モフェチル",
+      "clinical_symptom_action": "併用薬剤の吸収が低下し、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アジスロマイシンラベプラゾール",
+      "clinical_symptom_action": "併用薬剤の血中濃度が低下するとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\n（ジゴキシン等）フェキソフェナジン",
+      "clinical_symptom_action": "併用薬剤の吸収・排泄に影響を与えることがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより併用薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "鉄剤",
+      "clinical_symptom_action": "併用薬剤の吸収・排泄に影響を与えることがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "本剤による胃内pHの上昇及び難溶性塩形成により、併用薬剤の吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ポリカルボフィルカルシウム",
+      "clinical_symptom_action": "併用薬剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "併用薬剤は酸性条件下でカルシウムが脱離して薬効を発揮するが、本剤の胃内pH上昇作用によりカルシウムの脱離が抑制される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "高カリウム血症改善イオン交換樹脂製剤\n（ポリスチレンスルホン酸ナトリウム、ポリスチレンスルホン酸カルシウム）",
+      "clinical_symptom_action": "併用薬剤の効果が減弱するおそれがある。併用により全身性アルカローシス等の症状があらわれたとの報告がある。",
+      "mechanism_risk_factor": "マグネシウムが併用薬剤と結合する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "活性型ビタミンD\n3\n製剤\n（アルファカルシドール、カルシトリオール等）",
+      "clinical_symptom_action": "高マグネシウム血症をおこすおそれがある。",
+      "mechanism_risk_factor": "併用薬剤によるマグネシウムの腸管吸収促進が考えられる。（特に腎障害のある患者）"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "大量の牛乳カルシウム製剤",
+      "clinical_symptom_action": "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれることがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること。",
+      "mechanism_risk_factor": "機序は不明であるが、本剤による血中pHの上昇（代謝性アルカローシス）が血清カルシウムの上昇に関与すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミソプロストール",
+      "clinical_symptom_action": "下痢が発現しやすくなる。",
+      "mechanism_risk_factor": "併用薬剤は小腸の蠕動運動を亢進させ、小腸からの水、Naの吸収を阻害し下痢を引き起こす。本剤には緩下作用があるので、両者の併用により下痢が発現しやすくなる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "併用薬剤",
+      "clinical_symptom_action": "併用薬剤の吸収・排泄に影響を与えることがある。",
+      "mechanism_risk_factor": "本剤の吸着作用または消化管内・体液のpH上昇による。"
+    }
+  ],
+  "facility_notes": ""
+}

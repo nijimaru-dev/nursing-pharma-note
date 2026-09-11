@@ -1,0 +1,40 @@
+{
+  "id": 13160,
+  "brand_name": "マイテラーゼ錠10mg",
+  "generic_name": "アンベノニウム塩化物",
+  "therapeutic_classification": "重症筋無力症治療剤",
+  "indications": "重症筋無力症",
+  "dose_admin": "アンベノニウム塩化物として、通常成人1日15mgを3回に分割経口投与する。なお、症状により適宜増減する。",
+  "contraindications": "本剤の成分に過敏症の既往歴のある患者\n消化管又は尿路の器質的閉塞のある患者［消化管機能を亢進させ、症状を悪化させるおそれがある。また、尿の逆流を引き起こすおそれがある。］\n迷走神経緊張症の患者［迷走神経の緊張を増強させるおそれがある。］\n脱分極性筋弛緩剤（スキサメトニウム塩化物水和物）を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "コリン作動性クリーゼ（頻度不明）\n,\n,",
+  "observation_points": [
+    "コリン作動性クリーゼ（頻度不明）",
+    ",",
+    "本剤の過剰投与を招くおそれがある",
+    "常用を避けること",
+    "コリン作用が増強する"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "脱分極性筋弛緩剤\nスキサメトニウム塩化物水和物\n（スキサメトニウム）（レラキシン）",
+      "clinical_symptom_action": "脱分極性筋弛緩剤の作用を増強し、全身麻酔時に持続性呼吸麻痺を起こすことがある。",
+      "mechanism_risk_factor": "本剤が脱分極性筋弛緩剤の分解を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副交感神経抑制剤\nアトロピン硫酸塩水和物スコポラミン臭化水素酸塩水和物ブトロピウム臭化物等",
+      "clinical_symptom_action": "本剤の過剰投与を招くおそれがある。常用を避けること。",
+      "mechanism_risk_factor": "副交感神経抑制剤が本剤のムスカリン様作用を隠蔽する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コリン作動薬\nアセチルコリン塩化物ベタネコール塩化物等\nコリンエステラーゼ阻害薬\nドネペジル塩酸塩ジスチグミンネオスチグミン臭化物等",
+      "clinical_symptom_action": "コリン作用が増強する。",
+      "mechanism_risk_factor": "相互に作用が増強される。"
+    }
+  ],
+  "facility_notes": ""
+}

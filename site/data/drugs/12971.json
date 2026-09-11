@@ -1,0 +1,84 @@
+{
+  "id": 12971,
+  "brand_name": "ボラニゴ錠10mg",
+  "generic_name": "ボラシデニブ　クエン酸水和物",
+  "therapeutic_classification": "抗悪性腫瘍剤",
+  "indications": "IDH1\n又は\nIDH2\n遺伝子変異陽性の神経膠腫",
+  "dose_admin": "通常、成人には、ボラシデニブとして40mgを1日1回、空腹時に経口投与する。\n通常、12歳以上の小児には、ボラシデニブとして体重に応じて以下を1日1回、空腹時に経口投与する。\n40kg未満：20mg\n40kg以上：40mg\nなお、患者の状態により適宜減量する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性\nフルボキサミンマレイン酸塩を投与中の患者\n,",
+  "application_precautions": "薬剤交付時の注意\n本剤は吸湿性があるため、分包せずボトルで提供すること。\n患者又は保護者等に対し以下の点に注意するよう指導すること。\nボトル包装のふたはチャイルドロックを施しているため、ふたを押しながらねじって開封すること。\n湿気を避けるため、乾燥剤を同封した元の容器で保管すること。\n容器から乾燥剤を取り出さず、使用の都度密栓すること。",
+  "serious_adverse_events": "肝不全（0.6%）、肝炎（自己免疫性肝炎を含む）（0.6%）、肝機能障害（40.7%）\n,",
+  "observation_points": [
+    "肝不全（0.6%）、肝炎（自己免疫性肝炎を含む）（0.6%）、肝機能障害（40.7%）",
+    ",",
+    "本剤の副作用が増強されるおそれがあるため、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること",
+    "本剤の有効性が減弱されるおそれがあるため、CYP1A2誘導作用のない薬剤への代替を考慮すること",
+    "本剤の有効性が減弱されるおそれがある",
+    "これらの薬剤の有効性が減弱するおそれがある",
+    "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フルボキサミンマレイン酸塩（ルボックス、デプロメール）\n,",
+      "clinical_symptom_action": "本剤の副作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "フルボキサミンマレイン酸塩がCYP1A2を阻害することにより、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP1A2阻害剤\nシプロフロキサシン、ベムラフェニブ、メキシレチン等",
+      "clinical_symptom_action": "本剤の副作用が増強されるおそれがあるため、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "これらの薬剤がCYP1A2を阻害することにより、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP1A2誘導剤\nフェニトイン、リファンピシン、カルバマゼピン等",
+      "clinical_symptom_action": "本剤の有効性が減弱されるおそれがあるため、CYP1A2誘導作用のない薬剤への代替を考慮すること。",
+      "mechanism_risk_factor": "これらの薬剤がCYP1A2を誘導することにより、本剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タバコ（喫煙）",
+      "clinical_symptom_action": "本剤の有効性が減弱されるおそれがある。",
+      "mechanism_risk_factor": "喫煙によるCYP1A2の誘導により、本剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aの基質となる薬剤\nミダゾラム、デキサメタゾン、経口避妊薬（デソゲストレル・エチニルエストラジオール、ノルエチステロン・エチニルエストラジオール、レボノルゲストレル・エチニルエストラジオール等）等\n,",
+      "clinical_symptom_action": "これらの薬剤の有効性が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP3Aを誘導することにより、これらの薬剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2B6の基質となる薬剤\nシクロホスファミド、エファビレンツ、メサドン等",
+      "clinical_symptom_action": "これらの薬剤の有効性が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP2B6を誘導することにより、これらの薬剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C8の基質となる薬剤\nレパグリニド、パクリタキセル、モンテルカスト等",
+      "clinical_symptom_action": "これらの薬剤の有効性が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP2C8を誘導することにより、これらの薬剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C9の基質となる薬剤\nワルファリン、フルルビプロフェン、フェニトイン等",
+      "clinical_symptom_action": "これらの薬剤の有効性が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP2C9を誘導することにより、これらの薬剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C19の基質となる薬剤\nイホスファミド、タモキシフェンクエン酸塩、オメプラゾール等",
+      "clinical_symptom_action": "これらの薬剤の有効性が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP2C19を誘導することにより、これらの薬剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等",
+      "clinical_symptom_action": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がBCRPを阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

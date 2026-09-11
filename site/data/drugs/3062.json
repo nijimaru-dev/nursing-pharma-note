@@ -1,0 +1,37 @@
+{
+  "id": 3062,
+  "brand_name": "オクソラレン軟膏0.3%",
+  "generic_name": "メトキサレン製剤",
+  "therapeutic_classification": "尋常性白斑治療剤",
+  "indications": "尋常性白斑",
+  "dose_admin": "白斑部位にのみ適量を塗布し、1～2時間後に日光浴あるいは人工紫外線の照射を行う。通常、同一白斑部位においては、週1～3回程度の治療施行が望ましい。限局性の白斑には外用療法が望ましい。",
+  "contraindications": "皮膚癌又はその既往歴のある患者［皮膚癌が増悪又は再発するおそれがある。］\nポルフィリン症、紅斑性狼瘡、色素性乾皮症、多形性日光皮膚炎等の光線過敏症を伴う疾患のある患者［光毒性反応が増強される。］",
+  "application_precautions": "薬剤投与時の注意\n指先等患部以外の部位に付着した場合は、エタノール綿又は石鹸等で洗い流すこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "光線過敏症が発現するおそれがある",
+    "左記薬剤の作用を増強させるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "光線過敏症を起こすことが知られている薬剤：ピリドンカルボン酸系薬剤、テトラサイクリン系薬剤、サルファ剤、タール製剤、チアジド系薬剤、ポルフィリン系薬剤、フェノチアジン系薬剤等",
+      "clinical_symptom_action": "光線過敏症が発現するおそれがある。",
+      "mechanism_risk_factor": "本剤は光感受性を高める作用があるので、左記薬剤との併用又は食品の摂取により光感受性が増強されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フロクマリンを含有する食物：セロリ、ライム、ニンジン、パセリ、イチジク、アメリカボウフウ、カラシ等",
+      "clinical_symptom_action": "光線過敏症が発現するおそれがある。",
+      "mechanism_risk_factor": "本剤は光感受性を高める作用があるので、左記薬剤との併用又は食品の摂取により光感受性が増強されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2A6によって代謝される薬剤：レトロゾール、塩酸ファドロゾール水和物、ピロカルピン塩酸塩等",
+      "clinical_symptom_action": "左記薬剤の作用を増強させるおそれがある。",
+      "mechanism_risk_factor": "本剤は、CYP2A6を阻害することにより、左記薬剤の血中濃度を上昇させるおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

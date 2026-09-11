@@ -1,0 +1,54 @@
+{
+  "id": 3239,
+  "brand_name": "オラデオカプセル150mg",
+  "generic_name": "ベロトラルスタット塩酸塩",
+  "therapeutic_classification": "遺伝性血管性浮腫発作抑制用　血漿カリクレイン阻害剤",
+  "indications": "遺伝性血管性浮腫の急性発作の発症抑制",
+  "dose_admin": "通常、成人及び12歳以上の小児には、ベロトラルスタットとして150mg（1カプセル）を1日1回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "肝機能障害（3.8%）\nQT延長（頻度不明）\n,\n,",
+  "observation_points": [
+    "肝機能障害（3.8%）",
+    "QT延長（頻度不明）",
+    ",",
+    "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある",
+    "本剤の併用により、これらの薬剤の血中濃度が上昇したとの報告がある",
+    "本剤の併用により、ジゴキシンの血中濃度が上昇したとの報告がある",
+    "QT延長があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "シクロスポリンがP-糖蛋白質、BCRP、及びCYP3A4を阻害することにより、本剤の血中濃度が上昇すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4で代謝される薬剤\nミダゾラム、アムロジピン等\n,",
+      "clinical_symptom_action": "本剤の併用により、これらの薬剤の血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "本剤はCYP3A4を中程度に阻害するため、これらの薬剤の代謝を抑制し、血中濃度を上昇させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2D6で代謝される薬剤\nデキストロメトルファン等",
+      "clinical_symptom_action": "本剤の併用により、これらの薬剤の血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "本剤はCYP2D6を阻害するため、これらの薬剤の代謝を抑制し、血中濃度が上昇すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "本剤の併用により、ジゴキシンの血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "本剤はP-糖蛋白質を阻害するため、P-糖蛋白質を介したジゴキシンの輸送が阻害されることにより、ジゴキシンの血中濃度が上昇すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT延長を起こすことが知られている薬剤\n抗不整脈薬等\n,\n,",
+      "clinical_symptom_action": "QT延長があらわれるおそれがある。",
+      "mechanism_risk_factor": "併用によりQT延長作用が増強するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

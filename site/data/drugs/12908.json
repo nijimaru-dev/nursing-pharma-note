@@ -1,0 +1,67 @@
+{
+  "id": 12908,
+  "brand_name": "ボカブリア錠30mg",
+  "generic_name": "カボテグラビルナトリウム",
+  "therapeutic_classification": "HIVインテグラーゼ阻害剤",
+  "indications": "HIV-1感染症",
+  "dose_admin": "リルピビリン塩酸塩との併用において、通常、成人には1回1錠（カボテグラビルとして30mg）を1日1回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nリファンピシン、フェニトイン、ホスフェニトイン、フェノバルビタール、カルバマゼピンを投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "肝機能障害（頻度不明）\nAST、ALTの上昇等を伴う肝機能障害があらわれることがある。\n,\n薬剤性過敏症症候群（頻度不明）\n重度又は発熱を伴う発疹、全身倦怠感、疲労、筋肉痛又は関節痛、水疱、口腔病変、結膜炎、顔面浮腫、肝炎、好酸球増加症又は血管性浮腫等があらわれた場合には投与を中止し、肝機能検査を行う等、患者の状態を十分に観察すること。",
+  "observation_points": [
+    "肝機能障害（頻度不明）",
+    "AST、ALTの上昇等を伴う肝機能障害があらわれることがある",
+    ",",
+    "薬剤性過敏症症候群（頻度不明）",
+    "重度又は発熱を伴う発疹、全身倦怠感、疲労、筋肉痛又は関節痛、水疱、口腔病変、結膜炎、顔面浮腫、肝炎、好酸球増加症又は血管性浮腫等があらわれた場合には投与を中止し、肝機能検査を行う等、患者の状態を十分に観察すること",
+    "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある",
+    "多価カチオン含有制酸剤は、本剤の投与2時間以上前又は4時間以上後の経口投与が推奨される",
+    "メトトレキサートの作用が増強するおそれがあるため、患者の状態を慎重に観察すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン\nリファジン\n,",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤がUGT1A1を誘導することにより、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カルバマゼピン\nテグレトール",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤がUGT1A1を誘導することにより、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フェニトイン\nアレビアチン",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤がUGT1A1を誘導することにより、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ホスフェニトイン\nホストイン",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤がUGT1A1を誘導することにより、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フェノバルビタール\nフェノバール",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤がUGT1A1を誘導することにより、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸剤（Mg、Ca、Al等）\n乾燥水酸化アルミニウムゲル沈降炭酸カルシウム等",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。多価カチオン含有制酸剤は、本剤の投与2時間以上前又は4時間以上後の経口投与が推奨される。",
+      "mechanism_risk_factor": "これらの多価カチオンと錯体を形成することにより、本剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メトトレキサート",
+      "clinical_symptom_action": "メトトレキサートの作用が増強するおそれがあるため、患者の状態を慎重に観察すること。",
+      "mechanism_risk_factor": "本剤のOAT1/OAT3の阻害作用により、メトトレキサートの血漿中濃度が上昇する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

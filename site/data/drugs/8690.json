@@ -1,0 +1,43 @@
+{
+  "id": 8690,
+  "brand_name": "トフィソパム錠50mg「サワイ」",
+  "generic_name": "トフィソパム",
+  "therapeutic_classification": "自律神経調整剤",
+  "indications": "下記疾患における頭痛・頭重、倦怠感、心悸亢進、発汗等の自律神経症状\n自律神経失調症、頭部・頸部損傷、更年期障害・卵巣欠落症状",
+  "dose_admin": "通常、成人にはトフィソパムとして1回50mg、1日3回経口投与する。なお、年齢・症状により適宜増減する。",
+  "contraindications": "ロミタピドメシル酸塩を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "中枢神経抑制作用が増強することがある",
+    "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ロミタピドメシル酸塩\nジャクスタピッド",
+      "clinical_symptom_action": "ロミタピドメシル酸塩の血中濃度が著しく上昇するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP3Aを阻害することにより、ロミタピドメシル酸塩の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\nフェノチアジン誘導体\nバルビツール酸誘導体　等",
+      "clinical_symptom_action": "中枢神経抑制作用が増強することがある。",
+      "mechanism_risk_factor": "両薬剤の中枢神経抑制作用が相加的に増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "中枢神経抑制作用が増強することがある。",
+      "mechanism_risk_factor": "両者の中枢神経抑制作用が相加的に増強する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タクロリムス水和物",
+      "clinical_symptom_action": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。",
+      "mechanism_risk_factor": "本剤がCYP3A4によるタクロリムスの代謝を抑制することによると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

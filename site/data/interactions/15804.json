@@ -1,0 +1,398 @@
+[
+  {
+    "other_id": 3188,
+    "other_brand": "オムジャラ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 13275,
+    "other_brand": "マヴィレット配合錠",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 13276,
+    "other_brand": "マヴィレット配合顆粒小児用",
+    "interaction_type": "caution",
+    "source_text": "ロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "シクロスポリン\n（サンディミュン、ネオーラル等）\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 12273,
+    "other_brand": "ベザフィブラート徐放錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 12278,
+    "other_brand": "ベザフィブラートSR錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 12279,
+    "other_brand": "ベザフィブラートSR錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 12280,
+    "other_brand": "ベザフィブラートSR錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラート等"
+  },
+  {
+    "other_id": 9432,
+    "other_brand": "ニコチネルTTS30",
+    "interaction_type": "caution",
+    "source_text": "ニコチン酸"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌薬\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌薬\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌薬\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌薬\nイトラコナゾール等"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌薬\nイトラコナゾール等"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生物質\nエリスロマイシン等"
+  },
+  {
+    "other_id": 17280,
+    "other_brand": "酸化マグネシウム「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17282,
+    "other_brand": "酸化マグネシウム「JG」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17283,
+    "other_brand": "酸化マグネシウム「NP」原末",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17285,
+    "other_brand": "酸化マグネシウム原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17290,
+    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17292,
+    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17316,
+    "other_brand": "重カマ「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17322,
+    "other_brand": "重質酸化マグネシウム　シオエ",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17324,
+    "other_brand": "重質酸化マグネシウム「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 17327,
+    "other_brand": "重質酸化マグネシウム「東海」",
+    "interaction_type": "caution",
+    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+  },
+  {
+    "other_id": 9560,
+    "other_brand": "ニュベクオ錠300mg",
+    "interaction_type": "caution",
+    "source_text": "ダロルタミド"
+  },
+  {
+    "other_id": 6205,
+    "other_brand": "スチバーガ錠40mg",
+    "interaction_type": "caution",
+    "source_text": "レゴラフェニブ"
+  },
+  {
+    "other_id": 7248,
+    "other_brand": "タブレクタ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "カプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "カプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "カプマチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 11163,
+    "other_brand": "フェブキソスタット錠10mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11165,
+    "other_brand": "フェブキソスタット錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11168,
+    "other_brand": "フェブキソスタット錠10mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11169,
+    "other_brand": "フェブキソスタット錠10mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11170,
+    "other_brand": "フェブキソスタット錠10mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11171,
+    "other_brand": "フェブキソスタット錠10mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11202,
+    "other_brand": "フェブキソスタットOD錠10mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11205,
+    "other_brand": "フェブキソスタットOD錠10mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11207,
+    "other_brand": "フェブキソスタットOD錠10mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 11218,
+    "other_brand": "フェブリク錠10mg",
+    "interaction_type": "caution",
+    "source_text": "フェブキソスタット"
+  },
+  {
+    "other_id": 10685,
+    "other_brand": "ビンマックカプセル61mg",
+    "interaction_type": "caution",
+    "source_text": "タファミジス"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "高脂血症用剤\nシンバスタチン\nフルバスタチンナトリウム\nロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "高脂血症用剤\nシンバスタチン\nフルバスタチンナトリウム\nロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "高脂血症用剤\nシンバスタチン\nフルバスタチンナトリウム\nロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "高脂血症用剤\nシンバスタチン\nフルバスタチンナトリウム\nロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "高脂血症用剤\nシンバスタチン\nフルバスタチンナトリウム\nロスバスタチンカルシウム"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "高脂血症用剤\nシンバスタチン\nフルバスタチンナトリウム\nロスバスタチンカルシウム"
+  }
+]

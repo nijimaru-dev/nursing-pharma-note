@@ -1,0 +1,26 @@
+{
+  "id": 14962,
+  "brand_name": "リボスチン点鼻液0.025mg112噴霧用",
+  "generic_name": "レボカバスチン塩酸塩点鼻液",
+  "therapeutic_classification": "局所用選択H\n1\nブロッカー",
+  "indications": "アレルギー性鼻炎",
+  "dose_admin": "1日4回（朝、昼、夕方及び就寝前）、1回各鼻腔に2噴霧（レボカバスチンとして0.05mg）ずつ噴霧吸入する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n添付された説明図に従って、正しく噴霧吸入するよう患者を指導すること。\n本剤は懸濁液のため、使用の際にはその都度容器をよく振盪するよう指導すること。",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）\nショック、アナフィラキシー（呼吸困難、顔面浮腫等）があらわれることがある。",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "ショック、アナフィラキシー（呼吸困難、顔面浮腫等）があらわれることがある",
+    "本剤の吸収が低下する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "オキシメタゾリン",
+      "clinical_symptom_action": "本剤の吸収が低下する可能性がある。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

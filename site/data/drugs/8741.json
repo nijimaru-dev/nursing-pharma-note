@@ -1,0 +1,46 @@
+{
+  "id": 8741,
+  "brand_name": "トラネキサム酸錠250mg「三恵」",
+  "generic_name": "トラネキサム酸",
+  "therapeutic_classification": "抗プラスミン剤",
+  "indications": "〇全身性線溶亢進が関与すると考えられる出血傾向（白血病、再生不良性貧血、紫斑病等、及び手術中・術後の異常出血）〇局所線溶亢進が関与すると考えられる異常出血（肺出血、鼻出血、性器出血、腎出血、前立腺手術中・術後の異常出血）〇下記疾患における紅斑・腫脹・そう痒等の症状湿疹及びその類症、蕁麻疹、薬疹・中毒疹〇下記疾患における咽頭痛・発赤・充血・腫脹等の症状扁桃炎、咽喉頭炎〇口内炎における口内痛及び口内粘膜アフター",
+  "dose_admin": "通常成人1日3～8錠を3～4回に分けて経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "トロンビンを投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "痙攣（頻度不明）\n人工透析患者において痙攣があらわれることがある。",
+  "observation_points": [
+    "痙攣（頻度不明）",
+    "人工透析患者において痙攣があらわれることがある",
+    "大量併用により血栓形成傾向があらわれるおそれがある",
+    "血栓・塞栓症を起こすおそれがある",
+    "口腔等、線溶系活性が強い部位では凝固系がより亢進するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トロンビン",
+      "clinical_symptom_action": "血栓形成傾向があらわれるおそれがある。",
+      "mechanism_risk_factor": "血栓形成を促進する作用があり、併用により血栓形成傾向が増大する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヘモコアグラーゼ",
+      "clinical_symptom_action": "大量併用により血栓形成傾向があらわれるおそれがある。",
+      "mechanism_risk_factor": "ヘモコアグラーゼによって形成されたフィブリン塊は、本剤の抗プラスミン作用によって比較的長く残存し閉塞状態を持続させるおそれがあると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バトロキソビン",
+      "clinical_symptom_action": "血栓・塞栓症を起こすおそれがある。",
+      "mechanism_risk_factor": "バトロキソビンによって生成するdesAフィブリンポリマーの分解を阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "凝固因子製剤\nエプタコグアルファ等",
+      "clinical_symptom_action": "口腔等、線溶系活性が強い部位では凝固系がより亢進するおそれがある。",
+      "mechanism_risk_factor": "凝固因子製剤は凝固系を活性化させることにより止血作用を発現する。一方、本剤は線溶系を阻害することにより止血作用を発現する。"
+    }
+  ],
+  "facility_notes": ""
+}

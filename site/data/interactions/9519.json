@@ -1,0 +1,344 @@
+[
+  {
+    "other_id": 13402,
+    "other_brand": "ミニプレス錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "他の降圧剤\nレセルピン、メチルドパ水和物、プラゾシン塩酸塩等"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "他の降圧剤\nレセルピン、メチルドパ水和物、プラゾシン塩酸塩等"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "他の降圧剤\nレセルピン、メチルドパ水和物、プラゾシン塩酸塩等"
+  },
+  {
+    "other_id": 453,
+    "other_brand": "アテノロール錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 454,
+    "other_brand": "アテノロール錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 456,
+    "other_brand": "アテノロール錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 458,
+    "other_brand": "アテノロール錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 1914,
+    "other_brand": "インデラル注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 1915,
+    "other_brand": "インデラル錠10mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 8022,
+    "other_brand": "テノーミン錠50",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 12090,
+    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 12091,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 12093,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "トリアゾール系抗真菌剤\nイトラコナゾール、フルコナゾール等"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンフェニトインカルバマゼピン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンフェニトインカルバマゼピン"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンフェニトインカルバマゼピン"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンフェニトインカルバマゼピン"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンフェニトインカルバマゼピン"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンフェニトインカルバマゼピン"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンフェニトインカルバマゼピン"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "HIVプロテアーゼ阻害剤\nサキナビル、リトナビル等"
+  },
+  {
+    "other_id": 16985,
+    "other_brand": "硫酸マグネシウム「ヤマゼン」M",
+    "interaction_type": "caution",
+    "source_text": "硫酸マグネシウム水和物（注射剤）"
+  },
+  {
+    "other_id": 16987,
+    "other_brand": "硫酸マグネシウム「東海」",
+    "interaction_type": "caution",
+    "source_text": "硫酸マグネシウム水和物（注射剤）"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "other_id": 152,
+    "other_brand": "アザニン錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 1785,
+    "other_brand": "イムラン錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 15529,
+    "other_brand": "ロイケリン散10%",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 1017,
+    "other_brand": "アラセナ−A軟膏3%",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 1018,
+    "other_brand": "アラセナ−A点滴静注用300mg",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 10589,
+    "other_brand": "ビダラビン軟膏3%「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 10591,
+    "other_brand": "ビダラビン軟膏3％「F」",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 10593,
+    "other_brand": "ビダラビン軟膏3％「SW」",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  }
+]

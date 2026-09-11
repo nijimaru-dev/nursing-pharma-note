@@ -1,0 +1,24 @@
+{
+  "id": 16474,
+  "brand_name": "日点アトロピン点眼液1％",
+  "generic_name": "アトロピン硫酸塩水和物点眼液",
+  "therapeutic_classification": "散瞳・調節麻痺点眼剤",
+  "indications": "診断または治療を目的とする散瞳と調節麻痺",
+  "dose_admin": "通常、1日1～3回、1回1～2滴宛点眼する。",
+  "contraindications": "緑内障及び狭隅角や前房が浅いなどの眼圧上昇の素因のある患者［急性閉塞隅角緑内障の発作を起こすことがある。］",
+  "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。\n薬液汚染防止のため、点眼のとき、容器の先端が直接目に触れないように注意すること。\n患眼を開瞼して結膜囊内に点眼し、1～5分間閉瞼して涙囊部を圧迫させた後、開瞼すること。\n点眼後結膜嚢からあふれ出たものは拭きとること。\n他の点眼剤を併用する場合には、少なくとも5分以上間隔をあけてから点眼すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "循環器系、精神神経系等の全身性の副作用があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗コリン作用を有する薬剤\n三環系及び四環系抗うつ剤フェノチアジン系薬剤抗ヒスタミン剤等",
+      "clinical_symptom_action": "循環器系、精神神経系等の全身性の副作用があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加的に作用（抗コリン作用）を増強させる。"
+    }
+  ],
+  "facility_notes": ""
+}

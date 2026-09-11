@@ -1,0 +1,28 @@
+{
+  "id": 4125,
+  "brand_name": "ガラフォルドカプセル123mg",
+  "generic_name": "ミガーラスタット塩酸塩",
+  "therapeutic_classification": "ファブリー病治療剤",
+  "indications": "ミガーラスタットに反応性のある\nGLA\n遺伝子変異を伴うファブリー病",
+  "dose_admin": "通常、成人及び12歳以上の小児にはミガーラスタットとして1回123mgを隔日経口投与する。なお、食事の前後2時間を避けて投与すること。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "カフェインとの同時摂取により、本剤の C",
+    "max",
+    "及び AUC",
+    "0-inf",
+    "がそれぞれ60%及び55%減少したとの報告があることから、本剤服用の前後 2 時間は摂取を避けること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カフェイン\n［16.7.2参照］",
+      "clinical_symptom_action": "カフェインとの同時摂取により、本剤の C\nmax\n及び AUC\n0-inf\nがそれぞれ60%及び55%減少したとの報告があることから、本剤服用の前後 2 時間は摂取を避けること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

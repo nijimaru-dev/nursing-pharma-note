@@ -1,0 +1,45 @@
+{
+  "id": 8800,
+  "brand_name": "トリテレン・カプセル50mg",
+  "generic_name": "トリアムテレン",
+  "therapeutic_classification": "利尿・血圧降下剤",
+  "indications": "高血圧症（本態性、腎性等）、心性浮腫（うっ血性心不全）、腎性浮腫、肝性浮腫",
+  "dose_admin": "トリアムテレンとして、通常成人1日90～200mgを2～3回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "無尿の患者［高カリウム血症等の電解質異常があらわれるおそれがある。］\n急性腎不全の患者\n高カリウム血症の患者［高カリウム血症が悪化するおそれがある。］\n腎結石及びその既往歴のある患者［トリアムテレン結石を形成するおそれがある。］\nインドメタシン又はジクロフェナクを投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "急性腎障害（0.1%未満）",
+  "observation_points": [
+    "急性腎障害（0.1%未満）",
+    "類薬（インドメタシン、ジクロフェナク）で急性腎障害があらわれるとの報告がある",
+    "血清カリウム値が上昇するおそれがある",
+    "相互に作用を増強することがあるので、用量調節等に注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "インドメタシン\nインテバン等\nジクロフェナク\nボルタレン等",
+      "clinical_symptom_action": "急性腎障害があらわれることがある。",
+      "mechanism_risk_factor": "プロスタグランジン合成阻害作用により、本剤の腎血流量低下作用が増強される。腎障害のある患者への投与には注意すること。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "非ステロイド性消炎鎮痛剤（インドメタシン、ジクロフェナクを除く）",
+      "clinical_symptom_action": "類薬（インドメタシン、ジクロフェナク）で急性腎障害があらわれるとの報告がある。",
+      "mechanism_risk_factor": "非ステロイド性消炎鎮痛剤のプロスタグランジン合成阻害作用により、本剤の腎血流量低下作用が増強されるおそれがある。腎障害のある患者への投与には注意すること。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ACE阻害剤\nエナラプリルマレイン酸塩カプトプリル等\nA-II受容体拮抗薬\nロサルタンカリウムカンデサルタンシレキセチル\nカリウム製剤\n塩化カリウムグルコン酸カリウムアスパラギン酸カリウム等",
+      "clinical_symptom_action": "血清カリウム値が上昇するおそれがある。",
+      "mechanism_risk_factor": "併用によりカリウム貯留作用が増強され血清カリウム値が上昇するおそれがある。腎障害のある患者への投与には注意すること。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "降圧作用を有する薬剤",
+      "clinical_symptom_action": "相互に作用を増強することがあるので、用量調節等に注意すること。",
+      "mechanism_risk_factor": "相互に作用を増強することがある。"
+    }
+  ],
+  "facility_notes": ""
+}

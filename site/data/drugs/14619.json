@@ -1,0 +1,81 @@
+{
+  "id": 14619,
+  "brand_name": "リカムビス水懸筋注600mg",
+  "generic_name": "リルピビリン",
+  "therapeutic_classification": "持効性抗ウイルス化学療法剤［非ヌクレオシド系逆転写酵素阻害剤（NNRTI）］",
+  "indications": "HIV-1感染症",
+  "dose_admin": "〈1ヵ月間隔投与〉\nカボテグラビルとの併用において、通常、成人にはリルピビリンとして900mgを臀部筋肉内に投与する。以降は600mgを1ヵ月に1回、臀部筋肉内に投与する。\n〈2ヵ月間隔投与〉\nカボテグラビルとの併用において、通常、成人にはリルピビリンとして900mgを臀部筋肉内に投与する。本剤初回投与1ヵ月後に900mgを臀部筋肉内に投与し、以降は900mgを2ヵ月に1回、臀部筋肉内に投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nリファンピシン、リファブチン、カルバマゼピン、フェノバルビタール、フェニトイン、ホスフェニトイン、アパルタミド、エンザルタミド、イボシデニブ、エンコラフェニブ、ミトタン、デキサメタゾン（全身投与）（単回投与を除く）、セイヨウオトギリソウ（St.John’s Wort、セント・ジョーンズ・ワート）含有食品を投与中の患者",
+  "application_precautions": "薬剤調製時の注意\n投与前に薬剤を常温（25℃以下）に戻し、6時間以内に使用すること。再冷蔵した場合の安定性は確認されていない。\nバイアル内の懸濁液が均一になるまで約10秒間激しく振とうする。小さな気泡が見えることがあるが問題ない。\nシリンジに採取後、ただちに使用しない場合は、常温（25℃以下）で保存し、2時間以内に使用すること。2時間を超えて放置した場合は、廃棄すること。\n薬剤投与時の注意\n注射部位は、臀部の外側上部とすること。筋肉内にのみ投与し、静脈内には投与しないこと。\n本剤とカボテグラビル注射剤は、同日に臀部の筋肉の異なる部位（左右異なる側又は2cm以上間隔をあける）に投与すること。\n本剤を投与する場合、21～23ゲージの注射針が推奨される。なお、注射針の長さは、BMIを考慮し、臀部の筋肉に到達するものを用いること。\n注射部位での薬物漏出を最小限に抑えるため、Z-track法を用いて投与する。皮膚を一方向へ約2.5cm強く引いて保持し、針を筋肉に達するまで深く刺入して投与し、抜針後、速やかに引いていた皮膚を戻すこと。なお、注射部位を圧迫するが、もまないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血中濃度が上昇する可能性がある",
+    "代替としてアジスロマイシン等を考慮すること",
+    "メサドンの血中濃度が低下することがある",
+    "QT延長、心室性頻拍（Torsade de Pointesを含む）が発現するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン\nリファジン\n,",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファブチン\nミコブティン\n,",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カルバマゼピン\nテグレトール\nフェノバルビタール\nフェノバール\nフェニトイン\nアレビアチン\nホスフェニトイン\nホストイン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アパルタミド\nアーリーダ\nエンザルタミド\nイクスタンジ\nイボシデニブ\nティブソボ\nエンコラフェニブ\nビラフトビ",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ミトタン\nオペプリム",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "デキサメタゾン（全身投与）（単回投与を除く）\nデカドロン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "セイヨウオトギリソウ（St.John’s Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クラリスロマイシンエリスロマイシン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性がある。代替としてアジスロマイシン等を考慮すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メサドン",
+      "clinical_symptom_action": "メサドンの血中濃度が低下することがある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT延長を起こすことが知られている薬剤\nアミオダロンソタロール等\n,",
+      "clinical_symptom_action": "QT延長、心室性頻拍（Torsade de Pointesを含む）が発現するおそれがある。",
+      "mechanism_risk_factor": "リルピビリン経口剤75mg及び300mg投与時にQT延長が認められている。"
+    }
+  ],
+  "facility_notes": ""
+}

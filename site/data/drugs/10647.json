@@ -1,0 +1,25 @@
+{
+  "id": 10647,
+  "brand_name": "ビラスチンOD錠20mg「YD」",
+  "generic_name": "ビラスチン口腔内崩壊錠",
+  "therapeutic_classification": "アレルギー性疾患治療剤",
+  "indications": "アレルギー性鼻炎\n蕁麻疹\n皮膚疾患（湿疹・皮膚炎、皮膚そう痒症）に伴うそう痒",
+  "dose_admin": "通常、成人にはビラスチンとして1回20mgを1日1回空腹時に経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n本剤は舌の上にのせ唾液を浸潤させ、崩壊後唾液のみで服用可能である。また、水で服用することもできる。",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "本剤の血漿中濃度を上昇させるとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エリスロマイシンジルチアゼム\n,",
+      "clinical_symptom_action": "本剤の血漿中濃度を上昇させるとの報告がある。",
+      "mechanism_risk_factor": "P糖蛋白の阻害による本剤の吸収率の増加に起因すると推定される。"
+    }
+  ],
+  "facility_notes": ""
+}

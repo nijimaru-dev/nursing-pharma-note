@@ -1,0 +1,48 @@
+{
+  "id": 15886,
+  "brand_name": "ロペラミド塩酸塩細粒小児用0.05%「NIG」",
+  "generic_name": "ロペラミド塩酸塩細粒",
+  "therapeutic_classification": "止瀉剤",
+  "indications": "急性下痢症",
+  "dose_admin": "ロペラミド塩酸塩として、通常、小児に1日0.02～0.04mg/kgを2～3回に分割経口投与する。\nなお、症状により適宜増減する。",
+  "contraindications": "出血性大腸炎の患者［腸管出血性大腸菌（O157等）や赤痢菌等の重篤な感染性下痢患者では、症状の悪化、治療期間の延長を来すおそれがある。］\n抗生物質の投与に伴う偽膜性大腸炎の患者［症状の悪化、治療期間の延長を来すおそれがある。］\n低出生体重児、新生児及び6ヵ月未満の乳児［外国で、過量投与により、呼吸抑制、全身性痙攣、昏睡等の重篤な副作用の報告がある。］\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "イレウス（0.1％未満）、巨大結腸（頻度不明）\n消化器症状とともにイレウス、巨大結腸があらわれることがある。\nショック（頻度不明）、アナフィラキシー（0.1％未満）\n中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）",
+  "observation_points": [
+    "イレウス（0.1％未満）、巨大結腸（頻度不明）",
+    "消化器症状とともにイレウス、巨大結腸があらわれることがある",
+    "ショック（頻度不明）、アナフィラキシー（0.1％未満）",
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（頻度不明）",
+    "本剤の効果が減弱するおそれがあるので、投与間隔をあけるなど注意すること",
+    "本剤の血中濃度が上昇することがある",
+    "デスモプレシンの血中濃度が上昇することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ケイ酸アルミニウムタンニン酸アルブミン",
+      "clinical_symptom_action": "本剤の効果が減弱するおそれがあるので、投与間隔をあけるなど注意すること。",
+      "mechanism_risk_factor": "これらの薬剤により、本剤が吸着されることが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル\nキニジン\n,",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "これらの薬剤のP糖蛋白に対する阻害作用により、本剤の排出が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾール",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "イトラコナゾールのCYP3A4及びP糖蛋白に対する阻害作用により、本剤の代謝及び排出が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デスモプレシン（経口）",
+      "clinical_symptom_action": "デスモプレシンの血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "本剤の消化管運動抑制作用により、デスモプレシンの消化管吸収が増加すると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

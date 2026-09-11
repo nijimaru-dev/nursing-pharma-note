@@ -1,0 +1,74 @@
+[
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 651,
+    "other_brand": "アネメトロ点滴静注液500mg",
+    "interaction_type": "caution",
+    "source_text": "メトロニダゾール"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "メトロニダゾール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトロニダゾール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトロニダゾール"
+  },
+  {
+    "other_id": 11337,
+    "other_brand": "フラジール内服錠250mg",
+    "interaction_type": "caution",
+    "source_text": "メトロニダゾール"
+  },
+  {
+    "other_id": 11338,
+    "other_brand": "フラジール腟錠250mg",
+    "interaction_type": "caution",
+    "source_text": "メトロニダゾール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "メトロニダゾール"
+  }
+]

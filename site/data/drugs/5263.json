@@ -1,0 +1,36 @@
+{
+  "id": 5263,
+  "brand_name": "コレチメント錠9mg",
+  "generic_name": "ブデソニド",
+  "therapeutic_classification": "潰瘍性大腸炎治療剤",
+  "indications": "活動期潰瘍性大腸炎（重症を除く）",
+  "dose_admin": "通常、成人にはブデソニドとして9mgを1日1回朝経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nデスモプレシン酢酸塩水和物（男性における夜間多尿による夜間頻尿）を投与中の患者",
+  "application_precautions": "薬剤調製時の注意\n本剤を分割したり、乳鉢による粉砕は行わないこと。\n薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n薬剤投与時の注意\n本剤は放出制御製剤であることより、かまずに服用すること。\n薬剤投与後の注意\n便中に錠剤が認められることがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血中濃度が上昇するおそれがあり、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）",
+      "clinical_symptom_action": "低ナトリウム血症が発現するおそれがある。",
+      "mechanism_risk_factor": "機序不明。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがあり、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が阻害されることにより、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツ、グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがあり、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。",
+      "mechanism_risk_factor": "発現機序の詳細は不明であるが、グレープフルーツに含まれる成分が、CYP3A4を抑制するためと考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

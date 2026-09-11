@@ -1,0 +1,44 @@
+[
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 4339,
+    "other_brand": "クエン酸「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "PDE5阻害薬\nシルデナフィルクエン酸塩等"
+  },
+  {
+    "other_id": 5678,
+    "other_brand": "シルデナフィル錠25mgVI「ANG」",
+    "interaction_type": "caution",
+    "source_text": "PDE5阻害薬\nシルデナフィルクエン酸塩等"
+  },
+  {
+    "other_id": 5683,
+    "other_brand": "シルデナフィル錠25mgVI「SN」",
+    "interaction_type": "caution",
+    "source_text": "PDE5阻害薬\nシルデナフィルクエン酸塩等"
+  },
+  {
+    "other_id": 5684,
+    "other_brand": "シルデナフィル錠50mgVI「あすか」",
+    "interaction_type": "caution",
+    "source_text": "PDE5阻害薬\nシルデナフィルクエン酸塩等"
+  },
+  {
+    "other_id": 9886,
+    "other_brand": "バイアグラ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "PDE5阻害薬\nシルデナフィルクエン酸塩等"
+  },
+  {
+    "other_id": 15232,
+    "other_brand": "レバチオ錠20mg",
+    "interaction_type": "caution",
+    "source_text": "PDE5阻害薬\nシルデナフィルクエン酸塩等"
+  }
+]

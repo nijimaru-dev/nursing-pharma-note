@@ -1,0 +1,31 @@
+{
+  "id": 143,
+  "brand_name": "アコファイド錠100mg",
+  "generic_name": "アコチアミド塩酸塩水和物錠",
+  "therapeutic_classification": "機能性ディスペプシア（FD）治療剤",
+  "indications": "機能性ディスペプシアにおける食後膨満感、上腹部膨満感、早期満腹感",
+  "dose_admin": "通常、成人にはアコチアミド塩酸塩水和物として1回100mgを1日3回、食前に経口投与する。",
+  "contraindications": "本剤の成分に対し、過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の作用が減弱する可能性がある",
+    "本剤及び併用薬共に作用が増強される可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗コリン作用を有する薬剤\nアトロピン硫酸塩水和物\nブチルスコポラミン臭化物等",
+      "clinical_symptom_action": "本剤の作用が減弱する可能性がある。",
+      "mechanism_risk_factor": "本剤はアセチルコリンエステラーゼ阻害作用を有するため、抗コリン剤の併用により本剤の作用が抑制される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コリン賦活剤やコリンエステラーゼ阻害剤\nアセチルコリン塩化物等\nネオスチグミン臭化物等",
+      "clinical_symptom_action": "本剤及び併用薬共に作用が増強される可能性がある。",
+      "mechanism_risk_factor": "本剤と共にアセチルコリン受容体刺激作用を有する。"
+    }
+  ],
+  "facility_notes": ""
+}

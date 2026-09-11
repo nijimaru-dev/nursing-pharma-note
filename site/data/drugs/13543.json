@@ -1,0 +1,21 @@
+{
+  "id": 13543,
+  "brand_name": "ムコダインシロップ5%",
+  "generic_name": "カルボシステインシロップ",
+  "therapeutic_classification": "気道粘液調整・粘膜正常化剤",
+  "indications": "〇下記疾患の去痰上気道炎（咽頭炎、喉頭炎）、急性気管支炎、気管支喘息、慢性気管支炎、気管支拡張症、肺結核\n〇慢性副鼻腔炎の排膿\n〇滲出性中耳炎の排液",
+  "dose_admin": "通常、幼・小児に、体重kg当り、カルボシステインとして1日30mgを3回に分割して経口投与する。なお、年齢、体重、症状により適宜増減する。幼・小児の用量は次のとおりである。\nシロップ1回投与量\n投与回数\n幼・小児\n体重kg当たり0.2mL\n（L-カルボシステインとして10mg）\n1日3回\n経口投与",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）\n肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、Al-P、LDHの上昇等があらわれることがある。\nショック、アナフィラキシー（いずれも頻度不明）\n呼吸困難、浮腫、蕁麻疹等があらわれることがある。",
+  "observation_points": [
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）",
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST、ALT、Al-P、LDHの上昇等があらわれることがある",
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "呼吸困難、浮腫、蕁麻疹等があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [],
+  "facility_notes": ""
+}

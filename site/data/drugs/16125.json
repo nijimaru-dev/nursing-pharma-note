@@ -1,0 +1,74 @@
+{
+  "id": 16125,
+  "brand_name": "乾燥水酸化アルミニウムゲル細粒「ケンエー」",
+  "generic_name": "日局　乾燥水酸化アルミニウムゲル細粒",
+  "therapeutic_classification": "制酸剤",
+  "indications": "下記疾患における制酸作用と症状の改善\n胃・十二指腸潰瘍、胃炎（急・慢性胃炎、薬剤性胃炎を含む）、上部消化管機能異常（神経性食思不振、いわゆる胃下垂症、胃酸過多症を含む）\n尿中燐排泄増加に伴う尿路結石の発生予防",
+  "dose_admin": "乾燥水酸化アルミニウムゲルとして、通常成人1日1～3gを数回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "透析療法を受けている患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど注意すること",
+    "血清カリウム抑制イオン交換樹脂の効果が減弱するおそれがある",
+    "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある",
+    "この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある",
+    "ペニシラミンの効果が減弱するおそれがある",
+    "ミコフェノール酸モフェチルの作用が減弱するおそれがある",
+    "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある",
+    "これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる",
+    "併用薬剤の排泄が遅延することが知られている"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クエン酸製剤\n(クエン酸カリウム、クエン酸ナトリウム等）",
+      "clinical_symptom_action": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "キレートを形成し、アルミニウムの吸収が促進されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血清カリウム抑制イオン交換樹脂\n（ポリスチレンスルホン酸カルシウム、ポリスチレンスルホン酸ナトリウム）",
+      "clinical_symptom_action": "血清カリウム抑制イオン交換樹脂の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "アルミニウムイオンと非選択的に交換すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nイソニアジド\nジギタリス製剤\n（ジゴキシン、ジギトキシン等）\nフェニトイン\nフェノチアジン誘導体\n（プロメタジン、アリメマジン等）\nβ−遮断剤\n（プロプラノロール、ピンドロール等）\n非ステロイド系解熱消炎鎮痛剤等",
+      "clinical_symptom_action": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。",
+      "mechanism_risk_factor": "本剤が併用薬剤とキレートを形成又は吸着し、消化管からの吸収を遅延又は阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ペニシラミン",
+      "clinical_symptom_action": "ペニシラミンの効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "同時投与した場合、ペニシラミンの吸収率が低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミコフェノール酸モフェチル",
+      "clinical_symptom_action": "ミコフェノール酸モフェチルの作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "併用により、ミコフェノール酸モフェチルの吸収が減少すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン剤\n（レボチロキシンナトリウム等）",
+      "clinical_symptom_action": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "胆汁酸製剤\n（ウルソデオキシコール酸、ケノデオキシコール酸）",
+      "clinical_symptom_action": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キニジン等",
+      "clinical_symptom_action": "併用薬剤の排泄が遅延することが知られている。",
+      "mechanism_risk_factor": "尿のpH上昇による。"
+    }
+  ],
+  "facility_notes": ""
+}

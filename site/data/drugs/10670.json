@@ -1,0 +1,61 @@
+{
+  "id": 10670,
+  "brand_name": "ビルトリシド錠600mg",
+  "generic_name": "プラジカンテル",
+  "therapeutic_classification": "吸虫駆除剤",
+  "indications": "肝吸虫症\n肺吸虫症\n横川吸虫症",
+  "dose_admin": "〈肝吸虫症、肺吸虫症〉\nプラジカンテルとして、1回20mg/kgを1日2回2日間経口投与する。\n〈横川吸虫症〉\nプラジカンテルとして、1回20mg/kgを1日1～2回1日経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n有鉤囊虫（条虫）症患者［寄生部位によっては、死滅虫体により回復困難な病変（失語症、片麻痺、脳梗塞等の中枢神経障害、眼障害等）を引き起こすことがある。］\nリファンピシンを投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血中濃度が低下することが報告されている",
+    "本剤の血中濃度が約75%低下することが報告されている",
+    "本剤の効果が減弱するおそれがあるので併用を避けることが望ましい",
+    "クロロキン（国内未発売）との併用により、本剤の血中濃度が低下することが報告されている",
+    "クロロキンと類似の構造を有するヒドロキシクロロキン硫酸塩との併用においても同様に本剤の血中濃度が低下する可能性がある",
+    "本剤の血中濃度が上昇することが報告されている",
+    "本剤の血中濃度が上昇する可能性がある",
+    "ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン（リファジン）",
+      "clinical_symptom_action": "本剤の血中濃度が約100%低下することが報告されている。",
+      "mechanism_risk_factor": "リファンピシンにより代謝酵素（CYP3A4）が誘導され、本剤の代謝が促進されるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デキサメタゾン\nフェニトイン\nカルバマゼピン",
+      "clinical_symptom_action": "本剤の血中濃度が低下することが報告されている。",
+      "mechanism_risk_factor": "これらの薬剤が代謝酵素（CYP3A4）を誘導し、本剤のクリアランスを上昇させるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エファビレンツ",
+      "clinical_symptom_action": "本剤の血中濃度が約75%低下することが報告されている。本剤の効果が減弱するおそれがあるので併用を避けることが望ましい。",
+      "mechanism_risk_factor": "エファビレンツが代謝酵素（CYP3A4）を誘導し、本剤のクリアランスを上昇させるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヒドロキシクロロキン硫酸塩",
+      "clinical_symptom_action": "クロロキン（国内未発売）との併用により、本剤の血中濃度が低下することが報告されている。クロロキンと類似の構造を有するヒドロキシクロロキン硫酸塩との併用においても同様に本剤の血中濃度が低下する可能性がある。",
+      "mechanism_risk_factor": "発現機序の詳細は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン\nリトナビル",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することが報告されている。",
+      "mechanism_risk_factor": "これらの薬剤が代謝酵素（CYP3A4）を阻害し、本剤のクリアランスを低下させるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾール",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。",
+      "mechanism_risk_factor": "イトラコナゾールが代謝酵素（CYP3A4）を阻害し、本剤のクリアランスを低下させるためと考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

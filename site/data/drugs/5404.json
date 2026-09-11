@@ -1,0 +1,37 @@
+{
+  "id": 5404,
+  "brand_name": "サルポグレラート塩酸塩錠50mg「オーハラ」",
+  "generic_name": "サルポグレラート塩酸塩",
+  "therapeutic_classification": "5-HT\n2\nブロッカー",
+  "indications": "慢性動脈閉塞症に伴う潰瘍、疼痛および冷感等の虚血性諸症状の改善",
+  "dose_admin": "サルポグレラート塩酸塩として、通常成人1回100mgを1日3回食後経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "出血している患者（血友病、毛細血管脆弱症、消化管潰瘍、尿路出血、喀血、硝子体出血等）［出血を更に増強する可能性がある。］\n,\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "脳出血、消化管出血（いずれも0.1%未満）\n脳出血、吐血や下血等の消化管出血があらわれることがある。\n,\n血小板減少（頻度不明）\n肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、ALP、γ−GTP、LDHの上昇等を伴う肝機能障害や黄疸があらわれることがある。\n無顆粒球症（頻度不明）",
+  "observation_points": [
+    "脳出血、消化管出血（いずれも0.1%未満）",
+    "脳出血、吐血や下血等の消化管出血があらわれることがある",
+    ",",
+    "血小板減少（頻度不明）",
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST、ALT、ALP、γ−GTP、LDHの上昇等を伴う肝機能障害や黄疸があらわれることがある",
+    "無顆粒球症（頻度不明）",
+    "出血傾向を増強するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗凝固剤　ワルファリン等",
+      "clinical_symptom_action": "出血傾向を増強するおそれがある。",
+      "mechanism_risk_factor": "相互に作用を増強する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血小板凝集抑制作用を有する薬剤　アスピリン　チクロピジン塩酸塩　シロスタゾール等",
+      "clinical_symptom_action": "出血傾向を増強するおそれがある。",
+      "mechanism_risk_factor": "相互に作用を増強する。"
+    }
+  ],
+  "facility_notes": ""
+}

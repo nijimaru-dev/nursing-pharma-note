@@ -1,0 +1,33 @@
+{
+  "id": 4491,
+  "brand_name": "クリンダマイシンリン酸エステルゲル1％「サワイ」",
+  "generic_name": "クリンダマイシンリン酸エステル",
+  "therapeutic_classification": "外用抗生物質製剤",
+  "indications": "〈適応菌種〉\nクリンダマイシンに感性のブドウ球菌属、アクネ菌\n〈適応症〉\nざ瘡（化膿性炎症を伴うもの）",
+  "dose_admin": "本品の適量を1日2回、洗顔後、患部に塗布する。",
+  "contraindications": "本剤の成分又はリンコマイシン系抗生物質に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "偽膜性大腸炎等の血便を伴う重篤な大腸炎（頻度不明）\n腹痛、頻回の下痢があらわれた場合には直ちに使用を中止し、輸液、バンコマイシンの経口投与等の適切な処置を行うこと。",
+  "observation_points": [
+    "偽膜性大腸炎等の血便を伴う重篤な大腸炎（頻度不明）",
+    "腹痛、頻回の下痢があらわれた場合には直ちに使用を中止し、輸液、バンコマイシンの経口投与等の適切な処置を行うこと",
+    "併用しても本剤の効果があらわれないと考えられる",
+    "筋弛緩作用が増強される"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エリスロマイシン",
+      "clinical_symptom_action": "併用しても本剤の効果があらわれないと考えられる。",
+      "mechanism_risk_factor": "細菌のリボソーム50S Subunitへの親和性が本剤より高い。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "末梢性筋弛緩剤\nスキサメトニウム塩化物水和物\nツボクラリン塩化物塩酸塩水和物等",
+      "clinical_symptom_action": "筋弛緩作用が増強される。",
+      "mechanism_risk_factor": "本剤は神経筋遮断作用を有する。"
+    }
+  ],
+  "facility_notes": ""
+}

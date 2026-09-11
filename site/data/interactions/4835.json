@@ -1,0 +1,1946 @@
+[
+  {
+    "other_id": 8711,
+    "other_brand": "トラクリア小児用分散錠32mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ボセンタン水和物\n（トラクリア）"
+  },
+  {
+    "other_id": 8712,
+    "other_brand": "トラクリア錠62.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ボセンタン水和物\n（トラクリア）"
+  },
+  {
+    "other_id": 12946,
+    "other_brand": "ボセンタン成人用DS6.25%「モチダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "ボセンタン水和物\n（トラクリア）"
+  },
+  {
+    "other_id": 12947,
+    "other_brand": "ボセンタン錠62.5mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "ボセンタン水和物\n（トラクリア）"
+  },
+  {
+    "other_id": 12949,
+    "other_brand": "ボセンタン錠62.5mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "ボセンタン水和物\n（トラクリア）"
+  },
+  {
+    "other_id": 12950,
+    "other_brand": "ボセンタン錠62.5mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "ボセンタン水和物\n（トラクリア）"
+  },
+  {
+    "other_id": 102,
+    "other_brand": "アクチット輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 103,
+    "other_brand": "アクチット輸液（200mLバッグ）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 792,
+    "other_brand": "アミニック輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 802,
+    "other_brand": "アミノレバンEN配合散",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 807,
+    "other_brand": "アミユー配合顆粒",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 1291,
+    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 1667,
+    "other_brand": "イノソリッド配合経腸用半固形剤",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 1674,
+    "other_brand": "イノラス配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 1783,
+    "other_brand": "イムフレックスCPD-MAP",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 2259,
+    "other_brand": "エクストラニール腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 2606,
+    "other_brand": "エネーボ配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 2895,
+    "other_brand": "エレメンミック注",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 2896,
+    "other_brand": "エレンタール配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 2897,
+    "other_brand": "エレンタールP乳幼児用配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 2901,
+    "other_brand": "エンシュア・リキッド",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 2902,
+    "other_brand": "エンシュア・H",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4056,
+    "other_brand": "カーボスター透析剤・L（6L）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4058,
+    "other_brand": "カーボスター透析剤・M",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4059,
+    "other_brand": "カーボスター透析剤・P（袋）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4065,
+    "other_brand": "カーミパック生理食塩液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4069,
+    "other_brand": "カーミパック生理食塩液L",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4072,
+    "other_brand": "カーミパックACD−A液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4073,
+    "other_brand": "カーミC リューコトラップ MAP",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4074,
+    "other_brand": "カーミCA液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4254,
+    "other_brand": "キンダリー透析剤5E",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4267,
+    "other_brand": "キンダリー透析剤AF5号(6L)",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4269,
+    "other_brand": "キンダリー透析剤AF5P号",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 4487,
+    "other_brand": "クリニザルツ輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 5362,
+    "other_brand": "サブパック血液ろ過用補充液−Bi",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 5403,
+    "other_brand": "サルプレップ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 5623,
+    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6190,
+    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6204,
+    "other_brand": "スチックゼノールA",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6448,
+    "other_brand": "セパセルインテグラC−MAP",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6449,
+    "other_brand": "セパセルインテグラCA",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6852,
+    "other_brand": "ソリタ−T配合顆粒2号",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6853,
+    "other_brand": "ソリタ−T配合顆粒3号",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6854,
+    "other_brand": "ソリタ−T1号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6856,
+    "other_brand": "ソリタ−T2号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6858,
+    "other_brand": "ソリタ−T3号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6860,
+    "other_brand": "ソリタ−T3号G輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6862,
+    "other_brand": "ソリタ−T4号輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6864,
+    "other_brand": "ソリタックス−H輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 6915,
+    "other_brand": "ソルバノン",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 7352,
+    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 7370,
+    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 7388,
+    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 7391,
+    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 7614,
+    "other_brand": "ツインパル輸液（500mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 7616,
+    "other_brand": "ツインラインNF配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 8204,
+    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 8206,
+    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 8879,
+    "other_brand": "トレーランG液50g",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 9436,
+    "other_brand": "ニコペリック腹膜透析液（1500mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 9601,
+    "other_brand": "ネオアミユー輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 9844,
+    "other_brand": "ハルトマン−G3号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 9851,
+    "other_brand": "ハルトマンD液「フソー」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 9898,
+    "other_brand": "バイフィル透析剤",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 10153,
+    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 10154,
+    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 10194,
+    "other_brand": "パレセーフ輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 10195,
+    "other_brand": "パレプラス輸液（500mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 10500,
+    "other_brand": "ビカーボン輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 10760,
+    "other_brand": "ピシバニール注射用1KE",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 10905,
+    "other_brand": "ピーエヌツイン−1号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 11855,
+    "other_brand": "プリミーフォート経腸用液6",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 12013,
+    "other_brand": "プロクトセディル軟膏",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 12219,
+    "other_brand": "ヘパンED配合内用剤",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 12605,
+    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 12613,
+    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 13012,
+    "other_brand": "ボルヒール組織接着用（0.5mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 13292,
+    "other_brand": "ミオテクター冠血管注",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 13356,
+    "other_brand": "ミッドペリック135腹膜透析液1L",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 13369,
+    "other_brand": "ミッドペリックL135腹膜透析液1L",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 13390,
+    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 13895,
+    "other_brand": "メルスモン",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14019,
+    "other_brand": "モリアミンS注",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14020,
+    "other_brand": "モリプロンF輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14192,
+    "other_brand": "ユエキンキープ3号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14295,
+    "other_brand": "ラエンネック",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14312,
+    "other_brand": "ラクトリンゲル液′′フソー′′",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14319,
+    "other_brand": "ラクトリンゲルS注「フソー」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14365,
+    "other_brand": "ラコールNF配合経腸用半固形剤",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14366,
+    "other_brand": "ラコールNF配合経腸用液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14824,
+    "other_brand": "リナセートD輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14826,
+    "other_brand": "リナセートF輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14840,
+    "other_brand": "リハビックス−K1号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14947,
+    "other_brand": "リプラス1号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 14950,
+    "other_brand": "リプラス3号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 15014,
+    "other_brand": "リンゲル液「フソー」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 15046,
+    "other_brand": "リンパック透析剤TA1",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 15047,
+    "other_brand": "リンパック透析剤TA3",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 15048,
+    "other_brand": "リンパック透析剤TA5",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 15138,
+    "other_brand": "レギュニール HCa 1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 15150,
+    "other_brand": "レギュニール LCa 1.5腹膜透析液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 15997,
+    "other_brand": "ワンパル1号輸液（800mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16012,
+    "other_brand": "ヴィーン3G輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16013,
+    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16015,
+    "other_brand": "ヴィーンD輸液（200mL）",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16016,
+    "other_brand": "ヴィーンD輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16018,
+    "other_brand": "ヴィーンF輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16098,
+    "other_brand": "乳糖水和物「ホエイ」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16567,
+    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16572,
+    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16575,
+    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 16948,
+    "other_brand": "白色ワセリン",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17210,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17211,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17212,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17213,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17214,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17215,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17216,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17217,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17218,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17219,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17220,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17221,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17222,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17223,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17224,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17225,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17226,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17227,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17228,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17229,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17230,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17231,
+    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17232,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17233,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17234,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17235,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17236,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17237,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17238,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17239,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17240,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17241,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17242,
+    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17243,
+    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17523,
+    "other_brand": "10%EL−3号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17584,
+    "other_brand": "ACD-A液 250mL",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17585,
+    "other_brand": "AK−ソリタ透析剤・DL",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17586,
+    "other_brand": "AK−ソリタ透析剤・DP",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17587,
+    "other_brand": "AK−ソリタ透析剤・FL",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17588,
+    "other_brand": "AK−ソリタ透析剤・FP",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17602,
+    "other_brand": "Dドライ透析剤2.5S",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17603,
+    "other_brand": "Dドライ透析剤2.75S",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17604,
+    "other_brand": "Dドライ透析剤3.0S",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17614,
+    "other_brand": "EL−3号輸液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17618,
+    "other_brand": "ESポリタミン配合顆粒",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17631,
+    "other_brand": "JMS ACD-A液",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17632,
+    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 17718,
+    "other_brand": "T&Tオルファクトメーター",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン製剤ビグアナイド系薬剤　チアゾリジン系薬剤α-グルコシダーゼ阻害剤　DPP-4阻害薬　GLP-1受容体作動薬　SGLT2阻害剤"
+  },
+  {
+    "other_id": 12408,
+    "other_brand": "ベネシッド錠250mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系薬剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系薬剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系薬剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "クマリン系薬剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 287,
+    "other_brand": "アスピリン「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 290,
+    "other_brand": "アスピリン「ホエイ」",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 291,
+    "other_brand": "アスピリン「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 292,
+    "other_brand": "アスピリン原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 294,
+    "other_brand": "アスピリン腸溶錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 296,
+    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 297,
+    "other_brand": "アスピリン腸溶錠100mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 9890,
+    "other_brand": "バイアスピリン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "サリチル酸剤\nアスピリンサザピリン　等"
+  },
+  {
+    "other_id": 15568,
+    "other_brand": "ロキソプロフェンナトリウムテープ50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15574,
+    "other_brand": "ロキソプロフェンナトリウムパップ100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15576,
+    "other_brand": "ロキソプロフェンナトリウム錠60mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15577,
+    "other_brand": "ロキソプロフェンナトリウム錠60mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15578,
+    "other_brand": "ロキソプロフェン錠60mg「EMEC」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15579,
+    "other_brand": "ロキソプロフェン錠60mg「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15581,
+    "other_brand": "ロキソプロフェンNaゲル1%「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15582,
+    "other_brand": "ロキソプロフェンNaテープ50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15590,
+    "other_brand": "ロキソプロフェンNaテープ50mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15592,
+    "other_brand": "ロキソプロフェンNaテープ50mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15595,
+    "other_brand": "ロキソプロフェンNaテープ50mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15616,
+    "other_brand": "ロキソプロフェンNaパップ100mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15620,
+    "other_brand": "ロキソプロフェンNaパップ100mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15622,
+    "other_brand": "ロキソプロフェンNaパップ100mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15629,
+    "other_brand": "ロキソプロフェンNa錠60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15630,
+    "other_brand": "ロキソプロフェンNa錠60mg「あすか」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15631,
+    "other_brand": "ロキソプロフェンNa錠60mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15633,
+    "other_brand": "ロキソプロフェンNa錠60mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15636,
+    "other_brand": "ロキソプロフェンNa錠60mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15637,
+    "other_brand": "ロキソプロフェンNa錠60mg「三恵」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15638,
+    "other_brand": "ロキソプロフェンNa錠60mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15640,
+    "other_brand": "ロキソプロフェンNa錠60mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15641,
+    "other_brand": "ロキソプロフェンNa錠60mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15642,
+    "other_brand": "ロキソプロフェンNa錠60mg「OHA」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 15926,
+    "other_brand": "ロルノキシカム錠2mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 16552,
+    "other_brand": "氷酢酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 17262,
+    "other_brand": "酢酸「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 17264,
+    "other_brand": "酢酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 17265,
+    "other_brand": "酢酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 17266,
+    "other_brand": "酢酸「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 17269,
+    "other_brand": "酢酸「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 17270,
+    "other_brand": "酢酸「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 4607,
+    "other_brand": "クロフィブラートカプセル250mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラートクロフィブラート　等"
+  },
+  {
+    "other_id": 12273,
+    "other_brand": "ベザフィブラート徐放錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラートクロフィブラート　等"
+  },
+  {
+    "other_id": 12278,
+    "other_brand": "ベザフィブラートSR錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラートクロフィブラート　等"
+  },
+  {
+    "other_id": 12279,
+    "other_brand": "ベザフィブラートSR錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラートクロフィブラート　等"
+  },
+  {
+    "other_id": 12280,
+    "other_brand": "ベザフィブラートSR錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フィブラート系薬剤\nベザフィブラートクロフィブラート　等"
+  },
+  {
+    "other_id": 5641,
+    "other_brand": "シベノール錠50mg",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 5645,
+    "other_brand": "シベンゾリンコハク酸塩錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 10861,
+    "other_brand": "ピメノールカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 14730,
+    "other_brand": "リスモダンカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物"
+  },
+  {
+    "other_id": 4439,
+    "other_brand": "クラリシッド錠200mg",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4440,
+    "other_brand": "クラリシッド錠50mg小児用",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4441,
+    "other_brand": "クラリス錠50小児用",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4442,
+    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4443,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4444,
+    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4447,
+    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4448,
+    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4450,
+    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4451,
+    "other_brand": "クラリスロマイシン錠200㎎「大正」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4452,
+    "other_brand": "クラリスロマイシン錠200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4453,
+    "other_brand": "クラリスロマイシン錠200mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4455,
+    "other_brand": "クラリスロマイシン錠200mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4458,
+    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4460,
+    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4461,
+    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4463,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4467,
+    "other_brand": "クラリス錠200",
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシン"
+  },
+  {
+    "other_id": 4643,
+    "other_brand": "クロマイ腟錠100mg",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4659,
+    "other_brand": "クロラムフェニコール腟錠100mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4702,
+    "other_brand": "クロロマイセチンサクシネート静注用1g",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4703,
+    "other_brand": "クロロマイセチン局所用液5%",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4704,
+    "other_brand": "クロロマイセチン耳科用液0.5%",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4705,
+    "other_brand": "クロロマイセチン軟膏2％",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 4706,
+    "other_brand": "クロロマイセチン錠50",
+    "interaction_type": "caution",
+    "source_text": "クロラムフェニコール"
+  },
+  {
+    "other_id": 133,
+    "other_brand": "アクロマイシン末",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 13419,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 13420,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 13422,
+    "other_brand": "ミノサイクリン塩酸塩錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 13426,
+    "other_brand": "ミノサイクリン塩酸塩顆粒2％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 13443,
+    "other_brand": "ミノマイシンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 13445,
+    "other_brand": "ミノマイシン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 13446,
+    "other_brand": "ミノマイシン顆粒2％",
+    "interaction_type": "caution",
+    "source_text": "テトラサイクリン系抗生物質\nテトラサイクリン塩酸塩ミノサイクリン塩酸塩　等"
+  },
+  {
+    "other_id": 4430,
+    "other_brand": "クラビット点滴静注バッグ500mg/100mL",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 4434,
+    "other_brand": "クラビット錠250mg",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 5245,
+    "other_brand": "コムレクス耳科用液1.5％",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 5631,
+    "other_brand": "シプロキサン注200mg",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 5637,
+    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15419,
+    "other_brand": "レボフロキサシン点滴静注バッグ500mg「HK」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15420,
+    "other_brand": "レボフロキサシン点滴静注バッグ500mg「KCC」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15421,
+    "other_brand": "レボフロキサシン点滴静注バッグ500mg/100mL「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15423,
+    "other_brand": "レボフロキサシン点眼液0.5％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15424,
+    "other_brand": "レボフロキサシン点眼液0.5％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15428,
+    "other_brand": "レボフロキサシン点眼液0.5％「日新」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15430,
+    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15431,
+    "other_brand": "レボフロキサシン点眼液0.5％「科研」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15432,
+    "other_brand": "レボフロキサシン点眼液0.5％「FFP」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15435,
+    "other_brand": "レボフロキサシン点眼液0.5％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15436,
+    "other_brand": "レボフロキサシン点眼液1.5％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15437,
+    "other_brand": "レボフロキサシン点眼液1.5%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15441,
+    "other_brand": "レボフロキサシン点眼液1.5％「日新」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15443,
+    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15445,
+    "other_brand": "レボフロキサシン点眼液1.5％「科研」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15449,
+    "other_brand": "レボフロキサシン点眼液1.5％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15450,
+    "other_brand": "レボフロキサシン粒状錠250mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15452,
+    "other_brand": "レボフロキサシン錠250mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15453,
+    "other_brand": "レボフロキサシン錠250mg「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15455,
+    "other_brand": "レボフロキサシン錠250mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15456,
+    "other_brand": "レボフロキサシン錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15457,
+    "other_brand": "レボフロキサシン錠250mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15459,
+    "other_brand": "レボフロキサシン錠250mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15461,
+    "other_brand": "レボフロキサシン錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 15465,
+    "other_brand": "レボフロキサシン錠250mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "シプロフロキサシンレボフロキサシン水和物"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11555,
+    "other_brand": "フロリードゲル経口用2%",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 11559,
+    "other_brand": "フロリードF注200mg",
+    "interaction_type": "caution",
+    "source_text": "アゾール系抗真菌剤\nミコナゾールフルコナゾール　等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン"
+  },
+  {
+    "other_id": 5299,
+    "other_brand": "コートリル錠10mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン製剤\nコルチゾン酢酸エステルヒドロコルチゾン　等"
+  },
+  {
+    "other_id": 5302,
+    "other_brand": "コートン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ホルモン製剤\nコルチゾン酢酸エステルヒドロコルチゾン　等"
+  },
+  {
+    "other_id": 7594,
+    "other_brand": "チラーヂンS散0.01％",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物乾燥甲状腺　等"
+  },
+  {
+    "other_id": 7595,
+    "other_brand": "チラーヂンS錠12.5μg",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物乾燥甲状腺　等"
+  },
+  {
+    "other_id": 7600,
+    "other_brand": "チラーヂンS静注液200μg",
+    "interaction_type": "caution",
+    "source_text": "甲状腺ホルモン製剤\nレボチロキシンナトリウム水和物乾燥甲状腺　等"
+  },
+  {
+    "other_id": 2381,
+    "other_brand": "エストラジオール錠0.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 2386,
+    "other_brand": "エストリオール錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 2387,
+    "other_brand": "エストリール腟錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 2388,
+    "other_brand": "エストリール錠100γ",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 6058,
+    "other_brand": "ジュリナ錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 12898,
+    "other_brand": "ホーリン錠1mg",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 12899,
+    "other_brand": "ホーリンV腟用錠1mg",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 16321,
+    "other_brand": "安息香酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "卵胞ホルモン製剤\nエストラジオール安息香酸エステルエストリオール　等"
+  },
+  {
+    "other_id": 8791,
+    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 8792,
+    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 11358,
+    "other_brand": "フルイトラン錠1mg",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "利尿剤\nトリクロルメチアジドフロセミド　等"
+  },
+  {
+    "other_id": 10866,
+    "other_brand": "ピラマイド原末",
+    "interaction_type": "caution",
+    "source_text": "ピラジナミド"
+  },
+  {
+    "other_id": 1562,
+    "other_brand": "イスコチン原末",
+    "interaction_type": "caution",
+    "source_text": "イソニアジド"
+  },
+  {
+    "other_id": 1563,
+    "other_brand": "イスコチン注100mg",
+    "interaction_type": "caution",
+    "source_text": "イソニアジド"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン"
+  },
+  {
+    "other_id": 9432,
+    "other_brand": "ニコチネルTTS30",
+    "interaction_type": "caution",
+    "source_text": "ニコチン酸"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 11577,
+    "other_brand": "ブセレリン点鼻液0.15%「F」",
+    "interaction_type": "caution",
+    "source_text": "ブセレリン酢酸塩"
+  }
+]

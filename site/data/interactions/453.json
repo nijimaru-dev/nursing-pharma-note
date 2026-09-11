@@ -1,0 +1,1370 @@
+[
+  {
+    "other_id": 67,
+    "other_brand": "アイベータ配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 68,
+    "other_brand": "アイベータ配合点眼液（添加剤にベンザルコニウム塩化物を含む、使用期限2028年5月まで）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 79,
+    "other_brand": "アウィクリ注 フレックスタッチ 総量300単位",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 282,
+    "other_brand": "アスパラカリウム注10mEq",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤\nスピロノラクトン、トリアムテレン等\nアンジオテンシン変換酵素阻害剤\nイミダプリル塩酸塩、カプトプリル、エナラプリルマレイン酸塩等\nアンジオテンシンⅡ受容体拮抗剤\nロサルタンカリウム、カンデサルタンシレキセチル、バルサルタン等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nβ遮断剤\nプロプラノロール、アテノロール、ピンドロール等\nシクロスポリン\nヘパリン\nジゴキシン\nトルバプタン"
+  },
+  {
+    "other_id": 281,
+    "other_brand": "アスパラカリウム錠300mg",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤\nスピロノラクトン、トリアムテレン等\nアンジオテンシン変換酵素阻害剤\nイミダプリル塩酸塩、カプトプリル、エナラプリルマレイン酸塩等\nアンジオテンシンⅡ受容体拮抗剤\nロサルタンカリウム、カンデサルタンシレキセチル、バルサルタン等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nβ遮断剤\nプロプラノロール、アテノロール、ピンドロール等\nシクロスポリン\nヘパリン\nジゴキシン\nトルバプタン"
+  },
+  {
+    "other_id": 284,
+    "other_brand": "アスパラギン酸カリウム注10mEqキット「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤\nスピロノラクトン、トリアムテレン等\nアンジオテンシン変換酵素阻害剤\nイミダプリル塩酸塩、カプトプリル、エナラプリルマレイン酸塩等\nアンジオテンシンⅡ受容体拮抗剤\nロサルタンカリウム、カンデサルタンシレキセチル、バルサルタン等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nβ遮断剤\nプロプラノロール、アテノロール、ピンドロール等\nシクロスポリン\nヘパリン\nジゴキシン\nトルバプタン"
+  },
+  {
+    "other_id": 285,
+    "other_brand": "アスパラ注射液",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤\nスピロノラクトン、トリアムテレン等\nアンジオテンシン変換酵素阻害剤\nイミダプリル塩酸塩、カプトプリル、エナラプリルマレイン酸塩等\nアンジオテンシンⅡ受容体拮抗剤\nロサルタンカリウム、カンデサルタンシレキセチル、バルサルタン等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nβ遮断剤\nプロプラノロール、アテノロール、ピンドロール等\nシクロスポリン\nヘパリン\nジゴキシン\nトルバプタン"
+  },
+  {
+    "other_id": 407,
+    "other_brand": "アゾルガ配合懸濁性点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール\nプロプラノロール塩酸塩\nメトプロロール"
+  },
+  {
+    "other_id": 430,
+    "other_brand": "アダラートCR錠10mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 7560,
+    "other_brand": "チモダイコーM",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 7673,
+    "other_brand": "ツムラの生薬チモ",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 8612,
+    "other_brand": "トチモトのチモ",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 9277,
+    "other_brand": "ナカジマ　チモ",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 12828,
+    "other_brand": "ホリエ　チモK",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 14173,
+    "other_brand": "ヤマダのチモA",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 16389,
+    "other_brand": "小島知母M",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 17135,
+    "other_brand": "花扇チモK",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 17437,
+    "other_brand": "高砂チモM",
+    "interaction_type": "caution",
+    "source_text": "交感神経系に対し抑制的に作用する他の薬剤\nβ遮断剤（チモロール等の点眼剤を含む）等"
+  },
+  {
+    "other_id": 9512,
+    "other_brand": "ニフェジピンカプセル5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 9514,
+    "other_brand": "ニフェジピンカプセル5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 9517,
+    "other_brand": "ニフェジピンCR錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 9522,
+    "other_brand": "ニフェジピンCR錠10mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 9535,
+    "other_brand": "ニフェジピンL錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 9539,
+    "other_brand": "ニフェジピンL錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 9540,
+    "other_brand": "ニフェジピンL錠10mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 9541,
+    "other_brand": "ニフェジピンL錠10mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン等"
+  },
+  {
+    "other_id": 14730,
+    "other_brand": "リスモダンカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "クラスⅠ抗不整脈剤\nジソピラミドプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロン等"
+  },
+  {
+    "other_id": 6599,
+    "other_brand": "セボフルラン吸入麻酔液「ニッコー」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 6600,
+    "other_brand": "セボフルラン吸入麻酔液「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 6601,
+    "other_brand": "セボフレン吸入麻酔液",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス製剤"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス製剤"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス製剤"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス製剤"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス製剤"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス製剤"
+  },
+  {
+    "other_id": 1658,
+    "other_brand": "イドメシンコーワゲル1％",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性抗炎症剤\nインドメタシン等"
+  },
+  {
+    "other_id": 1920,
+    "other_brand": "インドメタシンクリーム1％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性抗炎症剤\nインドメタシン等"
+  },
+  {
+    "other_id": 1922,
+    "other_brand": "インドメタシンパップ70mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性抗炎症剤\nインドメタシン等"
+  },
+  {
+    "other_id": 1924,
+    "other_brand": "インドメタシン坐剤12.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性抗炎症剤\nインドメタシン等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン等"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン等"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン等"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "交感神経刺激剤\nアドレナリン等"
+  },
+  {
+    "other_id": 672,
+    "other_brand": "アピドラ注カート",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 673,
+    "other_brand": "アピドラ注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 674,
+    "other_brand": "アピドラ注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 718,
+    "other_brand": "アマリール0.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 783,
+    "other_brand": "アミサリン注100mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nビソプロロールフマル酸塩、カルベジロール、アテノロール 等"
+  },
+  {
+    "other_id": 785,
+    "other_brand": "アミサリン錠125mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nビソプロロールフマル酸塩、カルベジロール、アテノロール 等"
+  },
+  {
+    "other_id": 1775,
+    "other_brand": "イムセラカプセル0.5mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロール等\nカルシウム拮抗薬\nベラパミルジルチアゼム等"
+  },
+  {
+    "other_id": 1894,
+    "other_brand": "インスリン　アスパルトBS注カート NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 1895,
+    "other_brand": "インスリン　アスパルトBS注ソロスター NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 1896,
+    "other_brand": "インスリン　アスパルトBS注100単位/mL NR「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 1898,
+    "other_brand": "インスリン グラルギンBS注キット「FFP」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 1897,
+    "other_brand": "インスリン　グラルギンBS注カート「リリー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩\n等"
+  },
+  {
+    "other_id": 1900,
+    "other_brand": "インスリン　リスプロBS注カート　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 1902,
+    "other_brand": "インスリン　リスプロBS注100単位/mL　HU「サノフィ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 1910,
+    "other_brand": "インテバン坐剤25",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nメトプロロール酒石酸塩等\nACE阻害剤\nエナラプリルマレイン酸塩\nデラプリル塩酸塩\nイミダプリル塩酸塩等\nA-II受容体拮抗剤\nロサルタンカリウム\nカンデサルタン シレキセチル\nバルサルタン等"
+  },
+  {
+    "other_id": 1925,
+    "other_brand": "インドメタシン坐剤25「NP」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nメトプロロール酒石酸塩等\nACE阻害剤\nエナラプリルマレイン酸塩\nデラプリル塩酸塩\nイミダプリル塩酸塩等\nA-II受容体拮抗剤\nロサルタンカリウム\nカンデサルタン シレキセチル\nバルサルタン等"
+  },
+  {
+    "other_id": 1933,
+    "other_brand": "インフリーカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nメトプロロール酒石酸塩等\nACE阻害剤\nエナラプリルマレイン酸塩\nデラプリル塩酸塩\nイミダプリル塩酸塩等\nA-II受容体拮抗剤\nロサルタンカリウム\nカンデサルタン シレキセチル\nバルサルタン等\nチアジド系及びその類似降圧利尿剤\nヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 2543,
+    "other_brand": "エドルミズ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 3563,
+    "other_brand": "オーキシス9µgタービュヘイラー28吸入",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 4126,
+    "other_brand": "ガランタミンOD錠4mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4127,
+    "other_brand": "ガランタミンOD錠4mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4128,
+    "other_brand": "ガランタミンOD錠4mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4131,
+    "other_brand": "ガランタミンOD錠4mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4132,
+    "other_brand": "ガランタミンOD錠4mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4133,
+    "other_brand": "ガランタミンOD錠4mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4134,
+    "other_brand": "ガランタミンOD錠4mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4135,
+    "other_brand": "ガランタミンOD錠4mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 4270,
+    "other_brand": "キーンス配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 4843,
+    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4846,
+    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4848,
+    "other_brand": "グリメピリド錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4849,
+    "other_brand": "グリメピリド錠0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4850,
+    "other_brand": "グリメピリド錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4851,
+    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4852,
+    "other_brand": "グリメピリド錠0.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4853,
+    "other_brand": "グリメピリド錠0.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4854,
+    "other_brand": "グリメピリド錠0.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4855,
+    "other_brand": "グリメピリド錠0.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4856,
+    "other_brand": "グリメピリド錠0.5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4857,
+    "other_brand": "グリメピリド錠0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4858,
+    "other_brand": "グリメピリド錠0.5mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4859,
+    "other_brand": "グリメピリド錠0.5mg「NC」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4860,
+    "other_brand": "グリメピリド錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4861,
+    "other_brand": "グリメピリド錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4862,
+    "other_brand": "グリメピリド錠0.5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4863,
+    "other_brand": "グリメピリド錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4864,
+    "other_brand": "グリメピリド錠0.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4865,
+    "other_brand": "グリメピリド錠0.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4912,
+    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4913,
+    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4914,
+    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nピンドロール　等"
+  },
+  {
+    "other_id": 4926,
+    "other_brand": "グルカゴンGノボ注射用1mg（添付溶解液あり）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール\n,"
+  },
+  {
+    "other_id": 4927,
+    "other_brand": "グルカゴンGノボ注射用1mg（添付溶解液なし）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール\n,"
+  },
+  {
+    "other_id": 4934,
+    "other_brand": "グルコンサンK錠5mEq",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン等\nβ遮断剤\nアテノロール\nビソプロロールフマル酸塩等\nシクロスポリン\nヘパリン\nジゴキシン"
+  },
+  {
+    "other_id": 5060,
+    "other_brand": "ケンブラン吸入粉末溶解用100㎎",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬  ビソプロロール  アテノロール  メトプロロール等"
+  },
+  {
+    "other_id": 5118,
+    "other_brand": "コソプト配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 5510,
+    "other_brand": "ザラカム配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 5584,
+    "other_brand": "シグニフォーLAR筋注用キット10mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等\nカルシウム拮抗剤\nベラパミル、ジルチアゼム等\n水分や電解質を補正する薬剤"
+  },
+  {
+    "other_id": 5652,
+    "other_brand": "シムビコートタービュヘイラー30吸入",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 5881,
+    "other_brand": "ジギラノゲン注0.4mg",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nカルベジロール等"
+  },
+  {
+    "other_id": 5962,
+    "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 5963,
+    "other_brand": "ジソピラミド徐放錠150mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 5964,
+    "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 6103,
+    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6104,
+    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6108,
+    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6107,
+    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6110,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6111,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6112,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6116,
+    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 6155,
+    "other_brand": "ジレニアカプセル0.5mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロール等\nカルシウム拮抗薬\nベラパミルジルチアゼム等"
+  },
+  {
+    "other_id": 6454,
+    "other_brand": "セパミット−R細粒2％",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール\nアセブトロール塩酸塩\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 6455,
+    "other_brand": "セパミット細粒1%",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール\nアセブトロール塩酸塩\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 6851,
+    "other_brand": "ソリクア配合注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 7005,
+    "other_brand": "ゾルトファイ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩アテノロールピンドロール"
+  },
+  {
+    "other_id": 7237,
+    "other_brand": "タフチモ配合点眼液「日点」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7240,
+    "other_brand": "タフチモ配合点眼液「NIT」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7250,
+    "other_brand": "タプコム配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7561,
+    "other_brand": "チモプトール点眼液0.25％",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7563,
+    "other_brand": "チモプトールXE点眼液0.25%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7565,
+    "other_brand": "チモロール点眼液0.25％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7566,
+    "other_brand": "チモロール点眼液0.25%「テイカ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7567,
+    "other_brand": "チモロール点眼液0.25％「ニッテン」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7568,
+    "other_brand": "チモロール点眼液0.25％「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7569,
+    "other_brand": "チモロール点眼液0.25％「日新」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7575,
+    "other_brand": "チモロールPF点眼液0.25％「日点」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7577,
+    "other_brand": "チモロールXE点眼液0.25%「センジュ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7578,
+    "other_brand": "チモロールXE点眼液0.25％「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7579,
+    "other_brand": "チモロールXE点眼液0.25％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7580,
+    "other_brand": "チモロールXE点眼液0.25%「TS」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 8320,
+    "other_brand": "デュオトラバ配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール\nプロプラノロール塩酸塩\nメトプロロール"
+  },
+  {
+    "other_id": 8724,
+    "other_brand": "トラチモ配合点眼液「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール\nプロプラノロール塩酸塩\nメトプロロール"
+  },
+  {
+    "other_id": 8861,
+    "other_brand": "トレシーバ注　フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール"
+  },
+  {
+    "other_id": 8862,
+    "other_brand": "トレシーバ注　ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール"
+  },
+  {
+    "other_id": 9147,
+    "other_brand": "ドルモロール配合点眼液「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9148,
+    "other_brand": "ドルモロール配合点眼液「センジュ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9149,
+    "other_brand": "ドルモロール配合点眼液「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9150,
+    "other_brand": "ドルモロール配合点眼液「日点」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9153,
+    "other_brand": "ドルモロール配合点眼液「TS」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9518,
+    "other_brand": "ニフェジピンCR錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9519,
+    "other_brand": "ニフェジピンCR錠10mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9520,
+    "other_brand": "ニフェジピンCR錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9521,
+    "other_brand": "ニフェジピンCR錠10mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9537,
+    "other_brand": "ニフェジピンL錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9538,
+    "other_brand": "ニフェジピンL錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール、アセブトロール塩酸塩、プロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9551,
+    "other_brand": "ニプラジロール点眼液0.25％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9552,
+    "other_brand": "ニプラジロール点眼液0.25％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9553,
+    "other_brand": "ニプラジロール点眼液0.25％「ニッテン」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9554,
+    "other_brand": "ニプラジロール点眼液0.25％「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9555,
+    "other_brand": "ニプラジロールPF点眼液0.25％「日点」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9556,
+    "other_brand": "ニプラノール点眼液0.25%",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9724,
+    "other_brand": "ノボラピッド注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール"
+  },
+  {
+    "other_id": 9726,
+    "other_brand": "ノボラピッド注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール"
+  },
+  {
+    "other_id": 9727,
+    "other_brand": "ノボラピッド注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール"
+  },
+  {
+    "other_id": 9728,
+    "other_brand": "ノボラピッド30ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤　プロプラノロール塩酸塩　アテノロール　ピンドロール"
+  },
+  {
+    "other_id": 9729,
+    "other_brand": "ノボラピッド30ミックス注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤　プロプラノロール塩酸塩　アテノロール　ピンドロール"
+  },
+  {
+    "other_id": 9730,
+    "other_brand": "ノボラピッド50ミックス注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール"
+  },
+  {
+    "other_id": 9731,
+    "other_brand": "ノボリン30R注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 9732,
+    "other_brand": "ノボリンN注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 9733,
+    "other_brand": "ノボリンR注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 9734,
+    "other_brand": "ノボリンR注フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 9799,
+    "other_brand": "ハイパジールコーワ点眼液0.25％",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9903,
+    "other_brand": "バクスミー点鼻粉末剤3mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nビソプロロールフマル酸塩カルベジロールアテノロール等"
+  },
+  {
+    "other_id": 10427,
+    "other_brand": "ヒューマリン3/7注カート",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10429,
+    "other_brand": "ヒューマリン3/7注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10430,
+    "other_brand": "ヒューマリンN注カート",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10432,
+    "other_brand": "ヒューマリンN注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10433,
+    "other_brand": "ヒューマリンR注カート",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10435,
+    "other_brand": "ヒューマリンR注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10436,
+    "other_brand": "ヒューマログミックス25注カート",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10438,
+    "other_brand": "ヒューマログミックス50注カート",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10440,
+    "other_brand": "ヒューマログ注カート",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10443,
+    "other_brand": "ヒューマログ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 10605,
+    "other_brand": "ビベスピエアロスフィア120吸入",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10673,
+    "other_brand": "ビレーズトリエアロスフィア56吸入",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 10675,
+    "other_brand": "ビレーズトリ7.2エアロスフィア56吸入",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 11032,
+    "other_brand": "フィアスプ注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 11034,
+    "other_brand": "フィアスプ注 100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 11082,
+    "other_brand": "フィンゴリモドカプセル0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロール等\nカルシウム拮抗薬\nベラパミルジルチアゼム等"
+  },
+  {
+    "other_id": 11083,
+    "other_brand": "フィンゴリモドカプセル0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロール等\nカルシウム拮抗薬\nベラパミルジルチアゼム等"
+  },
+  {
+    "other_id": 11463,
+    "other_brand": "フルティフォーム50エアゾール56吸入用",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 11586,
+    "other_brand": "ブデホル吸入粉末剤30吸入「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 11587,
+    "other_brand": "ブデホル吸入粉末剤30吸入「JG」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 11588,
+    "other_brand": "ブデホル吸入粉末剤30吸入「MYL」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 11633,
+    "other_brand": "ブリカニールシロップ0.5mg/mL",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（β\n1\n選択性）\nアテノロール、塩酸セリプロロール、ビソプロロールフマル酸塩等"
+  },
+  {
+    "other_id": 11634,
+    "other_brand": "ブリカニール錠2mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（β\n1\n選択性）\nアテノロール、塩酸セリプロロール、ビソプロロールフマル酸塩等"
+  },
+  {
+    "other_id": 12098,
+    "other_brand": "プロボコリン吸入粉末溶解用100mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬  ビソプロロール  アテノロール  メトプロロール等"
+  },
+  {
+    "other_id": 12242,
+    "other_brand": "ヘルベッサー注射用250",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 12241,
+    "other_brand": "ヘルベッサー注射用10",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 12244,
+    "other_brand": "ヘルベッサー錠30",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 12246,
+    "other_brand": "ヘルベッサーRカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤（ビソプロロールフマル酸塩、プロプラノロール塩酸塩、アテノロール等）"
+  },
+  {
+    "other_id": 12483,
+    "other_brand": "ベルスピティ錠2mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール等\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 13654,
+    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩アテノロールカルベジロール　等\n,\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 13935,
+    "other_brand": "メーゼント錠0.25mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロール\nプロプラノロール等\n,\n,\n,"
+  },
+  {
+    "other_id": 14292,
+    "other_brand": "ライゾデグ配合注 フレックスタッチ",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤  プロプラノロール塩酸塩  アテノロール  ピンドロール"
+  },
+  {
+    "other_id": 14386,
+    "other_brand": "ラタチモ配合点眼液「センジュ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14387,
+    "other_brand": "ラタチモ配合点眼液「ニッテン」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14390,
+    "other_brand": "ラタチモ配合点眼液「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14391,
+    "other_brand": "ラタチモ配合点眼液「TS」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14392,
+    "other_brand": "ラタチモ配合点眼液「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14591,
+    "other_brand": "ランタス注カート",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 14592,
+    "other_brand": "ランタス注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 14593,
+    "other_brand": "ランタス注100単位／mL",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 14594,
+    "other_brand": "ランタスXR注ソロスター",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール\nセリプロロール塩酸塩　等"
+  },
+  {
+    "other_id": 14597,
+    "other_brand": "ランツジールコーワ錠30mg",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロールアテノロールピンドロール等\nACE阻害剤\nエナラプリルカプトプリルリシノプリル等"
+  },
+  {
+    "other_id": 14732,
+    "other_brand": "リスモダンR錠150mg",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nアテノロール等"
+  },
+  {
+    "other_id": 14734,
+    "other_brand": "リズモンTG点眼液0.25％",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール、プロプラノロール塩酸塩、メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 14735,
+    "other_brand": "リズモンTG点眼液0.25%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール、プロプラノロール塩酸塩、メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 15101,
+    "other_brand": "ルムジェブ注カート",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 15104,
+    "other_brand": "ルムジェブ注100単位/mL",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nプロプラノロール塩酸塩\nアテノロール\nピンドロール"
+  },
+  {
+    "other_id": 15332,
+    "other_brand": "レベミル注 フレックスペン",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 15333,
+    "other_brand": "レベミル注 ペンフィル",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤   プロプラノロール塩酸塩   アテノロール   ピンドロール"
+  },
+  {
+    "other_id": 15480,
+    "other_brand": "レボブノロール塩酸塩点眼液0.5%「ニッテン」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール\nプロプラノロール塩酸塩\nメトプロロール等"
+  },
+  {
+    "other_id": 15481,
+    "other_brand": "レボブノロール塩酸塩PF点眼液0.5%「日点」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール\nプロプラノロール塩酸塩\nメトプロロール等"
+  },
+  {
+    "other_id": 15505,
+    "other_brand": "レミニール錠4mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+  },
+  {
+    "other_id": 17668,
+    "other_brand": "K.C.L.エリキシル（10w/v%）",
+    "interaction_type": "caution",
+    "source_text": "抗アルドステロン剤\nスピロノラクトン等\nカリウム保持性利尿剤\nトリアムテレン等\n直接的レニン阻害剤\nアリスキレン\nアンジオテンシン変換酵素阻害剤\nベナゼプリル塩酸塩、カプトプリル、エナラプリル等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタン、ロサルタンカリウム、カンデサルタンシレキセチル、テルミサルタン等\nβ-遮断剤\nプロプラノロール、アテノロール、ピンドロール等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nシクロスポリン\nヘパリン\nジゴキシン\nドロスピレノン・エチニルエストラジオール　ベータデクス\nトルバプタン"
+  },
+  {
+    "other_id": 17669,
+    "other_brand": "K.C.L.点滴液15%",
+    "interaction_type": "caution",
+    "source_text": "抗アルドステロン剤\nスピロノラクトン等\nカリウム保持性利尿剤\nトリアムテレン等\n直接的レニン阻害剤\nアリスキレン\nアンジオテンシン変換酵素阻害剤\nベナゼプリル塩酸塩、カプトプリル、エナラプリル等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタン、ロサルタンカリウム、カンデサルタンシレキセチル、テルミサルタン等\nβ-遮断剤\nプロプラノロール、アテノロール、ピンドロール等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nシクロスポリン\nヘパリン\nジゴキシン\nドロスピレノン・エチニルエストラジオール　ベータデクス\nトルバプタン"
+  },
+  {
+    "other_id": 17682,
+    "other_brand": "L−アスパラギン酸カリウム点滴静注液10mEq「日新」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤\nスピロノラクトン、トリアムテレン等\nアンジオテンシン変換酵素阻害剤\nイミダプリル塩酸塩、カプトプリル、エナラプリルマレイン酸塩等\nアンジオテンシンⅡ受容体拮抗剤\nロサルタンカリウム、カンデサルタンシレキセチル、バルサルタン等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nβ遮断剤\nプロプラノロール、アテノロール、ピンドロール等\nシクロスポリン\nヘパリン\nジゴキシン\nトルバプタン"
+  },
+  {
+    "other_id": 17685,
+    "other_brand": "L−アスパラギン酸K点滴静注液10mEq「NIG」",
+    "interaction_type": "caution",
+    "source_text": "カリウム保持性利尿剤\nスピロノラクトン、トリアムテレン等\nアンジオテンシン変換酵素阻害剤\nイミダプリル塩酸塩、カプトプリル、エナラプリルマレイン酸塩等\nアンジオテンシンⅡ受容体拮抗剤\nロサルタンカリウム、カンデサルタンシレキセチル、バルサルタン等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nβ遮断剤\nプロプラノロール、アテノロール、ピンドロール等\nシクロスポリン\nヘパリン\nジゴキシン\nトルバプタン"
+  }
+]

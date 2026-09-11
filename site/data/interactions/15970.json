@@ -1,0 +1,26 @@
+[
+  {
+    "other_id": 3134,
+    "other_brand": "オビソート注射用0.1g",
+    "interaction_type": "caution",
+    "source_text": "コリンエステラーゼ阻害薬\nネオスチグミンメチル硫酸塩等"
+  },
+  {
+    "other_id": 15516,
+    "other_brand": "レラキシン注用200mg",
+    "interaction_type": "contraindicated",
+    "source_text": "脱分極性筋弛緩剤スキサメトニウム塩化物水和物\nスキサメトニウム、レラキシン"
+  },
+  {
+    "other_id": 585,
+    "other_brand": "アトロピン注0.05%シリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "副交感神経抑制剤\nアトロピン硫酸塩水和物、スコポラミン臭化水素酸塩水和物、ブトロピウム臭化物等"
+  },
+  {
+    "other_id": 586,
+    "other_brand": "アトロピン硫酸塩水和物「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "副交感神経抑制剤\nアトロピン硫酸塩水和物、スコポラミン臭化水素酸塩水和物、ブトロピウム臭化物等"
+  }
+]

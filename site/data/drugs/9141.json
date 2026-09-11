@@ -1,0 +1,37 @@
+{
+  "id": 9141,
+  "brand_name": "ドラマミン錠50mg",
+  "generic_name": "ジメンヒドリナート錠",
+  "therapeutic_classification": "鎮暈・鎮吐剤",
+  "indications": "〇下記の疾患又は状態に伴う悪心・嘔吐・眩暈動揺病、メニエール症候群、放射線宿酔\n〇手術後の悪心・嘔吐",
+  "dose_admin": "ジメンヒドリナートとして、通常、成人1回50mg（1錠）を1日3～4回経口投与する。\n予防のためには、その30分から1時間前に1回50～100mg（1～2錠）を経口投与する。ただし原則として1日200mg（4錠）を超えないこと。\nなお、年齢、症状により適宜増減する。",
+  "contraindications": "モノアミン酸化酵素阻害剤を使用中の患者\nジフェニルメタン系薬剤（ジメンヒドリナート、塩酸メクリジン等）に対し過敏症の既往歴の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "相互に作用を増強する",
+    "これらの薬剤による難聴を不可逆状態にすることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤\nセレギリン塩酸塩（エフピー）\nラサギリンメシル酸塩（アジレクト）\nサフィナミドメシル酸塩（エクフィナ）",
+      "clinical_symptom_action": "本剤の抗コリン作用が持続・増強される。",
+      "mechanism_risk_factor": "モノアミン酸化酵素阻害剤が本剤の代謝速度を遅らせることによる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\nバルビツール酸誘導体\n麻酔剤等\nアルコール",
+      "clinical_symptom_action": "相互に作用を増強する。",
+      "mechanism_risk_factor": "抗ヒスタミン薬は全ての中枢神経抑制剤の鎮静作用を増強し、また、中枢神経抑制剤及びアルコールは抗ヒスタミン薬の中枢抑制作用を増強することによる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "第8脳神経障害を起こすおそれのあるアミノ糖系抗生物質\nストレプトマイシン\nカナマイシン等",
+      "clinical_symptom_action": "これらの薬剤による難聴を不可逆状態にすることがある。",
+      "mechanism_risk_factor": "アミノ糖系抗生物質の耳障害症状を不顕性化することによる。"
+    }
+  ],
+  "facility_notes": ""
+}

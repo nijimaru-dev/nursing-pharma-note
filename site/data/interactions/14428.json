@@ -1,0 +1,356 @@
+[
+  {
+    "other_id": 476,
+    "other_brand": "アデカット7.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "mTOR阻害剤\nシロリムス等"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nドセタキセル水和物\nエベロリムステムシロリムスゲフィチニブダサチニブエルロチニブラパチニブボルテゾミブイマチニブスニチニブ\nボスチニブ\nカバジタキセル\nセリチニブ\nクリゾチニブ\nシロリムス（錠）\nパノビノスタット\nポナチニブ\nルキソリチニブ\nアパルタミド\nトレチノイン（カプセル）\nペミガチニブ\nエヌトレクチニブ"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nドセタキセル水和物\nエベロリムステムシロリムスゲフィチニブダサチニブエルロチニブラパチニブボルテゾミブイマチニブスニチニブ\nボスチニブ\nカバジタキセル\nセリチニブ\nクリゾチニブ\nシロリムス（錠）\nパノビノスタット\nポナチニブ\nルキソリチニブ\nアパルタミド\nトレチノイン（カプセル）\nペミガチニブ\nエヌトレクチニブ"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nドセタキセル水和物\nエベロリムステムシロリムスゲフィチニブダサチニブエルロチニブラパチニブボルテゾミブイマチニブスニチニブ\nボスチニブ\nカバジタキセル\nセリチニブ\nクリゾチニブ\nシロリムス（錠）\nパノビノスタット\nポナチニブ\nルキソリチニブ\nアパルタミド\nトレチノイン（カプセル）\nペミガチニブ\nエヌトレクチニブ"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nドセタキセル水和物\nエベロリムステムシロリムスゲフィチニブダサチニブエルロチニブラパチニブボルテゾミブイマチニブスニチニブ\nボスチニブ\nカバジタキセル\nセリチニブ\nクリゾチニブ\nシロリムス（錠）\nパノビノスタット\nポナチニブ\nルキソリチニブ\nアパルタミド\nトレチノイン（カプセル）\nペミガチニブ\nエヌトレクチニブ"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nドセタキセル水和物\nエベロリムステムシロリムスゲフィチニブダサチニブエルロチニブラパチニブボルテゾミブイマチニブスニチニブ\nボスチニブ\nカバジタキセル\nセリチニブ\nクリゾチニブ\nシロリムス（錠）\nパノビノスタット\nポナチニブ\nルキソリチニブ\nアパルタミド\nトレチノイン（カプセル）\nペミガチニブ\nエヌトレクチニブ"
+  },
+  {
+    "other_id": 1776,
+    "other_brand": "イムデトラ点滴静注用1mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いCYP基質カルバマゼピン、キニジン、シロリムス等"
+  },
+  {
+    "other_id": 2881,
+    "other_brand": "エルレフィオ皮下注44mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いCYP基質\nシクロスポリン、フェニトイン、シロリムス等"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nイリノテカンイマチニブゲフィチニブソラフェニブスニチニブダサチニブニロチニブラパチニブトレミフェンタミバロテンテムシロリムスアキシチニブセリチニブオシメルチニブパルボシクリブイブルチニブポナチニブアカラブルチニブカプマチニブダロルタミド"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nイリノテカンイマチニブゲフィチニブソラフェニブスニチニブダサチニブニロチニブラパチニブトレミフェンタミバロテンテムシロリムスアキシチニブセリチニブオシメルチニブパルボシクリブイブルチニブポナチニブアカラブルチニブカプマチニブダロルタミド"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nタクロリムス水和物\nエベロリムス\nシロリムス"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nタクロリムス水和物\nエベロリムス\nシロリムス"
+  },
+  {
+    "other_id": 4515,
+    "other_brand": "クレセンバカプセル40mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aにより代謝される薬剤\n免疫抑制剤\nタクロリムス、シロリムス、シクロスポリン\nミダゾラムフェンタニルベネトクラクスメチルプレドニゾロンデキサメタゾンシンバスタチンアムロジピン等"
+  },
+  {
+    "other_id": 4517,
+    "other_brand": "クレセンバ点滴静注用200mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aにより代謝される薬剤\n免疫抑制剤\nタクロリムス、シロリムス、シクロスポリン\nミダゾラムフェンタニルベネトクラクスメチルプレドニゾロンデキサメタゾンシンバスタチンアムロジピン等"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nタクロリムス水和物\nテムシロリムス"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 5557,
+    "other_brand": "シクロスポリンカプセル10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 5563,
+    "other_brand": "シクロスポリンカプセル10mg「TC」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンタクロリムスシロリムステムシロリムス"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nドセタキセル\nエベロリムス\nテムシロリムス\nゲフィチニブ\nダサチニブ水和物\nエルロチニブ塩酸塩\nラパチニブトシル酸塩水和物\nボルテゾミブ\nイマチニブメシル酸塩\nスニチニブリンゴ酸塩\nボスチニブ水和物\nカバジタキセル\nクリゾチニブ\nシロリムス\nパノビノスタット乳酸塩\nポナチニブ塩酸塩\nルキソリチニブリン酸塩\nアキシチニブ\nニロチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nドセタキセル、エベロリムス、テムシロリムス、ゲフィチニブ、ダサチニブ水和物、エルロチニブ塩酸塩、ラパチニブトシル酸塩水和物、ボルテゾミブ、イマチニブメシル酸塩、スニチニブリンゴ酸塩、ボスチニブ水和物、カバジタキセル、クリゾチニブ、シロリムス、パノビノスタット乳酸塩、ポナチニブ塩酸塩、ルキソリチニブリン酸塩、アキシチニブ、ニロチニブ塩酸塩水和物"
+  },
+  {
+    "other_id": 7247,
+    "other_brand": "タブネオスカプセル10mg",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nシロリムス\nタクロリムス\n等"
+  },
+  {
+    "other_id": 7617,
+    "other_brand": "ツカイザ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "P-gpの基質となる薬剤\nジゴキシン、エベロリムス、シロリムス等"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nイリノテカンイマチニブゲフィチニブソラフェニブスニチニブダサチニブニロチニブラパチニブトレミフェンタミバロテンテムシロリムスアキシチニブセリチニブオシメルチニブパルボシクリブイブルチニブポナチニブアカラブルチニブカプマチニブダロルタミド"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 9699,
+    "other_brand": "ノクサフィル点滴静注300mg",
+    "interaction_type": "caution",
+    "source_text": "免疫抑制剤\nシクロスポリン\nタクロリムス\nシロリムス"
+  },
+  {
+    "other_id": 9700,
+    "other_brand": "ノクサフィル錠100mg",
+    "interaction_type": "caution",
+    "source_text": "免疫抑制剤\nシクロスポリン\nタクロリムス\nシロリムス"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "フェンタニル、フェンタニルクエン酸塩\nリドカイン塩酸塩\nリドカイン\nエリスロマイシン\nカルバマゼピン\nイトラコナゾール\nケトコナゾール\nミコナゾール\nキニーネ\nカルシウム拮抗薬\n（アムロジピンベシル酸塩、ジルチアゼム塩酸塩、フェロジピン、ニカルジピン塩酸塩、ニフェジピン、ニソルジピン、ニトレンジピン、ベラパミル塩酸塩、ニルバジピン等）\nタモキシフェンクエン酸塩\nトレミフェンクエン酸塩\nブロモクリプチンメシル酸塩\nシンバスタチン\nアトルバスタチンカルシウム水和物\nクラリスロマイシン\nシクロスポリン\nタクロリムス水和物\nエベロリムス\nシロリムス\nデキサメタゾン\nシルデナフィルクエン酸塩\n［バイアグラ］\nタダラフィル\n［シアリス、ザルティア］\nゲフィチニブ\nダサチニブ\nニロチニブ\nイリノテカン塩酸塩水和物\nビンカアルカロイド系抗悪性腫瘍薬\n（ビンクリスチン硫酸塩、ビンブラスチン硫酸塩等）\nアルプラゾラム\nサルメテロールキシナホ酸塩\nボセンタン水和物\nコルヒチン\nクエチアピンフマル酸塩\nシメプレビルナトリウム\n,\n,"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "caution",
+    "source_text": "フェンタニルフェンタニルクエン酸塩オキシコドン塩酸塩水和物リドカインリドカイン塩酸塩ダサチニブ水和物ゲフィチニブニロチニブ塩酸塩水和物ビンカアルカロイド系抗悪性腫瘍薬：\nビンブラスチン硫酸塩ビンクリスチン硫酸塩等\nイリノテカン塩酸塩水和物タモキシフェンクエン酸塩トレミフェンクエン酸塩エベロリムス\nシロリムス\nケトコナゾール\n※\nイトラコナゾールミコナゾール\nイサブコナゾニウム硫酸塩クラリスロマイシンエリスロマイシンクエチアピンフマル酸塩ブロモクリプチンメシル酸塩カルシウム拮抗薬：\nアムロジピンベシル酸塩ジルチアゼム塩酸塩フェロジピンニカルジピン塩酸塩ニフェジピンニトレンジピンニルバジピンベラパミル塩酸塩等\nボセンタン水和物アトルバスタチンカルシウム水和物シンバスタチンシロスタゾール\nコルヒチントファシチニブクエン酸塩ウパダシチニブ水和物サルメテロールキシナホ酸塩シルデナフィルクエン酸塩（バイアグラ）タダラフィル（シアリス、ザルティア）アルプラゾラムデキサメタゾンキニーネ\n,\n,\n,"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "caution",
+    "source_text": "フェンタニルフェンタニルクエン酸塩オキシコドン塩酸塩水和物リドカインリドカイン塩酸塩ダサチニブ水和物ゲフィチニブニロチニブ塩酸塩水和物ビンカアルカロイド系抗悪性腫瘍薬：\nビンブラスチン硫酸塩ビンクリスチン硫酸塩等\nイリノテカン塩酸塩水和物タモキシフェンクエン酸塩トレミフェンクエン酸塩エベロリムス\nシロリムス\nケトコナゾール\n※\nイトラコナゾールミコナゾール\nイサブコナゾニウム硫酸塩クラリスロマイシンエリスロマイシンクエチアピンフマル酸塩ブロモクリプチンメシル酸塩カルシウム拮抗薬：\nアムロジピンベシル酸塩ジルチアゼム塩酸塩フェロジピンニカルジピン塩酸塩ニフェジピンニトレンジピンニルバジピンベラパミル塩酸塩等\nボセンタン水和物アトルバスタチンカルシウム水和物シンバスタチンシロスタゾール\nコルヒチントファシチニブクエン酸塩ウパダシチニブ水和物サルメテロールキシナホ酸塩シルデナフィルクエン酸塩（バイアグラ）タダラフィル（シアリス、ザルティア）アルプラゾラムデキサメタゾンキニーネ\n,\n,\n,"
+  },
+  {
+    "other_id": 11025,
+    "other_brand": "ファンガード点滴用25mg",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 11318,
+    "other_brand": "フジケノン粒状錠125",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nシロリムス"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンタクロリムスシロリムステムシロリムス"
+  },
+  {
+    "other_id": 11987,
+    "other_brand": "プレバイミス点滴静注240mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス\nシロリムス"
+  },
+  {
+    "other_id": 11988,
+    "other_brand": "プレバイミス錠240mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス\nシロリムス"
+  },
+  {
+    "other_id": 12240,
+    "other_brand": "ヘルネクシオス錠60mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いP-gpの基質となる薬剤\nシクロスポリン、エベロリムス、シロリムス等"
+  },
+  {
+    "other_id": 12405,
+    "other_brand": "ベネクレクスタ錠10mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いP-gpの基質となる薬剤\nジゴキシンエベロリムスシロリムス 等"
+  },
+  {
+    "other_id": 12457,
+    "other_brand": "ベラパミル塩酸塩錠40mg「タイヨー」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nレンボレキサント\nスボレキサント\nエベロリムス\nシロリムス\nイブルチニブ等"
+  },
+  {
+    "other_id": 12458,
+    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nレンボレキサント\nスボレキサント\nエベロリムス\nシロリムス\nイブルチニブ等"
+  },
+  {
+    "other_id": 12459,
+    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nレンボレキサント\nスボレキサント\nエベロリムス\nシロリムス\nイブルチニブ等"
+  },
+  {
+    "other_id": 12460,
+    "other_brand": "ベラパミル塩酸塩静注5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nレンボレキサント\nスボレキサント\nエベロリムス\nシロリムス\nイブルチニブ等"
+  },
+  {
+    "other_id": 13298,
+    "other_brand": "ミカファンギンNa点滴静注用50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 13299,
+    "other_brand": "ミカファンギンNa点滴静注用50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 13300,
+    "other_brand": "ミカファンギンNa点滴静注用50mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 13301,
+    "other_brand": "ミカファンギンNa点滴静注用50mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "シロリムス"
+  },
+  {
+    "other_id": 14944,
+    "other_brand": "リブテンシティ錠200mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 15097,
+    "other_brand": "ルマケラス錠120mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いP-gpの基質となる薬剤\nジゴキシン、エベロリムス、シロリムス等"
+  },
+  {
+    "other_id": 15112,
+    "other_brand": "ルンスミオ点滴静注1mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いCYP基質\nシクロスポリン、シロリムス、タクロリムス等"
+  },
+  {
+    "other_id": 15114,
+    "other_brand": "ルンスミオ皮下注5mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いCYP基質\nシクロスポリン、シロリムス、タクロリムス等"
+  },
+  {
+    "other_id": 15193,
+    "other_brand": "レズロック錠200mg",
+    "interaction_type": "caution",
+    "source_text": "P-gpの基質となる薬剤\nダビガトランエテキシラート\nタクロリムス\nシロリムス\n等"
+  },
+  {
+    "other_id": 15199,
+    "other_brand": "レットヴィモカプセル40mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いP-gpの基質となる薬剤\nジゴキシン\nシロリムス\nエベロリムス等"
+  },
+  {
+    "other_id": 15201,
+    "other_brand": "レットヴィモ錠40mg",
+    "interaction_type": "caution",
+    "source_text": "治療域の狭いP-gpの基質となる薬剤\nジゴキシン\nシロリムス\nエベロリムス等"
+  },
+  {
+    "other_id": 15949,
+    "other_brand": "ローブレナ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "P-gpの基質となる薬剤\nジゴキシン、エベロリムス、シロリムス等"
+  },
+  {
+    "other_id": 15973,
+    "other_brand": "ワソラン錠40mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nレンボレキサント\nスボレキサント\nエベロリムス\nシロリムス\nイブルチニブ等"
+  },
+  {
+    "other_id": 15975,
+    "other_brand": "ワソラン静注5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nレンボレキサント\nスボレキサント\nエベロリムス\nシロリムス\nイブルチニブ等"
+  }
+]

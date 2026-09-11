@@ -1,0 +1,43 @@
+{
+  "id": 5534,
+  "brand_name": "ザロンチンシロップ5％",
+  "generic_name": "エトスクシミド",
+  "therapeutic_classification": "抗てんかん剤",
+  "indications": "定型欠神発作（小発作）\n小型（運動）発作［ミオクロニー発作、失立（無動）発作、点頭てんかん（幼児けい縮発作、BNSけいれん等）］",
+  "dose_admin": "エトスクシミドとして、通常成人1日0.45～1.0gを2～3回に分割経口投与する。小児は1日0.15～0.6gを1～3回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤の成分に対して過敏症の既往歴のある患者\n重篤な血液障害のある患者［症状を悪化させることがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "皮膚粘膜眼症候群（Stevens-Johnson Syndrome）（頻度不明）\n発熱、皮膚・粘膜の発疹又は紅斑、壊死性結膜炎等の症状があらわれることがある。\nSLE様症状（頻度不明）\n発熱、紅斑、筋肉痛、関節炎、関節痛、リンパ節腫脹、胸部痛等があらわれることがある。\n再生不良性貧血（頻度不明）、汎血球減少（頻度不明）",
+  "observation_points": [
+    "皮膚粘膜眼症候群（Stevens-Johnson Syndrome）（頻度不明）",
+    "発熱、皮膚・粘膜の発疹又は紅斑、壊死性結膜炎等の症状があらわれることがある",
+    "SLE様症状（頻度不明）",
+    "発熱、紅斑、筋肉痛、関節炎、関節痛、リンパ節腫脹、胸部痛等があらわれることがある",
+    "再生不良性貧血（頻度不明）、汎血球減少（頻度不明）",
+    "本剤の血中濃度が上昇することがある",
+    "フェニトインの血中濃度が上昇することがある",
+    "本剤の血中濃度が低下することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルプロ酸ナトリウム",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "本剤の代謝が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "フェニトインの血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "本剤によりフェニトインの代謝が抑制されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルバマゼピン、ルフィナミド",
+      "clinical_symptom_action": "本剤の血中濃度が低下することがある。",
+      "mechanism_risk_factor": "本剤の代謝が促進されると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

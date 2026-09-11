@@ -1,0 +1,248 @@
+[
+  {
+    "other_id": 4158,
+    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "ガンシクロビル（デノシン）バルガンシクロビル（バリキサ）\n,"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）セイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）セイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）セイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）セイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）セイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,"
+  },
+  {
+    "other_id": 675,
+    "other_brand": "アフィニトール分散錠2mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 677,
+    "other_brand": "アフィニトール錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 5482,
+    "other_brand": "サーティカン錠0.25mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 14428,
+    "other_brand": "ラパリムスゲル0.2%",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 14429,
+    "other_brand": "ラパリムス錠1mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムスシクロスポリンエベロリムスシロリムス"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 13336,
+    "other_brand": "ミコブティンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 153,
+    "other_brand": "アザルフィジンEN錠250mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5381,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5382,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5387,
+    "other_brand": "サラゾピリン坐剤500mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 5388,
+    "other_brand": "サラゾピリン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  }
+]

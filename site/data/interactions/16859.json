@@ -1,0 +1,38 @@
+[
+  {
+    "other_id": 8304,
+    "other_brand": "デファイテリオ静注200mg",
+    "interaction_type": "caution",
+    "source_text": "血液凝固阻止作用を有する薬剤\n未分画ヘパリン製剤低分子量ヘパリン製剤\nエノキサパリンナトリウム等\nワルファリンカリウム直接トロンビン阻害剤\nダビガトランエテキシラートメタンスルホン酸塩等\n第Xa因子直接阻害剤\nリバーロキサバン、アピキサバン等\nトロンボモデュリン アルファ（遺伝子組換え）乾燥濃縮人活性化プロテインC乾燥濃縮人アンチトロンビンⅢ"
+  },
+  {
+    "other_id": 14632,
+    "other_brand": "リコモジュリン点滴静注用12800",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\n未分画ヘパリン、ダルテパリンナトリウム、ダナパロイドナトリウム、ガベキサートメシル酸塩、ナファモスタットメシル酸塩、乾燥濃縮人アンチトロンビンⅢ等"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nトロンボモデュリンアルファ（遺伝子組換え）製剤、ワルファリンカリウム等"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nトロンボモデュリンアルファ（遺伝子組換え）製剤、ワルファリンカリウム等"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nトロンボモデュリンアルファ（遺伝子組換え）製剤、ワルファリンカリウム等"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗凝固剤\nトロンボモデュリンアルファ（遺伝子組換え）製剤、ワルファリンカリウム等"
+  }
+]

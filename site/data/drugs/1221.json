@@ -1,0 +1,62 @@
+{
+  "id": 1221,
+  "brand_name": "アルファロールカプセル3μg",
+  "generic_name": "アルファカルシドール",
+  "therapeutic_classification": "Ca・骨代謝改善　1α-OH-D\n3\n製剤",
+  "indications": "下記疾患におけるビタミンD代謝異常に伴う諸症状（低カルシウム血症、テタニー、骨痛、骨病変等）の改善慢性腎不全、副甲状腺機能低下症、ビタミンD抵抗性クル病・骨軟化症",
+  "dose_admin": "〈効能共通〉\n本剤は、患者の血清カルシウム濃度の十分な管理のもとに、投与量を調整する。\n〈慢性腎不全〉\n通常、成人1日1回アルファカルシドールとして0.5～1.0μgを経口投与する。通常、小児には1日1回アルファカルシドールとして0.05～0.1μg/kgを経口投与する。ただし、年齢、症状により適宜増減する。\n〈副甲状腺機能低下症、その他のビタミンD代謝異常に伴う疾患〉\n通常、成人1日1回アルファカルシドールとして1.0～4.0μgを経口投与する。通常、小児には1日1回アルファカルシドールとして0.05～0.1μg/kgを経口投与する。ただし、疾患、年齢、症状、病型により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "急性腎障害（頻度不明）\n血清カルシウム上昇を伴った急性腎障害があらわれることがある。\n,\n,\n肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、Al-Pの上昇等を伴う肝機能障害、黄疸があらわれることがある。",
+  "observation_points": [
+    "急性腎障害（頻度不明）",
+    "血清カルシウム上昇を伴った急性腎障害があらわれることがある",
+    ",",
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST、ALT、Al-Pの上昇等を伴う肝機能障害、黄疸があらわれることがある",
+    "高マグネシウム血症が起きたとの報告がある",
+    "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある",
+    "不整脈があらわれるおそれがある",
+    "高カルシウム血症があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等",
+      "clinical_symptom_action": "高マグネシウム血症が起きたとの報告がある。",
+      "mechanism_risk_factor": "他のビタミンD誘導体と同様に腸管でのマグネシウムの吸収を促進させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等",
+      "clinical_symptom_action": "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある。",
+      "mechanism_risk_factor": "血中マグネシウムの増加により代謝性アルカローシスが持続するため、尿細管でのカルシウム再吸収が増加する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシン等\n,\n,",
+      "clinical_symptom_action": "不整脈があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤により高カルシウム血症が発症した場合、ジギタリス製剤の作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム製剤\n乳酸カルシウム水和物、炭酸カルシウム等\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤は腸管でのカルシウムの吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD及びその誘導体\nカルシトリオール等\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PTH製剤\nテリパラチド等\nPTHrP製剤\nアバロパラチド酢酸塩\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    }
+  ],
+  "facility_notes": ""
+}

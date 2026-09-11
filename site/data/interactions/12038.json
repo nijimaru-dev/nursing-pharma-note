@@ -1,0 +1,260 @@
+[
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 9131,
+    "other_brand": "ドプスOD錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 9158,
+    "other_brand": "ドロキシドパカプセル100mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "カテコールアミン\nアドレナリン（ボスミン）等\nエフェドリンメチルエフェドリン（メチエフ）メチルエフェドリンサッカリネート フェノテロール（ベロテック） ドロキシドパ（ドプス）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "β刺激剤\nサルブタモールプロカテロール等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "β刺激剤\nサルブタモールプロカテロール等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "β刺激剤\nサルブタモールプロカテロール等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "β刺激剤\nサルブタモールプロカテロール等"
+  },
+  {
+    "other_id": 693,
+    "other_brand": "アプニション静注15mg",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 794,
+    "other_brand": "アミノフィリン注250mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 795,
+    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 796,
+    "other_brand": "アミノフィリン静注液250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 798,
+    "other_brand": "アミノフィリン静注250mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 7956,
+    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 7960,
+    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 7961,
+    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 7962,
+    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 7965,
+    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 7966,
+    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 7971,
+    "other_brand": "テオロング錠50mg",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 9628,
+    "other_brand": "ネオフィリン原末",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 9629,
+    "other_brand": "ネオフィリン注点滴用バッグ250mg",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 9630,
+    "other_brand": "ネオフィリン注250mg",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 9632,
+    "other_brand": "ネオフィリン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "キサンチン誘導体\nテオフィリンアミノフィリン水和物等"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体\nジゴキシンジギトキシンラナトシドC等"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体\nジゴキシンジギトキシンラナトシドC等"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体\nジゴキシンジギトキシンラナトシドC等"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体\nジゴキシンジギトキシンラナトシドC等"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "強心配糖体\nジゴキシンジギトキシンラナトシドC等"
+  },
+  {
+    "other_id": 7700,
+    "other_brand": "ツムラの生薬マオウ",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  },
+  {
+    "other_id": 8657,
+    "other_brand": "トチモトのマオウ",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  },
+  {
+    "other_id": 9305,
+    "other_brand": "ナカジマ　マオウ",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  },
+  {
+    "other_id": 12860,
+    "other_brand": "ホリエ　マオウK",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  },
+  {
+    "other_id": 13166,
+    "other_brand": "マオウダイコーM",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  },
+  {
+    "other_id": 16418,
+    "other_brand": "小島麻黄M",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  },
+  {
+    "other_id": 17165,
+    "other_brand": "花扇マオウK",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  },
+  {
+    "other_id": 17472,
+    "other_brand": "高砂マオウM",
+    "interaction_type": "caution",
+    "source_text": "マオウ"
+  }
+]

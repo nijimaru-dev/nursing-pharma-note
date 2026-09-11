@@ -1,0 +1,289 @@
+{
+  "id": 5943,
+  "brand_name": "ジゴキシン錠0.125mg「AFP」",
+  "generic_name": "ジゴキシン",
+  "therapeutic_classification": "強心配糖体製剤",
+  "indications": "次の疾患に基づくうっ血性心不全（肺水腫、心臓喘息等を含む）\n先天性心疾患、弁膜疾患、高血圧症、虚血性心疾患（心筋梗塞、狭心症等）、肺性心（肺血栓・塞栓症、肺気腫、肺線維症等によるもの）、その他の心疾患（心膜炎、心筋疾患等）、腎疾患、甲状腺機能亢進症ならびに低下症等\n心房細動・粗動による頻脈\n発作性上室性頻拍\n次の際における心不全及び各種頻脈の予防と治療\n手術、急性熱性疾患、出産、ショック、急性中毒",
+  "dose_admin": "ジゴキシンとして通常成人に対して\n1.急速飽和療法（飽和量：1.0～4.0mg）\n初回0.5～1.0mg、以後0.5mgを6～8時間ごとに経口投与し、十分効果のあらわれるまで続ける。\n2.比較的急速飽和療法を行うことができる。\n3.緩徐飽和療法を行うことができる。\n4.維持療法\n1日0.25～0.5mgを経口投与する。\nジゴキシンとして通常小児に対して\n1.急速飽和療法\n2歳以下：1日0.06～0.08mg/kgを3～4回に分割経口投与する。2歳以上：1日0.04～0.06mg/kgを3～4回に分割経口投与する。\n2.維持療法\n飽和量の1/5～1/3量を経口投与する。",
+  "contraindications": "房室ブロック、洞房ブロックのある患者［刺激伝導系を抑制し、これらを悪化させることがある。］\nジギタリス中毒の患者［中毒症状が悪化する。］\n閉塞性心筋疾患（特発性肥大性大動脈弁下狭窄等）のある患者［心筋収縮力を増強し、左室流出路の閉塞を悪化させることがある。］\n本剤の成分又はジギタリス剤に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "ジギタリス中毒（頻度不明）\n高度の徐脈、二段脈、多源性心室性期外収縮、発作性心房性頻拍等の不整脈があらわれることがある。また、さらに重篤な房室ブロック、心室性頻拍症あるいは心室細動に移行することがある。初期症状として消化器、眼、精神神経系症状があらわれることが多いが、それらの症状に先行して不整脈が出現することもある。このような症状があらわれた場合には、減量又は休薬するなど適切な処置を行うこと。\n,\n,\n,\n,\n,\n,\n,\n,\n,\n,\n非閉塞性腸間膜虚血（頻度不明）\n腸管壊死に至った例も報告されている。激しい腹痛、血便等の症状があらわれた場合には投与を中止し、適切な処置を行うこと。",
+  "observation_points": [
+    "ジギタリス中毒（頻度不明）",
+    "高度の徐脈、二段脈、多源性心室性期外収縮、発作性心房性頻拍等の不整脈があらわれることがある",
+    "また、さらに重篤な房室ブロック、心室性頻拍症あるいは心室細動に移行することがある",
+    "初期症状として消化器、眼、精神神経系症状があらわれることが多いが、それらの症状に先行して不整脈が出現することもある",
+    "このような症状があらわれた場合には、減量又は休薬するなど適切な処置を行うこと",
+    ",",
+    "非閉塞性腸間膜虚血（頻度不明）",
+    "腸管壊死に至った例も報告されている",
+    "激しい腹痛、血便等の症状があらわれた場合には投与を中止し、適切な処置を行うこと",
+    "本剤の作用を増強することがある",
+    "ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある",
+    "併用により重篤な不整脈を起こすおそれがある",
+    "治療上やむを得ないと判断される場合を除き、スキサメトニウム塩化物水和物を投与しないこと",
+    "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある",
+    "治療上やむを得ないと判断される場合を除き、カルシウム注射剤を投与しないこと",
+    "やむを得ず投与する場合には、急激にカルシウム濃度を上昇させるような使用法は避けること",
+    "本剤の作用を減弱することがある",
+    "ブピバカイン塩酸塩水和物の副作用を増強したとの報告がある",
+    "ヘパリンの作用を減弱するおそれがある",
+    "ジギタリス中毒の症状（悪心・嘔吐、食欲不振等）を不顕化するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "解熱・鎮痛・消炎剤\nインドメタシン\nジクロフェナク 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "本剤の腎排泄が抑制され、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "トラゾドン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "機序は不明であるが、本剤の血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "スキサメトニウム塩化物水和物",
+      "clinical_symptom_action": "併用により重篤な不整脈を起こすおそれがある。治療上やむを得ないと判断される場合を除き、スキサメトニウム塩化物水和物を投与しないこと。",
+      "mechanism_risk_factor": "スキサメトニウム塩化物水和物の血中カリウム増加作用又はカテコールアミン放出が原因と考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗コリン剤\nアトロピン系薬剤プロパンテリン 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "腸管運動を抑制し滞留時間が延長されるため、本剤の吸収が増大し、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "不整脈用剤\nアミオダロンキニジンピルメノールフレカイニドピルシカイニド塩酸塩水和物プロパフェノンベプリジル 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "機序不明なものも含まれるが、本剤の腎排泄が抑制されることによる血中濃度上昇、あるいは、薬力学的相互作用による刺激伝導抑制等があらわれることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β遮断剤\nプロプラノロールアテノロールカルベジロール 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "薬力学的相互作用により、伝導抑制の増強、徐脈の誘発があらわれることがある。また、カルベジロールでは本剤の血中濃度が上昇したとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤カリウム排泄型利尿剤\nチアジド系利尿剤フロセミド 等\nアセタゾラミド",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "過度の利尿により、血中カリウム値が低下しやすくなるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤スピロノラクトン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "本剤の腎排泄が抑制され、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤トルバプタン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "P糖蛋白質を介した本剤の排泄の抑制により、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アンジオテンシンⅡ受容体拮抗剤\nテルミサルタン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "機序は不明であるが、本剤の血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム拮抗剤\nベラパミルジルチアゼムニフェジピン 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "本剤の腎排泄が抑制され、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HMG-CoA還元酵素阻害剤フルバスタチン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "機序は不明であるが、本剤の最高血中濃度の上昇が認められたとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HMG-CoA還元酵素阻害剤アトルバスタチン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "P糖蛋白質を介した本剤の排泄の抑制により血中濃度の上昇が示唆されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ポリスチレンスルホン酸塩",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "腸内のカリウムイオンとのイオン交換により、血中カリウム値が低下するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "交感神経刺激剤\nアドレナリンイソプレナリン 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "薬力学的相互作用により不整脈があらわれることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プロトンポンプ阻害剤\nオメプラゾールラベプラゾール 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "胃酸分泌抑制作用により本剤の加水分解が抑制され、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "副腎皮質ホルモン剤",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "副腎皮質ホルモンにより低カリウム血症が起こるためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD製剤\nカルシトリオール 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "ビタミンD製剤により血中カルシウム値が上昇するためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム（注射剤）（カルシウム値の補正に用いる場合を除く）\nグルコン酸カルシウム水和物塩化カルシウム水和物",
+      "clinical_symptom_action": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、カルシウム注射剤を投与しないこと。やむを得ず投与する場合には、急激にカルシウム濃度を上昇させるような使用法は避けること。",
+      "mechanism_risk_factor": "本剤の催不整脈作用は、心筋細胞内カルシウム濃度に依存すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム（経口剤）カルシウム含有製剤\n高カロリー輸液 等",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "これらの薬剤により血中カルシウム値が上昇するためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "習慣性中毒用剤\nジスルフィラム",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "ジスルフィラム-アルコール反応時に過呼吸により血中カリウム値が低下したとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "本剤の腎排泄が抑制され、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗生物質製剤エリスロマイシンクラリスロマイシンテトラサイクリン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "腸内細菌叢への影響による本剤の代謝の抑制、あるいは、P糖蛋白質を介した本剤の排泄の抑制により血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗生物質製剤アジスロマイシン",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "機序の詳細は不明であるが、P糖蛋白質を介した本剤の輸送が阻害されるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗生物質製剤アムホテリシンB",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "アムホテリシンBにより血中カリウム値が低下するためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nリトナビル",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "P糖蛋白質を介した本剤の排泄の抑制により、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "C型肝炎治療剤\nレジパスビル・ソホスブビル",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "レジパスビルのP糖蛋白質阻害作用により、本剤の血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "化学療法剤\nイトラコナゾールスルファメトキサゾール・トリメトプリム",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "本剤の腎排泄が抑制され、血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗甲状腺剤\nチアマゾールプロピルチオウラシル",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "甲状腺機能亢進の改善に伴いクリアランスが正常になるため、本剤の血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ベムラフェニブ",
+      "clinical_symptom_action": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。",
+      "mechanism_risk_factor": "P糖蛋白質阻害作用により、本剤の血中濃度が上昇するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルバマゼピン",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "併用後、本剤の血中濃度の低下が認められたとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コレスチラミンコレスチミド",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "消化管内での吸着により本剤の吸収を阻害し、血中濃度が低下すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "消化性潰瘍剤\nスクラルファート水和物",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "消化管内での吸着により本剤の吸収を阻害し、血中濃度が低下するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸剤\n水酸化アルミニウム水酸化マグネシウム 等",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "消化管内での吸着により本剤の吸収を阻害し、血中濃度が低下するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗生物質製剤\nリファンピシン",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "P糖蛋白質、肝薬物代謝酵素の誘導作用により、本剤の血中濃度が低下するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サルファ剤\nサラゾスルファピリジン",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "本剤の吸収が阻害され、血中濃度が低下するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺製剤\nレボチロキシンリオチロニン",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "甲状腺機能低下の改善に伴いクリアランスが正常になるため、本剤の血中濃度が低下するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アカルボースミグリトール",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "併用により本剤の血中濃度の低下が認められたとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St. John’s Wort, セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の作用を減弱することがある。",
+      "mechanism_risk_factor": "本剤の排泄が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ブピバカイン塩酸塩水和物",
+      "clinical_symptom_action": "ブピバカイン塩酸塩水和物の副作用を増強したとの報告がある。",
+      "mechanism_risk_factor": "薬力学的相互作用によると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヘパリン",
+      "clinical_symptom_action": "ヘパリンの作用を減弱するおそれがある。",
+      "mechanism_risk_factor": "抗凝血作用に拮抗すると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制吐作用を有する薬剤\nスルピリドメトクロプラミドドンペリドン 等",
+      "clinical_symptom_action": "ジギタリス中毒の症状（悪心・嘔吐、食欲不振等）を不顕化するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤の制吐作用のため本剤の中毒症状が判別しにくくなる。"
+    }
+  ],
+  "facility_notes": ""
+}

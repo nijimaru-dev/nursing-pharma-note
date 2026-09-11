@@ -1,0 +1,62 @@
+[
+  {
+    "other_id": 625,
+    "other_brand": "アドレナリン注0.1%シリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン含有吸入麻酔薬\nハロタン\nイソフルラン\nセボフルラン\nデスフルラン"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン含有吸入麻酔薬\nハロタン\n注1）\nイソフルラン\n注2）\nセボフルラン\n注3）\nデスフルラン\n注4）"
+  },
+  {
+    "other_id": 4190,
+    "other_brand": "キシロカイン注射液「0.5%」エピレナミン（1：100,000）含有",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン含有吸入麻酔薬\nハロタン\n注1）\n、イソフルラン\n注2）\n、セボフルラン\n注3）\n、デスフルラン\n注4）"
+  },
+  {
+    "other_id": 6181,
+    "other_brand": "スキサメトニウム注40「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "デスフルラン\nイソフルラン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 15516,
+    "other_brand": "レラキシン注用200mg",
+    "interaction_type": "caution",
+    "source_text": "筋弛緩剤（パンクロニウム臭化物、ベクロニウム臭化物、スキサメトニウム塩化物水和物等）"
+  },
+  {
+    "other_id": 16005,
+    "other_brand": "ヱフェドリン「ナガヰ」注射液40mg",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン化吸入麻酔剤\nセボフルランイソフルランデスフルラン"
+  }
+]

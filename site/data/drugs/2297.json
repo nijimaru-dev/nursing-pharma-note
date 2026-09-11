@@ -1,0 +1,36 @@
+{
+  "id": 2297,
+  "brand_name": "エスカゾール錠200mg",
+  "generic_name": "アルベンダゾール",
+  "therapeutic_classification": "駆虫剤",
+  "indications": "包虫症",
+  "dose_admin": "通常、成人にはアルベンダゾールとして1日600mgを3回に分割し、食事と共に服用する。投与は28日間連続投与し、14日間の休薬期間を設ける。なお、年齢・症状により適宜増減する。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性\n,\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n本剤が服用し難い場合には、口中でかみ砕いてから飲み込むこともできる。",
+  "serious_adverse_events": "汎血球減少症（頻度不明）\n皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形紅斑（いずれも頻度不明）\n肝機能障害（16.2%）、黄疸（0.6%）\nAST、ALT、ビリルビン及びAl-P等の上昇を伴う肝機能障害及び黄疸があらわれることがある。",
+  "observation_points": [
+    "汎血球減少症（頻度不明）",
+    "皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形紅斑（いずれも頻度不明）",
+    "肝機能障害（16.2%）、黄疸（0.6%）",
+    "AST、ALT、ビリルビン及びAl-P等の上昇を伴う肝機能障害及び黄疸があらわれることがある",
+    "プラジカンテルとの併用により、アルベンダゾール活性代謝物の血中濃度が上昇することが報告されている",
+    ",",
+    "これらの薬剤との併用により、アルベンダゾール活性代謝物の血中濃度が減少し、本剤の効果が減弱する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プラジカンテル",
+      "clinical_symptom_action": "プラジカンテルとの併用により、アルベンダゾール活性代謝物の血中濃度が上昇することが報告されている\n,\n,\n。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビルフェニトインカルバマゼピンフェノバルビタール",
+      "clinical_symptom_action": "これらの薬剤との併用により、アルベンダゾール活性代謝物の血中濃度が減少し、本剤の効果が減弱する可能性がある。",
+      "mechanism_risk_factor": "機序不明"
+    }
+  ],
+  "facility_notes": ""
+}

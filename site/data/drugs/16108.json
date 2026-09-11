@@ -1,0 +1,37 @@
+{
+  "id": 16108,
+  "brand_name": "乳酸Na補正液1mEq/mL",
+  "generic_name": "補正用電解質液",
+  "therapeutic_classification": "補正用電解質液",
+  "indications": "代謝性アシドーシス\n電解質補液の電解質補正",
+  "dose_admin": "〈代謝性アシドーシス〉\n通常成人、1日80～300mLを少なくとも等量以上に希釈して点滴静注する。希釈後の投与速度は希釈濃度に応じて1分間30～60滴とし、1時間に100mEqを超えない量とする。なお、年齢、症状により適宜増減する。\n〈電解質補液の電解質補正〉\n電解質補液に適宜必要量を添加して点滴静注する。",
+  "contraindications": "高乳酸血症の患者［高乳酸血症が悪化するおそれがある。］",
+  "application_precautions": "全般的な注意\n使用時には、感染に対する配慮をすること。\n薬剤調製時の注意\n本剤は使用に際して、よく混合されるよう注意すること。\n薬剤投与時の注意\n残液は使用しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "副作用が認められた場合には、投与を中止するなど適切な処置を行うこと",
+    "代謝性アルカローシス、低カリウム血症の悪化が認められた場合には、投与を中止するなど適切な処置を行うこと"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アセタゾラミド、スピロノラクトン",
+      "clinical_symptom_action": "副作用が認められた場合には、投与を中止するなど適切な処置を行うこと。",
+      "mechanism_risk_factor": "本剤のアルカリ化作用を減弱することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤\nチアジド系、エタクリン酸、フロセミド等",
+      "clinical_symptom_action": "代謝性アルカローシス、低カリウム血症の悪化が認められた場合には、投与を中止するなど適切な処置を行うこと。",
+      "mechanism_risk_factor": "代謝性アルカローシス、低カリウム血症を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルビツール酸誘導体、ピラゾロン誘導体、サリチル酸誘導体、サルファ剤",
+      "clinical_symptom_action": "副作用が認められた場合には、投与を中止するなど適切な処置を行うこと。",
+      "mechanism_risk_factor": "これら医薬品の尿中排泄を増加することがある。"
+    }
+  ],
+  "facility_notes": ""
+}

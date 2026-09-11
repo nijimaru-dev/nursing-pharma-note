@@ -1,0 +1,266 @@
+[
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン\n等"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン\n等"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン\n等"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン\n等"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジギタリス剤\nジゴキシン\n等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6718,
+    "other_brand": "セレネース内服液0.2％",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6719,
+    "other_brand": "セレネース注5mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 6720,
+    "other_brand": "セレネース錠0.75mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 9860,
+    "other_brand": "ハロペリドール錠0.75mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 9861,
+    "other_brand": "ハロペリドール細粒1%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 9862,
+    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 11861,
+    "other_brand": "プリンペランシロップ0.1%",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 11862,
+    "other_brand": "プリンペラン注射液10mg",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 11863,
+    "other_brand": "プリンペラン細粒2%",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 11864,
+    "other_brand": "プリンペラン錠5",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 13663,
+    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 13664,
+    "other_brand": "メトクロプラミド錠5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 13665,
+    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ベンザミド系薬剤\nメトクロプラミド\nチアプリド\n等\nフェノチアジン系薬剤\nクロルプロマジン\n等\nブチロフェノン系薬剤\nハロペリドール\n等"
+  },
+  {
+    "other_id": 12956,
+    "other_brand": "ボトックスビスタ注用50単位",
+    "interaction_type": "caution",
+    "source_text": "ボツリヌス毒素製剤\nA型ボツリヌス毒素\nB型ボツリヌス毒素"
+  },
+  {
+    "other_id": 12958,
+    "other_brand": "ボトックス注用50単位",
+    "interaction_type": "caution",
+    "source_text": "ボツリヌス毒素製剤\nA型ボツリヌス毒素\nB型ボツリヌス毒素"
+  },
+  {
+    "other_id": 9097,
+    "other_brand": "ドパストンカプセル250mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ\n等"
+  },
+  {
+    "other_id": 9099,
+    "other_brand": "ドパストン静注25mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ\n等"
+  },
+  {
+    "other_id": 9101,
+    "other_brand": "ドパゾール錠200mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\nレボドパ\n等"
+  },
+  {
+    "other_id": 2263,
+    "other_brand": "エクセグラン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6951,
+    "other_brand": "ゾニサミド錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6953,
+    "other_brand": "ゾニサミド錠100mgEX「KO」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6954,
+    "other_brand": "ゾニサミドOD錠25mgTRE「アメル」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6956,
+    "other_brand": "ゾニサミドOD錠25mgTRE「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6958,
+    "other_brand": "ゾニサミドOD錠25mgTRE「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6961,
+    "other_brand": "ゾニサミドOD錠25mgTRE「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6962,
+    "other_brand": "ゾニサミドOD錠25mgTRE「日医工」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6963,
+    "other_brand": "ゾニサミドOD錠25mgTRE「日新」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6966,
+    "other_brand": "ゾニサミドOD錠25mgTRE「KO」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6967,
+    "other_brand": "ゾニサミドOD錠25mgTRE「SMPP」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6968,
+    "other_brand": "ゾニサミドOD錠25mgTRE「ZE」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 8877,
+    "other_brand": "トレリーフOD錠25mg",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6193,
+    "other_brand": "スクラルファート細粒90%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "スクラルファート水和物"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n飲酒"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n飲酒"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n飲酒"
+  }
+]

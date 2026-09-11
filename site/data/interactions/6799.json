@@ -1,0 +1,200 @@
+[
+  {
+    "other_id": 6103,
+    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 6104,
+    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 6108,
+    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 6107,
+    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 6110,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 6111,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 6112,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 6116,
+    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2C8誘導作用を有する薬剤\nリファンピシン等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "QT延長作用のある薬剤クラスⅠa抗不整脈剤\nキニジンプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "QT延長作用のある薬剤クラスⅠa抗不整脈剤\nキニジンプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "QT延長作用のある薬剤クラスⅠa抗不整脈剤\nキニジンプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "QT延長作用のある薬剤クラスⅠa抗不整脈剤\nキニジンプロカインアミド等\nクラスⅢ抗不整脈剤\nアミオダロンソタロール等\n,"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "心拍数を低下させる可能性のある薬剤\nジゴキシン等\n,"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "心拍数を低下させる可能性のある薬剤\nジゴキシン等\n,"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "心拍数を低下させる可能性のある薬剤\nジゴキシン等\n,"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "心拍数を低下させる可能性のある薬剤\nジゴキシン等\n,"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "心拍数を低下させる可能性のある薬剤\nジゴキシン等\n,"
+  },
+  {
+    "other_id": 10534,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10535,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10536,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「テバ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10537,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10538,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10539,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10540,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10541,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10542,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 10543,
+    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 12242,
+    "other_brand": "ヘルベッサー注射用250",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 12241,
+    "other_brand": "ヘルベッサー注射用10",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 12244,
+    "other_brand": "ヘルベッサー錠30",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 12246,
+    "other_brand": "ヘルベッサーRカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  },
+  {
+    "other_id": 13561,
+    "other_brand": "メインテート錠0.625mg",
+    "interaction_type": "caution",
+    "source_text": "スフィンゴシン1-リン酸受容体調節剤\nフィンゴリモド塩酸塩\nオザニモド塩酸塩等"
+  }
+]

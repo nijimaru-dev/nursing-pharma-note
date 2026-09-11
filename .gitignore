@@ -8,6 +8,7 @@ karteno_drugs.db
 karteno_drugs.sample.db
 scripts/karteno_drugs*.db
 /tenpu_xml/
+/data-raw/
 formulary.txt
 
 # OS / エディタ
@@ -19,4 +20,7 @@ Thumbs.db
 
 # ローカル動作確認ツールの出力
 .playwright-mcp/
+
+# ローカルのClaude Codeセッション状態
+.claude/
 

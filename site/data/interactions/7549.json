@@ -1,0 +1,350 @@
+[
+  {
+    "other_id": 1374,
+    "other_brand": "アンジュ21錠",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 1376,
+    "other_brand": "アンジュ28錠",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 5631,
+    "other_brand": "シプロキサン注200mg",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩（テルネリン）"
+  },
+  {
+    "other_id": 5633,
+    "other_brand": "シプロキサン錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩（テルネリン）"
+  },
+  {
+    "other_id": 5635,
+    "other_brand": "シプロフロキサシン点滴静注液200mg「NP」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩（テルネリン）"
+  },
+  {
+    "other_id": 5637,
+    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩（テルネリン）"
+  },
+  {
+    "other_id": 7542,
+    "other_brand": "チクロピジン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nテオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 7543,
+    "other_brand": "チクロピジン塩酸塩錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nテオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 7544,
+    "other_brand": "チクロピジン塩酸塩錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "バルビツール酸誘導体\nテオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミン\n（ルボックス、デプロメール）\nシプロフロキサシン\n（シプロキサン等）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミン\n（ルボックス、デプロメール）\nシプロフロキサシン\n（シプロキサン等）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミン\n（ルボックス、デプロメール）\nシプロフロキサシン\n（シプロキサン等）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "フルボキサミン\n（ルボックス、デプロメール）\nシプロフロキサシン\n（シプロキサン等）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤アルコール"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤アルコール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤アルコール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤アルコール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤アルコール"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤アルコール"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤アルコール"
+  },
+  {
+    "other_id": 5631,
+    "other_brand": "シプロキサン注200mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 5637,
+    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 9752,
+    "other_brand": "ノルフロキサシン点眼液0.3％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 9753,
+    "other_brand": "ノルフロキサシン点眼液0.3%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 9754,
+    "other_brand": "ノルフロキサシン点眼液0.3％「日新」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 9755,
+    "other_brand": "ノルフロキサシン点眼液0.3%「杏林」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 9756,
+    "other_brand": "ノルフロキサシン錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 9757,
+    "other_brand": "ノルフロキサシン錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 10157,
+    "other_brand": "パナルジン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 15430,
+    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 15443,
+    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 15459,
+    "other_brand": "レボフロキサシン錠250mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン\nメキシレチン\nプロパフェノン\nシメチジンニューキノロン系抗菌剤\nエノキサシンノルフロキサシン\n黄体・卵胞ホルモン剤\n経口避妊薬\nチクロピジン"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2を誘導する薬剤\nリファンピシン\n喫煙等"
+  },
+  {
+    "other_id": 8311,
+    "other_brand": "デプロメール錠25",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 8787,
+    "other_brand": "トリキュラー錠28",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 9154,
+    "other_brand": "ドロエチフレックス配合錠「あすか」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリンチザニジン塩酸塩"
+  },
+  {
+    "other_id": 9155,
+    "other_brand": "ドロエチフレックス配合錠「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリンチザニジン塩酸塩"
+  },
+  {
+    "other_id": 9156,
+    "other_brand": "ドロエチ配合錠「あすか」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリンチザニジン塩酸塩"
+  },
+  {
+    "other_id": 9157,
+    "other_brand": "ドロエチ配合錠「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "テオフィリンチザニジン塩酸塩"
+  },
+  {
+    "other_id": 9901,
+    "other_brand": "バクシダール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "チザニジン塩酸塩"
+  },
+  {
+    "other_id": 11483,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 11484,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 11485,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 11486,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 11487,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 11488,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 14188,
+    "other_brand": "ヤーズフレックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "テオフィリンチザニジン塩酸塩"
+  },
+  {
+    "other_id": 14189,
+    "other_brand": "ヤーズ配合錠",
+    "interaction_type": "caution",
+    "source_text": "テオフィリンチザニジン塩酸塩"
+  },
+  {
+    "other_id": 14520,
+    "other_brand": "ラベルフィーユ28錠",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 14519,
+    "other_brand": "ラベルフィーユ21錠",
+    "interaction_type": "caution",
+    "source_text": "テオフィリン\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 14938,
+    "other_brand": "リファンピシンカプセル150mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "鎮けい剤\nチザニジン塩酸塩"
+  },
+  {
+    "other_id": 15094,
+    "other_brand": "ルボックス錠25",
+    "interaction_type": "contraindicated",
+    "source_text": "チザニジン塩酸塩\n（テルネリン）"
+  },
+  {
+    "other_id": 16329,
+    "other_brand": "小児用バクシダール錠50mg",
+    "interaction_type": "caution",
+    "source_text": "チザニジン塩酸塩"
+  }
+]

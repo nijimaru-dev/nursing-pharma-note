@@ -1,0 +1,338 @@
+[
+  {
+    "other_id": 1340,
+    "other_brand": "アロプリノール錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1345,
+    "other_brand": "アロプリノール錠100mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1334,
+    "other_brand": "アロプリノール錠50mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1335,
+    "other_brand": "アロプリノール錠50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1336,
+    "other_brand": "アロプリノール錠50mg「アメル」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1337,
+    "other_brand": "アロプリノール錠50mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1338,
+    "other_brand": "アロプリノール錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1339,
+    "other_brand": "アロプリノール錠50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1341,
+    "other_brand": "アロプリノール錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1342,
+    "other_brand": "アロプリノール錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1343,
+    "other_brand": "アロプリノール錠50mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1344,
+    "other_brand": "アロプリノール錠50mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1346,
+    "other_brand": "アロプリノール錠50mg「DSP」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1347,
+    "other_brand": "アロプリノール錠50mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1348,
+    "other_brand": "アロプリノール錠50mg「NS」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1350,
+    "other_brand": "アロプリノール錠50mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1351,
+    "other_brand": "アロプリノール錠50mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 2202,
+    "other_brand": "ウリアデック錠20mg",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物\nロイケリン\nアザチオプリン\nイムラン、アザニン"
+  },
+  {
+    "other_id": 8686,
+    "other_brand": "トピロリック錠20mg",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物\nロイケリン\nアザチオプリン\nイムラン、アザニン"
+  },
+  {
+    "other_id": 11163,
+    "other_brand": "フェブキソスタット錠10mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11166,
+    "other_brand": "フェブキソスタット錠10mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11167,
+    "other_brand": "フェブキソスタット錠10mg「ニプロ」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11168,
+    "other_brand": "フェブキソスタット錠10mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11170,
+    "other_brand": "フェブキソスタット錠10mg「杏林」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11171,
+    "other_brand": "フェブキソスタット錠10mg「AFP」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11172,
+    "other_brand": "フェブキソスタット錠10mg「DSEP」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11173,
+    "other_brand": "フェブキソスタット錠10mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11174,
+    "other_brand": "フェブキソスタット錠10mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11175,
+    "other_brand": "フェブキソスタット錠10mg「YD」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11165,
+    "other_brand": "フェブキソスタット錠10mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11202,
+    "other_brand": "フェブキソスタットOD錠10mg「ケミファ」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11205,
+    "other_brand": "フェブキソスタットOD錠10mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11169,
+    "other_brand": "フェブキソスタット錠10mg「明治」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11207,
+    "other_brand": "フェブキソスタットOD錠10mg「NPI」",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 11218,
+    "other_brand": "フェブリク錠10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "メルカプトプリン水和物（ロイケリン）\nアザチオプリン（イムラン、アザニン）"
+  },
+  {
+    "other_id": 14611,
+    "other_brand": "リアルダ錠1200mg",
+    "interaction_type": "caution",
+    "source_text": "アザチオプリン\nメルカプトプリン水和物"
+  },
+  {
+    "other_id": 16120,
+    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン\n乾燥弱毒生麻しんワクチン\n乾燥弱毒生風しんワクチン\n経口生ポリオワクチン\n乾燥BCG　等"
+  },
+  {
+    "other_id": 16121,
+    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "生ワクチン\n乾燥弱毒生麻しんワクチン\n乾燥弱毒生風しんワクチン\n経口生ポリオワクチン\n乾燥BCG　等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "アロプリノール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "アロプリノール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "アロプリノール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "アロプリノール"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ワルファリンカリウム"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ワルファリンカリウム"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "ワルファリンカリウム"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "ワルファリンカリウム"
+  },
+  {
+    "other_id": 144,
+    "other_brand": "アサコール錠400mg",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 153,
+    "other_brand": "アザルフィジンEN錠250mg",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 5381,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 5382,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 5387,
+    "other_brand": "サラゾピリン坐剤500mg",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 5388,
+    "other_brand": "サラゾピリン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 12665,
+    "other_brand": "ペンタサ錠250mg",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 13610,
+    "other_brand": "メサラジン徐放錠250mg「日医工P」",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 13615,
+    "other_brand": "メサラジン腸溶錠400mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 13617,
+    "other_brand": "メサラジン錠250mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  }
+]

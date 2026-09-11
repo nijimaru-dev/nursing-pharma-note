@@ -1,0 +1,32 @@
+{
+  "id": 8827,
+  "brand_name": "トルソプト点眼液0.5％",
+  "generic_name": "ドルゾラミド塩酸塩点眼液",
+  "therapeutic_classification": "点眼用炭酸脱水酵素阻害剤",
+  "indications": "次の疾患で、他の緑内障治療薬で効果不十分な場合の併用療法：緑内障、高眼圧症",
+  "dose_admin": "通常、0.5%製剤を1回1滴、1日3回点眼する。なお、十分な効果が得られない場合は、1％製剤を用いて1回1滴、1日3回点眼する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n重篤な腎障害のある患者",
+  "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。\nベンザルコニウム塩化物はソフトコンタクトレンズに吸着されることがあるので、ソフトコンタクトレンズを装用している場合には、点眼前にレンズを外し、点眼後少なくとも5～10分間の間隔をあけて再装用すること。\n薬液汚染防止のため、点眼のとき、容器の先端が直接目に触れないように注意すること。\n患眼を開瞼して結膜囊内に点眼し、1～5分間閉瞼して涙囊部を圧迫させた後、開瞼すること。\n他の点眼剤を併用する場合には、少なくとも5分以上間隔をあけてから点眼すること。",
+  "serious_adverse_events": "皮膚粘膜眼症候群（Stevens-Johnson症候群）、中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（いずれも頻度不明）",
+  "observation_points": [
+    "皮膚粘膜眼症候群（Stevens-Johnson症候群）、中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）（いずれも頻度不明）",
+    "炭酸脱水酵素阻害剤の全身的な作用が増強される可能性がある",
+    "本剤を大量のアスピリンと併用すると、双方又は一方の薬剤の副作用が増強される可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "炭酸脱水酵素阻害剤（全身投与）：\nアセタゾラミド",
+      "clinical_symptom_action": "炭酸脱水酵素阻害剤の全身的な作用が増強される可能性がある。",
+      "mechanism_risk_factor": "作用が相加的にあらわれる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アスピリン (大量)",
+      "clinical_symptom_action": "本剤を大量のアスピリンと併用すると、双方又は一方の薬剤の副作用が増強される可能性がある。",
+      "mechanism_risk_factor": "アスピリンは炭酸脱水酵素阻害剤の血漿蛋白結合と腎からの排泄を抑制し、炭酸脱水酵素阻害剤は血液のpHを低下させ、サリチル酸の血漿から組織への移行を高める可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

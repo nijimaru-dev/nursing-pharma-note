@@ -1,0 +1,41 @@
+{
+  "id": 13622,
+  "brand_name": "メジコン配合シロップ",
+  "generic_name": "デキストロメトルファン臭化水素酸塩水和物・クレゾールスルホン酸カリウム",
+  "therapeutic_classification": "鎮咳去痰剤",
+  "indications": "下記疾患に伴う咳嗽及び喀痰喀出困難\n急性気管支炎、慢性気管支炎、感冒・上気道炎、肺結核、百日咳",
+  "dose_admin": "通常、成人には1日18～24mL、8～14歳1日9～16mL、3ヵ月～7歳1日3～8mLを3～4回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "呼吸抑制（頻度不明）\nショック、アナフィラキシー（いずれも頻度不明）\n呼吸困難、蕁麻疹、血管浮腫等の異常が認められた場合には投与を中止し、適切な処置を行うこと。",
+  "observation_points": [
+    "呼吸抑制（頻度不明）",
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "呼吸困難、蕁麻疹、血管浮腫等の異常が認められた場合には投与を中止し、適切な処置を行うこと",
+    "セロトニン症候群があらわれることがある",
+    "本剤の血中濃度が上昇することがある",
+    "セロトニン症候群等のセロトニン作用による症状があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "選択的MAO-B阻害剤\nセレギリン塩酸塩\nラサギリンメシル酸塩\nサフィナミドメシル酸塩",
+      "clinical_symptom_action": "セロトニン症候群があらわれることがある。",
+      "mechanism_risk_factor": "本剤及びこれらの薬剤は脳内のセロトニン濃度を上昇させる作用を有するため、併用によりセロトニンの濃度が更に高くなるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "薬物代謝酵素（CYP2D6）を阻害する薬剤\nキニジン\nアミオダロン\nテルビナフィン等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇することがある。",
+      "mechanism_risk_factor": "これらの薬剤の薬物代謝酵素（CYP2D6）阻害作用により、本剤の代謝が阻害されるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セロトニン作用薬\n選択的セロトニン再取り込み阻害剤（SSRI）等",
+      "clinical_symptom_action": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。",
+      "mechanism_risk_factor": "セロトニン作用が増強するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

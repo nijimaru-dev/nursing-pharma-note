@@ -1,0 +1,53 @@
+{
+  "id": 299,
+  "brand_name": "アスプール液（0.5%）",
+  "generic_name": "dl-イソプレナリン塩酸塩吸入液",
+  "therapeutic_classification": "吸入用気管支拡張剤",
+  "indications": "下記疾患にもとづく気管支痙攣の緩解\n気管支喘息、急性気管支炎、慢性気管支炎、気管支拡張症、肺気腫",
+  "dose_admin": "ネブライザーなどを用い、通常、成人1回0.5%液0.6mL（イソプレナリン塩酸塩として3mg）を自然呼吸下3～10分でエアゾル吸入する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "カテコールアミン製剤（アドレナリン等）、エフェドリン製剤、メチルエフェドリン製剤を投与中の患者\n頻脈性不整脈を合併する患者［本剤の心刺激作用により症状が悪化するおそれがある。］\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤調製時の注意\n用時必要量のみを注射器にて取り出して使用すること。\n本剤の容器内に他の薬剤や異物が混入しないよう注意すること。\n一旦ネブライザーに取り出した本剤は、空気中にて酸化を受け着色しやすいので、速やかに使用すること。\n薬剤投与時の注意\n投与経路：本剤を注射しないこと。",
+  "serious_adverse_events": "重篤な血清カリウム値の低下（頻度不明）\nキサンチン誘導体、ステロイド剤及び利尿剤との併用により増強することがあるので、重症喘息患者では特に注意すること。\n,",
+  "observation_points": [
+    "重篤な血清カリウム値の低下（頻度不明）",
+    "キサンチン誘導体、ステロイド剤及び利尿剤との併用により増強することがあるので、重症喘息患者では特に注意すること",
+    ",",
+    "不整脈、場合によっては心停止を起こすおそれがある",
+    "低カリウム血症による不整脈を起こすおそれがある",
+    "不整脈を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カテコールアミン製剤\nアドレナリン等（ボスミン等）\nエフェドリン製剤メチルエフェドリン製剤\n（メチエフ等）",
+      "clinical_symptom_action": "不整脈、場合によっては心停止を起こすおそれがある。",
+      "mechanism_risk_factor": "併用によりアドレナリン作動性神経刺激を著しく増大させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β\n2\n-刺激剤\nサルブタモール等",
+      "clinical_symptom_action": "不整脈、場合によっては心停止を起こすおそれがある。",
+      "mechanism_risk_factor": "併用によりアドレナリン作動性神経刺激を増大させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キサンチン誘導体\nテオフィリン等",
+      "clinical_symptom_action": "低カリウム血症による不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "併用によりアドレナリン作動性神経刺激を増大させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ステロイド剤\nベクロメタゾン等\n利尿剤\nフロセミド等",
+      "clinical_symptom_action": "低カリウム血症による不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "併用により血清カリウム値の低下を増強させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強心配糖体\nジゴキシン、ジギトキシン等",
+      "clinical_symptom_action": "不整脈を起こすおそれがある。",
+      "mechanism_risk_factor": "併用により心臓に対する作用を増強させると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,62 @@
+{
+  "id": 11318,
+  "brand_name": "フジケノン粒状錠125",
+  "generic_name": "ケノデオキシコール酸粒状錠",
+  "therapeutic_classification": "脳腱黄色腫症治療剤",
+  "indications": "脳腱黄色腫症",
+  "dose_admin": "通常、成人にはケノデオキシコール酸として1日量250mgより投与開始し、250mgずつ増量した後、維持量として1日量750mgを、1日3回に分けて連日経口投与する。なお、患者の状態により適宜増減するが、1日量として1000mgを超えないこと。また、1回あたりの投与量として375mgを超えないこと。通常、小児にはケノデオキシコール酸として1日量5mg/kgより投与開始し、5mg/kgずつ増量した後、維持量として1日量15mg/kgを、1日3回に分けて連日経口投与する。なお、患者の状態により適宜増減するが、1日量として15mg/kg及び750mgのいずれも超えないこと。また、1回あたりの投与量として250mgを超えないこと。",
+  "contraindications": "胆道閉塞のある患者\n本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の作用が減弱されるおそれがあるため、可能な限り間隔をあけて投与すること",
+    "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること",
+    "本剤の作用が減弱されるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸作用を有するアルミニウム含有製剤\n水酸化アルミニウムゲル等",
+      "clinical_symptom_action": "本剤の作用が減弱されるおそれがあるため、可能な限り間隔をあけて投与すること。",
+      "mechanism_risk_factor": "アルミニウムを含有する制酸剤は本剤を吸着し、本剤の吸収が阻害されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "陰イオン交換樹脂\nコレスチラミン\nコレスチミド",
+      "clinical_symptom_action": "本剤の作用が減弱されるおそれがあるため、可能な限り間隔をあけて投与すること。",
+      "mechanism_risk_factor": "本剤と結合し吸収が阻害されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ウルソデオキシコール酸",
+      "clinical_symptom_action": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。",
+      "mechanism_risk_factor": "本剤及びウルソデオキシコール酸の吸収が競合するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "IBAT阻害剤\nエロビキシバット",
+      "clinical_symptom_action": "本剤の作用が減弱されるおそれがある。",
+      "mechanism_risk_factor": "本剤のIBATを介した再吸収が阻害されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン\nシロリムス",
+      "clinical_symptom_action": "本剤の作用が減弱されるおそれがある。",
+      "mechanism_risk_factor": "本剤によるコレスタノール蓄積抑制作用に拮抗することで、本剤の治療効果を減弱させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェノバルビタール\nプリミドン",
+      "clinical_symptom_action": "本剤の作用が減弱されるおそれがある。",
+      "mechanism_risk_factor": "本剤によるコレスタノール蓄積抑制作用に拮抗することで、本剤の治療効果を減弱させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口避妊薬",
+      "clinical_symptom_action": "本剤の作用が減弱されるおそれがある。",
+      "mechanism_risk_factor": "本剤のプールサイズを減少させるおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

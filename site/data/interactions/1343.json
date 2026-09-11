@@ -1,0 +1,188 @@
+[
+  {
+    "other_id": 152,
+    "other_brand": "アザニン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1785,
+    "other_brand": "イムラン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 15529,
+    "other_brand": "ロイケリン散10%",
+    "interaction_type": "caution",
+    "source_text": "メルカプトプリン水和物アザチオプリン"
+  },
+  {
+    "other_id": 1017,
+    "other_brand": "アラセナ−A軟膏3%",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 1018,
+    "other_brand": "アラセナ−A点滴静注用300mg",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 10589,
+    "other_brand": "ビダラビン軟膏3%「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 10591,
+    "other_brand": "ビダラビン軟膏3％「F」",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 10593,
+    "other_brand": "ビダラビン軟膏3％「SW」",
+    "interaction_type": "caution",
+    "source_text": "ビダラビン"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 2922,
+    "other_brand": "エンドキサン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "シクロホスファミド水和物"
+  },
+  {
+    "other_id": 16582,
+    "other_brand": "注射用エンドキサン100mg",
+    "interaction_type": "caution",
+    "source_text": "シクロホスファミド水和物"
+  },
+  {
+    "other_id": 17024,
+    "other_brand": "経口用エンドキサン原末100mg",
+    "interaction_type": "caution",
+    "source_text": "シクロホスファミド水和物"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 7956,
+    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系薬剤\nテオフィリン等"
+  },
+  {
+    "other_id": 7960,
+    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系薬剤\nテオフィリン等"
+  },
+  {
+    "other_id": 7961,
+    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系薬剤\nテオフィリン等"
+  },
+  {
+    "other_id": 7962,
+    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系薬剤\nテオフィリン等"
+  },
+  {
+    "other_id": 7965,
+    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系薬剤\nテオフィリン等"
+  },
+  {
+    "other_id": 7966,
+    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系薬剤\nテオフィリン等"
+  },
+  {
+    "other_id": 7971,
+    "other_brand": "テオロング錠50mg",
+    "interaction_type": "caution",
+    "source_text": "キサンチン系薬剤\nテオフィリン等"
+  }
+]

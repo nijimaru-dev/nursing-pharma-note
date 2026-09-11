@@ -1,0 +1,74 @@
+{
+  "id": 6193,
+  "brand_name": "スクラルファート細粒90%「ツルハラ」",
+  "generic_name": "スクラルファート水和物",
+  "therapeutic_classification": "胃炎・消化性潰瘍治療剤",
+  "indications": "胃潰瘍、十二指腸潰瘍\n下記疾患の胃粘膜病変（びらん、出血、発赤、浮腫）の改善\n急性胃炎、慢性胃炎の急性増悪期",
+  "dose_admin": "通常、成人1回1～1.2gずつ、1日3回経口投与する。年齢、症状により適宜増減する。",
+  "contraindications": "透析療法を受けている患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど注意すること",
+    "血清カリウム抑制イオン交換樹脂の効果が減弱するおそれがある",
+    "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある",
+    "この相互作用は併用薬を本剤の2時間以上前に服用することにより、弱まるとの報告がある",
+    "この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある",
+    "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある",
+    "これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる",
+    "同時に服用することにより、テオフィリン徐放性製剤のAUCが低下するおそれがある",
+    "制酸剤（乾燥水酸化アルミニウムゲル等）の投与により、併用薬剤の排泄が遅延することが知られている"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クエン酸製剤\nクエン酸カリウム、クエン酸ナトリウム水和物　等",
+      "clinical_symptom_action": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "キレートを形成し、アルミニウムの吸収が促進されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "血清カリウム抑制イオン交換樹脂\nポリスチレンスルホン酸カルシウム、ポリスチレンスルホン酸ナトリウム",
+      "clinical_symptom_action": "血清カリウム抑制イオン交換樹脂の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "アルミニウムイオンと非選択的に交換すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ニューキノロン系抗菌剤\nノルフロキサシン、塩酸シプロフロキサシン　等",
+      "clinical_symptom_action": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この相互作用は併用薬を本剤の2時間以上前に服用することにより、弱まるとの報告がある。",
+      "mechanism_risk_factor": "アルミニウムイオンと併用薬剤が不溶性のキレートを形成し、消化管からの吸収を遅延又は阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシン　等\nフェニトイン\nテトラサイクリン系抗生物質\nスルピリド　等",
+      "clinical_symptom_action": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。",
+      "mechanism_risk_factor": "本剤が併用薬剤を吸着し、消化管からの吸収を遅延又は阻害する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン剤\nレボチロキシンナトリウム水和物　等",
+      "clinical_symptom_action": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "胆汁酸製剤\nウルソデオキシコール酸、ケノデオキシコール酸",
+      "clinical_symptom_action": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。",
+      "mechanism_risk_factor": "消化管内で本剤と吸着することにより、これらの薬剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テオフィリン徐放性製剤",
+      "clinical_symptom_action": "同時に服用することにより、テオフィリン徐放性製剤のAUCが低下するおそれがある。",
+      "mechanism_risk_factor": "本剤がテオフィリン徐放性製剤の吸収を阻害するとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キニジン　等",
+      "clinical_symptom_action": "制酸剤（乾燥水酸化アルミニウムゲル等）の投与により、併用薬剤の排泄が遅延することが知られている。",
+      "mechanism_risk_factor": "制酸剤による尿のpH上昇による。"
+    }
+  ],
+  "facility_notes": ""
+}

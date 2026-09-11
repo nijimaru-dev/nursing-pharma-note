@@ -1,0 +1,86 @@
+{
+  "id": 7185,
+  "brand_name": "タダラフィル錠2.5mgZA「シオエ」",
+  "generic_name": "タダラフィル錠",
+  "therapeutic_classification": "前立腺肥大症に伴う排尿障害改善剤（ホスホジエステラーゼ5阻害剤）",
+  "indications": "前立腺肥大症に伴う排尿障害",
+  "dose_admin": "通常、成人には1日1回タダラフィルとして5mgを経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n硝酸剤又は一酸化窒素（NO）供与剤（ニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等）を投与中の患者\n,\n可溶性グアニル酸シクラーゼ（sGC）刺激剤（リオシグアト）を投与中の患者\n次に掲げる心血管系障害を有する患者［これらの患者は臨床試験では除外されている。］\n不安定狭心症のある患者\n,\n,\n心不全（NYHA分類Ⅲ度以上）のある患者\n,\n,\nコントロール不良の不整脈、低血圧（血圧＜90/50mmHg）又はコントロール不良の高血圧（安静時血圧＞170/100mmHg）のある患者\n,\n,\n心筋梗塞の既往歴が最近3ヵ月以内にある患者\n,\n,\n脳梗塞・脳出血の既往歴が最近6ヵ月以内にある患者\n,\n,\n重度の腎障害のある患者\n重度の肝障害のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "過敏症（頻度不明）\n発疹、蕁麻疹、顔面浮腫、剥脱性皮膚炎、Stevens-Johnson症候群等があらわれることがある。",
+  "observation_points": [
+    "過敏症（頻度不明）",
+    "発疹、蕁麻疹、顔面浮腫、剥脱性皮膚炎、Stevens-Johnson症候群等があらわれることがある",
+    "強いCYP3A4阻害作用を有するケトコナゾール（経口剤、国内未発売）との併用により、本剤のAUC及びC",
+    "max",
+    "が312%及び22%増加するとの報告がある",
+    "リトナビルとの併用により、本剤のAUCが124%増加するとの報告がある",
+    "リファンピシンとの併用により、本剤のAUC及びC",
+    "がそれぞれ88%及び46%低下するとの報告がある",
+    "ドキサゾシンとの併用により、立位収縮期血圧及び拡張期血圧は最大それぞれ9.81mmHg及び5.33mmHg下降するとの報告がある",
+    "また、α遮断剤との併用で失神等の症状を伴う血圧低下を来したとの報告がある",
+    "患者背景を考慮して治療上の有益性が危険性を上回る場合にのみ慎重に投与すること",
+    "アンジオテンシンⅡ受容体拮抗剤（単剤又は多剤）との併用により、自由行動下収縮期血圧及び拡張期血圧は最大それぞれ8mmHg及び4mmHg下降するとの報告がある",
+    "併用により降圧作用が増強するおそれがある",
+    "症候性低血圧を起こすおそれがある",
+    "治療上の有益性と危険性を十分に考慮し、治療上やむを得ないと判断された場合にのみ併用すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "硝酸剤及びNO供与剤\nニトログリセリン\n亜硝酸アミル\n硝酸イソソルビド\nニコランジル等\n,",
+      "clinical_symptom_action": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。",
+      "mechanism_risk_factor": "NOはcGMPの産生を刺激し、一方、本剤はcGMPの分解を抑制することから、両剤の併用によりcGMPの増大を介するNOの降圧作用が増強する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "sGC刺激剤\nリオシグアト（アデムパス）",
+      "clinical_symptom_action": "併用により、血圧低下を起こすおそれがある。",
+      "mechanism_risk_factor": "併用により、細胞内cGMP濃度が増加し、全身血圧に相加的な影響を及ぼすおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4阻害剤\nイトラコナゾール\nクラリスロマイシン\nテラプレビル\nグレープフルーツジュース等\n,",
+      "clinical_symptom_action": "強いCYP3A4阻害作用を有するケトコナゾール（経口剤、国内未発売）との併用により、本剤のAUC及びC\nmax\nが312%及び22%増加するとの報告がある\n。",
+      "mechanism_risk_factor": "CYP3A4阻害によるクリアランスの減少。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nリトナビル\nインジナビル\nサキナビル\nダルナビル等",
+      "clinical_symptom_action": "リトナビルとの併用により、本剤のAUCが124%増加するとの報告がある\n。",
+      "mechanism_risk_factor": "CYP3A4阻害によるクリアランスの減少。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4誘導剤\nリファンピシン\nフェニトイン\nフェノバルビタール等",
+      "clinical_symptom_action": "リファンピシンとの併用により、本剤のAUC及びC\nmax\nがそれぞれ88%及び46%低下するとの報告がある\n。",
+      "mechanism_risk_factor": "CYP3A4誘導によるクリアランスの増加により本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "α遮断剤\nドキサゾシン\nテラゾシン等",
+      "clinical_symptom_action": "ドキサゾシンとの併用により、立位収縮期血圧及び拡張期血圧は最大それぞれ9.81mmHg及び5.33mmHg下降するとの報告がある\n。また、α遮断剤との併用で失神等の症状を伴う血圧低下を来したとの報告がある。患者背景を考慮して治療上の有益性が危険性を上回る場合にのみ慎重に投与すること。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用により降圧作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "降圧剤\nアムロジピン\nメトプロロール\nエナラプリル\nカンデサルタン等",
+      "clinical_symptom_action": "アンジオテンシンⅡ受容体拮抗剤（単剤又は多剤）との併用により、自由行動下収縮期血圧及び拡張期血圧は最大それぞれ8mmHg及び4mmHg下降するとの報告がある\n。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用により降圧作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルペリチド",
+      "clinical_symptom_action": "併用により降圧作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用により降圧作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ベルイシグアト",
+      "clinical_symptom_action": "症候性低血圧を起こすおそれがある。治療上の有益性と危険性を十分に考慮し、治療上やむを得ないと判断された場合にのみ併用すること。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、降圧作用を増強するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

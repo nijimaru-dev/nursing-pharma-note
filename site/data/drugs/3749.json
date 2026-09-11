@@ -1,0 +1,24 @@
+{
+  "id": 3749,
+  "brand_name": "カリジノゲナーゼ錠50単位「NIG」（旧製品）",
+  "generic_name": "カリジノゲナーゼ錠",
+  "therapeutic_classification": "循環障害改善剤",
+  "indications": "下記疾患における末梢循環障害の改善\n高血圧症、メニエール症候群、閉塞性血栓血管炎（ビュルガー病）\n下記症状の改善\n更年期障害、網脈絡膜の循環障害",
+  "dose_admin": "カリジノゲナーゼとして、通常成人1日30～150単位を1日3回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "脳出血直後等の新鮮出血時の患者［血管拡張作用により出血を助長するおそれがある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "過度の血圧低下が引き起こされる可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アンジオテンシン変換酵素阻害剤",
+      "clinical_symptom_action": "過度の血圧低下が引き起こされる可能性がある。",
+      "mechanism_risk_factor": "本剤のキニン産生作用とアンジオテンシン変換酵素阻害剤のキニン分解抑制作用により、血中キニン濃度が増大し、血管平滑筋弛緩が増強される可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

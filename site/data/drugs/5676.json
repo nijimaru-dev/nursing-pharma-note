@@ -1,0 +1,95 @@
+{
+  "id": 5676,
+  "brand_name": "シルデナフィル錠20mgRE「JG」",
+  "generic_name": "シルデナフィルクエン酸塩錠",
+  "therapeutic_classification": "ホスホジエステラーゼ5阻害薬",
+  "indications": "肺動脈性肺高血圧症",
+  "dose_admin": "成人通常、シルデナフィルとして1回20mgを1日3回経口投与する。1歳以上の小児体重20kg超の場合：通常、シルデナフィルとして1回20mgを1日3回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n硝酸薬あるいは一酸化窒素（NO）供与薬（ニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等）を投与中の患者\n重度の肝機能障害のある患者（Child-Pugh Class C）\nリトナビル含有製剤、ダルナビル含有製剤、イトラコナゾール及びコビシスタット含有製剤を投与中の患者\n可溶性グアニル酸シクラーゼ（sGC）刺激剤（リオシグアト）を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血漿中濃度が上昇する",
+    "エリスロマイシン及びシメチジンとの併用により、本剤の血漿中濃度が上昇し、Cmaxはそれぞれ2.6倍及び1.5倍に増加し、AUCはそれぞれ2.8倍及び1.6倍に増加した",
+    ",",
+    "本剤の血漿中濃度が低下する",
+    "⑴血圧低下作用が増強するおそれがある",
+    "⑵本剤の血漿中濃度が低下し、Cmax及びAUCがそれぞれ0.45倍及び0.37倍に減少した",
+    "アムロジピン等の降圧剤との併用で降圧作用を増強したとの報告がある",
+    "ドキサゾシン等のα遮断剤との併用でめまい等の自覚症状を伴う血圧低下を来したとの報告がある",
+    "起立性低血圧が発現することを最小限に抑えるため、本剤を投与する前にα遮断薬療法中の患者の血行動態が安定していることを確認すること",
+    "降圧作用が増強するおそれがある",
+    "出血（鼻出血等）の危険性が高まることがある",
+    "アミオダロン塩酸塩によるQTc延長作用が増強するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "硝酸薬及びNO供与薬\nニトログリセリン亜硝酸アミル硝酸イソソルビドニコランジル等",
+      "clinical_symptom_action": "降圧作用を増強することがある\n,\n,\n。",
+      "mechanism_risk_factor": "NOはcGMPの産生を刺激し、一方、本剤はcGMPの分解を抑制することから、両剤の併用によりcGMPの増大を介する降圧作用が増強する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リトナビル含有製剤\n（ノービア、カレトラ、パキロビッド）\nダルナビル含有製剤\n（プリジスタ、プレジコビックス）\nイトラコナゾール\n（イトリゾール）\nコビシスタット含有製剤\n（ゲンボイヤ、プレジコビックス、シムツーザ）",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇する。リトナビルとの併用により、本剤の血漿中濃度が上昇し、最高血漿中濃度（Cmax）及び血漿中濃度-時間曲線下面積（AUC）がそれぞれ3.9倍及び10.5倍に増加した\n。",
+      "mechanism_risk_factor": "CYP3A4阻害薬は本剤の代謝を阻害するおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "sGC刺激剤\nリオシグアト（アデムパス）",
+      "clinical_symptom_action": "症候性低血圧を起こすことがある\n。",
+      "mechanism_risk_factor": "リオシグアト投与により細胞内cGMP濃度が増加し、一方、本剤はcGMPの分解を抑制することから、両剤の併用によりcGMPの細胞内濃度が増大し、全身血圧に相加的な影響を及ぼすおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4阻害薬\n（エリスロマイシン、シメチジン、アタザナビル、クラリスロマイシン、エンシトレルビル　フマル酸等）",
+      "clinical_symptom_action": "本剤の血漿中濃度が上昇する。エリスロマイシン及びシメチジンとの併用により、本剤の血漿中濃度が上昇し、Cmaxはそれぞれ2.6倍及び1.5倍に増加し、AUCはそれぞれ2.8倍及び1.6倍に増加した\n,\n。",
+      "mechanism_risk_factor": "CYP3A4阻害薬は本剤の代謝を阻害するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4誘導薬\n（デキサメタゾン、フェニトイン、リファンピシン、カルバマゼピン、フェノバルビタール等）",
+      "clinical_symptom_action": "本剤の血漿中濃度が低下する。",
+      "mechanism_risk_factor": "これらの薬剤により誘導された代謝酵素により、本剤の代謝が促進されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボセンタン\n（トラクリア）",
+      "clinical_symptom_action": "⑴血圧低下作用が増強するおそれがある。⑵本剤の血漿中濃度が低下し、Cmax及びAUCがそれぞれ0.45倍及び0.37倍に減少した\n。",
+      "mechanism_risk_factor": "⑴両剤の薬理学的な相加作用等が考えられる。⑵ボセンタンにより誘導された代謝酵素により、本剤の代謝が促進されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "降圧薬",
+      "clinical_symptom_action": "アムロジピン等の降圧剤との併用で降圧作用を増強したとの報告がある\n,\n。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用による降圧作用を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "α遮断薬",
+      "clinical_symptom_action": "ドキサゾシン等のα遮断剤との併用でめまい等の自覚症状を伴う血圧低下を来したとの報告がある\n。起立性低血圧が発現することを最小限に抑えるため、本剤を投与する前にα遮断薬療法中の患者の血行動態が安定していることを確認すること。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用による降圧作用を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルペリチド",
+      "clinical_symptom_action": "降圧作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤は血管拡張作用による降圧作用を有するため、併用による降圧作用を増強することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンK拮抗薬\n（ワルファリン）",
+      "clinical_symptom_action": "出血（鼻出血等）の危険性が高まることがある。",
+      "mechanism_risk_factor": "本剤は微小血管が豊富な鼻甲介の血流量を増加させるため、併用により鼻出血の発現を増強するおそれがある。また、結合組織疾患に伴う血小板機能異常がみられる患者及び経鼻酸素療法（鼻粘膜を乾燥させる）や抗凝固療法を併用している患者では鼻出血などの出血が発現しやすい。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミオダロン塩酸塩",
+      "clinical_symptom_action": "アミオダロン塩酸塩によるQTc延長作用が増強するおそれがある。",
+      "mechanism_risk_factor": "機序不明。類薬とアミオダロン塩酸塩の併用により、QTc延長があらわれるおそれがあるとの報告がある\n。"
+    }
+  ],
+  "facility_notes": ""
+}

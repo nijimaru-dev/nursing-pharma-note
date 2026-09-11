@@ -1,0 +1,43 @@
+{
+  "id": 2754,
+  "brand_name": "エピレオプチマル散50%",
+  "generic_name": "エトスクシミド",
+  "therapeutic_classification": "てんかん小発作治療剤",
+  "indications": "定型欠神発作（小発作）、小型（運動）発作〔ミオクロニー発作、失立（無動）発作、点頭てんかん（幼児けい縮発作、BNSけいれん等）〕",
+  "dose_admin": "通常成人には1日0.9～2g（エトスクシミドとして、450～1000mg）を2～3回に分けて経口投与する。小児は1日0.3～1.2g（エトスクシミドとして、150～600mg）を1～3回に分けて経口投与する。なお、年齢、症状に応じて適宜増減する。",
+  "contraindications": "本剤の成分に対して過敏症の既往歴のある患者\n重篤な血液障害のある患者［血液障害を悪化させることがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "Stevens-Johnson症候群（頻度不明）\n発熱、皮膚・粘膜の発疹又は紅斑、壊死性結膜炎等の症候群があらわれることがある。\nSLE様症状（頻度不明）\n発熱、紅斑、筋肉痛、関節痛、リンパ節腫脹、胸部痛等があらわれることがある。\n再生不良性貧血、汎血球減少（いずれも頻度不明）",
+  "observation_points": [
+    "Stevens-Johnson症候群（頻度不明）",
+    "発熱、皮膚・粘膜の発疹又は紅斑、壊死性結膜炎等の症候群があらわれることがある",
+    "SLE様症状（頻度不明）",
+    "発熱、紅斑、筋肉痛、関節痛、リンパ節腫脹、胸部痛等があらわれることがある",
+    "再生不良性貧血、汎血球減少（いずれも頻度不明）",
+    "本剤の作用が増強されることがある",
+    "フェニトインの作用を増強することがある",
+    "本剤の作用が減弱されることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルプロ酸ナトリウム",
+      "clinical_symptom_action": "本剤の作用が増強されることがある。",
+      "mechanism_risk_factor": "本剤の代謝が阻害され、本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "フェニトインの作用を増強することがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルバマゼピン\nルフィナミド",
+      "clinical_symptom_action": "本剤の作用が減弱されることがある。",
+      "mechanism_risk_factor": "相手薬剤がCYP3A4を誘導し、本剤の代謝が促進され血中濃度が低下する。"
+    }
+  ],
+  "facility_notes": ""
+}

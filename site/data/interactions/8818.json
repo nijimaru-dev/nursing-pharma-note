@@ -1,0 +1,644 @@
+[
+  {
+    "other_id": 1941,
+    "other_brand": "インレビックカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6の基質となる薬剤\nメトプロロール、アミトリプチリン、ペルフェナジン等"
+  },
+  {
+    "other_id": 3701,
+    "other_brand": "カフコデN配合錠",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤（フェノチアジン誘導体、バルビツール酸系薬剤等）\nクロルプロマジン、ペルフェナジン、フェノバルビタール等\n吸入麻酔剤（エーテル等）モノアミン酸化酵素阻害剤三環系抗うつ剤（イミプラミン塩酸塩等）β-遮断剤（アルプレノロール、プロプラノロール等）"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "ペルフェナジン"
+  },
+  {
+    "other_id": 5341,
+    "other_brand": "サインバルタカプセル20mg",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リスペリドンペルフェナジンクエチアピン"
+  },
+  {
+    "other_id": 8318,
+    "other_brand": "デムサーカプセル250mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系抗精神病薬\nクロルプロマジン、レボメプロマジン、ペルフェナジン、フルフェナジン、プロクロルペラジン、プロペリシアジン\nハロペリドール"
+  },
+  {
+    "other_id": 8365,
+    "other_brand": "デュロキセチンカプセル20mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8366,
+    "other_brand": "デュロキセチンカプセル20mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8368,
+    "other_brand": "デュロキセチンカプセル20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8369,
+    "other_brand": "デュロキセチンカプセル20mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8370,
+    "other_brand": "デュロキセチンカプセル20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8371,
+    "other_brand": "デュロキセチンカプセル20mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8372,
+    "other_brand": "デュロキセチンカプセル20mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8373,
+    "other_brand": "デュロキセチンカプセル20mg「三笠」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8374,
+    "other_brand": "デュロキセチンカプセル20mg「日医工G」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8375,
+    "other_brand": "デュロキセチンカプセル20mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8377,
+    "other_brand": "デュロキセチンカプセル20mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8378,
+    "other_brand": "デュロキセチンカプセル20mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8379,
+    "other_brand": "デュロキセチンカプセル20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8380,
+    "other_brand": "デュロキセチンカプセル20mg「KMP」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8381,
+    "other_brand": "デュロキセチンカプセル20mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8399,
+    "other_brand": "デュロキセチン錠20mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8400,
+    "other_brand": "デュロキセチン錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8403,
+    "other_brand": "デュロキセチンOD錠20mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 8376,
+    "other_brand": "デュロキセチンカプセル20mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩、ノルトリプチリン塩酸塩、イミプラミン塩酸塩等\nフェノチアジン系抗精神病剤\nペルフェナジン\n抗不整脈剤\nプロパフェノン塩酸塩、フレカイニド酢酸塩"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリン\n（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）（ボスミン）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\n（バルビツール酸誘導体・麻酔剤等）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\n（バルビツール酸誘導体・麻酔剤等）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\n（バルビツール酸誘導体・麻酔剤等）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\n（バルビツール酸誘導体・麻酔剤等）"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール\n（飲酒）"
+  },
+  {
+    "other_id": 9161,
+    "other_brand": "ドンペリドン坐剤10mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9162,
+    "other_brand": "ドンペリドン坐剤10mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9163,
+    "other_brand": "ドンペリドン坐剤10mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9167,
+    "other_brand": "ドンペリドン錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9168,
+    "other_brand": "ドンペリドン錠5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9170,
+    "other_brand": "ドンペリドン錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9171,
+    "other_brand": "ドンペリドン錠5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9172,
+    "other_brand": "ドンペリドン錠5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9173,
+    "other_brand": "ドンペリドン錠5mg「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9174,
+    "other_brand": "ドンペリドン錠5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9187,
+    "other_brand": "ドンペリドンDS小児用1％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9190,
+    "other_brand": "ナウゼリンドライシロップ1%",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9191,
+    "other_brand": "ナウゼリン坐剤10",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9194,
+    "other_brand": "ナウゼリン錠5",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9196,
+    "other_brand": "ナウゼリンOD錠5",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 11861,
+    "other_brand": "プリンペランシロップ0.1%",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 11862,
+    "other_brand": "プリンペラン注射液10mg",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 11863,
+    "other_brand": "プリンペラン細粒2%",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 11864,
+    "other_brand": "プリンペラン錠5",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 13663,
+    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 13664,
+    "other_brand": "メトクロプラミド錠5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 13665,
+    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ドンペリドンメトクロプラミド"
+  },
+  {
+    "other_id": 9097,
+    "other_brand": "ドパストンカプセル250mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\n（レボドパ製剤、ブロモクリプチンメシル酸塩）"
+  },
+  {
+    "other_id": 9099,
+    "other_brand": "ドパストン静注25mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\n（レボドパ製剤、ブロモクリプチンメシル酸塩）"
+  },
+  {
+    "other_id": 9101,
+    "other_brand": "ドパゾール錠200mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\n（レボドパ製剤、ブロモクリプチンメシル酸塩）"
+  },
+  {
+    "other_id": 10316,
+    "other_brand": "パーロデル錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\n（レボドパ製剤、ブロモクリプチンメシル酸塩）"
+  },
+  {
+    "other_id": 11743,
+    "other_brand": "ブロモクリプチン錠2.5mg「フソー」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\n（レボドパ製剤、ブロモクリプチンメシル酸塩）"
+  },
+  {
+    "other_id": 11744,
+    "other_brand": "ブロモクリプチン錠2.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "ドパミン作動薬\n（レボドパ製剤、ブロモクリプチンメシル酸塩）"
+  },
+  {
+    "other_id": 10120,
+    "other_brand": "パキシル錠5mg",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10123,
+    "other_brand": "パキシルCR錠6.25mg",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10197,
+    "other_brand": "パロキセチン錠10mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10198,
+    "other_brand": "パロキセチン錠5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10199,
+    "other_brand": "パロキセチン錠5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10201,
+    "other_brand": "パロキセチン錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10202,
+    "other_brand": "パロキセチン錠5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10204,
+    "other_brand": "パロキセチン錠5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10205,
+    "other_brand": "パロキセチン錠5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10206,
+    "other_brand": "パロキセチン錠5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10207,
+    "other_brand": "パロキセチン錠5mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10208,
+    "other_brand": "パロキセチン錠5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10209,
+    "other_brand": "パロキセチン錠5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10210,
+    "other_brand": "パロキセチン錠5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10213,
+    "other_brand": "パロキセチン錠5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10214,
+    "other_brand": "パロキセチン錠5mg「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10216,
+    "other_brand": "パロキセチン錠5mg「TSU」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 10217,
+    "other_brand": "パロキセチン錠5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "パロキセチン塩酸塩水和物"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 4181,
+    "other_brand": "キシロカインポンプスプレー8%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 14784,
+    "other_brand": "リドカインテープ18mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 14788,
+    "other_brand": "リドカインポンプスプレー8％「日新」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 14791,
+    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 14797,
+    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 14809,
+    "other_brand": "リドカイン点滴静注液1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 14810,
+    "other_brand": "リドカイン静注液2％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 16535,
+    "other_brand": "歯科用キシロカインカートリッジ",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 10211,
+    "other_brand": "パロキセチン錠5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系抗精神病剤\nペルフェナジン\nリスペリドン"
+  },
+  {
+    "other_id": 10212,
+    "other_brand": "パロキセチン錠5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系抗精神病剤\nペルフェナジン\nリスペリドン"
+  },
+  {
+    "other_id": 10215,
+    "other_brand": "パロキセチン錠5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系抗精神病剤\nペルフェナジン\nリスペリドン"
+  },
+  {
+    "other_id": 10218,
+    "other_brand": "パロキセチン錠5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系抗精神病剤\nペルフェナジン\nリスペリドン"
+  },
+  {
+    "other_id": 10203,
+    "other_brand": "パロキセチン錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系抗精神病剤\nペルフェナジン\nリスペリドン"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "リスペリドンペルフェナジンクエチアピン"
+  },
+  {
+    "other_id": 12316,
+    "other_brand": "ベタニス錠25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP2D6の基質\nデキストロメトルファン\nフェノチアジン系抗精神病剤\nペルフェナジン\nドネペジル\n等"
+  }
+]

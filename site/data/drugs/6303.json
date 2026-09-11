@@ -1,0 +1,147 @@
+{
+  "id": 6303,
+  "brand_name": "スピジア点鼻液5mg",
+  "generic_name": "ジアゼパム",
+  "therapeutic_classification": "抗けいれん剤",
+  "indications": "てんかん重積状態",
+  "dose_admin": "通常、成人及び2歳以上の小児にはジアゼパムとして、患者の年齢及び体重を考慮し、5～20mgを1回鼻腔内に投与する。効果不十分な場合には4時間以上あけて2回目の投与ができる。ただし、6歳未満の小児の1回量は15mgを超えないこと。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n急性閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n重症筋無力症の患者［本剤の筋弛緩作用により症状が悪化するおそれがある。］\nリトナビル（HIVプロテアーゼ阻害剤）、ニルマトレルビル・リトナビルを投与中の患者",
+  "application_precautions": "薬剤交付時の注意\n本剤は鼻腔内投与のみで使用するよう患者及び保護者（家族）又はそれに代わる適切な者に指導すること。\n冷蔵又は凍結しないよう指導すること。\n本剤は1回使用の製剤である。本剤は空打ちや再使用しないよう指導すること。",
+  "serious_adverse_events": "依存性、離脱症状（いずれも頻度不明\n）\n連用により薬物依存を生じることがあるので、観察を十分に行い、用量及び使用期間に注意し慎重に投与すること。\n刺激興奮、錯乱等（いずれも頻度不明\n）\n呼吸抑制（頻度不明\n）",
+  "observation_points": [
+    "依存性、離脱症状（いずれも頻度不明",
+    "）",
+    "連用により薬物依存を生じることがあるので、観察を十分に行い、用量及び使用期間に注意し慎重に投与すること",
+    "刺激興奮、錯乱等（いずれも頻度不明",
+    "呼吸抑制（頻度不明",
+    "作用が増強されることがある",
+    "本剤の血中濃度が上昇する可能性がある",
+    "本剤又はこれらの薬剤の作用が増強されるおそれがある",
+    "中枢神経抑制作用を増強することがある",
+    "鎮静作用が増強されるおそれがある",
+    "また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある",
+    "本剤の作用が増強することがある",
+    "筋弛緩作用を増強することがある",
+    "本剤の血中濃度が低下し、作用が減弱するおそれがある",
+    "これら薬剤の血中濃度に影響を与えるおそれがある",
+    "本剤の血中濃度が減少することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リトナビル\nノービア\nニルマトレルビル・リトナビル\nパキロビッド",
+      "clinical_symptom_action": "過度の鎮静や呼吸抑制等を起こすおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYPに対する競合的阻害作用により、併用した場合、本剤の血中濃度が大幅に上昇することが予測される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\nフェノチアジン誘導体、バルビツール酸誘導体等",
+      "clinical_symptom_action": "作用が増強されることがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "オピオイド鎮痛剤",
+      "clinical_symptom_action": "作用が増強されることがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール（飲酒）",
+      "clinical_symptom_action": "作用が増強されることがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤",
+      "clinical_symptom_action": "作用が増強されることがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン、オメプラゾール、エソメプラゾール、ランソプラゾール",
+      "clinical_symptom_action": "作用が増強されることがある。",
+      "mechanism_risk_factor": "シメチジン・オメプラゾールにより肝臓のCYPによる代謝が阻害され、本剤のクリアランスが減少し、血中濃度が上昇することによる。本剤の代謝、排泄を遷延させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シプロフロキサシン",
+      "clinical_symptom_action": "作用が増強されることがある。",
+      "mechanism_risk_factor": "本剤のクリアランスがシプロフロキサシンとの併用により低下することが報告されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルボキサミンマレイン酸塩",
+      "clinical_symptom_action": "作用が増強されることがある。",
+      "mechanism_risk_factor": "本剤の代謝が阻害されることにより本剤のクリアランスが低下することが報告されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強いCYP3Aを阻害する薬剤\nコビシスタットを含有する製剤、ボリコナゾール等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "これら薬剤のCYP3A阻害作用により、本剤の代謝が阻害されるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4で代謝される薬剤\nアゼルニジピン、ホスアンプレナビル等",
+      "clinical_symptom_action": "本剤又はこれらの薬剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "本剤とこれらの薬剤がCYP3A4を競合的に阻害することにより、相互のクリアランスが低下すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エトラビリン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "エトラビリンのCYP2C9、CYP2C19阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マプロチリン塩酸塩",
+      "clinical_symptom_action": "中枢神経抑制作用を増強することがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミルタザピン",
+      "clinical_symptom_action": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。",
+      "mechanism_risk_factor": "相加的な鎮静作用を示すことが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルプロ酸ナトリウム",
+      "clinical_symptom_action": "本剤の作用が増強することがある。",
+      "mechanism_risk_factor": "本剤の非結合型の血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダントロレンナトリウム水和物、ボツリヌス毒素製剤",
+      "clinical_symptom_action": "筋弛緩作用を増強することがある。",
+      "mechanism_risk_factor": "相互に筋弛緩作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "リファンピシンのCYP3A4誘導作用により、本剤の代謝が誘導され、血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アパルタミド",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "アパルタミドのCYP2C19誘導作用により、本剤の代謝が誘導され、血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シナカルセト、エボカルセト",
+      "clinical_symptom_action": "これら薬剤の血中濃度に影響を与えるおそれがある。",
+      "mechanism_risk_factor": "血漿蛋白結合率が高いことによる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "無水カフェイン",
+      "clinical_symptom_action": "本剤の血中濃度が減少することがある。",
+      "mechanism_risk_factor": "不明"
+    }
+  ],
+  "facility_notes": ""
+}

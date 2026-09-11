@@ -1,0 +1,60 @@
+{
+  "id": 12367,
+  "brand_name": "ベニジピン塩酸塩錠2mg「ツルハラ」",
+  "generic_name": "ベニジピン塩酸塩",
+  "therapeutic_classification": "高血圧症・狭心症治療剤（持続性Ca拮抗薬）",
+  "indications": "高血圧症、腎実質性高血圧症\n狭心症",
+  "dose_admin": "〈高血圧症、腎実質性高血圧症〉\n通常、成人にはベニジピン塩酸塩として1日1回2～4mgを朝食後経口投与する。なお、年齢、症状により適宜増減するが、効果不十分な場合には、1日1回8mgまで増量することができる。ただし、重症高血圧症には1日1回4～8mgを朝食後経口投与する。\n〈狭心症〉\n通常、成人にはベニジピン塩酸塩として1回4mgを1日2回朝・夕食後経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "心原性ショックの患者［症状が悪化するおそれがある。］\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤調製時の注意\n〈錠4mg、錠8mg〉\n分割後は遮光のうえ、早めに使用すること。\n薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "肝機能障害（0.1%未満）、黄疸（頻度不明）\nAST、ALT、γ-GTPの上昇等を伴う肝機能障害や黄疸があらわれることがある。",
+  "observation_points": [
+    "肝機能障害（0.1%未満）、黄疸（頻度不明）",
+    "AST、ALT、γ-GTPの上昇等を伴う肝機能障害や黄疸があらわれることがある",
+    "血圧が過度に低下することがある",
+    "ジギタリス中毒があらわれるおそれがある",
+    "ジゴキシンの血中濃度と心臓の状態をモニターし、異常が認められた場合には、ジゴキシンの用量の調節又は本剤の投与を中止する",
+    "血圧が過度に低下するおそれがある",
+    "降圧作用が減弱されるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "降圧作用を有する薬剤",
+      "clinical_symptom_action": "血圧が過度に低下することがある。",
+      "mechanism_risk_factor": "降圧作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジギタリス中毒があらわれるおそれがある。ジゴキシンの血中濃度と心臓の状態をモニターし、異常が認められた場合には、ジゴキシンの用量の調節又は本剤の投与を中止する。",
+      "mechanism_risk_factor": "カルシウム拮抗剤が、ジゴキシンの尿細管分泌を阻害し、血中ジゴキシン濃度を上昇させるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "血圧が過度に低下するおそれがある。",
+      "mechanism_risk_factor": "シメチジンが肝ミクロソームにおけるカルシウム拮抗剤の代謝酵素を阻害する一方で胃酸を低下させ、薬物の吸収を増加させるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "降圧作用が減弱されるおそれがある。",
+      "mechanism_risk_factor": "リファンピシンが肝の薬物代謝酵素を誘導し、カルシウム拮抗剤の代謝を促進し、血中濃度を低下させるとの報告がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾール",
+      "clinical_symptom_action": "血圧が過度に低下することがある。",
+      "mechanism_risk_factor": "イトラコナゾールが、肝臓における本剤の代謝を阻害し、本剤の血中濃度が上昇するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツジュース",
+      "clinical_symptom_action": "血圧が過度に低下することがある。",
+      "mechanism_risk_factor": "グレープフルーツジュースが、肝臓における本剤の代謝を阻害し、本剤の血中濃度が上昇する。"
+    }
+  ],
+  "facility_notes": ""
+}

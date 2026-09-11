@@ -1,0 +1,46 @@
+{
+  "id": 1290,
+  "brand_name": "アレルギン散1%",
+  "generic_name": "クロルフェニラミンマレイン酸塩",
+  "therapeutic_classification": "抗ヒスタミン剤",
+  "indications": "じん麻疹、血管運動性浮腫、枯草熱、皮膚疾患に伴うそう痒（湿疹・皮膚炎、皮膚そう痒症、薬疹）、アレルギー性鼻炎、血管運動性鼻炎、感冒等上気道炎に伴うくしゃみ・鼻汁・咳嗽",
+  "dose_admin": "dl\n-クロルフェニラミンマレイン酸塩として、通常、成人1回2～6mgを1日2～4回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤の成分又は類似化合物に対し過敏症の既往歴のある患者\n閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n前立腺肥大等下部尿路に閉塞性疾患のある患者［抗コリン作用により尿の貯留をきたすおそれがある。］\n低出生体重児・新生児",
+  "application_precautions": "",
+  "serious_adverse_events": "再生不良性貧血、無顆粒球症（いずれも頻度不明）",
+  "observation_points": [
+    "再生不良性貧血、無顆粒球症（いずれも頻度不明）",
+    "中枢神経抑制作用が増強されるおそれがある",
+    "精神運動障害が起こることがある",
+    "本剤の作用が増強されるおそれがある",
+    "血圧の異常上昇を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\nバルビツール酸系薬剤等",
+      "clinical_symptom_action": "中枢神経抑制作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "いずれも中枢神経抑制作用を有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "精神運動障害が起こることがある。",
+      "mechanism_risk_factor": "いずれも中枢神経抑制作用を有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "MAO阻害剤",
+      "clinical_symptom_action": "本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "抗コリン作用が増強されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドロキシドパノルアドレナリン",
+      "clinical_symptom_action": "血圧の異常上昇を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤がヒスタミンによる毛細血管拡張を抑制すると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

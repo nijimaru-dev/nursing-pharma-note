@@ -1,0 +1,30 @@
+{
+  "id": 5397,
+  "brand_name": "サリパラ液",
+  "generic_name": "オウヒエキス製剤",
+  "therapeutic_classification": "鎮咳去痰剤",
+  "indications": "下記疾患に伴う咳嗽及び喀痰喀出困難\n急性気管支炎、肺炎、肺結核",
+  "dose_admin": "通常成人1回2～4mL（オウヒエキスとして66～132mg）を、1日3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "ジスルフィラム、シアナミド、カルモフール、プロカルバジン塩酸塩を投与中の患者",
+  "application_precautions": "薬剤投与時の注意\nときに沈殿を生じることがあるので、用時よく振盪して使用すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤とのアルコール反応（顔面潮紅、悪心、頻脈、多汗、頭痛等）を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ジスルフィラム（ノックビン）\nシアナミド（シアナマイド）\nカルモフール\nプロカルバジン塩酸塩",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等）を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "N-メチルテトラゾールチオメチル基を有するセフェム系抗生物質\nセフメノキシム塩酸塩\nセフォペラゾンナトリウム\nセフミノクスナトリウム水和物\nセフメタゾールナトリウム\nラタモキセフナトリウム\nメトロニダゾール",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応（顔面潮紅、悪心、頻脈、多汗、頭痛等）を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    }
+  ],
+  "facility_notes": ""
+}

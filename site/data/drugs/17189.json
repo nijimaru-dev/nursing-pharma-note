@@ -1,0 +1,24 @@
+{
+  "id": 17189,
+  "brand_name": "複方ヨード・グリセリン「ニッコー」",
+  "generic_name": "複方ヨード・グリセリン",
+  "therapeutic_classification": "口腔用剤",
+  "indications": "咽頭炎、喉頭炎、扁桃炎",
+  "dose_admin": "症状に応じ、適宜適量を患部に塗布する。",
+  "contraindications": "本剤又はヨウ素に対し過敏症の既往歴のある患者\n水銀剤を使用中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "アナフィラキシー（頻度不明） アナフィラキシー（呼吸困難、潮紅、蕁麻疹等）があらわれることがある。",
+  "observation_points": [
+    "アナフィラキシー（頻度不明） アナフィラキシー（呼吸困難、潮紅、蕁麻疹等）があらわれることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "水銀剤 マーキュロクロム液",
+      "clinical_symptom_action": "ヨウ化水銀の毒性（腹痛、嘔吐、下痢、皮膚の炎症等）があらわれるおそれがある。",
+      "mechanism_risk_factor": "ヨウ化水銀が発生するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

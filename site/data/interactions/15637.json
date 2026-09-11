@@ -1,0 +1,650 @@
+[
+  {
+    "other_id": 718,
+    "other_brand": "アマリール0.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 2944,
+    "other_brand": "オイグルコン錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 3113,
+    "other_brand": "オゼックス細粒小児用15%",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム\nロキソプロフェンナトリウム水和物\n等"
+  },
+  {
+    "other_id": 3115,
+    "other_brand": "オゼックス錠75",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム\nロキソプロフェンナトリウム水和物\n等"
+  },
+  {
+    "other_id": 4832,
+    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 4833,
+    "other_brand": "グリベンクラミド錠1.25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 4834,
+    "other_brand": "グリベンクラミド錠1.25mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 4835,
+    "other_brand": "グリベンクラミド錠1.25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセンロキソプロフェンナトリウム水和物　等\nアリール酢酸系消炎剤\nアンフェナクナトリウム水和物ナブメトン　等\nオキシカム系消炎剤\nロルノキシカム　等"
+  },
+  {
+    "other_id": 4843,
+    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4846,
+    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4848,
+    "other_brand": "グリメピリド錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4849,
+    "other_brand": "グリメピリド錠0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4850,
+    "other_brand": "グリメピリド錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4851,
+    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4852,
+    "other_brand": "グリメピリド錠0.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4853,
+    "other_brand": "グリメピリド錠0.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4854,
+    "other_brand": "グリメピリド錠0.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4855,
+    "other_brand": "グリメピリド錠0.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4856,
+    "other_brand": "グリメピリド錠0.5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4857,
+    "other_brand": "グリメピリド錠0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4858,
+    "other_brand": "グリメピリド錠0.5mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4859,
+    "other_brand": "グリメピリド錠0.5mg「NC」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4860,
+    "other_brand": "グリメピリド錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4861,
+    "other_brand": "グリメピリド錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4862,
+    "other_brand": "グリメピリド錠0.5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4863,
+    "other_brand": "グリメピリド錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4864,
+    "other_brand": "グリメピリド錠0.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4865,
+    "other_brand": "グリメピリド錠0.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4912,
+    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4913,
+    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 4914,
+    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロピオン酸系消炎剤\nナプロキセン\nロキソプロフェンナトリウム水和物　等"
+  },
+  {
+    "other_id": 5851,
+    "other_brand": "ジェニナック錠200mg",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム、ロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 8475,
+    "other_brand": "トスフロキサシントシル酸塩小児用細粒15%「明治」",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウムロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 8476,
+    "other_brand": "トスフロキサシントシル酸塩細粒小児用15％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウムロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 8477,
+    "other_brand": "トスフロキサシントシル酸塩細粒小児用15%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウムロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 8478,
+    "other_brand": "トスフロキサシントシル酸塩細粒小児用15％「TCK」",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウムロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 8479,
+    "other_brand": "トスフロキサシントシル酸塩錠75mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム\nロキソプロフェンナトリウム水和物\n等"
+  },
+  {
+    "other_id": 8480,
+    "other_brand": "トスフロキサシントシル酸塩錠75mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム\nロキソプロフェンナトリウム水和物\n等"
+  },
+  {
+    "other_id": 10139,
+    "other_brand": "パシル点滴静注液300mg",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 10148,
+    "other_brand": "パズクロス点滴静注液300mg",
+    "interaction_type": "caution",
+    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nジクロフェナクナトリウム\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 15064,
+    "other_brand": "リーマス錠100",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性消炎鎮痛剤〔ロキソプロフェンナトリウム水和物等〕\n,\n,"
+  },
+  {
+    "other_id": 5055,
+    "other_brand": "ケラチナミンコーワクリーム20％",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 16428,
+    "other_brand": "尿素「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 16430,
+    "other_brand": "尿素クリーム10％「SUN」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 16432,
+    "other_brand": "尿素クリーム20％「SUN」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 4430,
+    "other_brand": "クラビット点滴静注バッグ500mg/100mL",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 4434,
+    "other_brand": "クラビット錠250mg",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 5245,
+    "other_brand": "コムレクス耳科用液1.5％",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 5631,
+    "other_brand": "シプロキサン注200mg",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 5637,
+    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15419,
+    "other_brand": "レボフロキサシン点滴静注バッグ500mg「HK」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15420,
+    "other_brand": "レボフロキサシン点滴静注バッグ500mg「KCC」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15421,
+    "other_brand": "レボフロキサシン点滴静注バッグ500mg/100mL「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15423,
+    "other_brand": "レボフロキサシン点眼液0.5％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15424,
+    "other_brand": "レボフロキサシン点眼液0.5％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15428,
+    "other_brand": "レボフロキサシン点眼液0.5％「日新」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15430,
+    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15431,
+    "other_brand": "レボフロキサシン点眼液0.5％「科研」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15432,
+    "other_brand": "レボフロキサシン点眼液0.5％「FFP」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15435,
+    "other_brand": "レボフロキサシン点眼液0.5％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15436,
+    "other_brand": "レボフロキサシン点眼液1.5％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15437,
+    "other_brand": "レボフロキサシン点眼液1.5%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15441,
+    "other_brand": "レボフロキサシン点眼液1.5％「日新」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15443,
+    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15445,
+    "other_brand": "レボフロキサシン点眼液1.5％「科研」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15449,
+    "other_brand": "レボフロキサシン点眼液1.5％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15450,
+    "other_brand": "レボフロキサシン粒状錠250mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15452,
+    "other_brand": "レボフロキサシン錠250mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15453,
+    "other_brand": "レボフロキサシン錠250mg「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15455,
+    "other_brand": "レボフロキサシン錠250mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15456,
+    "other_brand": "レボフロキサシン錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15457,
+    "other_brand": "レボフロキサシン錠250mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15459,
+    "other_brand": "レボフロキサシン錠250mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15461,
+    "other_brand": "レボフロキサシン錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 15465,
+    "other_brand": "レボフロキサシン錠250mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "ニューキノロン系抗菌剤\nレボフロキサシン水和物等"
+  },
+  {
+    "other_id": 13626,
+    "other_brand": "メソトレキセート注射液50mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13627,
+    "other_brand": "メソトレキセート注射液5mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13628,
+    "other_brand": "メソトレキセート点滴静注液200mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13630,
+    "other_brand": "メソトレキセート錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13681,
+    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13685,
+    "other_brand": "メトトレキサート錠2mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13687,
+    "other_brand": "メトトレキサート錠2mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 14613,
+    "other_brand": "リウマトレックスカプセル2mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16597,
+    "other_brand": "注射用メソトレキセート50mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16598,
+    "other_brand": "注射用メソトレキセート5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16757,
+    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "リチウム製剤\n炭酸リチウム"
+  },
+  {
+    "other_id": 403,
+    "other_brand": "アゾセミド錠30mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 404,
+    "other_brand": "アゾセミド錠30mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 1173,
+    "other_brand": "アルダクトンA細粒10％",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 6313,
+    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 6315,
+    "other_brand": "スピロノラクトン錠25mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 6316,
+    "other_brand": "スピロノラクトン錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 6317,
+    "other_brand": "スピロノラクトン錠25mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 7397,
+    "other_brand": "ダイアート錠30mg",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 8717,
+    "other_brand": "トラセミド錠4mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 8830,
+    "other_brand": "トルバプタンOD錠7.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿薬\nヒドロクロロチアジド等"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアスピリン\nイブプロフェン\nインドメタシン\nインドメタシン ファルネシル\nエトドラク\nケトプロフェン\nサリチル酸類\nジクロフェナクナトリウム\nスリンダク\nナブメトン\nナプロキセン\nピロキシカム\nフルルビプロフェン\nメフェナム酸\nモフェゾラク\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアスピリン\nイブプロフェン\nインドメタシン\nインドメタシン ファルネシル\nエトドラク\nケトプロフェン\nサリチル酸類\nジクロフェナクナトリウム\nスリンダク\nナブメトン\nナプロキセン\nピロキシカム\nフルルビプロフェン\nメフェナム酸\nモフェゾラク\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアスピリン\nイブプロフェン\nインドメタシン\nインドメタシン ファルネシル\nエトドラク\nケトプロフェン\nサリチル酸類\nジクロフェナクナトリウム\nスリンダク\nナブメトン\nナプロキセン\nピロキシカム\nフルルビプロフェン\nメフェナム酸\nモフェゾラク\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアスピリン\nイブプロフェン\nインドメタシン\nインドメタシン ファルネシル\nエトドラク\nケトプロフェン\nサリチル酸類\nジクロフェナクナトリウム\nスリンダク\nナブメトン\nナプロキセン\nピロキシカム\nフルルビプロフェン\nメフェナム酸\nモフェゾラク\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアスピリン\nイブプロフェン\nインドメタシン\nインドメタシン ファルネシル\nエトドラク\nケトプロフェン\nサリチル酸類\nジクロフェナクナトリウム\nスリンダク\nナブメトン\nナプロキセン\nピロキシカム\nフルルビプロフェン\nメフェナム酸\nモフェゾラク\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "解熱鎮痛消炎剤\nアスピリン\nイブプロフェン\nインドメタシン\nインドメタシン ファルネシル\nエトドラク\nケトプロフェン\nサリチル酸類\nジクロフェナクナトリウム\nスリンダク\nナブメトン\nナプロキセン\nピロキシカム\nフルルビプロフェン\nメフェナム酸\nモフェゾラク\nロキソプロフェンナトリウム水和物等"
+  },
+  {
+    "other_id": 16758,
+    "other_brand": "炭酸リチウム錠100mg「大正」",
+    "interaction_type": "caution",
+    "source_text": "非ステロイド性消炎鎮痛剤〔ロキソプロフェンナトリウム水和物等〕\n,\n,"
+  }
+]

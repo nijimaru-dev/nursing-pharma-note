@@ -1,0 +1,194 @@
+[
+  {
+    "other_id": 55,
+    "other_brand": "アイソボリン点滴静注用25mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 153,
+    "other_brand": "アザルフィジンEN錠250mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 5381,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 5382,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 5383,
+    "other_brand": "サラゾスルファピリジン腸溶錠250mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 5387,
+    "other_brand": "サラゾピリン坐剤500mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 5388,
+    "other_brand": "サラゾピリン錠500mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 6456,
+    "other_brand": "セピエンス顆粒分包250mg",
+    "interaction_type": "caution",
+    "source_text": "ジヒドロ葉酸還元酵素阻害薬\nメトトレキサート\nプララトレキサート\nペメトレキセド等"
+  },
+  {
+    "other_id": 7411,
+    "other_brand": "ダイフェン配合錠",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 9904,
+    "other_brand": "バクタ配合錠",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 9907,
+    "other_brand": "バクトラミン注",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤メトトレキサート"
+  },
+  {
+    "other_id": 9908,
+    "other_brand": "バクトラミン配合錠",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝阻害作用を有する薬剤\nメトトレキサート"
+  },
+  {
+    "other_id": 12875,
+    "other_brand": "ホリナート錠25mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12876,
+    "other_brand": "ホリナート錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12877,
+    "other_brand": "ホリナート錠25mg「タイホウ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12878,
+    "other_brand": "ホリナート錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12879,
+    "other_brand": "ホリナート錠25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12880,
+    "other_brand": "ホリナート錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12881,
+    "other_brand": "ホリナート錠25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 12882,
+    "other_brand": "ホリナート錠25mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 14239,
+    "other_brand": "ユーゼル錠25mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15482,
+    "other_brand": "レボホリナート点滴静注用25「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15483,
+    "other_brand": "レボホリナート点滴静注用25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15484,
+    "other_brand": "レボホリナート点滴静注用25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15485,
+    "other_brand": "レボホリナート点滴静注用25mg「ヤクルト」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15486,
+    "other_brand": "レボホリナート点滴静注用25mg「HK」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15487,
+    "other_brand": "レボホリナート点滴静注用25mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15488,
+    "other_brand": "レボホリナート点滴静注用25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（スルファメトキサゾール・トリメトプリム等）"
+  },
+  {
+    "other_id": 15530,
+    "other_brand": "ロイコボリン注3mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤スルファメトキサゾール・トリメトプリム等"
+  },
+  {
+    "other_id": 15531,
+    "other_brand": "ロイコボリン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤スルファメトキサゾール・トリメトプリム等"
+  },
+  {
+    "other_id": 15532,
+    "other_brand": "ロイコボリン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤スルファメトキサゾール・トリメトプリム等"
+  },
+  {
+    "other_id": 15937,
+    "other_brand": "ロンサーフ配合錠T15",
+    "interaction_type": "caution",
+    "source_text": "葉酸代謝拮抗剤（メトトレキサート、ペメトレキセドナトリウム水和物）"
+  }
+]

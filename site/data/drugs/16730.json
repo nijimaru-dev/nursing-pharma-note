@@ -1,0 +1,31 @@
+{
+  "id": 16730,
+  "brand_name": "炭酸マグネシウム「ケンエー」",
+  "generic_name": "日局　炭酸マグネシウム",
+  "therapeutic_classification": "制酸剤",
+  "indications": "下記疾患における制酸作用と症状の改善胃・十二指腸潰瘍、胃炎 （急・慢性胃炎、薬剤性胃炎を含む）、上部消化管機能異常（神経性食思不振、いわゆる胃下垂症、胃酸過多症を含む）\n便秘症",
+  "dose_admin": "＜制酸作用と症状の改善＞\n炭酸マグネシウムとして、通常成人、1日2gを数回に分割経口投与する。なお、年齢、症状により適宜増減する。\n＜便秘症＞\n炭酸マグネシウムとして、通常成人、1日3～8gを頓用又は数回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること",
+    "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質（テトラサイクリン、ミノサイクリン等）ニューキノロン系抗菌剤（シプロフロキサシン、トスフロキサシン等）エチドロン酸二ナトリウムセフジニル",
+      "clinical_symptom_action": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。",
+      "mechanism_risk_factor": "マグネシウムと難溶性のキレートを形成し、薬剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "大量の牛乳、カルシウム製剤",
+      "clinical_symptom_action": "milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがあるので、観察を十分に行い、このような症状があらわれた場合には投与を中止すること。",
+      "mechanism_risk_factor": "危険因子：高カルシウム血症、代謝性アルカローシス、腎機能障害のある患者"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6429,
+  "brand_name": "セチロ配合錠",
+  "generic_name": "ダイオウ・センナ配合剤",
+  "therapeutic_classification": "緩下剤",
+  "indications": "便秘症",
+  "dose_admin": "通常、成人には1回3錠、1日3回食後経口投与する。頑固な場合の頓用には1回4～5錠を経口投与する。なお、年齢・症状により適宜増減する。",
+  "contraindications": "本剤又はセンノシド製剤に過敏症の既往歴のある患者\n急性腹症が疑われる患者、痙攣性便秘の患者［腸管蠕動運動亢進作用により腹痛等の症状を増悪するおそれがある。］\n重症の硬結便のある患者［下剤の経口投与では十分な効果が得られず、腹痛等の症状を増悪するおそれがある。］\n腎機能障害のある患者\n電解質失調（特に低カリウム血症）のある患者には大量投与を避けること［下痢が起こると電解質を喪失し、状態を悪化させるおそれがある。］\nテトラサイクリン系抗生物質を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。\n薬剤投与後の注意\n本剤の投与により尿が黄褐色又は赤色を呈することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "milk-alkali syndromeがあらわれるおそれがあるので、観察を十分に行い、このような症状があらわれた場合には中止する"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nアクロマイシン等",
+      "clinical_symptom_action": "Mg\n2+\nがテトラサイクリン系抗生物質の吸収を阻害し、効果を減弱するおそれがある。",
+      "mechanism_risk_factor": "テトラサイクリン系抗生物質とMg\n2+\nがキレートを生成する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム製剤",
+      "clinical_symptom_action": "milk-alkali syndromeがあらわれるおそれがあるので、観察を十分に行い、このような症状があらわれた場合には中止する。",
+      "mechanism_risk_factor": "高カルシウム血症、高窒素血症、アルカローシスなどを来し腎不全に進展する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "大量の牛乳",
+      "clinical_symptom_action": "milk-alkali syndromeがあらわれるおそれがあるので、観察を十分に行い、このような症状があらわれた場合には中止する。",
+      "mechanism_risk_factor": "高カルシウム血症、高窒素血症、アルカローシスなどを来し腎不全に進展する。"
+    }
+  ],
+  "facility_notes": ""
+}

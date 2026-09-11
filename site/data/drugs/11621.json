@@ -1,0 +1,30 @@
+{
+  "id": 11621,
+  "brand_name": "ブドウ酒",
+  "generic_name": "日本薬局方ブドウ酒",
+  "therapeutic_classification": "その他の滋養強壮薬",
+  "indications": "○食欲増進、強壮、興奮○下痢○不眠症○無塩食事療法",
+  "dose_admin": "通常、成人1回1食匙（15mL）又は1酒杯（60mL）を経口投与する。なお、年齢、症状により適宜増減する。また、リモナーデ剤や滴剤の佐薬にも用いる。",
+  "contraindications": "ジスルフィラム、シアナミド、カルモフール、プロカルバジン塩酸塩を投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤とのアルコール反応（顔面潮紅、悪心、頻脈、多汗、頭痛等）を起こすおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ジスルフィラム（ノックビン）シアナミド（シアナマイド）カルモフールプロカルバジン塩酸塩",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等）を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "N-メチルテトラゾールチオメチル基を有するセフェム系抗生物質\nセフメノキシム塩酸塩、セフォペラゾンナトリウム、セフミノクスナトリウム水和物、セフメタゾールナトリウム、ラタモキセフナトリウム\nメトロニダゾール",
+      "clinical_symptom_action": "これらの薬剤とのアルコール反応（顔面潮紅、悪心、頻脈、多汗、頭痛等）を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤はエタノールを含有しているため。"
+    }
+  ],
+  "facility_notes": ""
+}

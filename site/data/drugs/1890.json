@@ -1,0 +1,53 @@
+{
+  "id": 1890,
+  "brand_name": "インクレミンシロップ5％",
+  "generic_name": "溶性ピロリン酸第二鉄",
+  "therapeutic_classification": "鉄欠乏性貧血治療剤",
+  "indications": "鉄欠乏性貧血",
+  "dose_admin": "通常次の量を1日量とし、3～4回に分けて経口投与する。\n年　齢\nシロップとして（mL）\n1歳未満\n2～4\n1～5歳\n3～10\n6～15歳\n10～15\nなお、年齢、症状により適宜増減する。",
+  "contraindications": "鉄欠乏状態にない患者［鉄過剰症を起こすおそれがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "相互に吸収を阻害し、効果が減弱するおそれがある",
+    "両剤の服用間隔を2～4時間とすること",
+    "本剤の吸収が阻害され、効果が減弱するおそれがあるので、投与間隔をあけること",
+    "これらの薬剤の吸収を阻害し、効果を減弱させるおそれがあるので、投与間隔をあけること",
+    "甲状腺ホルモン製剤の吸収を阻害し、効果を減弱させるおそれがあるので、投与間隔をあけること",
+    "本剤の吸収が阻害され、効果が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリンミノサイクリン等",
+      "clinical_symptom_action": "相互に吸収を阻害し、効果が減弱するおそれがある。両剤の服用間隔を2～4時間とすること。",
+      "mechanism_risk_factor": "本剤とテトラサイクリン系抗生物質が消化管内で難溶性のキレートを形成して、両剤の吸収を阻害し、血中濃度が低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸剤",
+      "clinical_symptom_action": "本剤の吸収が阻害され、効果が減弱するおそれがあるので、投与間隔をあけること。",
+      "mechanism_risk_factor": "消化管pH上昇により、鉄の溶解性が減少する。また、難溶性塩を形成し、鉄の消化管吸収が阻害されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セフジニルニューキノロン系抗菌剤\nオフロキサシンシプロフロキサシン塩酸塩水和物ノルフロキサシン等",
+      "clinical_symptom_action": "これらの薬剤の吸収を阻害し、効果を減弱させるおそれがあるので、投与間隔をあけること。",
+      "mechanism_risk_factor": "キレートを形成し、吸収を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺ホルモン製剤\nレボチロキシンナトリウムリオチロニンナトリウム等",
+      "clinical_symptom_action": "甲状腺ホルモン製剤の吸収を阻害し、効果を減弱させるおそれがあるので、投与間隔をあけること。",
+      "mechanism_risk_factor": "難溶性の複合体を形成し、吸収を阻害すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タンニン酸を含有する食品",
+      "clinical_symptom_action": "本剤の吸収が阻害され、効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "不溶性の塩を形成し、吸収が阻害されると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

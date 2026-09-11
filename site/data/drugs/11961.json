@@ -1,0 +1,448 @@
+{
+  "id": 11961,
+  "brand_name": "プレジコビックス配合錠",
+  "generic_name": "ダルナビル エタノール付加物\nコビシスタット",
+  "therapeutic_classification": "抗ウイルス化学療法剤",
+  "indications": "HIV感染症",
+  "dose_admin": "通常、成人には1回1錠（ダルナビルとして800mg、コビシスタットとして150mgを含有）を1日1回食事中又は食直後に経口投与する。投与に際しては、必ず他の抗HIV薬と併用すること。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nリファンピシン、フェノバルビタール、フェニトイン、ホスフェニトイン、カルバマゼピン、アパルタミド、エンザルタミド、イボシデニブ、エンコラフェニブ、ミトタン、セイヨウオトギリソウ（St. John's Wort：セント・ジョーンズ・ワート）含有食品、トリアゾラム、ミダゾラム、ボルノレキサント水和物、ピモジド、シンバスタチン、エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン、ジヒドロエルゴタミン、エルゴメトリン、メチルエルゴメトリン、バルデナフィル、シルデナフィル（レバチオ）、タダラフィル（アドシルカ）、ブロナンセリン、アゼルニジピン、アゼルニジピン・オルメサルタン メドキソミル、エプレレノン、ルラシドン、ロミタピド、フィネレノン、ボクロスポリン、イバブラジン、ベネトクラクス（再発又は難治性の慢性リンパ性白血病（小リンパ球性リンパ腫を含む）の用量漸増期）、イサブコナゾニウム硫酸塩、アナモレリン塩酸塩、マバカムテン、リバーロキサバン、チカグレロルを投与中の患者\n腎機能あるいは肝機能障害患者で、コルヒチンを投与中の患者\n,\n,\n低出生体重児、新生児、乳児、3歳未満の幼児\n,",
+  "application_precautions": "",
+  "serious_adverse_events": "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形紅斑、急性汎発性発疹性膿疱症（頻度不明）\n重度の発疹があらわれた場合は、本剤の投与を直ちに中止し適切な処置を行うこと。\n肝機能障害、黄疸（頻度不明）\nAST、ALT、γ-GTPの上昇等を伴う肝機能障害、黄疸があらわれることがある。\n急性膵炎（0.3%）",
+  "observation_points": [
+    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形紅斑、急性汎発性発疹性膿疱症（頻度不明）",
+    "重度の発疹があらわれた場合は、本剤の投与を直ちに中止し適切な処置を行うこと",
+    "肝機能障害、黄疸（頻度不明）",
+    "AST、ALT、γ-GTPの上昇等を伴う肝機能障害、黄疸があらわれることがある",
+    "急性膵炎（0.3%）",
+    "ダルナビル及びコビシスタットの血中濃度が低下し、本剤の効果が減弱するおそれがある",
+    "併用する場合には注意して投与すること",
+    "アトルバスタチンの血中濃度上昇により、横紋筋融解症が起こる可能性がある",
+    "併用する場合には必要に応じてアトルバスタチンの投与量を減量するなど注意して投与すること",
+    "サルメテロールの血中濃度上昇により、QT延長、動悸、洞性頻脈などの心血管系事象の発現リスクが増大する可能性がある",
+    "併用する場合には必要に応じてサルメテロールの投与量を減量するなど注意して投与すること",
+    "これらの薬剤の血中濃度を上昇させる可能性がある",
+    "併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること",
+    "ベネトクラクスの血中濃度が上昇し、副作用が増強するおそれがあるので、ベネトクラクスを減量するとともに患者の状態を慎重に観察すること",
+    "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある",
+    "ジゴキシンの血中濃度を上昇させる可能性がある",
+    "併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること",
+    "コルヒチンの血中濃度を上昇させる可能性がある",
+    "併用する場合には必要に応じてコルヒチンの投与量を減量するなど注意して投与すること",
+    "グレカプレビルの血中濃度を上昇させる可能性がある",
+    "併用する場合には必要に応じてグレカプレビル・ピブレンタスビルの投与量を減量するなど注意して投与すること",
+    "ドロスピレノンの血中濃度を上昇させる可能性がある",
+    "併用する場合には必要に応じてドロスピレノンの投与量を減量するなど注意して投与すること",
+    "これらの薬剤の血中濃度を低下させる可能性がある",
+    "本剤を投与する場合は、別の避妊方法を行うことが望ましい",
+    "メサドンの血中濃度を低下させる可能性がある",
+    "また、リファブチンの血中濃度を上昇させる可能性がある",
+    "併用する場合には必要に応じて本剤又はリファブチンの投与量を調節するなど注意して投与すること",
+    "ダルナビル、コビシスタット又はこれらの薬剤の血中濃度が上昇する可能性がある",
+    "併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること",
+    "ワルファリンの血中濃度に影響を与えることがある",
+    "併用する場合には必要に応じて本剤又はワルファリンの投与量を調節するなど注意して投与すること",
+    "テノホビルの血中濃度を上昇させる可能性があるが、用量を調節する必要はない",
+    "また、本剤と併用する場合には、定期的にクレアチニンクリアランスを測定するなど観察を十分に行い、腎機能のモニタリングを行うこと",
+    "ダルナビル及び/又はコビシスタットの血中濃度が低下する可能性がある",
+    "本剤とこれらの薬剤との併用は避けることが望ましい",
+    "リルピビリンの血中濃度を上昇させる可能性がある",
+    "本剤とリルピビリンを併用する場合には、用量を調節する必要はない",
+    "ダルナビルの血中濃度を減少させる可能性がある",
+    "本剤とラルテグラビルを併用する場合には、用量を調節する必要はない",
+    "マラビロクの血中濃度を上昇させる可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リファンピシン\nリファジン\nフェノバルビタール\nフェノバール等\nフェニトイン\nアレビアチン等\nホスフェニトイン\nホストイン\nカルバマゼピン\nテグレトール\nアパルタミド\nアーリーダ\nエンザルタミド\nイクスタンジ\nイボシデニブ\nティブソボ\nエンコラフェニブ\nビラフトビ\nミトタン\nオペプリム\n,",
+      "clinical_symptom_action": "ダルナビル及びコビシスタットの血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、ダルナビル及びコビシスタットの代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "ダルナビル及びコビシスタットの血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、ダルナビル及びコビシスタットの代謝が促進される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ボルノレキサント水和物\nボルズィ",
+      "clinical_symptom_action": "ボルノレキサントの血漿中濃度が顕著に上昇し、作用が著しく増強するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ピモジド",
+      "clinical_symptom_action": "ピモジドの血中濃度上昇により、不整脈等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "シンバスタチン\nリポバス",
+      "clinical_symptom_action": "シンバスタチンの血中濃度上昇により、横紋筋融解症が起こる可能性がある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン\nジヒドロエルゴタミン\nジヒデルゴット\nエルゴメトリンメチルエルゴメトリン\nパルタンM",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、末梢血管痙縮、虚血等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "バルデナフィル\nレビトラ\nシルデナフィル\nレバチオ\nタダラフィル\nアドシルカ",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させるおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ブロナンセリン\nロナセン",
+      "clinical_symptom_action": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アゼルニジピン\nカルブロック\nアゼルニジピン・オルメサルタン メドキソミル\nレザルタス配合錠",
+      "clinical_symptom_action": "アゼルニジピンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "エプレレノン\nセララ",
+      "clinical_symptom_action": "エプレレノンの血中濃度が上昇し、血清カリウム値の上昇を誘発するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ルラシドン\nラツーダ",
+      "clinical_symptom_action": "ルラシドンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ロミタピド\nジャクスタピッド",
+      "clinical_symptom_action": "ロミタピドの血中濃度が著しく上昇するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "フィネレノン\nケレンディア",
+      "clinical_symptom_action": "フィネレノンの血中濃度が著しく上昇するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ボクロスポリン\nルプキネス",
+      "clinical_symptom_action": "ボクロスポリンの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "イバブラジン\nコララン",
+      "clinical_symptom_action": "イバブラジンの血中濃度が上昇し、過度の徐脈があらわれることがある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ベネトクラクス（再発又は難治性の慢性リンパ性白血病（小リンパ球性リンパ腫を含む）の用量漸増期）\nベネクレクスタ",
+      "clinical_symptom_action": "ベネトクラクスの血中濃度が上昇し、腫瘍崩壊症候群の発現が増強する可能性がある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "イサブコナゾニウム硫酸塩\nクレセンバ",
+      "clinical_symptom_action": "イサブコナゾールの血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アナモレリン塩酸塩\nエドルミズ",
+      "clinical_symptom_action": "アナモレリンの血中濃度が上昇し、副作用の発現が増強するおそれがある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "マバカムテン\nカムザイオス",
+      "clinical_symptom_action": "マバカムテンの血中濃度が上昇し、副作用が増強され、収縮機能障害による心不全のリスクが高まるおそれがある。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リバーロキサバン\nイグザレルト\nチカグレロル\nブリリンタ",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇し、作用が増強されることにより、出血の危険性が増大するおそれがある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用又はP糖蛋白阻害作用により、これらの薬剤の血中濃度が上昇することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デキサメタゾン（全身投与）",
+      "clinical_symptom_action": "ダルナビル及びコビシスタットの血中濃度が低下し、本剤の効果が減弱するおそれがある。併用する場合には注意して投与すること。",
+      "mechanism_risk_factor": "デキサメタゾンのCYP3A誘導作用により、ダルナビル及びコビシスタットの代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アトルバスタチン",
+      "clinical_symptom_action": "アトルバスタチンの血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてアトルバスタチンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サルメテロール",
+      "clinical_symptom_action": "サルメテロールの血中濃度上昇により、QT延長、動悸、洞性頻脈などの心血管系事象の発現リスクが増大する可能性がある。併用する場合には必要に応じてサルメテロールの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロラゼプ酸ジアゼパムエスタゾラムフルラゼパムゾルピデム",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミオダロンベプリジルジソピラミドリドカイン（全身投与）キニジン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリンタクロリムスシロリムステムシロリムス",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クロナゼパムエトスクシミド",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン、アムロジピン、ジルチアゼム、ベラパミル等）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルチカゾンブデソニドプレドニゾロン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダサチニブエベロリムスニロチニブラパチニブビンブラスチンビンクリスチン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボセンタン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アピキサバン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "トルバプタンエレトリプタン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダビガトランエテキシラート",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのP糖蛋白阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミトリプチリンイミプラミンパロキセチンノルトリプチリンセルトラリントラゾドン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A又はCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リスペリドンペルフェナジンクエチアピン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること 。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A又はCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェンタニルオキシコドントラマドール",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること 。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A又はCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "プロパフェノン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること 。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A又はCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "トルテロジン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること 。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A又はCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "デキストロメトルファン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること 。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A又はCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ベネトクラクス（再発又は難治性の慢性リンパ性白血病（小リンパ球性リンパ腫を含む）の維持投与期、急性骨髄性白血病）",
+      "clinical_symptom_action": "ベネトクラクスの血中濃度が上昇し、副作用が増強するおそれがあるので、ベネトクラクスを減量するとともに患者の状態を慎重に観察すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP3A阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルベジロールメトプロロールチモロール",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フレカイニドメキシレチン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "コビシスタットのCYP2D6阻害作用により、これらの薬剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ロスバスタチンプラバスタチンピタバスタチン",
+      "clinical_symptom_action": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジゴキシンの血中濃度を上昇させる可能性がある。併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのP糖蛋白阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コルヒチン\n,\n,",
+      "clinical_symptom_action": "コルヒチンの血中濃度を上昇させる可能性がある。併用する場合には必要に応じてコルヒチンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用又はP糖蛋白阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレカプレビル・ピブレンタスビル",
+      "clinical_symptom_action": "グレカプレビルの血中濃度を上昇させる可能性がある。併用する場合には必要に応じてグレカプレビル・ピブレンタスビルの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのP糖蛋白、BCRP又はOATP1B 阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ドロスピレノン",
+      "clinical_symptom_action": "ドロスピレノンの血中濃度を上昇させる可能性がある。併用する場合には必要に応じてドロスピレノンの投与量を減量するなど注意して投与すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "経口避妊剤（エチニルエストラジオール、ノルエチステロン等）",
+      "clinical_symptom_action": "これらの薬剤の血中濃度を低下させる可能性がある。本剤を投与する場合は、別の避妊方法を行うことが望ましい。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "メサドン",
+      "clinical_symptom_action": "メサドンの血中濃度を低下させる可能性がある。併用する場合には注意して投与すること。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファブチン",
+      "clinical_symptom_action": "ダルナビル及びコビシスタットの血中濃度が低下し、本剤の効果が減弱するおそれがある。また、リファブチンの血中濃度を上昇させる可能性がある。併用する場合には必要に応じて本剤又はリファブチンの投与量を調節するなど注意して投与すること。",
+      "mechanism_risk_factor": "リファブチンのCYP3A誘導作用により、ダルナビル及びコビシスタットの代謝が促進される。また、ダルナビル及びコビシスタットのCYP3A阻害作用により、リファブチンの代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クラリスロマイシンエリスロマイシン",
+      "clinical_symptom_action": "ダルナビル、コビシスタット又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットとこれらの薬剤のCYP3A阻害作用により、相互に代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾールケトコナゾール\n注）\nボリコナゾールフルコナゾール",
+      "clinical_symptom_action": "ダルナビル、コビシスタット又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットとこれらの薬剤のCYP3A阻害作用により、相互に代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリン",
+      "clinical_symptom_action": "ワルファリンの血中濃度に影響を与えることがある。併用する場合には必要に応じて本剤又はワルファリンの投与量を調節するなど注意して投与すること。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットの薬物代謝酵素阻害作用により、血中濃度に変化がおこることがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ヌクレオシド/ヌクレオチド系逆転写酵素阻害剤（NRTI/NtRTI）",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テノホビル ジソプロキシルフマル酸塩",
+      "clinical_symptom_action": "テノホビルの血中濃度を上昇させる可能性があるが、用量を調節する必要はない。また、本剤と併用する場合には、定期的にクレアチニンクリアランスを測定するなど観察を十分に行い、腎機能のモニタリングを行うこと。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのP糖蛋白阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "非ヌクレオシド系逆転写酵素阻害剤（NNRTI）",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エトラビリンエファビレンツネビラピン",
+      "clinical_symptom_action": "ダルナビル及び/又はコビシスタットの血中濃度が低下する可能性がある。本剤とこれらの薬剤との併用は避けることが望ましい。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導作用により、ダルナビル及びコビシスタットの代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リルピビリン",
+      "clinical_symptom_action": "リルピビリンの血中濃度を上昇させる可能性がある。本剤とリルピビリンを併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、リルピビリンの代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "インテグラーゼ阻害剤",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ラルテグラビル",
+      "clinical_symptom_action": "ダルナビルの血中濃度を減少させる可能性がある。本剤とラルテグラビルを併用する場合には、用量を調節する必要はない。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "その他のHIV薬",
+      "clinical_symptom_action": "",
+      "mechanism_risk_factor": ""
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マラビロク",
+      "clinical_symptom_action": "マラビロクの血中濃度を上昇させる可能性がある。",
+      "mechanism_risk_factor": "ダルナビル及びコビシスタットのCYP3A阻害作用により、マラビロクの代謝が阻害される。"
+    }
+  ],
+  "facility_notes": ""
+}

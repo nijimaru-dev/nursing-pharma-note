@@ -1,0 +1,89 @@
+{
+  "id": 2536,
+  "brand_name": "エトカマ錠75mg",
+  "generic_name": "カミゼストラント錠",
+  "therapeutic_classification": "抗エストロゲン剤/抗悪性腫瘍剤",
+  "indications": "内分泌療法中に\nESR1\n遺伝子変異が確認され疾患進行が認められないホルモン受容体陽性かつHER2陰性の手術不能又は再発乳癌",
+  "dose_admin": "CDK4/6阻害剤との併用において、通常、成人にはカミゼストラントとして75mgを1日1回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するように指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の有効性が減弱するおそれがあるため、これらの薬剤との併用は可能な限り避け、CYP3A誘導作用のない又は弱い薬剤への代替を考慮すること",
+    "本剤の有効性が減弱するおそれがあるため、摂取しないよう注意すること",
+    "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること",
+    "ワルファリンの作用が増強されるおそれがあるので、プロトロンビン時間国際標準比（INR）値等の血液凝固能の変動に十分注意すること",
+    "シクロホスファミドの有効性が減弱するおそれがある",
+    "QT間隔延長作用を増強するおそれがあるので、患者の状態を慎重に観察すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強い又は中程度のCYP3A誘導剤\nカルバマゼピン\nリファンピシン\nフェノバルビタール等\n,",
+      "clinical_symptom_action": "本剤の有効性が減弱するおそれがあるため、これらの薬剤との併用は可能な限り避け、CYP3A誘導作用のない又は弱い薬剤への代替を考慮すること。",
+      "mechanism_risk_factor": "これらの薬剤等がCYP3Aを誘導することにより、本剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ\n（St. John's Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の有効性が減弱するおそれがあるため、摂取しないよう注意すること。",
+      "mechanism_risk_factor": "これらの薬剤等がCYP3Aを誘導することにより、本剤の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C9の基質となる薬剤\nフェニトイン\nセレコキシブ等",
+      "clinical_symptom_action": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がCYP2C9を阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリン",
+      "clinical_symptom_action": "ワルファリンの作用が増強されるおそれがあるので、プロトロンビン時間国際標準比（INR）値等の血液凝固能の変動に十分注意すること。",
+      "mechanism_risk_factor": "本剤がCYP2C9を阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2B6の基質となる薬剤\nケタミン\nネビラピン\nメサドン等",
+      "clinical_symptom_action": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がCYP2B6を阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロホスファミド",
+      "clinical_symptom_action": "シクロホスファミドの有効性が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤がCYP2B6を阻害することにより、シクロホスファミドの代謝活性化が阻害され、シクロホスファミドの活性代謝物の血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP2C19の基質となる薬剤\nオメプラゾール\nランソプラゾール\nジアゼパム等",
+      "clinical_symptom_action": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がCYP2C19を阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3Aの基質となる薬剤\nミダゾラム\nシンバスタチン\nフェンタニル等",
+      "clinical_symptom_action": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がCYP3Aを阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "BCRPの基質となる薬剤\nロスバスタチン\nサラゾスルファピリジン\nシンバスタチン等",
+      "clinical_symptom_action": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がBCRPを阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "OATP1B1の基質となる薬剤\nアトルバスタチン\nプラバスタチン\nロスバスタチン等",
+      "clinical_symptom_action": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。",
+      "mechanism_risk_factor": "本剤がOATP1B1を阻害することにより、これらの薬剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "QT間隔延長を起こすことが知られている薬剤\nシプロフロキサシン\nオンダンセトロン\nイミプラミン\nメサドン等",
+      "clinical_symptom_action": "QT間隔延長作用を増強するおそれがあるので、患者の状態を慎重に観察すること。",
+      "mechanism_risk_factor": "本剤及びこれらの薬剤はいずれもQT間隔を延長させるおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

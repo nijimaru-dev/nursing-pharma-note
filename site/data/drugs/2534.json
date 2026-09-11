@@ -1,0 +1,64 @@
+{
+  "id": 2534,
+  "brand_name": "エディロール錠0.5μg",
+  "generic_name": "エルデカルシトール",
+  "therapeutic_classification": "骨粗鬆症治療剤（活性型ビタミンD\n3\n製剤）",
+  "indications": "骨粗鬆症",
+  "dose_admin": "通常、成人にはエルデカルシトールとして1日1回0.75μgを経口投与する。ただし、症状により適宜1日1回0.5μgに減量する。",
+  "contraindications": "妊婦、妊娠している可能性のある女性又は授乳婦\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。\n瓶入り包装品を分包する場合、服用時以外薬袋から薬を出さないよう、及び直接光の当たる場所に薬を置かないよう指導すること。",
+  "serious_adverse_events": "高カルシウム血症（1.5%\n注2）\n）\n,\n,\n,\n,\n,\n急性腎障害（頻度不明）\n血清カルシウム上昇を伴った急性腎障害があらわれることがある。\n尿路結石（0.9%）\n,",
+  "observation_points": [
+    "高カルシウム血症（1.5%",
+    "注2）",
+    "）",
+    ",",
+    "急性腎障害（頻度不明）",
+    "血清カルシウム上昇を伴った急性腎障害があらわれることがある",
+    "尿路結石（0.9%）",
+    "高カルシウム血症に伴う不整脈があらわれるおそれがある",
+    "高カルシウム血症があらわれるおそれがある",
+    "高マグネシウム血症があらわれるおそれがある",
+    "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシン　等",
+      "clinical_symptom_action": "高カルシウム血症に伴う不整脈があらわれるおそれがある。",
+      "mechanism_risk_factor": "高カルシウム血症が発症した場合、ジギタリス製剤の作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム製剤\n乳酸カルシウム炭酸カルシウム　等\n,\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤は腸管でのカルシウムの吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD及びその誘導体\nアルファカルシドールカルシトリオール　等\n,\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PTH製剤\nテリパラチド　等\nPTHrP製剤\nアバロパラチド酢酸塩\n,\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等",
+      "clinical_symptom_action": "高マグネシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "他のビタミンD誘導体と同様に腸管でのマグネシウムの吸収を促進させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム\n炭酸マグネシウム　等",
+      "clinical_symptom_action": "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある。",
+      "mechanism_risk_factor": "血中マグネシウムの増加により代謝性アルカローシスが持続するため、尿細管でのカルシウム再吸収が増加する。"
+    }
+  ],
+  "facility_notes": ""
+}

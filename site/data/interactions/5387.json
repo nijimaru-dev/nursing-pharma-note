@@ -1,0 +1,350 @@
+[
+  {
+    "other_id": 152,
+    "other_brand": "アザニン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジンサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 1699,
+    "other_brand": "イブトロジーカプセル200mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン\nサラゾスルファピリジン\nイマチニブ等"
+  },
+  {
+    "other_id": 1785,
+    "other_brand": "イムラン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジンサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 1786,
+    "other_brand": "イムルリオ錠200mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン\nサラゾスルファピリジン\nシンバスタチン等"
+  },
+  {
+    "other_id": 2442,
+    "other_brand": "エタネルセプトBS皮下注用10mg「MA」",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2447,
+    "other_brand": "エタネルセプトBS皮下注25mgシリンジ0.5mL「MA」",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2444,
+    "other_brand": "エタネルセプトBS皮下注10mgシリンジ1.0mL「日医工」",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2449,
+    "other_brand": "エタネルセプトBS皮下注25mgペン0.5mL「MA」",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2445,
+    "other_brand": "エタネルセプトBS皮下注10mgシリンジ1.0mL「TY」",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2536,
+    "other_brand": "エトカマ錠75mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン\nサラゾスルファピリジン\nシンバスタチン等"
+  },
+  {
+    "other_id": 2924,
+    "other_brand": "エンブレル皮下注用10mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2926,
+    "other_brand": "エンブレル皮下注25mgクリックワイズ用0.5mL",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2927,
+    "other_brand": "エンブレル皮下注25mgシリンジ0.5mL",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 2928,
+    "other_brand": "エンブレル皮下注25mgペン0.5mL",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 3188,
+    "other_brand": "オムジャラ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチンカルシウム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 4294,
+    "other_brand": "クエストラン粉末44.4%",
+    "interaction_type": "caution",
+    "source_text": "抗リウマチ剤\nメトトレキサート\nサラゾスルファピリジン\n非ステロイド性抗炎症剤\nピロキシカム\nテノキシカム\nメロキシカム\nジクロフェナク\nイブプロフェン\nフェニルブタゾン\nナプロキセン\nフルフェナム酸アルミニウム\n副腎皮質ホルモン剤\nヒドロコルチゾン\n免疫抑制剤\nミコフェノール酸　モフェチル\nチアジド系降圧利尿剤\nクロルタリドン\nメチクラン\nメフルシド\nテトラサイクリン\nフェノバルビタール\nバンコマイシン塩酸塩\n甲状腺ホルモン製剤\nジギタリス強心配糖体\nラロキシフェン塩酸塩\nフィブラート系薬剤\nベザフィブラート\nフェノフィブラート"
+  },
+  {
+    "other_id": 718,
+    "other_brand": "アマリール0.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 2944,
+    "other_brand": "オイグルコン錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4767,
+    "other_brand": "グリクラジド錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4832,
+    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4840,
+    "other_brand": "グリミクロンHA錠20mg",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4846,
+    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4848,
+    "other_brand": "グリメピリド錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4851,
+    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4852,
+    "other_brand": "グリメピリド錠0.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4853,
+    "other_brand": "グリメピリド錠0.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4854,
+    "other_brand": "グリメピリド錠0.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4855,
+    "other_brand": "グリメピリド錠0.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4856,
+    "other_brand": "グリメピリド錠0.5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4858,
+    "other_brand": "グリメピリド錠0.5mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4859,
+    "other_brand": "グリメピリド錠0.5mg「NC」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4861,
+    "other_brand": "グリメピリド錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4863,
+    "other_brand": "グリメピリド錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 4865,
+    "other_brand": "グリメピリド錠0.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "スルホンアミド系経口糖尿病用剤\nグリベンクラミド等\nスルホニルウレア系経口糖尿病用剤\nグリクラジド\nグリメピリド"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血剤\nワルファリンカリウム"
+  },
+  {
+    "other_id": 11307,
+    "other_brand": "フォリアミン錠",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 11308,
+    "other_brand": "フォリアミン注射液",
+    "interaction_type": "caution",
+    "source_text": "葉酸"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 6037,
+    "other_brand": "ジャイパーカ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン\nイマチニブ\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 6456,
+    "other_brand": "セピエンス顆粒分包250mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン\nスルファメトキサゾール含有製剤"
+  },
+  {
+    "other_id": 6602,
+    "other_brand": "セムブリックス錠20mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 7141,
+    "other_brand": "タグリッソ錠40mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン等"
+  },
+  {
+    "other_id": 9935,
+    "other_brand": "バフセオ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン\nシンバスタチン\nアトルバスタチン\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 12240,
+    "other_brand": "ヘルネクシオス錠60mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、メトトレキサート、サラゾスルファピリジン等"
+  },
+  {
+    "other_id": 12971,
+    "other_brand": "ボラニゴ錠10mg",
+    "interaction_type": "caution",
+    "source_text": "BCRPの基質となる薬剤\nロスバスタチン、サラゾスルファピリジン、リバーロキサバン等"
+  },
+  {
+    "other_id": 13654,
+    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "サルファ剤\nサラゾスルファピリジン"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "サルファ剤\nサラゾスルファピリジン"
+  },
+  {
+    "other_id": 14944,
+    "other_brand": "リブテンシティ錠200mg",
+    "interaction_type": "caution",
+    "source_text": "サラゾスルファピリジン"
+  },
+  {
+    "other_id": 15529,
+    "other_brand": "ロイケリン散10%",
+    "interaction_type": "caution",
+    "source_text": "アミノサリチル酸誘導体\nメサラジン\nサラゾスルファピリジン　等"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nサルファ剤及びその配合剤\nスルファメトキサゾール・トリメトプリム\nサラゾスルファピリジン等"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "化学療法剤\nサルファ剤及びその配合剤\nスルファメトキサゾール・トリメトプリム\nサラゾスルファピリジン等"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 8274,
+  "brand_name": "デスモプレシン静注4µg「フェリング」",
+  "generic_name": "デスモプレシン酢酸塩水和物",
+  "therapeutic_classification": "第Ⅷ因子放出型　血友病A・von Willebrand病用剤",
+  "indications": "下記疾患の自然発生性出血、外傷性出血および抜歯時、手術時出血の止血管理\n軽症・中等症血友病A（第Ⅷ因子凝固活性が2%以上の患者）\nTypeⅠ・TypeⅡAのvon Willebrand病",
+  "dose_admin": "通常、デスモプレシン酢酸塩水和物として血友病Aは0.2～0.4µg/kgを、von Willebrand病は0.4µg/kgを生理食塩液約20mLに希釈し、10～20分かけて緩徐に静脈内投与する。\n本剤を術前に投与する場合は、予定される外科的処置の30分前に上記と同様の方法で静脈内投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "脳浮腫、昏睡、痙攣等を伴う重篤な水中毒（頻度不明）\n異常が認められた場合には投与を中止し、高張食塩水の注入、フロセミドの投与等の適切な処置を行うこと。\n,\n,\nアナフィラキシー（頻度不明）",
+  "observation_points": [
+    "脳浮腫、昏睡、痙攣等を伴う重篤な水中毒（頻度不明）",
+    "異常が認められた場合には投与を中止し、高張食塩水の注入、フロセミドの投与等の適切な処置を行うこと",
+    ",",
+    "アナフィラキシー（頻度不明）",
+    "血圧が過度に上昇するおそれがある",
+    "低ナトリウム血症性の痙攣発作の報告があるので、血清ナトリウム、血漿浸透圧等をモニターすること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "昇圧剤",
+      "clinical_symptom_action": "血圧が過度に上昇するおそれがある。",
+      "mechanism_risk_factor": "本剤は弱い血圧上昇作用を有する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三環系抗うつ剤（イミプラミン塩酸塩等）",
+      "clinical_symptom_action": "低ナトリウム血症性の痙攣発作の報告があるので、血清ナトリウム、血漿浸透圧等をモニターすること。",
+      "mechanism_risk_factor": "抗利尿ホルモンを分泌し、水分貯留のリスクを増すことがある。"
+    }
+  ],
+  "facility_notes": ""
+}

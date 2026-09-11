@@ -1,33 +1,40 @@
 {
   "id": 3,
-  "brand_name": "ワーファリン",
-  "generic_name": "ワルファリンカリウム",
-  "therapeutic_classification": "経口抗凝固薬",
-  "indications": "血栓塞栓症の治療及び予防",
-  "dose_admin": "PT-INR等の血液凝固能検査値を参考に個々の患者ごとに用量を決定する。",
-  "contraindications": "出血している患者、重篤な肝障害のある患者、妊婦",
-  "application_precautions": "納豆・クロレラ食品・青汁の摂取により作用が減弱することがある。",
-  "serious_adverse_events": "出血（脳出血、消化管出血等）\n肝機能障害",
+  "brand_name": "「山善」第二リン灰",
+  "generic_name": "リン酸水素カルシウム水和物",
+  "therapeutic_classification": "カルシウム剤",
+  "indications": "○ 下記代謝性骨疾患におけるカルシウムの補給　　くる病、骨粗鬆症、骨軟化症\n○ 妊婦、授乳時におけるカルシウム補給",
+  "dose_admin": "リン酸水素カルシウム水和物として、通常成人1日3gを3回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "高カルシウム血症の患者[症状が悪化するおそれがある。]\n,\n,\n腎結石のある患者[腎結石が悪化するおそれがある。]\n重篤な腎不全のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "高カルシウム血症、結石症（いずれも頻度不明）\nカルシウム剤の長期投与により、高カルシウム血症及び結石症があらわれることがある。\n,\n,\n,",
   "observation_points": [
-    "出血（脳出血、消化管出血等）",
-    "肝機能障害",
-    "出血傾向が増強されることがある",
-    "出血徴候（皮下出血、下血等）の有無を観察すること",
-    "出血の危険性が増大するおそれがある"
+    "高カルシウム血症、結石症（いずれも頻度不明）",
+    "カルシウム剤の長期投与により、高カルシウム血症及び結石症があらわれることがある",
+    ",",
+    "併用薬剤の吸収を阻害することがあるので、投与間隔をできるだけあけるなど注意すること",
+    "高カルシウム血症があらわれやすい",
+    "これらの作用を増強するおそれがある"
   ],
-  "is_in_formulary": true,
+  "is_in_formulary": false,
   "interactions": [
     {
       "interaction_type": "caution",
-      "drug_name_or_class": "非ステロイド性消炎鎮痛剤",
-      "clinical_symptom_action": "出血傾向が増強されることがある。出血徴候（皮下出血、下血等）の有無を観察すること。",
-      "mechanism_risk_factor": "血小板機能抑制及び蛋白結合部位競合による遊離型ワルファリンの増加。"
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nミノサイクリン\nドキシサイクリン\nテトラサイクリン等",
+      "clinical_symptom_action": "併用薬剤の吸収を阻害することがあるので、投与間隔をできるだけあけるなど注意すること。",
+      "mechanism_risk_factor": "本剤と難溶性のキレートを形成し、吸収を阻害すると考えられる。"
     },
     {
       "interaction_type": "caution",
-      "drug_name_or_class": "抗血小板剤",
-      "clinical_symptom_action": "出血の危険性が増大するおそれがある。",
-      "mechanism_risk_factor": "止血機構への相加的な作用。"
+      "drug_name_or_class": "活性型ビタミンD製剤\nアルファカルシドール　カルシトリオール　ファレカルシトリオール等\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれやすい。",
+      "mechanism_risk_factor": "相加作用"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強心配糖体\nメチルジゴキシン\nジゴキシン\nジギトキシン等",
+      "clinical_symptom_action": "これらの作用を増強するおそれがある",
+      "mechanism_risk_factor": "カルシウムは強心配糖体の心筋収縮力増強作用を強める。"
     }
   ],
   "facility_notes": ""

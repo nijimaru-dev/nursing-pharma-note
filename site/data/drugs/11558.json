@@ -1,0 +1,24 @@
+{
+  "id": 11558,
+  "brand_name": "フロリードDクリーム1%",
+  "generic_name": "ミコナゾール硝酸塩",
+  "therapeutic_classification": "抗真菌剤",
+  "indications": "下記の皮膚真菌症の治療\n白癬：体部白癬（斑状小水疱性白癬、頑癬）、股部白癬（頑癬）、足部白癬（汗疱状白癬）\nカンジダ症：指間びらん症、間擦疹、乳児寄生菌性紅斑、爪囲炎、外陰カンジダ症、皮膚カンジダ症\n癜風",
+  "dose_admin": "1日2～3回患部に塗布する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n本剤の基剤として使用されている油脂性成分は、コンドーム等の避妊用ラテックスゴム製品の品質を劣化・破損する可能性があるため、これらとの接触を避けさせること。\n薬剤使用時の注意\n眼科用として、角膜、結膜には使用しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "ワルファリンの作用を増強することがある（皮膚からの吸収はほとんど認められていないが、外国において、ワルファリンとの併用により出血を来した症例が報告されている）"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリンカリウム",
+      "clinical_symptom_action": "ワルファリンの作用を増強することがある（皮膚からの吸収はほとんど認められていないが、外国において、ワルファリンとの併用により出血を来した症例が報告されている）。",
+      "mechanism_risk_factor": "ミコナゾール硝酸塩がCYP3A及びCYP2C9を阻害することによると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

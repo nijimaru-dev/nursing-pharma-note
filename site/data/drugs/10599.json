@@ -1,0 +1,27 @@
+{
+  "id": 10599,
+  "brand_name": "ビフロキシン配合錠",
+  "generic_name": "リボフラビン・ピリドキシン塩酸塩 配合剤",
+  "therapeutic_classification": "ビタミンB\n2\n・B\n6\n剤",
+  "indications": "下記疾患のうち、本剤に含まれるビタミン類の欠乏又は代謝障害が関与すると推定される場合　湿疹・皮膚炎群、口唇炎・口角炎・口内炎上記の適応（効能又は効果）に対して、効果がないのに月余にわたって漫然と使用すべきでない。",
+  "dose_admin": "通常成人1日3～6錠を1～3回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "作用を減弱することがある",
+    "（ビタミンB",
+    "6",
+    "による）"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "レボドパ",
+      "clinical_symptom_action": "作用を減弱することがある。（ビタミンB\n6\nによる）",
+      "mechanism_risk_factor": "ビタミンB\n6\nはレボドパ脱炭酸酵素の補酵素であるため併用により末梢での脱炭酸化を促し作用部位への到達量を減少させると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "other_id": 1370,
+    "other_brand": "アンカロン注150",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン注射剤\n（アンカロン注150）"
+  },
+  {
+    "other_id": 6155,
+    "other_brand": "ジレニアカプセル0.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "フィンゴリモド塩酸塩\n（イムセラ）\n（ジレニア）"
+  },
+  {
+    "other_id": 11082,
+    "other_brand": "フィンゴリモドカプセル0.5mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "フィンゴリモド塩酸塩\n（イムセラ）\n（ジレニア）"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "フィンゴリモド塩酸塩\n（イムセラ）\n（ジレニア）"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "フィンゴリモド塩酸塩\n（イムセラ）\n（ジレニア）"
+  },
+  {
+    "other_id": 17260,
+    "other_brand": "酒石酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "Ⅰa群不整脈用剤\nプロカインアミド\nキニジン\nジソピラミド\nⅢ群不整脈用剤\nアミオダロン経口剤\nソタロール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "Ⅰa群不整脈用剤\nプロカインアミド\nキニジン\nジソピラミド\nⅢ群不整脈用剤\nアミオダロン経口剤\nソタロール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "Ⅰa群不整脈用剤\nプロカインアミド\nキニジン\nジソピラミド\nⅢ群不整脈用剤\nアミオダロン経口剤\nソタロール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "Ⅰa群不整脈用剤\nプロカインアミド\nキニジン\nジソピラミド\nⅢ群不整脈用剤\nアミオダロン経口剤\nソタロール"
+  },
+  {
+    "other_id": 14730,
+    "other_brand": "リスモダンカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "Ⅰa群不整脈用剤\nプロカインアミド\nキニジン\nジソピラミド\nⅢ群不整脈用剤\nアミオダロン経口剤\nソタロール"
+  },
+  {
+    "other_id": 5818,
+    "other_brand": "シンレスタール錠250mg",
+    "interaction_type": "caution",
+    "source_text": "プロブコール\nフェノチアジン系薬剤\n三環系抗うつ剤\n四環系抗うつ剤\n交感神経作動薬"
+  },
+  {
+    "other_id": 12089,
+    "other_brand": "プロブコール錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロブコール\nフェノチアジン系薬剤\n三環系抗うつ剤\n四環系抗うつ剤\n交感神経作動薬"
+  },
+  {
+    "other_id": 712,
+    "other_brand": "アベロックス錠400mg",
+    "interaction_type": "caution",
+    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+  },
+  {
+    "other_id": 4339,
+    "other_brand": "クエン酸「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+  },
+  {
+    "other_id": 8872,
+    "other_brand": "トレミフェン錠40mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+  },
+  {
+    "other_id": 10052,
+    "other_brand": "バルデナフィル錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+  },
+  {
+    "other_id": 13939,
+    "other_brand": "モキシフロキサシン点眼液0.5%「サンド」",
+    "interaction_type": "caution",
+    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+  }
+]

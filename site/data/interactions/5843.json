@@ -1,0 +1,488 @@
+[
+  {
+    "other_id": 696,
+    "other_brand": "アプレゾリン注射用20mg",
+    "interaction_type": "caution",
+    "source_text": "他の降圧剤\n利尿降圧剤等\nジアゾキシド"
+  },
+  {
+    "other_id": 697,
+    "other_brand": "アプレゾリン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "他の降圧剤\n利尿降圧剤等\nジアゾキシド"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシドシスプラチンビンカアルカロイド\nビンクリスチン等\nシプロフロキサシンビガバトリン"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシドシスプラチンビンカアルカロイド\nビンクリスチン等\nシプロフロキサシンビガバトリン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシドシスプラチンビンカアルカロイド\nビンクリスチン等\nシプロフロキサシンビガバトリン"
+  },
+  {
+    "other_id": 5208,
+    "other_brand": "コディオ配合錠MD",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "フェニトイン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 8791,
+    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 8792,
+    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 11358,
+    "other_brand": "フルイトラン錠1mg",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "チアジド系利尿剤\nトリクロルメチアジド、ヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 2768,
+    "other_brand": "エブランチルカプセル15mg",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 3803,
+    "other_brand": "カルデナリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 8283,
+    "other_brand": "デタントールR錠3mg",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 8904,
+    "other_brand": "ドキサゾシン錠0.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 8905,
+    "other_brand": "ドキサゾシン錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 8909,
+    "other_brand": "ドキサゾシン錠0.5mg「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 8910,
+    "other_brand": "ドキサゾシン錠0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 8911,
+    "other_brand": "ドキサゾシン錠0.5mg「NS」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 8914,
+    "other_brand": "ドキサゾシン錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "α遮断薬\nドキサゾシンメシル酸塩、ウラピジル、ブナゾシン塩酸塩等\nノルアドレナリン"
+  },
+  {
+    "other_id": 832,
+    "other_brand": "アムロジピン錠2.5mg「あすか」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 833,
+    "other_brand": "アムロジピン錠2.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 834,
+    "other_brand": "アムロジピン錠2.5mg「イセイ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 835,
+    "other_brand": "アムロジピン錠2.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 837,
+    "other_brand": "アムロジピン錠2.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 839,
+    "other_brand": "アムロジピン錠2.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 840,
+    "other_brand": "アムロジピン錠2.5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 841,
+    "other_brand": "アムロジピン錠2.5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 843,
+    "other_brand": "アムロジピン錠2.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 844,
+    "other_brand": "アムロジピン錠2.5mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 848,
+    "other_brand": "アムロジピン錠2.5mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 849,
+    "other_brand": "アムロジピン錠2.5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 851,
+    "other_brand": "アムロジピン錠2.5mg「NS」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 853,
+    "other_brand": "アムロジピン錠2.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 910,
+    "other_brand": "アムロジピンOD錠2.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 911,
+    "other_brand": "アムロジピンOD錠2.5mg「アメル」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 915,
+    "other_brand": "アムロジピンOD錠2.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 916,
+    "other_brand": "アムロジピンOD錠2.5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 920,
+    "other_brand": "アムロジピンOD錠2.5mg「杏林」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 921,
+    "other_brand": "アムロジピンOD錠2.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 923,
+    "other_brand": "アムロジピンOD錠2.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 924,
+    "other_brand": "アムロジピンOD錠2.5mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 927,
+    "other_brand": "アムロジピンOD錠2.5mg「NS」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 932,
+    "other_brand": "アムロジピンOD錠2.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 987,
+    "other_brand": "アムロジン錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 9572,
+    "other_brand": "ニューロタン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 9744,
+    "other_brand": "ノルバスク錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15658,
+    "other_brand": "ロサルタンカリウム錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15659,
+    "other_brand": "ロサルタンカリウム錠25mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15661,
+    "other_brand": "ロサルタンカリウム錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15662,
+    "other_brand": "ロサルタンカリウム錠25mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15663,
+    "other_brand": "ロサルタンカリウム錠25mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15664,
+    "other_brand": "ロサルタンカリウム錠25mg「DK」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15669,
+    "other_brand": "ロサルタンカリウム錠25mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15694,
+    "other_brand": "ロサルタンK錠25mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15698,
+    "other_brand": "ロサルタンK錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15699,
+    "other_brand": "ロサルタンK錠25mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15700,
+    "other_brand": "ロサルタンK錠25mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15701,
+    "other_brand": "ロサルタンK錠25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 15702,
+    "other_brand": "ロサルタンK錠25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "降圧剤\nロサルタンカリウム、カプトプリル、アムロジピンベシル酸塩等"
+  },
+  {
+    "other_id": 10068,
+    "other_brand": "バルヒディオ配合錠MD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10069,
+    "other_brand": "バルヒディオ配合錠MD「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10070,
+    "other_brand": "バルヒディオ配合錠MD「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10071,
+    "other_brand": "バルヒディオ配合錠MD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10072,
+    "other_brand": "バルヒディオ配合錠MD「JG」",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10073,
+    "other_brand": "バルヒディオ配合錠MD「NIG」",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10074,
+    "other_brand": "バルヒディオ配合錠MD「TCK」",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシドシスプラチンビンカアルカロイド\nビンクリスチン等\nシプロフロキサシンビガバトリン"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシド\nシスプラチン\nビンカアルカロイド\nビンクリスチン等\nシプロフロキサシン\nビガバトリン"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ジアゾキシドシスプラチンビンカアルカロイド\nビンクリスチン等\nシプロフロキサシンビガバトリン"
+  }
+]

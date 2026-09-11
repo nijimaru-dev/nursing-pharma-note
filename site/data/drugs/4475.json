@@ -1,0 +1,25 @@
+{
+  "id": 4475,
+  "brand_name": "クランポール末",
+  "generic_name": "アセチルフェネトライド",
+  "therapeutic_classification": "抗てんかん剤",
+  "indications": "てんかんのけいれん発作\n強直間代発作（全般けいれん発作、大発作）　焦点発作（ジャクソン型発作を含む）\n精神運動発作\n自律神経発作",
+  "dose_admin": "アセチルフェネトライドとして、通常成人1日0.3～0.4g、小児0.1～0.2gを、1日3回毎食後に分割投与よりはじめ、十分な効果が得られるまで1日量0.1gずつ漸増し、有効投与量を決め、これを維持量とする。維持量は通常次の通りである。\n成人　0.6～1.2g学童　0.4～0.6g幼児　0.3～0.4g乳児　0.2g\nなお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤の成分又はフェニル尿素系化合物に対し過敏症の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "再生不良性貧血（頻度不明）",
+  "observation_points": [
+    "再生不良性貧血（頻度不明）",
+    "くる病、骨軟化症があらわれやすい"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アセタゾラミド",
+      "clinical_symptom_action": "くる病、骨軟化症があらわれやすい。",
+      "mechanism_risk_factor": "本剤によるビタミンDの分解促進、アセタゾラミドによる代謝性アシドーシス、腎尿細管障害の影響が考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

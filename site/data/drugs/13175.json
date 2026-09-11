@@ -1,0 +1,40 @@
+{
+  "id": 13175,
+  "brand_name": "マキサカルシトール静注透析用2.5μg「トーワ」",
+  "generic_name": "マキサカルシトール製剤",
+  "therapeutic_classification": "二次性副甲状腺機能亢進症治療剤",
+  "indications": "維持透析下の二次性副甲状腺機能亢進症",
+  "dose_admin": "通常、成人には、透析終了直前にマキサカルシトールとして、1回2.5～10μgを週3回、透析回路静脈側に注入（静注）する。なお、血清副甲状腺ホルモン（PTH）の改善効果が得られない場合は、高カルシウム血症の発現等に注意しながら、1回20μgを上限に慎重に漸増する。",
+  "contraindications": "",
+  "application_precautions": "薬剤調製時の注意\n他剤との混注を行わないこと。",
+  "serious_adverse_events": "高カルシウム血症（22.2%）\n本剤には血清カルシウム上昇作用が認められるので、高カルシウム血症によることが考えられる臨床症状（そう痒感、いらいら感など）の出現に注意すること。\n,\n,\n,\n,",
+  "observation_points": [
+    "高カルシウム血症（22.2%）",
+    "本剤には血清カルシウム上昇作用が認められるので、高カルシウム血症によることが考えられる臨床症状（そう痒感、いらいら感など）の出現に注意すること",
+    ",",
+    "高カルシウム血症があらわれるおそれがある",
+    "不整脈があらわれるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルファカルシドール\nカルシトリオール\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "両剤ともに血清カルシウム値を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PTH製剤\nテリパラチド\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシン等\n,\n,\n,\n,",
+      "clinical_symptom_action": "不整脈があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤により高カルシウム血症が発症した場合、ジギタリス製剤の作用が増強することが考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

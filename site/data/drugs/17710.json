@@ -1,0 +1,54 @@
+{
+  "id": 17710,
+  "brand_name": "NIM配合散",
+  "generic_name": "ジアスターゼ・生薬配合剤",
+  "therapeutic_classification": "健胃消化制酸剤",
+  "indications": "下記消化器症状の改善\n食欲不振、胃部不快感、胃もたれ、嘔気・嘔吐",
+  "dose_admin": "通常成人1回1.3gを1日3回食後に経口投与する。15歳～8歳は成人の1/2量、7歳～5歳は成人の1/3量、4歳～3歳は成人の1/6量を経口投与する。なお、症状により適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n透析療法を受けている患者\nナトリウム摂取制限を必要とする患者（高ナトリウム血症、浮腫、妊娠中毒症等）［ナトリウムの貯留増加により症状が悪化するおそれがある。］\n高カルシウム血症、甲状腺機能低下症又は副甲状腺機能亢進症の患者［血中カルシウム濃度の上昇により病態に悪影響を及ぼすおそれがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "ショック、アナフィラキシー（頻度不明）",
+  "observation_points": [
+    "ショック、アナフィラキシー（頻度不明）",
+    "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させない等注意すること",
+    "この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある",
+    "高カルシウム血症があらわれやすくなる",
+    "Milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある",
+    "観察を十分に行い、症状が発現した場合には投与を中止すること",
+    "併用薬剤の吸収・排泄に影響を与えることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テトラサイクリン系抗生物質\nテトラサイクリン\nドキシサイクリン　等",
+      "clinical_symptom_action": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させない等注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。",
+      "mechanism_risk_factor": "本剤中のAl\n3+\n、Mg\n2+\n、Ca\n2+\nと不溶性のキレートを形成して、これらの薬剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ニューキノロン系抗菌剤\nエノキサシン\nノルフロキサシン\nオフロキサシン　等",
+      "clinical_symptom_action": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させない等注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。",
+      "mechanism_risk_factor": "本剤中のAl\n3+\n、Mg\n2+\n、Ca\n2+\nと不溶性のキレートを形成して、これらの薬剤の吸収が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "活性型ビタミンD\nカルシトリオール\nアルファカルシドール",
+      "clinical_symptom_action": "高カルシウム血症があらわれやすくなる。",
+      "mechanism_risk_factor": "活性型ビタミンDのカルシウム吸収促進作用により、本剤中のカルシウムが吸収されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "大量の牛乳・カルシウム製剤",
+      "clinical_symptom_action": "Milk-alkali syndrome（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある。観察を十分に行い、症状が発現した場合には投与を中止すること。",
+      "mechanism_risk_factor": "尿細管でのカルシウム再吸収が増加する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "その他の併用薬剤",
+      "clinical_symptom_action": "併用薬剤の吸収・排泄に影響を与えることがある。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。",
+      "mechanism_risk_factor": "本剤中のAl\n3+\n、Mg\n2+\n、Ca\n2+\nの吸着作用や消化管内・体液のpH上昇による。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,47 @@
+{
+  "id": 17610,
+  "brand_name": "dl-メチルエフェドリン塩酸塩散10％「メタル」",
+  "generic_name": "dl\n-メチルエフェドリン塩酸塩散10％",
+  "therapeutic_classification": "鎮咳剤",
+  "indications": "〇下記疾患に伴う咳嗽　 気管支喘息、感冒、急性気管支炎、慢性気管支炎、肺結核、上気道炎（咽喉頭炎、鼻カタル）〇蕁麻疹、湿疹",
+  "dose_admin": "dl\n-メチルエフェドリン塩酸塩として、通常、成人1回25〜50mgを1日3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "カテコールアミン製剤（アドレナリン、イソプレナリン塩酸塩等）を投与中の患者",
+  "application_precautions": "",
+  "serious_adverse_events": "重篤な血清カリウム値の低下（頻度不明）\nキサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること。\n,",
+  "observation_points": [
+    "重篤な血清カリウム値の低下（頻度不明）",
+    "キサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること",
+    ",",
+    "作用が増強されるおそれがあるので、減量をするなど慎重に投与すること",
+    "血清カリウム値が低下するおそれがある",
+    "併用する場合には定期的に血清カリウム値を観察し、用量について注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "カテコールアミン製剤\nアドレナリン（ボスミン）イソプレナリン塩酸塩（プロタノール）\n等",
+      "clinical_symptom_action": "不整脈、場合によっては心停止を起こすおそれがあるので併用を避けること。",
+      "mechanism_risk_factor": "相加的に作用（交感神経刺激作用）を増強させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩ラサギリンメシル酸塩サフィナミドメシル酸塩",
+      "clinical_symptom_action": "作用が増強されるおそれがあるので、減量をするなど慎重に投与すること。",
+      "mechanism_risk_factor": "これらの薬剤のMAO-B選択性が低下した場合、交感神経刺激作用が増強されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "甲状腺製剤\nチロキシンリオチロニン等",
+      "clinical_symptom_action": "作用が増強されるおそれがあるので、減量をするなど慎重に投与すること。",
+      "mechanism_risk_factor": "これらの薬剤が心臓のカテコールアミンに対する感受性を増大するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キサンチン誘導体\nテオフィリン\nステロイド剤\nプレドニゾロン\n利尿剤\nアミノフィリン\n,",
+      "clinical_symptom_action": "血清カリウム値が低下するおそれがある。併用する場合には定期的に血清カリウム値を観察し、用量について注意すること。",
+      "mechanism_risk_factor": "相加的に作用（血清カリウム値の低下作用）を増強する。β\n2\n刺激剤はcAMPを活性化しNa-Kポンプを刺激する。"
+    }
+  ],
+  "facility_notes": ""
+}

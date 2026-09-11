@@ -1,0 +1,24 @@
+{
+  "id": 10591,
+  "brand_name": "ビダラビン軟膏3％「F」",
+  "generic_name": "ビダラビン",
+  "therapeutic_classification": "抗ウイルス剤",
+  "indications": "帯状疱疹、単純疱疹",
+  "dose_admin": "患部に適量を1日1～4回、塗布または貼布する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\n本剤の基剤として使用されている油脂性成分は、コンドーム等の避妊用ラテックスゴム製品の品質を劣化・破損する可能性があるため、これらとの接触を避けさせること。\n薬剤使用時の注意\n眼科用として、角膜、結膜には使用しないこと。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "ビダラビン（注射剤）との併用により腎不全、肝不全、神経毒性等の重篤な副作用が発現したとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ペントスタチン",
+      "clinical_symptom_action": "ビダラビン（注射剤）との併用により腎不全、肝不全、神経毒性等の重篤な副作用が発現したとの報告がある\n。",
+      "mechanism_risk_factor": "ペントスタチンが、ビダラビンの代謝に関与するADA（アデノシンデアミナーゼ）酵素の阻害作用を有するため、ビダラビンの血中濃度が高まることによると考えられる\n。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,51 @@
+{
+  "id": 4958,
+  "brand_name": "グーフィス錠5mg",
+  "generic_name": "エロビキシバット水和物錠",
+  "therapeutic_classification": "胆汁酸トランスポーター阻害剤",
+  "indications": "慢性便秘症（器質的疾患による便秘を除く）",
+  "dose_admin": "通常、成人にはエロビキシバットとして10mgを1日1回食前に経口投与する。なお、症状により適宜増減するが、最高用量は1日15mgとする。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n腫瘍、ヘルニア等による腸閉塞が確認されている又は疑われる患者［腸閉塞を悪化させるおそれがある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "これらの薬剤の作用が減弱するおそれがある",
+    "本剤の作用が減弱するおそれがある",
+    "これらの薬剤の血中濃度が上昇し、作用が増強するおそれがある",
+    "ミダゾラムの血中濃度が低下し、作用が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "胆汁酸製剤\nウルソデオキシコール酸、ケノデオキシコール酸",
+      "clinical_symptom_action": "これらの薬剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "本剤の胆汁酸トランスポーター（IBAT）阻害作用により、胆汁酸製剤の再吸収が阻害されるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルミニウム含有制酸剤\nスクラルファート水和物、アルジオキサ等",
+      "clinical_symptom_action": "本剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤は、消化管内で胆汁酸を吸着するため、本剤の作用が減弱するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "コレスチラミン、コレスチミド",
+      "clinical_symptom_action": "本剤の作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤は、胆汁酸を吸着するため、本剤の作用が減弱するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン、ダビガトランエテキシラートメタンスルホン酸塩",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇し、作用が増強するおそれがある。",
+      "mechanism_risk_factor": "本剤のP-糖蛋白質に対する阻害作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミダゾラム",
+      "clinical_symptom_action": "ミダゾラムの血中濃度が低下し、作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

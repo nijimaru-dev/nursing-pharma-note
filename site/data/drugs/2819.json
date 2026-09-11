@@ -1,0 +1,31 @@
+{
+  "id": 2819,
+  "brand_name": "エメダスチンフマル酸塩徐放カプセル1mg「トーワ」",
+  "generic_name": "エメダスチンフマル酸塩徐放カプセル",
+  "therapeutic_classification": "アレルギー性疾患治療剤",
+  "indications": "〇アレルギー性鼻炎\n〇蕁麻疹\n〇湿疹・皮膚炎、皮膚そう痒症、痒疹",
+  "dose_admin": "通常、成人にはエメダスチンフマル酸塩として1回1～2mgを1日2回、朝食後及び就寝前に経口投与する。",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\n本剤は徐放性製剤であるため、薬剤をかみ砕かないで服用させること。\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "相互に作用を増強するおそれがある",
+    "本剤の中枢神経系での副作用（主に眠気）を増強するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "向精神薬\n鎮静剤催眠剤等\n抗ヒスタミン剤",
+      "clinical_symptom_action": "相互に作用を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤の中枢神経抑制作用により、作用が増強されると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "本剤の中枢神経系での副作用（主に眠気）を増強するおそれがある。",
+      "mechanism_risk_factor": "本剤の中枢神経抑制作用により、作用が増強されると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

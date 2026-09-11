@@ -1,0 +1,39 @@
+{
+  "id": 5325,
+  "brand_name": "サイクロセリンカプセル250mg「明治」",
+  "generic_name": "サイクロセリン",
+  "therapeutic_classification": "抗結核性抗生物質製剤",
+  "indications": "〈適応菌種〉\n本剤に感性の結核菌\n〈適応症〉\n肺結核及びその他の結核症",
+  "dose_admin": "通常成人は、サイクロセリンとして1回250mg（力価）を1日2回経口投与する。年齢、体重により適宜減量する。なお、原則として他の抗結核薬と併用すること。",
+  "contraindications": "てんかん等の精神障害のある患者［てんかん様発作等の精神障害をさらに悪化させるおそれがある。］",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "精神錯乱、てんかん様発作、痙攣（いずれも0.1～5％未満）",
+  "observation_points": [
+    "精神錯乱、てんかん様発作、痙攣（いずれも0.1～5％未満）",
+    "アルコールの作用を増強することがある",
+    "眩暈、眠気等の中枢神経系の副作用を増強するとの報告がある",
+    "神経系の副作用を増強することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール（飲酒）",
+      "clinical_symptom_action": "アルコールの作用を増強することがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イソニアジド",
+      "clinical_symptom_action": "眩暈、眠気等の中枢神経系の副作用を増強するとの報告がある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エチオナミド",
+      "clinical_symptom_action": "神経系の副作用を増強することがある。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

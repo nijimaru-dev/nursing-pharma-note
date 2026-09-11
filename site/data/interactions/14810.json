@@ -1,0 +1,1352 @@
+[
+  {
+    "other_id": 652,
+    "other_brand": "アネレム静注用20mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\n麻酔・鎮静剤\nプロポフォールデクスメデトミジンケタミンセボフルラン等\n麻薬性鎮痛剤\nレミフェンタニル等\n抗不安剤等\nヒドロキシジン等\n局所麻酔剤\nリドカイン等\nアルコール（飲酒）"
+  },
+  {
+    "other_id": 767,
+    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 769,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 770,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 771,
+    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 772,
+    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 1060,
+    "other_brand": "アリピプラゾール内用液分包3mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1061,
+    "other_brand": "アリピプラゾール内用液分包3mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1066,
+    "other_brand": "アリピプラゾール内用液1mg分包「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1067,
+    "other_brand": "アリピプラゾール内用液3mg分包「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1068,
+    "other_brand": "アリピプラゾール内用液1mg分包「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1081,
+    "other_brand": "アリピプラゾール細粒1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1090,
+    "other_brand": "アリピプラゾール錠1mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1077,
+    "other_brand": "アリピプラゾール錠3mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1083,
+    "other_brand": "アリピプラゾール錠1mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1078,
+    "other_brand": "アリピプラゾール錠1mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1086,
+    "other_brand": "アリピプラゾール錠3mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1088,
+    "other_brand": "アリピプラゾール錠3mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1089,
+    "other_brand": "アリピプラゾール錠3mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1114,
+    "other_brand": "アリピプラゾールOD錠3mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1115,
+    "other_brand": "アリピプラゾールOD錠3mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1079,
+    "other_brand": "アリピプラゾール錠3mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1117,
+    "other_brand": "アリピプラゾールOD錠3mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1080,
+    "other_brand": "アリピプラゾール錠3mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1119,
+    "other_brand": "アリピプラゾールOD錠3mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1120,
+    "other_brand": "アリピプラゾールOD錠3mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1370,
+    "other_brand": "アンカロン注150",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 1371,
+    "other_brand": "アンカロン錠100",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 1914,
+    "other_brand": "インデラル注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 1915,
+    "other_brand": "インデラル錠10mg",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 1942,
+    "other_brand": "インヴェガ錠3mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 1959,
+    "other_brand": "ウインタミン細粒（10％）",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 2393,
+    "other_brand": "エスラックス静注25mg/2.5mL",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 2678,
+    "other_brand": "エビリファイ内用液0.1％",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 2679,
+    "other_brand": "エビリファイ持続性水懸筋注用300mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 2680,
+    "other_brand": "エビリファイ持続性水懸筋注用300mgシリンジ",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 2683,
+    "other_brand": "エビリファイ錠1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 2688,
+    "other_brand": "エビリファイOD錠3mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 2817,
+    "other_brand": "エムラクリーム",
+    "interaction_type": "caution",
+    "source_text": "アミド型局所麻酔剤\nメピバカイン、ブピバカイン\nクラスⅠ抗不整脈薬\nリドカイン、キニジン"
+  },
+  {
+    "other_id": 2818,
+    "other_brand": "エムラパッチ",
+    "interaction_type": "caution",
+    "source_text": "アミド型局所麻酔剤\nメピバカイン、ブピバカイン\nクラスⅠ抗不整脈薬\nリドカイン、キニジン"
+  },
+  {
+    "other_id": 3258,
+    "other_brand": "オランザピン細粒1％「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3260,
+    "other_brand": "オランザピン細粒1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3261,
+    "other_brand": "オランザピン細粒1%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3263,
+    "other_brand": "オランザピン細粒1%「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3264,
+    "other_brand": "オランザピン細粒1％「日新」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3266,
+    "other_brand": "オランザピン細粒1％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3267,
+    "other_brand": "オランザピン細粒1%「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3269,
+    "other_brand": "オランザピン錠1.25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3259,
+    "other_brand": "オランザピン錠2.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3272,
+    "other_brand": "オランザピン錠2.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3274,
+    "other_brand": "オランザピン錠2.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3276,
+    "other_brand": "オランザピン錠2.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3278,
+    "other_brand": "オランザピン錠2.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3280,
+    "other_brand": "オランザピン錠2.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3304,
+    "other_brand": "オランザピンOD錠1.25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3306,
+    "other_brand": "オランザピンOD錠2.5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3307,
+    "other_brand": "オランザピンOD錠2.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3262,
+    "other_brand": "オランザピン錠2.5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3309,
+    "other_brand": "オランザピンOD錠2.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3265,
+    "other_brand": "オランザピン錠2.5mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3311,
+    "other_brand": "オランザピンOD錠2.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3277,
+    "other_brand": "オランザピン錠2.5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3313,
+    "other_brand": "オランザピンOD錠2.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3314,
+    "other_brand": "オランザピンOD錠2.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3268,
+    "other_brand": "オランザピン錠2.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3316,
+    "other_brand": "オランザピンOD錠2.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 3657,
+    "other_brand": "カイロック細粒40%",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤\n主な薬剤：\nクマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパム\nトリアゾラム\nミダゾラム等\n抗てんかん剤\nフェニトイン\nカルバマゼピン等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン等\nパロキセチン\nβ-遮断剤\nプロプラノロール\nメトプロロール\nラベタロール等\nカルシウム拮抗剤\nニフェジピン等\n抗不整脈剤\nリドカイン等\nキサンチン系薬剤\nテオフィリン\nアミノフィリン等"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nリドカイン塩酸塩\nキニジン硫酸塩水和物\nフレカイニド酢酸塩\nプロパフェノン塩酸塩"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nリドカイン塩酸塩\nキニジン硫酸塩水和物\nフレカイニド酢酸塩\nプロパフェノン塩酸塩"
+  },
+  {
+    "other_id": 4271,
+    "other_brand": "ギブラーリ皮下注189mg",
+    "interaction_type": "caution",
+    "source_text": "CYP1A2の基質となる薬剤リドカイン、デュロキセチン、テオフィリン等"
+  },
+  {
+    "other_id": 4300,
+    "other_brand": "クエチアピン錠25mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4298,
+    "other_brand": "クエチアピン錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4303,
+    "other_brand": "クエチアピン錠25mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4304,
+    "other_brand": "クエチアピン錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4307,
+    "other_brand": "クエチアピン錠25mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4308,
+    "other_brand": "クエチアピン錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4309,
+    "other_brand": "クエチアピン錠25mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4295,
+    "other_brand": "クエチアピン錠12.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4297,
+    "other_brand": "クエチアピン細粒50％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4306,
+    "other_brand": "クエチアピン錠12.5mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4531,
+    "other_brand": "クレミン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 4541,
+    "other_brand": "クロザリル錠25mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 4608,
+    "other_brand": "クロフェクトン錠10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 4611,
+    "other_brand": "クロフェクトン顆粒10%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 4669,
+    "other_brand": "クロルプロマジン塩酸塩錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nジソピラミド\nリドカイン塩酸塩\nプロパフェノン塩酸塩\nキニジン硫酸塩水和物"
+  },
+  {
+    "other_id": 5277,
+    "other_brand": "コントミン筋注10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 5280,
+    "other_brand": "コントミン糖衣錠12.5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 5554,
+    "other_brand": "シクレスト舌下錠5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロンベプリジルジソピラミドリドカイン（全身投与）キニジン"
+  },
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤主な薬剤:\nクマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパムトリアゾラムミダゾラム 等\n抗てんかん剤\nフェニトインカルバマゼピン 等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン 等\nパロキセチン\nβ-遮断剤\nプロプラノロールメトプロロールラベタロール 等\nカルシウム拮抗剤\nニフェジピン 等\n抗不整脈剤\nリドカイン 等\nキサンチン系薬剤\nテオフィリンアミノフィリン 等"
+  },
+  {
+    "other_id": 5657,
+    "other_brand": "シメチジン注200mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤主な薬剤:\nクマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパムトリアゾラムミダゾラム 等\n抗てんかん剤\nフェニトインカルバマゼピン 等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン 等\nパロキセチン\nβ-遮断剤\nプロプラノロールメトプロロールラベタロール 等\nカルシウム拮抗剤\nニフェジピン 等\n抗不整脈剤\nリドカイン 等\nキサンチン系薬剤\nテオフィリンアミノフィリン 等"
+  },
+  {
+    "other_id": 5659,
+    "other_brand": "シメチジン錠200mg「クニヒロ」",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤\n主な薬剤:クマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパムトリアゾラムミダゾラム 等\n抗てんかん剤\nフェニトインカルバマゼピン 等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン 等\nパロキセチン\nβ-遮断剤\nプロプラノロールメトプロロールラベタロール 等\nカルシウム拮抗剤\nニフェジピン 等\n抗不整脈剤\nリドカイン 等\nキサンチン系薬剤\nテオフィリンアミノフィリン 等"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤\n主な薬剤:クマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパムトリアゾラムミダゾラム 等\n抗てんかん剤\nフェニトインカルバマゼピン 等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン 等\nパロキセチン\nβ-遮断剤\nプロプラノロールメトプロロールラベタロール 等\nカルシウム拮抗剤\nニフェジピン 等\n抗不整脈剤\nリドカイン 等\nキサンチン系薬剤\nテオフィリンアミノフィリン 等"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤\n主な薬剤:クマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパムトリアゾラムミダゾラム 等\n抗てんかん剤\nフェニトインカルバマゼピン 等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン 等\nパロキセチン\nβ-遮断剤\nプロプラノロールメトプロロールラベタロール 等\nカルシウム拮抗剤\nニフェジピン 等\n抗不整脈剤\nリドカイン 等\nキサンチン系薬剤\nテオフィリンアミノフィリン 等"
+  },
+  {
+    "other_id": 6017,
+    "other_brand": "ジプレキサザイディス錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6020,
+    "other_brand": "ジプレキサ筋注用10mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6021,
+    "other_brand": "ジプレキサ細粒1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6022,
+    "other_brand": "ジプレキサ錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6320,
+    "other_brand": "スピロピタン錠0.25mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6718,
+    "other_brand": "セレネース内服液0.2％",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6719,
+    "other_brand": "セレネース注5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6720,
+    "other_brand": "セレネース錠0.75mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6727,
+    "other_brand": "セロクエル25mg錠",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6733,
+    "other_brand": "セロケン錠20mg",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 6734,
+    "other_brand": "セロケンL錠120mg",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 6788,
+    "other_brand": "ゼプリオン水懸筋注25mgシリンジ",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6793,
+    "other_brand": "ゼプリオンTRI水懸筋注175mgシリンジ",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 6946,
+    "other_brand": "ゾテピン細粒10％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤主な薬剤:\nクマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパムトリアゾラムミダゾラム 等\n抗てんかん剤\nフェニトインカルバマゼピン 等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン 等\nパロキセチン\nβ-遮断剤\nプロプラノロールメトプロロールラベタロール 等\nカルシウム拮抗剤\nニフェジピン 等\n抗不整脈剤\nリドカイン 等\nキサンチン系薬剤\nテオフィリンアミノフィリン 等"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "肝薬物代謝酵素P-450の活性低下により代謝、排泄が遅延する薬剤\n主な薬剤:クマリン系抗凝血剤\nワルファリン\nベンゾジアゼピン系薬剤\nジアゼパムトリアゾラムミダゾラム 等\n抗てんかん剤\nフェニトインカルバマゼピン 等\n抗うつ剤\n三環系抗うつ剤\nイミプラミン 等\nパロキセチン\nβ-遮断剤\nプロプラノロールメトプロロールラベタロール 等\nカルシウム拮抗剤\nニフェジピン 等\n抗不整脈剤\nリドカイン 等\nキサンチン系薬剤\nテオフィリンアミノフィリン 等"
+  },
+  {
+    "other_id": 7338,
+    "other_brand": "タンボコール錠50mg",
+    "interaction_type": "caution",
+    "source_text": "塩酸リドカインプロカインアミド塩酸塩"
+  },
+  {
+    "other_id": 7341,
+    "other_brand": "タンボコール静注50mg",
+    "interaction_type": "caution",
+    "source_text": "塩酸リドカインプロカインアミド塩酸塩"
+  },
+  {
+    "other_id": 8263,
+    "other_brand": "デクスメデトミジン静注液200μg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤\nミダゾラム、ジアゼパム等\n全身麻酔剤\nプロポフォール、セボフルラン\n等\n局所麻酔剤\nリドカイン塩酸塩等\n中枢神経系抑制剤\nモルヒネ塩酸塩水和物、フェンタニルクエン酸塩、バルビツール酸誘導体等"
+  },
+  {
+    "other_id": 8264,
+    "other_brand": "デクスメデトミジン静注液200μg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤\nミダゾラム、ジアゼパム等\n全身麻酔剤\nプロポフォール、セボフルラン\n等\n局所麻酔剤\nリドカイン塩酸塩等\n中枢神経系抑制剤\nモルヒネ塩酸塩水和物、フェンタニルクエン酸塩、バルビツール酸誘導体等"
+  },
+  {
+    "other_id": 8818,
+    "other_brand": "トリラホン錠2mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 8886,
+    "other_brand": "トロペロン注4mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 8888,
+    "other_brand": "トロペロン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9328,
+    "other_brand": "ナディック錠30mg",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 9567,
+    "other_brand": "ニューレプチル錠5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9706,
+    "other_brand": "ノバミン筋注5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9707,
+    "other_brand": "ノバミン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "フェンタニル、フェンタニルクエン酸塩\nリドカイン塩酸塩\nリドカイン\nエリスロマイシン\nカルバマゼピン\nイトラコナゾール\nケトコナゾール\nミコナゾール\nキニーネ\nカルシウム拮抗薬\n（アムロジピンベシル酸塩、ジルチアゼム塩酸塩、フェロジピン、ニカルジピン塩酸塩、ニフェジピン、ニソルジピン、ニトレンジピン、ベラパミル塩酸塩、ニルバジピン等）\nタモキシフェンクエン酸塩\nトレミフェンクエン酸塩\nブロモクリプチンメシル酸塩\nシンバスタチン\nアトルバスタチンカルシウム水和物\nクラリスロマイシン\nシクロスポリン\nタクロリムス水和物\nエベロリムス\nシロリムス\nデキサメタゾン\nシルデナフィルクエン酸塩\n［バイアグラ］\nタダラフィル\n［シアリス、ザルティア］\nゲフィチニブ\nダサチニブ\nニロチニブ\nイリノテカン塩酸塩水和物\nビンカアルカロイド系抗悪性腫瘍薬\n（ビンクリスチン硫酸塩、ビンブラスチン硫酸塩等）\nアルプラゾラム\nサルメテロールキシナホ酸塩\nボセンタン水和物\nコルヒチン\nクエチアピンフマル酸塩\nシメプレビルナトリウム\n,\n,"
+  },
+  {
+    "other_id": 9763,
+    "other_brand": "ノーモサング点滴静注250mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4で代謝を受ける薬剤\nCa拮抗薬\nニフェジピン\nジルチアゼム\nベラパミル 等\n抗不整脈薬\nアミオダロン\nジソピラミド\nリドカイン\nプロパフェノン\nキニジン 等\n抗てんかん薬\nフェニトイン\nカルバマゼピン\n鎮痛薬\nフェンタニル 等\n鎮咳薬\nセラトロダスト\nデキストロメトルファン"
+  },
+  {
+    "other_id": 9859,
+    "other_brand": "ハロペリドール注5mg「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9863,
+    "other_brand": "ハロペリドール細粒1%「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9862,
+    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9861,
+    "other_brand": "ハロペリドール細粒1%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9860,
+    "other_brand": "ハロペリドール錠0.75mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9865,
+    "other_brand": "ハロペリドール錠0.75mg「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 9876,
+    "other_brand": "ハロマンス注50mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "caution",
+    "source_text": "フェンタニルフェンタニルクエン酸塩オキシコドン塩酸塩水和物リドカインリドカイン塩酸塩ダサチニブ水和物ゲフィチニブニロチニブ塩酸塩水和物ビンカアルカロイド系抗悪性腫瘍薬：\nビンブラスチン硫酸塩ビンクリスチン硫酸塩等\nイリノテカン塩酸塩水和物タモキシフェンクエン酸塩トレミフェンクエン酸塩エベロリムス\nシロリムス\nケトコナゾール\n※\nイトラコナゾールミコナゾール\nイサブコナゾニウム硫酸塩クラリスロマイシンエリスロマイシンクエチアピンフマル酸塩ブロモクリプチンメシル酸塩カルシウム拮抗薬：\nアムロジピンベシル酸塩ジルチアゼム塩酸塩フェロジピンニカルジピン塩酸塩ニフェジピンニトレンジピンニルバジピンベラパミル塩酸塩等\nボセンタン水和物アトルバスタチンカルシウム水和物シンバスタチンシロスタゾール\nコルヒチントファシチニブクエン酸塩ウパダシチニブ水和物サルメテロールキシナホ酸塩シルデナフィルクエン酸塩（バイアグラ）タダラフィル（シアリス、ザルティア）アルプラゾラムデキサメタゾンキニーネ\n,\n,\n,"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "caution",
+    "source_text": "フェンタニルフェンタニルクエン酸塩オキシコドン塩酸塩水和物リドカインリドカイン塩酸塩ダサチニブ水和物ゲフィチニブニロチニブ塩酸塩水和物ビンカアルカロイド系抗悪性腫瘍薬：\nビンブラスチン硫酸塩ビンクリスチン硫酸塩等\nイリノテカン塩酸塩水和物タモキシフェンクエン酸塩トレミフェンクエン酸塩エベロリムス\nシロリムス\nケトコナゾール\n※\nイトラコナゾールミコナゾール\nイサブコナゾニウム硫酸塩クラリスロマイシンエリスロマイシンクエチアピンフマル酸塩ブロモクリプチンメシル酸塩カルシウム拮抗薬：\nアムロジピンベシル酸塩ジルチアゼム塩酸塩フェロジピンニカルジピン塩酸塩ニフェジピンニトレンジピンニルバジピンベラパミル塩酸塩等\nボセンタン水和物アトルバスタチンカルシウム水和物シンバスタチンシロスタゾール\nコルヒチントファシチニブクエン酸塩ウパダシチニブ水和物サルメテロールキシナホ酸塩シルデナフィルクエン酸塩（バイアグラ）タダラフィル（シアリス、ザルティア）アルプラゾラムデキサメタゾンキニーネ\n,\n,\n,"
+  },
+  {
+    "other_id": 10452,
+    "other_brand": "ヒルナミン錠（5mg）",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 10603,
+    "other_brand": "ビプレッソ徐放錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 10908,
+    "other_brand": "ピーゼットシー散1％",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 10909,
+    "other_brand": "ピーゼットシー筋注2mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 10910,
+    "other_brand": "ピーゼットシー糖衣錠2mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 11029,
+    "other_brand": "ファンギゾン注射用50mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン、リドカイン、ベラパミル等"
+  },
+  {
+    "other_id": 11468,
+    "other_brand": "フルデカシン筋注25mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 11511,
+    "other_brand": "フルメジン糖衣錠（0.25）",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 11524,
+    "other_brand": "フレカイニド酢酸塩錠50mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "塩酸リドカインプロカインアミド塩酸塩"
+  },
+  {
+    "other_id": 11525,
+    "other_brand": "フレカイニド酢酸塩錠50mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "塩酸リドカインプロカインアミド塩酸塩"
+  },
+  {
+    "other_id": 11527,
+    "other_brand": "フレカイニド酢酸塩錠50mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "塩酸リドカインプロカインアミド塩酸塩"
+  },
+  {
+    "other_id": 11682,
+    "other_brand": "ブロナンセリン錠2mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11683,
+    "other_brand": "ブロナンセリン錠2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11687,
+    "other_brand": "ブロナンセリン錠2mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11688,
+    "other_brand": "ブロナンセリン錠2mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11689,
+    "other_brand": "ブロナンセリン錠2mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11690,
+    "other_brand": "ブロナンセリン錠2mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11684,
+    "other_brand": "ブロナンセリン錠2mg「DSPB」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11692,
+    "other_brand": "ブロナンセリン錠2mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11732,
+    "other_brand": "ブロムペリドール錠1mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11733,
+    "other_brand": "ブロムペリドール錠1mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 11845,
+    "other_brand": "プリジスタ錠600mg",
+    "interaction_type": "caution",
+    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロンベプリジルジソピラミドリドカイン（全身投与）キニジン"
+  },
+  {
+    "other_id": 11962,
+    "other_brand": "プレセデックス静注液200μg「ファイザー」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤\nミダゾラム、ジアゼパム等\n全身麻酔剤\nプロポフォール、セボフルラン\n等\n局所麻酔剤\nリドカイン塩酸塩等\n中枢神経系抑制剤\nモルヒネ塩酸塩水和物、フェンタニルクエン酸塩、バルビツール酸誘導体等"
+  },
+  {
+    "other_id": 12068,
+    "other_brand": "プロピタン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 12090,
+    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 12091,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 12092,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 12093,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 12225,
+    "other_brand": "ヘマンジオルシロップ小児用0.375%",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 12457,
+    "other_brand": "ベラパミル塩酸塩錠40mg「タイヨー」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン硫酸塩水和物\nプロカインアミド塩酸塩\nリドカイン\nピルシカイニド塩酸塩水和物\nフレカイニド酢酸塩等\n低カリウム血症を起こすおそれがある薬剤\n利尿剤等"
+  },
+  {
+    "other_id": 12458,
+    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン硫酸塩水和物\nプロカインアミド塩酸塩\nリドカイン\nピルシカイニド塩酸塩水和物\nフレカイニド酢酸塩等\n低カリウム血症を起こすおそれがある薬剤\n利尿剤等"
+  },
+  {
+    "other_id": 12459,
+    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン硫酸塩水和物\nプロカインアミド塩酸塩\nリドカイン\nピルシカイニド塩酸塩水和物\nフレカイニド酢酸塩等\n低カリウム血症を起こすおそれがある薬剤\n利尿剤等"
+  },
+  {
+    "other_id": 12460,
+    "other_brand": "ベラパミル塩酸塩静注5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン硫酸塩水和物\nプロカインアミド塩酸塩\nリドカイン\nピルシカイニド塩酸塩水和物\nフレカイニド酢酸塩等\n低カリウム血症を起こすおそれがある薬剤\n利尿剤等"
+  },
+  {
+    "other_id": 12657,
+    "other_brand": "ペロスピロン塩酸塩錠4mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 13564,
+    "other_brand": "メキシチールカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "リドカインプロカインアミドキニジンアプリンジンカルシウム拮抗剤β受容体遮断剤"
+  },
+  {
+    "other_id": 13566,
+    "other_brand": "メキシチール点滴静注125mg",
+    "interaction_type": "caution",
+    "source_text": "リドカインプロカインアミドキニジンカルシウム拮抗剤β受容体遮断剤"
+  },
+  {
+    "other_id": 13567,
+    "other_brand": "メキシレチン塩酸塩カプセル50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リドカインプロカインアミドキニジンアプリンジンカルシウム拮抗剤β受容体遮断剤"
+  },
+  {
+    "other_id": 13568,
+    "other_brand": "メキシレチン塩酸塩カプセル50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リドカインプロカインアミドキニジンアプリンジンカルシウム拮抗剤β受容体遮断剤"
+  },
+  {
+    "other_id": 13571,
+    "other_brand": "メキシレチン塩酸塩錠50mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "リドカインプロカインアミドキニジンアプリンジンカルシウム拮抗剤β受容体遮断剤"
+  },
+  {
+    "other_id": 13572,
+    "other_brand": "メキシレチン塩酸塩錠50mg「KCC」",
+    "interaction_type": "caution",
+    "source_text": "リドカインプロカインアミドキニジンアプリンジンカルシウム拮抗剤β受容体遮断剤"
+  },
+  {
+    "other_id": 13692,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 13693,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 13694,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 14416,
+    "other_brand": "ラツーダ錠20mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14653,
+    "other_brand": "リスパダール コンスタ筋注用25mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14656,
+    "other_brand": "リスパダール内用液1mg/mL",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14657,
+    "other_brand": "リスパダール錠1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14661,
+    "other_brand": "リスパダールOD錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14664,
+    "other_brand": "リスペリドン内用液1mg/mL「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14669,
+    "other_brand": "リスペリドン内用液1mg/mL「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14670,
+    "other_brand": "リスペリドン内用液1mg/mL「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14671,
+    "other_brand": "リスペリドン内用液1mg/mL「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14672,
+    "other_brand": "リスペリドン内用液1mg/mL「杏林」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14673,
+    "other_brand": "リスペリドン錠0.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14682,
+    "other_brand": "リスペリドン錠0.5mg「クニヒロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14674,
+    "other_brand": "リスペリドン錠1mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14675,
+    "other_brand": "リスペリドン細粒1％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14676,
+    "other_brand": "リスペリドン錠1mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14677,
+    "other_brand": "リスペリドン錠1mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14678,
+    "other_brand": "リスペリドン錠1mg「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14679,
+    "other_brand": "リスペリドン錠0.5mg「ヨシトミ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14680,
+    "other_brand": "リスペリドン錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14712,
+    "other_brand": "リスペリドンOD錠0.5mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14713,
+    "other_brand": "リスペリドンOD錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14714,
+    "other_brand": "リスペリドンOD錠0.5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 14715,
+    "other_brand": "リスペリドンOD錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "メトプロロールプロプラノロールナドロール"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトプロロールプロプラノロールナドロール"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトプロロールプロプラノロールナドロール"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "メトプロロールプロプラノロールナドロール"
+  },
+  {
+    "other_id": 15117,
+    "other_brand": "ルーラン錠4mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 15123,
+    "other_brand": "レキサルティ錠1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 15125,
+    "other_brand": "レキサルティOD錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 15411,
+    "other_brand": "レボトミン筋注25mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 15409,
+    "other_brand": "レボトミン錠5mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 15496,
+    "other_brand": "レボメプロマジン錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\n（リドカイン・アドレナリン）"
+  },
+  {
+    "other_id": 15647,
+    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 15648,
+    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「F」",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 15840,
+    "other_brand": "ロドピン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 15845,
+    "other_brand": "ロナセンテープ20mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 15848,
+    "other_brand": "ロナセン錠2mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+  },
+  {
+    "other_id": 15878,
+    "other_brand": "ロプレソール錠20mg",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 15880,
+    "other_brand": "ロプレソールSR錠120mg",
+    "interaction_type": "caution",
+    "source_text": "リドカイン"
+  },
+  {
+    "other_id": 15973,
+    "other_brand": "ワソラン錠40mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン硫酸塩水和物\nプロカインアミド塩酸塩\nリドカイン\nピルシカイニド塩酸塩水和物\nフレカイニド酢酸塩等\n低カリウム血症を起こすおそれがある薬剤\n利尿剤等"
+  },
+  {
+    "other_id": 15975,
+    "other_brand": "ワソラン静注5mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nキニジン硫酸塩水和物\nプロカインアミド塩酸塩\nリドカイン\nピルシカイニド塩酸塩水和物\nフレカイニド酢酸塩等\n低カリウム血症を起こすおそれがある薬剤\n利尿剤等"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "痔疾用剤\nトリベノシド\nトリベノシド・リドカイン"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "痔疾用剤\nトリベノシド\nトリベノシド・リドカイン"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "痔疾用剤\nトリベノシド\nトリベノシド・リドカイン"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "痔疾用剤\nトリベノシド\nトリベノシド・リドカイン"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "痔疾用剤\nトリベノシド\nトリベノシド・リドカイン"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "痔疾用剤\nトリベノシド\nトリベノシド・リドカイン"
+  }
+]

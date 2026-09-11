@@ -1,0 +1,80 @@
+{
+  "id": 13727,
+  "brand_name": "メトロニダゾールゲル0.75%「マルイシ」",
+  "generic_name": "メトロニダゾール ゲル",
+  "therapeutic_classification": "がん性皮膚潰瘍臭改善薬",
+  "indications": "がん性皮膚潰瘍部位の殺菌・臭気の軽減",
+  "dose_admin": "症状及び病巣の広さに応じて適量を使用する。潰瘍面を清拭後、1日1～2回ガーゼ等にのばして貼付するか、患部に直接塗布しその上をガーゼ等で保護する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n脳、脊髄に器質的疾患のある患者（脳・脊髄腫瘍の患者を除く）［中枢神経系症状があらわれることがある。］\n妊娠3ヵ月以内の女性\n,",
+  "application_precautions": "薬剤交付時の注意\n刺激感を伴う皮膚症状が認められた場合は、使用回数を減らす又は一時的に本剤の使用を中止し、必要に応じ医師の指示を受けるよう患者に指導すること。\n薬剤使用時の注意\nガーゼ等の交換時に患部を刺激することにより、潰瘍部位の血管が損傷し、出血を招くことがあるので、浸潤させる等本剤塗布部位の乾燥に注意すること。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "精神症状、腹部の疝痛、嘔吐、潮紅があらわれることがあるので、使用期間中は飲酒を避けること",
+    "ジスルフィラム-アルコール反応を起こすおそれがある",
+    "精神症状（錯乱等）があらわれることがある",
+    "ワルファリンの抗凝血作用を増強し、出血等があらわれることがある",
+    "リチウムの血中濃度が上昇し、リチウム中毒があらわれることがある",
+    "5-フルオロウラシルの血中濃度が上昇し、5-フルオロウラシルの作用が増強することがある",
+    "ブスルファンの作用が増強されることがある",
+    "シクロスポリンの作用が増強される可能性がある",
+    "本剤の作用が減弱する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "精神症状、腹部の疝痛、嘔吐、潮紅があらわれることがあるので、使用期間中は飲酒を避けること。",
+      "mechanism_risk_factor": "本剤はアルコールの代謝過程においてアルデヒド脱水素酵素を阻害し、血中アセトアルデヒド濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル含有製剤（内用液）",
+      "clinical_symptom_action": "ジスルフィラム-アルコール反応を起こすおそれがある。",
+      "mechanism_risk_factor": "リトナビル含有製剤（内用液）はエタノールを含有するので本剤により血中アセトアルデヒド濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジスルフィラム",
+      "clinical_symptom_action": "精神症状（錯乱等）があらわれることがある。",
+      "mechanism_risk_factor": "不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "クマリン系抗凝血剤\nワルファリン等",
+      "clinical_symptom_action": "ワルファリンの抗凝血作用を増強し、出血等があらわれることがある。",
+      "mechanism_risk_factor": "本剤はワルファリンの代謝を阻害し、その血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リチウム",
+      "clinical_symptom_action": "リチウムの血中濃度が上昇し、リチウム中毒があらわれることがある。",
+      "mechanism_risk_factor": "不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "5-フルオロウラシル",
+      "clinical_symptom_action": "5-フルオロウラシルの血中濃度が上昇し、5-フルオロウラシルの作用が増強することがある。",
+      "mechanism_risk_factor": "発現機序の詳細は不明であるが、本剤が5-フルオロウラシルの全身クリアランスを低下させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ブスルファン",
+      "clinical_symptom_action": "ブスルファンの作用が増強されることがある。",
+      "mechanism_risk_factor": "本剤はブスルファンの血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "シクロスポリンの作用が増強される可能性がある。",
+      "mechanism_risk_factor": "本剤はシクロスポリンの血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェノバルビタール",
+      "clinical_symptom_action": "本剤の作用が減弱する可能性がある。",
+      "mechanism_risk_factor": "フェノバルビタールは本剤の代謝酵素を誘導し、その血中濃度を低下させる。"
+    }
+  ],
+  "facility_notes": ""
+}

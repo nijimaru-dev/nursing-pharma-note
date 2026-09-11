@@ -1,0 +1,1556 @@
+[
+  {
+    "other_id": 67,
+    "other_brand": "アイベータ配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 68,
+    "other_brand": "アイベータ配合点眼液（添加剤にベンザルコニウム塩化物を含む、使用期限2028年5月まで）",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 766,
+    "other_brand": "アマージ錠2.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 767,
+    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 769,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 770,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 771,
+    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 772,
+    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 1370,
+    "other_brand": "アンカロン注150",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 1371,
+    "other_brand": "アンカロン錠100",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 1682,
+    "other_brand": "イフェクサーSRカプセル37.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 1727,
+    "other_brand": "イミグランキット皮下注3mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 1728,
+    "other_brand": "イミグラン点鼻液20",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 1729,
+    "other_brand": "イミグラン錠50",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 1910,
+    "other_brand": "インテバン坐剤25",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nメトプロロール酒石酸塩等\nACE阻害剤\nエナラプリルマレイン酸塩\nデラプリル塩酸塩\nイミダプリル塩酸塩等\nA-II受容体拮抗剤\nロサルタンカリウム\nカンデサルタン シレキセチル\nバルサルタン等"
+  },
+  {
+    "other_id": 1925,
+    "other_brand": "インドメタシン坐剤25「NP」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nメトプロロール酒石酸塩等\nACE阻害剤\nエナラプリルマレイン酸塩\nデラプリル塩酸塩\nイミダプリル塩酸塩等\nA-II受容体拮抗剤\nロサルタンカリウム\nカンデサルタン シレキセチル\nバルサルタン等"
+  },
+  {
+    "other_id": 1924,
+    "other_brand": "インドメタシン坐剤12.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nメトプロロール酒石酸塩等\nACE阻害剤\nエナラプリルマレイン酸塩\nデラプリル塩酸塩\nイミダプリル塩酸塩等\nA-II受容体拮抗剤\nロサルタンカリウム\nカンデサルタン シレキセチル\nバルサルタン等"
+  },
+  {
+    "other_id": 1933,
+    "other_brand": "インフリーカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤\nプロプラノロール塩酸塩\nアテノロール\nメトプロロール酒石酸塩等\nACE阻害剤\nエナラプリルマレイン酸塩\nデラプリル塩酸塩\nイミダプリル塩酸塩等\nA-II受容体拮抗剤\nロサルタンカリウム\nカンデサルタン シレキセチル\nバルサルタン等\nチアジド系及びその類似降圧利尿剤\nヒドロクロロチアジド等\nループ利尿剤\nフロセミド等"
+  },
+  {
+    "other_id": 2303,
+    "other_brand": "エスシタロプラム錠10mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2305,
+    "other_brand": "エスシタロプラム錠10mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2306,
+    "other_brand": "エスシタロプラム錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2307,
+    "other_brand": "エスシタロプラム錠10mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2309,
+    "other_brand": "エスシタロプラム錠10mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2310,
+    "other_brand": "エスシタロプラム錠10mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2311,
+    "other_brand": "エスシタロプラム錠10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2302,
+    "other_brand": "エスシタロプラム錠10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2324,
+    "other_brand": "エスシタロプラムOD錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2304,
+    "other_brand": "エスシタロプラム錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2325,
+    "other_brand": "エスシタロプラムOD錠10mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 2829,
+    "other_brand": "エリスロシン点滴静注用500mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 2829,
+    "other_brand": "エリスロシン点滴静注用500mg",
+    "interaction_type": "caution",
+    "source_text": "ビンカアルカロイド\nビンブラスチン硫酸塩\nビノレルビン酒石酸塩等"
+  },
+  {
+    "other_id": 2830,
+    "other_brand": "エリスロシン錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 2830,
+    "other_brand": "エリスロシン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "ビンカアルカロイド\nビンブラスチン硫酸塩\nビノレルビン酒石酸塩等"
+  },
+  {
+    "other_id": 2827,
+    "other_brand": "エリスロシンドライシロップ10％",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 2827,
+    "other_brand": "エリスロシンドライシロップ10％",
+    "interaction_type": "caution",
+    "source_text": "ビンカアルカロイド\nビンブラスチン硫酸塩\nビノレルビン酒石酸塩等"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n（クリアミン）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ビンカアルカロイド\nビンブラスチン硫酸塩\nビノレルビン酒石酸塩等"
+  },
+  {
+    "other_id": 2887,
+    "other_brand": "エレトリプタン錠20mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 2888,
+    "other_brand": "エレトリプタン錠20mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 2889,
+    "other_brand": "エレトリプタン錠20mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 2890,
+    "other_brand": "エレトリプタン錠20mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 2891,
+    "other_brand": "エレトリプタン錠20mg「DSEP」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 2892,
+    "other_brand": "エレトリプタン錠20mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 2893,
+    "other_brand": "エレトリプタン錠20mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 2894,
+    "other_brand": "エレトリプタン錠20mg「YD」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 3254,
+    "other_brand": "オラビ錠口腔用50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン配合錠\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 3254,
+    "other_brand": "オラビ錠口腔用50mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物\nアトルバスタチンカルシウム水和物\nビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩、\nビンブラスチン硫酸塩、\nビノレルビン酒石酸塩等\nジヒドロピリジン系カルシウム拮抗剤\nニフェジピン、\nアムロジピンベシル酸塩、\nニカルジピン塩酸塩等\nベラパミル塩酸塩\nシルデナフィルクエン酸塩\nアルプラゾラム\nミダゾラム\nブロチゾラム\nメチルプレドニゾロン\nセレギリン塩酸塩\nエバスチン\nイマチニブメシル酸塩\nジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n［クリアミン］\nジヒドロエルゴタミンメシル酸塩\nエルゴメトリンマレイン酸塩\n［エルゴメトリン］\nメチルエルゴメトリンマレイン酸塩\n［パルタン］"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n［クリアミン］\nジヒドロエルゴタミンメシル酸塩\nエルゴメトリンマレイン酸塩\n［エルゴメトリン］\nメチルエルゴメトリンマレイン酸塩\n［パルタン］"
+  },
+  {
+    "other_id": 4206,
+    "other_brand": "キニジン硫酸塩「VTRS」原末",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 4206,
+    "other_brand": "キニジン硫酸塩「VTRS」原末",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 4439,
+    "other_brand": "クラリシッド錠200mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4440,
+    "other_brand": "クラリシッド錠50mg小児用",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4446,
+    "other_brand": "クラリスロマイシン錠小児用50mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4447,
+    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4448,
+    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4449,
+    "other_brand": "クラリスロマイシン錠200mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4450,
+    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4451,
+    "other_brand": "クラリスロマイシン錠200㎎「大正」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4452,
+    "other_brand": "クラリスロマイシン錠200mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4453,
+    "other_brand": "クラリスロマイシン錠200mg「CH」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4454,
+    "other_brand": "クラリスロマイシン錠200mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4455,
+    "other_brand": "クラリスロマイシン錠200mg「NPI」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4456,
+    "other_brand": "クラリスロマイシン錠200mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4442,
+    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4460,
+    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4461,
+    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4443,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4463,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4444,
+    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4445,
+    "other_brand": "クラリスロマイシン錠小児用50mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4458,
+    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4467,
+    "other_brand": "クラリス錠200",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 4441,
+    "other_brand": "クラリス錠50小児用",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン〔クリアミン〕ジヒドロエルゴタミンメシル酸塩\n,"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "ジヒドロエルゴタミンメシル酸塩\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴメトリンマレイン酸塩\nメチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "クロラゼプ酸二カリウム\nジアゼパム\nエスタゾラム\nフルラゼパム塩酸塩\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 5118,
+    "other_brand": "コソプト配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 5510,
+    "other_brand": "ザラカム配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 5641,
+    "other_brand": "シベノール錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩\n（アベロックス）\nラスクフロキサシン塩酸塩（注射剤）\n（ラスビック点滴静注）\nトレミフェンクエン酸塩\n（フェアストン）\nフィンゴリモド塩酸塩\n（イムセラ、ジレニア）\nシポニモド フマル酸\n（メーゼント）\nエリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 5643,
+    "other_brand": "シベノール静注70mg",
+    "interaction_type": "contraindicated",
+    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩\n（アベロックス）\nラスクフロキサシン塩酸塩（注射剤）\n（ラスビック点滴静注）\nトレミフェンクエン酸塩\n（フェアストン）\nフィンゴリモド塩酸塩\n（イムセラ、ジレニア）\nシポニモド　フマル酸\n（メーゼント）\nエリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 5645,
+    "other_brand": "シベンゾリンコハク酸塩錠50mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩（アベロックス）ラスクフロキサシン塩酸塩（注射剤）（ラスビック点滴静注）トレミフェンクエン酸塩（フェアストン）フィンゴリモド塩酸塩（イムセラ、ジレニア）シポニモド フマル酸（メーゼント）エリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 5646,
+    "other_brand": "シベンゾリンコハク酸塩錠50mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩（アベロックス）ラスクフロキサシン塩酸塩（注射剤）（ラスビック点滴静注）トレミフェンクエン酸塩（フェアストン）フィンゴリモド塩酸塩（イムセラ、ジレニア）シポニモド フマル酸（メーゼント）エリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン\nジヒドロエルゴタミン\nジヒデルゴット\nエルゴメトリンメチルエルゴメトリン\nパルタンM"
+  },
+  {
+    "other_id": 5670,
+    "other_brand": "シュンレンカ皮下注463.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "メチルエルゴメトリンマレイン酸塩（パルタン）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）"
+  },
+  {
+    "other_id": 5671,
+    "other_brand": "シュンレンカ錠300mg",
+    "interaction_type": "contraindicated",
+    "source_text": "メチルエルゴメトリンマレイン酸塩（パルタン）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）"
+  },
+  {
+    "other_id": 5812,
+    "other_brand": "シンビット静注用50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 5880,
+    "other_brand": "ジカディア錠150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アナモレリン塩酸塩\n（エドルミズ）\nボクロスポリン\n（ルプキネス）\nイバブラジン塩酸塩\n（コララン）\nキニジン硫酸塩水和物\nチカグレロル\n（ブリリンタ）\nマバカムテン\n（カムザイオス）\nアゼルニジピン\n（カルブロック）\nオルメサルタン メドキソミル・アゼルニジピン\n（レザルタス配合錠）\nエプレレノン\n（セララ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n（クリアミン配合錠）\nシンバスタチン\n（リポバス）\nタダラフィル\n（アドシルカ）\nマシテンタン・タダラフィル\n（ユバンシ配合錠）\nフィネレノン\n（ケレンディア）\nロミタピドメシル酸塩\n（ジャクスタピッド）\nスボレキサント\n（ベルソムラ）\nダリドレキサント塩酸塩\n（クービビック）\nトリアゾラム\n（ハルシオン）\nブロナンセリン\n（ロナセン）\nボルノレキサント水和物\n（ボルズィ）\nルラシドン塩酸塩\n（ラツーダ）\nバルデナフィル塩酸塩水和物\nメチルエルゴメトリンマレイン酸塩\n（パルタンM）\nロナファルニブ\n（ゾキンヴィ）\nイブルチニブ\n（イムブルビカ）"
+  },
+  {
+    "other_id": 5962,
+    "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 5963,
+    "other_brand": "ジソピラミド徐放錠150mg「SW」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 5964,
+    "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 6103,
+    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6104,
+    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6108,
+    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6107,
+    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6110,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6111,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6112,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6116,
+    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 6331,
+    "other_brand": "スプリセル錠20mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4の基質となる薬剤\nシンバスタチンシクロスポリンピモジドキニジン硫酸塩水和物タクロリムス水和物エルゴタミン酒石酸塩ジヒドロエルゴタミンメシル酸塩等"
+  },
+  {
+    "other_id": 6333,
+    "other_brand": "スプレンジール錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 6343,
+    "other_brand": "スマトリプタン錠50mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6342,
+    "other_brand": "スマトリプタン錠50mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6345,
+    "other_brand": "スマトリプタン錠50mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6346,
+    "other_brand": "スマトリプタン錠50mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6347,
+    "other_brand": "スマトリプタン錠50mg「SPKK」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6348,
+    "other_brand": "スマトリプタン錠50mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6350,
+    "other_brand": "スマトリプタン錠50mg「TW」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6351,
+    "other_brand": "スマトリプタン錠50mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6352,
+    "other_brand": "スマトリプタン錠50mg「YD」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 6820,
+    "other_brand": "ソタコール錠40mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩（サデルガ）"
+  },
+  {
+    "other_id": 6822,
+    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩（サデルガ）"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n（クリアミン）\nメチルエルゴメトリンマレイン酸塩\n（パルタンM）"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "マラビロク\nアプレピタント\nサルメテロールキシナホ酸塩\nシナカルセト塩酸塩\nアルプラゾラム\nゾピクロン\nトルテロジン酒石酸塩\nオキシブチニン塩酸塩\nグアンファシン塩酸塩\nジエノゲスト"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n（クリアミン）\nエルゴメトリンマレイン酸塩\nメチルエルゴメトリンマレイン酸塩\n（パルタンM）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "マラビロク\nアプレピタント\nロペラミド塩酸塩\nサルメテロールキシナホ酸塩\nシナカルセト塩酸塩\nアルプラゾラム\nゾピクロン\nトルテロジン酒石酸塩\nオキシブチニン塩酸塩\nグアンファシン塩酸塩\nジエノゲスト"
+  },
+  {
+    "other_id": 7064,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7065,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7066,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7067,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7068,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7069,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7070,
+    "other_brand": "ゾルミトリプタンOD錠2.5mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7088,
+    "other_brand": "ゾーミッグ錠2.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7089,
+    "other_brand": "ゾーミッグRM錠2.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）、エルゴメトリンマレイン酸塩（エルゴメトリンF）、メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 7237,
+    "other_brand": "タフチモ配合点眼液「日点」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7240,
+    "other_brand": "タフチモ配合点眼液「NIT」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7250,
+    "other_brand": "タプコム配合点眼液",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7417,
+    "other_brand": "ダサチニブ錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4の基質となる薬剤\nシンバスタチンシクロスポリンピモジドキニジン硫酸塩水和物タクロリムス水和物エルゴタミン酒石酸塩ジヒドロエルゴタミンメシル酸塩等"
+  },
+  {
+    "other_id": 7418,
+    "other_brand": "ダサチニブ錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4の基質となる薬剤\nシンバスタチンシクロスポリンピモジドキニジン硫酸塩水和物タクロリムス水和物エルゴタミン酒石酸塩ジヒドロエルゴタミンメシル酸塩等"
+  },
+  {
+    "other_id": 7419,
+    "other_brand": "ダサチニブ錠20mg「BMSH」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4の基質となる薬剤\nシンバスタチンシクロスポリンピモジドキニジン硫酸塩水和物タクロリムス水和物エルゴタミン酒石酸塩ジヒドロエルゴタミンメシル酸塩等"
+  },
+  {
+    "other_id": 7420,
+    "other_brand": "ダサチニブ錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4の基質となる薬剤\nシンバスタチンシクロスポリンピモジドキニジン硫酸塩水和物タクロリムス水和物エルゴタミン酒石酸塩ジヒドロエルゴタミンメシル酸塩等"
+  },
+  {
+    "other_id": 7421,
+    "other_brand": "ダサチニブ錠20mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4の基質となる薬剤\nシンバスタチンシクロスポリンピモジドキニジン硫酸塩水和物タクロリムス水和物エルゴタミン酒石酸塩ジヒドロエルゴタミンメシル酸塩等"
+  },
+  {
+    "other_id": 7561,
+    "other_brand": "チモプトール点眼液0.25％",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7563,
+    "other_brand": "チモプトールXE点眼液0.25%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7565,
+    "other_brand": "チモロール点眼液0.25％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7566,
+    "other_brand": "チモロール点眼液0.25%「テイカ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7567,
+    "other_brand": "チモロール点眼液0.25％「ニッテン」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7568,
+    "other_brand": "チモロール点眼液0.25％「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7569,
+    "other_brand": "チモロール点眼液0.25％「日新」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7575,
+    "other_brand": "チモロールPF点眼液0.25％「日点」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）： アテノロール プロプラノロール塩酸塩 メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7577,
+    "other_brand": "チモロールXE点眼液0.25%「センジュ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7578,
+    "other_brand": "チモロールXE点眼液0.25％「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7579,
+    "other_brand": "チモロールXE点眼液0.25％「杏林」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7580,
+    "other_brand": "チモロールXE点眼液0.25%「TS」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤 (全身投与)：　アテノロール　プロプラノロール塩酸塩　メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 7617,
+    "other_brand": "ツカイザ錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "アナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nイバブラジン塩酸塩（コララン）\nキニジン硫酸塩水和物\nチカグレロル（ブリリンタ）\nマバカムテン（カムザイオス）\nアゼルニジピン（カルブロック）\nオルメサルタン　メドキソミル・アゼルニジピン（レザルタス配合錠）\nエプレレノン（セララ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）\nシンバスタチン（リポバス）\nタダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ配合錠）\nフィネレノン（ケレンディア）\nロミタピドメシル酸塩（ジャクスタピッド）\nスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nトリアゾラム（ハルシオン）\nブロナンセリン（ロナセン）\nボルノレキサント水和物（ボルズィ）\nルラシドン塩酸塩（ラツーダ）\nバルデナフィル塩酸塩水和物\nメチルエルゴメトリンマレイン酸塩（パルタンM）\nロナファルニブ（ゾキンヴィ）\nイブルチニブ（イムブルビカ）\nパロバロテン（ソホノス）"
+  },
+  {
+    "other_id": 8211,
+    "other_brand": "ディアコミットドライシロップ分包250mg",
+    "interaction_type": "caution",
+    "source_text": "麦角アルカロイド\nエルゴタミン酒石酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩エルゴメトリンマレイン酸塩等"
+  },
+  {
+    "other_id": 8311,
+    "other_brand": "デプロメール錠25",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 9145,
+    "other_brand": "ドルミカムシロップ2mg/mL",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nビノレルビン酒石酸塩\nパクリタキセル等"
+  },
+  {
+    "other_id": 9146,
+    "other_brand": "ドルミカム注射液10mg",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nビノレルビン酒石酸塩\nパクリタキセル等"
+  },
+  {
+    "other_id": 9147,
+    "other_brand": "ドルモロール配合点眼液「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9148,
+    "other_brand": "ドルモロール配合点眼液「センジュ」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9149,
+    "other_brand": "ドルモロール配合点眼液「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9150,
+    "other_brand": "ドルモロール配合点眼液「日点」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9153,
+    "other_brand": "ドルモロール配合点眼液「TS」",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）：\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9404,
+    "other_brand": "ナラトリプタン錠2.5mg「KO」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（パルタンM）"
+  },
+  {
+    "other_id": 9551,
+    "other_brand": "ニプラジロール点眼液0.25％「わかもと」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9552,
+    "other_brand": "ニプラジロール点眼液0.25％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9553,
+    "other_brand": "ニプラジロール点眼液0.25％「ニッテン」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9554,
+    "other_brand": "ニプラジロール点眼液0.25％「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9555,
+    "other_brand": "ニプラジロールPF点眼液0.25％「日点」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9556,
+    "other_brand": "ニプラノール点眼液0.25%",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 9699,
+    "other_brand": "ノクサフィル点滴静注300mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）\nジヒドロエルゴタミン\nメチルエルゴメトリン（パルタンM）\nエルゴメトリン"
+  },
+  {
+    "other_id": 9700,
+    "other_brand": "ノクサフィル錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）\nジヒドロエルゴタミン\nメチルエルゴメトリン（パルタンM）\nエルゴメトリン"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "キニジン硫酸塩水和物\n［硫酸キニジン］\nベプリジル塩酸塩水和物\n［ベプリコール］\nフレカイニド酢酸塩\n［タンボコール］\nプロパフェノン塩酸塩\n［プロノン］\nアミオダロン塩酸塩\n［アンカロン］\nピモジド\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n［クリアミン］\nジヒドロエルゴタミンメシル酸塩\nエルゴメトリンマレイン酸塩\n［エルゴメトリン］\nメチルエルゴメトリンマレイン酸塩\n［パルタン］\nエレトリプタン臭化水素酸塩\n［レルパックス］\nバルデナフィル塩酸塩水和物\n［レビトラ］\nシルデナフィルクエン酸塩\n［レバチオ］\nタダラフィル\n［アドシルカ］\nアゼルニジピン\n［カルブロック］\nアゼルニジピン・オルメサルタン メドキソミル\n［レザルタス配合錠］\nリファブチン\n［ミコブティン］\nブロナンセリン\n［ロナセン］\nリバーロキサバン\n［イグザレルト］\nロミタピドメシル酸塩\n［ジャクスタピッド］\nルラシドン塩酸塩\n［ラツーダ］"
+  },
+  {
+    "other_id": 9799,
+    "other_brand": "ハイパジールコーワ点眼液0.25％",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬（全身投与）\nプロプラノロール塩酸塩アテノロールメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10120,
+    "other_brand": "パキシル錠5mg",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10123,
+    "other_brand": "パキシルCR錠6.25mg",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "contraindicated",
+    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）リファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）バルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "contraindicated",
+    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）\nリファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）\nバルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+  },
+  {
+    "other_id": 10181,
+    "other_brand": "パルタンM注0.2mg",
+    "interaction_type": "contraindicated",
+    "source_text": "5-HT\n1B/1D\n受容体作動薬\nスマトリプタン\nイミグラン\nゾルミトリプタン\nゾーミッグ\nエレトリプタン臭化水素酸塩\nレルパックス\nリザトリプタン安息香酸塩\nマクサルト\nナラトリプタン塩酸塩\nアマージ\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン"
+  },
+  {
+    "other_id": 10182,
+    "other_brand": "パルタンM錠0.125mg",
+    "interaction_type": "contraindicated",
+    "source_text": "5-HT\n1B/1D\n受容体作動薬\nスマトリプタン\nイミグラン\nゾルミトリプタン\nゾーミッグ\nエレトリプタン臭化水素酸塩\nレルパックス\nリザトリプタン安息香酸塩\nマクサルト\nナラトリプタン塩酸塩\nアマージ\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン"
+  },
+  {
+    "other_id": 10197,
+    "other_brand": "パロキセチン錠10mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10198,
+    "other_brand": "パロキセチン錠5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10199,
+    "other_brand": "パロキセチン錠5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10201,
+    "other_brand": "パロキセチン錠5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10202,
+    "other_brand": "パロキセチン錠5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10204,
+    "other_brand": "パロキセチン錠5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10205,
+    "other_brand": "パロキセチン錠5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10206,
+    "other_brand": "パロキセチン錠5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10207,
+    "other_brand": "パロキセチン錠5mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10208,
+    "other_brand": "パロキセチン錠5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10209,
+    "other_brand": "パロキセチン錠5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10210,
+    "other_brand": "パロキセチン錠5mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10211,
+    "other_brand": "パロキセチン錠5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10212,
+    "other_brand": "パロキセチン錠5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10213,
+    "other_brand": "パロキセチン錠5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10214,
+    "other_brand": "パロキセチン錠5mg「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10215,
+    "other_brand": "パロキセチン錠5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10216,
+    "other_brand": "パロキセチン錠5mg「TSU」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10217,
+    "other_brand": "パロキセチン錠5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10218,
+    "other_brand": "パロキセチン錠5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 10203,
+    "other_brand": "パロキセチン錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 11243,
+    "other_brand": "フェロジピン錠2.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11392,
+    "other_brand": "フルコナゾールカプセル50mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11395,
+    "other_brand": "フルコナゾールカプセル50mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11408,
+    "other_brand": "フルコナゾール静注50mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11409,
+    "other_brand": "フルコナゾール静注50mg「NP」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 11483,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 11484,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 11485,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 11486,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 11487,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 11488,
+    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 11555,
+    "other_brand": "フロリードゲル経口用2%",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン配合錠\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 11555,
+    "other_brand": "フロリードゲル経口用2%",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物\nアトルバスタチン\nビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩\nビノレルビン酒石酸塩\nビンブラスチン硫酸塩　等\nジヒドロピリジン系カルシウム拮抗剤\nニフェジピン\nアムロジピンベシル酸塩\nシルニジピン　等\nベラパミル塩酸塩\nシルデナフィルクエン酸塩\nアルプラゾラム\nミダゾラム\nブロチゾラム\nメチルプレドニゾロン\nセレギリン塩酸塩\nエバスチン\nイマチニブメシル酸塩\nジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 11559,
+    "other_brand": "フロリードF注200mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン配合錠\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 11559,
+    "other_brand": "フロリードF注200mg",
+    "interaction_type": "caution",
+    "source_text": "タクロリムス水和物\nアトルバスタチン\nビンカアルカロイド系抗悪性腫瘍剤\nビンクリスチン硫酸塩\nビノレルビン酒石酸塩\nビンブラスチン硫酸塩　等\nジヒドロピリジン系カルシウム拮抗剤\nニフェジピン\nアムロジピンベシル酸塩\nシルニジピン　等\nベラパミル塩酸塩\nシルデナフィルクエン酸塩\nアルプラゾラム\nミダゾラム\nブロチゾラム\nメチルプレドニゾロン\nセレギリン塩酸塩\nエバスチン\nイマチニブメシル酸塩\nジソピラミド\nシロスタゾール"
+  },
+  {
+    "other_id": 11569,
+    "other_brand": "ブコラム口腔用液2.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nビノレルビン酒石酸塩パクリタキセル等"
+  },
+  {
+    "other_id": 11845,
+    "other_brand": "プリジスタ錠600mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン\nジヒドロエルゴタミン\nジヒデルゴット\nエルゴメトリン\nメチルエルゴメトリン\nパルタンM"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン\nジヒドロエルゴタミン\nジヒデルゴット\nエルゴメトリンメチルエルゴメトリン\nパルタンM"
+  },
+  {
+    "other_id": 11987,
+    "other_brand": "プレバイミス点滴静注240mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）\nジヒドロエルゴタミン\nメチルエルゴメトリン（パルタンM）\nエルゴメトリン"
+  },
+  {
+    "other_id": 11988,
+    "other_brand": "プレバイミス錠240mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）\nジヒドロエルゴタミン\nメチルエルゴメトリン（パルタンM）\nエルゴメトリン"
+  },
+  {
+    "other_id": 12024,
+    "other_brand": "プロジフ静注液100",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）ジヒドロエルゴタミン"
+  },
+  {
+    "other_id": 12242,
+    "other_brand": "ヘルベッサー注射用250",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12241,
+    "other_brand": "ヘルベッサー注射用10",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12244,
+    "other_brand": "ヘルベッサー錠30",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12246,
+    "other_brand": "ヘルベッサーRカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "ビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12433,
+    "other_brand": "ベプリコール錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 12435,
+    "other_brand": "ベプリジル塩酸塩錠50mg「TE」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 12457,
+    "other_brand": "ベラパミル塩酸塩錠40mg「タイヨー」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12458,
+    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12459,
+    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12460,
+    "other_brand": "ベラパミル塩酸塩静注5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 12964,
+    "other_brand": "ボノサップパック400",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n〔クリアミン〕\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 13185,
+    "other_brand": "マクサルト錠10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン製剤\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）\nエルゴメトリンマレイン酸塩（エルゴメトリンマレイン酸塩「F」）\nメチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 13341,
+    "other_brand": "ミダゾラム注射液10mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nビノレルビン酒石酸塩\nパクリタキセル等"
+  },
+  {
+    "other_id": 13342,
+    "other_brand": "ミダゾラム注10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nビノレルビン酒石酸塩\nパクリタキセル等"
+  },
+  {
+    "other_id": 13343,
+    "other_brand": "ミダフレッサ静注0.1％",
+    "interaction_type": "caution",
+    "source_text": "抗悪性腫瘍剤\nビノレルビン酒石酸塩パクリタキセル等"
+  },
+  {
+    "other_id": 14386,
+    "other_brand": "ラタチモ配合点眼液「センジュ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14387,
+    "other_brand": "ラタチモ配合点眼液「ニッテン」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14390,
+    "other_brand": "ラタチモ配合点眼液「ニットー」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14391,
+    "other_brand": "ラタチモ配合点眼液「TS」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14392,
+    "other_brand": "ラタチモ配合点眼液「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nアテノロールプロプラノロール塩酸塩メトプロロール酒石酸塩等"
+  },
+  {
+    "other_id": 14634,
+    "other_brand": "リザトリプタンOD錠10mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン製剤\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）\nエルゴメトリンマレイン酸塩（エルゴメトリンマレイン酸塩「F」）\nメチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 14635,
+    "other_brand": "リザトリプタンOD錠10mg「TCK」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン製剤\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）\nエルゴメトリンマレイン酸塩（エルゴメトリンマレイン酸塩「F」）\nメチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 14636,
+    "other_brand": "リザトリプタンOD錠10mg「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン製剤\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）\nエルゴメトリンマレイン酸塩（エルゴメトリンマレイン酸塩「F」）\nメチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 14730,
+    "other_brand": "リスモダンカプセル100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 14732,
+    "other_brand": "リスモダンR錠150mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\nサデルガ"
+  },
+  {
+    "other_id": 14734,
+    "other_brand": "リズモンTG点眼液0.25％",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール、プロプラノロール塩酸塩、メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 14735,
+    "other_brand": "リズモンTG点眼液0.25%",
+    "interaction_type": "caution",
+    "source_text": "β-遮断剤（全身投与）\nアテノロール、プロプラノロール塩酸塩、メトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 14937,
+    "other_brand": "リファジンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "催眠鎮静剤、抗不安剤\n不眠症治療薬\nゾルピデム酒石酸塩ゾピクロン"
+  },
+  {
+    "other_id": 14938,
+    "other_brand": "リファンピシンカプセル150mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "催眠鎮静剤、抗不安剤\n不眠症治療薬\nゾルピデム酒石酸塩ゾピクロン"
+  },
+  {
+    "other_id": 15094,
+    "other_brand": "ルボックス錠25",
+    "interaction_type": "caution",
+    "source_text": "シクロスポリン\nゾルピデム酒石酸塩"
+  },
+  {
+    "other_id": 15111,
+    "other_brand": "ルリッド錠150",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 15163,
+    "other_brand": "レクサプロ錠10mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\nメトプロロール酒石酸塩"
+  },
+  {
+    "other_id": 15518,
+    "other_brand": "レルパックス錠20mg",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nエルゴタミン誘導体含有製剤\nジヒドロエルゴタミンメシル酸塩（ジヒデルゴット）エルゴメトリンマレイン酸塩（エルゴメトリンF）メチルエルゴメトリンマレイン酸塩（メテルギン）"
+  },
+  {
+    "other_id": 15556,
+    "other_brand": "ロキシスロマイシン錠150mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 15557,
+    "other_brand": "ロキシスロマイシン錠150mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）\nジヒドロエルゴタミンメシル酸塩"
+  },
+  {
+    "other_id": 15973,
+    "other_brand": "ワソラン錠40mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nビノレルビン酒石酸塩"
+  },
+  {
+    "other_id": 15975,
+    "other_brand": "ワソラン静注5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aで代謝される薬剤\nビノレルビン酒石酸塩"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": 6383,
+  "brand_name": "ズファジラン錠10mg",
+  "generic_name": "イソクスプリン塩酸塩錠",
+  "therapeutic_classification": "脳・末梢血行動態改善剤\n子宮鎮痙剤",
+  "indications": "下記に伴う随伴症状\n頭部外傷後遺症\n下記に伴う末梢循環障害\nビュルガー病、閉塞性動脈硬化症、血栓性静脈炎、静脈血栓症、レイノー病およびレイノー症候群、凍瘡・凍傷、特発性脱疽、糖尿病による末梢血管障害\n子宮収縮の抑制（切迫流・早産）\n月経困難症",
+  "dose_admin": "〈循環器領域の適応〉\nイソクスプリン塩酸塩として通常成人1回10～20mgを1日3～4回経口投与する。\n〈子宮収縮の抑制〉\nイソクスプリン塩酸塩として通常1日量30～60mgを3～4回に分けて経口投与する。\n〈月経困難症〉\nイソクスプリン塩酸塩として通常1回10～20mgを1日3～4回経口投与する。\nなお、年齢、症状により適宜増減する。",
+  "contraindications": "妊娠12週未満の妊婦",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の作用が増強されるおそれがある",
+    "本剤の作用が減弱されるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β刺激薬\nサルブタモール等",
+      "clinical_symptom_action": "本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "β受容体刺激の増強によると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β遮断薬\nメトプロロール等",
+      "clinical_symptom_action": "本剤の作用が減弱されるおそれがある。",
+      "mechanism_risk_factor": "β受容体での阻害によると考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

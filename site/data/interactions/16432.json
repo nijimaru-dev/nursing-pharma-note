@@ -1,0 +1,1004 @@
+[
+  {
+    "other_id": 133,
+    "other_brand": "アクロマイシン末",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬"
+  },
+  {
+    "other_id": 135,
+    "other_brand": "アクロマイシンVカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬"
+  },
+  {
+    "other_id": 637,
+    "other_brand": "アナフラニール点滴静注液25mg",
+    "interaction_type": "caution",
+    "source_text": "インスリン製剤\nインスリン\nスルフォニル尿素系糖尿病用剤\nグリベンクラミドグリクラジド"
+  },
+  {
+    "other_id": 638,
+    "other_brand": "アナフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "インスリン製剤\nインスリン\nスルフォニル尿素系糖尿病用剤\nグリベンクラミドグリクラジド"
+  },
+  {
+    "other_id": 1051,
+    "other_brand": "アリッサ配合錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 1374,
+    "other_brand": "アンジュ21錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 1376,
+    "other_brand": "アンジュ28錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 1593,
+    "other_brand": "イソゾール注射用0.5g",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤"
+  },
+  {
+    "other_id": 1700,
+    "other_brand": "イブプロフェン錠100mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド、グリベンクラミド等"
+  },
+  {
+    "other_id": 1701,
+    "other_brand": "イブプロフェン錠100mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド、グリベンクラミド等"
+  },
+  {
+    "other_id": 1704,
+    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド、グリベンクラミド等"
+  },
+  {
+    "other_id": 1770,
+    "other_brand": "イミドール糖衣錠（10）",
+    "interaction_type": "caution",
+    "source_text": "インスリン製剤\nインスリン\nスルフォニル尿素系糖尿病用剤\nグリベンクラミドグリクラジド"
+  },
+  {
+    "other_id": 3254,
+    "other_brand": "オラビ錠口腔用50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド、\nグリクラジド、\nアセトヘキサミド等"
+  },
+  {
+    "other_id": 4439,
+    "other_brand": "クラリシッド錠200mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4440,
+    "other_brand": "クラリシッド錠50mg小児用",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4446,
+    "other_brand": "クラリスロマイシン錠小児用50mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4447,
+    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4448,
+    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4449,
+    "other_brand": "クラリスロマイシン錠200mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4450,
+    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4451,
+    "other_brand": "クラリスロマイシン錠200㎎「大正」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4452,
+    "other_brand": "クラリスロマイシン錠200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4453,
+    "other_brand": "クラリスロマイシン錠200mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4454,
+    "other_brand": "クラリスロマイシン錠200mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4455,
+    "other_brand": "クラリスロマイシン錠200mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4456,
+    "other_brand": "クラリスロマイシン錠200mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4442,
+    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4460,
+    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4461,
+    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4443,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4463,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4444,
+    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4445,
+    "other_brand": "クラリスロマイシン錠小児用50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4458,
+    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4467,
+    "other_brand": "クラリス錠200",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4441,
+    "other_brand": "クラリス錠50小児用",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド 等"
+  },
+  {
+    "other_id": 4702,
+    "other_brand": "クロロマイセチンサクシネート静注用1g",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 4706,
+    "other_brand": "クロロマイセチン錠50",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系経口血糖降下薬\nクロルプロパミドグリメピリド等\nインスリン製剤"
+  },
+  {
+    "other_id": 5529,
+    "other_brand": "ザルトプロフェン錠80mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 5530,
+    "other_brand": "ザルトプロフェン錠80mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 5531,
+    "other_brand": "ザルトプロフェン錠80mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 5631,
+    "other_brand": "シプロキサン注200mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリメピリド、グリベンクラミド等"
+  },
+  {
+    "other_id": 5633,
+    "other_brand": "シプロキサン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリメピリド、グリベンクラミド等"
+  },
+  {
+    "other_id": 5635,
+    "other_brand": "シプロフロキサシン点滴静注液200mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリメピリド、グリベンクラミド等"
+  },
+  {
+    "other_id": 5637,
+    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリメピリド、グリベンクラミド等"
+  },
+  {
+    "other_id": 5813,
+    "other_brand": "シンフェーズT28錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 5857,
+    "other_brand": "ジェミーナ配合錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 5962,
+    "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 5963,
+    "other_brand": "ジソピラミド徐放錠150mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 5964,
+    "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 6935,
+    "other_brand": "ソレトン錠80",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 7552,
+    "other_brand": "チトゾール注用0.3g",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤"
+  },
+  {
+    "other_id": 7558,
+    "other_brand": "チノカプセル125",
+    "interaction_type": "caution",
+    "source_text": "スルフォニル尿素系経口糖尿病薬\nトルブタミド等"
+  },
+  {
+    "other_id": 7594,
+    "other_brand": "チラーヂンS散0.01％",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤等"
+  },
+  {
+    "other_id": 7595,
+    "other_brand": "チラーヂンS錠12.5μg",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤等"
+  },
+  {
+    "other_id": 7600,
+    "other_brand": "チラーヂンS静注液200μg",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤等"
+  },
+  {
+    "other_id": 8692,
+    "other_brand": "トフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "インスリン製剤\nインスリン\nスルフォニル尿素系糖尿病用剤\nグリベンクラミドグリクラジド"
+  },
+  {
+    "other_id": 8709,
+    "other_brand": "トライコア錠53.3mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリメピリド\n等"
+  },
+  {
+    "other_id": 8787,
+    "other_brand": "トリキュラー錠28",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 9154,
+    "other_brand": "ドロエチフレックス配合錠「あすか」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 9155,
+    "other_brand": "ドロエチフレックス配合錠「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 9156,
+    "other_brand": "ドロエチ配合錠「あすか」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 9157,
+    "other_brand": "ドロエチ配合錠「バイエル」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 9189,
+    "other_brand": "ナイキサン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド\nトルブタミド\nグリベンクラミド"
+  },
+  {
+    "other_id": 9671,
+    "other_brand": "ネバナック懸濁性点眼液0.1%",
+    "interaction_type": "caution",
+    "source_text": "ヒダントイン系抗てんかん剤\nフェニトイン等\nクマリン系抗凝固剤\nワルファリン等\nサルファ剤\nスルファメトキサゾール等\nスルホニル尿素系血糖降下剤\nグリベンクラミド\nグリクラジド\nグリメピリド等"
+  },
+  {
+    "other_id": 10600,
+    "other_brand": "ビブラマイシン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬（グリクロピラミド、グリベンクラミド、グリメピリド等）"
+  },
+  {
+    "other_id": 10861,
+    "other_brand": "ピメノールカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用剤\nインスリン\nスルホニル尿素系薬剤等\n,"
+  },
+  {
+    "other_id": 10928,
+    "other_brand": "ファボワール錠21",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 10930,
+    "other_brand": "ファボワール錠28",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 11152,
+    "other_brand": "フェノフィブラート錠53.3mg「武田テバ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリメピリド\n等"
+  },
+  {
+    "other_id": 11342,
+    "other_brand": "フリウェル配合錠LD「あすか」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 11343,
+    "other_brand": "フリウェル配合錠LD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 11344,
+    "other_brand": "フリウェル配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 11345,
+    "other_brand": "フリウェル配合錠LD「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11392,
+    "other_brand": "フルコナゾールカプセル50mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11395,
+    "other_brand": "フルコナゾールカプセル50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11408,
+    "other_brand": "フルコナゾール静注50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11409,
+    "other_brand": "フルコナゾール静注50mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 11562,
+    "other_brand": "ブイフェンドドライシロップ2800mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 11563,
+    "other_brand": "ブイフェンド錠50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 11565,
+    "other_brand": "ブイフェンド200mg静注用",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 11654,
+    "other_brand": "ブルフェン錠100",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド、グリベンクラミド等"
+  },
+  {
+    "other_id": 11767,
+    "other_brand": "プラノバール配合錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 11859,
+    "other_brand": "プリモジアン・デポー筋注",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤\nスルフォニル尿素系製剤\nトルブタミド等\nビグアナイド系製剤\nブホルミン塩酸塩等"
+  },
+  {
+    "other_id": 12011,
+    "other_brand": "プロギノン・デポー筋注10mg",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤\nスルフォニル尿素系製剤\nトルブタミド等\nビグアナイド系製剤\nブホルミン塩酸塩等"
+  },
+  {
+    "other_id": 12024,
+    "other_brand": "プロジフ静注液100",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nクロルプロパミドグリベンクラミド等"
+  },
+  {
+    "other_id": 12035,
+    "other_brand": "プロセキソール錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 12270,
+    "other_brand": "ベザトールSR錠100mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド　等"
+  },
+  {
+    "other_id": 12272,
+    "other_brand": "ベザフィブラート徐放錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド　等"
+  },
+  {
+    "other_id": 12273,
+    "other_brand": "ベザフィブラート徐放錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド　等"
+  },
+  {
+    "other_id": 12274,
+    "other_brand": "ベザフィブラート徐放錠100mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド　等"
+  },
+  {
+    "other_id": 12280,
+    "other_brand": "ベザフィブラートSR錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド　等"
+  },
+  {
+    "other_id": 12278,
+    "other_brand": "ベザフィブラートSR錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド　等"
+  },
+  {
+    "other_id": 12279,
+    "other_brand": "ベザフィブラートSR錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド　等"
+  },
+  {
+    "other_id": 12537,
+    "other_brand": "ペオン錠80",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 12898,
+    "other_brand": "ホーリン錠1mg",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 12964,
+    "other_brand": "ボノサップパック400",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nグリベンクラミドグリクラジドグリメピリド等"
+  },
+  {
+    "other_id": 12973,
+    "other_brand": "ボリコナゾール錠50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 12976,
+    "other_brand": "ボリコナゾール錠50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 12977,
+    "other_brand": "ボリコナゾール錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 12978,
+    "other_brand": "ボリコナゾール錠50mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 12974,
+    "other_brand": "ボリコナゾール錠50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 12980,
+    "other_brand": "ボリコナゾール錠50mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 12987,
+    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nトルブタミド"
+  },
+  {
+    "other_id": 13251,
+    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "インスリン製剤\nインスリン\nスルフォニル尿素系糖尿病用剤\nグリベンクラミド"
+  },
+  {
+    "other_id": 13259,
+    "other_brand": "マルシロン配合錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤\nスルフォニル尿素系製剤\nスルフォンアミド系製剤\nビグアナイド系製剤等"
+  },
+  {
+    "other_id": 13287,
+    "other_brand": "マーベロン21",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 13419,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミド\nグリベンクラミド\nグリメピリド等"
+  },
+  {
+    "other_id": 13420,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミド\nグリベンクラミド\nグリメピリド等"
+  },
+  {
+    "other_id": 13421,
+    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミド\nグリベンクラミド\nグリメピリド等"
+  },
+  {
+    "other_id": 13422,
+    "other_brand": "ミノサイクリン塩酸塩錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミドグリベンクラミドグリメピリド等"
+  },
+  {
+    "other_id": 13423,
+    "other_brand": "ミノサイクリン塩酸塩錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミドグリベンクラミドグリメピリド等"
+  },
+  {
+    "other_id": 13426,
+    "other_brand": "ミノサイクリン塩酸塩顆粒2％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミドグリベンクラミドグリメピリド等"
+  },
+  {
+    "other_id": 13443,
+    "other_brand": "ミノマイシンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミドグリベンクラミドグリメピリド等"
+  },
+  {
+    "other_id": 13445,
+    "other_brand": "ミノマイシン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミドグリベンクラミドグリメピリド等"
+  },
+  {
+    "other_id": 13446,
+    "other_brand": "ミノマイシン顆粒2％",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリクロピラミドグリベンクラミドグリメピリド等"
+  },
+  {
+    "other_id": 14188,
+    "other_brand": "ヤーズフレックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 14189,
+    "other_brand": "ヤーズ配合錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 14520,
+    "other_brand": "ラベルフィーユ28錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 14519,
+    "other_brand": "ラベルフィーユ21錠",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤、スルフォンアミド系製剤、ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 14522,
+    "other_brand": "ラボナール注射用0.3g",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤"
+  },
+  {
+    "other_id": 14730,
+    "other_brand": "リスモダンカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 14732,
+    "other_brand": "リスモダンR錠150mg",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nインスリン\nスルホニル尿素系薬剤等"
+  },
+  {
+    "other_id": 14931,
+    "other_brand": "リピディル錠53.3mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリメピリド\n等"
+  },
+  {
+    "other_id": 15068,
+    "other_brand": "ルジオミール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "インスリン製剤\nインスリン\nスルフォニル尿素系糖尿病用剤\nグリベンクラミド"
+  },
+  {
+    "other_id": 15080,
+    "other_brand": "ルナベル配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤スルフォニル尿素系製剤スルフォンアミド系製剤ビグアナイド系製剤等"
+  },
+  {
+    "other_id": 15198,
+    "other_brand": "レダマイシンカプセル150mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下薬\nグリベンクラミド\nグリクラジド\nグリメピリド等"
+  },
+  {
+    "other_id": 15405,
+    "other_brand": "レボチロキシンNa錠25μg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "血糖降下剤\nインスリン製剤、スルフォニル尿素系製剤等"
+  },
+  {
+    "other_id": 15517,
+    "other_brand": "レリフェン錠400mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 15563,
+    "other_brand": "ロキソニン錠60mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15575,
+    "other_brand": "ロキソプロフェンナトリウム錠60mg「クニヒロ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15576,
+    "other_brand": "ロキソプロフェンナトリウム錠60mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15577,
+    "other_brand": "ロキソプロフェンナトリウム錠60mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15578,
+    "other_brand": "ロキソプロフェン錠60mg「EMEC」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15579,
+    "other_brand": "ロキソプロフェン錠60mg「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15630,
+    "other_brand": "ロキソプロフェンNa錠60mg「あすか」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15631,
+    "other_brand": "ロキソプロフェンNa錠60mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15629,
+    "other_brand": "ロキソプロフェンNa錠60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15633,
+    "other_brand": "ロキソプロフェンNa錠60mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15634,
+    "other_brand": "ロキソプロフェンNa錠60mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15636,
+    "other_brand": "ロキソプロフェンNa錠60mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15637,
+    "other_brand": "ロキソプロフェンNa錠60mg「三恵」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15638,
+    "other_brand": "ロキソプロフェンNa錠60mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15639,
+    "other_brand": "ロキソプロフェンNa錠60mg「武田テバ」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15640,
+    "other_brand": "ロキソプロフェンNa錠60mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15641,
+    "other_brand": "ロキソプロフェンNa錠60mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15642,
+    "other_brand": "ロキソプロフェンNa錠60mg「OHA」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15644,
+    "other_brand": "ロキソプロフェンNa錠60mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15646,
+    "other_brand": "ロキソプロフェンNa錠60mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nクロルプロパミド等"
+  },
+  {
+    "other_id": 15924,
+    "other_brand": "ロルカム錠2mg",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 15926,
+    "other_brand": "ロルノキシカム錠2mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "スルホニル尿素系血糖降下剤\nトルブタミド等"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用剤\nスルホニル尿素系糖尿病用剤\nグリベンクラミド\nグリメピリド\nクロルプロパミド\nトルブタミド等"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用剤\nスルホニル尿素系糖尿病用剤\nグリベンクラミド\nグリメピリド\nクロルプロパミド\nトルブタミド等"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用剤\nスルホニル尿素系糖尿病用剤\nグリベンクラミド\nグリメピリド\nクロルプロパミド\nトルブタミド等"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用剤\nスルホニル尿素系糖尿病用剤\nグリベンクラミド\nグリメピリド\nクロルプロパミド\nトルブタミド等"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用剤\nスルホニル尿素系糖尿病用剤\nグリベンクラミド\nグリメピリド\nクロルプロパミド\nトルブタミド等"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用剤\nスルホニル尿素系糖尿病用剤\nグリベンクラミド\nグリメピリド\nクロルプロパミド\nトルブタミド等"
+  },
+  {
+    "other_id": 16578,
+    "other_brand": "注射用イホマイド1g",
+    "interaction_type": "caution",
+    "source_text": "インスリン\nスルフォニル尿素系製剤"
+  }
+]

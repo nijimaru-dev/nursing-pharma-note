@@ -1,0 +1,26 @@
+{
+  "id": 16085,
+  "brand_name": "三和麻黄附子細辛湯エキス細粒",
+  "generic_name": "麻黄附子細辛湯",
+  "therapeutic_classification": "漢方製剤",
+  "indications": "悪寒、微熱、全身倦怠、低血圧で頭痛、めまいあり、四肢に疼痛冷感あるものの次の諸症感冒、気管支炎、咳嗽",
+  "dose_admin": "通常、成人1日4.5gを3回に分割し、食前又は食間に経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "",
+  "serious_adverse_events": "肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、Al-P、γ-GTP等の著しい上昇を伴う肝機能障害、黄疸があらわれることがある。",
+  "observation_points": [
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST、ALT、Al-P、γ-GTP等の著しい上昇を伴う肝機能障害、黄疸があらわれることがある",
+    "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなるので、減量するなど慎重に投与すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マオウ含有製剤\n葛根湯\n小青竜湯\n麻黄湯　等\nエフェドリン類含有製剤\nエフェドリン塩酸塩\ndl-メチルエフェドリン塩酸塩\nフェキソフェナジン塩酸塩・塩酸プソイドエフェドリン　等\nモノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩\nラサギリンメシル酸塩　等\n甲状腺製剤\nチロキシン\nリオチロニン　等\nカテコールアミン製剤\nアドレナリン\nイソプレナリン　等\nキサンチン系製剤\nテオフィリン\nジプロフィリン　等",
+      "clinical_symptom_action": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなるので、減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "交感神経刺激作用が増強されることが考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,107 @@
+{
+  "id": 490,
+  "brand_name": "アデムパス錠0.5mg",
+  "generic_name": "リオシグアト",
+  "therapeutic_classification": "可溶性グアニル酸シクラーゼ（sGC）刺激剤",
+  "indications": "外科的治療不適応又は外科的治療後に残存・再発した慢性血栓塞栓性肺高血圧症\n肺動脈性肺高血圧症",
+  "dose_admin": "用量調節期\n通常、成人にはリオシグアトとして1回1.0mg1日3回経口投与から開始する。2週間継続して収縮期血圧が95mmHg以上で低血圧症状を示さない場合には、2週間間隔で1回用量を0.5mgずつ増量するが、最高用量は1回2.5mg1日3回までとする。収縮期血圧が95mmHg未満でも低血圧症状を示さない場合は、現行の用量を維持するが、低血圧症状を示す場合には、1回用量を0.5mgずつ減量する。\n用量維持期\n用量調節期に決定した用量を維持する。用量維持期においても、最高用量は1回2.5mg1日3回までとし、低血圧症状を示すなど、忍容性がない場合には、1回用量を0.5mgずつ減量する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性\n重度の肝機能障害（Child-Pugh分類C）のある患者\n重度の腎機能障害（クレアチニン・クリアランス15mL/min未満）のある又は透析中の患者\n,\n硝酸剤又は一酸化窒素（NO）供与剤（ニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等）を投与中の患者\n,\nホスホジエステラーゼ（PDE）5阻害剤を投与中の患者\n,\n可溶性グアニル酸シクラーゼ（sGC）刺激薬（ベルイシグアト）を投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "喀血（0.2%）、肺出血（頻度不明）",
+  "observation_points": [
+    "喀血（0.2%）、肺出血（頻度不明）",
+    "本剤の血中濃度が上昇するおそれがあるので、強いCYP1A1阻害薬との併用には注意すること",
+    "本剤の血中濃度が上昇するおそれがある",
+    "これらの薬剤を投与中の患者に本剤の投与を開始する場合は、1回0.5mg1日3回からの開始も考慮すること",
+    "本剤を投与中にこれらの薬剤を開始する場合は、本剤の減量を考慮すること",
+    "これら薬剤の血中濃度が上昇するおそれがある",
+    "本剤の血中濃度が上昇するおそれがあるので、強いP-gp/BCRP阻害薬との併用には注意すること",
+    "水酸化アルミニウム/水酸化マグネシウム合剤との併用により本剤のAUCが34%減少し、Cmaxは56%低下した",
+    "制酸剤は本剤投与後1時間以上経過してから服用させること",
+    "本剤の血中濃度が上昇するおそれがあるので、強いCYP3A阻害薬との併用には注意すること",
+    "ボセンタンを併用した肺動脈性肺高血圧症患者において、本剤のAUCが27%減少した",
+    "強いCYP3A誘導薬との併用により本剤の血中濃度が低下する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,",
+      "clinical_symptom_action": "本剤単回投与後にニトログリセリンを舌下投与したときに、プラセボ投与に比べて有意な収縮期血圧の低下が認められている。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、降圧作用を増強する。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "PDE5阻害剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nタダラフィル含有製剤（シアリス、アドシルカ、ザルティア、ユバンシ）\nバルデナフィル塩酸塩水和物\n,",
+      "clinical_symptom_action": "症候性低血圧を起こすことがある。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、全身血圧に相加的な影響を及ぼすおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "可溶性グアニル酸シクラーゼ（sGC）刺激薬\nベルイシグアト（ベリキューボ）",
+      "clinical_symptom_action": "症候性低血圧を起こすおそれがある。",
+      "mechanism_risk_factor": "細胞内cGMP濃度が増加し、降圧作用を増強するおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP1A1阻害剤\nエルロチニブ、ゲフィチニブ",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがあるので、強いCYP1A1阻害薬との併用には注意すること。",
+      "mechanism_risk_factor": "CYP1A1阻害により本剤のクリアランスが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル含有製剤\nアタザナビル\nリルピビリン含有製剤\nコビシスタット含有製剤\nアバカビル含有製剤\nダルナビル含有製剤\nホスアンプレナビル",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある\n。これらの薬剤を投与中の患者に本剤の投与を開始する場合は、1回0.5mg1日3回からの開始も考慮すること。\n本剤を投与中にこれらの薬剤を開始する場合は、本剤の減量を考慮すること。",
+      "mechanism_risk_factor": "これら薬剤のCYP1A1及び/又はCYP3A阻害により本剤のクリアランスが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イトラコナゾール、ボリコナゾール\n,",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。\nこれらの薬剤を投与中の患者に本剤の投与を開始する場合は、1回0.5mg1日3回からの開始も考慮すること。\n本剤を投与中にこれらの薬剤を開始する場合は、本剤の減量を考慮すること。",
+      "mechanism_risk_factor": "これら薬剤のCYP1A1及び/又はCYP3A阻害により本剤のクリアランスが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エンシトレルビル　フマル酸、ロナファルニブ",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがある。\nこれらの薬剤を投与中の患者に本剤の投与を開始する場合は、1回0.5mg1日3回からの開始も考慮すること。\n本剤を投与中にこれらの薬剤を開始する場合は、本剤の減量を考慮すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A阻害により本剤のクリアランスが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP1A1で代謝される薬剤\nイストラデフィリン、グラニセトロン、エルロチニブ",
+      "clinical_symptom_action": "これら薬剤の血中濃度が上昇するおそれがある。",
+      "mechanism_risk_factor": "本剤及びM-1のCYP1A1阻害によりこれら薬剤のクリアランスが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シクロスポリン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがあるので、強いP-gp/BCRP阻害薬との併用には注意すること。",
+      "mechanism_risk_factor": "P-gp/BCRP阻害により本剤のクリアランスが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "制酸剤\n水酸化アルミニウム/水酸化マグネシウム合剤等",
+      "clinical_symptom_action": "水酸化アルミニウム/水酸化マグネシウム合剤との併用により本剤のAUCが34%減少し、Cmaxは56%低下した。制酸剤は本剤投与後1時間以上経過してから服用させること。",
+      "mechanism_risk_factor": "消化管内pHの上昇により本剤のバイオアベイラビリティが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A阻害剤\nクラリスロマイシン、エリスロマイシン等\n,",
+      "clinical_symptom_action": "本剤の血中濃度が上昇するおそれがあるので、強いCYP3A阻害薬との併用には注意すること。",
+      "mechanism_risk_factor": "CYP3A阻害により本剤のクリアランスが低下する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ボセンタン",
+      "clinical_symptom_action": "ボセンタンを併用した肺動脈性肺高血圧症患者において、本剤のAUCが27%減少した。",
+      "mechanism_risk_factor": "CYP3Aの誘導により本剤のクリアランスが上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A誘導薬\nフェニトイン、カルバマゼピン、フェノバルビタール、セイヨウオトギリソウ（St.John’s Wort、セント・ジョーンズ・ワート）含有食品等",
+      "clinical_symptom_action": "強いCYP3A誘導薬との併用により本剤の血中濃度が低下する可能性がある。",
+      "mechanism_risk_factor": "CYP3A誘導により本剤のクリアランスが上昇する。"
+    }
+  ],
+  "facility_notes": ""
+}

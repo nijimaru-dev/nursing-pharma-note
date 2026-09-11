@@ -1,0 +1,46 @@
+{
+  "id": 3163,
+  "brand_name": "オプスミット錠10mg",
+  "generic_name": "マシテンタン",
+  "therapeutic_classification": "エンドセリン受容体拮抗薬",
+  "indications": "肺動脈性肺高血圧症",
+  "dose_admin": "成人通常、成人には、マシテンタンとして10mgを1日1回経口投与する。小児通常、体重50kg以上の小児には、マシテンタンとして10mgを1日1回経口投与する。",
+  "contraindications": "妊婦又は妊娠している可能性のある女性\n,\n重度の肝障害のある患者\n,\n強いCYP3A4誘導剤（リファンピシン、セイヨウオトギリソウ含有食品、カルバマゼピン、フェニトイン、フェノバルビタール、リファブチン）を投与中の患者\n,\n本剤及び本剤の成分に過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "貧血（3.9%）\n貧血、ヘモグロビン減少が起こる可能性がある。\n,",
+  "observation_points": [
+    "貧血（3.9%）",
+    "貧血、ヘモグロビン減少が起こる可能性がある",
+    ",",
+    "本剤の血中濃度が上昇し、本剤の副作用が発現しやすくなるおそれがある",
+    "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "強いCYP3A4誘導剤\nリファンピシン（リファジン）、セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品、カルバマゼピン（テグレトール）、フェニトイン（アレビアチン）、フェノバルビタール（フェノバール）、リファブチン（ミコブティン）\n,",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "強いCYP3A4誘導作用により、本剤の曝露量を減少させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強いCYP3A4阻害剤\nケトコナゾール\n注）\nHIV感染症治療薬（リトナビル等）",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、本剤の副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "強いCYP3A4阻害作用により、本剤の曝露量を増加させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中程度のCYP3A4阻害作用かつ中程度のCYP2C9阻害作用を有する薬剤\nフルコナゾール",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、本剤の副作用が発現しやすくなるおそれがある。",
+      "mechanism_risk_factor": "CYP3A4阻害作用及びCYP2C9阻害作用により、本剤の曝露量を増加させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4誘導剤\nエファビレンツ、モダフィニル、ルフィナミド等",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "CYP3A4誘導作用により、本剤の曝露量を減少させる。"
+    }
+  ],
+  "facility_notes": ""
+}

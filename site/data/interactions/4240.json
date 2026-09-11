@@ -1,0 +1,38 @@
+[
+  {
+    "other_id": 13161,
+    "other_brand": "マイトマイシン注用10mg",
+    "interaction_type": "caution",
+    "source_text": "他剤併用療法\nフルオロウラシルマイトマイシンC副腎皮質ホルモン等"
+  },
+  {
+    "other_id": 13162,
+    "other_brand": "マイトマイシン注用2mg",
+    "interaction_type": "caution",
+    "source_text": "他剤併用療法\nフルオロウラシルマイトマイシンC副腎皮質ホルモン等"
+  },
+  {
+    "other_id": 13163,
+    "other_brand": "マイトマイシン眼科外用液用2mg",
+    "interaction_type": "caution",
+    "source_text": "他剤併用療法\nフルオロウラシルマイトマイシンC副腎皮質ホルモン等"
+  },
+  {
+    "other_id": 17546,
+    "other_brand": "5−FU注250mg",
+    "interaction_type": "caution",
+    "source_text": "他剤併用療法\nフルオロウラシルマイトマイシンC副腎皮質ホルモン等"
+  },
+  {
+    "other_id": 17548,
+    "other_brand": "5−FU軟膏5%協和",
+    "interaction_type": "caution",
+    "source_text": "他剤併用療法\nフルオロウラシルマイトマイシンC副腎皮質ホルモン等"
+  },
+  {
+    "other_id": 1372,
+    "other_brand": "アンコチル錠500mg",
+    "interaction_type": "caution",
+    "source_text": "フルシトシン"
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "other_id": 51,
+    "other_brand": "アイクルシグ錠15mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A誘導剤\nリファンピシン、リファブチン、カルバマゼピン、フェノバルビタール、フェニトイン等\nセイヨウオトギリソウ含有食品"
+  },
+  {
+    "other_id": 496,
+    "other_brand": "アトバコン内用懸濁液15％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 663,
+    "other_brand": "アビラテロン酢酸エステル錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 665,
+    "other_brand": "アビラテロン酢酸エステル錠250mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 666,
+    "other_brand": "アビラテロン酢酸エステル錠250mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 668,
+    "other_brand": "アビラテロン酢酸エステル錠250mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 669,
+    "other_brand": "アビラテロン酢酸エステル錠250mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 664,
+    "other_brand": "アビラテロン酢酸エステル錠250mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 667,
+    "other_brand": "アビラテロン酢酸エステル錠250mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 675,
+    "other_brand": "アフィニトール分散錠2mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチン"
+  },
+  {
+    "other_id": 677,
+    "other_brand": "アフィニトール錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチン"
+  },
+  {
+    "other_id": 998,
+    "other_brand": "アメナリーフ錠200mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3Aを誘導する薬剤\nリファブチン、カルバマゼピン、フェノバルビタール等\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\n,\nエトラビリンリファブチン"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\n,\nリファブチン"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\n,\nエトラビリンリファブチン"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\n,\nエトラビリンリファブチン"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\n,\nエトラビリンリファブチン"
+  },
+  {
+    "other_id": 1657,
+    "other_brand": "イドビンソ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\n,\n,"
+  },
+  {
+    "other_id": 1705,
+    "other_brand": "イブランス錠25mg",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤フェニトイン、カルバマゼピン、リファンピシン、リファブチン、フェノバルビタール、セイヨウオトギリソウ含有食品等"
+  },
+  {
+    "other_id": 2290,
+    "other_brand": "エジュラント錠25mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\n,"
+  },
+  {
+    "other_id": 2776,
+    "other_brand": "エプクルーサ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 2829,
+    "other_brand": "エリスロシン点滴静注用500mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤\nリファンピシン、リファブチン、フェニトイン、フェノバルビタール等\nセイヨウオトギリソウ（St. John's Wort, セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 2830,
+    "other_brand": "エリスロシン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤\nリファンピシン、リファブチン、フェニトイン、フェノバルビタール等\nセイヨウオトギリソウ（St. John's Wort, セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 2827,
+    "other_brand": "エリスロシンドライシロップ10％",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤\nリファンピシン、リファブチン、フェニトイン、フェノバルビタール等\nセイヨウオトギリソウ（St. John’s Wort, セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導作用を有する薬剤\nリファンピシン、リファブチン、フェニトイン、フェノバルビタール等\nセイヨウオトギリソウ（St. John's Wort, セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 3122,
+    "other_brand": "オデフシィ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン\nリファジン\nリファブチン\nミコブティン\n,"
+  },
+  {
+    "other_id": 3161,
+    "other_brand": "オプスミット小児用分散錠1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "強いCYP3A4誘導剤\nリファンピシン（リファジン）、セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品、カルバマゼピン（テグレトール）、フェニトイン（アレビアチン）、フェノバルビタール（フェノバール）、リファブチン（ミコブティン）\n,"
+  },
+  {
+    "other_id": 3163,
+    "other_brand": "オプスミット錠10mg",
+    "interaction_type": "contraindicated",
+    "source_text": "強いCYP3A4誘導剤\nリファンピシン（リファジン）、セイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品、カルバマゼピン（テグレトール）、フェニトイン（アレビアチン）、フェノバルビタール（フェノバール）、リファブチン（ミコブティン）\n,"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "ジヒドロピリジン骨格を有するCa拮抗剤\n（フェロジピン、ニフェジピン、ニカルジピン塩酸塩等）\nリファブチン\nサルメテロールキシナホ酸塩\nダサチニブ\nニロチニブ\nビンカアルカロイド系抗悪性腫瘍剤\n（ビンブラスチン硫酸塩、ビンクリスチン硫酸塩等）\nボセンタン水和物\nコルヒチン\nクエチアピンフマル酸塩\nシメプレビルナトリウム\n,\n,\n,"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "caution",
+    "source_text": "ジヒドロピリジン骨格を有するCa拮抗剤\n（フェロジピン、ニフェジピン、ニカルジピン塩酸塩等）\nリファブチン\nサルメテロールキシナホ酸塩\nダサチニブ\nニロチニブ\nビンカアルカロイド系抗悪性腫瘍剤\n（ビンブラスチン硫酸塩、ビンクリスチン硫酸塩等）\nボセンタン水和物\nコルヒチン\nクエチアピンフマル酸塩\nシメプレビルナトリウム\n,\n,\n,"
+  },
+  {
+    "other_id": 4439,
+    "other_brand": "クラリシッド錠200mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4440,
+    "other_brand": "クラリシッド錠50mg小児用",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4446,
+    "other_brand": "クラリスロマイシン錠小児用50mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4447,
+    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4448,
+    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4449,
+    "other_brand": "クラリスロマイシン錠200mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4450,
+    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4451,
+    "other_brand": "クラリスロマイシン錠200㎎「大正」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4452,
+    "other_brand": "クラリスロマイシン錠200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4453,
+    "other_brand": "クラリスロマイシン錠200mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4454,
+    "other_brand": "クラリスロマイシン錠200mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4455,
+    "other_brand": "クラリスロマイシン錠200mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4456,
+    "other_brand": "クラリスロマイシン錠200mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4442,
+    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4460,
+    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4461,
+    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4443,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4463,
+    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4444,
+    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4445,
+    "other_brand": "クラリスロマイシン錠小児用50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4458,
+    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4467,
+    "other_brand": "クラリス錠200",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4441,
+    "other_brand": "クラリス錠50小児用",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン\n,"
+  },
+  {
+    "other_id": 4515,
+    "other_brand": "クレセンバカプセル40mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）リファブチン（ミコブティン）カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）セイヨウオトギリソウ（St.John's Wort、セント・ジョーンズ・ワート）含有食品フェニトイン（アレビアチン、ヒダントール）ホスフェニトインナトリウム水和物（ホストイン）\n,"
+  },
+  {
+    "other_id": 4517,
+    "other_brand": "クレセンバ点滴静注用200mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファンピシン（リファジン）リファブチン（ミコブティン）カルバマゼピン（テグレトール）フェノバルビタール（フェノバール）セイヨウオトギリソウ（St.John's Wort、セント・ジョーンズ・ワート）含有食品フェニトイン（アレビアチン、ヒダントール）ホスフェニトインナトリウム水和物（ホストイン）\n,"
+  },
+  {
+    "other_id": 4728,
+    "other_brand": "グラセプターカプセル0.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 5346,
+    "other_brand": "サチュロ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "中等度又は強力なCYP3A4誘導作用を有する薬剤\nリファブチン、エファビレンツ等"
+  },
+  {
+    "other_id": 5373,
+    "other_brand": "サムチレール内用懸濁液15%",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 5490,
+    "other_brand": "ザイティガ錠250mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\nリファンピシンフェニトインカルバマゼピンリファブチンフェノバルビタール等"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 5670,
+    "other_brand": "シュンレンカ皮下注463.5mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nフェノバルビタール\nネビラピン"
+  },
+  {
+    "other_id": 5671,
+    "other_brand": "シュンレンカ錠300mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nフェノバルビタール\nネビラピン"
+  },
+  {
+    "other_id": 5813,
+    "other_brand": "シンフェーズT28錠",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチンバルビツール酸系製剤\nフェノバルビタール等\nヒダントイン系製剤\nフェニトインナトリウム等\nカルバマゼピンボセンタンモダフィニルトピラマート"
+  },
+  {
+    "other_id": 5820,
+    "other_brand": "シーエルセントリ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "HIVプロテアーゼ阻害剤（tipranavir/リトナビルを除く）＋リファブチン"
+  },
+  {
+    "other_id": 5857,
+    "other_brand": "ジェミーナ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチン"
+  },
+  {
+    "other_id": 5999,
+    "other_brand": "ジフルカンカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 6001,
+    "other_brand": "ジフルカンドライシロップ350mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 6003,
+    "other_brand": "ジフルカン静注液50mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 6056,
+    "other_brand": "ジャルカ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\n,"
+  },
+  {
+    "other_id": 6808,
+    "other_brand": "ゼルヤンツ錠5mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4誘導剤\n抗てんかん剤\n（バルビツール酸誘導体、カルバマゼピン、フェノバルビタール、フェニトイン等）\nリファンピシン\nリファブチン\nモダフィニル\nセイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 6829,
+    "other_brand": "ソホノスカプセル1mg",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A誘導剤\nカルバマゼピン、フェニトイン、リファンピシン、リファブチン、ボセンタン等\nセイヨウオトギリソウ含有食品"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 7112,
+    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7113,
+    "other_brand": "タクロリムスカプセル0.5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7114,
+    "other_brand": "タクロリムスカプセル0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7115,
+    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7120,
+    "other_brand": "タクロリムスカプセル5mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7121,
+    "other_brand": "タクロリムスカプセル5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7122,
+    "other_brand": "タクロリムスカプセル5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7128,
+    "other_brand": "タクロリムス錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7126,
+    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7127,
+    "other_brand": "タクロリムス錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7138,
+    "other_brand": "タクロリムス錠5mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7139,
+    "other_brand": "タクロリムス錠5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7140,
+    "other_brand": "タクロリムス錠5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 7617,
+    "other_brand": "ツカイザ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "強いCYP3A誘導剤\nフェニトイン、カルバマゼピン、リファンピシン、リファブチン、フェノバルビタール、セイヨウオトギリソウ含有食品等"
+  },
+  {
+    "other_id": 8267,
+    "other_brand": "デシコビ配合錠LT",
+    "interaction_type": "caution",
+    "source_text": "カルバマゼピン\nフェノバルビタール\nフェニトイン\nホスフェニトイン\nリファブチン\nリファンピシン\nセイヨウオトギリソウ\n（St. John’s Wort：セント・ジョーンズ・ワート）含有食品"
+  },
+  {
+    "other_id": 8825,
+    "other_brand": "トルカプ錠160mg",
+    "interaction_type": "caution",
+    "source_text": "中程度のCYP3A誘導剤\nモダフィニル\nフェノバルビタール\nリファブチン 等"
+  },
+  {
+    "other_id": 8901,
+    "other_brand": "トーリセル点滴静注液25mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A酵素誘導作用を有する薬剤\nカルバマゼピン、フェニトイン、バルビツール酸系製剤、リファブチン、リファンピシン、セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品等"
+  },
+  {
+    "other_id": 9699,
+    "other_brand": "ノクサフィル点滴静注300mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 9700,
+    "other_brand": "ノクサフィル錠100mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 9760,
+    "other_brand": "ノルレボ錠1.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "キニジン硫酸塩水和物\n［硫酸キニジン］\nベプリジル塩酸塩水和物\n［ベプリコール］\nフレカイニド酢酸塩\n［タンボコール］\nプロパフェノン塩酸塩\n［プロノン］\nアミオダロン塩酸塩\n［アンカロン］\nピモジド\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n［クリアミン］\nジヒドロエルゴタミンメシル酸塩\nエルゴメトリンマレイン酸塩\n［エルゴメトリン］\nメチルエルゴメトリンマレイン酸塩\n［パルタン］\nエレトリプタン臭化水素酸塩\n［レルパックス］\nバルデナフィル塩酸塩水和物\n［レビトラ］\nシルデナフィルクエン酸塩\n［レバチオ］\nタダラフィル\n［アドシルカ］\nアゼルニジピン\n［カルブロック］\nアゼルニジピン・オルメサルタン メドキソミル\n［レザルタス配合錠］\nリファブチン\n［ミコブティン］\nブロナンセリン\n［ロナセン］\nリバーロキサバン\n［イグザレルト］\nロミタピドメシル酸塩\n［ジャクスタピッド］\nルラシドン塩酸塩\n［ラツーダ］"
+  },
+  {
+    "other_id": 9885,
+    "other_brand": "ハーボニー配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "contraindicated",
+    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）リファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）バルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "contraindicated",
+    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）\nリファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）\nバルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+  },
+  {
+    "other_id": 10509,
+    "other_brand": "ビクタルビ配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 10654,
+    "other_brand": "ビラミューン錠200",
+    "interaction_type": "caution",
+    "source_text": "CYP3A酵素誘導剤\nリファンピシンリファブチン"
+  },
+  {
+    "other_id": 10849,
+    "other_brand": "ピフェルトロ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\n,\n,"
+  },
+  {
+    "other_id": 11342,
+    "other_brand": "フリウェル配合錠LD「あすか」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチン"
+  },
+  {
+    "other_id": 11343,
+    "other_brand": "フリウェル配合錠LD「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチン"
+  },
+  {
+    "other_id": 11344,
+    "other_brand": "フリウェル配合錠LD「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチン"
+  },
+  {
+    "other_id": 11345,
+    "other_brand": "フリウェル配合錠LD「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "リファンピシンリファブチン"
+  },
+  {
+    "other_id": 11390,
+    "other_brand": "フルコナゾールカプセル50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11391,
+    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11392,
+    "other_brand": "フルコナゾールカプセル50mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11393,
+    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11394,
+    "other_brand": "フルコナゾールカプセル50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11395,
+    "other_brand": "フルコナゾールカプセル50mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11402,
+    "other_brand": "フルコナゾール静注液50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11403,
+    "other_brand": "フルコナゾール静注液50mg「F」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11408,
+    "other_brand": "フルコナゾール静注50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11409,
+    "other_brand": "フルコナゾール静注50mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11562,
+    "other_brand": "ブイフェンドドライシロップ2800mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 11563,
+    "other_brand": "ブイフェンド錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 11565,
+    "other_brand": "ブイフェンド200mg静注用",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 11648,
+    "other_brand": "ブリリンタ錠60mg",
+    "interaction_type": "contraindicated",
+    "source_text": "強いCYP3A誘導剤\nリファンピシン（リファジン）\nリファブチン（ミコブティン）\nカルバマゼピン（テグレトール）\nフェノバルビタール（フェノバール等）\nフェニトイン（アレビアチン等）\nセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品\n,"
+  },
+  {
+    "other_id": 11653,
+    "other_brand": "ブルキンザカプセル80mg",
+    "interaction_type": "caution",
+    "source_text": "中程度のCYP3A誘導剤\nリファブチン、エファビレンツ、ボセンタン等\n,"
+  },
+  {
+    "other_id": 11845,
+    "other_brand": "プリジスタ錠600mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 12014,
+    "other_brand": "プログラフカプセル0.5mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 12016,
+    "other_brand": "プログラフカプセル5mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 12017,
+    "other_brand": "プログラフ注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 12019,
+    "other_brand": "プログラフ顆粒0.2mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n※※\n抗生物質\nリファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 12024,
+    "other_brand": "プロジフ静注液100",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 12455,
+    "other_brand": "ベムリディ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 12906,
+    "other_brand": "ボカブリア水懸筋注400mg",
+    "interaction_type": "caution",
+    "source_text": "リファブチン"
+  },
+  {
+    "other_id": 12943,
+    "other_brand": "ボシュリフ錠100mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A誘導剤\nフェニトイン、カルバマゼピン、リファンピシン、リファブチン、フェノバルビタール、ボセンタン、エファビレンツ、モダフィニル、エトラビリン等\nセイヨウオトギリソウ含有食品"
+  },
+  {
+    "other_id": 12964,
+    "other_brand": "ボノサップパック400",
+    "interaction_type": "caution",
+    "source_text": "リファブチン\nエトラビリン"
+  },
+  {
+    "other_id": 12973,
+    "other_brand": "ボリコナゾール錠50mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 12976,
+    "other_brand": "ボリコナゾール錠50mg「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 12977,
+    "other_brand": "ボリコナゾール錠50mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 12978,
+    "other_brand": "ボリコナゾール錠50mg「DSEP」",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 12974,
+    "other_brand": "ボリコナゾール錠50mg「JG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 12980,
+    "other_brand": "ボリコナゾール錠50mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 12987,
+    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
+    "interaction_type": "contraindicated",
+    "source_text": "リファブチン\n（ミコブティン）"
+  },
+  {
+    "other_id": 13253,
+    "other_brand": "マラロン小児用配合錠",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン\nリファブチン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール（ブイフェンド）\n,"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール（ブイフェンド）\n,"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール（ブイフェンド）\n,"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "ボリコナゾール（ブイフェンド）\n,"
+  },
+  {
+    "other_id": 14610,
+    "other_brand": "リアメット配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "アルテメテル・ルメファントリン（リアメット配合錠）"
+  },
+  {
+    "other_id": 14619,
+    "other_brand": "リカムビス水懸筋注600mg",
+    "interaction_type": "contraindicated",
+    "source_text": "リルピビリン・テノホビル アラフェナミド・エムトリシタビン（オデフシィ配合錠）\nリルピビリン（注射剤）（リカムビス水懸筋注）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "プロテアーゼ阻害薬＋リトナビルアタザナビル＋リトナビルインジナビル＋リトナビルサキナビル＋リトナビルダルナビル＋リトナビルTipranavir＋リトナビルホスアンプレナビル＋リトナビルロピナビル・リトナビル"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "プロテアーゼ阻害薬＋リトナビルアタザナビル＋リトナビルインジナビル＋リトナビルサキナビル＋リトナビルダルナビル＋リトナビルTipranavir＋リトナビルホスアンプレナビル＋リトナビルロピナビル・リトナビル"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "プロテアーゼ阻害薬＋リトナビルアタザナビル＋リトナビルインジナビル＋リトナビルサキナビル＋リトナビルダルナビル＋リトナビルTipranavir＋リトナビルホスアンプレナビル＋リトナビルロピナビル・リトナビル"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "プロテアーゼ阻害薬＋リトナビルアタザナビル＋リトナビルインジナビル＋リトナビルサキナビル＋リトナビルダルナビル＋リトナビルTipranavir＋リトナビルホスアンプレナビル＋リトナビルロピナビル・リトナビル"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "プロテアーゼ阻害薬＋リトナビルアタザナビル＋リトナビルインジナビル＋リトナビルサキナビル＋リトナビルダルナビル＋リトナビルTipranavir＋リトナビルホスアンプレナビル＋リトナビルロピナビル・リトナビル"
+  },
+  {
+    "other_id": 15111,
+    "other_brand": "ルリッド錠150",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生剤エリスロマイシンクラリスロマイシン\nロキシスロマイシン等"
+  },
+  {
+    "other_id": 15556,
+    "other_brand": "ロキシスロマイシン錠150mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "マクロライド系抗生剤エリスロマイシンクラリスロマイシン\nロキシスロマイシン等"
+  },
+  {
+    "other_id": 2381,
+    "other_brand": "エストラジオール錠0.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（ノルエチステロン・エチニルエストラジオール）"
+  },
+  {
+    "other_id": 6058,
+    "other_brand": "ジュリナ錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（ノルエチステロン・エチニルエストラジオール）"
+  },
+  {
+    "other_id": 9682,
+    "other_brand": "ノアルテン錠（5mg）",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（ノルエチステロン・エチニルエストラジオール）"
+  },
+  {
+    "other_id": 12035,
+    "other_brand": "プロセキソール錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（ノルエチステロン・エチニルエストラジオール）"
+  },
+  {
+    "other_id": 15080,
+    "other_brand": "ルナベル配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "経口避妊薬（ノルエチステロン・エチニルエストラジオール）"
+  },
+  {
+    "other_id": 8024,
+    "other_brand": "テビケイ錠50mg",
+    "interaction_type": "caution",
+    "source_text": "リルピビリン（経口剤）\nドルテグラビルナトリウム・リルピビリン"
+  },
+  {
+    "other_id": 14619,
+    "other_brand": "リカムビス水懸筋注600mg",
+    "interaction_type": "caution",
+    "source_text": "リルピビリン（経口剤）\nドルテグラビルナトリウム・リルピビリン"
+  },
+  {
+    "other_id": 13764,
+    "other_brand": "メフィーゴパック",
+    "interaction_type": "contraindicated",
+    "source_text": "強い及び中程度のCYP3A誘導剤リファンピシン（リファジン）リファブチン（ミコブティン）カルバマゼピン（テグレトール）フェニトイン（アレビアチン等）セイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品、フェノバルビタール（フェノバール）、ボセンタン（トラクリア）、エファビレンツ（ストックリン）、ダブラフェニブ（タフィンラー）、エトラビリン（インテレンス）、ロルラチニブ（ローブレナ）、プリミドン（プリミドン）、ソトラシブ（ルマケラス）\n,"
+  },
+  {
+    "other_id": 14208,
+    "other_brand": "ユバンシ配合錠",
+    "interaction_type": "contraindicated",
+    "source_text": "強いCYP3A4誘導剤\nリファンピシン（リファジン）\nセイヨウオトギリソウ（セント・ジョーンズ・ワート）含有食品\nカルバマゼピン（テグレトール）\nフェニトイン（アレビアチン、ヒダントール）\nフェノバルビタール（フェノバール等）\nリファブチン（ミコブティン）\n,"
+  },
+  {
+    "other_id": 14429,
+    "other_brand": "ラパリムス錠1mg",
+    "interaction_type": "caution",
+    "source_text": "リファンピシン\nリファブチン\n抗てんかん剤\nカルバマゼピン\nフェノバルビタール\nフェニトイン\n,"
+  },
+  {
+    "other_id": 14944,
+    "other_brand": "リブテンシティ錠200mg",
+    "interaction_type": "caution",
+    "source_text": "強い又は中程度のCYP3A4誘導剤\nフェニトインフェノバルビタールカルバマゼピンエファビレンツリファブチン等"
+  },
+  {
+    "other_id": 15416,
+    "other_brand": "レボノルゲストレル錠1.5mg「F」",
+    "interaction_type": "caution",
+    "source_text": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン"
+  }
+]

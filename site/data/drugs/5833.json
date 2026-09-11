@@ -1,0 +1,137 @@
+{
+  "id": 5833,
+  "brand_name": "ジアゼパム錠2mg「ツルハラ」",
+  "generic_name": "ジアゼパム",
+  "therapeutic_classification": "抗不安剤",
+  "indications": "神経症における不安・緊張・抑うつ\nうつ病における不安・緊張\n心身症（消化器疾患、循環器疾患、自律神経失調症、更年期障害、腰痛症、頸肩腕症候群）における身体症候並びに不安・緊張・抑うつ\n下記疾患における筋緊張の軽減\n脳脊髄疾患に伴う筋痙攣・疼痛\n麻酔前投薬",
+  "dose_admin": "通常、成人には1回ジアゼパムとして2～5mgを1日2～4回経口投与する。ただし、外来患者は原則として1日量ジアゼパムとして15mg以内とする。また、小児に用いる場合には、3歳以下は1日量ジアゼパムとして1～5mgを、4～12歳は1日量ジアゼパムとして2～10mgを、それぞれ1～3回に分割経口投与する。筋痙攣患者に用いる場合は、通常成人には1回ジアゼパムとして2～10mgを1日3～4回経口投与する。なお、年齢、症状により適宜増減する。麻酔前投薬の場合は、通常成人には1回ジアゼパムとして5～10mgを就寝前または手術前に経口投与する。なお、年齢、症状、疾患により適宜増減する。",
+  "contraindications": "急性閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n重症筋無力症の患者［本剤の筋弛緩作用により症状が悪化するおそれがある。］\nリトナビル（HIVプロテアーゼ阻害剤）、ニルマトレルビル・リトナビルを投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "依存性、離脱症状（いずれも頻度不明）\n連用により薬物依存を生じることがあるので、観察を十分に行い、用量及び使用期間に注意し慎重に投与すること。また、連用中における投与量の急激な減少ないし投与の中止により、痙攣発作、せん妄、振戦、不眠、不安、幻覚、妄想等の離脱症状があらわれることがあるので、投与を中止する場合には、徐々に減量するなど慎重に行うこと。\n刺激興奮、錯乱（いずれも頻度不明）\n呼吸抑制（頻度不明）\n慢性気管支炎等の呼吸器疾患に用いた場合、呼吸抑制があらわれることがある。",
+  "observation_points": [
+    "依存性、離脱症状（いずれも頻度不明）",
+    "連用により薬物依存を生じることがあるので、観察を十分に行い、用量及び使用期間に注意し慎重に投与すること",
+    "また、連用中における投与量の急激な減少ないし投与の中止により、痙攣発作、せん妄、振戦、不眠、不安、幻覚、妄想等の離脱症状があらわれることがあるので、投与を中止する場合には、徐々に減量するなど慎重に行うこと",
+    "刺激興奮、錯乱（いずれも頻度不明）",
+    "呼吸抑制（頻度不明）",
+    "慢性気管支炎等の呼吸器疾患に用いた場合、呼吸抑制があらわれることがある",
+    "眠気、注意力・集中力・反射運動能力等の低下が増強することがある",
+    "本剤の血中濃度が上昇する可能性がある",
+    "本剤又はこれらの薬剤の作用が増強されるおそれがある",
+    "1）眠気、注意力・集中力・反射運動能力等の低下が増強することがある",
+    "2）併用中の本剤を急速に減量又は中止すると痙攣発作がおこる可能性がある",
+    "鎮静作用が増強されるおそれがある",
+    "また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある",
+    "本剤の作用が増強することがある",
+    "筋弛緩作用が増強する可能性がある",
+    "本剤の血中濃度が低下し、作用が減弱するおそれがある",
+    "これら薬剤の血中濃度に影響を与えるおそれがある",
+    "本剤の血中濃度が減少することがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リトナビル\nノービア\nⓇ\nニルマトレルビル・リトナビル\nパキロビッド\nⓇ",
+      "clinical_symptom_action": "過度の鎮静や呼吸抑制等が起こる可能性がある。",
+      "mechanism_risk_factor": "チトクロームP450に対する競合的阻害により、本剤の血中濃度が大幅に上昇することが予測されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\nフェノチアジン誘導体\nバルビツール酸誘導体等\nモノアミン酸化酵素阻害剤\nオピオイド鎮痛剤",
+      "clinical_symptom_action": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール（飲酒）",
+      "clinical_symptom_action": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。",
+      "mechanism_risk_factor": "相互に中枢神経抑制作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン\nオメプラゾール\nエソメプラゾール\nランソプラゾール",
+      "clinical_symptom_action": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。",
+      "mechanism_risk_factor": "本剤のクリアランスがシメチジンとの併用により27～51%、オメプラゾールとの併用により27～55%減少することが報告されている。本剤の代謝、排泄を遅延させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シプロフロキサシン",
+      "clinical_symptom_action": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。",
+      "mechanism_risk_factor": "本剤のクリアランスが37%減少することが報告されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フルボキサミンマレイン酸塩",
+      "clinical_symptom_action": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。",
+      "mechanism_risk_factor": "本剤のクリアランスが65%減少することが報告されている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強いCYP3Aを阻害する薬剤\nコビシスタットを含有する製剤\nボリコナゾール等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "これら薬剤のCYP3A阻害作用により、本剤の代謝が阻害されるため。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "CYP3A4で代謝される薬剤\nアゼルニジピン\nホスアンプレナビル等",
+      "clinical_symptom_action": "本剤又はこれらの薬剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "本剤とこれらの薬剤がCYP3A4を競合的に阻害することにより、相互のクリアランスが低下すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "エトラビリン",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性がある。",
+      "mechanism_risk_factor": "エトラビリンのCYP2C9、CYP2C19阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マプロチリン塩酸塩",
+      "clinical_symptom_action": "1）眠気、注意力・集中力・反射運動能力等の低下が増強することがある。2）併用中の本剤を急速に減量又は中止すると痙攣発作がおこる可能性がある。",
+      "mechanism_risk_factor": "1）相互に中枢神経抑制作用を増強することが考えられている。2）本剤の抗痙攣作用により抑制されていたマプロチリン塩酸塩の痙攣誘発作用が本剤の減量・中止によりあらわれることが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ミルタザピン",
+      "clinical_symptom_action": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。",
+      "mechanism_risk_factor": "相加的な鎮静作用を示すことが考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルプロ酸ナトリウム",
+      "clinical_symptom_action": "本剤の作用が増強することがある。",
+      "mechanism_risk_factor": "本剤の非結合型の血中濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダントロレンナトリウム水和物\nボツリヌス毒素製剤",
+      "clinical_symptom_action": "筋弛緩作用が増強する可能性がある。",
+      "mechanism_risk_factor": "相互に筋弛緩作用を増強することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "リファンピシンのCYP3A4誘導作用により、本剤の代謝が誘導され、血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アパルタミド",
+      "clinical_symptom_action": "本剤の血中濃度が低下し、作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "アパルタミドのCYP2C19誘導作用により、本剤の代謝が誘導され、血中濃度が低下する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シナカルセト\nエボカルセト",
+      "clinical_symptom_action": "これら薬剤の血中濃度に影響を与えるおそれがある。",
+      "mechanism_risk_factor": "血漿蛋白結合率が高いことによる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "無水カフェイン",
+      "clinical_symptom_action": "本剤の血中濃度が減少することがある。",
+      "mechanism_risk_factor": "不明"
+    }
+  ],
+  "facility_notes": ""
+}

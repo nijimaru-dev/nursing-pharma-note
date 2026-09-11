@@ -1,0 +1,236 @@
+[
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "メチルプレドニゾロン\nデキサメタゾン\nブデソニド"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "メチルプレドニゾロン\nデキサメタゾン\nブデソニド"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "メチルプレドニゾロン\nデキサメタゾン\nブデソニド"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "メチルプレドニゾロン\nデキサメタゾン\nブデソニド"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "caution",
+    "source_text": "メチルプレドニゾロン\nデキサメタゾン\nブデソニド"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "フルチカゾンプロピオン酸エステル\nブデソニド\nトリアムシノロンアセトニド"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "caution",
+    "source_text": "フルチカゾンプロピオン酸エステル\nブデソニド\nトリアムシノロンアセトニド"
+  },
+  {
+    "other_id": 5060,
+    "other_brand": "ケンブラン吸入粉末溶解用100㎎",
+    "interaction_type": "caution",
+    "source_text": "吸入ステロイド薬  フルチカゾンプロピオン酸エステル  ブデソニド  フルチカゾンフランカルボン酸エステル等"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "ダサチニブ水和物\nラパチニブトシル酸塩水和物\nエベロリムス\nブデソニド\nトルバプタン\nエレトリプタン臭化水素酸塩\nクエチアピンフマル酸塩"
+  },
+  {
+    "other_id": 8273,
+    "other_brand": "デスモプレシン点鼻スプレー2.5µg「フェリング」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 8274,
+    "other_brand": "デスモプレシン静注4µg「フェリング」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 13404,
+    "other_brand": "ミニリンメルトOD錠60µg",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 13406,
+    "other_brand": "ミニリンメルトOD錠25µg",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 16552,
+    "other_brand": "氷酢酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17262,
+    "other_brand": "酢酸「ヤマゼン」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17264,
+    "other_brand": "酢酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17265,
+    "other_brand": "酢酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17266,
+    "other_brand": "酢酸「ニッコー」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17269,
+    "other_brand": "酢酸「ヨシダ」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 17270,
+    "other_brand": "酢酸「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "デスモプレシン酢酸塩水和物（ミニリンメルト）（男性における夜間多尿による夜間頻尿）"
+  },
+  {
+    "other_id": 2833,
+    "other_brand": "エリスロマイシン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 5448,
+    "other_brand": "サンディミュン点滴静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 5556,
+    "other_brand": "シクロスポリンカプセル10mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 5558,
+    "other_brand": "シクロスポリンカプセル10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 5559,
+    "other_brand": "シクロスポリンカプセル10mg「BMD」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 5564,
+    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 9639,
+    "other_brand": "ネオーラル内用液10％",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4阻害剤（イトラコナゾール、エリスロマイシン、シクロスポリン、コビシスタット等）"
+  },
+  {
+    "other_id": 5651,
+    "other_brand": "シムツーザ配合錠",
+    "interaction_type": "caution",
+    "source_text": "フルチカゾンブデソニドプレドニゾロン"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ステロイド剤\nブデソニド\nシクレソニド\nデキサメタゾン\nメチルプレドニゾロン"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "caution",
+    "source_text": "副腎皮質ステロイド剤\nブデソニド、シクレソニド、デキサメタゾン、メチルプレドニゾロン"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "caution",
+    "source_text": "フルチカゾンプロピオン酸エステル\nブデソニド\nトリアムシノロンアセトニド"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "caution",
+    "source_text": "フルチカゾンプロピオン酸エステルブデソニドトリアムシノロンアセトニド"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "caution",
+    "source_text": "フルチカゾンプロピオン酸エステルブデソニドトリアムシノロンアセトニド"
+  },
+  {
+    "other_id": 11961,
+    "other_brand": "プレジコビックス配合錠",
+    "interaction_type": "caution",
+    "source_text": "フルチカゾンブデソニドプレドニゾロン"
+  },
+  {
+    "other_id": 12098,
+    "other_brand": "プロボコリン吸入粉末溶解用100mg",
+    "interaction_type": "caution",
+    "source_text": "吸入ステロイド薬  フルチカゾンプロピオン酸エステル  ブデソニド  フルチカゾンフランカルボン酸エステル等"
+  }
+]

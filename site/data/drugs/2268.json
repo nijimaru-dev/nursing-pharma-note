@@ -1,0 +1,57 @@
+{
+  "id": 2268,
+  "brand_name": "エクテリー錠300mg",
+  "generic_name": "セベトラルスタット",
+  "therapeutic_classification": "遺伝性血管性浮腫（HAE）急性発作治療用血漿カリクレイン阻害薬",
+  "indications": "遺伝性血管性浮腫の急性発作",
+  "dose_admin": "通常、成人及び12歳以上の小児にはセベトラルスタットとして1回300mgを経口投与する。効果が不十分な場合又は症状が再発した場合は、2時間以上の間隔をおいて1回300mgを追加投与することができる。ただし、24時間あたりの投与回数は2回までとする。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n重度の肝機能障害（Child-Pugh分類 C）の患者",
+  "application_precautions": "薬剤交付時の注意\n本剤は食事の有無にかかわらず投与できる\n。\nブリスターシートから取り出して服用するよう指導すること。シートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の血中濃度が上昇したとの報告がある",
+    "中等度の肝機能障害患者が強力なCYP3A4阻害剤を併用している場合、本剤の血中濃度が上昇しQT延長が生じるリスクがあることから、これらの薬剤との併用は避け、CYP3A4阻害作用のない又は中程度以下の他の薬剤への変更を考慮すること",
+    "本剤の効果が減弱する可能性があるので、これらの薬剤は誘導作用のない又は弱い他の類薬に変更する等を考慮すること",
+    "本剤の血中濃度が低下したとの報告がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強いCYP3A4阻害剤（イトラコナゾール等）\n,\n,\n,",
+      "clinical_symptom_action": "本剤の血中濃度が上昇したとの報告がある。中等度の肝機能障害患者が強力なCYP3A4阻害剤を併用している場合、本剤の血中濃度が上昇しQT延長が生じるリスクがあることから、これらの薬剤との併用は避け、CYP3A4阻害作用のない又は中程度以下の他の薬剤への変更を考慮すること。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が阻害されることにより、本剤の血中濃度を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中程度のCYP3A4阻害剤（ベラパミル等）",
+      "clinical_symptom_action": "本剤の血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が阻害されることにより、本剤の血中濃度を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強い又は中程度のCYP3A4誘導剤（フェニトイン、エファビレンツ等）\n,",
+      "clinical_symptom_action": "本剤の効果が減弱する可能性があるので、これらの薬剤は誘導作用のない又は弱い他の類薬に変更する等を考慮すること。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が促進されることにより、本剤の血中濃度を低下させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "弱いCYP3A4誘導剤（モダフィニル等）",
+      "clinical_symptom_action": "本剤の血中濃度が低下したとの報告がある。",
+      "mechanism_risk_factor": "CYP3A4による本剤の代謝が促進されることにより、本剤の血中濃度を低下させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "P-gp阻害剤（キニジン等）",
+      "clinical_symptom_action": "本剤の血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "本剤はP-gpの基質であり、P-gp阻害作用により本剤の血中濃度を上昇させる可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "BCRP阻害剤（エルトロンボパグオラミン等）",
+      "clinical_symptom_action": "本剤の血中濃度が上昇したとの報告がある。",
+      "mechanism_risk_factor": "本剤はBCRPの基質であり、BCRP阻害作用により本剤の血中濃度を上昇させる可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

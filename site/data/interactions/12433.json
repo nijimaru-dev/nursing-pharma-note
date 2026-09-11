@@ -1,0 +1,302 @@
+[
+  {
+    "other_id": 772,
+    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
+    "interaction_type": "contraindicated",
+    "source_text": "クラスIa抗不整脈薬\nプロカインアミド\nキニジン　等\nクラスⅢ抗不整脈薬\nソタロール（ソタコール）\nニフェカラント（シンビット）\nベプリジル塩酸塩水和物\nベプリコール"
+  },
+  {
+    "other_id": 1370,
+    "other_brand": "アンカロン注150",
+    "interaction_type": "contraindicated",
+    "source_text": "クラスIa抗不整脈薬\nプロカインアミドキニジン　等\nクラスIII抗不整脈薬\nソタロール（ソタコール）\nニフェカラント（シンビット）\nベプリジル塩酸塩水和物\nベプリコール"
+  },
+  {
+    "other_id": 1567,
+    "other_brand": "イストダックス点滴静注用10mg",
+    "interaction_type": "caution",
+    "source_text": "抗不整脈剤\nアミオダロン塩酸塩、ジソピラミド、プロカインアミド塩酸塩、キニジン硫酸塩水和物、ソタロール塩酸塩等\nQT間隔延長を起こすことが知られている他の薬剤\nクラリスロマイシン、オンダンセトロン塩酸塩水和物、メサドン塩酸塩、モキシフロキサシン塩酸塩、ベプリジル塩酸塩水和物、ピモジド等"
+  },
+  {
+    "other_id": 3941,
+    "other_brand": "カレトラ配合内用液",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nリドカイン塩酸塩\nキニジン硫酸塩水和物\nフレカイニド酢酸塩\nプロパフェノン塩酸塩"
+  },
+  {
+    "other_id": 3942,
+    "other_brand": "カレトラ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nリドカイン塩酸塩\nキニジン硫酸塩水和物\nフレカイニド酢酸塩\nプロパフェノン塩酸塩"
+  },
+  {
+    "other_id": 5096,
+    "other_brand": "ゲンボイヤ配合錠",
+    "interaction_type": "caution",
+    "source_text": "アミオダロン塩酸塩\nベプリジル塩酸塩水和物\nジソピラミド\nリドカイン塩酸塩\nプロパフェノン塩酸塩\nキニジン硫酸塩水和物"
+  },
+  {
+    "other_id": 6937,
+    "other_brand": "ゾキンヴィカプセル50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "キニジン硫酸塩水和物\nベプリジル塩酸塩水和物\n（ベプリコール）"
+  },
+  {
+    "other_id": 6939,
+    "other_brand": "ゾコーバ錠25mg",
+    "interaction_type": "contraindicated",
+    "source_text": "ピモジド\n（オーラップ）\nキニジン硫酸塩水和物\nベプリジル塩酸塩水和物\n（ベプリコール）"
+  },
+  {
+    "other_id": 8211,
+    "other_brand": "ディアコミットドライシロップ分包250mg",
+    "interaction_type": "caution",
+    "source_text": "ピモジドキニジン硫酸塩水和物ベプリジル塩酸塩水和物"
+  },
+  {
+    "other_id": 9761,
+    "other_brand": "ノービア錠100mg",
+    "interaction_type": "contraindicated",
+    "source_text": "キニジン硫酸塩水和物\n［硫酸キニジン］\nベプリジル塩酸塩水和物\n［ベプリコール］\nフレカイニド酢酸塩\n［タンボコール］\nプロパフェノン塩酸塩\n［プロノン］\nアミオダロン塩酸塩\n［アンカロン］\nピモジド\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n［クリアミン］\nジヒドロエルゴタミンメシル酸塩\nエルゴメトリンマレイン酸塩\n［エルゴメトリン］\nメチルエルゴメトリンマレイン酸塩\n［パルタン］\nエレトリプタン臭化水素酸塩\n［レルパックス］\nバルデナフィル塩酸塩水和物\n［レビトラ］\nシルデナフィルクエン酸塩\n［レバチオ］\nタダラフィル\n［アドシルカ］\nアゼルニジピン\n［カルブロック］\nアゼルニジピン・オルメサルタン メドキソミル\n［レザルタス配合錠］\nリファブチン\n［ミコブティン］\nブロナンセリン\n［ロナセン］\nリバーロキサバン\n［イグザレルト］\nロミタピドメシル酸塩\n［ジャクスタピッド］\nルラシドン塩酸塩\n［ラツーダ］"
+  },
+  {
+    "other_id": 10126,
+    "other_brand": "パキロビッドパック600",
+    "interaction_type": "contraindicated",
+    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）リファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）バルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+  },
+  {
+    "other_id": 10127,
+    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
+    "interaction_type": "contraindicated",
+    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）\nリファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）\nバルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "リトナビル\n（ノービア）\nサキナビルメシル酸塩\n（インビラーゼ）\nアタザナビル硫酸塩\n（レイアタッツ）\nホスアンプレナビルカルシウム水和物\n（レクシヴァ）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "リトナビル\n（ノービア）\nサキナビルメシル酸塩\n（インビラーゼ）\nアタザナビル硫酸塩\n（レイアタッツ）\nホスアンプレナビルカルシウム水和物\n（レクシヴァ）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "リトナビル\n（ノービア）\nサキナビルメシル酸塩\n（インビラーゼ）\nアタザナビル硫酸塩\n（レイアタッツ）\nホスアンプレナビルカルシウム水和物\n（レクシヴァ）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "リトナビル\n（ノービア）\nサキナビルメシル酸塩\n（インビラーゼ）\nアタザナビル硫酸塩\n（レイアタッツ）\nホスアンプレナビルカルシウム水和物\n（レクシヴァ）"
+  },
+  {
+    "other_id": 1651,
+    "other_brand": "イトラコナゾールカプセル50mg「SW」",
+    "interaction_type": "contraindicated",
+    "source_text": "イトラコナゾール\n（イトリゾール）"
+  },
+  {
+    "other_id": 1652,
+    "other_brand": "イトラコナゾール内用液1％「VTRS」",
+    "interaction_type": "contraindicated",
+    "source_text": "イトラコナゾール\n（イトリゾール）"
+  },
+  {
+    "other_id": 1653,
+    "other_brand": "イトラコナゾール錠50mg「日医工」",
+    "interaction_type": "contraindicated",
+    "source_text": "イトラコナゾール\n（イトリゾール）"
+  },
+  {
+    "other_id": 1655,
+    "other_brand": "イトラコナゾール錠50mg「科研」",
+    "interaction_type": "contraindicated",
+    "source_text": "イトラコナゾール\n（イトリゾール）"
+  },
+  {
+    "other_id": 1656,
+    "other_brand": "イトリゾールカプセル50",
+    "interaction_type": "contraindicated",
+    "source_text": "イトラコナゾール\n（イトリゾール）"
+  },
+  {
+    "other_id": 767,
+    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射）\n（アンカロン注）"
+  },
+  {
+    "other_id": 769,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射）\n（アンカロン注）"
+  },
+  {
+    "other_id": 770,
+    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射）\n（アンカロン注）"
+  },
+  {
+    "other_id": 1371,
+    "other_brand": "アンカロン錠100",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射）\n（アンカロン注）"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射）\n（アンカロン注）"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "アミオダロン塩酸塩（注射）\n（アンカロン注）"
+  },
+  {
+    "other_id": 17260,
+    "other_brand": "酒石酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "エリグルスタット酒石酸塩\n（サデルガ）"
+  },
+  {
+    "other_id": 5942,
+    "other_brand": "ジゴキシン錠0.0625「KYO」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5943,
+    "other_brand": "ジゴキシン錠0.125mg「AFP」",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5946,
+    "other_brand": "ジゴシンエリキシル0.05mg／mL",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5947,
+    "other_brand": "ジゴシン錠0.125mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 5948,
+    "other_brand": "ジゴシン注0.25mg",
+    "interaction_type": "caution",
+    "source_text": "ジゴキシン"
+  },
+  {
+    "other_id": 1914,
+    "other_brand": "インデラル注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 1915,
+    "other_brand": "インデラル錠10mg",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 12090,
+    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 12091,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 12093,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断薬\nプロプラノロール塩酸塩等"
+  },
+  {
+    "other_id": 12458,
+    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗薬\nベラパミル塩酸塩等"
+  },
+  {
+    "other_id": 12459,
+    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗薬\nベラパミル塩酸塩等"
+  },
+  {
+    "other_id": 15973,
+    "other_brand": "ワソラン錠40mg",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗薬\nベラパミル塩酸塩等"
+  },
+  {
+    "other_id": 15975,
+    "other_brand": "ワソラン静注5mg",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗薬\nベラパミル塩酸塩等"
+  },
+  {
+    "other_id": 13654,
+    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "不整脈用剤\nアミオダロン塩酸塩キニジン硫酸塩水和物ピルメノール塩酸塩水和物フレカイニド酢酸塩ピルシカイニド塩酸塩水和物プロパフェノン塩酸塩ベプリジル塩酸塩水和物　等\n,\n,\n,\n,\n,\n,"
+  },
+  {
+    "other_id": 14423,
+    "other_brand": "ラニラピッド錠0.05mg",
+    "interaction_type": "caution",
+    "source_text": "不整脈用剤\nアミオダロン塩酸塩キニジン硫酸塩水和物ピルメノール塩酸塩水和物フレカイニド酢酸塩ピルシカイニド塩酸塩水和物プロパフェノン塩酸塩ベプリジル塩酸塩水和物　等\n,\n,\n,\n,\n,\n,"
+  }
+]

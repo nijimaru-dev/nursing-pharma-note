@@ -1,0 +1,24 @@
+{
+  "id": 12717,
+  "brand_name": "ホスリボン配合顆粒",
+  "generic_name": "リン酸二水素ナトリウム一水和物・無水リン酸水素二ナトリウム",
+  "therapeutic_classification": "経口リン酸製剤",
+  "indications": "低リン血症",
+  "dose_admin": "通常、リンとして1日あたり20～40mg/kgを目安とし、数回に分割して経口投与する。以後は患者の状態に応じて適宜増減するが、上限はリンとして1日あたり3,000mgとする。",
+  "contraindications": "本剤の成分に対して過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "同時に服用することにより、本剤の効果を減弱させるおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルミニウム含有製剤",
+      "clinical_symptom_action": "同時に服用することにより、本剤の効果を減弱させるおそれがある。",
+      "mechanism_risk_factor": "アルミニウムは消化管内においてリンと結合し、その吸収を阻害すると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

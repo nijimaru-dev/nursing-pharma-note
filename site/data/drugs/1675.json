@@ -1,0 +1,48 @@
+{
+  "id": 1675,
+  "brand_name": "イノリンシロップ0.1%",
+  "generic_name": "トリメトキノール塩酸塩水和物シロップ",
+  "therapeutic_classification": "気管支拡張剤",
+  "indications": "下記疾患の気道閉塞性障害に基づく諸症状の緩解気管支炎、喘息様気管支炎、気管支喘息",
+  "dose_admin": "通常下記量を1日量とし、1日3～4回に分けて経口投与する。\n1歳未満\n1～2mL\n1歳～3歳未満\n2～4mL\n3歳～5歳未満\n4～6mL",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\n開栓後は汚染防止のため、清潔に取扱うこと。",
+  "serious_adverse_events": "重篤な血清カリウム値の低下（頻度不明）\nキサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること。\n,",
+  "observation_points": [
+    "重篤な血清カリウム値の低下（頻度不明）",
+    "キサンチン誘導体、ステロイド剤及び利尿剤の併用により増強することがあるので、重症喘息患者では特に注意すること",
+    ",",
+    "不整脈、場合によっては心停止を起こすおそれがある",
+    "併用する場合には過度の使用を避け、定期的に臨床症状を観察し、異常が認められた際には減量するなど適切な処置を行うこと",
+    "血清カリウム値が低下するおそれがある",
+    "併用する場合には定期的に血清カリウム値を観察し、用量について注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カテコールアミン製剤\nアドレナリン及びイソプレナリン等",
+      "clinical_symptom_action": "不整脈、場合によっては心停止を起こすおそれがある。併用する場合には過度の使用を避け、定期的に臨床症状を観察し、異常が認められた際には減量するなど適切な処置を行うこと。",
+      "mechanism_risk_factor": "相加的に作用（交感神経刺激作用）を増強させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "キサンチン誘導体\nテオフィリン",
+      "clinical_symptom_action": "血清カリウム値が低下するおそれがある。併用する場合には定期的に血清カリウム値を観察し、用量について注意すること。",
+      "mechanism_risk_factor": "相加的に作用（血清カリウム値の低下作用）を増強する。本剤はcAMPを活性化し、Na-Kポンプを刺激する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ステロイド剤\nプレドニゾロン",
+      "clinical_symptom_action": "血清カリウム値が低下するおそれがある。併用する場合には定期的に血清カリウム値を観察し、用量について注意すること。",
+      "mechanism_risk_factor": "相加的に作用（血清カリウム値の低下作用）を増強する。本剤はcAMPを活性化し、Na-Kポンプを刺激する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "利尿剤\nアミノフィリン",
+      "clinical_symptom_action": "血清カリウム値が低下するおそれがある。併用する場合には定期的に血清カリウム値を観察し、用量について注意すること。",
+      "mechanism_risk_factor": "相加的に作用（血清カリウム値の低下作用）を増強する。本剤はcAMPを活性化し、Na-Kポンプを刺激する。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,27 +1,15 @@
 {
   "id": 5,
-  "brand_name": "ロキソニン",
-  "generic_name": "ロキソプロフェンナトリウム水和物",
-  "therapeutic_classification": "非ステロイド性消炎鎮痛剤",
-  "indications": "関節リウマチ、腰痛症、術後・外傷後の消炎・鎮痛、発熱・疼痛時の解熱・鎮痛",
-  "dose_admin": "通常成人1回60mgを1日3回経口投与する。",
-  "contraindications": "消化性潰瘍のある患者、重篤な血液異常のある患者",
-  "application_precautions": "高齢者では消化管出血等の副作用が発現しやすいため注意する。",
-  "serious_adverse_events": "消化性潰瘍、消化管出血\n腎障害\nショック、アナフィラキシー",
-  "observation_points": [
-    "消化性潰瘍、消化管出血",
-    "腎障害",
-    "ショック、アナフィラキシー",
-    "出血傾向が増強されることがある"
-  ],
-  "is_in_formulary": true,
-  "interactions": [
-    {
-      "interaction_type": "caution",
-      "drug_name_or_class": "経口抗凝固薬",
-      "clinical_symptom_action": "出血傾向が増強されることがある。",
-      "mechanism_risk_factor": "血小板機能抑制及び蛋白結合部位競合。"
-    }
-  ],
+  "brand_name": "「純生」ミョウバン",
+  "generic_name": "硫酸アルミニウムカリウム水和物",
+  "therapeutic_classification": "収れん剤",
+  "indications": "口腔粘膜・皮膚の炎症または潰瘍の収れん・止血、局所多汗症、臭汗症",
+  "dose_admin": "咽喉炎、口内炎等の口腔洗浄に0.3～1％液の含嗽剤として用いる。\n止血には、患部に原末を散布または1～5％液を塗布し、鼻止血には飽和水溶液を綿球に浸して用いる。\n止汗・防臭（臭汗症）のために2～10％液を塗布する。",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\n散布剤として誤って吸入しないように注意させること。\n薬剤使用時の注意\n患部が化膿している場合には、あらかじめ適切な処置を行った後使用すること。\n液剤、軟膏剤、パスタ剤として眼には使用しないこと。\n含嗽剤として使用する場合には、長期連用を避けること。",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [],
   "facility_notes": ""
 }

@@ -1,0 +1,24 @@
+{
+  "id": 2933,
+  "brand_name": "エンペシドトローチ10mg",
+  "generic_name": "クロトリマゾール",
+  "therapeutic_classification": "口腔カンジダ症治療剤",
+  "indications": "HIV感染症患者における口腔カンジダ症（軽症、中等症）",
+  "dose_admin": "通常、成人には1回1錠（クロトリマゾールとして10mg）を1日5回口腔内投与する（起床から就寝までの間に、3～4時間毎に使用する）。本剤は口腔内で唾液により徐々に溶解しながら用いるもので、噛み砕いたり、呑み込んだり、強くしゃぶったりせずに、完全に溶解するまで口腔内に留めて使用すること。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "タクロリムス水和物の血中濃度が上昇することが報告されている"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "免疫抑制剤\nタクロリムス水和物",
+      "clinical_symptom_action": "タクロリムス水和物の血中濃度が上昇することが報告されている。",
+      "mechanism_risk_factor": "本剤がタクロリムス水和物の肝代謝（チトクロームP-450酵素系）反応を抑制し、クリアランスを低下させるためと考えられている。"
+    }
+  ],
+  "facility_notes": ""
+}

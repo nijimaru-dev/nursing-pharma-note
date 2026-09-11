@@ -1,0 +1,24 @@
+{
+  "id": 15944,
+  "brand_name": "ロートエキス散〈ハチ〉",
+  "generic_name": "ロートエキス散",
+  "therapeutic_classification": "鎮痙剤",
+  "indications": "下記疾患における分泌・運動亢進並びに疼痛\n胃酸過多、胃炎、胃・十二指腸潰瘍、痙攣性便秘",
+  "dose_admin": "ロートエキスとして、通常成人1日20～90mgを2～3回に分割経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "閉塞隅角緑内障の患者［抗コリン作用により眼圧が上昇し、症状を悪化させることがある。］\n前立腺肥大による排尿障害のある患者［更に尿を出にくくすることがある。］\n重篤な心疾患のある患者［心拍数を増加させ、症状を悪化させるおそれがある。］\n麻痺性イレウスのある患者［消化管運動を抑制し、症状を悪化させるおそれがある。］",
+  "application_precautions": "",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の作用が増強されることがあるので、併用する場合は減量するなど慎重に投与すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "三環系抗うつ剤\nアミトリプチリン\nイミプラミン　等\nフェノチアジン系薬剤\nプロクロルペラジン\nクロルプロマジン　等\nMAO阻害剤\n抗ヒスタミン剤\nクロルフェニラミン\nジフェンヒドラミン\nイソニアジド",
+      "clinical_symptom_action": "本剤の作用が増強されることがあるので、併用する場合は減量するなど慎重に投与すること。",
+      "mechanism_risk_factor": "併用により抗コリン作用が増強されることがある。"
+    }
+  ],
+  "facility_notes": ""
+}

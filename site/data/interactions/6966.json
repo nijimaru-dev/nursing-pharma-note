@@ -1,0 +1,368 @@
+[
+  {
+    "other_id": 637,
+    "other_brand": "アナフラニール点滴静注液25mg",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド"
+  },
+  {
+    "other_id": 638,
+    "other_brand": "アナフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド\nトピラマート\nボリコナゾール\nスチリペントール\nブリーバラセタム"
+  },
+  {
+    "other_id": 1282,
+    "other_brand": "アレビアチン注250mg",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド\nトピラマート\nボリコナゾール\nスチリペントール\nブリーバラセタム"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド\nトピラマート\nボリコナゾール\nスチリペントール\nブリーバラセタム"
+  },
+  {
+    "other_id": 1672,
+    "other_brand": "イノベロン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "CYP3A4（又はCYP3A）で代謝される薬剤\nクロバザム\nカルバマゼピン\nエトスクシミド\nトピラマート\nゾニサミド\nトリアゾラム等\n,"
+  },
+  {
+    "other_id": 1770,
+    "other_brand": "イミドール糖衣錠（10）",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド"
+  },
+  {
+    "other_id": 3830,
+    "other_brand": "カルバマゼピン錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "抗不安・睡眠導入剤\nアルプラゾラムミダゾラム\n抗てんかん剤\nゾニサミドクロナゼパムエトスクシミドトピラマートペランパネル\nトラマドールブプレノルフィン抗パーキンソン剤\nイストラデフィリン\nソリフェナシン免疫抑制剤\nシクロスポリンタクロリムスエベロリムス\n抗うつ剤\nトラゾドンミアンセリンセルトラリンミルタザピン\n三環系抗うつ剤\nイミプラミン\nアミトリプチリン\nノルトリプチリン等\nブチロフェノン系精神神経用剤\nハロペリドール等\n精神神経用剤\nオランザピンアリピプラゾールリスペリドンブロナンセリンクロザピンパリペリドンルラシドン\nドネペジルフレカイニドエレトリプタンジヒドロピリジン系カルシウム拮抗剤\nニフェジピンフェロジピンニルバジピン等\nドキシサイクリン抗ウイルス剤（HIV感染症治療薬）\nサキナビルインジナビルネルフィナビルロピナビルドルテグラビル・アバカビル・ラミブジン\nマラビロクエトラビリン等"
+  },
+  {
+    "other_id": 3831,
+    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
+    "interaction_type": "caution",
+    "source_text": "抗不安・睡眠導入剤\nアルプラゾラムミダゾラム\n抗てんかん剤\nゾニサミドクロナゼパムエトスクシミドトピラマートペランパネル\nトラマドールブプレノルフィン抗パーキンソン剤\nイストラデフィリン\nソリフェナシン免疫抑制剤\nシクロスポリンタクロリムスエベロリムス\n抗うつ剤\nトラゾドンミアンセリンセルトラリンミルタザピン\n三環系抗うつ剤\nイミプラミン\nアミトリプチリン\nノルトリプチリン等\nブチロフェノン系精神神経用剤\nハロペリドール等\n精神神経用剤\nオランザピンアリピプラゾールリスペリドンブロナンセリンクロザピンパリペリドンルラシドン\nドネペジルフレカイニドエレトリプタンジヒドロピリジン系カルシウム拮抗剤\nニフェジピンフェロジピンニルバジピン等\nドキシサイクリン抗ウイルス剤（HIV感染症治療薬）\nサキナビルインジナビルネルフィナビルロピナビルドルテグラビル・アバカビル・ラミブジン\nマラビロクエトラビリン等"
+  },
+  {
+    "other_id": 6361,
+    "other_brand": "スルピリドカプセル50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6362,
+    "other_brand": "スルピリド錠100mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6363,
+    "other_brand": "スルピリド錠100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6364,
+    "other_brand": "スルピリド錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6368,
+    "other_brand": "スルピリド錠50mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6369,
+    "other_brand": "スルピリド錠50mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 6370,
+    "other_brand": "スルピリド錠50mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "モノアミン酸化酵素阻害剤\nセレギリン\nサフィナミド\nゾニサミド"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 7996,
+    "other_brand": "テグレトール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん剤\nフェニトインカルバマゼピンフェノバルビタールバルプロ酸　等"
+  },
+  {
+    "other_id": 6718,
+    "other_brand": "セレネース内服液0.2％",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6719,
+    "other_brand": "セレネース注5mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 6720,
+    "other_brand": "セレネース錠0.75mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 8959,
+    "other_brand": "ドグマチールカプセル50mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 8960,
+    "other_brand": "ドグマチール筋注100mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 8961,
+    "other_brand": "ドグマチール筋注50mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 8962,
+    "other_brand": "ドグマチール細粒10％",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 8964,
+    "other_brand": "ドグマチール錠100mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 9860,
+    "other_brand": "ハロペリドール錠0.75mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 9861,
+    "other_brand": "ハロペリドール細粒1%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 9862,
+    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 11861,
+    "other_brand": "プリンペランシロップ0.1%",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 11862,
+    "other_brand": "プリンペラン注射液10mg",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 11863,
+    "other_brand": "プリンペラン細粒2%",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 11864,
+    "other_brand": "プリンペラン錠5",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 13663,
+    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 13664,
+    "other_brand": "メトクロプラミド錠5mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 13665,
+    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "フェノチアジン系薬剤\nクロルプロマジン等\nブチロフェノン系薬剤\nハロペリドール等\nスルピリドメトクロプラミド"
+  },
+  {
+    "other_id": 8211,
+    "other_brand": "ディアコミットドライシロップ分包250mg",
+    "interaction_type": "caution",
+    "source_text": "抗てんかん薬\nプリミドンニトラゼパムエトスクシミドゾニサミドトピラマート等"
+  },
+  {
+    "other_id": 8692,
+    "other_brand": "トフラニール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド"
+  },
+  {
+    "other_id": 8763,
+    "other_brand": "トランコロンP配合錠",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aで代謝される薬剤\n副腎皮質ホルモン剤\nデキサメタゾン\n等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール\n等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合：シアリス、ザルティア）\nシルデナフィル\nバルデナフィル\nアゼルニジピン\nイグラチモド\nイマチニブ\nカルバマゼピン\nシクロスポリン\nゾニサミド\nタクロリムス\nフェロジピン\nベラパミル\nモンテルカスト\n等"
+  },
+  {
+    "other_id": 9561,
+    "other_brand": "ニュープロパッチ2.25mg",
+    "interaction_type": "caution",
+    "source_text": "抗パーキンソン剤\nレボドパ、抗コリン剤、アマンタジン塩酸塩、ドロキシドパ、エンタカポン、セレギリン塩酸塩、ゾニサミド等"
+  },
+  {
+    "other_id": 9762,
+    "other_brand": "ノーベルバール静注用250mg",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピン\nイグラチモド\nイマチニブ\nカルバマゼピン\nシクロスポリン\nゾニサミド\nタクロリムス\nフェロジピン\nべラパミル\nモンテルカスト\nエンシトレルビル　フマル酸等\n副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合：シアリス、ザルティア）、シルデナフィル、バルデナフィル"
+  },
+  {
+    "other_id": 9854,
+    "other_brand": "ハルロピテープ8mg",
+    "interaction_type": "caution",
+    "source_text": "抗パーキンソン剤\nレボドパ\n抗コリン剤\nアマンタジン塩酸塩\nドロキシドパ\nエンタカポン\nセレギリン塩酸塩\nゾニサミド等"
+  },
+  {
+    "other_id": 10381,
+    "other_brand": "ヒダントールD配合錠",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミドトピラマートクロラムフェニコールタクロリムステラプレビル\nブリーバラセタム"
+  },
+  {
+    "other_id": 11812,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "抗パーキンソン剤\nレボドパ、抗コリン剤、アマンタジン塩酸塩、ドロキシドパ、エンタカポン、セレギリン塩酸塩、ゾニサミド"
+  },
+  {
+    "other_id": 11814,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "抗パーキンソン剤\nレボドパ、抗コリン剤、アマンタジン塩酸塩、ドロキシドパ、エンタカポン、セレギリン塩酸塩、ゾニサミド"
+  },
+  {
+    "other_id": 11815,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "抗パーキンソン剤\nレボドパ、抗コリン剤、アマンタジン塩酸塩、ドロキシドパ、エンタカポン、セレギリン塩酸塩、ゾニサミド"
+  },
+  {
+    "other_id": 11816,
+    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "抗パーキンソン剤\nレボドパ、抗コリン剤、アマンタジン塩酸塩、ドロキシドパ、エンタカポン、セレギリン塩酸塩、ゾニサミド"
+  },
+  {
+    "other_id": 12693,
+    "other_brand": "ホストイン静注750mg",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド\nトピラマート\nボリコナゾール\nスチリペントール\nブリーバラセタム"
+  },
+  {
+    "other_id": 13251,
+    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド"
+  },
+  {
+    "other_id": 13453,
+    "other_brand": "ミラペックスLA錠0.375mg",
+    "interaction_type": "caution",
+    "source_text": "抗パーキンソン剤\nレボドパ、抗コリン剤、アマンタジン塩酸塩、ドロキシドパ、エンタカポン、セレギリン塩酸塩、ゾニサミド"
+  },
+  {
+    "other_id": 15068,
+    "other_brand": "ルジオミール錠10mg",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド"
+  },
+  {
+    "other_id": 15088,
+    "other_brand": "ルピアール坐剤25",
+    "interaction_type": "caution",
+    "source_text": "主に、CYP3Aの基質となる薬剤\nアゼルニジピン\nイグラチモド\nイマチニブ\nカルバマゼピン\nシクロスポリン\nゾニサミド\nタクロリムス\nフェロジピン\nベラパミル\nモンテルカスト\nエンシトレルビル等\n副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル（勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合：シアリス、ザルティア）\nシルデナフィル\nバルデナフィル"
+  },
+  {
+    "other_id": 15965,
+    "other_brand": "ワコビタール坐剤15",
+    "interaction_type": "caution",
+    "source_text": "主にCYP3Aの基質となる薬剤\nアゼルニジピン、イグラチモド、イマチニブ、カルバマゼピン、シクロスポリン、ゾニサミド、タクロリムス、フェロジピン、ベラパミル、モンテルカスト\nエンシトレルビル等副腎皮質ホルモン剤\nデキサメタゾン等\n卵胞ホルモン剤・黄体ホルモン剤\nノルゲストレル・エチニルエストラジオール等\nPDE5阻害剤\nタダラフィル\n勃起不全、前立腺肥大症に伴う排尿障害を適応とする場合：シアリス、ザルティア\nシルデナフィル、バルデナフィル"
+  },
+  {
+    "other_id": 17184,
+    "other_brand": "複合アレビアチン配合錠",
+    "interaction_type": "caution",
+    "source_text": "ゾニサミド\nトピラマート\nクロラムフェニコール\nタクロリムス\nテラプレビル\nブリーバラセタム"
+  }
+]

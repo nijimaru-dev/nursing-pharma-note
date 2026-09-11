@@ -1,0 +1,272 @@
+[
+  {
+    "other_id": 253,
+    "other_brand": "アジレクト錠1mg",
+    "interaction_type": "contraindicated",
+    "source_text": "三環系抗うつ薬\nアミトリプチリン塩酸塩\nトリプタノール\nアモキサピン\nアモキサン\nイミプラミン塩酸塩\nトフラニール\nクロミプラミン塩酸塩\nアナフラニール\nドスレピン塩酸塩\nプロチアデン\nトリミプラミンマレイン酸塩\nスルモンチール\nノルトリプチリン塩酸塩\nノリトレン\nロフェプラミン塩酸塩\nアンプリット"
+  },
+  {
+    "other_id": 2269,
+    "other_brand": "エクフィナ錠50mg",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 6661,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "contraindicated",
+    "source_text": "モノアミン酸化酵素（MAO）阻害剤\nセレギリン塩酸塩（エフピー）ラサギリンメシル酸塩（アジレクト）サフィナミドメシル酸塩（エクフィナ）"
+  },
+  {
+    "other_id": 1444,
+    "other_brand": "アーテン錠（2mg）",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 8806,
+    "other_brand": "トリヘキシフェニジル塩酸塩散1％「CH」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 8807,
+    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「アメル」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 8808,
+    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 8809,
+    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 8810,
+    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「CH」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "抗コリン作働薬\nトリヘキシフェニジル塩酸塩等"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作働薬\nエピネフリン、ノルエピネフリン等"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作働薬\nエピネフリン、ノルエピネフリン等"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作働薬\nエピネフリン、ノルエピネフリン等"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン作働薬\nエピネフリン、ノルエピネフリン等"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体等"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体等"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体等"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\nバルビツール酸誘導体等"
+  },
+  {
+    "other_id": 5656,
+    "other_brand": "シメチジン注射液200mg「SW」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5658,
+    "other_brand": "シメチジン錠200mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 5660,
+    "other_brand": "シメチジン錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7103,
+    "other_brand": "タガメット注射液200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 7104,
+    "other_brand": "タガメット錠200mg",
+    "interaction_type": "caution",
+    "source_text": "シメチジン"
+  },
+  {
+    "other_id": 9904,
+    "other_brand": "バクタ配合錠",
+    "interaction_type": "caution",
+    "source_text": "スルファメトキサゾール・トリメトプリム"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 5492,
+    "other_brand": "ザイボックス注射液600mg",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 5493,
+    "other_brand": "ザイボックス錠600mg",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 14829,
+    "other_brand": "リネゾリド点滴静注液600mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 14830,
+    "other_brand": "リネゾリド点滴静注液600mg「日医工」（旧製品）",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 14831,
+    "other_brand": "リネゾリド点滴静注液600mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 14832,
+    "other_brand": "リネゾリド点滴静注液600mg「KCC」",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 14834,
+    "other_brand": "リネゾリド錠600mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 14835,
+    "other_brand": "リネゾリド錠600mg「明治」",
+    "interaction_type": "caution",
+    "source_text": "リネゾリド"
+  },
+  {
+    "other_id": 2763,
+    "other_brand": "エフピーOD錠2.5",
+    "interaction_type": "contraindicated",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩\nトリプタノール\n®\nアモキサピン\nアモキサン\n®\nイミプラミン塩酸塩\nトフラニール\n®\nクロミプラミン塩酸塩\nアナフラニール\n®\nドスレピン塩酸塩\nプロチアデン\n®\nトリミプラミンマレイン酸塩\nスルモンチール\n®\nノルトリプチリン塩酸塩\nノリトレン\n®\nロフェプラミン塩酸塩\nアンプリット\n®\n,"
+  },
+  {
+    "other_id": 6662,
+    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
+    "interaction_type": "contraindicated",
+    "source_text": "三環系抗うつ剤\nアミトリプチリン塩酸塩\nトリプタノール\n®\nアモキサピン\nアモキサン\n®\nイミプラミン塩酸塩\nトフラニール\n®\nクロミプラミン塩酸塩\nアナフラニール\n®\nドスレピン塩酸塩\nプロチアデン\n®\nトリミプラミンマレイン酸塩\nスルモンチール\n®\nノルトリプチリン塩酸塩\nノリトレン\n®\nロフェプラミン塩酸塩\nアンプリット\n®\n,"
+  },
+  {
+    "other_id": 7427,
+    "other_brand": "ダットスキャン静注",
+    "interaction_type": "caution",
+    "source_text": "中枢神経刺激薬・メチルフェニデート塩酸塩三環系抗うつ剤・アモキサピン食欲抑制剤・マジンドールコカイン系製剤・コカイン塩酸塩中枢興奮剤・メタンフェタミン塩酸塩"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "other_id": 453,
+    "other_brand": "アテノロール錠25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 454,
+    "other_brand": "アテノロール錠25mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 455,
+    "other_brand": "アテノロール錠25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 456,
+    "other_brand": "アテノロール錠25mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 458,
+    "other_brand": "アテノロール錠25mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 459,
+    "other_brand": "アテノロール錠25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 625,
+    "other_brand": "アドレナリン注0.1%シリンジ「テルモ」",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン含有吸入麻酔薬\nハロタン\nイソフルラン\nセボフルラン\nデスフルラン"
+  },
+  {
+    "other_id": 652,
+    "other_brand": "アネレム静注用20mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制剤\n麻酔・鎮静剤\nプロポフォールデクスメデトミジンケタミンセボフルラン等\n麻薬性鎮痛剤\nレミフェンタニル等\n抗不安剤等\nヒドロキシジン等\n局所麻酔剤\nリドカイン等\nアルコール（飲酒）"
+  },
+  {
+    "other_id": 1167,
+    "other_brand": "アルセノール錠25",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 1914,
+    "other_brand": "インデラル注射液2mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 1915,
+    "other_brand": "インデラル錠10mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 2393,
+    "other_brand": "エスラックス静注25mg/2.5mL",
+    "interaction_type": "caution",
+    "source_text": "吸入麻酔剤\nイソフルランセボフルランエンフルランハロタンエーテル等\nリチウム塩製剤"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン含有吸入麻酔薬\nハロタン\n注1）\nイソフルラン\n注2）\nセボフルラン\n注3）\nデスフルラン\n注4）"
+  },
+  {
+    "other_id": 4190,
+    "other_brand": "キシロカイン注射液「0.5%」エピレナミン（1：100,000）含有",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン含有吸入麻酔薬\nハロタン\n注1）\n、イソフルラン\n注2）\n、セボフルラン\n注3）\n、デスフルラン\n注4）"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\n（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\n（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\n（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "アドレナリン製剤\n（アドレナリン、ノルアドレナリン等）"
+  },
+  {
+    "other_id": 15647,
+    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "非脱分極性筋弛緩剤\n（ロクロニウム臭化物）"
+  },
+  {
+    "other_id": 15648,
+    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「F」",
+    "interaction_type": "caution",
+    "source_text": "非脱分極性筋弛緩剤\n（ロクロニウム臭化物）"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\n（エスモロール塩酸塩等）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\n（エスモロール塩酸塩等）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\n（エスモロール塩酸塩等）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\n（エスモロール塩酸塩等）"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\n（エスモロール塩酸塩等）"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "β遮断剤\n（エスモロール塩酸塩等）"
+  },
+  {
+    "other_id": 11962,
+    "other_brand": "プレセデックス静注液200μg「ファイザー」",
+    "interaction_type": "caution",
+    "source_text": "α\n2\n受容体刺激薬\n（デクスメデトミジン塩酸塩等）"
+  },
+  {
+    "other_id": 6104,
+    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗剤\n（ジルチアゼム塩酸塩等）"
+  },
+  {
+    "other_id": 6107,
+    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗剤\n（ジルチアゼム塩酸塩等）"
+  },
+  {
+    "other_id": 6108,
+    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗剤\n（ジルチアゼム塩酸塩等）"
+  },
+  {
+    "other_id": 6110,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗剤\n（ジルチアゼム塩酸塩等）"
+  },
+  {
+    "other_id": 6111,
+    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗剤\n（ジルチアゼム塩酸塩等）"
+  },
+  {
+    "other_id": 6116,
+    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "Ca拮抗剤\n（ジルチアゼム塩酸塩等）"
+  },
+  {
+    "other_id": 688,
+    "other_brand": "アブストラル舌下錠100μg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 1429,
+    "other_brand": "アンペック坐剤10mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 1432,
+    "other_brand": "アンペック注10mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 1433,
+    "other_brand": "アンペック注200mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 3164,
+    "other_brand": "オプソ内服液5mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 4339,
+    "other_brand": "クエン酸「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 8407,
+    "other_brand": "デュロテップMTパッチ2.1mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 11260,
+    "other_brand": "フェンタニル注射液0.1mg「テルモ」赤",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 14037,
+    "other_brand": "モルヒネ塩酸塩錠10mg「DSP」",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 14436,
+    "other_brand": "ラフェンタテープ1.38mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 15991,
+    "other_brand": "ワンデュロパッチ0.84mg",
+    "interaction_type": "caution",
+    "source_text": "中枢神経系抑制剤\n（モルヒネ塩酸塩、フェンタニルクエン酸塩等）"
+  },
+  {
+    "other_id": 6733,
+    "other_brand": "セロケン錠20mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 6734,
+    "other_brand": "セロケンL錠120mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 8022,
+    "other_brand": "テノーミン錠50",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 8263,
+    "other_brand": "デクスメデトミジン静注液200μg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤\nミダゾラム、ジアゼパム等\n全身麻酔剤\nプロポフォール、セボフルラン\n等\n局所麻酔剤\nリドカイン塩酸塩等\n中枢神経系抑制剤\nモルヒネ塩酸塩水和物、フェンタニルクエン酸塩、バルビツール酸誘導体等"
+  },
+  {
+    "other_id": 8264,
+    "other_brand": "デクスメデトミジン静注液200μg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "ベンゾジアゼピン系薬剤\nミダゾラム、ジアゼパム等\n全身麻酔剤\nプロポフォール、セボフルラン\n等\n局所麻酔剤\nリドカイン塩酸塩等\n中枢神経系抑制剤\nモルヒネ塩酸塩水和物、フェンタニルクエン酸塩、バルビツール酸誘導体等"
+  },
+  {
+    "other_id": 8772,
+    "other_brand": "トランデート錠50mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 9475,
+    "other_brand": "ニトプロ持続静注液6mg",
+    "interaction_type": "caution",
+    "source_text": "吸入麻酔剤（セボフルラン等）"
+  },
+  {
+    "other_id": 10457,
+    "other_brand": "ヒロポン",
+    "interaction_type": "caution",
+    "source_text": "全身麻酔剤\nイソフルランセボフルラン　等"
+  },
+  {
+    "other_id": 11664,
+    "other_brand": "ブレビブロック注 100mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン\nプロポフォール\nフェンタニル等"
+  },
+  {
+    "other_id": 12090,
+    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 12091,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 12092,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 12093,
+    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 12225,
+    "other_brand": "ヘマンジオルシロップ小児用0.375%",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 13692,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 13693,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 13694,
+    "other_brand": "メトプロロール酒石酸塩錠20mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 14454,
+    "other_brand": "ラベタロール塩酸塩錠50mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 15878,
+    "other_brand": "ロプレソール錠20mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 15880,
+    "other_brand": "ロプレソールSR錠120mg",
+    "interaction_type": "caution",
+    "source_text": "麻酔剤\nセボフルラン等"
+  },
+  {
+    "other_id": 16005,
+    "other_brand": "ヱフェドリン「ナガヰ」注射液40mg",
+    "interaction_type": "caution",
+    "source_text": "ハロゲン化吸入麻酔剤\nセボフルランイソフルランデスフルラン"
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "id": 15552,
+  "brand_name": "ロカルトロール注0.5",
+  "generic_name": "カルシトリオール",
+  "therapeutic_classification": "二次性副甲状腺機能亢進症治療剤（活性型ビタミンD\n3\n製剤）",
+  "indications": "維持透析下の二次性副甲状腺機能亢進症",
+  "dose_admin": "通常、成人には投与初期は、カルシトリオールとして、1回1μgを週2～3回、透析終了時にできるだけ緩徐に静脈内投与する。以後は、患者の副甲状腺ホルモン及び血清カルシウムの十分な管理のもと、1回0.5μgから1.5μgの範囲内で適宜増減し、週1～3回、透析終了時にできるだけ緩徐に投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nビタミンD中毒症状を伴う患者［血清カルシウム値を更に上昇させる。］",
+  "application_precautions": "薬剤調製時の注意\n他剤との混注を行わないこと。\n薬剤投与時の注意\n静注は約30秒間かけて緩徐に行うこと。",
+  "serious_adverse_events": "高カルシウム血症（24.2%）\n本剤には血清カルシウム上昇作用が認められるので、高カルシウム血症に基づくと考えられる症状（そう痒感、いらいら感等）があらわれることがある。\n,\n,\n,\nショック、アナフィラキシー（いずれも頻度不明）\n血圧低下、呼吸困難、紅潮等の異常が認められた場合には投与を中止し、適切な処置を行うこと。",
+  "observation_points": [
+    "高カルシウム血症（24.2%）",
+    "本剤には血清カルシウム上昇作用が認められるので、高カルシウム血症に基づくと考えられる症状（そう痒感、いらいら感等）があらわれることがある",
+    ",",
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "血圧低下、呼吸困難、紅潮等の異常が認められた場合には投与を中止し、適切な処置を行うこと",
+    "高カルシウム血症に伴う不整脈があらわれるおそれがある",
+    "高カルシウム血症があらわれるおそれがある",
+    "高マグネシウム血症があらわれるおそれがある",
+    "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある",
+    "本剤の血中濃度が減少し、作用が減弱するおそれがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症に伴う不整脈があらわれるおそれがある。",
+      "mechanism_risk_factor": "血清カルシウム値が上昇すると、ジギタリスの作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム製剤\n乳酸カルシウム水和物炭酸カルシウム　等\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤は腸管でのカルシウムの吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウム含有製剤\n酸化マグネシウム炭酸マグネシウム　等\n,",
+      "clinical_symptom_action": "高マグネシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤は腸管でのマグネシウムの吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウム含有製剤\n酸化マグネシウム\n炭酸マグネシウム　等",
+      "clinical_symptom_action": "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある。",
+      "mechanism_risk_factor": "機序：代謝性アルカローシスが持続することにより、尿細管でのカルシウム再吸収が増加する。\n危険因子：高カルシウム血症、代謝性アルカローシス、腎機能障害のある患者"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトインフェノバルビタール",
+      "clinical_symptom_action": "本剤の血中濃度が減少し、作用が減弱するおそれがある。",
+      "mechanism_risk_factor": "代謝酵素活性を誘導し、本剤の代謝を増加させるおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "チアジド系利尿剤\nトリクロルメチアジドヒドロクロロチアジド　等\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "カルシウムの尿中排泄を減少させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PTH製剤\nテリパラチド　等\nPTHrP 製剤\nアバロパラチド\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    }
+  ],
+  "facility_notes": ""
+}

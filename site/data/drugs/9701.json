@@ -1,0 +1,84 @@
+{
+  "id": 9701,
+  "brand_name": "ノックビン原末",
+  "generic_name": "ジスルフィラム原末",
+  "therapeutic_classification": "抗酒癖剤",
+  "indications": "慢性アルコール中毒に対する抗酒療法",
+  "dose_admin": "ジスルフィラムとして、通常、1日0.1～0.5gを1～3回に分割経口投与する。本剤を1週間投与した後に通常実施する飲酒試験の場合には、患者の平常の飲酒量の1/10以下の酒量を飲ませる。飲酒試験の結果発現する症状の程度により本剤の用量を調整し、維持量を決める。維持量としては、通常0.1～0.2gで、毎日続けるか、あるいは1週ごとに1週間の休薬期間を設ける。",
+  "contraindications": "重篤な心障害のある患者［原疾患が悪化するおそれがある。］\n重篤な肝・腎機能障害のある患者\n,\n重篤な呼吸器疾患のある患者［原疾患が悪化するおそれがある。］\nアルコールを含む医薬品（エリキシル剤、薬用酒等）・食品（奈良漬等）・化粧品（アフターシェーブローション等）を使用又は摂取中の患者\n,\n,\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "",
+  "serious_adverse_events": "精神神経系（0.1%未満）\n重篤な脳障害（見当識障害、記憶障害、錯乱等）があらわれたとの報告がある。\n肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、γ-GTP、LDH、ALP、ビリルビン等の上昇を伴う肝機能障害、黄疸があらわれることがある。",
+  "observation_points": [
+    "精神神経系（0.1%未満）",
+    "重篤な脳障害（見当識障害、記憶障害、錯乱等）があらわれたとの報告がある",
+    "肝機能障害、黄疸（いずれも頻度不明）",
+    "AST、ALT、γ-GTP、LDH、ALP、ビリルビン等の上昇を伴う肝機能障害、黄疸があらわれることがある",
+    "これらの医薬品の作用を増強することがある",
+    "精神症状があらわれることがある",
+    "急性アルコール中毒症状（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下）があらわれる"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アルコールを含む医薬品\nエリキシル剤薬用酒等\n,\n,",
+      "clinical_symptom_action": "急性アルコール中毒症状（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下）があらわれる。",
+      "mechanism_risk_factor": "ジスルフィラム-アルコール反応を起こすおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アルコールを含む食品\n奈良漬等\n,\n,",
+      "clinical_symptom_action": "急性アルコール中毒症状（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下）があらわれる。",
+      "mechanism_risk_factor": "ジスルフィラム-アルコール反応を起こすおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アルコールを含む化粧品\nアフターシェーブローション等\n,\n,",
+      "clinical_symptom_action": "急性アルコール中毒症状（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下）があらわれる。",
+      "mechanism_risk_factor": "ジスルフィラム-アルコール反応を起こすおそれがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "テオフィリン",
+      "clinical_symptom_action": "これらの医薬品の作用を増強することがある。",
+      "mechanism_risk_factor": "本剤はテオフィリンの肝における代謝を抑制し、血中テオフィリン濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトインエトトイン",
+      "clinical_symptom_action": "これらの医薬品の作用を増強することがある。",
+      "mechanism_risk_factor": "本剤はフェニトインの肝における代謝を抑制し、血中フェニトイン濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "バルビツール酸系化合物",
+      "clinical_symptom_action": "これらの医薬品の作用を増強することがある。",
+      "mechanism_risk_factor": "本剤は肝におけるバルビツール酸系化合物の代謝を抑制する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗凝血剤\nワルファリン等",
+      "clinical_symptom_action": "これらの医薬品の作用を増強することがある。",
+      "mechanism_risk_factor": "ワルファリンの肝における代謝を阻害することが考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤（散・錠）\nジゴキシン等",
+      "clinical_symptom_action": "これらの医薬品の作用を増強することがある。",
+      "mechanism_risk_factor": "ジスルフィラム-アルコール反応時に過呼吸により血中カリウム値が低下することによる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "イソニアジドメトロニダゾール",
+      "clinical_symptom_action": "精神症状があらわれることがある。",
+      "mechanism_risk_factor": "機序は不明であるが、酵素抑制の結果と思われる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リトナビル",
+      "clinical_symptom_action": "急性アルコール中毒症状（顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下）があらわれる。",
+      "mechanism_risk_factor": "リトナビルはエタノールを含有するので、ジスルフィラム-アルコール反応を起こすおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

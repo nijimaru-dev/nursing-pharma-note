@@ -1,0 +1,25 @@
+{
+  "id": 12233,
+  "brand_name": "ヘモナーゼ配合錠",
+  "generic_name": "ブロメライン・トコフェロール酢酸エステル配合剤",
+  "therapeutic_classification": "痔疾治療剤",
+  "indications": "痔核・裂肛の症状（出血、疼痛、腫脹、痒感）の緩解\n肛門部手術創",
+  "dose_admin": "通常成人1回1錠を1日3～4回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "抗凝血剤の作用を増強することがある",
+    "凝血能の変動に十分注意しながら投与すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗凝血剤\nワルファリン等",
+      "clinical_symptom_action": "抗凝血剤の作用を増強することがある。凝血能の変動に十分注意しながら投与すること。",
+      "mechanism_risk_factor": "ブロメラインはフィブリン溶解作用を有するので、抗凝血作用を相加的に増強するおそれがある。"
+    }
+  ],
+  "facility_notes": ""
+}

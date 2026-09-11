@@ -1,0 +1,34 @@
+{
+  "id": 5256,
+  "brand_name": "コルドリン錠12.5mg",
+  "generic_name": "クロフェダノール塩酸塩錠・顆粒",
+  "therapeutic_classification": "中枢性鎮咳剤",
+  "indications": "下記疾患に伴う咳嗽急性気管支炎、急性上気道炎",
+  "dose_admin": "〈コルドリン錠12.5mg〉\n成人1回2錠1日3回経口投与する。年齢、症状により適宜増減する。\n〈コルドリン顆粒4.17%〉\n成人1回0.6g1日3回経口投与する。年齢、症状により適宜増減する。",
+  "contraindications": "",
+  "application_precautions": "薬剤交付時の注意\n〈錠〉\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）\n蕁麻疹、冷汗、呼吸困難、喉頭浮腫、血圧低下等の異常が認められた場合には直ちに投与を中止し、適切な処置を行うこと。\n皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形滲出性紅斑（いずれも頻度不明）",
+  "observation_points": [
+    "ショック、アナフィラキシー（いずれも頻度不明）",
+    "蕁麻疹、冷汗、呼吸困難、喉頭浮腫、血圧低下等の異常が認められた場合には直ちに投与を中止し、適切な処置を行うこと",
+    "皮膚粘膜眼症候群（Stevens-Johnson症候群）、多形滲出性紅斑（いずれも頻度不明）",
+    "本剤の作用が増強されることがある",
+    "本剤の作用が減弱されることがある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制薬\nフェノチアジン系薬剤\n三環系抗うつ剤\nベンゾジアゼピン系薬剤\nモノアミン酸化酵素阻害剤\n等",
+      "clinical_symptom_action": "本剤の作用が増強されることがある。",
+      "mechanism_risk_factor": "本剤は咳中枢に作用し、咳嗽抑制作用を示す。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経興奮薬\nエフェドリン塩酸塩\nマオウ\nメチルフェニデート塩酸塩\n等",
+      "clinical_symptom_action": "本剤の作用が減弱されることがある。",
+      "mechanism_risk_factor": "本剤は咳中枢に作用し、咳嗽抑制作用を示す。"
+    }
+  ],
+  "facility_notes": ""
+}

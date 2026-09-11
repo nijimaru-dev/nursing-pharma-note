@@ -1,0 +1,140 @@
+[
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "contraindicated",
+    "source_text": "MAO阻害剤\nセレギリン（エフピー）ラサギリン（アジレクト）サフィナミド（エクフィナ）"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "MAO阻害剤\nセレギリン（エフピー）ラサギリン（アジレクト）サフィナミド（エクフィナ）"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "contraindicated",
+    "source_text": "MAO阻害剤\nセレギリン（エフピー）ラサギリン（アジレクト）サフィナミド（エクフィナ）"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "contraindicated",
+    "source_text": "MAO阻害剤\nセレギリン（エフピー）ラサギリン（アジレクト）サフィナミド（エクフィナ）"
+  },
+  {
+    "other_id": 1281,
+    "other_brand": "アレビアチン散10％",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 1283,
+    "other_brand": "アレビアチン錠25mg",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 10379,
+    "other_brand": "ヒダントール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 11145,
+    "other_brand": "フェノバルビタール「ホエイ」原末",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 11147,
+    "other_brand": "フェノバール原末",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 11150,
+    "other_brand": "フェノバール注射液100mg",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 11853,
+    "other_brand": "プリミドン錠250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "抗痙攣剤\nフェノバルビタールフェニトインプリミドン"
+  },
+  {
+    "other_id": 2744,
+    "other_brand": "エピペン注射液0.15mg",
+    "interaction_type": "caution",
+    "source_text": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン"
+  },
+  {
+    "other_id": 9672,
+    "other_brand": "ネフィー点鼻液1mg",
+    "interaction_type": "caution",
+    "source_text": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン"
+  },
+  {
+    "other_id": 9737,
+    "other_brand": "ノルアドリナリン注1mg",
+    "interaction_type": "caution",
+    "source_text": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン"
+  },
+  {
+    "other_id": 12944,
+    "other_brand": "ボスミン外用液0.1%",
+    "interaction_type": "caution",
+    "source_text": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン"
+  },
+  {
+    "other_id": 12945,
+    "other_brand": "ボスミン注1mg",
+    "interaction_type": "caution",
+    "source_text": "選択的ノルアドレナリン再取り込み阻害剤\nアトモキセチン"
+  },
+  {
+    "other_id": 9645,
+    "other_brand": "ネオ消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 16433,
+    "other_brand": "山善消アル",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  },
+  {
+    "other_id": 16688,
+    "other_brand": "消毒用マルオアルコール",
+    "interaction_type": "caution",
+    "source_text": "アルコール"
+  }
+]

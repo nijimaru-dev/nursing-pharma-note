@@ -1,0 +1,30 @@
+{
+  "id": 14220,
+  "brand_name": "ユリス錠0.5mg",
+  "generic_name": "ドチヌラド",
+  "therapeutic_classification": "選択的尿酸再吸収阻害薬\n高尿酸血症治療剤",
+  "indications": "痛風、高尿酸血症",
+  "dose_admin": "通常、成人にはドチヌラドとして1日0.5mgより開始し、1日1回経口投与する。その後は血中尿酸値を確認しながら必要に応じて徐々に増量する。維持量は通常1日1回2mgで、患者の状態に応じて適宜増減するが、最大投与量は1日1回4mgとする。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の効果が減弱する可能性がある"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ピラジナミド",
+      "clinical_symptom_action": "本剤の効果が減弱する可能性がある。",
+      "mechanism_risk_factor": "ピラジナミドの代謝物がURAT1による尿酸再吸収を促進することが知られており、本剤の尿酸排泄促進に拮抗する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "サリチル酸製剤\nアスピリン等",
+      "clinical_symptom_action": "本剤の効果が減弱する可能性がある。",
+      "mechanism_risk_factor": "サリチル酸製剤は尿酸の排泄を抑制することが知られており、本剤の尿酸排泄促進に拮抗する可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3106,
+  "brand_name": "オスポロット錠50mg",
+  "generic_name": "スルチアム",
+  "therapeutic_classification": "抗てんかん剤",
+  "indications": "精神運動発作",
+  "dose_admin": "スルチアムとして、通常成人1日200～600mgを2～3回に分けて食後に経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n腎障害のある患者",
+  "application_precautions": "",
+  "serious_adverse_events": "腎不全（0.1％未満）",
+  "observation_points": [
+    "腎不全（0.1％未満）",
+    "フェニトインの血中濃度が上昇することがある",
+    "投与量に注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗てんかん剤\nフェニトイン",
+      "clinical_symptom_action": "フェニトインの血中濃度が上昇することがある。投与量に注意すること。",
+      "mechanism_risk_factor": "本剤による肝代謝抑制により、フェニトインの代謝を抑制することが考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

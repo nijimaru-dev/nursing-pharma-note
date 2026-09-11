@@ -1,0 +1,32 @@
+[
+  {
+    "other_id": 152,
+    "other_brand": "アザニン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "リバビリン"
+  },
+  {
+    "other_id": 1785,
+    "other_brand": "イムラン錠50mg",
+    "interaction_type": "caution",
+    "source_text": "リバビリン"
+  },
+  {
+    "other_id": 5292,
+    "other_brand": "コンビビル配合錠",
+    "interaction_type": "caution",
+    "source_text": "リバビリン"
+  },
+  {
+    "other_id": 15215,
+    "other_brand": "レトロビルカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "リバビリン"
+  },
+  {
+    "other_id": 5487,
+    "other_brand": "ザイアジェン錠300mg",
+    "interaction_type": "caution",
+    "source_text": "ヌクレオシドアナログ（ジダノシン、アバカビル硫酸塩等）"
+  }
+]

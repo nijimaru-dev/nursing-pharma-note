@@ -1,0 +1,44 @@
+{
+  "id": 15049,
+  "brand_name": "リンラキサー錠125mg",
+  "generic_name": "クロルフェネシンカルバミン酸エステル製剤",
+  "therapeutic_classification": "筋緊張性疼痛疾患治療剤",
+  "indications": "運動器疾患に伴う有痛性痙縮：腰背痛症、変形性脊椎症、椎間板ヘルニア、脊椎分離・辷り症、脊椎骨粗鬆症、頸肩腕症候群",
+  "dose_admin": "通常、成人にはクロルフェネシンカルバミン酸エステルとして1回250mgを1日3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "本剤及び類似化合物（メトカルバモール等）に対し、過敏症の既往歴のある患者\n肝障害患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "ショック（頻度不明）\n中毒性表皮壊死症（Toxic Epidermal Necrolysis：TEN）（頻度不明）",
+  "observation_points": [
+    "ショック（頻度不明）",
+    "中毒性表皮壊死症（Toxic Epidermal Necrolysis：TEN）（頻度不明）",
+    "相互に作用を増強することがあるので、用量を調節するなど注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェノチアジン系薬剤\n〔クロルプロマジン塩酸塩等〕",
+      "clinical_symptom_action": "相互に作用を増強することがあるので、用量を調節するなど注意すること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "中枢神経抑制剤\n〔バルビツール酸誘導体等〕",
+      "clinical_symptom_action": "相互に作用を増強することがあるので、用量を調節するなど注意すること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤",
+      "clinical_symptom_action": "相互に作用を増強することがあるので、用量を調節するなど注意すること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アルコール",
+      "clinical_symptom_action": "相互に作用を増強することがあるので、用量を調節するなど注意すること。",
+      "mechanism_risk_factor": "機序は不明である。"
+    }
+  ],
+  "facility_notes": ""
+}

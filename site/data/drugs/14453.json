@@ -1,0 +1,58 @@
+{
+  "id": 14453,
+  "brand_name": "ラプシド錠25mg",
+  "generic_name": "レミブルチニブ錠",
+  "therapeutic_classification": "慢性蕁麻疹治療剤（ブルトン型チロシンキナーゼ阻害剤）",
+  "indications": "特発性の慢性蕁麻疹（既存治療で効果不十分な患者に限る）",
+  "dose_admin": "通常、成人にはレミブルチニブとして1回25mgを1日2回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "適切にワクチンの効果が得られるようにワクチン接種の1週間前から2週間後まで、本剤の投与中断を考慮すること",
+    "本剤の血中濃度が上昇する可能性があるので、慎重に投与すること",
+    "本剤の血中濃度が低下する可能性があるので、可能な限り併用を避けること",
+    "これらの薬剤の血中濃度が上昇する可能性があるので、慎重に投与すること",
+    "リスクとベネフィットを考慮して慎重に判断すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "不活化ワクチン",
+      "clinical_symptom_action": "適切にワクチンの効果が得られるようにワクチン接種の1週間前から2週間後まで、本剤の投与中断を考慮すること。",
+      "mechanism_risk_factor": "本剤のBTK阻害作用が、ワクチン接種による免疫応答に影響する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強いCYP3A阻害剤\nリトナビル\nイトラコナゾール\nクラリスロマイシン等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇する可能性があるので、慎重に投与すること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A阻害より、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "強い又は中程度のCYP3A誘導剤\nカルバマゼピン\nリファンピシン\nフェニトイン等",
+      "clinical_symptom_action": "本剤の血中濃度が低下する可能性があるので、可能な限り併用を避けること。",
+      "mechanism_risk_factor": "これらの薬剤のCYP3A誘導により、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "治療域の狭いP-gpの基質となる薬剤\nジゴキシン\nダビガトランエテキシラート\nコルヒチン等",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇する可能性があるので、慎重に投与すること。",
+      "mechanism_risk_factor": "本剤のP-gp阻害により、これらの薬剤の排出が減少する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "治療域の狭いBCRPの基質となる薬剤\nメトトレキサート",
+      "clinical_symptom_action": "これらの薬剤の血中濃度が上昇する可能性があるので、慎重に投与すること。",
+      "mechanism_risk_factor": "本剤のBCRP阻害により、これらの薬剤の排出が減少する可能性がある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗血栓薬剤\nワルファリン\nリバーロキサバン\nアピキサバン等",
+      "clinical_symptom_action": "リスクとベネフィットを考慮して慎重に判断すること。",
+      "mechanism_risk_factor": "併用により、これらの薬剤の出血リスクを増強させる可能性がある。"
+    }
+  ],
+  "facility_notes": ""
+}

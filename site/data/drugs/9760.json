@@ -1,0 +1,31 @@
+{
+  "id": 9760,
+  "brand_name": "ノルレボ錠1.5mg",
+  "generic_name": "レボノルゲストレル",
+  "therapeutic_classification": "緊急避妊剤",
+  "indications": "緊急避妊",
+  "dose_admin": "性交後72時間以内にレボノルゲストレルとして1.5mgを1回経口投与する。",
+  "contraindications": "本剤の成分に対し過敏症の既往歴のある女性\n重篤な肝障害のある患者\n,\n妊婦\n,",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "",
+  "observation_points": [
+    "本剤の効果が減弱するおそれがある",
+    "本剤の効果が減弱するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること"
+  ],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "抗けいれん薬\nフェノバルビタール、フェニトイン、プリミドン、カルバマゼピン\nHIVプロテアーゼ阻害剤\nリトナビル\n非ヌクレオシド系逆転写酵素阻害剤\nエファビレンツ\nリファブチン\nリファンピシン",
+      "clinical_symptom_action": "本剤の効果が減弱するおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤は肝の薬物代謝酵素を誘導し、本剤の代謝を促進すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St.John's Wort、セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の効果が減弱するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること。",
+      "mechanism_risk_factor": "この食品は肝の薬物代謝酵素を誘導し、本剤の代謝を促進すると考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

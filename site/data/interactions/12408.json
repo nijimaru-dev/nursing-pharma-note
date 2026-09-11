@@ -1,0 +1,1370 @@
+[
+  {
+    "other_id": 157,
+    "other_brand": "アシクロビルシロップ8%「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 158,
+    "other_brand": "アシクロビル内服ゼリー200mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 159,
+    "other_brand": "アシクロビル内服ゼリー800mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 160,
+    "other_brand": "アシクロビル点滴静注液250mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 161,
+    "other_brand": "アシクロビル点滴静注液250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 162,
+    "other_brand": "アシクロビル点滴静注液250mgバッグ100mL「アイロム」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 163,
+    "other_brand": "アシクロビル点滴静注用250mg「アイロム」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 164,
+    "other_brand": "アシクロビル点滴静注用250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 165,
+    "other_brand": "アシクロビル点滴静注用250mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 170,
+    "other_brand": "アシクロビル錠200mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 171,
+    "other_brand": "アシクロビル錠200mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 174,
+    "other_brand": "アシクロビル顆粒40％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 175,
+    "other_brand": "アシクロビル顆粒40％「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 176,
+    "other_brand": "アシクロビル顆粒40%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 177,
+    "other_brand": "アシクロビルDS80％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 178,
+    "other_brand": "アシクロビルDS80%「NK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 287,
+    "other_brand": "アスピリン「ヤマゼン」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\n（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 289,
+    "other_brand": "アスピリン「ケンエー」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\n（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 290,
+    "other_brand": "アスピリン「ホエイ」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\n（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 291,
+    "other_brand": "アスピリン「ヨシダ」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\n（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 292,
+    "other_brand": "アスピリン原末「マルイシ」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\n（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 293,
+    "other_brand": "アスピリン腸溶錠100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシドベンズブロマロン"
+  },
+  {
+    "other_id": 294,
+    "other_brand": "アスピリン腸溶錠100mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシドベンズブロマロン"
+  },
+  {
+    "other_id": 295,
+    "other_brand": "アスピリン腸溶錠100mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシドベンズブロマロン"
+  },
+  {
+    "other_id": 296,
+    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシドベンズブロマロン"
+  },
+  {
+    "other_id": 297,
+    "other_brand": "アスピリン腸溶錠100mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシドベンズブロマロン"
+  },
+  {
+    "other_id": 403,
+    "other_brand": "アゾセミド錠30mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 404,
+    "other_brand": "アゾセミド錠30mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 718,
+    "other_brand": "アマリール0.5mg錠",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1004,
+    "other_brand": "アモキシシリンカプセル125mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1005,
+    "other_brand": "アモキシシリンカプセル125mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1006,
+    "other_brand": "アモキシシリンカプセル125mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1010,
+    "other_brand": "アモキシシリンカプセル250mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1011,
+    "other_brand": "アモキシシリン細粒10％「TCK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1143,
+    "other_brand": "アリムタ注射用100mg",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、\nペニシリン等"
+  },
+  {
+    "other_id": 1910,
+    "other_brand": "インテバン坐剤25",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1925,
+    "other_brand": "インドメタシン坐剤25「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1924,
+    "other_brand": "インドメタシン坐剤12.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1933,
+    "other_brand": "インフリーカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 2781,
+    "other_brand": "エベレンゾ錠20mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 2944,
+    "other_brand": "オイグルコン錠1.25mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 3384,
+    "other_brand": "オルミエント錠4mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド\n,\n,"
+  },
+  {
+    "other_id": 3566,
+    "other_brand": "オーグメンチン配合錠125SS",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4158,
+    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4217,
+    "other_brand": "キャブピリン配合錠",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド\nベンズブロマロン"
+  },
+  {
+    "other_id": 4429,
+    "other_brand": "クラバモックス小児用配合ドライシロップ",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4767,
+    "other_brand": "グリクラジド錠20mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4768,
+    "other_brand": "グリクラジド錠20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4769,
+    "other_brand": "グリクラジド錠20mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4832,
+    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4833,
+    "other_brand": "グリベンクラミド錠1.25mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4834,
+    "other_brand": "グリベンクラミド錠1.25mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4835,
+    "other_brand": "グリベンクラミド錠1.25mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4840,
+    "other_brand": "グリミクロンHA錠20mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4843,
+    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4846,
+    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4848,
+    "other_brand": "グリメピリド錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4849,
+    "other_brand": "グリメピリド錠0.5mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4850,
+    "other_brand": "グリメピリド錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4851,
+    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4852,
+    "other_brand": "グリメピリド錠0.5mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4853,
+    "other_brand": "グリメピリド錠0.5mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4854,
+    "other_brand": "グリメピリド錠0.5mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4855,
+    "other_brand": "グリメピリド錠0.5mg「科研」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4856,
+    "other_brand": "グリメピリド錠0.5mg「AA」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4857,
+    "other_brand": "グリメピリド錠0.5mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4858,
+    "other_brand": "グリメピリド錠0.5mg「Me」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4859,
+    "other_brand": "グリメピリド錠0.5mg「NC」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4860,
+    "other_brand": "グリメピリド錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4861,
+    "other_brand": "グリメピリド錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4862,
+    "other_brand": "グリメピリド錠0.5mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4863,
+    "other_brand": "グリメピリド錠0.5mg「VTRS」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4864,
+    "other_brand": "グリメピリド錠0.5mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4865,
+    "other_brand": "グリメピリド錠0.5mg「ZE」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4912,
+    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4913,
+    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 4914,
+    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 5292,
+    "other_brand": "コンビビル配合錠",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 5296,
+    "other_brand": "コンプラビン配合錠",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 5437,
+    "other_brand": "サワシリンカプセル125",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 5505,
+    "other_brand": "ザバクサ配合点滴静注用",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 5506,
+    "other_brand": "ザビセフタ配合点滴静注用",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 5998,
+    "other_brand": "ジフォルタ注射液20mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6202,
+    "other_brand": "スターシス錠30mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6275,
+    "other_brand": "ステルイズ水性懸濁筋注60万単位シリンジ",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6358,
+    "other_brand": "スルバシリン静注用0.75g",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6825,
+    "other_brand": "ソニアス配合錠LD",
+    "interaction_type": "caution",
+    "source_text": "糖尿病用薬\nスルホニルウレア剤速効型インスリン分泌促進薬α-グルコシダーゼ阻害剤ビグアナイド系薬剤DPP-4阻害剤GLP-1アナログ製剤インスリン製剤SGLT2阻害剤\n糖尿病用薬の血糖降下作用を増強する薬剤\nβ-遮断薬モノアミン酸化酵素阻害薬フィブラート系の高脂血症治療薬ワルファリンプロベネシドサリチル酸製剤プロピオン酸系消炎薬アリール酢酸系消炎薬オキシカム系消炎薬クラリスロマイシンサルファ剤クロラムフェニコールテトラサイクリン系抗生物質シプロフロキサシンレボフロキサシン水和物アゾール系抗真菌薬シベンゾリンコハク酸塩ジソピラミドピルメノール塩酸塩水和物等"
+  },
+  {
+    "other_id": 6942,
+    "other_brand": "ゾシン配合点滴静注用バッグ4.5",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6943,
+    "other_brand": "ゾシン静注用2.25",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6985,
+    "other_brand": "ゾビラックス点滴静注用250",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6989,
+    "other_brand": "ゾビラックス錠200",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 6991,
+    "other_brand": "ゾビラックス顆粒40%",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 7152,
+    "other_brand": "タケルダ配合錠",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド\nベンズブロマロン"
+  },
+  {
+    "other_id": 7162,
+    "other_brand": "タゾピペ配合点滴静注用バッグ2.25「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 7161,
+    "other_brand": "タゾピペ配合静注用2.25「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 7166,
+    "other_brand": "タゾピペ配合静注用2.25「明治」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 7167,
+    "other_brand": "タゾピペ配合静注用2.25「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 7168,
+    "other_brand": "タゾピペ配合静注用2.25「SN」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 7299,
+    "other_brand": "タリージェ錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 7397,
+    "other_brand": "ダイアート錠30mg",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 8288,
+    "other_brand": "デノシン点滴静注用500mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 8314,
+    "other_brand": "デベルザ錠20mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 8717,
+    "other_brand": "トラセミド錠4mg「KO」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤（プロベネシド等）"
+  },
+  {
+    "other_id": 8719,
+    "other_brand": "トラセミドOD錠4mg「TE」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤（プロベネシド等）"
+  },
+  {
+    "other_id": 9189,
+    "other_brand": "ナイキサン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9326,
+    "other_brand": "ナテグリニド錠30mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9768,
+    "other_brand": "ハイカムチン注射用1.1mg",
+    "interaction_type": "caution",
+    "source_text": "腎陰イオン輸送系阻害剤\nプロベネシド等"
+  },
+  {
+    "other_id": 9769,
+    "other_brand": "ハイカムチン点滴静注液1mg/1mL",
+    "interaction_type": "caution",
+    "source_text": "腎陰イオン輸送系阻害剤\nプロベネシド等"
+  },
+  {
+    "other_id": 9890,
+    "other_brand": "バイアスピリン錠100mg",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシドベンズブロマロン"
+  },
+  {
+    "other_id": 9923,
+    "other_brand": "バッサミン配合錠A81",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド\nベンズブロマロン"
+  },
+  {
+    "other_id": 9934,
+    "other_brand": "バファリン配合錠A81",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド\nベンズブロマロン"
+  },
+  {
+    "other_id": 9935,
+    "other_brand": "バフセオ錠150mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9939,
+    "other_brand": "バラシクロビル粒状錠500mg「モチダ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9940,
+    "other_brand": "バラシクロビル錠500mg「イワキ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9941,
+    "other_brand": "バラシクロビル錠500mg「ケミファ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9943,
+    "other_brand": "バラシクロビル錠500mg「サトウ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9944,
+    "other_brand": "バラシクロビル錠500mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9945,
+    "other_brand": "バラシクロビル錠500mg「ツルハラ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9946,
+    "other_brand": "バラシクロビル錠500mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9947,
+    "other_brand": "バラシクロビル錠500mg「三和」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9948,
+    "other_brand": "バラシクロビル錠500mg「日本臓器」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9949,
+    "other_brand": "バラシクロビル錠500mg「杏林」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9950,
+    "other_brand": "バラシクロビル錠500mg「DSEP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9951,
+    "other_brand": "バラシクロビル錠500mg「EE」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9952,
+    "other_brand": "バラシクロビル錠500mg「FFP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9953,
+    "other_brand": "バラシクロビル錠500mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9954,
+    "other_brand": "バラシクロビル錠500mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9955,
+    "other_brand": "バラシクロビル錠500mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9956,
+    "other_brand": "バラシクロビル錠500mg「NPI」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9957,
+    "other_brand": "バラシクロビル錠500mg「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9958,
+    "other_brand": "バラシクロビル錠500mg「TCK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9959,
+    "other_brand": "バラシクロビル錠500mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9960,
+    "other_brand": "バラシクロビル顆粒50%「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9961,
+    "other_brand": "バラシクロビル顆粒50%「SPKK」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 9967,
+    "other_brand": "バリキサ錠450mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10059,
+    "other_brand": "バルトレックス錠500",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10060,
+    "other_brand": "バルトレックス顆粒50%",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10762,
+    "other_brand": "ピシリバクタ静注用0.75g",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10919,
+    "other_brand": "ファスティック錠30",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10931,
+    "other_brand": "ファムシクロビル錠250mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10932,
+    "other_brand": "ファムシクロビル錠250mg「タカタ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10933,
+    "other_brand": "ファムシクロビル錠250mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10934,
+    "other_brand": "ファムシクロビル錠250mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10936,
+    "other_brand": "ファムシクロビル錠250mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10937,
+    "other_brand": "ファムシクロビル錠250mg「KMP」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10938,
+    "other_brand": "ファムシクロビル錠250mg「YD」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10935,
+    "other_brand": "ファムシクロビル錠250mg「日本臓器」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10940,
+    "other_brand": "ファムビル錠250mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 10941,
+    "other_brand": "ファモター配合錠A81",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド\nベンズブロマロン"
+  },
+  {
+    "other_id": 11534,
+    "other_brand": "フロセミド注20mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11535,
+    "other_brand": "フロセミド注20mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11536,
+    "other_brand": "フロセミド細粒4%「EMEC」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11544,
+    "other_brand": "フロセミド錠40mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11540,
+    "other_brand": "フロセミド錠20mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11537,
+    "other_brand": "フロセミド錠10mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11538,
+    "other_brand": "フロセミド錠10mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11539,
+    "other_brand": "フロセミド錠10mg「SN」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 11622,
+    "other_brand": "ブフェニール錠500mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 1658,
+    "other_brand": "イドメシンコーワゲル1％",
+    "interaction_type": "caution",
+    "source_text": "インドメタシンナプロキセン"
+  },
+  {
+    "other_id": 1920,
+    "other_brand": "インドメタシンクリーム1％「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "インドメタシンナプロキセン"
+  },
+  {
+    "other_id": 1922,
+    "other_brand": "インドメタシンパップ70mg「日医工」",
+    "interaction_type": "caution",
+    "source_text": "インドメタシンナプロキセン"
+  },
+  {
+    "other_id": 156,
+    "other_brand": "アシクロビル軟膏5%「ラクール」",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 4103,
+    "other_brand": "ガチフロ点眼液0.3%",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 6984,
+    "other_brand": "ゾビラックスクリーム5%",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 6988,
+    "other_brand": "ゾビラックス軟膏5%",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 10502,
+    "other_brand": "ビクシリンカプセル250mg",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 10503,
+    "other_brand": "ビクシリンドライシロップ10%",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 16237,
+    "other_brand": "塩酸「コザカイ・M」",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 16238,
+    "other_brand": "塩酸「タイセイ」",
+    "interaction_type": "caution",
+    "source_text": "経口糖尿病用剤\nスルホニルウレア系\nスルホニルアミド系\nパントテン酸\nセファロスポリン系抗生物質\nペニシリン系抗生物質\nアンピシリン水和物等\nアシクロビル\nバラシクロビル塩酸塩\nザルシタビン\nガチフロキサシン水和物\nジアフェニルスルホン"
+  },
+  {
+    "other_id": 5363,
+    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 9816,
+    "other_brand": "ハイ・プレアミン注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 9817,
+    "other_brand": "ハイ・プレアミンS注−10%",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 11991,
+    "other_brand": "プレビタS注射液",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13626,
+    "other_brand": "メソトレキセート注射液50mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13627,
+    "other_brand": "メソトレキセート注射液5mg/2mL",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13628,
+    "other_brand": "メソトレキセート点滴静注液200mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13630,
+    "other_brand": "メソトレキセート錠2.5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13681,
+    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13685,
+    "other_brand": "メトトレキサート錠2mg「あゆみ」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 13687,
+    "other_brand": "メトトレキサート錠2mg「ダイト」",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 14613,
+    "other_brand": "リウマトレックスカプセル2mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16597,
+    "other_brand": "注射用メソトレキセート50mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 16598,
+    "other_brand": "注射用メソトレキセート5mg",
+    "interaction_type": "caution",
+    "source_text": "メトトレキサート"
+  },
+  {
+    "other_id": 12558,
+    "other_brand": "ペメトレキセド点滴静注液100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12559,
+    "other_brand": "ペメトレキセド点滴静注液100mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12560,
+    "other_brand": "ペメトレキセド点滴静注液100mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12568,
+    "other_brand": "ペメトレキセド点滴静注用100mg「ニプロ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12569,
+    "other_brand": "ペメトレキセド点滴静注用100mg「ヤクルト」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12570,
+    "other_brand": "ペメトレキセド点滴静注用100mg「日医工G」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12567,
+    "other_brand": "ペメトレキセド点滴静注用100mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12571,
+    "other_brand": "ペメトレキセド点滴静注用100mg「F」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12572,
+    "other_brand": "ペメトレキセド点滴静注用100mg「NK」",
+    "interaction_type": "caution",
+    "source_text": "腎毒性を有する薬剤又は腎排泄型薬剤\nプロベネシド、ペニシリン等"
+  },
+  {
+    "other_id": 12662,
+    "other_brand": "ペングッド錠250mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 12964,
+    "other_brand": "ボノサップパック400",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 12968,
+    "other_brand": "ボノピオンパック",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 13673,
+    "other_brand": "メトジェクト皮下注7.5mgシリンジ0.15mL",
+    "interaction_type": "caution",
+    "source_text": "ペニシリン（ピペラシリンナトリウム等）プロベネシド"
+  },
+  {
+    "other_id": 13682,
+    "other_brand": "メトトレキサートカプセル2mg「サンド」",
+    "interaction_type": "caution",
+    "source_text": "ペニシリン（ピペラシリン等）プロベネシド"
+  },
+  {
+    "other_id": 13686,
+    "other_brand": "メトトレキサート錠2mg「タナベ」",
+    "interaction_type": "caution",
+    "source_text": "ペニシリン（ピペラシリン等）プロベネシド"
+  },
+  {
+    "other_id": 13683,
+    "other_brand": "メトトレキサートカプセル2mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ペニシリン（ピペラシリン等）プロベネシド"
+  },
+  {
+    "other_id": 13684,
+    "other_brand": "メトトレキサート錠1mg「日本臓器」",
+    "interaction_type": "caution",
+    "source_text": "ペニシリン（ピペラシリン等）プロベネシド"
+  },
+  {
+    "other_id": 13690,
+    "other_brand": "メトトレキサート錠2mg「JG」",
+    "interaction_type": "caution",
+    "source_text": "ペニシリン（ピペラシリン等）プロベネシド"
+  },
+  {
+    "other_id": 14194,
+    "other_brand": "ユナシン−Sキット静注用1.5g",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 14196,
+    "other_brand": "ユナシン細粒小児用10%",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 14197,
+    "other_brand": "ユナシン錠375mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 14198,
+    "other_brand": "ユナスピン静注用0.75g",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 14367,
+    "other_brand": "ラシックス注100mg",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 14368,
+    "other_brand": "ラシックス注20mg",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 14369,
+    "other_brand": "ラシックス錠10mg",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤\nプロベネシド"
+  },
+  {
+    "other_id": 14597,
+    "other_brand": "ランツジールコーワ錠30mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 14609,
+    "other_brand": "ラヴィクティ内用液1.1g/mL",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15092,
+    "other_brand": "ルプラック錠4mg",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤（プロベネシド等）"
+  },
+  {
+    "other_id": 15166,
+    "other_brand": "レクチゾール錠25mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15215,
+    "other_brand": "レトロビルカプセル100mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15892,
+    "other_brand": "ロラゼパム錠0.5mg「サワイ」",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15922,
+    "other_brand": "ロラピタ静注2mg",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15929,
+    "other_brand": "ロレアス配合錠「杏林」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 15930,
+    "other_brand": "ロレアス配合錠「NS」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 15932,
+    "other_brand": "ロレアス配合錠「SANIK」",
+    "interaction_type": "caution",
+    "source_text": "尿酸排泄促進剤（プロベネシド、ベンズブロマロン）"
+  },
+  {
+    "other_id": 15961,
+    "other_brand": "ワイドシリン細粒10%",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15962,
+    "other_brand": "ワイドシリン細粒20%",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15963,
+    "other_brand": "ワイパックス錠0.5",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "痛風治療剤\nプロベネシド"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "痛風治療剤\nプロベネシド"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "痛風治療剤\nプロベネシド"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "痛風治療剤\nプロベネシド"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "痛風治療剤\nプロベネシド"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "痛風治療剤\nプロベネシド"
+  },
+  {
+    "other_id": 17544,
+    "other_brand": "25mgプロトゲン錠",
+    "interaction_type": "caution",
+    "source_text": "プロベネシド"
+  }
+]

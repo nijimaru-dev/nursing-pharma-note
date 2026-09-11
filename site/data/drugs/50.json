@@ -1,0 +1,22 @@
+{
+  "id": 50,
+  "brand_name": "アイオピジンUD点眼液1%",
+  "generic_name": "アプラクロニジン塩酸塩点眼液",
+  "therapeutic_classification": "レーザー術後眼圧上昇防止剤",
+  "indications": "アルゴンレーザー線維柱帯形成術、アルゴンレーザー虹彩切開術、及びNd-ヤグレーザー後嚢切開術後に生じる眼圧上昇の防止",
+  "dose_admin": "通常、レーザー照射1時間前、及び照射直後に術眼に1滴ずつ点眼する。",
+  "contraindications": "本剤の成分又はクロニジンに対し過敏症の既往歴のある患者\nモノアミン酸化酵素阻害剤の投与を受けている患者",
+  "application_precautions": "薬剤投与時の注意\n本剤は患者本人が点眼するものではなく、レーザー手術時に術者等により術眼に投与する。1容器あたり1回1滴限りの使用とし、残った薬液は容器とともに廃棄する。",
+  "serious_adverse_events": "",
+  "observation_points": [],
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "モノアミン酸化酵素阻害剤",
+      "clinical_symptom_action": "急激な血圧上昇を起こすおそれがある。",
+      "mechanism_risk_factor": "本剤は、直接的な血管収縮作用を有するため、ノルアドレナリンの代謝を抑制する薬剤との併用により、過度の血管収縮を起こすことが考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

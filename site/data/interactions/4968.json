@@ -1,0 +1,74 @@
+[
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血薬（ワルファリンカリウム）"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血薬（ワルファリンカリウム）"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血薬（ワルファリンカリウム）"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "クマリン系抗凝血薬（ワルファリンカリウム）"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "contraindicated",
+    "source_text": "骨粗鬆症治療用ビタミンK\n2\n製剤\nメナテトレノン\n（グラケー）"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "ビタミン剤\nビタミンK及びビタミンK含有製剤\nメナテトレノン（ビタミンK\n2\n）"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "contraindicated",
+    "source_text": "骨粗鬆症治療用ビタミンK\n2\n製剤\nメナテトレノン\n（グラケー）"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "contraindicated",
+    "source_text": "骨粗鬆症治療用ビタミンK\n2\n製剤\nメナテトレノン\n（グラケー）"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "contraindicated",
+    "source_text": "骨粗鬆症治療用ビタミンK\n2\n製剤\nメナテトレノン\n（グラケー）"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "contraindicated",
+    "source_text": "骨粗鬆症治療用ビタミンK\n2\n製剤\nメナテトレノン\n（グラケー）"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "ビタミン剤\nビタミンK及びビタミンK含有製剤\nメナテトレノン（ビタミンK\n2\n）"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "contraindicated",
+    "source_text": "骨粗鬆症治療用ビタミンK\n2\n製剤\nメナテトレノン\n（グラケー）"
+  }
+]

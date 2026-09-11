@@ -1,0 +1,44 @@
+[
+  {
+    "other_id": 13232,
+    "other_brand": "マスーレッド錠5mg",
+    "interaction_type": "caution",
+    "source_text": "HIVプロテアーゼ阻害剤\nアタザナビル、リトナビル、ロピナビル・リトナビル等\nチロシンキナーゼ阻害剤\nソラフェニブ、エルロチニブ、ニロチニブ等\nトラニラスト"
+  },
+  {
+    "other_id": 15977,
+    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
+    "interaction_type": "caution",
+    "source_text": "アレルギー用薬\nトラニラスト"
+  },
+  {
+    "other_id": 15976,
+    "other_brand": "ワルファリンK錠1mg「日新」",
+    "interaction_type": "caution",
+    "source_text": "アレルギー用薬\nトラニラスト"
+  },
+  {
+    "other_id": 15982,
+    "other_brand": "ワルファリンK錠1mg「F」",
+    "interaction_type": "caution",
+    "source_text": "アレルギー用薬\nトラニラスト"
+  },
+  {
+    "other_id": 15978,
+    "other_brand": "ワルファリンK錠0.5mg「NIG」",
+    "interaction_type": "caution",
+    "source_text": "アレルギー用薬\nトラニラスト"
+  },
+  {
+    "other_id": 15979,
+    "other_brand": "ワルファリンK錠0.5mg「NP」",
+    "interaction_type": "caution",
+    "source_text": "アレルギー用薬\nトラニラスト"
+  },
+  {
+    "other_id": 16001,
+    "other_brand": "ワーファリン錠0.5mg",
+    "interaction_type": "caution",
+    "source_text": "アレルギー用薬\nトラニラスト"
+  }
+]
