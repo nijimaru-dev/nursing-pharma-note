@@ -3,252 +3,252 @@
     "other_id": 4200,
     "other_brand": "キックリンカプセル250mg",
     "interaction_type": "caution",
-    "source_text": "カンデサルタンシレキセチル\nテルミサルタン\nオルメサルタンメドキソミル\nイルベサルタン"
+    "source_text": "In vitro\n試験で、本剤とこれらの薬剤の吸着が認められており、これらの薬剤の作用を減弱させるおそれがあるので、併用する場合にはこれらの薬剤の作用を観察すること。"
   },
   {
     "other_id": 4201,
     "other_brand": "キックリン顆粒86.2％",
     "interaction_type": "caution",
-    "source_text": "カンデサルタンシレキセチル\nテルミサルタン\nオルメサルタンメドキソミル\nイルベサルタン"
+    "source_text": "In vitro\n試験で、本剤とこれらの薬剤の吸着が認められており、これらの薬剤の作用を減弱させるおそれがあるので、併用する場合にはこれらの薬剤の作用を観察すること。"
   },
   {
     "other_id": 4934,
     "other_brand": "グルコンサンK錠5mEq",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシン変換酵素阻害剤\nカプトプリル\nエナラプリル等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタン\nロサルタンカリウム\nカンデサルタンシレキセチル\nテルミサルタン等"
+    "source_text": "高カリウム血症があらわれやすい。"
   },
   {
     "other_id": 5943,
     "other_brand": "ジゴキシン錠0.125mg「AFP」",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nテルミサルタン"
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
   },
   {
     "other_id": 5946,
     "other_brand": "ジゴシンエリキシル0.05mg／mL",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nテルミサルタン"
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
   },
   {
     "other_id": 5948,
     "other_brand": "ジゴシン注0.25mg",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nテルミサルタン"
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
   },
   {
     "other_id": 5947,
     "other_brand": "ジゴシン錠0.125mg",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nテルミサルタン"
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "contraindicated",
-    "source_text": "アリスキレンフマル酸塩\nラジレス（糖尿病患者に使用する場合。ただし、他の降圧治療を行ってもなお血圧のコントロールが著しく不良の患者を除く。）"
+    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "アリスキレンフマル酸塩\nラジレス（糖尿病患者に使用する場合。ただし、他の降圧治療を行ってもなお血圧のコントロールが著しく不良の患者を除く。）"
+    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "アリスキレンフマル酸塩\nラジレス（糖尿病患者に使用する場合。ただし、他の降圧治療を行ってもなお血圧のコントロールが著しく不良の患者を除く。）"
+    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "contraindicated",
-    "source_text": "アリスキレンフマル酸塩\nラジレス（糖尿病患者に使用する場合。ただし、他の降圧治療を行ってもなお血圧のコントロールが著しく不良の患者を除く。）"
+    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
   },
   {
     "other_id": 14375,
     "other_brand": "ラジレス錠150mg",
     "interaction_type": "contraindicated",
-    "source_text": "アリスキレンフマル酸塩\nラジレス（糖尿病患者に使用する場合。ただし、他の降圧治療を行ってもなお血圧のコントロールが著しく不良の患者を除く。）"
+    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
   },
   {
     "other_id": 5942,
     "other_brand": "ジゴキシン錠0.0625「KYO」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシン"
+    "source_text": "血中ジゴキシン濃度が上昇したとの報告がある\n。"
   },
   {
     "other_id": 1173,
     "other_brand": "アルダクトンA細粒10％",
     "interaction_type": "caution",
-    "source_text": "カリウム保持性利尿剤\nスピロノラクトントリアムテレン等\nカリウム補給剤"
+    "source_text": "血清カリウム濃度が上昇するおそれがある。"
   },
   {
     "other_id": 6313,
     "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "カリウム保持性利尿剤\nスピロノラクトントリアムテレン等\nカリウム補給剤"
+    "source_text": "血清カリウム濃度が上昇するおそれがある。"
   },
   {
     "other_id": 6315,
     "other_brand": "スピロノラクトン錠25mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "カリウム保持性利尿剤\nスピロノラクトントリアムテレン等\nカリウム補給剤"
+    "source_text": "血清カリウム濃度が上昇するおそれがある。"
   },
   {
     "other_id": 6316,
     "other_brand": "スピロノラクトン錠25mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "カリウム保持性利尿剤\nスピロノラクトントリアムテレン等\nカリウム補給剤"
+    "source_text": "血清カリウム濃度が上昇するおそれがある。"
   },
   {
     "other_id": 6317,
     "other_brand": "スピロノラクトン錠25mg「CH」",
     "interaction_type": "caution",
-    "source_text": "カリウム保持性利尿剤\nスピロノラクトントリアムテレン等\nカリウム補給剤"
+    "source_text": "血清カリウム濃度が上昇するおそれがある。"
   },
   {
     "other_id": 8800,
     "other_brand": "トリテレン・カプセル50mg",
     "interaction_type": "caution",
-    "source_text": "カリウム保持性利尿剤\nスピロノラクトントリアムテレン等\nカリウム補給剤"
+    "source_text": "血清カリウム濃度が上昇するおそれがある。"
   },
   {
     "other_id": 16757,
     "other_brand": "炭酸リチウム錠100mg「フジナガ」",
     "interaction_type": "caution",
-    "source_text": "リチウム製剤\n炭酸リチウム"
+    "source_text": "アンジオテンシン変換酵素阻害剤との併用により、リチウム中毒を起こすことが報告されている。"
   },
   {
     "other_id": 8791,
     "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+    "source_text": "急激な血圧低下を起こすおそれがあるので、低用量から投与を開始し、増量する場合は徐々に行うこと。"
   },
   {
     "other_id": 8792,
     "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+    "source_text": "急激な血圧低下を起こすおそれがあるので、低用量から投与を開始し、増量する場合は徐々に行うこと。"
   },
   {
     "other_id": 11358,
     "other_brand": "フルイトラン錠1mg",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+    "source_text": "急激な血圧低下を起こすおそれがあるので、低用量から投与を開始し、増量する場合は徐々に行うこと。"
   },
   {
     "other_id": 11536,
     "other_brand": "フロセミド細粒4%「EMEC」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド、トリクロルメチアジド等"
+    "source_text": "急激な血圧低下を起こすおそれがあるので、低用量から投与を開始し、増量する場合は徐々に行うこと。"
   },
   {
     "other_id": 1704,
     "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 6668,
     "other_brand": "セレコキシブ錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 6670,
     "other_brand": "セレコキシブ錠100mg「ダイト」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 6675,
     "other_brand": "セレコキシブ錠100mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 6676,
     "other_brand": "セレコキシブ錠100mg「日新」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 6677,
     "other_brand": "セレコキシブ錠100mg「明治」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 6678,
     "other_brand": "セレコキシブ錠100mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 6683,
     "other_brand": "セレコキシブ錠100mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 11654,
     "other_brand": "ブルフェン錠100",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性抗炎症薬（NSAIDs）"
+    "source_text": "糸球体ろ過量がより減少し、腎障害のある患者では急性腎障害を引き起こす可能性がある。"
   },
   {
     "other_id": 14375,
     "other_brand": "ラジレス錠150mg",
     "interaction_type": "caution",
-    "source_text": "アリスキレンフマル酸塩"
+    "source_text": "腎機能障害、高カリウム血症及び低血圧を起こすおそれがある。なお、eGFRが60mL/min/1.73m\n2\n未満の腎機能障害のある患者へのアリスキレンフマル酸塩との併用については、治療上やむを得ないと判断される場合を除き避けること。"
   },
   {
     "other_id": 13409,
     "other_brand": "ミネブロ錠1.25mg",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシン変換酵素阻害剤\nイミダプリル塩酸塩\nエナラプリルマレイン酸塩等\nアンジオテンシンⅡ受容体拮抗剤\nオルメサルタン　メドキソミル\nアジルサルタン\nテルミサルタン等\nアリスキレンフマル酸塩\nシクロスポリン\nタクロリムス\nドロスピレノン配合剤\nヨウ化カリウム（放射性ヨウ素による甲状腺の内部被曝の予防・低減に使用する場合）"
+    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
   },
   {
     "other_id": 13654,
     "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nテルミサルタン\n,\n,\n,\n,\n,\n,"
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
   },
   {
     "other_id": 14423,
     "other_brand": "ラニラピッド錠0.05mg",
     "interaction_type": "caution",
-    "source_text": "アンジオテンシンⅡ受容体拮抗剤\nテルミサルタン\n,\n,\n,\n,\n,\n,"
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
   },
   {
     "other_id": 16214,
     "other_brand": "塩化カリウム「ヤマゼン」",
     "interaction_type": "caution",
-    "source_text": "抗アルドステロン剤\nスピロノラクトン等\nカリウム保持性利尿剤\nトリアムテレン等\n直接的レニン阻害剤\nアリスキレン\nアンジオテンシン変換酵素阻害剤\nベナゼプリル\nエナラプリル\nカプトプリル等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタン\nロサルタンカリウム\nカンデサルタンシレキセチル\nテルミサルタン等\nβ−遮断剤\nプロプラノロール等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nシクロスポリン\nヘパリン\nジゴキシン\nドロスピレノン・エチニルエストラジオール\nトルバプタン"
+    "source_text": "高カリウム血症があらわれることがある。"
   },
   {
     "other_id": 16215,
     "other_brand": "塩化カリウム「フソー」",
     "interaction_type": "caution",
-    "source_text": "抗アルドステロン剤\nスピロノラクトン　等\nカリウム保持性利尿剤\nトリアムテレン　等\n直接的レニン阻害剤\nアリスキレン\nアンジオテンシン変換酵素阻害剤\nベナゼプリル\nエナラプリル\nカプトプリル　等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタン\nロサルタンカリウム\nカンデサルタンシレキセチル\nテルミサルタン　等\nβ−遮断剤\nプロプラノロール　等\n非ステロイド性消炎鎮痛剤\nインドメタシン　等\nシクロスポリン\nヘパリン\nジゴキシン\nドロスピレノン・エチニルエストラジオール\nトルバプタン"
+    "source_text": "高カリウム血症があらわれることがある。"
   },
   {
     "other_id": 16216,
     "other_brand": "塩化カリウム徐放錠600mg「St」",
     "interaction_type": "caution",
-    "source_text": "抗アルドステロン剤\nスピロノラクトン等\nカリウム保持性利尿剤\nトリアムテレン等\n直接的レニン阻害剤\nアリスキレンフマル酸塩\nアンジオテンシン変換酵素阻害剤\nベナゼプリル塩酸塩エナラプリルマレイン酸塩カプトプリル等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタンロサルタンカリウムカンデサルタン　シレキセチルテルミサルタン等\nβ‐遮断剤\nプロプラノロール塩酸塩等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nシクロスポリンヘパリンジゴキシンドロスピレノン・エチニルエストラジオール\nトルバプタン"
+    "source_text": "高カリウム血症があらわれることがある。"
   },
   {
     "other_id": 17668,
     "other_brand": "K.C.L.エリキシル（10w/v%）",
     "interaction_type": "caution",
-    "source_text": "抗アルドステロン剤\nスピロノラクトン等\nカリウム保持性利尿剤\nトリアムテレン等\n直接的レニン阻害剤\nアリスキレン\nアンジオテンシン変換酵素阻害剤\nベナゼプリル塩酸塩、カプトプリル、エナラプリル等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタン、ロサルタンカリウム、カンデサルタンシレキセチル、テルミサルタン等\nβ-遮断剤\nプロプラノロール、アテノロール、ピンドロール等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nシクロスポリン\nヘパリン\nジゴキシン\nドロスピレノン・エチニルエストラジオール　ベータデクス\nトルバプタン"
+    "source_text": "高カリウム血症があらわれやすい。もし、併用が必要な場合は、血中カリウム値をモニターすることが望ましい。"
   },
   {
     "other_id": 17669,
     "other_brand": "K.C.L.点滴液15%",
     "interaction_type": "caution",
-    "source_text": "抗アルドステロン剤\nスピロノラクトン等\nカリウム保持性利尿剤\nトリアムテレン等\n直接的レニン阻害剤\nアリスキレン\nアンジオテンシン変換酵素阻害剤\nベナゼプリル塩酸塩、カプトプリル、エナラプリル等\nアンジオテンシンⅡ受容体拮抗剤\nバルサルタン、ロサルタンカリウム、カンデサルタンシレキセチル、テルミサルタン等\nβ-遮断剤\nプロプラノロール、アテノロール、ピンドロール等\n非ステロイド性消炎鎮痛剤\nインドメタシン等\nシクロスポリン\nヘパリン\nジゴキシン\nドロスピレノン・エチニルエストラジオール　ベータデクス\nトルバプタン"
+    "source_text": "高カリウム血症があらわれやすい。もし、併用が必要な場合は、血中カリウム値をモニターすることが望ましい。"
   }
 ]

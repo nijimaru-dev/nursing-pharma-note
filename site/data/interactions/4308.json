@@ -3,240 +3,240 @@
     "other_id": 2744,
     "other_brand": "エピペン注射液0.15mg",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 9672,
     "other_brand": "ネフィー点鼻液1mg",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 12944,
     "other_brand": "ボスミン外用液0.1%",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 12945,
     "other_brand": "ボスミン注1mg",
     "interaction_type": "contraindicated",
-    "source_text": "アドレナリン（アナフィラキシーの救急治療、又は歯科領域における浸潤麻酔もしくは伝達麻酔に使用する場合を除く）\n（ボスミン）\n,"
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "caution",
-    "source_text": "中枢神経抑制剤\nアルコール"
+    "source_text": "中枢神経抑制作用が増強することがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 9645,
     "other_brand": "ネオ消アル",
     "interaction_type": "caution",
-    "source_text": "中枢神経抑制剤\nアルコール"
+    "source_text": "中枢神経抑制作用が増強することがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "caution",
-    "source_text": "中枢神経抑制剤\nアルコール"
+    "source_text": "中枢神経抑制作用が増強することがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "caution",
-    "source_text": "中枢神経抑制剤\nアルコール"
+    "source_text": "中枢神経抑制作用が増強することがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "caution",
-    "source_text": "中枢神経抑制剤\nアルコール"
+    "source_text": "中枢神経抑制作用が増強することがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 16433,
     "other_brand": "山善消アル",
     "interaction_type": "caution",
-    "source_text": "中枢神経抑制剤\nアルコール"
+    "source_text": "中枢神経抑制作用が増強することがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 16688,
     "other_brand": "消毒用マルオアルコール",
     "interaction_type": "caution",
-    "source_text": "中枢神経抑制剤\nアルコール"
+    "source_text": "中枢神経抑制作用が増強することがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 1281,
     "other_brand": "アレビアチン散10％",
     "interaction_type": "caution",
-    "source_text": "CYP3A4誘導作用を有する薬剤\nフェニトイン\nカルバマゼピン\nバルビツール酸誘導体\nリファンピシン\n等"
+    "source_text": "本剤の作用が減弱することがある。"
   },
   {
     "other_id": 1283,
     "other_brand": "アレビアチン錠25mg",
     "interaction_type": "caution",
-    "source_text": "CYP3A4誘導作用を有する薬剤\nフェニトイン\nカルバマゼピン\nバルビツール酸誘導体\nリファンピシン\n等"
+    "source_text": "本剤の作用が減弱することがある。"
   },
   {
     "other_id": 3830,
     "other_brand": "カルバマゼピン錠100mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "CYP3A4誘導作用を有する薬剤\nフェニトイン\nカルバマゼピン\nバルビツール酸誘導体\nリファンピシン\n等"
+    "source_text": "本剤の作用が減弱することがある。"
   },
   {
     "other_id": 3831,
     "other_brand": "カルバマゼピン錠100mg「フジナガ」",
     "interaction_type": "caution",
-    "source_text": "CYP3A4誘導作用を有する薬剤\nフェニトイン\nカルバマゼピン\nバルビツール酸誘導体\nリファンピシン\n等"
+    "source_text": "本剤の作用が減弱することがある。"
   },
   {
     "other_id": 7996,
     "other_brand": "テグレトール錠100mg",
     "interaction_type": "caution",
-    "source_text": "CYP3A4誘導作用を有する薬剤\nフェニトイン\nカルバマゼピン\nバルビツール酸誘導体\nリファンピシン\n等"
+    "source_text": "本剤の作用が減弱することがある。"
   },
   {
     "other_id": 10379,
     "other_brand": "ヒダントール錠25mg",
     "interaction_type": "caution",
-    "source_text": "CYP3A4誘導作用を有する薬剤\nフェニトイン\nカルバマゼピン\nバルビツール酸誘導体\nリファンピシン\n等"
+    "source_text": "本剤の作用が減弱することがある。"
   },
   {
     "other_id": 14937,
     "other_brand": "リファジンカプセル150mg",
     "interaction_type": "caution",
-    "source_text": "CYP3A4誘導作用を有する薬剤\nフェニトイン\nカルバマゼピン\nバルビツール酸誘導体\nリファンピシン\n等"
+    "source_text": "本剤の作用が減弱することがある。"
   },
   {
     "other_id": 1651,
     "other_brand": "イトラコナゾールカプセル50mg「SW」",
     "interaction_type": "caution",
-    "source_text": "強いCYP3A4阻害作用を有する薬剤\nイトラコナゾール\n等"
+    "source_text": "本剤の作用を増強するおそれがあるので、個々の患者の症状及び忍容性に注意し、本剤を減量するなどして慎重に投与すること。併用により本剤の血漿中濃度が高値となり、QT間隔が延長するおそれがある。"
   },
   {
     "other_id": 1652,
     "other_brand": "イトラコナゾール内用液1％「VTRS」",
     "interaction_type": "caution",
-    "source_text": "強いCYP3A4阻害作用を有する薬剤\nイトラコナゾール\n等"
+    "source_text": "本剤の作用を増強するおそれがあるので、個々の患者の症状及び忍容性に注意し、本剤を減量するなどして慎重に投与すること。併用により本剤の血漿中濃度が高値となり、QT間隔が延長するおそれがある。"
   },
   {
     "other_id": 1653,
     "other_brand": "イトラコナゾール錠50mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "強いCYP3A4阻害作用を有する薬剤\nイトラコナゾール\n等"
+    "source_text": "本剤の作用を増強するおそれがあるので、個々の患者の症状及び忍容性に注意し、本剤を減量するなどして慎重に投与すること。併用により本剤の血漿中濃度が高値となり、QT間隔が延長するおそれがある。"
   },
   {
     "other_id": 1655,
     "other_brand": "イトラコナゾール錠50mg「科研」",
     "interaction_type": "caution",
-    "source_text": "強いCYP3A4阻害作用を有する薬剤\nイトラコナゾール\n等"
+    "source_text": "本剤の作用を増強するおそれがあるので、個々の患者の症状及び忍容性に注意し、本剤を減量するなどして慎重に投与すること。併用により本剤の血漿中濃度が高値となり、QT間隔が延長するおそれがある。"
   },
   {
     "other_id": 1656,
     "other_brand": "イトリゾールカプセル50",
     "interaction_type": "caution",
-    "source_text": "強いCYP3A4阻害作用を有する薬剤\nイトラコナゾール\n等"
+    "source_text": "本剤の作用を増強するおそれがあるので、個々の患者の症状及び忍容性に注意し、本剤を減量するなどして慎重に投与すること。併用により本剤の血漿中濃度が高値となり、QT間隔が延長するおそれがある。"
   },
   {
     "other_id": 2833,
     "other_brand": "エリスロマイシン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "CYP3A4阻害作用を有する薬剤\nエリスロマイシン\n等"
+    "source_text": "本剤の作用を増強するおそれがあるので、個々の患者の症状及び忍容性に注意し、慎重に投与すること。"
   },
   {
     "other_id": 2744,
     "other_brand": "エピペン注射液0.15mg",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 4181,
     "other_brand": "キシロカインポンプスプレー8%",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 9672,
     "other_brand": "ネフィー点鼻液1mg",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 12944,
     "other_brand": "ボスミン外用液0.1%",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 12945,
     "other_brand": "ボスミン注1mg",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 14784,
     "other_brand": "リドカインテープ18mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 14788,
     "other_brand": "リドカインポンプスプレー8％「日新」",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 14791,
     "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 14797,
     "other_brand": "リドカイン塩酸塩注0.5％「日新」",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 14809,
     "other_brand": "リドカイン点滴静注液1％「タカタ」",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 14810,
     "other_brand": "リドカイン静注液2％「タカタ」",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   },
   {
     "other_id": 16535,
     "other_brand": "歯科用キシロカインカートリッジ",
     "interaction_type": "caution",
-    "source_text": "アドレナリン含有歯科麻酔剤\nリドカイン・アドレナリン"
+    "source_text": "重篤な血圧降下を起こすことがある。"
   }
 ]

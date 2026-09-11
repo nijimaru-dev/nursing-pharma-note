@@ -3,102 +3,102 @@
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "contraindicated",
-    "source_text": "リトナビル\nノービア"
+    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
   },
   {
     "other_id": 9761,
     "other_brand": "ノービア錠100mg",
     "interaction_type": "contraindicated",
-    "source_text": "リトナビル\nノービア"
+    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "リトナビル\nノービア"
+    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "リトナビル\nノービア"
+    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "contraindicated",
-    "source_text": "リトナビル\nノービア"
+    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "caution",
-    "source_text": "アルコール\n（飲酒）"
+    "source_text": "相互に中枢神経抑制作用を増強することがある。"
   },
   {
     "other_id": 9645,
     "other_brand": "ネオ消アル",
     "interaction_type": "caution",
-    "source_text": "アルコール\n（飲酒）"
+    "source_text": "相互に中枢神経抑制作用を増強することがある。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "caution",
-    "source_text": "アルコール\n（飲酒）"
+    "source_text": "相互に中枢神経抑制作用を増強することがある。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "caution",
-    "source_text": "アルコール\n（飲酒）"
+    "source_text": "相互に中枢神経抑制作用を増強することがある。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "caution",
-    "source_text": "アルコール\n（飲酒）"
+    "source_text": "相互に中枢神経抑制作用を増強することがある。"
   },
   {
     "other_id": 16433,
     "other_brand": "山善消アル",
     "interaction_type": "caution",
-    "source_text": "アルコール\n（飲酒）"
+    "source_text": "相互に中枢神経抑制作用を増強することがある。"
   },
   {
     "other_id": 16688,
     "other_brand": "消毒用マルオアルコール",
     "interaction_type": "caution",
-    "source_text": "アルコール\n（飲酒）"
+    "source_text": "相互に中枢神経抑制作用を増強することがある。"
   },
   {
     "other_id": 5656,
     "other_brand": "シメチジン注射液200mg「SW」",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されることがある。"
   },
   {
     "other_id": 5658,
     "other_brand": "シメチジン錠200mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されることがある。"
   },
   {
     "other_id": 5660,
     "other_brand": "シメチジン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されることがある。"
   },
   {
     "other_id": 7103,
     "other_brand": "タガメット注射液200mg",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されることがある。"
   },
   {
     "other_id": 7104,
     "other_brand": "タガメット錠200mg",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されることがある。"
   }
 ]

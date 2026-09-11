@@ -3,534 +3,534 @@
     "other_id": 625,
     "other_brand": "アドレナリン注0.1%シリンジ「テルモ」",
     "interaction_type": "caution",
-    "source_text": "非選択性β遮断薬\nプロプラノロール\nカルベジロール等"
+    "source_text": "（1）相互の薬剤の効果が減弱する。\n（2）血圧上昇、徐脈があらわれることがある。"
   },
   {
     "other_id": 783,
     "other_brand": "アミサリン注100mg",
     "interaction_type": "caution",
-    "source_text": "β遮断薬\nビソプロロールフマル酸塩、カルベジロール、アテノロール 等"
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
   },
   {
     "other_id": 785,
     "other_brand": "アミサリン錠125mg",
     "interaction_type": "caution",
-    "source_text": "β遮断薬\nビソプロロールフマル酸塩、カルベジロール、アテノロール 等"
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
   },
   {
     "other_id": 2287,
     "other_brand": "エザルミア錠50mg",
     "interaction_type": "caution",
-    "source_text": "P-gp阻害剤\nキニジン\nベラパミル\nカルベジロール等\n,"
+    "source_text": "本剤の副作用が増強されるおそれがあるので、本剤を減量するとともに、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
   },
   {
     "other_id": 2744,
     "other_brand": "エピペン注射液0.15mg",
     "interaction_type": "caution",
-    "source_text": "非選択性β遮断薬\nプロプラノロール\nカルベジロール等"
+    "source_text": "（1）相互の薬剤の効果が減弱する。\n（2）血圧上昇、徐脈があらわれることがある。"
   },
   {
     "other_id": 12458,
     "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "カルシウム拮抗薬\nベラパミル塩酸塩等"
+    "source_text": "心不全や低血圧を引き起こすことがある。"
   },
   {
     "other_id": 12459,
     "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
     "interaction_type": "caution",
-    "source_text": "カルシウム拮抗薬\nベラパミル塩酸塩等"
+    "source_text": "心不全や低血圧を引き起こすことがある。"
   },
   {
     "other_id": 15973,
     "other_brand": "ワソラン錠40mg",
     "interaction_type": "caution",
-    "source_text": "カルシウム拮抗薬\nベラパミル塩酸塩等"
+    "source_text": "心不全や低血圧を引き起こすことがある。"
   },
   {
     "other_id": 15975,
     "other_brand": "ワソラン静注5mg",
     "interaction_type": "caution",
-    "source_text": "カルシウム拮抗薬\nベラパミル塩酸塩等"
+    "source_text": "心不全や低血圧を引き起こすことがある。"
   },
   {
     "other_id": 16237,
     "other_brand": "塩酸「コザカイ・M」",
     "interaction_type": "caution",
-    "source_text": "カルシウム拮抗薬\nベラパミル塩酸塩等"
+    "source_text": "心不全や低血圧を引き起こすことがある。"
   },
   {
     "other_id": 16238,
     "other_brand": "塩酸「タイセイ」",
     "interaction_type": "caution",
-    "source_text": "カルシウム拮抗薬\nベラパミル塩酸塩等"
+    "source_text": "心不全や低血圧を引き起こすことがある。"
   },
   {
     "other_id": 696,
     "other_brand": "アプレゾリン注射用20mg",
     "interaction_type": "caution",
-    "source_text": "ヒドララジン塩酸塩"
+    "source_text": "本剤の作用が増強されるおそれがある。"
   },
   {
     "other_id": 697,
     "other_brand": "アプレゾリン錠10mg",
     "interaction_type": "caution",
-    "source_text": "ヒドララジン塩酸塩"
+    "source_text": "本剤の作用が増強されるおそれがある。"
   },
   {
     "other_id": 14730,
     "other_brand": "リスモダンカプセル100mg",
     "interaction_type": "caution",
-    "source_text": "クラスⅠ抗不整脈薬\nジソピラミド、プロカインアミド塩酸塩等"
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
   },
   {
     "other_id": 767,
     "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
     "interaction_type": "caution",
-    "source_text": "アミオダロン塩酸塩"
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
   },
   {
     "other_id": 769,
     "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "アミオダロン塩酸塩"
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
   },
   {
     "other_id": 770,
     "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "アミオダロン塩酸塩"
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
   },
   {
     "other_id": 1370,
     "other_brand": "アンカロン注150",
     "interaction_type": "caution",
-    "source_text": "アミオダロン塩酸塩"
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
   },
   {
     "other_id": 1371,
     "other_brand": "アンカロン錠100",
     "interaction_type": "caution",
-    "source_text": "アミオダロン塩酸塩"
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
   },
   {
     "other_id": 5448,
     "other_brand": "サンディミュン点滴静注用250mg",
     "interaction_type": "caution",
-    "source_text": "シクロスポリン"
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
   },
   {
     "other_id": 5556,
     "other_brand": "シクロスポリンカプセル10mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリン"
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
   },
   {
     "other_id": 5558,
     "other_brand": "シクロスポリンカプセル10mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリン"
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
   },
   {
     "other_id": 5559,
     "other_brand": "シクロスポリンカプセル10mg「BMD」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリン"
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
   },
   {
     "other_id": 5564,
     "other_brand": "シクロスポリンカプセル10mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリン"
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
   },
   {
     "other_id": 9639,
     "other_brand": "ネオーラル内用液10％",
     "interaction_type": "caution",
-    "source_text": "シクロスポリン"
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
   },
   {
     "other_id": 14937,
     "other_brand": "リファジンカプセル150mg",
     "interaction_type": "caution",
-    "source_text": "リファンピシン"
+    "source_text": "本剤の作用が減弱されるおそれがある。"
   },
   {
     "other_id": 5656,
     "other_brand": "シメチジン注射液200mg「SW」",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されるおそれがある。"
   },
   {
     "other_id": 5658,
     "other_brand": "シメチジン錠200mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されるおそれがある。"
   },
   {
     "other_id": 5660,
     "other_brand": "シメチジン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されるおそれがある。"
   },
   {
     "other_id": 7103,
     "other_brand": "タガメット注射液200mg",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されるおそれがある。"
   },
   {
     "other_id": 7104,
     "other_brand": "タガメット錠200mg",
     "interaction_type": "caution",
-    "source_text": "シメチジン"
+    "source_text": "本剤の作用が増強されるおそれがある。"
   },
   {
     "other_id": 5942,
     "other_brand": "ジゴキシン錠0.0625「KYO」",
     "interaction_type": "caution",
-    "source_text": "ジギタリス製剤\nジゴキシン等"
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
   },
   {
     "other_id": 5943,
     "other_brand": "ジゴキシン錠0.125mg「AFP」",
     "interaction_type": "caution",
-    "source_text": "ジギタリス製剤\nジゴキシン等"
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
   },
   {
     "other_id": 5946,
     "other_brand": "ジゴシンエリキシル0.05mg／mL",
     "interaction_type": "caution",
-    "source_text": "ジギタリス製剤\nジゴキシン等"
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
   },
   {
     "other_id": 5947,
     "other_brand": "ジゴシン錠0.125mg",
     "interaction_type": "caution",
-    "source_text": "ジギタリス製剤\nジゴキシン等"
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
   },
   {
     "other_id": 5948,
     "other_brand": "ジゴシン注0.25mg",
     "interaction_type": "caution",
-    "source_text": "ジギタリス製剤\nジゴキシン等"
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
   },
   {
     "other_id": 14423,
     "other_brand": "ラニラピッド錠0.05mg",
     "interaction_type": "caution",
-    "source_text": "ジギタリス製剤\nジゴキシン等"
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
   },
   {
     "other_id": 1173,
     "other_brand": "アルダクトンA細粒10％",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 6313,
     "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 6315,
     "other_brand": "スピロノラクトン錠25mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 6316,
     "other_brand": "スピロノラクトン錠25mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 6317,
     "other_brand": "スピロノラクトン錠25mg「CH」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 8791,
     "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 8792,
     "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 11358,
     "other_brand": "フルイトラン錠1mg",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 11536,
     "other_brand": "フロセミド細粒4%「EMEC」",
     "interaction_type": "caution",
-    "source_text": "利尿降圧剤\nフロセミド\nトリクロルメチアジド\nスピロノラクトン等"
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
   },
   {
     "other_id": 9672,
     "other_brand": "ネフィー点鼻液1mg",
     "interaction_type": "caution",
-    "source_text": "交感神経刺激剤\nアドレナリン等"
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
   },
   {
     "other_id": 12944,
     "other_brand": "ボスミン外用液0.1%",
     "interaction_type": "caution",
-    "source_text": "交感神経刺激剤\nアドレナリン等"
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
   },
   {
     "other_id": 12945,
     "other_brand": "ボスミン注1mg",
     "interaction_type": "caution",
-    "source_text": "交感神経刺激剤\nアドレナリン等"
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
   },
   {
     "other_id": 287,
     "other_brand": "アスピリン「ヤマゼン」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 290,
     "other_brand": "アスピリン「ホエイ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 291,
     "other_brand": "アスピリン「ヨシダ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 292,
     "other_brand": "アスピリン原末「マルイシ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 294,
     "other_brand": "アスピリン腸溶錠100mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 296,
     "other_brand": "アスピリン腸溶錠100mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 297,
     "other_brand": "アスピリン腸溶錠100mg「ZE」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 1658,
     "other_brand": "イドメシンコーワゲル1％",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 1704,
     "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 1920,
     "other_brand": "インドメタシンクリーム1％「サワイ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 1922,
     "other_brand": "インドメタシンパップ70mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 1924,
     "other_brand": "インドメタシン坐剤12.5mg「JG」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 6668,
     "other_brand": "セレコキシブ錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 6670,
     "other_brand": "セレコキシブ錠100mg「ダイト」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 6675,
     "other_brand": "セレコキシブ錠100mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 6676,
     "other_brand": "セレコキシブ錠100mg「日新」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 6677,
     "other_brand": "セレコキシブ錠100mg「明治」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 6678,
     "other_brand": "セレコキシブ錠100mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 6683,
     "other_brand": "セレコキシブ錠100mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 9890,
     "other_brand": "バイアスピリン錠100mg",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 11654,
     "other_brand": "ブルフェン錠100",
     "interaction_type": "caution",
-    "source_text": "非ステロイド性消炎鎮痛剤\nインドメタシン\nロキソプロフェン\nアスピリン等"
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
   },
   {
     "other_id": 4126,
     "other_brand": "ガランタミンOD錠4mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 4127,
     "other_brand": "ガランタミンOD錠4mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 4128,
     "other_brand": "ガランタミンOD錠4mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 4131,
     "other_brand": "ガランタミンOD錠4mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 4132,
     "other_brand": "ガランタミンOD錠4mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 4133,
     "other_brand": "ガランタミンOD錠4mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 4134,
     "other_brand": "ガランタミンOD錠4mg「JG」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 4135,
     "other_brand": "ガランタミンOD錠4mg「YD」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   },
   {
     "other_id": 5557,
     "other_brand": "シクロスポリンカプセル10mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "カルベジロール"
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
   },
   {
     "other_id": 5563,
     "other_brand": "シクロスポリンカプセル10mg「TC」",
     "interaction_type": "caution",
-    "source_text": "カルベジロール"
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
   },
   {
     "other_id": 5651,
     "other_brand": "シムツーザ配合錠",
     "interaction_type": "caution",
-    "source_text": "カルベジロールメトプロロールチモロール"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5881,
     "other_brand": "ジギラノゲン注0.4mg",
     "interaction_type": "caution",
-    "source_text": "β-遮断剤\nプロプラノロール\nアテノロール\nカルベジロール等"
+    "source_text": "本剤の作用を増強するおそれがある。ジギタリス中毒の症状（嘔気、嘔吐、不整脈等）があらわれるおそれがある。消化器・神経系自覚症状、心電図、血中濃度測定等必要に応じ観察するとともに腎機能、血清電解質（カリウム、マグネシウム、カルシウム）、甲状腺機能等の誘因に注意すること。"
   },
   {
     "other_id": 6937,
     "other_brand": "ゾキンヴィカプセル50mg",
     "interaction_type": "caution",
-    "source_text": "P-gp阻害剤\nカルベジロール\nアミオダロン等"
+    "source_text": "本薬の血中濃度が上昇するおそれがあるので、副作用の発現に注意すること。"
   },
   {
     "other_id": 8211,
     "other_brand": "ディアコミットドライシロップ分包250mg",
     "interaction_type": "caution",
-    "source_text": "β遮断薬\nプロプラノロール塩酸塩カルベジロールチモロールマレイン酸塩等\n抗うつ薬\nパロキセチン塩酸塩水和物セルトラリン塩酸塩イミプラミン塩酸塩クロミプラミン塩酸塩等\nハロペリドールコデインリン酸塩水和物デキストロメトルファン臭化水素酸塩水和物トラマドール塩酸塩"
+    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。併用する場合には、これらの薬剤を減量するなど、注意して投与すること。"
   },
   {
     "other_id": 9903,
     "other_brand": "バクスミー点鼻粉末剤3mg",
     "interaction_type": "caution",
-    "source_text": "β遮断剤\nビソプロロールフマル酸塩カルベジロールアテノロール等"
+    "source_text": "脈拍数の一時的な増加及び血圧の一時的な上昇が起こることがある。"
   },
   {
     "other_id": 11961,
     "other_brand": "プレジコビックス配合錠",
     "interaction_type": "caution",
-    "source_text": "カルベジロールメトプロロールチモロール"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 13654,
     "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "β-遮断剤\nプロプラノロール塩酸塩アテノロールカルベジロール　等\n,\n,\n,\n,\n,\n,"
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
   },
   {
     "other_id": 14938,
     "other_brand": "リファンピシンカプセル150mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "血圧降下剤\nブナゾシン塩酸塩エプレレノンカルベジロールアゼルニジピン"
+    "source_text": "これらの薬剤の作用が減弱することがある。"
   },
   {
     "other_id": 15505,
     "other_brand": "レミニール錠4mg",
     "interaction_type": "caution",
-    "source_text": "ジゴキシンβ遮断剤\nプロプラノロールアテノロールカルベジロール等"
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
   }
 ]

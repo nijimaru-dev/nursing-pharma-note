@@ -3,228 +3,228 @@
     "other_id": 767,
     "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注"
+    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
   },
   {
     "other_id": 769,
     "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注"
+    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
   },
   {
     "other_id": 770,
     "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注"
+    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
   },
   {
     "other_id": 771,
     "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注"
+    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
   },
   {
     "other_id": 772,
     "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注"
+    "source_text": "QT延長、心室性不整脈を起こすことがある。"
   },
   {
     "other_id": 783,
     "other_brand": "アミサリン注100mg",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩（経口剤）\nアベロックス\nバルデナフィル塩酸塩水和物\nレビトラ\nアミオダロン塩酸塩（注射剤）\nアンカロン注\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
   },
   {
     "other_id": 785,
     "other_brand": "アミサリン錠125mg",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩（経口剤）\nアベロックス\nバルデナフィル塩酸塩水和物\nレビトラ\nアミオダロン塩酸塩（注射剤）\nアンカロン注\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
   },
   {
     "other_id": 806,
     "other_brand": "アミファーゲンP注20mL",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 1370,
     "other_brand": "アンカロン注150",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注"
+    "source_text": "QT延長、心室性不整脈を起こすことがある。"
   },
   {
     "other_id": 1371,
     "other_brand": "アンカロン錠100",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注"
+    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
   },
   {
     "other_id": 1567,
     "other_brand": "イストダックス点滴静注用10mg",
     "interaction_type": "caution",
-    "source_text": "抗不整脈剤\nアミオダロン塩酸塩、ジソピラミド、プロカインアミド塩酸塩、キニジン硫酸塩水和物、ソタロール塩酸塩等\nQT間隔延長を起こすことが知られている他の薬剤\nクラリスロマイシン、オンダンセトロン塩酸塩水和物、メサドン塩酸塩、モキシフロキサシン塩酸塩、ベプリジル塩酸塩水和物、ピモジド等"
+    "source_text": "QT間隔延長等の重篤な心電図異常を起こすおそれがある。"
   },
   {
     "other_id": 4206,
     "other_brand": "キニジン硫酸塩「VTRS」原末",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩\nアベロックス"
+    "source_text": "QT延長等があらわれるおそれがある。"
   },
   {
     "other_id": 4235,
     "other_brand": "キョウミノチン静注PL",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 4828,
     "other_brand": "グリチロン配合錠",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 4932,
     "other_brand": "グルコリン配合静注",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5641,
     "other_brand": "シベノール錠50mg",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩\n（アベロックス）\nラスクフロキサシン塩酸塩（注射剤）\n（ラスビック点滴静注）\nトレミフェンクエン酸塩\n（フェアストン）\nフィンゴリモド塩酸塩\n（イムセラ、ジレニア）\nシポニモド フマル酸\n（メーゼント）\nエリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5643,
     "other_brand": "シベノール静注70mg",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩\n（アベロックス）\nラスクフロキサシン塩酸塩（注射剤）\n（ラスビック点滴静注）\nトレミフェンクエン酸塩\n（フェアストン）\nフィンゴリモド塩酸塩\n（イムセラ、ジレニア）\nシポニモド　フマル酸\n（メーゼント）\nエリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5645,
     "other_brand": "シベンゾリンコハク酸塩錠50mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩（アベロックス）ラスクフロキサシン塩酸塩（注射剤）（ラスビック点滴静注）トレミフェンクエン酸塩（フェアストン）フィンゴリモド塩酸塩（イムセラ、ジレニア）シポニモド フマル酸（メーゼント）エリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5646,
     "other_brand": "シベンゾリンコハク酸塩錠50mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩（アベロックス）ラスクフロキサシン塩酸塩（注射剤）（ラスビック点滴静注）トレミフェンクエン酸塩（フェアストン）フィンゴリモド塩酸塩（イムセラ、ジレニア）シポニモド フマル酸（メーゼント）エリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5812,
     "other_brand": "シンビット静注用50mg",
     "interaction_type": "caution",
-    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+    "source_text": "本剤の作用が増強するおそれがある。"
   },
   {
     "other_id": 5962,
     "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 5963,
     "other_brand": "ジソピラミド徐放錠150mg「SW」",
     "interaction_type": "contraindicated",
-    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 5964,
     "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
     "interaction_type": "contraindicated",
-    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 6820,
     "other_brand": "ソタコール錠40mg",
     "interaction_type": "contraindicated",
-    "source_text": "アミオダロン塩酸塩（注射）（アンカロン注）\nバルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩（アベロックス）\nトレミフェンクエン酸塩（フェアストン）\nフィンゴリモド塩酸塩（イムセラ、ジレニア）\nラスクフロキサシン塩酸塩（注射）（ラスビック）"
+    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
   },
   {
     "other_id": 6822,
     "other_brand": "ソタロール塩酸塩錠40mg「TE」",
     "interaction_type": "contraindicated",
-    "source_text": "アミオダロン塩酸塩（注射）（アンカロン注）\nバルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩（アベロックス）\nトレミフェンクエン酸塩（フェアストン）\nフィンゴリモド塩酸塩（イムセラ、ジレニア）\nラスクフロキサシン塩酸塩（注射）（ラスビック）"
+    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
   },
   {
     "other_id": 8412,
     "other_brand": "デルティバ錠50mg",
     "interaction_type": "caution",
-    "source_text": "QT延長を起こすことが知られている薬剤\nキノロン系抗菌薬\nモキシフロキサシン塩酸塩、レボフロキサシン水和物 等\nクラスIA抗不整脈薬\nキニジン硫酸塩水和物、プロカインアミド塩酸塩 等\nクラスⅢ抗不整脈薬\nアミオダロン塩酸塩、ソタロール塩酸塩 等\nスルピリド、イミプラミン塩酸塩、ピモジド、ハロペリドール、エリスロマイシン、コハク酸ソリフェナシン、ベダキリンフマル酸塩 等"
+    "source_text": "リスクとベネフィットを考慮して本剤投与の適応を慎重に判断すること。QT延長を起こすおそれがある。"
   },
   {
     "other_id": 9471,
     "other_brand": "ニチファーゲン注",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 9473,
     "other_brand": "ニチファーゲン配合錠",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 9626,
     "other_brand": "ネオファーゲン静注20mL",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 9627,
     "other_brand": "ネオファーゲンC配合錠",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 10375,
     "other_brand": "ヒシファーゲン配合静注",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 11852,
     "other_brand": "プリマキン錠15mg「サノフィ」",
     "interaction_type": "caution",
-    "source_text": "QT延長を起こすことが知られている薬剤キノロン系抗菌薬モキシフロキサシン塩酸塩、レボフロキサシン水和物等クラスIA抗不整脈薬キニジン、プロカインアミド等クラスIII抗不整脈薬アミオダロン、ソタロール等スルピリド、イミプラミン、ピモジド、ハロペリドール、エリスロマイシン、コハク酸ソリフェナシン等"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 14730,
     "other_brand": "リスモダンカプセル100mg",
     "interaction_type": "contraindicated",
-    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 14732,
     "other_brand": "リスモダンR錠150mg",
     "interaction_type": "contraindicated",
-    "source_text": "スパルフロキサシン\nスパラ\nモキシフロキサシン塩酸塩\nアベロックス\nラスクフロキサシン塩酸塩（注射剤）\nラスビック点滴静注キット\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 15502,
     "other_brand": "レミゲン静注20mL",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 16460,
     "other_brand": "強力ネオミノファーゲンシー静注シリンジ20mL",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 16462,
     "other_brand": "強力ネオミノファーゲンシー静注20mL",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 16463,
     "other_brand": "強力ネオミノファーゲンシーP静注20mL",
     "interaction_type": "caution",
-    "source_text": "モキシフロキサシン塩酸塩"
+    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
   }
 ]

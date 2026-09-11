@@ -3,54 +3,54 @@
     "other_id": 5062,
     "other_brand": "ゲフィチニブ錠250mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ゲフィチニブ"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 5063,
     "other_brand": "ゲフィチニブ錠250mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "ゲフィチニブ"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 5064,
     "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
     "interaction_type": "caution",
-    "source_text": "ゲフィチニブ"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 5065,
     "other_brand": "ゲフィチニブ錠250mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "ゲフィチニブ"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 6163,
     "other_brand": "スオード錠100",
     "interaction_type": "caution",
-    "source_text": "合成抗菌剤プルリフロキサシン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 2290,
     "other_brand": "エジュラント錠25mg",
     "interaction_type": "caution",
-    "source_text": "H\n2\n遮断剤\nファモチジン\nシメチジンニザチジンラニチジン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。これらの薬剤は、本剤投与の12時間以上前又は4時間以上後に投与すること。"
   },
   {
     "other_id": 3122,
     "other_brand": "オデフシィ配合錠",
     "interaction_type": "caution",
-    "source_text": "H\n2\n遮断剤\nファモチジン\nシメチジンニザチジンラニチジン"
+    "source_text": "リルピビリンの血中濃度が低下し、本剤の効果が減弱するおそれがある。これらの薬剤は、本剤投与の12時間以上前又は4時間以上後に投与すること。"
   },
   {
     "other_id": 6056,
     "other_brand": "ジャルカ配合錠",
     "interaction_type": "caution",
-    "source_text": "H\n2\n遮断剤ファモチジンシメチジンニザチジンラニチジン塩酸塩"
+    "source_text": "リルピビリンの血中濃度が低下し、本剤の効果が減弱するおそれがある。本剤はH\n2\n遮断剤投与の4時間以上前又は12時間以上後に投与すること。"
   },
   {
     "other_id": 9795,
     "other_brand": "ハイツエキシン錠10mg",
     "interaction_type": "caution",
-    "source_text": "H2受容体拮抗剤\nシメチジン\nファモチジン\nニザチジン等"
+    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
   }
 ]

@@ -3,1116 +3,1116 @@
     "other_id": 1449,
     "other_brand": "アーリーダ錠60mg",
     "interaction_type": "contraindicated",
-    "source_text": "レナカパビルナトリウム\nシュンレンカ\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nゲンボイヤ\nダルナビル エタノール付加物・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nシムツーザ\nビクテグラビルナトリウム・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nビクタルビ\nリルピビリン塩酸塩・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\nオデフシィ"
+    "source_text": "これらの薬剤の血中濃度が低下するため、作用が減弱し、これらの薬剤に対する耐性出現のおそれがある。"
   },
   {
     "other_id": 1523,
     "other_brand": "イクスタンジ錠40mg",
     "interaction_type": "contraindicated",
-    "source_text": "ドラビリン\n（ピフェルトロ）\nエンシトレルビル　フマル酸\n（ゾコーバ）\nレナカパビルナトリウム\n（シュンレンカ）\nニルマトレルビル・リトナビル\n（パキロビッド）\nエルビテグラビル・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（ゲンボイヤ）\nダルナビル エタノール付加物・コビシスタット\n（プレジコビックス）\nダルナビル エタノール付加物・コビシスタット・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（シムツーザ）\nドルテグラビルナトリウム・リルピビリン塩酸塩\n（ジャルカ）\nビクテグラビルナトリウム・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（ビクタルビ）\nリルピビリン\n（リカムビス）\nリルピビリン塩酸塩\n（エジュラント）\nリルピビリン塩酸塩・エムトリシタビン・テノホビル アラフェナミドフマル酸塩\n（オデフシィ）"
+    "source_text": "エンザルタミドの併用により、これらの抗ウイルス剤の作用を減弱させるおそれがある。"
   },
   {
     "other_id": 1651,
     "other_brand": "イトラコナゾールカプセル50mg「SW」",
     "interaction_type": "caution",
-    "source_text": "ダルナビル エタノール付加物・コビシスタット"
+    "source_text": "本剤、ダルナビル又はコビシスタットの血中濃度が上昇する可能性がある。必要に応じて本剤又はダルナビル エタノール付加物・コビシスタットの投与量を調節するなど用量に注意すること。"
   },
   {
     "other_id": 1652,
     "other_brand": "イトラコナゾール内用液1％「VTRS」",
     "interaction_type": "caution",
-    "source_text": "ダルナビル エタノール付加物・コビシスタット"
+    "source_text": "本剤、ダルナビル又はコビシスタットの血中濃度が上昇する可能性がある。必要に応じて本剤又はダルナビル エタノール付加物・コビシスタットの投与量を調節するなど用量に注意すること。"
   },
   {
     "other_id": 1653,
     "other_brand": "イトラコナゾール錠50mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "ダルナビル エタノール付加物・コビシスタット"
+    "source_text": "本剤、ダルナビル又はコビシスタットの血中濃度が上昇する可能性がある。必要に応じて本剤又はダルナビル エタノール付加物・コビシスタットの投与量を調節するなど用量に注意すること。"
   },
   {
     "other_id": 1655,
     "other_brand": "イトラコナゾール錠50mg「科研」",
     "interaction_type": "caution",
-    "source_text": "ダルナビル エタノール付加物・コビシスタット"
+    "source_text": "本剤、ダルナビル又はコビシスタットの血中濃度が上昇する可能性がある。必要に応じて本剤又はダルナビル エタノール付加物・コビシスタットの投与量を調節するなど用量に注意すること。"
   },
   {
     "other_id": 1656,
     "other_brand": "イトリゾールカプセル50",
     "interaction_type": "caution",
-    "source_text": "ダルナビル エタノール付加物・コビシスタット"
+    "source_text": "本剤、ダルナビル又はコビシスタットの血中濃度が上昇する可能性がある。必要に応じて本剤又はダルナビル エタノール付加物・コビシスタットの投与量を調節するなど用量に注意すること。"
   },
   {
     "other_id": 4447,
     "other_brand": "クラリスロマイシン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4448,
     "other_brand": "クラリスロマイシン錠200mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4449,
     "other_brand": "クラリスロマイシン錠200mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4450,
     "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4451,
     "other_brand": "クラリスロマイシン錠200㎎「大正」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4452,
     "other_brand": "クラリスロマイシン錠200mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4453,
     "other_brand": "クラリスロマイシン錠200mg「CH」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4454,
     "other_brand": "クラリスロマイシン錠200mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4455,
     "other_brand": "クラリスロマイシン錠200mg「NPI」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4456,
     "other_brand": "クラリスロマイシン錠200mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4463,
     "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4445,
     "other_brand": "クラリスロマイシン錠小児用50mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 4467,
     "other_brand": "クラリス錠200",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾール\nHIVプロテアーゼ阻害剤\n〔リトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物 等〕\n,"
+    "source_text": "本剤の未変化体の血中濃度上昇による作用の増強等の可能性がある。また、イトラコナゾールの併用においては、イトラコナゾールの血中濃度上昇に伴う作用の増強等の可能性がある。異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。"
   },
   {
     "other_id": 6829,
     "other_brand": "ソホノスカプセル1mg",
     "interaction_type": "contraindicated",
-    "source_text": "強いCYP3A阻害剤\nイトラコナゾール（イトリゾール）\nリトナビル含有製剤（ノービア、カレトラ、パキロビッド）\nクラリスロマイシン含有製剤（クラリシッド、クラリス、ボノサップ、ラベキュア）\nポサコナゾール（ノクサフィル）\nボリコナゾール（ブイフェンド）\nエンシトレルビル フマル酸（ゾコーバ）\nコビシスタット含有製剤（ゲンボイヤ、シムツーザ、プレジコビックス）\nセリチニブ（ジカディア）\nダルナビル エタノール付加物含有製剤（プリジスタ、シムツーザ、プレジコビックス）\nロナファルニブ（ゾキンヴィ）\nツカチニブ エタノール付加物（ツカイザ）\n,"
+    "source_text": "本剤の血中濃度が上昇し、副作用が強くあらわれるおそれがある。"
   },
   {
     "other_id": 6937,
     "other_brand": "ゾキンヴィカプセル50mg",
     "interaction_type": "contraindicated",
-    "source_text": "強いCYP3A阻害剤\nイトラコナゾール\n（イトリゾール）\nボリコナゾール\n（ブイフェンド）\nポサコナゾール\n（ノクサフィル）\nクラリスロマイシン含有製剤\n（クラリシッド、クラリス、ボノサップ、ラベキュア）\nリトナビル含有製剤\n（ノービア、パキロビッド、カレトラ）\nアタザナビル硫酸塩\n（レイアタッツ）\nダルナビル エタノール付加物\n（プリジスタ、プリジスタナイーブ）\nホスアンプレナビルカルシウム水和物\n（レクシヴァ）\nコビシスタット含有製剤\n（ゲンボイヤ、シムツーザ、プレジコビックス）\nセリチニブ\n（ジカディア）\nエンシトレルビル フマル酸\n（ゾコーバ）\n,"
+    "source_text": "本剤の副作用が増強するおそれがある。"
   },
   {
     "other_id": 8776,
     "other_brand": "トリアゾラム錠0.125mg「日医工」",
     "interaction_type": "contraindicated",
-    "source_text": "HIVプロテアーゼ阻害剤\nアタザナビル硫酸塩（レイアタッツ）\nダルナビル エタノール付加物（プリジスタ）\nホスアンプレナビルカルシウム水和物（レクシヴァ）\nリトナビル（ノービア）\nロピナビル・リトナビル（カレトラ）"
+    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
   },
   {
     "other_id": 8777,
     "other_brand": "トリアゾラム錠0.125mg「日新」",
     "interaction_type": "contraindicated",
-    "source_text": "HIVプロテアーゼ阻害剤\nアタザナビル硫酸塩（レイアタッツ）\nダルナビル エタノール付加物（プリジスタ）\nホスアンプレナビルカルシウム水和物（レクシヴァ）\nリトナビル（ノービア）\nロピナビル・リトナビル（カレトラ）"
+    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
   },
   {
     "other_id": 8778,
     "other_brand": "トリアゾラム錠0.125mg「CH」",
     "interaction_type": "contraindicated",
-    "source_text": "HIVプロテアーゼ阻害剤\nアタザナビル硫酸塩（レイアタッツ）\nダルナビル エタノール付加物（プリジスタ）\nホスアンプレナビルカルシウム水和物（レクシヴァ）\nリトナビル（ノービア）\nロピナビル・リトナビル（カレトラ）"
+    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
   },
   {
     "other_id": 8779,
     "other_brand": "トリアゾラム錠0.125mg「TCK」",
     "interaction_type": "contraindicated",
-    "source_text": "HIVプロテアーゼ阻害剤\nアタザナビル硫酸塩（レイアタッツ）\nダルナビル エタノール付加物（プリジスタ）\nホスアンプレナビルカルシウム水和物（レクシヴァ）\nリトナビル（ノービア）\nロピナビル・リトナビル（カレトラ）"
+    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
   },
   {
     "other_id": 9842,
     "other_brand": "ハルシオン0.125mg錠",
     "interaction_type": "contraindicated",
-    "source_text": "HIVプロテアーゼ阻害剤\nアタザナビル硫酸塩（レイアタッツ）\nダルナビル エタノール付加物（プリジスタ）\nホスアンプレナビルカルシウム水和物（レクシヴァ）\nリトナビル（ノービア）\nロピナビル・リトナビル（カレトラ）"
+    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
   },
   {
     "other_id": 10126,
     "other_brand": "パキロビッドパック600",
     "interaction_type": "caution",
-    "source_text": "その他のHIVプロテアーゼ阻害薬：\nダルナビル エタノール付加物等"
+    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 10127,
     "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
     "interaction_type": "caution",
-    "source_text": "その他のHIVプロテアーゼ阻害薬：\nダルナビル エタノール付加物等"
+    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 10181,
     "other_brand": "パルタンM注0.2mg",
     "interaction_type": "contraindicated",
-    "source_text": "HIVプロテアーゼ阻害剤\nリトナビル含有製剤\nノービア\nカレトラ\nダルナビル エタノール付加物含有製剤\nプリジスタ\nプレジコビックス\nシムツーザ\nアゾール系抗真菌薬\nイトラコナゾール\nイトリゾール\nボリコナゾール\nブイフェンド\nポサコナゾール\nノクサフィル\nコビシスタット含有製剤\nゲンボイヤ\nプレジコビックス\nシムツーザ\nニルマトレルビル・リトナビル\nパキロビッド\nレテルモビル\nプレバイミス\nエンシトレルビル　フマル酸\nゾコーバ\nレナカパビルナトリウム\nシュンレンカ\nロナファルニブ\nゾキンヴィ\nセリチニブ\nジカディア"
+    "source_text": "本剤の血中濃度が上昇し、血管攣縮等の重篤な副作用を起こすおそれがある。"
   },
   {
     "other_id": 10182,
     "other_brand": "パルタンM錠0.125mg",
     "interaction_type": "contraindicated",
-    "source_text": "HIVプロテアーゼ阻害剤\nリトナビル含有製剤\nノービア\nカレトラ\nダルナビル エタノール付加物含有製剤\nプリジスタ\nプレジコビックス\nシムツーザ\nアゾール系抗真菌薬\nイトラコナゾール\nイトリゾール\nボリコナゾール\nブイフェンド\nポサコナゾール\nノクサフィル\nコビシスタット含有製剤\nゲンボイヤ\nプレジコビックス\nシムツーザ\nニルマトレルビル・リトナビル\nパキロビッド\nレテルモビル\nプレバイミス\nエンシトレルビル　フマル酸\nゾコーバ\nレナカパビルナトリウム\nシュンレンカ\nロナファルニブ\nゾキンヴィ\nセリチニブ\nジカディア"
+    "source_text": "本剤の血中濃度が上昇し、血管攣縮等の重篤な副作用を起こすおそれがある。"
   },
   {
     "other_id": 11555,
     "other_brand": "フロリードゲル経口用2%",
     "interaction_type": "caution",
-    "source_text": "HIVプロテアーゼ阻害剤\nリトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物　等"
+    "source_text": "ミコナゾール又はこれらの薬剤の血中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 11559,
     "other_brand": "フロリードF注200mg",
     "interaction_type": "caution",
-    "source_text": "HIVプロテアーゼ阻害剤\nリトナビル\nロピナビル・リトナビル\nダルナビル エタノール付加物　等"
+    "source_text": "ミコナゾール又はこれらの薬剤の血中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 8564,
     "other_brand": "トチモトのシオン",
     "interaction_type": "contraindicated",
-    "source_text": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム"
+    "source_text": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
   },
   {
     "other_id": 11569,
     "other_brand": "ブコラム口腔用液2.5mg",
     "interaction_type": "contraindicated",
-    "source_text": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム"
+    "source_text": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
   },
   {
     "other_id": 13342,
     "other_brand": "ミダゾラム注10mg「サンド」",
     "interaction_type": "contraindicated",
-    "source_text": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム"
+    "source_text": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
   },
   {
     "other_id": 13343,
     "other_brand": "ミダフレッサ静注0.1％",
     "interaction_type": "contraindicated",
-    "source_text": "トリアゾラム\nハルシオン\nミダゾラム\nドルミカム\nミダフレッサ\nブコラム"
+    "source_text": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
   },
   {
     "other_id": 15184,
     "other_brand": "レスピア静注・経口液60mg",
     "interaction_type": "contraindicated",
-    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン\nジヒドロエルゴタミン\nジヒデルゴット\nエルゴメトリン\nメチルエルゴメトリン\nパルタンM"
+    "source_text": "これらの薬剤の血中濃度上昇により、末梢血管痙縮、虚血等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
   },
   {
     "other_id": 17260,
     "other_brand": "酒石酸「コザカイ・M」",
     "interaction_type": "contraindicated",
-    "source_text": "エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\nクリアミン\nジヒドロエルゴタミン\nジヒデルゴット\nエルゴメトリン\nメチルエルゴメトリン\nパルタンM"
+    "source_text": "これらの薬剤の血中濃度上昇により、末梢血管痙縮、虚血等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
   },
   {
     "other_id": 11682,
     "other_brand": "ブロナンセリン錠2mg「アメル」",
     "interaction_type": "contraindicated",
-    "source_text": "ブロナンセリン\nロナセン"
+    "source_text": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 11683,
     "other_brand": "ブロナンセリン錠2mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "ブロナンセリン\nロナセン"
+    "source_text": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 11684,
     "other_brand": "ブロナンセリン錠2mg「DSPB」",
     "interaction_type": "contraindicated",
-    "source_text": "ブロナンセリン\nロナセン"
+    "source_text": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 11689,
     "other_brand": "ブロナンセリン錠2mg「日医工」",
     "interaction_type": "contraindicated",
-    "source_text": "ブロナンセリン\nロナセン"
+    "source_text": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 15845,
     "other_brand": "ロナセンテープ20mg",
     "interaction_type": "contraindicated",
-    "source_text": "ブロナンセリン\nロナセン"
+    "source_text": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 15848,
     "other_brand": "ロナセン錠2mg",
     "interaction_type": "contraindicated",
-    "source_text": "ブロナンセリン\nロナセン"
+    "source_text": "ブロナンセリンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 5678,
     "other_brand": "シルデナフィル錠25mgVI「ANG」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7173,
     "other_brand": "タダラフィル錠10mgCI「あすか」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7174,
     "other_brand": "タダラフィル錠10mgCI「クラシエ」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7175,
     "other_brand": "タダラフィル錠10mgCI「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7176,
     "other_brand": "タダラフィル錠10mgCI「杏林」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7178,
     "other_brand": "タダラフィル錠10mgCI「GO」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7181,
     "other_brand": "タダラフィル錠10mgCI「VTRS」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7182,
     "other_brand": "タダラフィル錠2.5mgZA「あすか」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7183,
     "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7188,
     "other_brand": "タダラフィル錠2.5mgZA「日医工」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7189,
     "other_brand": "タダラフィル錠2.5mgZA「杏林」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7191,
     "other_brand": "タダラフィル錠20mgAD「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7192,
     "other_brand": "タダラフィル錠20mgAD「杏林」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7197,
     "other_brand": "タダラフィル錠20mgCI「あすか」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7202,
     "other_brand": "タダラフィル錠20mgCI「GO」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 7205,
     "other_brand": "タダラフィル錠20mgCI「VTRS」",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィル\nレバチオ\nタダラフィル\nアドシルカ"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある（シルデナフィルとリトナビルとの併用により、シルデナフィルのC\nmax\n及びAUCがそれぞれ3.9倍及び10.5倍に増加したとの報告がある）。"
   },
   {
     "other_id": 383,
     "other_brand": "アゼルニジピン錠8mg「ケミファ」",
     "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピン\nカルブロック\nアゼルニジピン・オルメサルタン メドキソミル\nレザルタス配合錠"
+    "source_text": "アゼルニジピンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 386,
     "other_brand": "アゼルニジピン錠8mg「日医工」",
     "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピン\nカルブロック\nアゼルニジピン・オルメサルタン メドキソミル\nレザルタス配合錠"
+    "source_text": "アゼルニジピンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 387,
     "other_brand": "アゼルニジピン錠8mg「BMD」",
     "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピン\nカルブロック\nアゼルニジピン・オルメサルタン メドキソミル\nレザルタス配合錠"
+    "source_text": "アゼルニジピンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 3841,
     "other_brand": "カルブロック錠8mg",
     "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピン\nカルブロック\nアゼルニジピン・オルメサルタン メドキソミル\nレザルタス配合錠"
+    "source_text": "アゼルニジピンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "contraindicated",
-    "source_text": "ルラシドン\nラツーダ"
+    "source_text": "ルラシドンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "ルラシドン\nラツーダ"
+    "source_text": "ルラシドンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "ルラシドン\nラツーダ"
+    "source_text": "ルラシドンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "contraindicated",
-    "source_text": "ルラシドン\nラツーダ"
+    "source_text": "ルラシドンの血中濃度が上昇し、作用が増強するおそれがある。"
   },
   {
     "other_id": 5058,
     "other_brand": "ケレンディア錠10mg",
     "interaction_type": "contraindicated",
-    "source_text": "フィネレノン\nケレンディア"
+    "source_text": "フィネレノンの血中濃度が著しく上昇するおそれがある。"
   },
   {
     "other_id": 1529,
     "other_brand": "イグザレルトドライシロップ小児用51.7mg",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 1531,
     "other_brand": "イグザレルト細粒分包10mg",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 1533,
     "other_brand": "イグザレルト錠10mg",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 1535,
     "other_brand": "イグザレルト錠2.5mg",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 1536,
     "other_brand": "イグザレルトOD錠10mg",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 14906,
     "other_brand": "リバーロキサバン錠10mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 14907,
     "other_brand": "リバーロキサバン錠10mg「バイエル」",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 14910,
     "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 14913,
     "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 14914,
     "other_brand": "リバーロキサバンOD錠10mg「日医工」",
     "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバン\nイグザレルト"
+    "source_text": "リバーロキサバンの血中濃度が上昇し、抗凝固作用が増強されることにより、出血の危険性が増大するおそれがある。"
   },
   {
     "other_id": 14937,
     "other_brand": "リファジンカプセル150mg",
     "interaction_type": "caution",
-    "source_text": "リファンピシン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "caution",
-    "source_text": "セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "caution",
-    "source_text": "セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "caution",
-    "source_text": "セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "caution",
-    "source_text": "セイヨウオトギリソウ（St. John’s Wort、セント・ジョーンズ・ワート）含有食品"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 1281,
     "other_brand": "アレビアチン散10％",
     "interaction_type": "caution",
-    "source_text": "フェノバルビタールフェニトイン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 1283,
     "other_brand": "アレビアチン錠25mg",
     "interaction_type": "caution",
-    "source_text": "フェノバルビタールフェニトイン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 10379,
     "other_brand": "ヒダントール錠25mg",
     "interaction_type": "caution",
-    "source_text": "フェノバルビタールフェニトイン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 11145,
     "other_brand": "フェノバルビタール「ホエイ」原末",
     "interaction_type": "caution",
-    "source_text": "フェノバルビタールフェニトイン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 11147,
     "other_brand": "フェノバール原末",
     "interaction_type": "caution",
-    "source_text": "フェノバルビタールフェニトイン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 11150,
     "other_brand": "フェノバール注射液100mg",
     "interaction_type": "caution",
-    "source_text": "フェノバルビタールフェニトイン"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがあるため、併用はなるべく避けること。"
   },
   {
     "other_id": 2946,
     "other_brand": "オイラゾンクリーム0.05％",
     "interaction_type": "caution",
-    "source_text": "デキサメタゾン（全身投与）"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。併用する場合には注意して投与すること。"
   },
   {
     "other_id": 8236,
     "other_brand": "デカドロン錠0.5mg",
     "interaction_type": "caution",
-    "source_text": "デキサメタゾン（全身投与）"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。併用する場合には注意して投与すること。"
   },
   {
     "other_id": 8238,
     "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
     "interaction_type": "caution",
-    "source_text": "デキサメタゾン（全身投与）"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。併用する場合には注意して投与すること。"
   },
   {
     "other_id": 8251,
     "other_brand": "デキサメタゾン軟膏口腔用0.1%「CH」",
     "interaction_type": "caution",
-    "source_text": "デキサメタゾン（全身投与）"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。併用する場合には注意して投与すること。"
   },
   {
     "other_id": 15217,
     "other_brand": "レナデックス錠2mg",
     "interaction_type": "caution",
-    "source_text": "デキサメタゾン（全身投与）"
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。併用する場合には注意して投与すること。"
   },
   {
     "other_id": 13336,
     "other_brand": "ミコブティンカプセル150mg",
     "interaction_type": "caution",
-    "source_text": "リファブチン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とリファブチン150 mg 2日1回を併用したとき、リファブチンの活性代謝物のAUCが9.8倍に増加した。併用する場合には必要に応じてリファブチンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5793,
     "other_brand": "シンバスタチン錠10mg「あすか」",
     "interaction_type": "caution",
-    "source_text": "シンバスタチンアトルバスタチン"
+    "source_text": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5795,
     "other_brand": "シンバスタチン錠5mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "シンバスタチンアトルバスタチン"
+    "source_text": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5797,
     "other_brand": "シンバスタチン錠5mg「SW」",
     "interaction_type": "caution",
-    "source_text": "シンバスタチンアトルバスタチン"
+    "source_text": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5798,
     "other_brand": "シンバスタチン錠5mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "シンバスタチンアトルバスタチン"
+    "source_text": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5805,
     "other_brand": "シンバスタチン錠5mg「あすか」",
     "interaction_type": "caution",
-    "source_text": "シンバスタチンアトルバスタチン"
+    "source_text": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 14972,
     "other_brand": "リポバス錠5",
     "interaction_type": "caution",
-    "source_text": "シンバスタチンアトルバスタチン"
+    "source_text": "これらの薬剤の血中濃度上昇により、横紋筋融解症が起こる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4439,
     "other_brand": "クラリシッド錠200mg",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4440,
     "other_brand": "クラリシッド錠50mg小児用",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4441,
     "other_brand": "クラリス錠50小児用",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4442,
     "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4443,
     "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4444,
     "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4458,
     "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4460,
     "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4461,
     "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
     "interaction_type": "caution",
-    "source_text": "クラリスロマイシン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とクラリスロマイシン500 mg 1日2回を併用したとき、クラリスロマイシンのAUCが57%増加した。併用する場合には必要に応じてクラリスロマイシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 3830,
     "other_brand": "カルバマゼピン錠100mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "カルバマゼピン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とカルバマゼピン200 mg 1日2回を併用したとき、カルバマゼピンのAUCが45%増加した。併用する場合には必要に応じてカルバマゼピンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 3831,
     "other_brand": "カルバマゼピン錠100mg「フジナガ」",
     "interaction_type": "caution",
-    "source_text": "カルバマゼピン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とカルバマゼピン200 mg 1日2回を併用したとき、カルバマゼピンのAUCが45%増加した。併用する場合には必要に応じてカルバマゼピンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7996,
     "other_brand": "テグレトール錠100mg",
     "interaction_type": "caution",
-    "source_text": "カルバマゼピン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とカルバマゼピン200 mg 1日2回を併用したとき、カルバマゼピンのAUCが45%増加した。併用する場合には必要に応じてカルバマゼピンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5678,
     "other_brand": "シルデナフィル錠25mgVI「ANG」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7173,
     "other_brand": "タダラフィル錠10mgCI「あすか」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7174,
     "other_brand": "タダラフィル錠10mgCI「クラシエ」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7175,
     "other_brand": "タダラフィル錠10mgCI「サワイ」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7176,
     "other_brand": "タダラフィル錠10mgCI「杏林」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7178,
     "other_brand": "タダラフィル錠10mgCI「GO」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7181,
     "other_brand": "タダラフィル錠10mgCI「VTRS」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7182,
     "other_brand": "タダラフィル錠2.5mgZA「あすか」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7183,
     "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7188,
     "other_brand": "タダラフィル錠2.5mgZA「日医工」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7189,
     "other_brand": "タダラフィル錠2.5mgZA「杏林」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7191,
     "other_brand": "タダラフィル錠20mgAD「サワイ」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7192,
     "other_brand": "タダラフィル錠20mgAD「杏林」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7197,
     "other_brand": "タダラフィル錠20mgCI「あすか」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7202,
     "other_brand": "タダラフィル錠20mgCI「GO」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7205,
     "other_brand": "タダラフィル錠20mgCI「VTRS」",
     "interaction_type": "caution",
-    "source_text": "シルデナフィル\nバイアグラ\nタダラフィル\nシアリス、ザルティア"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 4181,
     "other_brand": "キシロカインポンプスプレー8%",
     "interaction_type": "caution",
-    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 14784,
     "other_brand": "リドカインテープ18mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 14788,
     "other_brand": "リドカインポンプスプレー8％「日新」",
     "interaction_type": "caution",
-    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 14791,
     "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
     "interaction_type": "caution",
-    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 14797,
     "other_brand": "リドカイン塩酸塩注0.5％「日新」",
     "interaction_type": "caution",
-    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 14809,
     "other_brand": "リドカイン点滴静注液1％「タカタ」",
     "interaction_type": "caution",
-    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 14810,
     "other_brand": "リドカイン静注液2％「タカタ」",
     "interaction_type": "caution",
-    "source_text": "アミオダロンベプリジルリドカイン（全身投与）キニジン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5448,
     "other_brand": "サンディミュン点滴静注用250mg",
     "interaction_type": "caution",
-    "source_text": "シクロスポリンタクロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5556,
     "other_brand": "シクロスポリンカプセル10mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリンタクロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5558,
     "other_brand": "シクロスポリンカプセル10mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリンタクロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5559,
     "other_brand": "シクロスポリンカプセル10mg「BMD」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリンタクロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5564,
     "other_brand": "シクロスポリンカプセル10mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "シクロスポリンタクロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9639,
     "other_brand": "ネオーラル内用液10％",
     "interaction_type": "caution",
-    "source_text": "シクロスポリンタクロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 430,
     "other_brand": "アダラートCR錠10mg",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9512,
     "other_brand": "ニフェジピンカプセル5mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9514,
     "other_brand": "ニフェジピンカプセル5mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9517,
     "other_brand": "ニフェジピンCR錠10mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9522,
     "other_brand": "ニフェジピンCR錠10mg「ZE」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9535,
     "other_brand": "ニフェジピンL錠10mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9539,
     "other_brand": "ニフェジピンL錠10mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9540,
     "other_brand": "ニフェジピンL錠10mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 9541,
     "other_brand": "ニフェジピンL錠10mg「ZE」",
     "interaction_type": "caution",
-    "source_text": "Ca拮抗剤（フェロジピン、ニフェジピン、ニカルジピン等）"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 675,
     "other_brand": "アフィニトール分散錠2mg",
     "interaction_type": "caution",
-    "source_text": "ダサチニブエベロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 677,
     "other_brand": "アフィニトール錠2.5mg",
     "interaction_type": "caution",
-    "source_text": "ダサチニブエベロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5482,
     "other_brand": "サーティカン錠0.25mg",
     "interaction_type": "caution",
-    "source_text": "ダサチニブエベロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 7417,
     "other_brand": "ダサチニブ錠20mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ダサチニブエベロリムス"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 2823,
     "other_brand": "エリキュース錠2.5mg",
     "interaction_type": "caution",
-    "source_text": "アピキサバン"
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5942,
     "other_brand": "ジゴキシン錠0.0625「KYO」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とジゴキシン0.4 mg 1日1回を併用したとき、ジゴキシンのAUCが77%増加した。併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5943,
     "other_brand": "ジゴキシン錠0.125mg「AFP」",
     "interaction_type": "caution",
-    "source_text": "ジゴキシン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とジゴキシン0.4 mg 1日1回を併用したとき、ジゴキシンのAUCが77%増加した。併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5946,
     "other_brand": "ジゴシンエリキシル0.05mg／mL",
     "interaction_type": "caution",
-    "source_text": "ジゴキシン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とジゴキシン0.4 mg 1日1回を併用したとき、ジゴキシンのAUCが77%増加した。併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5947,
     "other_brand": "ジゴシン錠0.125mg",
     "interaction_type": "caution",
-    "source_text": "ジゴキシン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とジゴキシン0.4 mg 1日1回を併用したとき、ジゴキシンのAUCが77%増加した。併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5948,
     "other_brand": "ジゴシン注0.25mg",
     "interaction_type": "caution",
-    "source_text": "ジゴキシン"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とジゴキシン0.4 mg 1日1回を併用したとき、ジゴキシンのAUCが77%増加した。併用する場合には必要に応じてジゴキシンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 5258,
     "other_brand": "コルヒチン錠0.5mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "コルヒチン\n,\n,"
+    "source_text": "コルヒチンの血中濃度を上昇させる可能性がある（コルヒチンとリトナビルとの併用により、コルヒチンのAUCが196%増加したとの報告がある）。併用する場合には必要に応じてコルヒチンの投与量を減量するなど注意して投与すること。"
   },
   {
     "other_id": 2381,
     "other_brand": "エストラジオール錠0.5mg「F」",
     "interaction_type": "caution",
-    "source_text": "経口避妊剤\n（エチニルエストラジオール、ノルエチステロン等）"
+    "source_text": "本剤/リトナビル600/100mg 1日2回とエチニルエストラジオール/ノルエチステロン35 µg/1 mg 1日1回を併用したとき、エチニルエストラジオール及びノルエチステロンのAUCはそれぞれ44及び14%減少した。本剤を投与する場合は、別の避妊方法を行うことが望ましい。"
   },
   {
     "other_id": 6058,
     "other_brand": "ジュリナ錠0.5mg",
     "interaction_type": "caution",
-    "source_text": "経口避妊剤\n（エチニルエストラジオール、ノルエチステロン等）"
+    "source_text": "本剤/リトナビル600/100mg 1日2回とエチニルエストラジオール/ノルエチステロン35 µg/1 mg 1日1回を併用したとき、エチニルエストラジオール及びノルエチステロンのAUCはそれぞれ44及び14%減少した。本剤を投与する場合は、別の避妊方法を行うことが望ましい。"
   },
   {
     "other_id": 9682,
     "other_brand": "ノアルテン錠（5mg）",
     "interaction_type": "caution",
-    "source_text": "経口避妊剤\n（エチニルエストラジオール、ノルエチステロン等）"
+    "source_text": "本剤/リトナビル600/100mg 1日2回とエチニルエストラジオール/ノルエチステロン35 µg/1 mg 1日1回を併用したとき、エチニルエストラジオール及びノルエチステロンのAUCはそれぞれ44及び14%減少した。本剤を投与する場合は、別の避妊方法を行うことが望ましい。"
   },
   {
     "other_id": 12035,
     "other_brand": "プロセキソール錠0.5mg",
     "interaction_type": "caution",
-    "source_text": "経口避妊剤\n（エチニルエストラジオール、ノルエチステロン等）"
+    "source_text": "本剤/リトナビル600/100mg 1日2回とエチニルエストラジオール/ノルエチステロン35 µg/1 mg 1日1回を併用したとき、エチニルエストラジオール及びノルエチステロンのAUCはそれぞれ44及び14%減少した。本剤を投与する場合は、別の避妊方法を行うことが望ましい。"
   },
   {
     "other_id": 4980,
     "other_brand": "ケトコナゾールクリーム2％「イワキ」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 4982,
     "other_brand": "ケトコナゾールクリーム2％「MYK」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 4985,
     "other_brand": "ケトコナゾールローション2％「MYK」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 9469,
     "other_brand": "ニゾラールクリーム2%",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 9470,
     "other_brand": "ニゾラールローション2％",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 11562,
     "other_brand": "ブイフェンドドライシロップ2800mg",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 11563,
     "other_brand": "ブイフェンド錠50mg",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 11565,
     "other_brand": "ブイフェンド200mg静注用",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 12973,
     "other_brand": "ボリコナゾール錠50mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 12976,
     "other_brand": "ボリコナゾール錠50mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 12978,
     "other_brand": "ボリコナゾール錠50mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 12987,
     "other_brand": "ボリコナゾール顆粒20%「タカタ」",
     "interaction_type": "caution",
-    "source_text": "イトラコナゾールケトコナゾール\n注）\nボリコナゾール"
+    "source_text": "本剤又はこれらの薬剤の血中濃度が上昇する可能性がある。併用する場合には必要に応じて本剤又はこれらの薬剤の投与量を調節するなど注意して投与すること。"
   },
   {
     "other_id": 6785,
     "other_brand": "ゼフィックス錠100",
     "interaction_type": "caution",
-    "source_text": "ジドブジンエムトリシタビンラミブジンアバカビル"
+    "source_text": "これらの薬剤との相互作用を示さないと推察される。"
   },
   {
     "other_id": 10654,
     "other_brand": "ビラミューン錠200",
     "interaction_type": "caution",
-    "source_text": "ネビラピン"
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とネビラピン200 mg 1日2回を併用したとき、ネビラピンのAUCが27%増加した。本剤/リトナビルと併用する場合には、用量を調節する必要はない。"
   },
   {
     "other_id": 14619,
     "other_brand": "リカムビス水懸筋注600mg",
     "interaction_type": "caution",
-    "source_text": "リルピビリン"
+    "source_text": "ダルナビル/リトナビル800/100 mg 1日1回とリルピビリン150 mg 1日1回を併用したとき、リルピビリンのAUCが130%増加した。本剤/リトナビルとリルピビリンを併用する場合には、用量を調節する必要はない。"
   },
   {
     "other_id": 9761,
     "other_brand": "ノービア錠100mg",
     "interaction_type": "caution",
-    "source_text": "リトナビル\n,"
+    "source_text": "本剤600 mgとリトナビル100 mgをそれぞれ1日2回併用したとき、リトナビルにより本剤のAUCは14倍に増加した。本剤はリトナビル100 mgを併用投与することが推奨される。"
   },
   {
     "other_id": 5820,
     "other_brand": "シーエルセントリ錠150mg",
     "interaction_type": "caution",
-    "source_text": "マラビロク"
+    "source_text": "本剤/リトナビル600/100 mg 1日2回とマラビロク150 mg 1日2回を併用したとき、マラビロクのAUCが305%増加した。"
   },
   {
     "other_id": 15091,
     "other_brand": "ルプキネスカプセル7.9mg",
     "interaction_type": "contraindicated",
-    "source_text": "強いCYP3A4阻害作用を有する薬剤\nアゾール系抗真菌剤\nイトラコナゾール（イトリゾール）\nボリコナゾール（ブイフェンド）\nポサコナゾール（ノクサフィル）\nリトナビル含有製剤（ノービア、パキロビッド、カレトラ）\nアタザナビル硫酸塩（レイアタッツ）\nダルナビル エタノール付加物（プリジスタ、プリジスタナイーブ）\nホスアンプレナビルカルシウム水和物（レクシヴァ）\nコビシスタット含有製剤（ゲンボイヤ、プレジコビックス、シムツーザ）\nクラリスロマイシン含有製剤（クラリシッド、クラリス、ボノサップ、ラベキュア）\nセリチニブ（ジカディア）\nエンシトレルビル フマル酸（ゾコーバ）\n,"
+    "source_text": "代謝酵素の阻害により、本剤の作用が増強するおそれがある。"
   }
 ]

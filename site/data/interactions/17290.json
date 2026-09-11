@@ -3,1716 +3,1716 @@
     "other_id": 53,
     "other_brand": "アイセントレス錠400mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム\n,"
+    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
   },
   {
     "other_id": 54,
     "other_brand": "アイセントレス錠600mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤水酸化マグネシウム・水酸化アルミニウム炭酸カルシウム"
+    "source_text": "本剤投与後12時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤又は炭酸カルシウム含有制酸剤を併用した場合、本剤の血漿中濃度が低下し、本剤の有効性が減弱するおそれがある。"
   },
   {
     "other_id": 183,
     "other_brand": "アジスロマイシン小児用細粒10％「タカタ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 185,
     "other_brand": "アジスロマイシン細粒小児用10%「トーワ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 186,
     "other_brand": "アジスロマイシン錠250mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 187,
     "other_brand": "アジスロマイシン錠250mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 189,
     "other_brand": "アジスロマイシン錠250mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 188,
     "other_brand": "アジスロマイシン錠250mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 490,
     "other_brand": "アデムパス錠0.5mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム/水酸化マグネシウム合剤等"
+    "source_text": "水酸化アルミニウム/水酸化マグネシウム合剤との併用により本剤のAUCが34%減少し、Cmaxは56%低下した。制酸剤は本剤投与後1時間以上経過してから服用させること。"
   },
   {
     "other_id": 1190,
     "other_brand": "アルファカルシドールカプセル0.25μg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1191,
     "other_brand": "アルファカルシドールカプセル0.25μg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1197,
     "other_brand": "アルファカルシドールカプセル0.25μg「NIG」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1192,
     "other_brand": "アルファカルシドールカプセル0.25μg「フソー」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1194,
     "other_brand": "アルファカルシドールカプセル0.25μg「BMD」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1214,
     "other_brand": "アルファカルシドールカプセル3μg「BMD」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1215,
     "other_brand": "アルファカルシドール錠0.25μg「アメル」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 1218,
     "other_brand": "アルファロールカプセル0.25μg",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1221,
     "other_brand": "アルファロールカプセル3μg",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1222,
     "other_brand": "アルファロール内用液0.5μg／mL",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1223,
     "other_brand": "アルファロール散1μg／g",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症が起きたとの報告がある。"
   },
   {
     "other_id": 1270,
     "other_brand": "アレグラ錠30mg",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 1651,
     "other_brand": "イトラコナゾールカプセル50mg「SW」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n乾燥水酸化アルミニウムゲル乾燥水酸化アルミニウムゲル・水酸化マグネシウム等"
+    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
   },
   {
     "other_id": 1653,
     "other_brand": "イトラコナゾール錠50mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n乾燥水酸化アルミニウムゲル乾燥水酸化アルミニウムゲル・水酸化マグネシウム等"
+    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
   },
   {
     "other_id": 1655,
     "other_brand": "イトラコナゾール錠50mg「科研」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n乾燥水酸化アルミニウムゲル乾燥水酸化アルミニウムゲル・水酸化マグネシウム等"
+    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
   },
   {
     "other_id": 1656,
     "other_brand": "イトリゾールカプセル50",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n乾燥水酸化アルミニウムゲル乾燥水酸化アルミニウムゲル・水酸化マグネシウム等"
+    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
   },
   {
     "other_id": 1699,
     "other_brand": "イブトロジーカプセル200mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n炭酸カルシウム\n水酸化マグネシウム\n水酸化アルミニウム等"
+    "source_text": "本剤の有効性が減弱するおそれがあるため、併用する場合は、本剤との投与間隔を2時間以上あけて投与すること。"
   },
   {
     "other_id": 1960,
     "other_brand": "ウェイリズ錠400mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n炭酸カルシウム\n水酸化マグネシウム\n水酸化アルミニウム等"
+    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
   },
   {
     "other_id": 2208,
     "other_brand": "ウルソデオキシコール酸錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウムゲル合成ケイ酸アルミニウム水酸化アルミニウムゲル・水酸化マグネシウム"
+    "source_text": "本剤の作用を減弱するおそれがある。"
   },
   {
     "other_id": 2212,
     "other_brand": "ウルソデオキシコール酸錠100mg「ZE」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウムゲル合成ケイ酸アルミニウム水酸化アルミニウムゲル・水酸化マグネシウム"
+    "source_text": "本剤の作用を減弱するおそれがある。"
   },
   {
     "other_id": 2209,
     "other_brand": "ウルソデオキシコール酸錠50mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウムゲル合成ケイ酸アルミニウム水酸化アルミニウムゲル・水酸化マグネシウム"
+    "source_text": "本剤の作用を減弱するおそれがある。"
   },
   {
     "other_id": 2210,
     "other_brand": "ウルソデオキシコール酸錠50mg「JG」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウムゲル合成ケイ酸アルミニウム水酸化アルミニウムゲル・水酸化マグネシウム"
+    "source_text": "本剤の作用を減弱するおそれがある。"
   },
   {
     "other_id": 2211,
     "other_brand": "ウルソデオキシコール酸錠50mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウムゲル合成ケイ酸アルミニウム水酸化アルミニウムゲル・水酸化マグネシウム"
+    "source_text": "本剤の作用を減弱するおそれがある。"
   },
   {
     "other_id": 2217,
     "other_brand": "ウルソ錠50mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウムゲル合成ケイ酸アルミニウム水酸化アルミニウムゲル・水酸化マグネシウム"
+    "source_text": "本剤の作用を減弱するおそれがある。"
   },
   {
     "other_id": 2219,
     "other_brand": "ウルソ顆粒5%",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウムゲル合成ケイ酸アルミニウム水酸化アルミニウムゲル・水酸化マグネシウム"
+    "source_text": "本剤の作用を減弱するおそれがある。"
   },
   {
     "other_id": 2420,
     "other_brand": "エゼロス配合錠LD「サワイ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤：\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "ロスバスタチンとの併用によりロスバスタチンの血中濃度が約50%に低下することが報告されている。ロスバスタチン投与後2時間経過後に制酸剤を投与した場合には、ロスバスタチンの血中濃度は非併用時の約80%であったとの報告がある。"
   },
   {
     "other_id": 2421,
     "other_brand": "エゼロス配合錠LD「JG」",
     "interaction_type": "caution",
-    "source_text": "制酸剤：\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "ロスバスタチンとの併用によりロスバスタチンの血中濃度が約50%に低下することが報告されている。ロスバスタチン投与後2時間経過後に制酸剤を投与した場合には、ロスバスタチンの血中濃度は非併用時の約80%であったとの報告がある。"
   },
   {
     "other_id": 2532,
     "other_brand": "エディロールカプセル0.5μg",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 2534,
     "other_brand": "エディロール錠0.5μg",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 2776,
     "other_brand": "エプクルーサ配合錠",
     "interaction_type": "caution",
-    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+    "source_text": "ベルパタスビルの血漿中濃度が低下し、ベルパタスビルの効果が減弱するおそれがある。"
   },
   {
     "other_id": 2854,
     "other_brand": "エルデカルシトールカプセル0.5μg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 2855,
     "other_brand": "エルデカルシトールカプセル0.5μg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 2856,
     "other_brand": "エルデカルシトールカプセル0.5μg「日医工」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 2860,
     "other_brand": "エルデカルシトール錠0.5μg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 3113,
     "other_brand": "オゼックス細粒小児用15%",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル\n酸化マグネシウム\nクエン酸第一鉄ナトリウム\n沈降炭酸カルシウム\n等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 3115,
     "other_brand": "オゼックス錠75",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル\n酸化マグネシウム\nクエン酸第一鉄ナトリウム\n沈降炭酸カルシウム\n等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 3746,
     "other_brand": "カリエード散",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル水酸化マグネシウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 3751,
     "other_brand": "カリメートドライシロップ92.59%",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル水酸化マグネシウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 3752,
     "other_brand": "カリメート散",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル水酸化マグネシウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 3753,
     "other_brand": "カリメート経口液20%",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル水酸化マグネシウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 3759,
     "other_brand": "カルケンスカプセル100mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n炭酸カルシウム\n水酸化マグネシウム\n水酸化アルミニウム等"
+    "source_text": "本剤の効果が減弱するおそれがあるため、併用する場合は、投与間隔を2時間以上あけて投与すること。"
   },
   {
     "other_id": 3763,
     "other_brand": "カルシトリオールカプセル0.25μg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 3764,
     "other_brand": "カルシトリオールカプセル0.25μg「BMD」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 3766,
     "other_brand": "カルシトリオールカプセル0.25μg「NIG」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 3767,
     "other_brand": "カルシトリオールカプセル0.25μg「YD」",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム\n炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 3773,
     "other_brand": "カルシトリオール静注液0.5μg「F」",
     "interaction_type": "caution",
-    "source_text": "マグネシウム含有製剤\n酸化マグネシウム炭酸マグネシウム　等\n,"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 4117,
     "other_brand": "ガバペンシロップ5％",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n（水酸化アルミニウム、水酸化マグネシウム）"
+    "source_text": "同時に投与することにより、ガバペンチンの最高血漿中濃度（C\nmax\n）が17%及び血漿中濃度－時間曲線下面積（AUC）が20%低下した\n。制酸剤服用後少なくとも2時間以降に本剤を服用することが望ましい。"
   },
   {
     "other_id": 4118,
     "other_brand": "ガバペン錠200mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n（水酸化アルミニウム、水酸化マグネシウム）"
+    "source_text": "同時に投与することにより、ガバペンチンの最高血漿中濃度（C\nmax\n）が17%及び血漿中濃度－時間曲線下面積（AUC）が20%低下した\n。制酸剤服用後少なくとも2時間以降に本剤を服用することが望ましい。"
   },
   {
     "other_id": 4434,
     "other_brand": "クラビット錠250mg",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 4511,
     "other_brand": "クレストール錠2.5mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 4949,
     "other_brand": "グレースビット錠50mg",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、カルシウム剤、鉄剤\n乾燥水酸化アルミニウムゲル、酸化マグネシウム、乾燥硫酸鉄、沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与後2時間以上あけて投与する。"
   },
   {
     "other_id": 4963,
     "other_brand": "ケイキサレートドライシロップ 76%",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n,\n,\nケイ酸アルミニウム\n水酸化アルミニウムゲル・水酸化マグネシウム\nスクラルファート水和物\n沈降炭酸カルシウム等"
+    "source_text": "本剤の作用が減弱するおそれがある。併用により全身性アルカローシスなどの症状があらわれたとの報告がある。"
   },
   {
     "other_id": 4964,
     "other_brand": "ケイキサレート散",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n,\n,\nケイ酸アルミニウム\n水酸化アルミニウムゲル・水酸化マグネシウム\nスクラルファート水和物\n沈降炭酸カルシウム等"
+    "source_text": "本剤の作用が減弱するおそれがある。併用により全身性アルカローシスなどの症状があらわれたとの報告がある。"
   },
   {
     "other_id": 5268,
     "other_brand": "コロネル錠500mg",
     "interaction_type": "caution",
-    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\n等\nH\n2\n受容体拮抗剤\nファモチジン\nラニチジン\n等\n制酸剤\n水酸化アルミニウムゲル・水酸化マグネシウム\n乾燥水酸化アルミニウムゲル\n等"
+    "source_text": "本剤の作用が減弱するおそれがある。"
   },
   {
     "other_id": 5620,
     "other_brand": "シタフロキサシン錠50mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、カルシウム剤、鉄剤\n乾燥水酸化アルミニウムゲル、酸化マグネシウム、乾燥硫酸鉄、沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与後2時間以上あけて投与する。"
   },
   {
     "other_id": 5633,
     "other_brand": "シプロキサン錠100mg",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤等\nケイ酸アルミニウム、水酸化アルミニウムゲル・水酸化マグネシウム、スクラルファート水和物等\n鉄剤カルシウム含有製剤\nマグネシウム含有製剤"
+    "source_text": "本剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけるなど注意すること。"
   },
   {
     "other_id": 5943,
     "other_brand": "ジゴキシン錠0.125mg「AFP」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム水酸化マグネシウム 等"
+    "source_text": "本剤の作用を減弱することがある。"
   },
   {
     "other_id": 5946,
     "other_brand": "ジゴシンエリキシル0.05mg／mL",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム水酸化マグネシウム　等"
+    "source_text": "本剤の作用を減弱することがある。"
   },
   {
     "other_id": 5947,
     "other_brand": "ジゴシン錠0.125mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム水酸化マグネシウム　等"
+    "source_text": "本剤の作用を減弱することがある。"
   },
   {
     "other_id": 5954,
     "other_brand": "ジスロマックカプセル小児用100mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 5956,
     "other_brand": "ジスロマック細粒小児用10％",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 5957,
     "other_brand": "ジスロマック錠250mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 5958,
     "other_brand": "ジスロマック錠600mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化マグネシウム、水酸化アルミニウム）"
+    "source_text": "アジスロマイシンの最高血中濃度低下の報告がある\n。"
   },
   {
     "other_id": 6163,
     "other_brand": "スオード錠100",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤\n酸化マグネシウム等\n鉄剤\nクエン酸第一鉄ナトリウム等\nカルシウム含有製剤\n沈降炭酸カルシウム、L-アスパラギン酸カルシウム水和物等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤を投与する場合は、本剤投与後2時間以上あけるなど注意すること。"
   },
   {
     "other_id": 6331,
     "other_brand": "スプリセル錠20mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "本剤と制酸剤の同時投与は避けること。制酸剤の投与が必要な場合には，本剤投与の少なくとも2時間前又は2時間後に投与すること。"
   },
   {
     "other_id": 7147,
     "other_brand": "タケプロンカプセル15",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 7149,
     "other_brand": "タケプロン静注用30mg",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 7150,
     "other_brand": "タケプロンOD錠15",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 7152,
     "other_brand": "タケルダ配合錠",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 7417,
     "other_brand": "ダサチニブ錠20mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "本剤と制酸剤の同時投与は避けること。制酸剤の投与が必要な場合には，本剤投与の少なくとも2時間前又は2時間後に投与すること。"
   },
   {
     "other_id": 7418,
     "other_brand": "ダサチニブ錠20mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "本剤と制酸剤の同時投与は避けること。制酸剤の投与が必要な場合には，本剤投与の少なくとも2時間前又は2時間後に投与すること。"
   },
   {
     "other_id": 7419,
     "other_brand": "ダサチニブ錠20mg「BMSH」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "本剤と制酸剤の同時投与は避けること。制酸剤の投与が必要な場合には，本剤投与の少なくとも2時間前又は2時間後に投与すること。"
   },
   {
     "other_id": 7420,
     "other_brand": "ダサチニブ錠20mg「JG」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "本剤と制酸剤の同時投与は避けること。制酸剤の投与が必要な場合には，本剤投与の少なくとも2時間前又は2時間後に投与すること。"
   },
   {
     "other_id": 7421,
     "other_brand": "ダサチニブ錠20mg「NK」",
     "interaction_type": "caution",
-    "source_text": "制酸剤（水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "本剤と制酸剤の同時投与は避けること。制酸剤の投与が必要な場合には，本剤投与の少なくとも2時間前又は2時間後に投与すること。"
   },
   {
     "other_id": 8229,
     "other_brand": "ディレグラ配合錠",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "フェキソフェナジン塩酸塩の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 8475,
     "other_brand": "トスフロキサシントシル酸塩小児用細粒15%「明治」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル酸化マグネシウムクエン酸第一鉄ナトリウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 8476,
     "other_brand": "トスフロキサシントシル酸塩細粒小児用15％「タカタ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル酸化マグネシウムクエン酸第一鉄ナトリウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 8477,
     "other_brand": "トスフロキサシントシル酸塩細粒小児用15%「トーワ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル酸化マグネシウムクエン酸第一鉄ナトリウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 8478,
     "other_brand": "トスフロキサシントシル酸塩細粒小児用15％「TCK」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル酸化マグネシウムクエン酸第一鉄ナトリウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 8479,
     "other_brand": "トスフロキサシントシル酸塩錠75mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル\n酸化マグネシウム\nクエン酸第一鉄ナトリウム\n沈降炭酸カルシウム\n等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 8480,
     "other_brand": "トスフロキサシントシル酸塩錠75mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸剤、鉄剤、カルシウム含有製剤\n乾燥水酸化アルミニウムゲル\n酸化マグネシウム\nクエン酸第一鉄ナトリウム\n沈降炭酸カルシウム\n等"
+    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
   },
   {
     "other_id": 9756,
     "other_brand": "ノルフロキサシン錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウムを含有する製剤（制酸剤等）\nケイ酸アルミニウム\n水酸化アルミニウムゲル・水酸化マグネシウム\nスクラルファート水和物等\n鉄剤\nカルシウムを含有する製剤"
+    "source_text": "本剤の効果が減弱するおそれがある。\n本剤を服用後、2時間以上間隔をあけて制酸剤等を服用する等注意する。"
   },
   {
     "other_id": 9757,
     "other_brand": "ノルフロキサシン錠100mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウムを含有する製剤（制酸剤等）\nケイ酸アルミニウム\n水酸化アルミニウムゲル・水酸化マグネシウム\nスクラルファート水和物等\n鉄剤\nカルシウムを含有する製剤"
+    "source_text": "本剤の効果が減弱するおそれがある。\n本剤を服用後、2時間以上間隔をあけて制酸剤等を服用する等注意する。"
   },
   {
     "other_id": 9795,
     "other_brand": "ハイツエキシン錠10mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム\n水酸化マグネシウム\n沈降炭酸カルシウム等"
+    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
   },
   {
     "other_id": 5942,
     "other_brand": "ジゴキシン錠0.0625「KYO」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム水酸化マグネシウム　等"
+    "source_text": "本剤の作用を減弱することがある。"
   },
   {
     "other_id": 9885,
     "other_brand": "ハーボニー配合錠",
     "interaction_type": "caution",
-    "source_text": "制酸剤水酸化アルミニウム、水酸化マグネシウム等"
+    "source_text": "レジパスビルの血漿中濃度が低下し、レジパスビルの効果が減弱するおそれがある。"
   },
   {
     "other_id": 9901,
     "other_brand": "バクシダール錠100mg",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウムを含有する製剤（制酸剤等）\nケイ酸アルミニウム\n水酸化アルミニウムゲル・水酸化マグネシウム\nスクラルファート水和物等\n鉄剤\nカルシウムを含有する製剤"
+    "source_text": "本剤の効果が減弱するおそれがある。\n本剤を服用後、2時間以上間隔をあけて制酸剤等を服用する等注意する。"
   },
   {
     "other_id": 10173,
     "other_brand": "パリエット錠20mg",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 10172,
     "other_brand": "パリエット錠5mg",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 11087,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11089,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11090,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11091,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「ダイト」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11093,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11096,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「三和」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11097,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「日新」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11098,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「明治」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11099,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11100,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「BMD」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11102,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「JG」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11104,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「SANIK」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11105,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11107,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「ZE」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11129,
     "other_brand": "フェキソフェナジン塩酸塩DS5%「トーワ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11094,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11101,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「FFP」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11103,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「NP」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11106,
     "other_brand": "フェキソフェナジン塩酸塩錠30mg「YD」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤"
+    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11419,
     "other_brand": "フルスタン錠0.15",
     "interaction_type": "caution",
-    "source_text": "マグネシウム含有製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 11747,
     "other_brand": "プソフェキ配合錠「サワイ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "フェキソフェナジン塩酸塩の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 11748,
     "other_brand": "プソフェキ配合錠「SANIK」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウム・水酸化マグネシウム含有製剤）"
+    "source_text": "フェキソフェナジン塩酸塩の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
   },
   {
     "other_id": 12896,
     "other_brand": "ホーネル錠0.15",
     "interaction_type": "caution",
-    "source_text": "マグネシウム含有製剤\n〔酸化マグネシウム\n炭酸マグネシウム　等〕"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 13124,
     "other_brand": "ポリカルボフィルCa細粒83.3%「日医工」",
     "interaction_type": "caution",
-    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\n等\nH\n2\n受容体拮抗剤\nファモチジン\nラニチジン\n等\n制酸剤\n水酸化アルミニウムゲル・水酸化マグネシウム\n乾燥水酸化アルミニウムゲル\n等"
+    "source_text": "本剤の作用が減弱するおそれがある。"
   },
   {
     "other_id": 13125,
     "other_brand": "ポリスチレンスルホン酸Ca「フソー」原末",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル水酸化マグネシウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 13126,
     "other_brand": "ポリスチレンスルホン酸Ca散96.7％分包5.17g〈ハチ〉",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル水酸化マグネシウム沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 13127,
     "other_brand": "ポリスチレンスルホン酸Ca経口ゼリー20%分包25g「三和」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル\n水酸化マグネシウム\n沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 13128,
     "other_brand": "ポリスチレンスルホン酸Ca顆粒89.29%分包5.6g「三和」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n乾燥水酸化アルミニウムゲル\n水酸化マグネシウム\n沈降炭酸カルシウム等"
+    "source_text": "本剤の効果が減弱するおそれがある。"
   },
   {
     "other_id": 13129,
     "other_brand": "ポリスチレンスルホン酸Na「フソー」原末",
     "interaction_type": "caution",
-    "source_text": "アルミニウム、マグネシウム又はカルシウムを含有する制酸剤又は緩下剤\n,\n,\nケイ酸アルミニウム\n水酸化アルミニウムゲル・水酸化マグネシウム\nスクラルファート水和物\n沈降炭酸カルシウム等"
+    "source_text": "本剤の作用が減弱するおそれがある。併用により全身性アルカローシスなどの症状があらわれたとの報告がある。"
   },
   {
     "other_id": 13133,
     "other_brand": "ポリフル錠500mg",
     "interaction_type": "caution",
-    "source_text": "プロトンポンプ阻害剤\nオメプラゾール\nランソプラゾール\n等\nH\n2\n受容体拮抗剤\nファモチジン\nラニチジン\n等\n制酸剤\n水酸化アルミニウムゲル・水酸化マグネシウム\n乾燥水酸化アルミニウムゲル\n等"
+    "source_text": "本剤の作用が減弱するおそれがある。"
   },
   {
     "other_id": 13638,
     "other_brand": "メタルカプターゼカプセル200mg",
     "interaction_type": "caution",
-    "source_text": "マグネシウム又はアルミニウムを含有する制酸剤\n〔水酸化マグネシウム\n水酸化アルミニウム\n〕"
+    "source_text": "本剤の効果を減弱するおそれがあるので、やむを得ず投与する場合には、本剤との同時投与は避けること。"
   },
   {
     "other_id": 13637,
     "other_brand": "メタルカプターゼカプセル50mg",
     "interaction_type": "caution",
-    "source_text": "マグネシウム又はアルミニウムを含有する制酸剤\n〔水酸化マグネシウム\n水酸化アルミニウム\n〕"
+    "source_text": "本剤の効果を減弱するおそれがあるので、やむを得ず投与する場合には、本剤との同時投与は避けること。"
   },
   {
     "other_id": 13654,
     "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム水酸化マグネシウム　等"
+    "source_text": "本剤の作用を減弱することがあるので、併用する場合にはメチルジゴキシン及びジゴキシン合計の血中濃度をモニターするなど慎重に投与すること。"
   },
   {
     "other_id": 13764,
     "other_brand": "メフィーゴパック",
     "interaction_type": "caution",
-    "source_text": "マグネシウム含有制酸剤水酸化マグネシウム、酸化マグネシウム等"
+    "source_text": "ミソプロストール投与により、下痢が発現しやすくなる。"
   },
   {
     "other_id": 14423,
     "other_brand": "ラニラピッド錠0.05mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化アルミニウム水酸化マグネシウム　等"
+    "source_text": "本剤の作用を減弱することがあるので、併用する場合にはメチルジゴキシン及びジゴキシン合計の血中濃度をモニターするなど慎重に投与すること。"
   },
   {
     "other_id": 14457,
     "other_brand": "ラベプラゾールナトリウム錠10mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14458,
     "other_brand": "ラベプラゾールナトリウム錠10mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14459,
     "other_brand": "ラベプラゾールナトリウム錠10mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14462,
     "other_brand": "ラベプラゾールナトリウム錠20mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14464,
     "other_brand": "ラベプラゾールナトリウム錠20mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14465,
     "other_brand": "ラベプラゾールナトリウム錠20mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14466,
     "other_brand": "ラベプラゾールナトリウム錠20mg「科研」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14467,
     "other_brand": "ラベプラゾールナトリウム錠20mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14456,
     "other_brand": "ラベプラゾールナトリウム錠5mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14469,
     "other_brand": "ラベプラゾールナトリウム錠5mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14470,
     "other_brand": "ラベプラゾールナトリウム錠5mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14460,
     "other_brand": "ラベプラゾールナトリウム錠5mg「科研」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14461,
     "other_brand": "ラベプラゾールナトリウム錠5mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14473,
     "other_brand": "ラベプラゾールNa塩錠10mg「オーハラ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14478,
     "other_brand": "ラベプラゾールNa塩錠20mg「オーハラ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14482,
     "other_brand": "ラベプラゾールNa塩錠20mg「明治」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14474,
     "other_brand": "ラベプラゾールNa塩錠5mg「オーハラ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14477,
     "other_brand": "ラベプラゾールNa塩錠5mg「明治」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14497,
     "other_brand": "ラベプラゾールNa錠20mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14498,
     "other_brand": "ラベプラゾールNa錠20mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14499,
     "other_brand": "ラベプラゾールNa錠20mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14500,
     "other_brand": "ラベプラゾールNa錠20mg「日新」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14501,
     "other_brand": "ラベプラゾールNa錠20mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14502,
     "other_brand": "ラベプラゾールNa錠20mg「AA」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14503,
     "other_brand": "ラベプラゾールNa錠20mg「AFP」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14504,
     "other_brand": "ラベプラゾールNa錠20mg「JG」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14505,
     "other_brand": "ラベプラゾールNa錠20mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14506,
     "other_brand": "ラベプラゾールNa錠20mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14507,
     "other_brand": "ラベプラゾールNa錠20mg「YD」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14486,
     "other_brand": "ラベプラゾールNa錠5mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14487,
     "other_brand": "ラベプラゾールNa錠5mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14488,
     "other_brand": "ラベプラゾールNa錠5mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14489,
     "other_brand": "ラベプラゾールNa錠5mg「日新」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14490,
     "other_brand": "ラベプラゾールNa錠5mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14491,
     "other_brand": "ラベプラゾールNa錠5mg「AA」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14492,
     "other_brand": "ラベプラゾールNa錠5mg「AFP」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14493,
     "other_brand": "ラベプラゾールNa錠5mg「JG」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14494,
     "other_brand": "ラベプラゾールNa錠5mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14495,
     "other_brand": "ラベプラゾールNa錠5mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14496,
     "other_brand": "ラベプラゾールNa錠5mg「YD」",
     "interaction_type": "caution",
-    "source_text": "水酸化アルミニウムゲル・水酸化マグネシウム含有の制酸剤"
+    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
   },
   {
     "other_id": 14574,
     "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14575,
     "other_brand": "ランソプラゾールカプセル15mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14583,
     "other_brand": "ランソプラゾールOD錠15mg「DK」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14578,
     "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14579,
     "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14580,
     "other_brand": "ランソプラゾールOD錠15mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14582,
     "other_brand": "ランソプラゾールOD錠15mg「武田テバ」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14584,
     "other_brand": "ランソプラゾールOD錠15mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "酸化マグネシウム"
+    "source_text": "酸化マグネシウムの緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 15199,
     "other_brand": "レットヴィモカプセル40mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n炭酸カルシウム\n水酸化マグネシウム\n水酸化アルミニウム等"
+    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。やむを得ず併用する場合には、本剤と服用時間をずらすこと(制酸剤を本剤投与2時間前又は2時間後に投与したときの本剤の血中濃度への影響は限定的であった)。"
   },
   {
     "other_id": 15201,
     "other_brand": "レットヴィモ錠40mg",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n炭酸カルシウム\n水酸化マグネシウム\n水酸化アルミニウム等"
+    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。やむを得ず併用する場合には、本剤と服用時間をずらすこと(制酸剤を本剤投与2時間前又は2時間後に投与したときの本剤の血中濃度への影響は限定的であった)。"
   },
   {
     "other_id": 15417,
     "other_brand": "レボフロキサシン内用液250mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15450,
     "other_brand": "レボフロキサシン粒状錠250mg「モチダ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15453,
     "other_brand": "レボフロキサシン錠250mg「イワキ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15454,
     "other_brand": "レボフロキサシン錠250mg「クニヒロ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15455,
     "other_brand": "レボフロキサシン錠250mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15456,
     "other_brand": "レボフロキサシン錠250mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15457,
     "other_brand": "レボフロキサシン錠250mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15459,
     "other_brand": "レボフロキサシン錠250mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15460,
     "other_brand": "レボフロキサシン錠250mg「陽進」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15461,
     "other_brand": "レボフロキサシン錠250mg「CH」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15452,
     "other_brand": "レボフロキサシン錠250mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15463,
     "other_brand": "レボフロキサシン錠250mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15465,
     "other_brand": "レボフロキサシン錠250mg「ZE」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15458,
     "other_brand": "レボフロキサシン錠250mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウム含有の制酸薬等、鉄剤\n水酸化アルミニウム、酸化マグネシウム、硫酸鉄等"
+    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与から1～2時間後に投与する。"
   },
   {
     "other_id": 15550,
     "other_brand": "ロカルトロールカプセル0.25",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 15552,
     "other_brand": "ロカルトロール注0.5",
     "interaction_type": "caution",
-    "source_text": "マグネシウム含有製剤\n酸化マグネシウム炭酸マグネシウム　等\n,"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 15762,
     "other_brand": "ロスバスタチン錠2.5mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15765,
     "other_brand": "ロスバスタチン錠2.5mg「三和」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15766,
     "other_brand": "ロスバスタチン錠2.5mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15767,
     "other_brand": "ロスバスタチン錠2.5mg「日新」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15768,
     "other_brand": "ロスバスタチン錠2.5mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15772,
     "other_brand": "ロスバスタチン錠2.5mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15773,
     "other_brand": "ロスバスタチン錠2.5mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15758,
     "other_brand": "ロスバスタチン錠2.5mg「オーハラ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15759,
     "other_brand": "ロスバスタチン錠2.5mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15761,
     "other_brand": "ロスバスタチン錠2.5mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15757,
     "other_brand": "ロスバスタチン錠2.5mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15764,
     "other_brand": "ロスバスタチン錠2.5mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15801,
     "other_brand": "ロスバスタチンOD錠2.5mg「フェルゼン」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15802,
     "other_brand": "ロスバスタチンOD錠2.5mg「三和」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15803,
     "other_brand": "ロスバスタチンOD錠2.5mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15804,
     "other_brand": "ロスバスタチンOD錠2.5mg「明治」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15805,
     "other_brand": "ロスバスタチンOD錠2.5mg「科研」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15769,
     "other_brand": "ロスバスタチン錠2.5mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15770,
     "other_brand": "ロスバスタチン錠2.5mg「JG」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15771,
     "other_brand": "ロスバスタチン錠2.5mg「KMP」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15775,
     "other_brand": "ロスバスタチン錠2.5mg「YD」",
     "interaction_type": "caution",
-    "source_text": "制酸剤\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "本剤の血中濃度が約50%に低下することが報告されている。本剤投与後2時間経過後に制酸剤を投与した場合には、本剤の血中濃度は非併用時の約80%であった。"
   },
   {
     "other_id": 15825,
     "other_brand": "ロスーゼット配合錠LD",
     "interaction_type": "caution",
-    "source_text": "制酸剤：\n水酸化マグネシウム・水酸化アルミニウム"
+    "source_text": "ロスバスタチンとの併用によりロスバスタチンの血中濃度が約50%に低下することが報告されている。ロスバスタチン投与後2時間経過後に制酸剤を投与した場合には、ロスバスタチンの血中濃度は非併用時の約80%であったとの報告がある。"
   },
   {
     "other_id": 15985,
     "other_brand": "ワンアルファ錠0.25μg",
     "interaction_type": "caution",
-    "source_text": "マグネシウムを含有する製剤\n酸化マグネシウム、炭酸マグネシウム等"
+    "source_text": "高マグネシウム血症があらわれるおそれがある。"
   },
   {
     "other_id": 16329,
     "other_brand": "小児用バクシダール錠50mg",
     "interaction_type": "caution",
-    "source_text": "アルミニウム又はマグネシウムを含有する製剤（制酸剤等）\nケイ酸アルミニウム\n水酸化アルミニウムゲル・水酸化マグネシウム\nスクラルファー卜水和物等\n鉄剤\nカルシウムを含有する製剤"
+    "source_text": "本剤の効果が減弱するおそれがある。本剤を服用後、2時間以上間隔をあけて制酸剤等を服用する等注意する。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 5631,
     "other_brand": "シプロキサン注200mg",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 5637,
     "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 7408,
     "other_brand": "ダイドロネル錠200",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 15430,
     "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 15443,
     "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
     "interaction_type": "caution",
-    "source_text": "テトラサイクリン系抗生物質\n（テトラサイクリン、ミノサイクリン等）\nニューキノロン系抗菌剤\n（シプロフロキサシン、トスフロキサシン等）\nビスホスホン酸塩系骨代謝改善剤\n（エチドロン酸二ナトリウム、リセドロン酸ナトリウム等）\n抗ウイルス剤\n（ラルテグラビル、エルビテグラビル・コビシスタット・エムトリシタビン・テノホビル　ジソプロキシルフマル酸塩等）"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6543,
     "other_brand": "セフジニルカプセル50mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6544,
     "other_brand": "セフジニルカプセル50mg「JG」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6548,
     "other_brand": "セフジニル細粒小児用10%「JG」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6549,
     "other_brand": "セフジニル細粒小児用10％「SW」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6550,
     "other_brand": "セフジニル錠50mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6579,
     "other_brand": "セフポドキシムプロキセチル錠100mg「JG」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6580,
     "other_brand": "セフポドキシムプロキセチル錠100mg「SW」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6581,
     "other_brand": "セフポドキシムプロキセチルDS小児用5％「サワイ」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 9930,
     "other_brand": "バナンドライシロップ5%",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 9931,
     "other_brand": "バナン錠100mg",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 10119,
     "other_brand": "パオスクレー内痔核内注射用250mg",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 11154,
     "other_brand": "フェノール「コザカイ・M」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 11155,
     "other_brand": "フェノール「タイセイ」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 11156,
     "other_brand": "フェノール「東海」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 16703,
     "other_brand": "液状フェノール「タイセイ」",
     "interaction_type": "caution",
-    "source_text": "セフジニル\nセフポドキシム　プロキセチル\nミコフェノール酸モフェチル\nペニシラミン"
+    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
   },
   {
     "other_id": 6668,
     "other_brand": "セレコキシブ錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "アジスロマイシン\nセレコキシブ\nロスバスタチン\nラベプラゾール\nガバペンチン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 6670,
     "other_brand": "セレコキシブ錠100mg「ダイト」",
     "interaction_type": "caution",
-    "source_text": "アジスロマイシン\nセレコキシブ\nロスバスタチン\nラベプラゾール\nガバペンチン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 6675,
     "other_brand": "セレコキシブ錠100mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "アジスロマイシン\nセレコキシブ\nロスバスタチン\nラベプラゾール\nガバペンチン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 6676,
     "other_brand": "セレコキシブ錠100mg「日新」",
     "interaction_type": "caution",
-    "source_text": "アジスロマイシン\nセレコキシブ\nロスバスタチン\nラベプラゾール\nガバペンチン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 6677,
     "other_brand": "セレコキシブ錠100mg「明治」",
     "interaction_type": "caution",
-    "source_text": "アジスロマイシン\nセレコキシブ\nロスバスタチン\nラベプラゾール\nガバペンチン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 6678,
     "other_brand": "セレコキシブ錠100mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "アジスロマイシン\nセレコキシブ\nロスバスタチン\nラベプラゾール\nガバペンチン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 6683,
     "other_brand": "セレコキシブ錠100mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "アジスロマイシン\nセレコキシブ\nロスバスタチン\nラベプラゾール\nガバペンチン"
+    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
   },
   {
     "other_id": 5948,
     "other_brand": "ジゴシン注0.25mg",
     "interaction_type": "caution",
-    "source_text": "ジギタリス製剤\n（ジゴキシン、ジギトキシン等）\n鉄剤\nフェキソフェナジン"
+    "source_text": "これらの薬剤の吸収・排泄に影響を与えることがあるので、服用間隔をあけるなど注意すること。"
   },
   {
     "other_id": 16757,
     "other_brand": "炭酸リチウム錠100mg「フジナガ」",
     "interaction_type": "caution",
-    "source_text": "炭酸リチウム"
+    "source_text": "高マグネシウム血症を起こすおそれがある。"
   },
   {
     "other_id": 3224,
     "other_brand": "オメプラゾール錠10「SW」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 3225,
     "other_brand": "オメプラゾール錠10mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 3226,
     "other_brand": "オメプラゾール錠10mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 4084,
     "other_brand": "ガスター散10%",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 4086,
     "other_brand": "ガスター注射液10mg",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 4088,
     "other_brand": "ガスター錠10mg",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 4090,
     "other_brand": "ガスターD錠10mg",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10942,
     "other_brand": "ファモチジン錠10「サワイ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10948,
     "other_brand": "ファモチジン注射用10mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10956,
     "other_brand": "ファモチジン錠10mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10961,
     "other_brand": "ファモチジン錠10mg「日新」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10962,
     "other_brand": "ファモチジン錠10mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10963,
     "other_brand": "ファモチジン錠10mg「JG」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10964,
     "other_brand": "ファモチジン錠10mg「TBP」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10967,
     "other_brand": "ファモチジン錠10mg「ZE」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10982,
     "other_brand": "ファモチジン静注液10mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10983,
     "other_brand": "ファモチジン静注液10mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10986,
     "other_brand": "ファモチジン静注10mg「日新」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10987,
     "other_brand": "ファモチジン静注10mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10990,
     "other_brand": "ファモチジンD錠10mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10991,
     "other_brand": "ファモチジンD錠10mg「EMEC」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10995,
     "other_brand": "ファモチジンOD錠10mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 10999,
     "other_brand": "ファモチジンOD錠10mg「日新」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 11002,
     "other_brand": "ファモチジンOD錠10mg「Me」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 11005,
     "other_brand": "ファモチジンOD錠10mg「TBP」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 12049,
     "other_brand": "プロテカジン錠5",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 12051,
     "other_brand": "プロテカジンOD錠5",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14441,
     "other_brand": "ラフチジン錠5mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 14443,
     "other_brand": "ラフチジン錠5mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬\n（ファモチジン、ラニチジン、ラフチジン等）\nプロトンポンプインヒビター\n（オメプラゾール、ランソプラゾール、エソメプラゾール等）"
+    "source_text": "本剤の緩下作用が減弱するおそれがある。"
   },
   {
     "other_id": 5329,
     "other_brand": "サイトテック錠100",
     "interaction_type": "caution",
-    "source_text": "ミソプロストール"
+    "source_text": "下痢が発現しやすくなる。"
   }
 ]

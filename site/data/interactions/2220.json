@@ -3,36 +3,36 @@
     "other_id": 2833,
     "other_brand": "エリスロマイシン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "CYP3A4を阻害する薬剤\nエリスロマイシン等"
+    "source_text": "インダカテロールの血中濃度が上昇するおそれがある。エリスロマイシンとの併用投与によりインダカテロールのCmax及びAUCがそれぞれ1.2倍及び1.4～1.6倍に上昇したとの報告がある。"
   },
   {
     "other_id": 9761,
     "other_brand": "ノービア錠100mg",
     "interaction_type": "caution",
-    "source_text": "リトナビル"
+    "source_text": "インダカテロールのAUCが上昇するおそれがある。リトナビルとの併用投与によりインダカテロールのAUCが1.6～1.8倍に上昇したとの報告がある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "caution",
-    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+    "source_text": "低カリウム血症による心血管事象（不整脈）を起こすおそれがあるため、血清カリウム値に注意すること。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "caution",
-    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+    "source_text": "低カリウム血症による心血管事象（不整脈）を起こすおそれがあるため、血清カリウム値に注意すること。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "caution",
-    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+    "source_text": "低カリウム血症による心血管事象（不整脈）を起こすおそれがあるため、血清カリウム値に注意すること。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "caution",
-    "source_text": "キサンチン誘導体\nステロイド剤\n利尿剤\nサイアザイド系利尿剤\nサイアザイド系類似利尿剤\nループ利尿剤"
+    "source_text": "低カリウム血症による心血管事象（不整脈）を起こすおそれがあるため、血清カリウム値に注意すること。"
   }
 ]

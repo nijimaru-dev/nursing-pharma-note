@@ -3,78 +3,78 @@
     "other_id": 3761,
     "other_brand": "カルコーパ配合錠L100",
     "interaction_type": "caution",
-    "source_text": "スピラマイシン"
+    "source_text": "レボドパの血中濃度が低下し、本剤の作用が減弱するおそれがある。"
   },
   {
     "other_id": 6200,
     "other_brand": "スタレボ配合錠L50",
     "interaction_type": "caution",
-    "source_text": "スピラマイシン"
+    "source_text": "レボドパの血中濃度が低下し、本剤の作用が減弱するおそれがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "caution",
-    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA及びクラスIII抗不整脈薬\nキニジン\nジソピラミド\nアミオダロン\nソタロール等\nスルトプリド等"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "caution",
-    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA及びクラスIII抗不整脈薬\nキニジン\nジソピラミド\nアミオダロン\nソタロール等\nスルトプリド等"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "caution",
-    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA及びクラスIII抗不整脈薬\nキニジン\nジソピラミド\nアミオダロン\nソタロール等\nスルトプリド等"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "caution",
-    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA及びクラスIII抗不整脈薬\nキニジン\nジソピラミド\nアミオダロン\nソタロール等\nスルトプリド等"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 14730,
     "other_brand": "リスモダンカプセル100mg",
     "interaction_type": "caution",
-    "source_text": "QT延長を起こすことが知られている薬剤\nクラスIA及びクラスIII抗不整脈薬\nキニジン\nジソピラミド\nアミオダロン\nソタロール等\nスルトプリド等"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 9097,
     "other_brand": "ドパストンカプセル250mg",
     "interaction_type": "caution",
-    "source_text": "レボドパ/カルビドパ配合剤"
+    "source_text": "レボドパの血中濃度を低下させ、作用を減弱させる。本剤と併用する場合には、患者の状態を十分観察し、必要に応じてレボドパの投与量を調整すること。"
   },
   {
     "other_id": 9099,
     "other_brand": "ドパストン静注25mg",
     "interaction_type": "caution",
-    "source_text": "レボドパ/カルビドパ配合剤"
+    "source_text": "レボドパの血中濃度を低下させ、作用を減弱させる。本剤と併用する場合には、患者の状態を十分観察し、必要に応じてレボドパの投与量を調整すること。"
   },
   {
     "other_id": 9101,
     "other_brand": "ドパゾール錠200mg",
     "interaction_type": "caution",
-    "source_text": "レボドパ/カルビドパ配合剤"
+    "source_text": "レボドパの血中濃度を低下させ、作用を減弱させる。本剤と併用する場合には、患者の状態を十分観察し、必要に応じてレボドパの投与量を調整すること。"
   },
   {
     "other_id": 8321,
     "other_brand": "デュオドーパ配合経腸用液",
     "interaction_type": "caution",
-    "source_text": "スピラマイシン"
+    "source_text": "レボドパの血中濃度が低下し、本剤の作用が減弱するおそれがある。"
   },
   {
     "other_id": 9094,
     "other_brand": "ドパコール配合錠L50",
     "interaction_type": "caution",
-    "source_text": "スピラマイシン"
+    "source_text": "レボドパの血中濃度が低下し、本剤の作用が減弱するおそれがある。"
   },
   {
     "other_id": 9614,
     "other_brand": "ネオドパストン配合錠L100",
     "interaction_type": "caution",
-    "source_text": "スピラマイシン"
+    "source_text": "レボドパの血中濃度が低下し、本剤の作用が減弱するおそれがある。"
   }
 ]

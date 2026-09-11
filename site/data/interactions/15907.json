@@ -3,48 +3,48 @@
     "other_id": 4271,
     "other_brand": "ギブラーリ皮下注189mg",
     "interaction_type": "caution",
-    "source_text": "CYP2D6の基質となる薬剤ロラタジン、パロキセチン、アミトリプチリン等"
+    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 6811,
     "other_brand": "ゼンフォザイム点滴静注用20mg",
     "interaction_type": "caution",
-    "source_text": "カチオン性両親媒性抗ヒスタミン薬\nロラタジン\nデスロラタジン\nエバスチン\nクレマスチン等"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 2833,
     "other_brand": "エリスロマイシン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "エリスロマイシン、シメチジン"
+    "source_text": "ロラタジン及びDCLの血漿中濃度の上昇が認められるので、患者の状態を十分に観察するなど注意すること。"
   },
   {
     "other_id": 5656,
     "other_brand": "シメチジン注射液200mg「SW」",
     "interaction_type": "caution",
-    "source_text": "エリスロマイシン、シメチジン"
+    "source_text": "ロラタジン及びDCLの血漿中濃度の上昇が認められるので、患者の状態を十分に観察するなど注意すること。"
   },
   {
     "other_id": 5658,
     "other_brand": "シメチジン錠200mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "エリスロマイシン、シメチジン"
+    "source_text": "ロラタジン及びDCLの血漿中濃度の上昇が認められるので、患者の状態を十分に観察するなど注意すること。"
   },
   {
     "other_id": 5660,
     "other_brand": "シメチジン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "エリスロマイシン、シメチジン"
+    "source_text": "ロラタジン及びDCLの血漿中濃度の上昇が認められるので、患者の状態を十分に観察するなど注意すること。"
   },
   {
     "other_id": 7103,
     "other_brand": "タガメット注射液200mg",
     "interaction_type": "caution",
-    "source_text": "エリスロマイシン、シメチジン"
+    "source_text": "ロラタジン及びDCLの血漿中濃度の上昇が認められるので、患者の状態を十分に観察するなど注意すること。"
   },
   {
     "other_id": 7104,
     "other_brand": "タガメット錠200mg",
     "interaction_type": "caution",
-    "source_text": "エリスロマイシン、シメチジン"
+    "source_text": "ロラタジン及びDCLの血漿中濃度の上昇が認められるので、患者の状態を十分に観察するなど注意すること。"
   }
 ]

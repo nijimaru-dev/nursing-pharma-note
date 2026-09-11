@@ -3,1116 +3,1116 @@
     "other_id": 57,
     "other_brand": "アイトロール錠10㎎",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 490,
     "other_brand": "アデムパス錠0.5mg",
     "interaction_type": "contraindicated",
-    "source_text": "PDE5阻害剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nタダラフィル含有製剤（シアリス、アドシルカ、ザルティア、ユバンシ）\nバルデナフィル塩酸塩水和物\n,"
+    "source_text": "症候性低血圧を起こすことがある。"
   },
   {
     "other_id": 767,
     "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ\nシルデナフィルクエン酸塩（勃起不全を効能又は効果とするもの）\nバイアグラ"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 769,
     "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ\nシルデナフィルクエン酸塩（勃起不全を効能又は効果とするもの）\nバイアグラ"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 770,
     "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ\nシルデナフィルクエン酸塩（勃起不全を効能又は効果とするもの）\nバイアグラ"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 771,
     "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ\nシルデナフィルクエン酸塩（勃起不全を効能又は効果とするもの）\nバイアグラ"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 783,
     "other_brand": "アミサリン注100mg",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩（経口剤）\nアベロックス\nバルデナフィル塩酸塩水和物\nレビトラ\nアミオダロン塩酸塩（注射剤）\nアンカロン注\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
   },
   {
     "other_id": 785,
     "other_brand": "アミサリン錠125mg",
     "interaction_type": "contraindicated",
-    "source_text": "モキシフロキサシン塩酸塩（経口剤）\nアベロックス\nバルデナフィル塩酸塩水和物\nレビトラ\nアミオダロン塩酸塩（注射剤）\nアンカロン注\nトレミフェンクエン酸塩\nフェアストン"
+    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
   },
   {
     "other_id": 1371,
     "other_brand": "アンカロン錠100",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ\nシルデナフィルクエン酸塩（勃起不全を効能又は効果とするもの）\nバイアグラ"
+    "source_text": "QT延長を起こすおそれがある。"
   },
   {
     "other_id": 2768,
     "other_brand": "エブランチルカプセル15mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 2829,
     "other_brand": "エリスロシン点滴静注用500mg",
     "interaction_type": "caution",
-    "source_text": "ブロモクリプチンメシル酸塩\nドセタキセル水和物\nパクリタキセル\nセレギリン塩酸塩\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\nタダラフィル\nシロスタゾール"
+    "source_text": "減量するなど慎重に投与すること。"
   },
   {
     "other_id": 2830,
     "other_brand": "エリスロシン錠100mg",
     "interaction_type": "caution",
-    "source_text": "ブロモクリプチンメシル酸塩\nドセタキセル水和物\nパクリタキセル\nセレギリン塩酸塩\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\nタダラフィル\nシロスタゾール"
+    "source_text": "減量するなど慎重に投与すること。"
   },
   {
     "other_id": 2827,
     "other_brand": "エリスロシンドライシロップ10％",
     "interaction_type": "caution",
-    "source_text": "ブロモクリプチンメシル酸塩\nドセタキセル水和物\nパクリタキセル\nセレギリン塩酸塩\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\nタダラフィル\nシロスタゾール"
+    "source_text": "減量するなど慎重に投与すること。"
   },
   {
     "other_id": 2833,
     "other_brand": "エリスロマイシン錠200mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ブロモクリプチンメシル酸塩ドセタキセル水和物パクリタキセルセレギリン塩酸塩シルデナフィルクエン酸塩バルデナフィル塩酸塩水和物タダラフィルシロスタゾール"
+    "source_text": "減量するなど慎重に投与すること。"
   },
   {
     "other_id": 3803,
     "other_brand": "カルデナリン錠0.5mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n,\n。"
   },
   {
     "other_id": 3941,
     "other_brand": "カレトラ配合内用液",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n［レビトラ］\nシルデナフィルクエン酸塩\n［レバチオ］\nタダラフィル\n［アドシルカ］"
+    "source_text": "低血圧などの重篤な又は生命に危険を及ぼすような事象を起こすおそれがある。"
   },
   {
     "other_id": 3942,
     "other_brand": "カレトラ配合錠",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n［レビトラ］\nシルデナフィルクエン酸塩\n［レバチオ］\nタダラフィル\n［アドシルカ］"
+    "source_text": "低血圧などの重篤な又は生命に危険を及ぼすような事象を起こすおそれがある。"
   },
   {
     "other_id": 4206,
     "other_brand": "キニジン硫酸塩「VTRS」原末",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物"
+    "source_text": "QT延長等があらわれるおそれがある。"
   },
   {
     "other_id": 5096,
     "other_brand": "ゲンボイヤ配合錠",
     "interaction_type": "contraindicated",
-    "source_text": "シルデナフィルクエン酸塩（レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（アドシルカ）"
+    "source_text": "これら薬剤の血中濃度が上昇し，視覚障害，低血圧，持続勃起及び失神等の有害事象が起こる可能性がある。"
   },
   {
     "other_id": 5589,
     "other_brand": "シグマート注2mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤シルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用が増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 5592,
     "other_brand": "シグマート錠2.5mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤シルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用が増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 5641,
     "other_brand": "シベノール錠50mg",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩\n（アベロックス）\nラスクフロキサシン塩酸塩（注射剤）\n（ラスビック点滴静注）\nトレミフェンクエン酸塩\n（フェアストン）\nフィンゴリモド塩酸塩\n（イムセラ、ジレニア）\nシポニモド フマル酸\n（メーゼント）\nエリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5643,
     "other_brand": "シベノール静注70mg",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩\n（アベロックス）\nラスクフロキサシン塩酸塩（注射剤）\n（ラスビック点滴静注）\nトレミフェンクエン酸塩\n（フェアストン）\nフィンゴリモド塩酸塩\n（イムセラ、ジレニア）\nシポニモド　フマル酸\n（メーゼント）\nエリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5645,
     "other_brand": "シベンゾリンコハク酸塩錠50mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩（アベロックス）ラスクフロキサシン塩酸塩（注射剤）（ラスビック点滴静注）トレミフェンクエン酸塩（フェアストン）フィンゴリモド塩酸塩（イムセラ、ジレニア）シポニモド フマル酸（メーゼント）エリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5646,
     "other_brand": "シベンゾリンコハク酸塩錠50mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\n（レビトラ）\nモキシフロキサシン塩酸塩（アベロックス）ラスクフロキサシン塩酸塩（注射剤）（ラスビック点滴静注）トレミフェンクエン酸塩（フェアストン）フィンゴリモド塩酸塩（イムセラ、ジレニア）シポニモド フマル酸（メーゼント）エリグルスタット酒石酸塩\n（サデルガ）"
+    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
   },
   {
     "other_id": 5741,
     "other_brand": "シロドシン錠2mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5752,
     "other_brand": "シロドシン錠4mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5747,
     "other_brand": "シロドシン錠2mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5740,
     "other_brand": "シロドシン錠2mg「オーハラ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5760,
     "other_brand": "シロドシンOD錠2mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5762,
     "other_brand": "シロドシンOD錠2mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5763,
     "other_brand": "シロドシンOD錠2mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5742,
     "other_brand": "シロドシン錠2mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5765,
     "other_brand": "シロドシンOD錠2mg「日新」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5766,
     "other_brand": "シロドシンOD錠2mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5743,
     "other_brand": "シロドシン錠2mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5744,
     "other_brand": "シロドシン錠2mg「JG」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5745,
     "other_brand": "シロドシン錠2mg「KMP」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5771,
     "other_brand": "シロドシンOD錠2mg「Me」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5748,
     "other_brand": "シロドシン錠2mg「YD」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 5812,
     "other_brand": "シンビット静注用50mg",
     "interaction_type": "caution",
-    "source_text": "バルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩\nトレミフェンクエン酸塩"
+    "source_text": "本剤の作用が増強するおそれがある。"
   },
   {
     "other_id": 5880,
     "other_brand": "ジカディア錠150mg",
     "interaction_type": "contraindicated",
-    "source_text": "アナモレリン塩酸塩\n（エドルミズ）\nボクロスポリン\n（ルプキネス）\nイバブラジン塩酸塩\n（コララン）\nキニジン硫酸塩水和物\nチカグレロル\n（ブリリンタ）\nマバカムテン\n（カムザイオス）\nアゼルニジピン\n（カルブロック）\nオルメサルタン メドキソミル・アゼルニジピン\n（レザルタス配合錠）\nエプレレノン\n（セララ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n（クリアミン配合錠）\nシンバスタチン\n（リポバス）\nタダラフィル\n（アドシルカ）\nマシテンタン・タダラフィル\n（ユバンシ配合錠）\nフィネレノン\n（ケレンディア）\nロミタピドメシル酸塩\n（ジャクスタピッド）\nスボレキサント\n（ベルソムラ）\nダリドレキサント塩酸塩\n（クービビック）\nトリアゾラム\n（ハルシオン）\nブロナンセリン\n（ロナセン）\nボルノレキサント水和物\n（ボルズィ）\nルラシドン塩酸塩\n（ラツーダ）\nバルデナフィル塩酸塩水和物\nメチルエルゴメトリンマレイン酸塩\n（パルタンM）\nロナファルニブ\n（ゾキンヴィ）\nイブルチニブ\n（イムブルビカ）"
+    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
   },
   {
     "other_id": 5962,
     "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ"
+    "source_text": "QT延長を起こすことがある。"
   },
   {
     "other_id": 5963,
     "other_brand": "ジソピラミド徐放錠150mg「SW」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ"
+    "source_text": "QT延長を起こすことがある。"
   },
   {
     "other_id": 5964,
     "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ"
+    "source_text": "QT延長を起こすことがある。"
   },
   {
     "other_id": 6820,
     "other_brand": "ソタコール錠40mg",
     "interaction_type": "contraindicated",
-    "source_text": "アミオダロン塩酸塩（注射）（アンカロン注）\nバルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩（アベロックス）\nトレミフェンクエン酸塩（フェアストン）\nフィンゴリモド塩酸塩（イムセラ、ジレニア）\nラスクフロキサシン塩酸塩（注射）（ラスビック）"
+    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
   },
   {
     "other_id": 6822,
     "other_brand": "ソタロール塩酸塩錠40mg「TE」",
     "interaction_type": "contraindicated",
-    "source_text": "アミオダロン塩酸塩（注射）（アンカロン注）\nバルデナフィル塩酸塩水和物\nモキシフロキサシン塩酸塩（アベロックス）\nトレミフェンクエン酸塩（フェアストン）\nフィンゴリモド塩酸塩（イムセラ、ジレニア）\nラスクフロキサシン塩酸塩（注射）（ラスビック）"
+    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
   },
   {
     "other_id": 6937,
     "other_brand": "ゾキンヴィカプセル50mg",
     "interaction_type": "contraindicated",
-    "source_text": "タダラフィル\n（アドシルカ）\nバルデナフィル塩酸塩水和物"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある。"
   },
   {
     "other_id": 6939,
     "other_brand": "ゾコーバ錠25mg",
     "interaction_type": "contraindicated",
-    "source_text": "タダラフィル\n（アドシルカ）\nマシテンタン・タダラフィル\n（ユバンシ配合錠）\nバルデナフィル塩酸塩水和物\n（レビトラ）"
+    "source_text": "これらの薬剤の血中濃度を上昇させるおそれがある。"
   },
   {
     "other_id": 7260,
     "other_brand": "タムスロシン塩酸塩カプセル0.1mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7262,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「あすか」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7263,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7265,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7266,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7267,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7268,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「日新」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7269,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「明治」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7270,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「CH」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7271,
     "other_brand": "タムスロシン塩酸塩OD錠0.1mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 7617,
     "other_brand": "ツカイザ錠50mg",
     "interaction_type": "contraindicated",
-    "source_text": "アナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nイバブラジン塩酸塩（コララン）\nキニジン硫酸塩水和物\nチカグレロル（ブリリンタ）\nマバカムテン（カムザイオス）\nアゼルニジピン（カルブロック）\nオルメサルタン　メドキソミル・アゼルニジピン（レザルタス配合錠）\nエプレレノン（セララ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン配合錠）\nシンバスタチン（リポバス）\nタダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ配合錠）\nフィネレノン（ケレンディア）\nロミタピドメシル酸塩（ジャクスタピッド）\nスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nトリアゾラム（ハルシオン）\nブロナンセリン（ロナセン）\nボルノレキサント水和物（ボルズィ）\nルラシドン塩酸塩（ラツーダ）\nバルデナフィル塩酸塩水和物\nメチルエルゴメトリンマレイン酸塩（パルタンM）\nロナファルニブ（ゾキンヴィ）\nイブルチニブ（イムブルビカ）\nパロバロテン（ソホノス）"
+    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
   },
   {
     "other_id": 8280,
     "other_brand": "デタントール錠0.5mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物\nシルデナフィルクエン酸塩等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 8283,
     "other_brand": "デタントールR錠3mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物\nシルデナフィルクエン酸塩等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 8711,
     "other_brand": "トラクリア小児用分散錠32mg",
     "interaction_type": "caution",
-    "source_text": "PDE5阻害薬（シルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物、タダラフィル）"
+    "source_text": "（1）血圧低下を助長するおそれがある。（2）PDE5阻害薬の血中濃度が低下する可能性がある。（3）シルデナフィルの血中濃度が低下し、本剤の血中濃度が上昇する。"
   },
   {
     "other_id": 8712,
     "other_brand": "トラクリア錠62.5mg",
     "interaction_type": "caution",
-    "source_text": "PDE5阻害薬（シルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物、タダラフィル）"
+    "source_text": "（1）血圧低下を助長するおそれがある。（2）PDE5阻害薬の血中濃度が低下する可能性がある。（3）シルデナフィルの血中濃度が低下し、本剤の血中濃度が上昇する。"
   },
   {
     "other_id": 8928,
     "other_brand": "ドキサゾシン錠1mg「YD」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8904,
     "other_brand": "ドキサゾシン錠0.5mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8905,
     "other_brand": "ドキサゾシン錠0.5mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8906,
     "other_brand": "ドキサゾシン錠0.5mg「テバ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8907,
     "other_brand": "ドキサゾシン錠0.5mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8908,
     "other_brand": "ドキサゾシン錠0.5mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8909,
     "other_brand": "ドキサゾシン錠0.5mg「EMEC」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8910,
     "other_brand": "ドキサゾシン錠0.5mg「JG」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8911,
     "other_brand": "ドキサゾシン錠0.5mg「NS」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8913,
     "other_brand": "ドキサゾシン錠0.5mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 8914,
     "other_brand": "ドキサゾシン錠0.5mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n,\n。"
   },
   {
     "other_id": 8915,
     "other_brand": "ドキサゾシン錠0.5mg「YD」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物タダラフィルシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある\n。"
   },
   {
     "other_id": 9350,
     "other_brand": "ナフトピジル錠25mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9351,
     "other_brand": "ナフトピジル錠25mg「JG」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9356,
     "other_brand": "ナフトピジルOD錠25mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9358,
     "other_brand": "ナフトピジルOD錠25mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9359,
     "other_brand": "ナフトピジルOD錠25mg「タカタ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9360,
     "other_brand": "ナフトピジルOD錠25mg「トーワ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9361,
     "other_brand": "ナフトピジルOD錠25mg「ニプロ」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9362,
     "other_brand": "ナフトピジルOD錠25mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9363,
     "other_brand": "ナフトピジルOD錠25mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9364,
     "other_brand": "ナフトピジルOD錠25mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9365,
     "other_brand": "ナフトピジルOD錠25mg「FFP」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9366,
     "other_brand": "ナフトピジルOD錠25mg「JG」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9367,
     "other_brand": "ナフトピジルOD錠25mg「NIG」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9368,
     "other_brand": "ナフトピジルOD錠25mg「TCK」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9369,
     "other_brand": "ナフトピジルOD錠25mg「YD」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 9440,
     "other_brand": "ニコランジル点滴静注用2mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤シルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用が増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9445,
     "other_brand": "ニコランジル錠5mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤シルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用が増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9443,
     "other_brand": "ニコランジル錠2.5mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤シルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用が増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9444,
     "other_brand": "ニコランジル錠2.5mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤シルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用が増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9475,
     "other_brand": "ニトプロ持続静注液6mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）、バルデナフィル塩酸塩水和物（レビトラ）、タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用が増強することがあるため、本剤投与前、投与中及び投与後においてこれらの薬剤を服用しないよう十分に注意すること。"
   },
   {
     "other_id": 9490,
     "other_brand": "ニトログリセリンテープ27mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバイアグラ、レバチオ\nバルデナフィル塩酸塩水和物\nレビトラ\nタダラフィル\nシアリス、アドシルカ、ザルティア"
+    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9491,
     "other_brand": "ニトログリセリン注25mg／50mLシリンジ「テルモ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9495,
     "other_brand": "ニトログリセリン静注25mg/50mLシリンジ「TE」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9496,
     "other_brand": "ニトログリセリン静注25mg／50mLRFIDシリンジ「テルモ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9492,
     "other_brand": "ニトログリセリン静注1mg/2mL「TE」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9498,
     "other_brand": "ニトロダームTTS25mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。本剤使用前にホスホジエステラーゼ5阻害作用を有する薬剤又はグアニル酸シクラーゼ刺激作用を有する薬剤を服用していないことを十分確認すること。また、本剤使用中及び使用後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9499,
     "other_brand": "ニトロペン舌下錠0.3mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9500,
     "other_brand": "ニトロールスプレー1.25mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがあるので、本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9501,
     "other_brand": "ニトロール持続静注25mgシリンジ",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがあるので、本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9502,
     "other_brand": "ニトロール注5mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがあるので、本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9503,
     "other_brand": "ニトロール注5mgシリンジ",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがあるので、本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9504,
     "other_brand": "ニトロール点滴静注50mgバッグ",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがあるので、本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9506,
     "other_brand": "ニトロール錠5mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがあるので、本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9507,
     "other_brand": "ニトロールRカプセル20mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがあるので、本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 9761,
     "other_brand": "ノービア錠100mg",
     "interaction_type": "contraindicated",
-    "source_text": "キニジン硫酸塩水和物\n［硫酸キニジン］\nベプリジル塩酸塩水和物\n［ベプリコール］\nフレカイニド酢酸塩\n［タンボコール］\nプロパフェノン塩酸塩\n［プロノン］\nアミオダロン塩酸塩\n［アンカロン］\nピモジド\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン\n［クリアミン］\nジヒドロエルゴタミンメシル酸塩\nエルゴメトリンマレイン酸塩\n［エルゴメトリン］\nメチルエルゴメトリンマレイン酸塩\n［パルタン］\nエレトリプタン臭化水素酸塩\n［レルパックス］\nバルデナフィル塩酸塩水和物\n［レビトラ］\nシルデナフィルクエン酸塩\n［レバチオ］\nタダラフィル\n［アドシルカ］\nアゼルニジピン\n［カルブロック］\nアゼルニジピン・オルメサルタン メドキソミル\n［レザルタス配合錠］\nリファブチン\n［ミコブティン］\nブロナンセリン\n［ロナセン］\nリバーロキサバン\n［イグザレルト］\nロミタピドメシル酸塩\n［ジャクスタピッド］\nルラシドン塩酸塩\n［ラツーダ］"
+    "source_text": "不整脈、血液障害、血管攣縮等、これら薬剤による重篤な又は生命に危険を及ぼすような事象が起こるおそれがあるので併用しないこと。"
   },
   {
     "other_id": 9800,
     "other_brand": "ハイパジールコーワ錠3",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ）（レバチオ）バルデナフィル塩酸塩水和物（レビトラ）タダラフィル（シアリス）（アドシルカ）（ザルティア）\n,"
+    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
   },
   {
     "other_id": 9852,
     "other_brand": "ハルナールD錠0.1mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物\n等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 9917,
     "other_brand": "バソメット錠0.25mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害剤（PDE5阻害剤）　シルデナフィルクエン酸塩　バルデナフィル塩酸塩水和物　タダラフィル"
+    "source_text": "症候性低血圧があらわれるおそれがあるので、本剤を低用量から投与開始すること。"
   },
   {
     "other_id": 9921,
     "other_brand": "バソレーターテープ27mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバイアグラ、レバチオ\nバルデナフィル塩酸塩水和物\nレビトラ\nタダラフィル\nシアリス、アドシルカ、ザルティア"
+    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 1590,
     "other_brand": "イソソルビド内⽤液70％「CEO」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 1596,
     "other_brand": "イソバイドシロップ70％",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4780,
     "other_brand": "グリセリン「ヤマゼン」M",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4781,
     "other_brand": "グリセリン　シオエ",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4783,
     "other_brand": "グリセリン「コザカイ・M」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4784,
     "other_brand": "グリセリン「タイセイ」M",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4786,
     "other_brand": "グリセリン「ニッコー」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4788,
     "other_brand": "グリセリン「マルイシ」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4790,
     "other_brand": "グリセリン「ヤクハン」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4791,
     "other_brand": "グリセリン「ヨシダ」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4793,
     "other_brand": "グリセリン「東海」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4795,
     "other_brand": "グリセリン「東豊」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4796,
     "other_brand": "グリセリン「NikP」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4807,
     "other_brand": "グリセリン浣腸「ヤマゼン」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 4811,
     "other_brand": "グリセリン浣腸液50%「ケンエー」　30mL",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 13400,
     "other_brand": "ミニトロテープ27mg",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 16137,
     "other_brand": "亜硝酸アミル「AFP」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 16964,
     "other_brand": "硝酸イソソルビドテープ40mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 16969,
     "other_brand": "硝酸イソソルビド徐放カプセル20mg「St」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 16970,
     "other_brand": "硝酸イソソルビド徐放錠20mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 16973,
     "other_brand": "硝酸イソソルビド注5mg/10mL「タカタ」",
     "interaction_type": "contraindicated",
-    "source_text": "硝酸剤及びNO供与剤\nニトログリセリン、亜硝酸アミル、硝酸イソソルビド、ニコランジル等\n,"
+    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "contraindicated",
-    "source_text": "CYP3A4を阻害する薬剤\nリトナビル（ノービア）\n,"
+    "source_text": "本剤のAUC\n0-24\nが49倍に増加し、Cmaxが13倍に上昇し、半減期が10倍に延長するとの報告がある\n。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "CYP3A4を阻害する薬剤\nリトナビル（ノービア）\n,"
+    "source_text": "本剤のAUC\n0-24\nが49倍に増加し、Cmaxが13倍に上昇し、半減期が10倍に延長するとの報告がある\n。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "CYP3A4を阻害する薬剤\nリトナビル（ノービア）\n,"
+    "source_text": "本剤のAUC\n0-24\nが49倍に増加し、Cmaxが13倍に上昇し、半減期が10倍に延長するとの報告がある\n。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "contraindicated",
-    "source_text": "CYP3A4を阻害する薬剤\nリトナビル（ノービア）\n,"
+    "source_text": "本剤のAUC\n0-24\nが49倍に増加し、Cmaxが13倍に上昇し、半減期が10倍に延長するとの報告がある\n。"
   },
   {
     "other_id": 1651,
     "other_brand": "イトラコナゾールカプセル50mg「SW」",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 1652,
     "other_brand": "イトラコナゾール内用液1％「VTRS」",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 1653,
     "other_brand": "イトラコナゾール錠50mg「日医工」",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 1655,
     "other_brand": "イトラコナゾール錠50mg「科研」",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 1656,
     "other_brand": "イトリゾールカプセル50",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 4980,
     "other_brand": "ケトコナゾールクリーム2％「イワキ」",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 4982,
     "other_brand": "ケトコナゾールクリーム2％「MYK」",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 4985,
     "other_brand": "ケトコナゾールローション2％「MYK」",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 9469,
     "other_brand": "ニゾラールクリーム2%",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 9470,
     "other_brand": "ニゾラールローション2％",
     "interaction_type": "contraindicated",
-    "source_text": "ケトコナゾール（外用剤を除く）（経口剤は国内未発売）イトラコナゾール（イトリゾール）\n,"
+    "source_text": "本剤のAUCが10倍に増加し、Cmaxが4倍に上昇するとの報告がある\n。"
   },
   {
     "other_id": 14730,
     "other_brand": "リスモダンカプセル100mg",
     "interaction_type": "contraindicated",
-    "source_text": "クラスⅠA抗不整脈薬\nキニジン、プロカインアミド（アミサリン）、ジソピラミド（リスモダン（経口剤））、シベンゾリン（シベノール）、ピルメノール（ピメノール）\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン（経口剤））、ソタロール（ソタコール）\n,"
+    "source_text": "本剤の心臓伝導系への影響を検討する臨床薬理試験において本剤投与によるQTc延長がみられている\n。"
   },
   {
     "other_id": 10481,
     "other_brand": "ビカルタミド錠80mg「オーハラ」",
     "interaction_type": "caution",
-    "source_text": "ビカルタミド"
+    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 10483,
     "other_brand": "ビカルタミド錠80mg「ケミファ」",
     "interaction_type": "caution",
-    "source_text": "ビカルタミド"
+    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 10484,
     "other_brand": "ビカルタミド錠80mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "ビカルタミド"
+    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 10488,
     "other_brand": "ビカルタミド錠80mg「日医工」（旧製品）",
     "interaction_type": "caution",
-    "source_text": "ビカルタミド"
+    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 10491,
     "other_brand": "ビカルタミド錠80mg「NK」",
     "interaction_type": "caution",
-    "source_text": "ビカルタミド"
+    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 10492,
     "other_brand": "ビカルタミド錠80mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "ビカルタミド"
+    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
   },
   {
     "other_id": 14937,
     "other_brand": "リファジンカプセル150mg",
     "interaction_type": "caution",
-    "source_text": "CYP3A4を誘導する薬剤\nリファンピシン等"
+    "source_text": "本剤の血漿中濃度が低下するおそれがある。"
   },
   {
     "other_id": 10126,
     "other_brand": "パキロビッドパック600",
     "interaction_type": "contraindicated",
-    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）リファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）エルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）バルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+    "source_text": "不整脈、血液障害、血管攣縮等、これら薬剤による重篤な又は生命に危険を及ぼすような事象が起こるおそれがあるので併用しないこと。"
   },
   {
     "other_id": 10127,
     "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
     "interaction_type": "contraindicated",
-    "source_text": "エレトリプタン臭化水素酸塩（レルパックス）アゼルニジピン（カルブロック）オルメサルタン メドキソミル・アゼルニジピン（レザルタス配合錠）エプレレノン（セララ）アミオダロン塩酸塩（アンカロン）ベプリジル塩酸塩水和物（ベプリコール）フレカイニド酢酸塩（タンボコール）プロパフェノン塩酸塩（プロノン）キニジン硫酸塩水和物リバーロキサバン（イグザレルト）チカグレロル（ブリリンタ）\nアナモレリン塩酸塩（エドルミズ）\nボクロスポリン（ルプキネス）\nロナファルニブ（ゾキンヴィ）\nリファブチン（ミコブティン）ブロナンセリン（ロナセン）ルラシドン塩酸塩（ラツーダ）ピモジドスボレキサント（ベルソムラ）\nダリドレキサント塩酸塩（クービビック）\nボルノレキサント水和物（ボルズィ）\nエルゴタミン酒石酸塩・無水カフェイン・イソプロピルアンチピリン（クリアミン）エルゴメトリンマレイン酸塩ジヒドロエルゴタミンメシル酸塩メチルエルゴメトリンマレイン酸塩（パルタン）フィネレノン（ケレンディア）イバブラジン塩酸塩（コララン）シルデナフィルクエン酸塩（レバチオ）タダラフィル（アドシルカ）\nマシテンタン・タダラフィル（ユバンシ）\nバルデナフィル塩酸塩水和物（レビトラ）ロミタピドメシル酸塩（ジャクスタピッド）"
+    "source_text": "不整脈、血液障害、血管攣縮等、これら薬剤による重篤な又は生命に危険を及ぼすような事象が起こるおそれがあるので併用しないこと。"
   },
   {
     "other_id": 11340,
     "other_brand": "フランドルテープ40mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 11341,
     "other_brand": "フランドル錠20mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 11350,
     "other_brand": "フリバス錠 25mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 11353,
     "other_brand": "フリバスOD錠 25mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物等"
+    "source_text": "併用により、症候性低血圧があらわれるおそれがある。"
   },
   {
     "other_id": 12946,
     "other_brand": "ボセンタン成人用DS6.25%「モチダ」",
     "interaction_type": "caution",
-    "source_text": "PDE5阻害薬（シルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物、タダラフィル）"
+    "source_text": "（1）血圧低下を助長するおそれがある。（2）PDE5阻害薬の血中濃度が低下する可能性がある。（3）シルデナフィルの血中濃度が低下し、本剤の血中濃度が上昇する。"
   },
   {
     "other_id": 12947,
     "other_brand": "ボセンタン錠62.5mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "PDE5阻害薬（シルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物、タダラフィル）"
+    "source_text": "（1）血圧低下を助長するおそれがある。（2）PDE5阻害薬の血中濃度が低下する可能性がある。（3）シルデナフィルの血中濃度が低下し、本剤の血中濃度が上昇する。"
   },
   {
     "other_id": 12948,
     "other_brand": "ボセンタン錠62.5mg「DSEP」",
     "interaction_type": "caution",
-    "source_text": "PDE5阻害薬（シルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物、タダラフィル）"
+    "source_text": "（1）血圧低下を助長するおそれがある。（2）PDE5阻害薬の血中濃度が低下する可能性がある。（3）シルデナフィルの血中濃度が低下し、本剤の血中濃度が上昇する。"
   },
   {
     "other_id": 12949,
     "other_brand": "ボセンタン錠62.5mg「JG」",
     "interaction_type": "caution",
-    "source_text": "PDE5阻害薬（シルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物、タダラフィル）"
+    "source_text": "（1）血圧低下を助長するおそれがある。（2）PDE5阻害薬の血中濃度が低下する可能性がある。（3）シルデナフィルの血中濃度が低下し、本剤の血中濃度が上昇する。"
   },
   {
     "other_id": 12950,
     "other_brand": "ボセンタン錠62.5mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "PDE5阻害薬（シルデナフィルクエン酸塩、バルデナフィル塩酸塩水和物、タダラフィル）"
+    "source_text": "（1）血圧低下を助長するおそれがある。（2）PDE5阻害薬の血中濃度が低下する可能性がある。（3）シルデナフィルの血中濃度が低下し、本剤の血中濃度が上昇する。"
   },
   {
     "other_id": 13291,
     "other_brand": "ミオコールスプレー0.3mg",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 13402,
     "other_brand": "ミニプレス錠0.5mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nバルデナフィル塩酸塩水和物\nタダラフィル\nシルデナフィルクエン酸塩"
+    "source_text": "併用によりめまい等の自覚症状を伴う症候性低血圧を来したとの報告がある。"
   },
   {
     "other_id": 13455,
     "other_brand": "ミリスロール注1mg/2mL",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物（レビトラ）\nタダラフィル（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 14225,
     "other_brand": "ユリーフ錠2mg",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\nバルデナフィル塩酸塩水和物等"
+    "source_text": "併用により症候性低血圧があらわれるとの報告がある。"
   },
   {
     "other_id": 14732,
     "other_brand": "リスモダンR錠150mg",
     "interaction_type": "contraindicated",
-    "source_text": "バルデナフィル塩酸塩水和物\nレビトラ"
+    "source_text": "QT延長を起こすことがある。"
   },
   {
     "other_id": 14938,
     "other_brand": "リファンピシンカプセル150mg「サンド」",
     "interaction_type": "caution",
-    "source_text": "泌尿生殖器官用薬\nホスホジエステラーゼ5阻害剤\nシルデナフィルクエン酸塩バルデナフィル塩酸塩水和物タダラフィル（シアリス、ザルティア）"
+    "source_text": "これらの薬剤の作用が減弱することがある。"
   },
   {
     "other_id": 16022,
     "other_brand": "一硝酸イソソルビド錠10mg「サワイ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16023,
     "other_brand": "一硝酸イソソルビド錠10mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16028,
     "other_brand": "一硝酸イソソルビド錠20mg「日新」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16024,
     "other_brand": "一硝酸イソソルビド錠10mg「日新」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16025,
     "other_brand": "一硝酸イソソルビド錠10mg「NIG」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16137,
     "other_brand": "亜硝酸アミル「AFP」",
     "interaction_type": "caution",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩バルデナフィル塩酸塩水和物タダラフィル"
+    "source_text": "併用により、降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においては治療上やむを得ないと判断される場合を除き、投与しないこと。"
   },
   {
     "other_id": 16965,
     "other_brand": "硝酸イソソルビドテープ40mg「テイコク」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16966,
     "other_brand": "硝酸イソソルビドテープ40mg「東光」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16968,
     "other_brand": "硝酸イソソルビドテープ40mg「EMEC」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16971,
     "other_brand": "硝酸イソソルビド徐放錠20mg「ツルハラ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   },
   {
     "other_id": 16972,
     "other_brand": "硝酸イソソルビド徐放錠20mg「トーワ」",
     "interaction_type": "contraindicated",
-    "source_text": "ホスホジエステラーゼ5阻害作用を有する薬剤\nシルデナフィルクエン酸塩\n（バイアグラ、レバチオ）\nバルデナフィル塩酸塩水和物\n（レビトラ）\nタダラフィル\n（シアリス、アドシルカ、ザルティア）"
+    "source_text": "併用により、降圧作用を増強することがある。\n本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
   }
 ]

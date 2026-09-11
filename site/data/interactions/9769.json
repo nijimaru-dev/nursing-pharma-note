@@ -3,12 +3,12 @@
     "other_id": 5597,
     "other_brand": "シスプラチン点滴静注10mg「マルコ」",
     "interaction_type": "caution",
-    "source_text": "他の抗悪性腫瘍剤\nシスプラチン等\n放射線照射"
+    "source_text": "骨髄抑制等が増強するおそれがある。併用療法を行う場合には患者の状態を観察しながら減量するなど適切な措置を行うこと。"
   },
   {
     "other_id": 12408,
     "other_brand": "ベネシッド錠250mg",
     "interaction_type": "caution",
-    "source_text": "腎陰イオン輸送系阻害剤\nプロベネシド等"
+    "source_text": "臨床での検討成績はなく、排泄への影響の程度については不明である。"
   }
 ]

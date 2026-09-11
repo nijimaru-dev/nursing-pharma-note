@@ -3,174 +3,174 @@
     "other_id": 5967,
     "other_brand": "ジノプロスト注射液1000μg「F」",
     "interaction_type": "contraindicated",
-    "source_text": "プロスタグランジン製剤（PGF\n2α\n、PGE\n2\n）\nジノプロスト（プロスタルモン・F注射液）\nジノプロストン（プロスタグランジンE\n2\n錠、プロウペス腟用剤）\n,\n,\n,\n,"
+    "source_text": "同時併用により、過強陣痛を起こしやすい。"
   },
   {
     "other_id": 12000,
     "other_brand": "プロウペス腟用剤10mg",
     "interaction_type": "contraindicated",
-    "source_text": "プロスタグランジン製剤（PGF\n2α\n、PGE\n2\n）\nジノプロスト（プロスタルモン・F注射液）\nジノプロストン（プロスタグランジンE\n2\n錠、プロウペス腟用剤）\n,\n,\n,\n,"
+    "source_text": "同時併用により、過強陣痛を起こしやすい。"
   },
   {
     "other_id": 5967,
     "other_brand": "ジノプロスト注射液1000μg「F」",
     "interaction_type": "caution",
-    "source_text": "ジノプロストン（腟用剤）"
+    "source_text": "過強陣痛を起こしやすいので、ジノプロストン（腟用剤）の投与終了後1時間以上の間隔をあけ、十分な分娩監視を行い、慎重に投与すること。"
   },
   {
     "other_id": 12000,
     "other_brand": "プロウペス腟用剤10mg",
     "interaction_type": "caution",
-    "source_text": "ジノプロストン（腟用剤）"
+    "source_text": "過強陣痛を起こしやすいので、ジノプロストン（腟用剤）の投与終了後1時間以上の間隔をあけ、十分な分娩監視を行い、慎重に投与すること。"
   },
   {
     "other_id": 625,
     "other_brand": "アドレナリン注0.1%シリンジ「テルモ」",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\nバッカクアルカロイド類\nエルゴタミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがある。"
   },
   {
     "other_id": 2744,
     "other_brand": "エピペン注射液0.15mg",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\nバッカクアルカロイド類\nエルゴタミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがある。"
   },
   {
     "other_id": 2746,
     "other_brand": "エピリド配合注歯科用カートリッジ1.0mL",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\n麦角アルカロイド類\nエルゴメトリン等"
+    "source_text": "血圧上昇を起こすことがある。"
   },
   {
     "other_id": 2794,
     "other_brand": "エホチール注10mg",
     "interaction_type": "caution",
-    "source_text": "分娩促進剤\nオキシトシン\nエルゴタミン"
+    "source_text": "血圧の異常上昇をきたすことがあるので、その様な場合はクロルプロマジンの静注を行う。"
   },
   {
     "other_id": 2922,
     "other_brand": "エンドキサン錠50mg",
     "interaction_type": "caution",
-    "source_text": "オキシトシン"
+    "source_text": "オキシトシンの作用が増強されることがある。"
   },
   {
     "other_id": 3646,
     "other_brand": "オーラ注歯科用カートリッジ1.0mL",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\n麦角アルカロイド類\nエルゴメトリン等"
+    "source_text": "血圧上昇を起こすことがある。"
   },
   {
     "other_id": 4178,
     "other_brand": "キシレステシンA注射液（カートリッジ）",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\n麦角アルカロイド類\nエルゴメトリン等"
+    "source_text": "血圧上昇を起こすことがある。"
   },
   {
     "other_id": 4190,
     "other_brand": "キシロカイン注射液「0.5%」エピレナミン（1：100,000）含有",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\n麦角アルカロイド類\nエルゴメトリン等"
+    "source_text": "血圧上昇を起こすことがある。"
   },
   {
     "other_id": 6597,
     "other_brand": "セプトカイン配合注カートリッジ",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\n麦角アルカロイド類\nエルゴメトリン等"
+    "source_text": "血圧上昇を起こすことがある。"
   },
   {
     "other_id": 9131,
     "other_brand": "ドプスOD錠100mg",
     "interaction_type": "caution",
-    "source_text": "分娩促進剤\nオキシトシン\nエルゴタミン抗ヒスタミン剤\nクロルフェニラミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがある。"
   },
   {
     "other_id": 9158,
     "other_brand": "ドロキシドパカプセル100mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "分娩促進剤\nオキシトシン\nエルゴタミン抗ヒスタミン剤\nクロルフェニラミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがある。"
   },
   {
     "other_id": 9609,
     "other_brand": "ネオシネジンコーワ注1mg",
     "interaction_type": "caution",
-    "source_text": "分娩促進剤\nオキシトシンエルゴタミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがあるので、慎重に投与すること。"
   },
   {
     "other_id": 9672,
     "other_brand": "ネフィー点鼻液1mg",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\nバッカクアルカロイド類\nエルゴタミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがある。"
   },
   {
     "other_id": 9737,
     "other_brand": "ノルアドリナリン注1mg",
     "interaction_type": "caution",
-    "source_text": "分娩促進剤\nオキシトシン等\nエルゴタミン製剤"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがあるので、慎重に投与すること。"
   },
   {
     "other_id": 11960,
     "other_brand": "プレグランディン腟坐剤1mg",
     "interaction_type": "caution",
-    "source_text": "陣痛誘発・促進剤\nオキシトシンジノプロスト（PGF\n2α\n）"
+    "source_text": "子宮収縮が異常に強くなる可能性があるので、観察を十分に行い慎重に投与すること。"
   },
   {
     "other_id": 12027,
     "other_brand": "プロスタグランジンE\n2\n錠0.5mg「科研」",
     "interaction_type": "contraindicated",
-    "source_text": "オキシトシン\n（アトニン-O注）\nジノプロスト\n（プロスタルモン・F注射液）\nジノプロストン\n（プロウペス腟用剤）\n,\n,\n,\n,\n,"
+    "source_text": "これらの薬剤と同時併用することにより過強陣痛を起こしやすい。"
   },
   {
     "other_id": 12027,
     "other_brand": "プロスタグランジンE\n2\n錠0.5mg「科研」",
     "interaction_type": "caution",
-    "source_text": "陣痛誘発・促進剤\nオキシトシン\nジノプロスト\n,\n,\n,"
+    "source_text": "これらの薬剤と前後して使用する場合も、過強陣痛を起こしやすいので、前の薬剤の投与が終了した後1時間以上経過してから次の薬剤の投与を開始した上で十分な分娩監視を行い、慎重に投与すること。"
   },
   {
     "other_id": 12029,
     "other_brand": "プロスタルモン・F注射液1000",
     "interaction_type": "contraindicated",
-    "source_text": "オキシトシン\n（アトニン-O注）\nジノプロストン（PGE\n2\n）\n（プロスタグランジンE\n2\n錠、プロウペス腟用剤）\n,\n,\n,\n,\n,"
+    "source_text": "これらの薬剤と同時併用することにより過強陣痛を起こしやすい。"
   },
   {
     "other_id": 12029,
     "other_brand": "プロスタルモン・F注射液1000",
     "interaction_type": "caution",
-    "source_text": "陣痛誘発・促進剤\nオキシトシン\nジノプロストン（PGE\n2\n（経口剤））\n,\n,\n,"
+    "source_text": "これらの薬剤と前後して使用する場合も、過強陣痛を起こしやすいので、十分な分娩監視を行い、慎重に投与すること。特に、ジノプロストン（PGE\n2\n（経口剤））を前後して投与する場合は、前の薬剤の投与が終了した後1時間以上経過してから次の薬剤の投与を開始すること。"
   },
   {
     "other_id": 12944,
     "other_brand": "ボスミン外用液0.1%",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\nバッカクアルカロイド類\nエルゴタミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがある。"
   },
   {
     "other_id": 12945,
     "other_brand": "ボスミン注1mg",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\nバッカクアルカロイド類\nエルゴタミン等"
+    "source_text": "本剤の作用が増強され、血圧の異常上昇をきたすことがある。"
   },
   {
     "other_id": 16005,
     "other_brand": "ヱフェドリン「ナガヰ」注射液40mg",
     "interaction_type": "caution",
-    "source_text": "オキシトシン"
+    "source_text": "血圧の異常上昇を起こすおそれがあるので、血圧等に注意し、慎重に投与すること。"
   },
   {
     "other_id": 16535,
     "other_brand": "歯科用キシロカインカートリッジ",
     "interaction_type": "caution",
-    "source_text": "分娩促進薬\nオキシトシン等\n麦角アルカロイド類\nエルゴメトリン等"
+    "source_text": "血圧上昇を起こすことがある。"
   },
   {
     "other_id": 16582,
     "other_brand": "注射用エンドキサン100mg",
     "interaction_type": "caution",
-    "source_text": "オキシトシン"
+    "source_text": "オキシトシンの作用が増強されることがある。"
   },
   {
     "other_id": 17024,
     "other_brand": "経口用エンドキサン原末100mg",
     "interaction_type": "caution",
-    "source_text": "オキシトシン"
+    "source_text": "オキシトシンの作用が増強されることがある。"
   }
 ]

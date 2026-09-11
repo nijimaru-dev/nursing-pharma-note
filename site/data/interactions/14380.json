@@ -3,342 +3,342 @@
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "contraindicated",
-    "source_text": "クラスⅠA抗不整脈薬\nキニジン\nプロカインアミド（アミサリン）等\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン）\nソタロール（ソタコール）等"
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "クラスⅠA抗不整脈薬\nキニジン\nプロカインアミド（アミサリン）等\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン）\nソタロール（ソタコール）等"
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "contraindicated",
-    "source_text": "クラスⅠA抗不整脈薬\nキニジン\nプロカインアミド（アミサリン）等\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン）\nソタロール（ソタコール）等"
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "contraindicated",
-    "source_text": "クラスⅠA抗不整脈薬\nキニジン\nプロカインアミド（アミサリン）等\nクラスⅢ抗不整脈薬\nアミオダロン（アンカロン）\nソタロール（ソタコール）等"
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 5363,
     "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
     "interaction_type": "caution",
-    "source_text": "チアジド系利尿剤\nループ系利尿剤\n糖質副腎皮質ホルモン剤\nACTH\nグリチルリチン製剤"
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 9816,
     "other_brand": "ハイ・プレアミン注−10%",
     "interaction_type": "caution",
-    "source_text": "チアジド系利尿剤\nループ系利尿剤\n糖質副腎皮質ホルモン剤\nACTH\nグリチルリチン製剤"
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 9817,
     "other_brand": "ハイ・プレアミンS注−10%",
     "interaction_type": "caution",
-    "source_text": "チアジド系利尿剤\nループ系利尿剤\n糖質副腎皮質ホルモン剤\nACTH\nグリチルリチン製剤"
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 11991,
     "other_brand": "プレビタS注射液",
     "interaction_type": "caution",
-    "source_text": "チアジド系利尿剤\nループ系利尿剤\n糖質副腎皮質ホルモン剤\nACTH\nグリチルリチン製剤"
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
   },
   {
     "other_id": 616,
     "other_brand": "アドフィードパップ40mg",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 1704,
     "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 6668,
     "other_brand": "セレコキシブ錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 6670,
     "other_brand": "セレコキシブ錠100mg「ダイト」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 6675,
     "other_brand": "セレコキシブ錠100mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 6676,
     "other_brand": "セレコキシブ錠100mg「日新」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 6677,
     "other_brand": "セレコキシブ錠100mg「明治」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 6678,
     "other_brand": "セレコキシブ錠100mg「杏林」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 6683,
     "other_brand": "セレコキシブ錠100mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 11520,
     "other_brand": "フルルビプロフェンテープ20mg「QQ」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 11549,
     "other_brand": "フロベン錠40",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 11654,
     "other_brand": "ブルフェン錠100",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 16552,
     "other_brand": "氷酢酸「タイセイ」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 17262,
     "other_brand": "酢酸「ヤマゼン」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 17264,
     "other_brand": "酢酸「コザカイ・M」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 17265,
     "other_brand": "酢酸「タイセイ」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 17266,
     "other_brand": "酢酸「ニッコー」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 17269,
     "other_brand": "酢酸「ヨシダ」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 17270,
     "other_brand": "酢酸「日医工」",
     "interaction_type": "caution",
-    "source_text": "フェニル酢酸系、プロピオン酸系非ステロイド性消炎鎮痛剤\nフルルビプロフェン等"
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
   },
   {
     "other_id": 1281,
     "other_brand": "アレビアチン散10％",
     "interaction_type": "caution",
-    "source_text": "リファンピシン\nフェニトイン\nカルバマゼピン"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 1283,
     "other_brand": "アレビアチン錠25mg",
     "interaction_type": "caution",
-    "source_text": "リファンピシン\nフェニトイン\nカルバマゼピン"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 3830,
     "other_brand": "カルバマゼピン錠100mg「アメル」",
     "interaction_type": "caution",
-    "source_text": "リファンピシン\nフェニトイン\nカルバマゼピン"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 3831,
     "other_brand": "カルバマゼピン錠100mg「フジナガ」",
     "interaction_type": "caution",
-    "source_text": "リファンピシン\nフェニトイン\nカルバマゼピン"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 7996,
     "other_brand": "テグレトール錠100mg",
     "interaction_type": "caution",
-    "source_text": "リファンピシン\nフェニトイン\nカルバマゼピン"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 10379,
     "other_brand": "ヒダントール錠25mg",
     "interaction_type": "caution",
-    "source_text": "リファンピシン\nフェニトイン\nカルバマゼピン"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 14937,
     "other_brand": "リファジンカプセル150mg",
     "interaction_type": "caution",
-    "source_text": "リファンピシン\nフェニトイン\nカルバマゼピン"
+    "source_text": "本剤の作用が減弱する可能性がある。"
   },
   {
     "other_id": 693,
     "other_brand": "アプニション静注15mg",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 794,
     "other_brand": "アミノフィリン注250mg「NP」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 795,
     "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 796,
     "other_brand": "アミノフィリン静注液250mg「日医工」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 798,
     "other_brand": "アミノフィリン静注250mg「日新」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 7956,
     "other_brand": "テオフィリンドライシロップ20％「タカタ」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 7960,
     "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 7961,
     "other_brand": "テオフィリン徐放錠100mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 7962,
     "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 7965,
     "other_brand": "テオフィリン徐放錠50mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 7966,
     "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 7971,
     "other_brand": "テオロング錠50mg",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 9628,
     "other_brand": "ネオフィリン原末",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 9629,
     "other_brand": "ネオフィリン注点滴用バッグ250mg",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 9630,
     "other_brand": "ネオフィリン注250mg",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 9632,
     "other_brand": "ネオフィリン錠100mg",
     "interaction_type": "caution",
-    "source_text": "テオフィリン\nアミノフィリン水和物"
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
   },
   {
     "other_id": 15264,
     "other_brand": "レパグリニド錠0.25mg「サワイ」",
     "interaction_type": "caution",
-    "source_text": "レパグリニド"
+    "source_text": "レパグリニドの血中濃度が上昇し、レパグリニドの副作用が発現するおそれがある。"
   },
   {
     "other_id": 5299,
     "other_brand": "コートリル錠10mg",
     "interaction_type": "caution",
-    "source_text": "副腎皮質ホルモン剤\n（経口剤及び注射剤）\nプレドニゾロン\nヒドロコルチゾン等"
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
   },
   {
     "other_id": 11975,
     "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
     "interaction_type": "caution",
-    "source_text": "副腎皮質ホルモン剤\n（経口剤及び注射剤）\nプレドニゾロン\nヒドロコルチゾン等"
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
   },
   {
     "other_id": 11977,
     "other_brand": "プレドニゾロン錠1mg「VTRS」",
     "interaction_type": "caution",
-    "source_text": "副腎皮質ホルモン剤\n（経口剤及び注射剤）\nプレドニゾロン\nヒドロコルチゾン等"
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
   },
   {
     "other_id": 11978,
     "other_brand": "プレドニゾロン錠1mg（旭化成）",
     "interaction_type": "caution",
-    "source_text": "副腎皮質ホルモン剤\n（経口剤及び注射剤）\nプレドニゾロン\nヒドロコルチゾン等"
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
   },
   {
     "other_id": 11981,
     "other_brand": "プレドニゾロン錠5mg「ミタ」",
     "interaction_type": "caution",
-    "source_text": "副腎皮質ホルモン剤\n（経口剤及び注射剤）\nプレドニゾロン\nヒドロコルチゾン等"
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
   },
   {
     "other_id": 11986,
     "other_brand": "プレドニン錠5mg",
     "interaction_type": "caution",
-    "source_text": "副腎皮質ホルモン剤\n（経口剤及び注射剤）\nプレドニゾロン\nヒドロコルチゾン等"
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
   }
 ]
