@@ -85,17 +85,38 @@ function createSearchWidget({ inputEl, resultsEl, onSelect, placeholder }) {
     render(matches, query);
   });
 
-  inputEl.addEventListener("keydown", (e) => {
-    const items = Array.from(resultsEl.children);
+  /**
+   * ArrowDownで最初の候補にフォーカスを移すと、以降のキー入力は
+   * フォーカス中の候補（<a>/<button>）で発生する。inputEl側にだけ
+   * keydownを登録すると、1件目にフォーカスが移った時点でそれ以降の
+   * ArrowDown/ArrowUpが効かなくなる不具合があったため、resultsEl側にも
+   * 同じハンドラをイベント委譲で登録し、候補にフォーカスがある状態でも
+   * 矢印キー操作を継続できるようにする。
+   */
+  function handleListKeydown(e) {
+    const items = Array.from(resultsEl.children).filter((el) => el.classList.contains("search-result"));
     if (!items.length) return;
     if (e.key === "ArrowDown") {
       e.preventDefault();
       activeIndex = Math.min(activeIndex + 1, items.length - 1);
       items[activeIndex].focus();
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      activeIndex -= 1;
+      if (activeIndex < 0) {
+        activeIndex = -1;
+        inputEl.focus();
+      } else {
+        items[activeIndex].focus();
+      }
     } else if (e.key === "Escape") {
       resultsEl.innerHTML = "";
+      inputEl.focus();
     }
-  });
+  }
+
+  inputEl.addEventListener("keydown", handleListKeydown);
+  resultsEl.addEventListener("keydown", handleListKeydown);
 
   document.addEventListener("click", (e) => {
     if (!resultsEl.contains(e.target) && e.target !== inputEl) {

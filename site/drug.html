@@ -57,7 +57,7 @@
   </div>
 </header>
 
-<main id="main">
+<main id="main" tabindex="-1">
   <div class="container">
     <p id="back-link-wrap" style="margin-top:20px;"></p>
 
@@ -288,7 +288,7 @@ function renderDrug(drug) {
 
       <div class="detail-tabs">
         <div class="tab-list" role="tablist" aria-label="補足情報">
-          ${tabs.map((t, i) => `<button type="button" class="tab-btn" role="tab" id="tab-${t.id}" aria-controls="panel-${t.id}" aria-selected="${i === 0}">${escapeHTML(t.label)}</button>`).join("")}
+          ${tabs.map((t, i) => `<button type="button" class="tab-btn" role="tab" id="tab-${t.id}" aria-controls="panel-${t.id}" aria-selected="${i === 0}" tabindex="${i === 0 ? "0" : "-1"}">${escapeHTML(t.label)}</button>`).join("")}
         </div>
         ${tabs.map((t, i) => {
           let body = escapeHTML(cleanRawText(t.body) || "記載なし");
@@ -325,13 +325,41 @@ function renderDrug(drug) {
     document.querySelector('.view-toggle__label[data-view="detail"]').setAttribute("data-active", String(next));
   });
 
-  document.querySelectorAll(".tab-btn").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      document.querySelectorAll(".tab-btn").forEach((b) => b.setAttribute("aria-selected", "false"));
-      document.querySelectorAll(".tab-panel__body").forEach((p) => (p.hidden = true));
-      btn.setAttribute("aria-selected", "true");
-      document.getElementById(btn.getAttribute("aria-controls")).hidden = false;
+  const tabBtns = Array.from(document.querySelectorAll(".tab-btn"));
+
+  function activateTab(btn, { moveFocus = false } = {}) {
+    tabBtns.forEach((b) => {
+      b.setAttribute("aria-selected", "false");
+      b.setAttribute("tabindex", "-1");
     });
+    document.querySelectorAll(".tab-panel__body").forEach((p) => (p.hidden = true));
+    btn.setAttribute("aria-selected", "true");
+    btn.setAttribute("tabindex", "0");
+    document.getElementById(btn.getAttribute("aria-controls")).hidden = false;
+    if (moveFocus) btn.focus();
+  }
+
+  tabBtns.forEach((btn) => {
+    btn.addEventListener("click", () => activateTab(btn));
+  });
+
+  /**
+   * WAI-ARIA Authoring Practices「Tabs」パターンに合わせたキーボード操作。
+   * ←→でタブ間を移動（自動的にそのタブを選択、端で循環）、Home/Endで
+   * 先頭・末尾へ。role="tab"はroving tabindex（選択中のタブのみtabindex=0）
+   * にしているため、Tabキーはタブリスト全体を1回で通過する。
+   */
+  document.querySelector('.tab-list[role="tablist"]').addEventListener("keydown", (e) => {
+    const currentIndex = tabBtns.indexOf(document.activeElement);
+    if (currentIndex === -1) return;
+    let nextIndex = null;
+    if (e.key === "ArrowRight") nextIndex = (currentIndex + 1) % tabBtns.length;
+    else if (e.key === "ArrowLeft") nextIndex = (currentIndex - 1 + tabBtns.length) % tabBtns.length;
+    else if (e.key === "Home") nextIndex = 0;
+    else if (e.key === "End") nextIndex = tabBtns.length - 1;
+    if (nextIndex === null) return;
+    e.preventDefault();
+    activateTab(tabBtns[nextIndex], { moveFocus: true });
   });
 
   document.getElementById("copy-drug").addEventListener("click", () => {

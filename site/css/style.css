@@ -169,6 +169,11 @@ p, li, .field__body, .sec-body {
   outline-offset: 2px;
 }
 
+/* main[tabindex="-1"]はスキップリンクの着地点としてのみ使う
+   （キーボード操作でフォーカスが実際に移動するようにするため）。
+   ユーザーが自らTabで辿り着く要素ではないため、フォーカスリングは出さない。 */
+main:focus-visible { outline: none; }
+
 .container {
   max-width: 760px;
   margin: 0 auto;

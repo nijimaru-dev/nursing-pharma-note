@@ -57,7 +57,7 @@
   </div>
 </header>
 
-<main id="main">
+<main id="main" tabindex="-1">
   <div class="container">
     <section class="hero" style="padding-top:32px;">
       <p class="hero__eyebrow">複数薬チェック</p>
@@ -184,7 +184,9 @@ renderCheck();
 function renderSelected() {
   selectedListEl.innerHTML = "";
   resetBtn.style.display = selected.size ? "" : "none";
-  selected.forEach((drug) => {
+  const ids = Array.from(selected.keys());
+  ids.forEach((id, index) => {
+    const drug = selected.get(id);
     const li = document.createElement("li");
     const pill = document.createElement("span");
     pill.className = "pill";
@@ -195,10 +197,19 @@ function renderSelected() {
     removeBtn.setAttribute("aria-label", `${drug.brand_name || drug.generic_name}を削除`);
     removeBtn.textContent = "×";
     removeBtn.addEventListener("click", () => {
-      selected.delete(drug.id);
+      // 削除ボタン自身がDOMから消えるとフォーカスが失われ、キーボード・スクリーンリーダー
+      // 利用者はTab位置が文書先頭に戻ってしまう。削除後は同じ位置に繰り上がった次の薬の
+      // 削除ボタンへ、最後の1件だった場合は検索欄へフォーカスを移す。
+      selected.delete(id);
       saveSelection();
       renderSelected();
       renderCheck();
+      const remainingButtons = selectedListEl.querySelectorAll(".pill button");
+      if (remainingButtons.length) {
+        remainingButtons[Math.min(index, remainingButtons.length - 1)].focus();
+      } else {
+        document.getElementById("drug-search").focus();
+      }
     });
     pill.appendChild(label);
     pill.appendChild(removeBtn);
