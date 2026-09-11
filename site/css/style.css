@@ -478,6 +478,75 @@ h1, h2, h3, h4 {
 .result-card--none .pair-type { color: var(--safe); }
 .result-card .pair-detail { margin-top: 6px; font-size: 0.94rem; color: var(--ink-soft); }
 
+/* --- 薬ペアのvs表示：左右に薬名、中央に× --- */
+.pair-vs {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 4px 0 2px;
+}
+.pair-vs__name {
+  flex: 1;
+  font-weight: 700;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  line-height: 1.4;
+}
+.pair-vs__name--a { text-align: right; }
+.pair-vs__name--b { text-align: left; }
+.pair-vs__x {
+  flex-shrink: 0;
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  background: var(--paper-raised);
+  border: 1.5px solid currentColor;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.78rem; font-weight: 700;
+  color: var(--danger);
+}
+.result-card--caution .pair-vs__x { color: var(--warning); }
+.result-card--none .pair-vs__x { color: var(--safe); }
+
+.pair-action {
+  margin-top: 8px;
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+/* --- チェック結果の要約バッジ・折りたたみ --- */
+.results-summary { margin-top: 16px; }
+.results-summary summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 4px 0;
+}
+.results-summary summary::-webkit-details-marker { display: none; }
+.results-summary summary::after {
+  content: "詳細を見る ▾";
+  font-size: 0.82rem;
+  color: var(--teal-dark);
+  margin-left: 4px;
+}
+.results-summary[open] summary::after { content: "閉じる ▴"; }
+
+.summary-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.86rem;
+  font-weight: 700;
+  padding: 7px 14px;
+  border-radius: 999px;
+}
+.summary-badge--alert { background: var(--danger-tint); color: var(--danger); }
+.summary-badge--caution { background: var(--warning-tint); color: var(--warning); }
+.summary-badge--none { background: var(--safe-tint); color: var(--safe); }
+
 .disclaimer-inline {
   font-size: 0.82rem;
   color: var(--ink-soft);

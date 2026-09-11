@@ -160,7 +160,10 @@ function renderCheck() {
         結果をコピー
       </button>
     </div>
-    <div id="interaction-results"></div>`;
+    <details class="results-summary" id="results-summary">
+      <summary id="results-summary-badges"></summary>
+      <div id="interaction-results"></div>
+    </details>`;
   const interactionResultsEl = document.getElementById("interaction-results");
   const idSet = new Set(ids);
 
@@ -208,8 +211,13 @@ function renderCheck() {
       html += `
         <div class="result-card ${p.interaction_type === "caution" ? "result-card--caution" : ""}">
           <div class="pair-type">${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</div>
-          <div class="pair-name">${escapeHTML(p.aBrand)} × ${escapeHTML(p.bBrand)}</div>
+          <div class="pair-vs">
+            <span class="pair-vs__name pair-vs__name--a">${escapeHTML(p.aBrand)}</span>
+            <span class="pair-vs__x" aria-hidden="true">×</span>
+            <span class="pair-vs__name pair-vs__name--b">${escapeHTML(p.bBrand)}</span>
+          </div>
           <div class="pair-detail">${escapeHTML(p.source_text)}</div>
+          <div class="pair-action">使用する場合は医師・薬剤師に相談しましょう。</div>
         </div>`;
     });
 
@@ -217,12 +225,33 @@ function renderCheck() {
       html += `
         <div class="result-card result-card--none">
           <div class="pair-type">記載なし</div>
-          <div class="pair-name">${escapeHTML(a.brand_name)} × ${escapeHTML(b.brand_name)}</div>
+          <div class="pair-vs">
+            <span class="pair-vs__name pair-vs__name--a">${escapeHTML(a.brand_name)}</span>
+            <span class="pair-vs__x" aria-hidden="true">×</span>
+            <span class="pair-vs__name pair-vs__name--b">${escapeHTML(b.brand_name)}</span>
+          </div>
           <div class="pair-detail">記載されている相互作用は見つかりませんでした。データベースに記載がないだけで、安全という意味ではありません。</div>
+          <div class="pair-action">気になる場合は医師・薬剤師に相談しましょう。</div>
         </div>`;
     });
 
     interactionResultsEl.innerHTML = html;
+
+    // 要約バッジ（留意事項あり／なしを色分けし、件数を添える）
+    const contraCount = sorted.filter((p) => p.interaction_type === "contraindicated").length;
+    const cautionCount = sorted.filter((p) => p.interaction_type === "caution").length;
+    const alertTotal = contraCount + cautionCount;
+    let badgesHtml = "";
+    if (alertTotal > 0) {
+      const badgeClass = contraCount > 0 ? "summary-badge--alert" : "summary-badge--caution";
+      badgesHtml += `<span class="summary-badge ${badgeClass}">⚠ 留意事項 ${alertTotal}件</span>`;
+    }
+    if (noneFoundPairs.length > 0) {
+      badgesHtml += `<span class="summary-badge summary-badge--none">記載なし ${noneFoundPairs.length}件</span>`;
+    }
+    document.getElementById("results-summary-badges").innerHTML = badgesHtml;
+    // 留意事項が1件でもあれば、開封の手間なく気づけるよう最初から開いておく
+    document.getElementById("results-summary").open = alertTotal > 0;
 
     document.getElementById("copy-check-results").addEventListener("click", () => {
       const lines = [];
@@ -232,11 +261,13 @@ function renderCheck() {
       sorted.forEach((p) => {
         lines.push(`【${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}】${p.aBrand} × ${p.bBrand}`);
         lines.push(p.source_text);
+        lines.push("使用する場合は医師・薬剤師に相談しましょう。");
         lines.push("");
       });
       noneFoundPairs.forEach(([a, b]) => {
         lines.push(`【記載なし】${a.brand_name} × ${b.brand_name}`);
         lines.push("記載されている相互作用は見つかりませんでした。安全という意味ではありません。");
+        lines.push("気になる場合は医師・薬剤師に相談しましょう。");
         lines.push("");
       });
       lines.push("※本結果は参考情報です。診断・治療の代替にはなりません。");
