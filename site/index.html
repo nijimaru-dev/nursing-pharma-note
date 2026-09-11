@@ -39,8 +39,13 @@
     <h2 class="section-label">薬効分類でさがす</h2>
     <ul class="category-grid" id="category-grid"></ul>
 
-    <h2 class="section-label">よく調べられる薬</h2>
-    <ul class="drug-grid" id="popular-drugs"></ul>
+    <!--
+      「よく調べられる薬」セクションは撤去済み（2026-09）。
+      実際のアクセス数や施設処方データに基づく選定ロジックが無いまま
+      表示すると、たまたまindex.jsonの先頭に来た薬（読み込み順）が
+      並ぶだけで意味を持たない。実用的な選定基準（施設処方データ・
+      アクセスログ等）ができてから再度追加すること。
+    -->
 
     <div class="disclaimer-inline">
       本サイトは診断・治療・処方の代替ではありません。実際の投薬判断は必ず最新の添付文書・医師・薬剤師の指示に従ってください。
@@ -90,26 +95,6 @@
         <span><span class="label">${cat.label}</span><span class="count">${count}件</span></span>`;
       li.appendChild(a);
       catGrid.appendChild(li);
-    });
-  });
-
-  DrugData.loadIndex().then((list) => {
-    const ul = document.getElementById("popular-drugs");
-    list.slice(0, 8).forEach((d) => {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.className = "drug-chip";
-      a.href = `/drug.html?id=${d.id}`;
-      const nameSpan = document.createElement("span");
-      nameSpan.className = "name";
-      nameSpan.textContent = d.brand_name || d.generic_name;
-      const clsSpan = document.createElement("span");
-      clsSpan.className = "cls";
-      clsSpan.textContent = d.therapeutic_classification || d.generic_name || "";
-      a.appendChild(nameSpan);
-      a.appendChild(clsSpan);
-      li.appendChild(a);
-      ul.appendChild(li);
     });
   });
 </script>
