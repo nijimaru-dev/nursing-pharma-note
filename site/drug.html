@@ -63,6 +63,18 @@ function firstSentence(text) {
   return cut ? cut + "。" : text;
 }
 
+/**
+ * 添付文書由来のテキストをそのまま表示する際、XML変換時に生まれた
+ * 空行・読点だけの行（ノイズ）だけを取り除く（文章の中身は変えない）。
+ */
+function cleanRawText(text) {
+  if (!text) return "";
+  return text
+    .split("\n")
+    .filter((line) => !/^[、,，\s]*$/.test(line))
+    .join("\n");
+}
+
 /** テキストを箇条書きに分割する。句読点だけの断片等のノイズは除く。 */
 function splitToBullets(text) {
   if (!text) return [];
@@ -124,6 +136,7 @@ function buildInteractionsHTML(drug) {
       <span class="itype">${i.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</span>
       <span class="target">${escapeHTML(i.drug_name_or_class)}</span>
       <div class="detail">${escapeHTML(i.clinical_symptom_action)}</div>
+      ${i.mechanism_risk_factor ? `<div class="detail detail--mechanism" data-detail hidden>機序・危険因子：${escapeHTML(i.mechanism_risk_factor)}</div>` : ""}
     </div>`
     )
     .join("");
@@ -137,16 +150,15 @@ function renderDrug(drug) {
 
   // 「看護で見る」は併用注意の臨床症状・措置方法から作る（「重要」＝重大な副作用と
   // 内容が重複しないようにするため。observation_pointsは重大な副作用も含むため使わない）。
-  const nursingPoints = drug.interactions
-    ? splitToBullets(
-        drug.interactions
-          .filter((i) => i.interaction_type === "caution")
-          .map((i) => i.clinical_symptom_action)
-          .join("\n")
-      )
+  // くわしく表示では、あわせて機序・危険因子（なぜ起こるか）も表示する。
+  const cautionInteractions = drug.interactions
+    ? drug.interactions.filter((i) => i.interaction_type === "caution")
     : [];
+  const nursingPoints = splitToBullets(cautionInteractions.map((i) => i.clinical_symptom_action).join("\n"));
+  const nursingMechanisms = splitToBullets(cautionInteractions.map((i) => i.mechanism_risk_factor).join("\n"));
   const observationHTML = nursingPoints.length
-    ? `<ul class="bullet-list">${nursingPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>`
+    ? `<ul class="bullet-list" data-simple>${nursingPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>
+       <ul class="bullet-list" data-detail hidden>${nursingPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}${nursingMechanisms.map((p) => `<li class="muted">${escapeHTML(p)}</li>`).join("")}</ul>`
     : `<p class="field__body muted">併用時の観察ポイントの記載はありません。</p>`;
   const importantHTML = importantPoints.length
     ? `
@@ -154,7 +166,8 @@ function renderDrug(drug) {
       <svg class="important-banner__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="14"/><circle cx="12" cy="17" r="0.8" fill="currentColor" stroke="none"/></svg>
       <div>
         <div class="important-banner__title">重要：注意すべき副作用</div>
-        <ul>${importantPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>
+        <ul data-simple>${importantPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>
+        <div class="field__body" data-detail hidden style="font-size:0.9rem;">${escapeHTML(cleanRawText(drug.serious_adverse_events))}</div>
       </div>
     </div>`
     : "";
@@ -184,9 +197,16 @@ function renderDrug(drug) {
         </button>
       </div>
 
+      <div class="view-toggle">
+        <span class="view-toggle__label" data-view="simple" data-active="true">かんたん表示</span>
+        <button type="button" class="view-toggle__switch" id="view-switch" role="switch" aria-checked="false" aria-label="くわしく表示に切り替え"></button>
+        <span class="view-toggle__label" data-view="detail" data-active="false">くわしく表示（添付文書に近い表記）</span>
+      </div>
+
       <div class="field">
         <h2 class="sec-label">なぜ使う？</h2>
-        <div class="field__body">${escapeHTML(firstSentence(drug.indications) || "記載なし")}</div>
+        <div class="field__body" data-simple>${escapeHTML(firstSentence(drug.indications) || "記載なし")}</div>
+        <div class="field__body" data-detail hidden>${escapeHTML(cleanRawText(drug.indications) || "記載なし")}</div>
       </div>
 
       <div class="field">
@@ -203,10 +223,21 @@ function renderDrug(drug) {
         <div class="tab-list" role="tablist" aria-label="補足情報">
           ${tabs.map((t, i) => `<button type="button" class="tab-btn" role="tab" id="tab-${t.id}" aria-controls="panel-${t.id}" aria-selected="${i === 0}">${escapeHTML(t.label)}</button>`).join("")}
         </div>
-        ${tabs.map((t, i) => `<div class="tab-panel__body" id="panel-${t.id}" role="tabpanel" aria-labelledby="tab-${t.id}" ${i === 0 ? "" : "hidden"}>${escapeHTML(t.body || "記載なし")}</div>`).join("")}
+        ${tabs.map((t, i) => `<div class="tab-panel__body" id="panel-${t.id}" role="tabpanel" aria-labelledby="tab-${t.id}" ${i === 0 ? "" : "hidden"}>${escapeHTML(cleanRawText(t.body) || "記載なし")}</div>`).join("")}
       </div>
     </article>
   `;
+
+  const viewSwitch = document.getElementById("view-switch");
+  viewSwitch.addEventListener("click", () => {
+    const detailed = viewSwitch.getAttribute("aria-checked") === "true";
+    const next = !detailed;
+    viewSwitch.setAttribute("aria-checked", String(next));
+    document.querySelectorAll("[data-simple]").forEach((el) => (el.hidden = next));
+    document.querySelectorAll("[data-detail]").forEach((el) => (el.hidden = !next));
+    document.querySelector('.view-toggle__label[data-view="simple"]').setAttribute("data-active", String(!next));
+    document.querySelector('.view-toggle__label[data-view="detail"]').setAttribute("data-active", String(next));
+  });
 
   document.querySelectorAll(".tab-btn").forEach((btn) => {
     btn.addEventListener("click", () => {
