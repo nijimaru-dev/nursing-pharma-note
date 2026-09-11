@@ -1,25 +1,28 @@
 /* ==========================================================================
    看護薬理ノート — デザインシステム
-   方向性：「臨床リファレンス」
-   現場の看護師・介護職員・看護学生が急いでいる前提で、速さと正確さを最優先しつつ、
-   重篤度を色で即座に判別できるカルテ／医薬品集のような佇まいにする。
-   見出しは専門書らしいセリフ体、本文は視認性重視のゴシック体。
+   方向性：「専門書＋現代的Webアプリ」
+   検索を主役に、情報は静かな余白と極薄の罫線で整理する。背景はごくわずかに
+   温かみのある白、文字は濃いネイビー、アクセントは深い青緑。警告色（赤系）は
+   「重要」セクションなど本当に必要な箇所だけに使う。
+   見出しは明朝体、本文はゴシック体（游明朝/游ゴシック・Noto Serif/Sans JPを
+   フォールバックに含め、Webフォント未読込時もブラウザ標準フォントに
+   落ちないようにする）。
    ========================================================================== */
 
 @import url("https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap");
 
 :root {
-  /* --- 色：紙のような温かい白 × 深い藍 × 重篤度カラー --- */
-  --paper: #faf6ee;
+  /* --- 色：ごくわずかに温かみのある白 × 濃いネイビー × 深い青緑 --- */
+  --paper: #fdfbf6;
   --paper-raised: #ffffff;
-  --ink: #17213a;
-  --ink-soft: #4d4a3f;
-  --line: #e4dbc4;
-  --line-strong: #cfc3a3;
+  --ink: #16213c;
+  --ink-soft: #565f73;
+  --line: rgba(22, 33, 60, 0.09);
+  --line-strong: rgba(22, 33, 60, 0.18);
 
-  --teal: #0f6e68;
-  --teal-dark: #0a4f4a;
-  --teal-tint: #e4efec;
+  --teal: #0c5f57;
+  --teal-dark: #08443e;
+  --teal-tint: #e6efed;
 
   --danger: #a3341c;
   --danger-tint: #f6e6de;
@@ -28,11 +31,13 @@
   --safe: #3e6f4f;
   --safe-tint: #e7efe3;
 
-  --radius: 3px;
-  --shadow-card: 0 1px 2px rgba(23, 33, 58, 0.06), 0 8px 24px -12px rgba(23, 33, 58, 0.18);
+  --radius: 8px;
+  --radius-sm: 4px;
+  --shadow-card: 0 1px 2px rgba(22, 33, 60, 0.04), 0 6px 18px -12px rgba(22, 33, 60, 0.12);
 
-  --font-display: "Shippori Mincho", serif;
-  --font-body: "Zen Kaku Gothic New", "Hiragino Sans", sans-serif;
+  /* 游明朝体・Noto Serif JP等を明示的にフォールバックへ含める（8章参照） */
+  --font-display: "Shippori Mincho", "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
+  --font-body: "Zen Kaku Gothic New", "Yu Gothic", "YuGothic", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Hiragino Sans", sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -44,8 +49,11 @@ body {
   color: var(--ink);
   font-family: var(--font-body);
   font-size: 16px;
-  line-height: 1.9;
+  line-height: 1.95;
   -webkit-font-smoothing: antialiased;
+  line-break: strict;
+  word-break: normal;
+  overflow-wrap: break-word;
 }
 
 img { max-width: 100%; }
@@ -56,9 +64,15 @@ a:hover { color: var(--teal-dark); }
 h1, h2, h3, h4 {
   font-family: var(--font-display);
   font-weight: 700;
-  line-height: 1.4;
+  line-height: 1.55;
   margin: 0 0 0.6em;
   letter-spacing: 0.02em;
+  text-wrap: balance;
+}
+
+p, li, .field__body, .sec-body {
+  line-height: 1.95;
+  text-wrap: pretty;
 }
 
 :focus-visible {
@@ -263,21 +277,39 @@ h1, h2, h3, h4 {
 .drug-chip .name { font-weight: 700; display: block; }
 .drug-chip .cls { font-size: 0.8rem; color: var(--ink-soft); }
 
-/* --- 薬品詳細カード --- */
-.drug-card {
-  background: var(--paper-raised);
-  border: 1px solid var(--line);
+/* --- 「重要」バナー：ページ最上部・薬品名より前に常時固定表示 --- */
+.important-banner {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--danger-tint);
+  border: 1px solid #e3b4ae;
+  border-left: 4px solid var(--danger);
   border-radius: var(--radius);
-  box-shadow: var(--shadow-card);
-  overflow: hidden;
-  margin: 24px 0 40px;
+  padding: 16px 18px 17px;
+  margin: 20px 0;
 }
 
-.drug-card__head {
-  padding: 24px 24px 18px;
-  border-bottom: 1px solid var(--line);
+.important-banner__icon {
+  width: 22px; height: 22px;
+  color: var(--danger);
+  flex-shrink: 0;
+  margin-top: 1px;
 }
 
+.important-banner__title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.98rem;
+  color: #7a170f;
+  margin-bottom: 8px;
+}
+
+.important-banner ul { margin: 0; padding-left: 1.2em; }
+.important-banner li { font-size: 0.9rem; line-height: 1.8; color: #5a1b16; margin-bottom: 4px; }
+.important-banner li:last-child { margin-bottom: 0; }
+
+/* --- 薬品詳細：ヘッダー部（バナーの下、本文の起点） --- */
 .badge {
   display: inline-block;
   font-size: 0.72rem;
@@ -292,89 +324,90 @@ h1, h2, h3, h4 {
 
 .badge--formulary { background: var(--safe-tint); color: var(--safe); }
 
-.drug-card__head h1 {
-  font-size: 1.7rem;
-  margin-bottom: 2px;
-}
-
-.drug-card__generic {
-  color: var(--ink-soft);
-  font-size: 0.95rem;
-}
-
-/* --- 平易／詳細 トグルスイッチ --- */
-.view-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  margin-top: 16px;
-  font-size: 0.86rem;
-}
-
-.view-toggle__switch {
-  position: relative;
-  width: 52px;
-  height: 28px;
-  background: var(--line-strong);
-  border-radius: 999px;
-  border: none;
-  cursor: pointer;
-  padding: 0;
-  flex-shrink: 0;
-}
-
-.view-toggle__switch::after {
-  content: "";
-  position: absolute;
-  top: 3px;
-  left: 3px;
-  width: 22px;
-  height: 22px;
-  background: var(--paper-raised);
-  border-radius: 50%;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
-  transition: transform 160ms ease;
-}
-
-.view-toggle__switch[aria-checked="true"] { background: var(--teal); }
-.view-toggle__switch[aria-checked="true"]::after { transform: translateX(24px); }
-
-.view-toggle__label { color: var(--ink-soft); }
-.view-toggle__label[data-active="true"] { color: var(--ink); font-weight: 700; }
-
-/* --- 薬品カード本文 --- */
-.drug-card__body { padding: 6px 24px 24px; }
-
-.field {
-  padding: 18px 0;
+.drug-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 4px 0 28px;
+  padding-bottom: 22px;
   border-bottom: 1px solid var(--line);
 }
-.field:last-child { border-bottom: none; }
 
-.field__label {
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 0.98rem;
+.classification-chip {
+  display: inline-block;
+  font-size: 0.74rem;
+  letter-spacing: 0.05em;
+  color: var(--teal-dark);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  padding: 2px 8px;
   margin-bottom: 8px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
 }
 
-.field__label .dot {
-  width: 8px; height: 8px; border-radius: 50%;
-  background: var(--teal);
-  flex-shrink: 0;
+.drug-head h1 { font-size: 1.7rem; margin-bottom: 2px; }
+.drug-head__generic { color: var(--ink-soft); font-size: 0.95rem; }
+
+/* --- 薬品詳細：常時表示セクション --- */
+.field {
+  padding: 22px 0;
+  border-bottom: 1px solid var(--line);
+}
+.field:last-of-type { border-bottom: none; }
+
+.sec-label {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1rem;
+  margin: 0 0 10px;
 }
 
 .field__body { color: var(--ink); white-space: pre-line; }
 .field__body.muted { color: var(--ink-soft); font-size: 0.94rem; }
 
-.field--warn .field__label .dot { background: var(--danger); }
-.field--warn .field__body { color: var(--danger); }
+.bullet-list { list-style: none; margin: 0; padding: 0; }
+.bullet-list li {
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 8px;
+  line-height: 1.8;
+}
+.bullet-list li::before {
+  content: "";
+  position: absolute;
+  left: 2px; top: 9px;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--teal);
+}
 
-.bullet-list { margin: 0; padding-left: 1.3em; }
-.bullet-list li { margin-bottom: 4px; }
+/* --- 薬品詳細：補足情報タブ（用法用量詳細・適用上の注意等） --- */
+.detail-tabs { margin-top: 28px; padding-top: 4px; }
+.tab-list {
+  display: flex;
+  gap: 4px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 18px;
+  overflow-x: auto;
+}
+.tab-btn {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 10px 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.tab-btn[aria-selected="true"] {
+  color: var(--ink);
+  font-weight: 700;
+  border-bottom-color: var(--teal);
+}
+.tab-panel__body { color: var(--ink); white-space: pre-line; line-height: 1.9; }
 
 /* --- 相互作用行 --- */
 .interaction-row {
@@ -650,41 +683,35 @@ h1, h2, h3, h4 {
 
 .category-chip {
   display: flex;
-  align-items: center;
-  gap: 10px;
+  flex-direction: column;
+  gap: 4px;
   background: var(--paper-raised);
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  padding: 12px 14px;
+  padding: 16px 16px 14px;
   text-decoration: none;
   color: var(--ink);
-  transition: border-color 120ms ease, background 120ms ease, transform 120ms ease;
+  transition: border-color 120ms ease, box-shadow 120ms ease, transform 120ms ease;
 }
 
 .category-chip:hover {
-  border-color: var(--teal);
-  background: var(--teal-tint);
+  border-color: var(--line-strong);
+  box-shadow: var(--shadow-card);
   transform: translateY(-1px);
 }
 
-.category-chip .icon {
-  font-size: 1.3rem;
-  line-height: 1;
-  flex-shrink: 0;
-}
-
 .category-chip .label {
+  font-family: var(--font-display);
   font-weight: 700;
-  font-size: 0.92rem;
-  line-height: 1.3;
+  font-size: 1rem;
+  line-height: 1.4;
 }
 
 .category-chip .count {
   display: block;
-  font-size: 0.74rem;
+  font-size: 0.72rem;
   font-weight: 400;
   color: var(--ink-soft);
-  margin-top: 2px;
 }
 
 .category-chip--other {
@@ -695,13 +722,6 @@ h1, h2, h3, h4 {
 .category-page-head {
   padding: 32px 0 20px;
   border-bottom: 1px solid var(--line);
-}
-
-.category-page-head .icon-badge {
-  font-size: 2rem;
-  line-height: 1;
-  display: inline-block;
-  margin-bottom: 6px;
 }
 
 .category-page-head .count-note {

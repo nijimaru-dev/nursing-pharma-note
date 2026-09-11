@@ -12,7 +12,7 @@
 
 <header class="site-header">
   <div class="site-header__inner">
-    <a class="site-logo" href="/"><span aria-hidden="true">💊</span>看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <a class="site-logo" href="/">看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
     <nav class="site-nav" aria-label="サイト内ナビゲーション">
       <a href="/">トップ</a>
       <a href="/check.html">複数薬チェック</a>
@@ -72,13 +72,12 @@ if (!catId) {
 
     root.innerHTML = `
       <div class="category-page-head">
-        <span class="icon-badge" aria-hidden="true">${cat.icon}</span>
         <h1>${escapeHTML(cat.label)}</h1>
         <p class="count-note">${allInCategory.length}件の薬品</p>
       </div>
 
       <div class="search-box category-filter">
-        <span class="search-box__icon" aria-hidden="true">🔍</span>
+        <span class="search-box__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px;display:block"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.2" y2="16.2"/></svg></span>
         <label for="in-category-filter" style="position:absolute;left:-9999px;">この分類内で絞り込み</label>
         <input type="search" id="in-category-filter" autocomplete="off" placeholder="この分類の中でさらに薬品名で絞り込む">
       </div>

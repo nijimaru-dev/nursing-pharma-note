@@ -12,7 +12,7 @@
 
 <header class="site-header">
   <div class="site-header__inner">
-    <a class="site-logo" href="/"><span aria-hidden="true">💊</span>看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <a class="site-logo" href="/">看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
     <nav class="site-nav" aria-label="サイト内ナビゲーション">
       <a href="/" aria-current="page">トップ</a>
       <a href="/check.html">複数薬チェック</a>
@@ -29,7 +29,7 @@
       <p class="lede">添付文書の情報をもとに、効能・用法・注意点・飲み合わせを現場ですぐ確認できます。診断や処方の代わりにはなりません。</p>
 
       <div class="search-box">
-        <span class="search-box__icon" aria-hidden="true">🔍</span>
+        <span class="search-box__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px;display:block"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.2" y2="16.2"/></svg></span>
         <label for="drug-search" class="sr-only" style="position:absolute;left:-9999px;">薬品名で検索</label>
         <input type="search" id="drug-search" autocomplete="off" placeholder="薬品名・一般名で検索（例：ジゴキシン）" disabled>
         <div class="search-results" id="search-results" role="listbox" aria-label="検索候補"></div>
@@ -91,8 +91,7 @@
       const a = document.createElement("a");
       a.className = "category-chip" + (cat.id === "other" ? " category-chip--other" : "");
       a.href = `/category.html?cat=${cat.id}`;
-      a.innerHTML = `<span class="icon" aria-hidden="true">${cat.icon}</span>
-        <span><span class="label">${cat.label}</span><span class="count">${count}件</span></span>`;
+      a.innerHTML = `<span class="label">${cat.label}</span><span class="count">${count}件</span>`;
       li.appendChild(a);
       catGrid.appendChild(li);
     });
