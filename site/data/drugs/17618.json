@@ -8,7 +8,12 @@
   "contraindications": "肝性昏睡又は肝性昏睡のおそれのある患者\n重篤な腎障害又は高窒素血症のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹等\n消化器：悪心・嘔吐、胸やけ、腹部膨満感、下痢等",
+  "observation_points": [
+    "過敏症：発疹等",
+    "消化器：悪心・嘔吐、胸やけ、腹部膨満感、下痢等"
+  ],
+  "revision_date": "2026-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

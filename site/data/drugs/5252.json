@@ -8,7 +8,12 @@
   "contraindications": "ポリミキシンB又はコリスチンに対する過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、そう痒感\n消化器：悪心・嘔吐、食欲不振、下痢",
+  "observation_points": [
+    "過敏症：発疹、そう痒感",
+    "消化器：悪心・嘔吐、食欲不振、下痢"
+  ],
+  "revision_date": "2024-07",
   "is_in_formulary": false,
   "interactions": [
     {

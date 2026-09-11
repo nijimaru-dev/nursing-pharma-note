@@ -8,7 +8,13 @@
   "contraindications": "高カルシウム血症の患者［症状を悪化させることがある。］\n,\n腎結石のある患者［症状を悪化させることがある。］\n重篤な腎不全のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：便秘\nその他：高カルシウム血症\n、結石症",
+  "observation_points": [
+    "消化器：便秘",
+    "その他：高カルシウム血症",
+    "、結石症"
+  ],
+  "revision_date": "2023-08",
   "is_in_formulary": false,
   "interactions": [
     {

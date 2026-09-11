@@ -8,7 +8,18 @@
   "contraindications": "アミノ酸代謝異常のある患者［投与されたアミノ酸が代謝されず、症状が悪化する可能性がある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：―\n過敏症：紅斑\n腎臓：―\n腎臓：頻尿\n消化器：悪心\n消化器：―\nその他：―\nその他：注入部位血管外漏出",
+  "observation_points": [
+    "過敏症：―",
+    "過敏症：紅斑",
+    "腎臓：―",
+    "腎臓：頻尿",
+    "消化器：悪心",
+    "消化器：―",
+    "その他：―",
+    "その他：注入部位血管外漏出"
+  ],
+  "revision_date": "2026-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

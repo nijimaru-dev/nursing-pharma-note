@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n本剤にステンレスヘラを長時間接触させたままで放置すると、錆びることがあるので注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "刺激症状：疼痛、熱感\n刺激症状：潮紅、そう痒感\n過敏症：過敏症状\n皮膚：湿疹化、亀裂、丘疹\n皮膚：腫脹、乾燥化",
+  "observation_points": [
+    "刺激症状：疼痛、熱感",
+    "刺激症状：潮紅、そう痒感",
+    "過敏症：過敏症状",
+    "皮膚：湿疹化、亀裂、丘疹",
+    "皮膚：腫脹、乾燥化"
+  ],
+  "revision_date": "2024-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

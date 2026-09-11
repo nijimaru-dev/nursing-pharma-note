@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n薬剤の性質上容器内圧がかかっていることがあるので、開封時には注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：消化不良\n長期連用：ビタミン類及び鉱物質等の吸着による栄養障害",
+  "observation_points": [
+    "消化器：消化不良",
+    "長期連用：ビタミン類及び鉱物質等の吸着による栄養障害"
+  ],
+  "revision_date": "2025-05",
   "is_in_formulary": false,
   "interactions": [
     {

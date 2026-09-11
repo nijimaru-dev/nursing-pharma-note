@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "代謝異常：高マグネシウム血症\n消化器：下痢等",
+  "observation_points": [
+    "代謝異常：高マグネシウム血症",
+    "消化器：下痢等"
+  ],
+  "revision_date": "2023-04",
   "is_in_formulary": false,
   "interactions": [
     {

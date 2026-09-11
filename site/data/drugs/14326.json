@@ -8,9 +8,17 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性\n,\n,",
   "application_precautions": "",
   "serious_adverse_events": "アナフィラキシー（頻度不明）",
+  "other_adverse_events": "胃腸障害：下痢、悪心\n胃腸障害：嘔吐\n神経系障害：浮動性めまい\n神経系障害：頭痛\n皮膚及び皮下組織障害：発疹、蕁麻疹\n皮膚及び皮下組織障害：中毒性皮疹、紅斑、そう痒\n過敏症：血管性浮腫",
   "observation_points": [
-    "アナフィラキシー（頻度不明）"
+    "胃腸障害：下痢、悪心",
+    "胃腸障害：嘔吐",
+    "神経系障害：浮動性めまい",
+    "神経系障害：頭痛",
+    "皮膚及び皮下組織障害：発疹、蕁麻疹",
+    "皮膚及び皮下組織障害：中毒性皮疹、紅斑、そう痒",
+    "過敏症：血管性浮腫"
   ],
+  "revision_date": "2025-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

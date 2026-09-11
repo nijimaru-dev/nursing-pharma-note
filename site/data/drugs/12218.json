@@ -8,7 +8,11 @@
   "contraindications": "出血性血液疾患（血友病、血小板減少症、紫斑病等）のある患者［出血傾向を増強するおそれがある］\n僅少な出血でも重大な結果を来すことが予想される患者［出血傾向を増強するおそれがある］\n次の部位には使用しないこと\n潰瘍、びらん面［潰瘍、びらんを悪化させるおそれがある］\n眼［異常な刺激痛を起こすおそれがある］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：そう痒感、発赤、発疹",
+  "observation_points": [
+    "過敏症：そう痒感、発赤、発疹"
+  ],
+  "revision_date": "2020-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

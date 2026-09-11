@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、蕁麻疹等\n肝臓：肝機能異常（AST、ALT等の上昇）",
+  "observation_points": [
+    "過敏症：発疹、蕁麻疹等",
+    "肝臓：肝機能異常（AST、ALT等の上昇）"
+  ],
+  "revision_date": "2024-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "本剤に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n眼又は眼の周囲に使用しないこと。\n損傷皮膚及び粘膜に使用しないこと。\n湿疹又は発疹の部位に使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発赤、発疹、腫脹",
+  "observation_points": [
+    "過敏症：発赤、発疹、腫脹"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

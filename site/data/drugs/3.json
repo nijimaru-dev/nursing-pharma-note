@@ -8,11 +8,9 @@
   "contraindications": "高カルシウム血症の患者[症状が悪化するおそれがある。]\n,\n,\n腎結石のある患者[腎結石が悪化するおそれがある。]\n重篤な腎不全のある患者",
   "application_precautions": "",
   "serious_adverse_events": "高カルシウム血症、結石症（いずれも頻度不明）\nカルシウム剤の長期投与により、高カルシウム血症及び結石症があらわれることがある。\n,\n,\n,",
-  "observation_points": [
-    "高カルシウム血症、結石症（いずれも頻度不明）",
-    "カルシウム剤の長期投与により、高カルシウム血症及び結石症があらわれることがある",
-    ","
-  ],
+  "other_adverse_events": "",
+  "observation_points": [],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [
     {

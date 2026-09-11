@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n散布剤として誤って吸入しないように注意させること。\n薬剤使用時の注意\n患部が化膿している場合には、あらかじめ適切な処置を行った後使用すること。\n液剤、軟膏剤、パスタ剤として眼には使用しないこと。\n含嗽剤として使用する場合には、長期連用を避けること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、紅斑、そう痒\n皮膚：刺激感等",
+  "observation_points": [
+    "過敏症：発疹、紅斑、そう痒",
+    "皮膚：刺激感等"
+  ],
+  "revision_date": "2023-11",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

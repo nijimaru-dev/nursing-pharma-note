@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n使用直前に開封し、汚染や乾燥しすぎることを防ぐこと。［7.1参照］\n再滅菌（煮沸）または再使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "使用部位\n注）：異物反応、炎症、浮腫、異物性肉芽腫",
+  "observation_points": [
+    "使用部位",
+    "注）：異物反応、炎症、浮腫、異物性肉芽腫"
+  ],
+  "revision_date": "2024-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("npn-theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    var f = localStorage.getItem("npn-fontsize");
+    if (f === "small" || f === "large") document.documentElement.dataset.fontsize = f;
+  } catch (e) {}
+})();
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>マイ薬箱｜看護薬理ノート</title>
+<meta name="description" content="お気に入り登録した薬と、最近見た薬の履歴を確認できます（この端末のブラウザ内のみに保存されます）。">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へ移動</a>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-logo" href="/">看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <div class="site-header__right">
+      <nav class="site-nav" aria-label="サイト内ナビゲーション">
+        <a href="/">トップ</a>
+        <a href="/check.html">複数薬チェック</a>
+        <a href="/mydrugs.html" aria-current="page">マイ薬箱</a>
+        <a href="/about.html">このサイトについて</a>
+      </nav>
+      <div class="settings-panel-wrap">
+        <button type="button" class="settings-toggle" id="settings-toggle" aria-haspopup="true" aria-expanded="false" aria-label="表示設定">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09a1.65 1.65 0 00-1-1.51 1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09a1.65 1.65 0 001.51-1 1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 112.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 112.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>
+        </button>
+        <div class="settings-panel" id="settings-panel" hidden>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">テーマ</span>
+            <div class="settings-panel__options" role="group" aria-label="テーマ">
+              <button type="button" data-theme-choice="system">自動</button>
+              <button type="button" data-theme-choice="light">ライト</button>
+              <button type="button" data-theme-choice="dark">ダーク</button>
+            </div>
+          </div>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">文字サイズ</span>
+            <div class="settings-panel__options" role="group" aria-label="文字サイズ">
+              <button type="button" data-fontsize-choice="small">小</button>
+              <button type="button" data-fontsize-choice="medium">中</button>
+              <button type="button" data-fontsize-choice="large">大</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <div class="container" style="padding-top:32px; padding-bottom:40px;">
+    <h1>マイ薬箱</h1>
+    <p class="lede" style="margin:0 0 8px;">お気に入り登録した薬と、最近見た薬をここでまとめて確認できます。ログインは不要ですが、この端末のこのブラウザだけに保存され、他の端末とは共有されません。</p>
+
+    <section class="mydrugs-section" style="margin-top:32px;">
+      <div class="mydrugs-section__head">
+        <h2 class="section-label" style="margin:0;">お気に入り</h2>
+      </div>
+      <ul class="drug-grid" id="fav-grid" style="margin-top:14px;"></ul>
+    </section>
+
+    <section class="mydrugs-section">
+      <div class="mydrugs-section__head">
+        <h2 class="section-label" style="margin:0;">最近見た薬</h2>
+        <button type="button" class="btn btn--ghost" id="clear-history-btn" style="display:none;">履歴を消去</button>
+      </div>
+      <ul class="drug-grid" id="history-grid" style="margin-top:14px;"></ul>
+    </section>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <details class="disclaimer-accordion">
+    <summary>免責事項・データ出典</summary>
+    <div class="disclaimer">
+      <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+      <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+    </div>
+  </details>
+  <div class="site-footer__links">
+    <span>© <span id="year"></span> 看護薬理ノート</span>
+    <a href="/about.html">このサイトについて</a>
+    <a href="/about.html#error-report-link">誤りを報告する</a>
+  </div>
+</footer>
+
+<script src="/js/data.js"></script>
+<script src="/js/mydrugs.js"></script>
+<script src="/js/toast.js"></script>
+<script src="/js/settings.js"></script>
+<script>
+document.getElementById("year").textContent = new Date().getFullYear();
+
+function escapeHTML(str) {
+  return String(str ?? "").replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[c]));
+}
+
+function drugCardHTML(d, { favBtn }) {
+  const isFav = MyDrugs.isFavorite(d.id);
+  return `
+    <li style="position:relative;">
+      <a class="drug-chip drug-chip--with-fav" href="/drug.html?id=${d.id}">
+        <span class="name">${escapeHTML(d.brand_name || d.generic_name)}</span>
+        <span class="cls">${escapeHTML(d.generic_name || "")}</span>
+      </a>
+      ${
+        favBtn
+          ? `<button type="button" class="fav-toggle" data-fav-id="${d.id}" aria-pressed="${isFav}" aria-label="${isFav ? "お気に入りから外す" : "お気に入りに追加"}">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2.5 15.09 8.76 22 9.77 17 14.64 18.18 21.52 12 18.27 5.82 21.52 7 14.64 2 9.77 8.91 8.76 12 2.5"/></svg>
+            </button>`
+          : ""
+      }
+    </li>`;
+}
+
+function bindFavButtons(container, onChange) {
+  container.querySelectorAll("[data-fav-id]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const id = Number(btn.dataset.favId);
+      const drug = { id, brand_name: btn.closest("li").querySelector(".name").textContent, generic_name: btn.closest("li").querySelector(".cls").textContent };
+      const nowFav = MyDrugs.toggleFavorite(drug);
+      showToast(nowFav ? "お気に入りに追加しました" : "お気に入りから外しました");
+      onChange();
+    });
+  });
+}
+
+function renderFavorites() {
+  const grid = document.getElementById("fav-grid");
+  const favs = MyDrugs.getFavorites();
+  if (!favs.length) {
+    grid.innerHTML = `<div class="empty-state" style="padding:32px 0;">まだお気に入りに登録した薬がありません。薬の詳細ページの★ボタンから追加できます。</div>`;
+    return;
+  }
+  grid.innerHTML = favs.map((d) => drugCardHTML(d, { favBtn: true })).join("");
+  bindFavButtons(grid, renderFavorites);
+}
+
+function renderHistory() {
+  const grid = document.getElementById("history-grid");
+  const clearBtn = document.getElementById("clear-history-btn");
+  const history = MyDrugs.getHistory();
+  clearBtn.style.display = history.length ? "" : "none";
+  if (!history.length) {
+    grid.innerHTML = `<div class="empty-state" style="padding:32px 0;">まだ閲覧した薬がありません。薬を検索して開くと、ここに表示されます。</div>`;
+    return;
+  }
+  grid.innerHTML = history.map((d) => drugCardHTML(d, { favBtn: true })).join("");
+  bindFavButtons(grid, () => { renderHistory(); renderFavorites(); });
+}
+
+document.getElementById("clear-history-btn").addEventListener("click", () => {
+  const backup = MyDrugs.getHistory();
+  MyDrugs.clearHistory();
+  renderHistory();
+  showUndoToast("閲覧履歴を消去しました", () => {
+    MyDrugs.setHistory(backup);
+    renderHistory();
+  });
+});
+
+renderFavorites();
+renderHistory();
+</script>
+</body>
+</html>

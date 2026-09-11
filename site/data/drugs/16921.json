@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "全般的な注意\n使用時には、感染に対する配慮をすること。\n薬剤調製時の注意\n注射剤の溶解希釈剤として使用する場合は、生理食塩液が適切であることを確認すること。\n薬剤投与時の注意\n静脈内投与をする場合は、ゆっくり静脈内に注射すること。\n残液は使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "大量・急速投与：血清電解質異常、うっ血性心不全、浮腫、アシドーシス",
+  "observation_points": [
+    "大量・急速投与：血清電解質異常、うっ血性心不全、浮腫、アシドーシス"
+  ],
+  "revision_date": "2024-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

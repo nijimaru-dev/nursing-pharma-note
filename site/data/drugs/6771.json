@@ -8,7 +8,12 @@
   "contraindications": "出血性血液疾患（血友病、血小板減少症、紫斑病等）［本剤に含まれるヘパリン類似物質は血液凝固抑制作用を有し、出血を助長するおそれがある。］\n僅少な出血でも重大な結果を来すことが予想される場合［本剤に含まれるヘパリン類似物質は血液凝固抑制作用を有し、出血を助長するおそれがある。］\nサリチル酸に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n潰瘍、びらん面への直接塗擦を避けること。\n眼には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発赤、そう痒、発疹、皮膚炎、皮膚刺激\n皮膚（投与部位）：多毛",
+  "observation_points": [
+    "過敏症：発赤、そう痒、発疹、皮膚炎、皮膚刺激",
+    "皮膚（投与部位）：多毛"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

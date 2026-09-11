@@ -8,9 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n投与部位\nまれに注射部位に硬結・疼痛があらわれることがある。\n皮下又は筋肉内に投与する場合には、神経及び血管を避けて慎重に投与すること。また、反復投与の必要がある場合には、例えば左右交互に注射するなど同一部位を避けることが望ましい。なお、乳幼小児においては特に注意すること。",
   "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）",
+  "other_adverse_events": "過敏症：注射部位の硬結、疼痛\n過敏症：蕁麻疹\n過敏症：発疹",
   "observation_points": [
-    "ショック、アナフィラキシー（いずれも頻度不明）"
+    "過敏症：注射部位の硬結、疼痛",
+    "過敏症：蕁麻疹",
+    "過敏症：発疹"
   ],
+  "revision_date": "2026-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

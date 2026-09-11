@@ -8,9 +8,17 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n口腔内カンジダ症：舌で患部に広くゆきわたらせ、できるだけ長く含んだ後、嚥下するよう指導すること。\n使用前十分振盪して均等な懸濁液として使用するよう指導すること。\n一過性の歯の黄変が認められることがあるが、ブラッシングで簡単に除去できる旨指導すること。",
   "serious_adverse_events": "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）",
+  "other_adverse_events": "過敏症：発熱、発疹、そう痒\n過敏症：蕁麻疹、血管浮腫\n消化器：悪心、嘔吐、食欲不振、腹痛、下痢、口内炎、腹部膨満感、胃痛\n消化器：心窩部痛\n消化器：舌炎\n腎臓：腎障害、BUN上昇、蛋白尿\n肝臓：肝障害、AST上昇、ALT上昇、Al-P上昇、ウロビリン尿",
   "observation_points": [
-    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）"
+    "過敏症：発熱、発疹、そう痒",
+    "過敏症：蕁麻疹、血管浮腫",
+    "消化器：悪心、嘔吐、食欲不振、腹痛、下痢、口内炎、腹部膨満感、胃痛",
+    "消化器：心窩部痛",
+    "消化器：舌炎",
+    "腎臓：腎障害、BUN上昇、蛋白尿",
+    "肝臓：肝障害、AST上昇、ALT上昇、Al-P上昇、ウロビリン尿"
   ],
+  "revision_date": "2024-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

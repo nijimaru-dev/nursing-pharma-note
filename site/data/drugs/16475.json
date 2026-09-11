@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n水疱性タイプの症状には有害であるため、湿潤面への使用は避けること。\n眼又は眼の周囲には使用しないこと。\n引火性があり、爆発の危険性もあるため、火気には十分注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発赤、発疹等の過敏症状",
+  "observation_points": [
+    "過敏症：発赤、発疹等の過敏症状"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

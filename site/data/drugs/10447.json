@@ -8,7 +8,14 @@
   "contraindications": "出血性血液疾患（血友病、血小板減少症、紫斑病等）の患者［血液凝固抑制作用を有し、出血を助長するおそれがある］\n僅少な出血でも重大な結果を来すことが予想される患者［血液凝固抑制作用を有し、出血を助長するおそれがある］",
   "application_precautions": "薬剤使用時の注意\n〈製剤共通〉\n潰瘍、びらん面への直接塗擦又は塗布を避けること。\n〈フォーム〉\nよく振ってから、使用すること。\n横向きや逆さまで使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：皮膚炎、そう痒、発赤、発疹、潮紅等\n過敏症：皮膚刺激感\n皮膚\n（投与部位）：紫斑",
+  "observation_points": [
+    "過敏症：皮膚炎、そう痒、発赤、発疹、潮紅等",
+    "過敏症：皮膚刺激感",
+    "皮膚",
+    "（投与部位）：紫斑"
+  ],
+  "revision_date": "2025-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

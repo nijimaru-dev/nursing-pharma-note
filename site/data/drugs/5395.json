@@ -8,7 +8,13 @@
   "contraindications": "本剤に対して過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発赤、発疹等の過敏症状\n大量使用　　消化器系：悪心・嘔吐、食欲不振\n大量使用　　循環器系：頭痛、頻脈",
+  "observation_points": [
+    "過敏症：発赤、発疹等の過敏症状",
+    "大量使用　　消化器系：悪心・嘔吐、食欲不振",
+    "大量使用　　循環器系：頭痛、頻脈"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

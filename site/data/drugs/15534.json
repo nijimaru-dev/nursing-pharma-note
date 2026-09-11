@@ -8,12 +8,12 @@
   "contraindications": "痛風、尿路結石のある患者［症状を悪化させることがある。］\n本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "高尿酸血症（頻度不明）、痛風（頻度不明）\n,\n急性腎障害（頻度不明）\n尿路結石（頻度不明）",
+  "other_adverse_events": "過敏症：発疹、そう痒感\n消化器：便秘",
   "observation_points": [
-    "高尿酸血症（頻度不明）、痛風（頻度不明）",
-    ",",
-    "急性腎障害（頻度不明）",
-    "尿路結石（頻度不明）"
+    "過敏症：発疹、そう痒感",
+    "消化器：便秘"
   ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

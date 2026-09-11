@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n結膜嚢内に残留して不快感を訴える場合があるので、使用後は洗眼等の処置を行うこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "眼：過敏症",
+  "observation_points": [
+    "眼：過敏症"
+  ],
+  "revision_date": "2021-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

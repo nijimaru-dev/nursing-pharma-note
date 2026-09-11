@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "全般的な注意\nスパイク針は輸液口に垂直に刺通すること。斜めに刺通すると輸液口の側壁を貫通し、液が漏れる可能性がある。\n血液製剤調製時の注意\nカルシウム含有製剤と混和すると凝血をおこす可能性があるため混合輸注はしないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "電解質異常：クエン酸による血中カルシウムイオン濃度の低下\n,",
+  "observation_points": [
+    "電解質異常：クエン酸による血中カルシウムイオン濃度の低下",
+    ","
+  ],
+  "revision_date": "2026-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

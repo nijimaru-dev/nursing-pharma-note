@@ -8,7 +8,14 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤使用時の注意\n〈製剤共通〉\n眼科用として角膜、結膜には使用しないこと。\n〈クリーム〉\n尋常性ざ瘡に使用する場合には、下記の点に注意すること。\n石鹸で洗顔後使用すること。\n膿疱の多発した重症例には他の適切な治療を行うことが望ましい。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：刺激感\n皮膚：つっぱり感、そう痒感、症状の悪化、色素沈着\n皮膚：接触皮膚炎（発疹、腫脹、水疱・びらん、熱感、鱗屑等）、膿疱、皮膚乾燥\n血管障害：発赤",
+  "observation_points": [
+    "皮膚：刺激感",
+    "皮膚：つっぱり感、そう痒感、症状の悪化、色素沈着",
+    "皮膚：接触皮膚炎（発疹、腫脹、水疱・びらん、熱感、鱗屑等）、膿疱、皮膚乾燥",
+    "血管障害：発赤"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

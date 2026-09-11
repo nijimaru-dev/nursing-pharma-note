@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n本剤は腸溶性であるので、噛まずに服用させること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "腎臓：長期投与により尿細管障害\n消化器：悪心、軟便、食欲不振等",
+  "observation_points": [
+    "腎臓：長期投与により尿細管障害",
+    "消化器：悪心、軟便、食欲不振等"
+  ],
+  "revision_date": "2023-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

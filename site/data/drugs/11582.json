@@ -8,7 +8,13 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤使用時の注意\n〈製剤共通〉\n著しい糜爛面には使用しないこと。\n〈外用液〉\n亀裂、糜爛面には注意して使用すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：接触皮膚炎、局所の発赤・紅斑、刺激感、そう痒、水疱\n皮膚：落屑\n皮膚：糜爛、亀裂",
+  "observation_points": [
+    "皮膚：接触皮膚炎、局所の発赤・紅斑、刺激感、そう痒、水疱",
+    "皮膚：落屑",
+    "皮膚：糜爛、亀裂"
+  ],
+  "revision_date": "2023-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

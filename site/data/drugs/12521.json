@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n洗口の場合\n用時希釈して使用させること。\n含嗽用にのみ使用させること。\n抜歯後等の口腔創傷の場合、血餅の形成が阻害されると思われる時期には、はげしい洗口を避けさせること。\n洗浄の場合\n用時希釈して使用すること。\n洗浄用にのみ使用すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状\n刺激感：刺激感",
+  "observation_points": [
+    "過敏症：過敏症状",
+    "刺激感：刺激感"
+  ],
+  "revision_date": "2024-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

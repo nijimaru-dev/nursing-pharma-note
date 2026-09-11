@@ -8,9 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n両頭針を取りつける際、プランジャーロッドを押さないようにすること。\nシリンジ中にごくわずかに気泡が含まれている場合がある。注射液を投与してもこの気泡は通常シリンジ内に残るが、誤って投与することのないよう気泡の位置に注意しながら投与すること。",
   "serious_adverse_events": "ショック（頻度不明）",
+  "other_adverse_events": "過敏症：紅斑、蕁麻疹、そう痒感、発疹\n消化器：嘔気、嘔吐\nその他：しびれ、発熱",
   "observation_points": [
-    "ショック（頻度不明）"
+    "過敏症：紅斑、蕁麻疹、そう痒感、発疹",
+    "消化器：嘔気、嘔吐",
+    "その他：しびれ、発熱"
   ],
+  "revision_date": "2026-06",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

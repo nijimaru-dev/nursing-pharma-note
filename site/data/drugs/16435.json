@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n本剤は空気中で風解しやすく、炭酸ガスを吸収して水に透明に溶けなくなるので、使用前後、速やかに密栓する等、取り扱いに注意すること。\n本剤は水溶液中で、塩素イオン、炭酸イオンと反応して白濁を生じる。とくに本剤の水溶液を調製する場合は煮沸するなどして二酸化炭素を除いた精製水を使用して用時調製すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "長期・大量使用：鉛中毒",
+  "observation_points": [
+    "長期・大量使用：鉛中毒"
+  ],
+  "revision_date": "2023-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

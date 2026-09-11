@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹\n消化器：食欲不振、下痢、悪心、胃部不快感",
+  "observation_points": [
+    "過敏症：発疹",
+    "消化器：食欲不振、下痢、悪心、胃部不快感"
+  ],
+  "revision_date": "2023-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

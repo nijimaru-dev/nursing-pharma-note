@@ -8,7 +8,12 @@
   "contraindications": "エストロゲン依存性悪性腫瘍（例えば、乳癌、子宮内膜癌）及びその疑いのある患者［腫瘍の悪化あるいは顕性化を促すことがある。］\nアンドロゲン依存性悪性腫瘍（例えば、前立腺癌）及びその疑いのある患者［腫瘍の悪化あるいは顕性化を促すことがある。］",
   "application_precautions": "薬剤投与時の注意\n本剤を皮下投与するに当たっては、通常腹壁皮下に行い、神経及び血管を避けて慎重に投与すること。また、同一部位への長期間の注射を避けること。\n注射部位に疼痛を訴えることがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発赤、発疹\n肝　臓：AST、ALTの軽度な上昇",
+  "observation_points": [
+    "過敏症：発赤、発疹",
+    "肝　臓：AST、ALTの軽度な上昇"
+  ],
+  "revision_date": "2025-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

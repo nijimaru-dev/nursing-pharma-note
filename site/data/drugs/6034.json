@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹\n精神神経系：めまい、眠気、頭痛・頭重\n精神神経系：脱力感、倦怠感\n消化器：口渇、食欲不振、悪心、嘔吐、下痢\n循環器：頻脈、動悸、顔面潮紅",
+  "observation_points": [
+    "過敏症：発疹",
+    "精神神経系：めまい、眠気、頭痛・頭重",
+    "精神神経系：脱力感、倦怠感",
+    "消化器：口渇、食欲不振、悪心、嘔吐、下痢",
+    "循環器：頻脈、動悸、顔面潮紅"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

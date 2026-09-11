@@ -8,7 +8,11 @@
   "contraindications": "消化管の穿孔又はその疑いのある患者［消化管が膨らみ、穿孔部位を伸展させ腹痛等の症状を悪化させるおそれがある。］\n消化管に急性出血のある患者［消化管が膨らみ、出血部位を伸展させる。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：腹部膨満感、おくび",
+  "observation_points": [
+    "消化器：腹部膨満感、おくび"
+  ],
+  "revision_date": "2023-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

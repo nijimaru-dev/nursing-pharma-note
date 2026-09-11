@@ -8,7 +8,16 @@
   "contraindications": "本剤の成分又はレボフロキサシン水和物に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n使用する際の薬液の温度が低いと、めまいを起こすおそれがあるので、使用時には、できるだけ体温に近い状態で使用すること。\n点耳の際、容器の先端が直接耳に触れないように注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：－\n過敏症：過敏症状\n耳：耳痛\n耳：外耳道発赤\nその他：－\nその他：頭痛、菌交代症",
+  "observation_points": [
+    "過敏症：－",
+    "過敏症：過敏症状",
+    "耳：耳痛",
+    "耳：外耳道発赤",
+    "その他：－",
+    "その他：頭痛、菌交代症"
+  ],
+  "revision_date": "2024-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

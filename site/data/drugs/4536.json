@@ -8,7 +8,13 @@
   "contraindications": "消化管に通過障害を有する患者［排泄に支障をきたすおそれがある。］",
   "application_precautions": "薬剤交付時の注意\n〈製剤共通〉\n本剤は吸湿性が強いのでPTPシート又は分包の状態で保存するよう指導すること。\n〈カプセル〉\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：そう痒感皮疹\n消化器：便秘食欲不振悪心・嘔吐\n消化器：腹部膨満感胃重感腹痛下痢",
+  "observation_points": [
+    "皮膚：そう痒感皮疹",
+    "消化器：便秘食欲不振悪心・嘔吐",
+    "消化器：腹部膨満感胃重感腹痛下痢"
+  ],
+  "revision_date": "2025-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

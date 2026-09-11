@@ -8,7 +8,20 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n所定の吸入装置以外の装置では、使用しないこと。\n本剤は吸入のみに使用すること。\n容器は吸入装置に確実に挿入及び装着して使用すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：嘔気、嘔吐\n消化器：唾液増加\n中枢神経系：意識状態変化\n呼吸抑制\n四肢のしびれ\n頭痛\n中枢神経系：めまい\n精神状態変化\n呼吸器：咳\n特殊感覚器：嗅覚錯誤",
+  "observation_points": [
+    "消化器：嘔気、嘔吐",
+    "消化器：唾液増加",
+    "中枢神経系：意識状態変化",
+    "呼吸抑制",
+    "四肢のしびれ",
+    "頭痛",
+    "中枢神経系：めまい",
+    "精神状態変化",
+    "呼吸器：咳",
+    "特殊感覚器：嗅覚錯誤"
+  ],
+  "revision_date": "2020-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

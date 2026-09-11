@@ -2,6 +2,16 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("npn-theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    var f = localStorage.getItem("npn-fontsize");
+    if (f === "small" || f === "large") document.documentElement.dataset.fontsize = f;
+  } catch (e) {}
+})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title id="page-title">薬品情報｜看護薬理ノート</title>
 <meta name="description" content="薬品の効能・用法・注意点・飲み合わせ（相互作用）を確認できます。">
@@ -13,11 +23,37 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-logo" href="/">看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
-    <nav class="site-nav" aria-label="サイト内ナビゲーション">
-      <a href="/">トップ</a>
-      <a href="/check.html">複数薬チェック</a>
-      <a href="/about.html">このサイトについて</a>
-    </nav>
+    <div class="site-header__right">
+      <nav class="site-nav" aria-label="サイト内ナビゲーション">
+        <a href="/">トップ</a>
+        <a href="/check.html">複数薬チェック</a>
+        <a href="/mydrugs.html">マイ薬箱</a>
+        <a href="/about.html">このサイトについて</a>
+      </nav>
+      <div class="settings-panel-wrap">
+        <button type="button" class="settings-toggle" id="settings-toggle" aria-haspopup="true" aria-expanded="false" aria-label="表示設定">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09a1.65 1.65 0 00-1-1.51 1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09a1.65 1.65 0 001.51-1 1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 112.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 112.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>
+        </button>
+        <div class="settings-panel" id="settings-panel" hidden>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">テーマ</span>
+            <div class="settings-panel__options" role="group" aria-label="テーマ">
+              <button type="button" data-theme-choice="system">自動</button>
+              <button type="button" data-theme-choice="light">ライト</button>
+              <button type="button" data-theme-choice="dark">ダーク</button>
+            </div>
+          </div>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">文字サイズ</span>
+            <div class="settings-panel__options" role="group" aria-label="文字サイズ">
+              <button type="button" data-fontsize-choice="small">小</button>
+              <button type="button" data-fontsize-choice="medium">中</button>
+              <button type="button" data-fontsize-choice="large">大</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
 
@@ -32,18 +68,24 @@
 </main>
 
 <footer class="site-footer">
-  <div class="disclaimer">
-    <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
-    <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
-  </div>
+  <details class="disclaimer-accordion">
+    <summary>免責事項・データ出典</summary>
+    <div class="disclaimer">
+      <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+      <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+    </div>
+  </details>
   <div class="site-footer__links">
     <span>© <span id="year"></span> 看護薬理ノート</span>
     <a href="/about.html">このサイトについて</a>
+    <a href="/about.html#error-report-link">誤りを報告する</a>
   </div>
 </footer>
 
 <script src="/js/data.js"></script>
 <script src="/js/toast.js"></script>
+<script src="/js/mydrugs.js"></script>
+<script src="/js/settings.js"></script>
 <script>
 document.getElementById("year").textContent = new Date().getFullYear();
 
@@ -73,6 +115,26 @@ function cleanRawText(text) {
     .split("\n")
     .filter((line) => !/^[、,，\s]*$/.test(line))
     .join("\n");
+}
+
+/** "2026-07" 形式の改訂年月を「2026年07月」表記に変換する。 */
+function formatRevisionDate(text) {
+  if (!text) return "";
+  const m = text.match(/^(\d{4})-(\d{2})$/);
+  return m ? `${m[1]}年${m[2]}月` : text;
+}
+
+/**
+ * 数値＋単位（mg/mcg等）を等幅フォントで表示し、誤読（mgとmcgの見間違い等）を
+ * 防ぐ。escapeHTML済みのテキストに対して行う（安全な英数字パターンのみに一致するため、
+ * エスケープ済みの&amp;等を誤って壊すことはない）。
+ */
+function wrapUnits(escapedText) {
+  if (!escapedText) return escapedText;
+  return escapedText.replace(
+    /(\d+(?:\.\d+)?\s?(?:mg|mcg|μg|mL|ml|kg|g|L|%|単位))/gi,
+    '<span class="num-unit">$1</span>'
+  );
 }
 
 /** テキストを箇条書きに分割する。句読点だけの断片等のノイズは除く。 */
@@ -116,12 +178,12 @@ function renderBackLink() {
 renderBackLink();
 
 if (!drugId) {
-  root.innerHTML = `<div class="empty-state">薬品が指定されていません。<a href="/">トップページから検索してください</a>。</div>`;
+  root.innerHTML = `<div class="empty-state">薬品が指定されていないようです。<a href="/">トップページから検索してみてください</a>。</div>`;
 } else {
   DrugData.loadDrug(drugId)
     .then((drug) => renderDrug(drug))
     .catch(() => {
-      root.innerHTML = `<div class="empty-state">薬品情報が見つかりませんでした。<a href="/">トップページから検索し直してください</a>。</div>`;
+      root.innerHTML = `<div class="empty-state">この薬品は見つかりませんでした。<a href="/">トップページから検索し直してみてください</a>。</div>`;
     });
 }
 
@@ -133,7 +195,7 @@ function buildInteractionsHTML(drug) {
     .map(
       (i) => `
     <div class="interaction-row ${i.interaction_type === "contraindicated" ? "interaction-row--contraindicated" : ""}">
-      <span class="itype">${i.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</span>
+      <span class="itype">${i.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}<button type="button" class="term-help" tabindex="0" aria-label="用語の説明" data-tip="${i.interaction_type === "contraindicated" ? "併用禁忌：一緒に使ってはいけない組み合わせ。" : "併用注意：一緒に使う場合は注意深い観察が必要な組み合わせ。"}">?</button></span>
       <span class="target">${escapeHTML(i.drug_name_or_class)}</span>
       <div class="detail">${escapeHTML(i.clinical_symptom_action)}</div>
       ${i.mechanism_risk_factor ? `<div class="detail detail--mechanism" data-detail hidden>機序・危険因子：${escapeHTML(i.mechanism_risk_factor)}</div>` : ""}
@@ -148,22 +210,22 @@ function renderDrug(drug) {
 
   const importantPoints = splitToBullets(drug.serious_adverse_events);
 
-  // 「看護で見る」は重大な副作用（serious_adverse_events）由来のobservation_points
-  // から作る。飲み合わせに起因する注意点は「飲み合わせ注意」セクションのみに表示し、
-  // ここには含めない（内容が重複するため）。
-  const nursingPoints = drug.observation_points && drug.observation_points.length
-    ? drug.observation_points
-    : splitToBullets(drug.serious_adverse_events);
+  // 「看護で見る」はその他の副作用（other_adverse_events＝重大に至らない一般的な
+  // 副作用）由来のobservation_pointsから作る。重大な副作用（serious_adverse_events）
+  // は上の「重要」バナー専用とし、ここには含めない（情報源を分離するため）。
+  // 飲み合わせに起因する注意点も「飲み合わせ注意」セクションのみに表示し、
+  // ここには含めない。
+  const nursingPoints = drug.observation_points || [];
   const observationHTML = nursingPoints.length
     ? `<ul class="bullet-list" data-simple>${nursingPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>
-       <div class="field__body" data-detail hidden>${escapeHTML(cleanRawText(drug.serious_adverse_events)) || "記載なし"}</div>`
-    : `<p class="field__body muted">重大な副作用としての記載がないため、観察ポイントはありません。</p>`;
+       <div class="field__body" data-detail hidden>${escapeHTML(cleanRawText(drug.other_adverse_events)) || "記載なし"}</div>`
+    : `<p class="field__body muted">その他の副作用としての記載がないため、観察ポイントはありません。</p>`;
   const importantHTML = importantPoints.length
     ? `
     <div class="important-banner">
       <svg class="important-banner__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="14"/><circle cx="12" cy="17" r="0.8" fill="currentColor" stroke="none"/></svg>
       <div>
-        <div class="important-banner__title">重要：注意すべき副作用</div>
+        <div class="important-banner__title">重要：注意すべき副作用<button type="button" class="term-help" tabindex="0" aria-label="用語の説明" data-tip="添付文書に「重大な副作用」として記載されている、頻度は高くないが特に注意が必要な副作用です。">?</button></div>
         <ul data-simple>${importantPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>
         <div class="field__body" data-detail hidden style="font-size:0.9rem;">${escapeHTML(cleanRawText(drug.serious_adverse_events))}</div>
       </div>
@@ -186,14 +248,21 @@ function renderDrug(drug) {
         <div>
           ${drug.therapeutic_classification ? `<span class="classification-chip">${escapeHTML(drug.therapeutic_classification)}</span><br>` : ""}
           ${drug.is_in_formulary ? `<span class="badge badge--formulary">施設採用薬</span>` : ""}
-          <h1>${escapeHTML(name)}</h1>
+          <h1>${wrapUnits(escapeHTML(name))}</h1>
           <p class="drug-head__generic">${escapeHTML(drug.generic_name || "")}</p>
         </div>
-        <button type="button" class="btn-copy" id="copy-drug">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="1.5"/><path d="M16 8V5.5A1.5 1.5 0 0014.5 4h-9A1.5 1.5 0 004 5.5v9A1.5 1.5 0 005.5 16H8"/></svg>
-          コピー
-        </button>
+        <div style="display:flex; gap:6px; flex-shrink:0;">
+          <button type="button" class="fav-toggle fav-toggle--standalone" id="fav-toggle" aria-pressed="false" aria-label="お気に入りに追加">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2.5 15.09 8.76 22 9.77 17 14.64 18.18 21.52 12 18.27 5.82 21.52 7 14.64 2 9.77 8.91 8.76 12 2.5"/></svg>
+          </button>
+          <button type="button" class="btn-copy" id="copy-drug">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="1.5"/><path d="M16 8V5.5A1.5 1.5 0 0014.5 4h-9A1.5 1.5 0 004 5.5v9A1.5 1.5 0 005.5 16H8"/></svg>
+            コピー
+          </button>
+        </div>
       </div>
+
+      ${drug.revision_date ? `<p class="revision-note">情報の最終更新：${escapeHTML(formatRevisionDate(drug.revision_date))}（添付文書の改訂年月）</p>` : ""}
 
       <div class="view-toggle">
         <span class="view-toggle__label" data-view="simple" data-active="true">かんたん表示</span>
@@ -221,10 +290,29 @@ function renderDrug(drug) {
         <div class="tab-list" role="tablist" aria-label="補足情報">
           ${tabs.map((t, i) => `<button type="button" class="tab-btn" role="tab" id="tab-${t.id}" aria-controls="panel-${t.id}" aria-selected="${i === 0}">${escapeHTML(t.label)}</button>`).join("")}
         </div>
-        ${tabs.map((t, i) => `<div class="tab-panel__body" id="panel-${t.id}" role="tabpanel" aria-labelledby="tab-${t.id}" ${i === 0 ? "" : "hidden"}>${escapeHTML(cleanRawText(t.body) || "記載なし")}</div>`).join("")}
+        ${tabs.map((t, i) => {
+          let body = escapeHTML(cleanRawText(t.body) || "記載なし");
+          if (t.id === "dose") body = wrapUnits(body);
+          return `<div class="tab-panel__body" id="panel-${t.id}" role="tabpanel" aria-labelledby="tab-${t.id}" ${i === 0 ? "" : "hidden"}>${body}</div>`;
+        }).join("")}
       </div>
     </article>
   `;
+
+  MyDrugs.recordView({ id: drug.id, brand_name: drug.brand_name, generic_name: drug.generic_name });
+
+  const favBtn = document.getElementById("fav-toggle");
+  function syncFavButton() {
+    const isFav = MyDrugs.isFavorite(drug.id);
+    favBtn.setAttribute("aria-pressed", String(isFav));
+    favBtn.setAttribute("aria-label", isFav ? "お気に入りから外す" : "お気に入りに追加");
+  }
+  favBtn.addEventListener("click", () => {
+    const nowFav = MyDrugs.toggleFavorite({ id: drug.id, brand_name: drug.brand_name, generic_name: drug.generic_name });
+    syncFavButton();
+    showToast(nowFav ? "お気に入りに追加しました" : "お気に入りから外しました");
+  });
+  syncFavButton();
 
   const viewSwitch = document.getElementById("view-switch");
   viewSwitch.addEventListener("click", () => {

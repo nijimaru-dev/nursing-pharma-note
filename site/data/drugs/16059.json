@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：食欲不振、胃部不快感、悪心、嘔吐、腹痛、下痢等\nその他：心悸亢進、のぼせ、舌のしびれ等",
+  "observation_points": [
+    "消化器：食欲不振、胃部不快感、悪心、嘔吐、腹痛、下痢等",
+    "その他：心悸亢進、のぼせ、舌のしびれ等"
+  ],
+  "revision_date": "2026-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

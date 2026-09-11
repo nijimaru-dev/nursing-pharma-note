@@ -8,7 +8,12 @@
   "contraindications": "本剤の成分に対して過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n眼科用として使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：皮膚刺激感等の過敏症状\n皮膚：接触性皮膚炎",
+  "observation_points": [
+    "皮膚：皮膚刺激感等の過敏症状",
+    "皮膚：接触性皮膚炎"
+  ],
+  "revision_date": "2023-06",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

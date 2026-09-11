@@ -8,7 +8,14 @@
   "contraindications": "透析療法を受けている患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：便秘、嘔気\n消化器：口渇、悪心等\n皮膚：発疹、蕁麻疹等\n過敏症：アナフィラキシー反応",
+  "observation_points": [
+    "消化器：便秘、嘔気",
+    "消化器：口渇、悪心等",
+    "皮膚：発疹、蕁麻疹等",
+    "過敏症：アナフィラキシー反応"
+  ],
+  "revision_date": "2026-02",
   "is_in_formulary": false,
   "interactions": [
     {

@@ -8,10 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、Al-P、γ-GTP等の著しい上昇を伴う肝機能障害、黄疸があらわれることがある。",
+  "other_adverse_events": "過敏症：発疹、発赤、瘙痒等\n消化器：食欲不振、胃部不快感、悪心、下痢等",
   "observation_points": [
-    "肝機能障害、黄疸（いずれも頻度不明）",
-    "AST、ALT、Al-P、γ-GTP等の著しい上昇を伴う肝機能障害、黄疸があらわれることがある"
+    "過敏症：発疹、発赤、瘙痒等",
+    "消化器：食欲不振、胃部不快感、悪心、下痢等"
   ],
+  "revision_date": "2023-11",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

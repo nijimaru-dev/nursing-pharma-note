@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "その他：心悸亢進、のぼせ、舌のしびれ、悪心等",
+  "observation_points": [
+    "その他：心悸亢進、のぼせ、舌のしびれ、悪心等"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

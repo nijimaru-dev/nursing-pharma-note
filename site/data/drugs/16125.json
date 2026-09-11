@@ -8,7 +8,12 @@
   "contraindications": "透析療法を受けている患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：便秘、悪心・嘔吐\nその他：アルミニウム脳症、アルミニウム骨症、貧血",
+  "observation_points": [
+    "消化器：便秘、悪心・嘔吐",
+    "その他：アルミニウム脳症、アルミニウム骨症、貧血"
+  ],
+  "revision_date": "2024-02",
   "is_in_formulary": false,
   "interactions": [
     {

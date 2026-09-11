@@ -8,7 +8,13 @@
   "contraindications": "既往に本剤の成分に対する過敏症を起こした患者",
   "application_precautions": "薬剤交付時の注意\n本剤はPTPシートから取り出して腟内にのみ使用するよう指導すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：そう痒感、腟壁充血等の局所刺激、局所の発赤\n生殖器：Candida albicans\nの出現",
+  "observation_points": [
+    "過敏症：そう痒感、腟壁充血等の局所刺激、局所の発赤",
+    "生殖器：Candida albicans",
+    "の出現"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n眼又は眼のまわりには使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発赤、刺激\n皮膚：湿疹",
+  "observation_points": [
+    "過敏症：発赤、刺激",
+    "皮膚：湿疹"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "14.1 薬剤使用時の注意\n粘膜には使用しないこと。\n連用により、皮膚が刺激に対して弱くなることがあるので、長期連用を避けること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：刺激感、発赤",
+  "observation_points": [
+    "皮膚：刺激感、発赤"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

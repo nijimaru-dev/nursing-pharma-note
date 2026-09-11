@@ -8,7 +8,12 @@
   "contraindications": "次の部位には使用しないこと眼粘膜等の粘膜［尿素により粘膜機能を障害する。］",
   "application_precautions": "薬剤投与時の注意\n潰瘍、びらん、傷面への直接塗擦を避けること。\n本剤を手指につけて眼に触れないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：ぴりぴり感、紅斑、そう痒感、疼痛、丘疹\n皮膚：灼熱感、落屑",
+  "observation_points": [
+    "皮膚：ぴりぴり感、紅斑、そう痒感、疼痛、丘疹",
+    "皮膚：灼熱感、落屑"
+  ],
+  "revision_date": "2023-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

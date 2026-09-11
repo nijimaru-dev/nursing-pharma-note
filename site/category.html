@@ -2,6 +2,16 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("npn-theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    var f = localStorage.getItem("npn-fontsize");
+    if (f === "small" || f === "large") document.documentElement.dataset.fontsize = f;
+  } catch (e) {}
+})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title id="page-title">薬効分類でさがす｜看護薬理ノート</title>
 <meta name="description" content="薬効分類ごとに薬品を一覧できます。">
@@ -13,11 +23,37 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-logo" href="/">看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
-    <nav class="site-nav" aria-label="サイト内ナビゲーション">
-      <a href="/">トップ</a>
-      <a href="/check.html">複数薬チェック</a>
-      <a href="/about.html">このサイトについて</a>
-    </nav>
+    <div class="site-header__right">
+      <nav class="site-nav" aria-label="サイト内ナビゲーション">
+        <a href="/">トップ</a>
+        <a href="/check.html">複数薬チェック</a>
+        <a href="/mydrugs.html">マイ薬箱</a>
+        <a href="/about.html">このサイトについて</a>
+      </nav>
+      <div class="settings-panel-wrap">
+        <button type="button" class="settings-toggle" id="settings-toggle" aria-haspopup="true" aria-expanded="false" aria-label="表示設定">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09a1.65 1.65 0 00-1-1.51 1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09a1.65 1.65 0 001.51-1 1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 112.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 112.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>
+        </button>
+        <div class="settings-panel" id="settings-panel" hidden>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">テーマ</span>
+            <div class="settings-panel__options" role="group" aria-label="テーマ">
+              <button type="button" data-theme-choice="system">自動</button>
+              <button type="button" data-theme-choice="light">ライト</button>
+              <button type="button" data-theme-choice="dark">ダーク</button>
+            </div>
+          </div>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">文字サイズ</span>
+            <div class="settings-panel__options" role="group" aria-label="文字サイズ">
+              <button type="button" data-fontsize-choice="small">小</button>
+              <button type="button" data-fontsize-choice="medium">中</button>
+              <button type="button" data-fontsize-choice="large">大</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
 
@@ -32,20 +68,38 @@
 </main>
 
 <footer class="site-footer">
-  <div class="disclaimer">
-    <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
-    <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
-  </div>
+  <details class="disclaimer-accordion">
+    <summary>免責事項・データ出典</summary>
+    <div class="disclaimer">
+      <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+      <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+    </div>
+  </details>
   <div class="site-footer__links">
     <span>© <span id="year"></span> 看護薬理ノート</span>
     <a href="/about.html">このサイトについて</a>
+    <a href="/about.html#error-report-link">誤りを報告する</a>
   </div>
 </footer>
 
 <script src="/js/data.js"></script>
 <script src="/js/categories.js"></script>
+<script src="/js/settings.js"></script>
 <script>
 document.getElementById("year").textContent = new Date().getFullYear();
+
+// PC利用時、「/」キーで絞り込み欄にフォーカスする
+document.addEventListener("keydown", (e) => {
+  if (e.key !== "/" || e.metaKey || e.ctrlKey || e.altKey) return;
+  const active = document.activeElement;
+  const isTyping = active && (active.tagName === "INPUT" || active.tagName === "TEXTAREA" || active.isContentEditable);
+  if (isTyping) return;
+  const filterInput = document.getElementById("in-category-filter");
+  if (filterInput) {
+    e.preventDefault();
+    filterInput.focus();
+  }
+});
 
 function escapeHTML(str) {
   return String(str ?? "").replace(/[&<>"']/g, (c) => ({
@@ -61,7 +115,7 @@ let shown = 0;
 let filteredDrugs = [];
 
 if (!catId) {
-  root.innerHTML = `<div class="empty-state">分類が指定されていません。<a href="/">トップページから選び直してください</a>。</div>`;
+  root.innerHTML = `<div class="empty-state">分類が見つかりませんでした。<a href="/">トップページから選び直してみてください</a>。</div>`;
 } else {
   const cat = getCategoryById(catId);
   document.getElementById("page-title").textContent = `${cat.label}｜看護薬理ノート`;
@@ -120,7 +174,7 @@ if (!catId) {
     }
 
     if (allInCategory.length === 0) {
-      gridEl.innerHTML = `<div class="empty-state">該当する薬品がまだ登録されていません。</div>`;
+      gridEl.innerHTML = `<div class="empty-state">この分類に該当する薬品はまだ見つかりませんでした。データを増やし次第反映します。</div>`;
       loadMoreWrap.hidden = true;
     } else {
       renderPage(true);

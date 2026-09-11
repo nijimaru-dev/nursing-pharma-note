@@ -8,7 +8,13 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤調製時の注意\n調製にあたっては、バイアルA以外の塩化インジウム（\n111\nIn）を使用しないこと。\n本品の調製は無菌的に行い、また適当な鉛容器で遮蔽して行うこと。\n本品の調製の際、バイアル内に空気を入れないこと、またバイアル内を陽圧にしないこと。\n調製後の注射液は25℃以下で保存し、6時間以内に投与すること。\n薬剤投与時の注意\n膀胱部の被曝を軽減させるため、投与後できるだけ患者に水分を摂取させ、排尿させることが望ましい。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "精神・神経系：頭痛\n血管障害：潮紅、ほてり\nその他：熱感、ALT増加、AST増加",
+  "observation_points": [
+    "精神・神経系：頭痛",
+    "血管障害：潮紅、ほてり",
+    "その他：熱感、ALT増加、AST増加"
+  ],
+  "revision_date": "2024-12",
   "is_in_formulary": false,
   "interactions": [
     {

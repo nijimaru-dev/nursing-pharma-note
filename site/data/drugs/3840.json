@@ -8,7 +8,11 @@
   "contraindications": "ヨウ素又は安息香酸エステル（コカインを除く）系局所麻酔剤に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n口腔粘膜等に付着した場合には、直ちに清拭し、必要な場合には洗口させること。また、手指等に付着した場合には、石けん等を用いて水又は温湯で洗浄すること。万一眼に入った場合には、直ちに多量の水で洗浄する等の適切な処置を行うこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状",
+  "observation_points": [
+    "過敏症：過敏症状"
+  ],
+  "revision_date": "2024-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

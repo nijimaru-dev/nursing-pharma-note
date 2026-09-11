@@ -8,7 +8,13 @@
   "contraindications": "本剤に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n眼には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状\n皮膚：皮膚炎等\n長期・大量使用又は高濃度の使用：皮膚炎",
+  "observation_points": [
+    "過敏症：過敏症状",
+    "皮膚：皮膚炎等",
+    "長期・大量使用又は高濃度の使用：皮膚炎"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

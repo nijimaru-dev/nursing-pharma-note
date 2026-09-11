@@ -57,6 +57,11 @@ TAG = {
     "caution_combi_item": "PrecautionsForCombi",
     "adverse_events": "AdverseEvents",
     "serious_adverse": "SeriousAdverseEvents",
+    "other_adverse_events": "OtherAdverseEvents",
+    "other_adverse_table": "OtherAdverse",
+    "date_of_revision": "DateOfPreparationOrRevision",
+    "preparation_or_revision": "PreparationOrRevision",
+    "year_month": "YearMonth",
     "application_precautions": "PrecautionsForApplication",
     "use_in_specific_pop": "UseInSpecificPopulations",
 }
@@ -134,6 +139,79 @@ def parse_interaction_item(item_elem):
     }]
 
 
+def parse_other_adverse_events(adverse_root):
+    """
+    11.2 その他の副作用（重大な副作用に至らない、頻度の高い一般的な副作用）を抽出する。
+
+    実データは「器官別分類（Category）× 頻度区分（Frequency）」のマトリクス表で、
+        <OtherAdverseEvents>
+          <OtherAdverseEvent>
+            <OtherAdverse>
+              <CategoryDefinition><Category id="OTHER1_TYPE1">循環器</Category>...</CategoryDefinition>
+              <FrequencyDefinition><Frequency id="OTHER1_FRQ1">2%以上</Frequency>...</FrequencyDefinition>
+              <AdverseReactions>
+                <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ2">
+                  めまい・ふらつき、動悸
+                </AdverseReactionDescription>
+                ...
+              </AdverseReactions>
+            </OtherAdverse>
+          </OtherAdverseEvent>
+        </OtherAdverseEvents>
+    のように、症状テキスト（AdverseReactionDescription）がcategoryRef属性で
+    分類（Category）を参照する構造になっている。個別の頻度％は症状テキスト本文に
+    含まれていることが多いため、frequencyRef（頻度区分）は使わず、
+    「分類：症状」の形でテキスト化する（分類が無い場合は症状のみ）。
+    """
+    if adverse_root is None:
+        return ""
+    other_root = adverse_root.find(f".//{TAG['other_adverse_events']}")
+    if other_root is None:
+        return ""
+
+    lines = []
+    for table in other_root.iter(TAG["other_adverse_table"]):
+        category_map = {}
+        cat_def = table.find("CategoryDefinition")
+        if cat_def is not None:
+            for cat in cat_def.findall("Category"):
+                cat_id = cat.get("id")
+                if cat_id:
+                    category_map[cat_id] = _text_all(cat)
+
+        reactions_root = table.find("AdverseReactions")
+        if reactions_root is None:
+            continue
+        for reaction in reactions_root.findall("AdverseReactionDescription"):
+            text = _text_all(reaction)
+            if not text:
+                continue
+            category = category_map.get(reaction.get("categoryRef"), "")
+            lines.append(f"{category}：{text}" if category else text)
+
+    return "\n".join(lines)
+
+
+def parse_revision_date(root):
+    """
+    添付文書の「作成又は改訂年月」（DateOfPreparationOrRevision）から、
+    最新の改訂年月（id="今回"のPreparationOrRevision配下のYearMonth、
+    "YYYY-MM"形式）を抽出する。id="前回"/"今回"の出現順は一定でないため、
+    idで明示的に引く（位置に依存しない）。
+    """
+    dor = root.find(f".//{TAG['date_of_revision']}")
+    if dor is None:
+        return ""
+    entries = dor.findall(TAG["preparation_or_revision"])
+    for entry in entries:
+        if entry.get("id") == "今回":
+            return _text_all(entry.find(TAG["year_month"]))
+    # id="今回"が見つからない未知の構造向けフォールバック：先頭要素を使う
+    if entries:
+        return _text_all(entries[0].find(TAG["year_month"]))
+    return ""
+
+
 def parse_tenpu_file(filepath: Path):
     """
     1つの添付文書XMLファイルをパースし、
@@ -182,12 +260,16 @@ def parse_tenpu_file(filepath: Path):
             for item in caution_block.iter(TAG["caution_combi_item"]):
                 caution_combi_rows.extend(parse_interaction_item(item))
 
-    # 重大な副作用
+    # 重大な副作用 / その他の副作用
     serious_adverse_text = ""
+    other_adverse_text = ""
     adverse_root = root.find(f".//{TAG['adverse_events']}")
     if adverse_root is not None:
         serious_elem = adverse_root.find(f".//{TAG['serious_adverse']}")
         serious_adverse_text = _text_all(serious_elem)
+        other_adverse_text = parse_other_adverse_events(adverse_root)
+
+    revision_date = parse_revision_date(root)
 
     common = {
         "generic_name": generic_name,
@@ -197,6 +279,8 @@ def parse_tenpu_file(filepath: Path):
         "contraindications": contraindications,
         "application_precautions": application_precautions,
         "serious_adverse_events": serious_adverse_text,
+        "other_adverse_events": other_adverse_text,
+        "revision_date": revision_date,
         "contra_combi_rows": contra_combi_rows,
         "caution_combi_rows": caution_combi_rows,
         "source_file": filepath.name,
@@ -219,6 +303,8 @@ CREATE TABLE IF NOT EXISTS drug_master (
     contraindications TEXT,
     application_precautions TEXT,
     serious_adverse_events TEXT,
+    other_adverse_events TEXT,
+    revision_date TEXT,
     source_file TEXT,
     is_in_formulary INTEGER DEFAULT 0,
     UNIQUE(yj_code, brand_name)
@@ -252,6 +338,16 @@ CREATE INDEX IF NOT EXISTS idx_interaction_drug ON drug_interaction(drug_master_
 """
 
 
+def ensure_column(conn, table, column, coltype="TEXT"):
+    """
+    CREATE TABLE IF NOT EXISTSは既存テーブルには効かない（新規カラムが増えない）ため、
+    既存のkarteno_drugs.dbに対してスキーマ変更を反映するための簡易マイグレーション。
+    """
+    cols = {row[1] for row in conn.execute(f"PRAGMA table_info({table})").fetchall()}
+    if column not in cols:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {coltype}")
+
+
 def load_formulary(path: Path):
     if not path:
         return set()
@@ -267,6 +363,8 @@ def load_formulary(path: Path):
 def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
     conn = sqlite3.connect(db_path)
     conn.executescript(SCHEMA)
+    ensure_column(conn, "drug_master", "other_adverse_events")
+    ensure_column(conn, "drug_master", "revision_date")
     cur = conn.cursor()
 
     formulary_names = load_formulary(formulary_path)
@@ -297,9 +395,9 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
                 """
                 INSERT INTO drug_master
                     (brand_name, yj_code, generic_name, therapeutic_classification, indications, dose_admin,
-                     contraindications, application_precautions, serious_adverse_events,
-                     source_file, is_in_formulary)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                     contraindications, application_precautions, serious_adverse_events, other_adverse_events,
+                     revision_date, source_file, is_in_formulary)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(yj_code, brand_name) DO UPDATE SET
                     generic_name=excluded.generic_name,
                     therapeutic_classification=excluded.therapeutic_classification,
@@ -308,6 +406,8 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
                     contraindications=excluded.contraindications,
                     application_precautions=excluded.application_precautions,
                     serious_adverse_events=excluded.serious_adverse_events,
+                    other_adverse_events=excluded.other_adverse_events,
+                    revision_date=excluded.revision_date,
                     source_file=excluded.source_file,
                     is_in_formulary=excluded.is_in_formulary
                 """,
@@ -315,7 +415,8 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
                     brand["brand_name"], brand["yj_code"], common["generic_name"],
                     common["therapeutic_classification"], common["indications"], common["dose_admin"],
                     common["contraindications"], common["application_precautions"],
-                    common["serious_adverse_events"], common["source_file"], in_formulary,
+                    common["serious_adverse_events"], common["other_adverse_events"],
+                    common["revision_date"], common["source_file"], in_formulary,
                 ),
             )
             drug_master_id = cur.execute(

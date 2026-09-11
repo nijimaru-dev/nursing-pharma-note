@@ -8,7 +8,15 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n分包品は、1回使い切りである。開封後は全量を速やかに服用すること。\n小児の手の届かない所に保管すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：食欲不振、下痢、軟便、腹部膨満感\n消化器：悪心・嘔吐、腹痛\n過敏症：発疹、そう痒感\nその他：顔面浮腫、血尿、貧血\nその他：体臭",
+  "observation_points": [
+    "消化器：食欲不振、下痢、軟便、腹部膨満感",
+    "消化器：悪心・嘔吐、腹痛",
+    "過敏症：発疹、そう痒感",
+    "その他：顔面浮腫、血尿、貧血",
+    "その他：体臭"
+  ],
+  "revision_date": "2023-08",
   "is_in_formulary": false,
   "interactions": [
     {

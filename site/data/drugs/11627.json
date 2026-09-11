@@ -8,7 +8,14 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n用法及び用量に特に留意し、点滴静注にのみ使用すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "腎臓：一過性蛋白尿、長期投与により尿細管障害\n循環器：胸部圧迫感\n精神神経系：頭痛、眠気\n過敏症：皮疹",
+  "observation_points": [
+    "腎臓：一過性蛋白尿、長期投与により尿細管障害",
+    "循環器：胸部圧迫感",
+    "精神神経系：頭痛、眠気",
+    "過敏症：皮疹"
+  ],
+  "revision_date": "2023-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

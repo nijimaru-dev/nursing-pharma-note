@@ -8,7 +8,14 @@
   "contraindications": "急性腹症が疑われる患者［腸管蠕動運動の亢進により、症状が増悪するおそれがある。］\n本剤の成分に対して過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：腹痛、悪心、嘔吐、腹鳴、腹部膨満感、下痢等\n消化器：腹部不快感\n皮膚：蕁麻疹、発疹等\n肝臓：AST上昇、ALT上昇等",
+  "observation_points": [
+    "消化器：腹痛、悪心、嘔吐、腹鳴、腹部膨満感、下痢等",
+    "消化器：腹部不快感",
+    "皮膚：蕁麻疹、発疹等",
+    "肝臓：AST上昇、ALT上昇等"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

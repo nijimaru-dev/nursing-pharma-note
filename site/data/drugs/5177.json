@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、発赤、瘙痒、蕁麻疹等\nその他：心悸亢進、のぼせ、舌のしびれ、悪心等",
+  "observation_points": [
+    "過敏症：発疹、発赤、瘙痒、蕁麻疹等",
+    "その他：心悸亢進、のぼせ、舌のしびれ、悪心等"
+  ],
+  "revision_date": "2023-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。\n本剤に含まれているベンザルコニウム塩化物はソフトコンタクトレンズに吸着されることがあるので、ソフトコンタクトレンズを装用している場合には、点眼前にレンズを外し、点眼後少なくとも5～10分間の間隔をあけて再装用すること。\n薬液汚染防止のため、点眼のとき、容器の先端が直接目に触れないように注意すること。\n他の点眼剤を併用する場合には、少なくとも5分以上間隔をあけてから点眼すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状",
+  "observation_points": [
+    "過敏症：過敏症状"
+  ],
+  "revision_date": "2023-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "腸閉塞のある患者［症状を悪化させるおそれがある。］\n透析療法を受けている患者\n出血性大腸炎の患者［腸管出血性大腸菌（O157等）や赤痢菌等の重篤な細菌性下痢のある患者では、症状の悪化、治療期間の延長をきたすおそれがある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：嘔吐、胃部膨満",
+  "observation_points": [
+    "消化器：嘔吐、胃部膨満"
+  ],
+  "revision_date": "2022-03",
   "is_in_formulary": false,
   "interactions": [
     {

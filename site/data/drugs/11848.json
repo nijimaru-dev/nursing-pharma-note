@@ -8,7 +8,14 @@
   "contraindications": "閉塞隅角緑内障の患者［アドレナリン作用により散瞳を来し、症状を悪化させる。］\nMAO阻害剤の投与を受けている患者",
   "application_precautions": "薬剤調製時の注意\n本品を小分けする場合は、微生物の混入等汚染が起きないよう注意し、一度小分けしたものは、本品容器に戻さないこと。また、汚染が起きたときは使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：―\n過敏症：過敏症状\n眼：散瞳、調節近点延長、乾燥感\n眼：眼圧変動、刺激痛、反応性充血",
+  "observation_points": [
+    "過敏症：―",
+    "過敏症：過敏症状",
+    "眼：散瞳、調節近点延長、乾燥感",
+    "眼：眼圧変動、刺激痛、反応性充血"
+  ],
+  "revision_date": "2023-02",
   "is_in_formulary": false,
   "interactions": [
     {

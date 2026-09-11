@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n眼には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：紅斑、瘙痒\n過敏症：発疹",
+  "observation_points": [
+    "過敏症：紅斑、瘙痒",
+    "過敏症：発疹"
+  ],
+  "revision_date": "2023-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

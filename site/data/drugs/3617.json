@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、発赤、瘙痒等\n消化器：胃部不快感等",
+  "observation_points": [
+    "過敏症：発疹、発赤、瘙痒等",
+    "消化器：胃部不快感等"
+  ],
+  "revision_date": "2022-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

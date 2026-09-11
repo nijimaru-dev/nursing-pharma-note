@@ -8,7 +8,12 @@
   "contraindications": "出血性大腸炎の患者［腸管出血性大腸菌（O157等）や赤痢菌等の重篤な細菌性下痢患者では、症状の悪化、治療期間の延長をきたすおそれがある。］",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：便秘\n皮膚：発疹",
+  "observation_points": [
+    "消化器：便秘",
+    "皮膚：発疹"
+  ],
+  "revision_date": "2024-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

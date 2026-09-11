@@ -8,7 +8,14 @@
   "contraindications": "本剤又は本剤配合成分に過敏症の既往歴のある患者\n胆道閉塞のある患者［排泄障害により、マンガンの全血中濃度、及び銅などの微量元素の血漿中濃度を上昇させるおそれがある。］",
   "application_precautions": "全般的な注意\n使用時には、感染に対する配慮をすること。\n薬剤投与時の注意\n残液は使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹\n肝臓：肝機能異常（AST上昇、ALT上昇、Al-P上昇等）、ビリルビン上昇\n精神神経系：パーキンソン様症状\nその他：血中マンガン上昇",
+  "observation_points": [
+    "過敏症：発疹",
+    "肝臓：肝機能異常（AST上昇、ALT上昇、Al-P上昇等）、ビリルビン上昇",
+    "精神神経系：パーキンソン様症状",
+    "その他：血中マンガン上昇"
+  ],
+  "revision_date": "2025-11",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

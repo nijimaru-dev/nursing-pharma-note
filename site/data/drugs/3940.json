@@ -8,7 +8,11 @@
   "contraindications": "急性腹症が疑われる患者［症状を悪化させるおそれがある。］\n重症の硬結便のある患者［症状を悪化させるおそれがある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：悪心・嘔吐、腹部膨満感等",
+  "observation_points": [
+    "消化器：悪心・嘔吐、腹部膨満感等"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n皮膚のみに使用し、眼科用として角膜、結膜には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：そう痒感\n皮膚：刺激感、発赤、潮紅、丘疹、顔面の熱感、接触皮膚炎、皮膚乾燥、ほてり感",
+  "observation_points": [
+    "皮膚：そう痒感",
+    "皮膚：刺激感、発赤、潮紅、丘疹、顔面の熱感、接触皮膚炎、皮膚乾燥、ほてり感"
+  ],
+  "revision_date": "2020-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

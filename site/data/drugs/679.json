@@ -8,7 +8,13 @@
   "contraindications": "本剤に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n使用時\n使用後はしばらく飲食を避けさせること。\n適用部位\n眼科用として使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "口腔の感染症：口腔の真菌性及び細菌性感染症\n過敏症：過敏症\n下垂体・副腎皮質系機能：下垂体・副腎皮質系機能の抑制",
+  "observation_points": [
+    "口腔の感染症：口腔の真菌性及び細菌性感染症",
+    "過敏症：過敏症",
+    "下垂体・副腎皮質系機能：下垂体・副腎皮質系機能の抑制"
+  ],
+  "revision_date": "2020-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

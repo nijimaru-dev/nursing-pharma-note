@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\nガラス容器が損傷している場合は使用しない。\n澄明な製剤のみを使用する。\n本剤は冷所に保存するので、使用に先立って室温に30分以上保つことが望ましい。\n本剤の使用にあたっては、気泡の混入を防ぐため使用法に十分留意すること。\n術後は本剤を十分に除去すること。\n本剤の開封後の使用は1回限りとし、残液はカニューレ及び容器とともに廃棄し、再使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "眼：眼圧上昇\n眼：炎症反応、角膜混濁、散瞳、霧視",
+  "observation_points": [
+    "眼：眼圧上昇",
+    "眼：炎症反応、角膜混濁、散瞳、霧視"
+  ],
+  "revision_date": "2023-05",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

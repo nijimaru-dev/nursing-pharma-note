@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n炭酸水素ナトリウム等アルカリ性薬剤との配合を避けること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹",
+  "observation_points": [
+    "過敏症：発疹"
+  ],
+  "revision_date": "2023-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

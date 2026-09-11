@@ -8,7 +8,14 @@
   "contraindications": "本剤及び類似化合物（クロルフェネシンカルバミン酸エステル等）に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、そう痒感\n精神神経系：頭痛・頭重感、めまい、ふらつき、眠気、運動失調\n精神神経系：霧視\n消化器：悪心・嘔吐、便秘、下痢、食欲不振、胸やけ・胃のもたれ・胃部不快感",
+  "observation_points": [
+    "過敏症：発疹、そう痒感",
+    "精神神経系：頭痛・頭重感、めまい、ふらつき、眠気、運動失調",
+    "精神神経系：霧視",
+    "消化器：悪心・嘔吐、便秘、下痢、食欲不振、胸やけ・胃のもたれ・胃部不快感"
+  ],
+  "revision_date": "2020-11",
   "is_in_formulary": false,
   "interactions": [
     {

@@ -8,7 +8,16 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nアスピリン喘息（非ステロイド性消炎鎮痛剤等による喘息発作の誘発）又はその既往歴のある患者［重篤な喘息発作を誘発又は再発させるおそれがある。］",
   "application_precautions": "薬剤使用時の注意\n眼及び粘膜に使用しないこと。\n表皮が損傷している場合に使用すると一過性の刺激感を起こすことがあるので注意すること。\n密封包帯法で使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚\na）\n（局所）：湿疹・皮膚炎、そう痒感\n皮膚\na）\n（局所）：発赤、発疹、粃糠様落屑\n過敏症\nb）：光線過敏症",
+  "observation_points": [
+    "皮膚",
+    "a）",
+    "（局所）：湿疹・皮膚炎、そう痒感",
+    "（局所）：発赤、発疹、粃糠様落屑",
+    "過敏症",
+    "b）：光線過敏症"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

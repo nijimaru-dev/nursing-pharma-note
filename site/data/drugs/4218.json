@@ -8,7 +8,15 @@
   "contraindications": "甲状腺機能低下症又は副甲状腺機能亢進症のある患者［高カルシウム血症を起こすことがある。］\n透析療法を受けている患者\nテトラサイクリン系抗生物質を投与中の患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹等\n皮膚：かゆみ\n消化器：悪心・嘔吐、便秘、下痢、口渇、おくび等\n代謝異常：高マグネシウム血症、高カルシウム血症\n長期投与：アルミニウム脳症、アルミニウム骨症",
+  "observation_points": [
+    "過敏症：発疹等",
+    "皮膚：かゆみ",
+    "消化器：悪心・嘔吐、便秘、下痢、口渇、おくび等",
+    "代謝異常：高マグネシウム血症、高カルシウム血症",
+    "長期投与：アルミニウム脳症、アルミニウム骨症"
+  ],
+  "revision_date": "2021-09",
   "is_in_formulary": false,
   "interactions": [
     {

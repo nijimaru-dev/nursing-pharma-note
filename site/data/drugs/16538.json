@@ -8,7 +8,11 @@
   "contraindications": "2.1 本剤又はヨウ素に対し過敏症の既往歴のある患者2.2 水銀剤を使用中の患者［10.1参照］",
   "application_precautions": "薬剤使用時の注意\n眼に入った場合は、直ちに多量の水で15分以上洗い流し、なお異常が認められる場合は眼科医に相談すること。\n本剤が手指又は白衣等に付着した場合は、ハイポアルコール（チオ硫酸ナトリウム・エタノール溶液）等で脱色し、充分水洗いすること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、口腔粘膜び爛等の過敏症状",
+  "observation_points": [
+    "過敏症：発疹、口腔粘膜び爛等の過敏症状"
+  ],
+  "revision_date": "2024-08",
   "is_in_formulary": false,
   "interactions": [
     {

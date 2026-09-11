@@ -8,7 +8,11 @@
   "contraindications": "ジスルフィラム、シアナミド、カルモフール、プロカルバジン塩酸塩を投与中の患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "大量投与：悪心・嘔吐、下痢、めまい、頭痛、瞳孔散大、心悸亢進、過呼吸、チアノーゼ、意識喪失、窒息性痙攣",
+  "observation_points": [
+    "大量投与：悪心・嘔吐、下痢、めまい、頭痛、瞳孔散大、心悸亢進、過呼吸、チアノーゼ、意識喪失、窒息性痙攣"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [
     {

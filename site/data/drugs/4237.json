@@ -8,7 +8,15 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹\n精神神経系：眠気、めまい、頭痛、不眠\n消化器：食欲不振、悪心・嘔吐、腹痛、下痢、口渇、胸やけ\n消化器：便秘、口内炎\nその他：悪寒、胸部圧迫感、倦怠感、心悸亢進",
+  "observation_points": [
+    "過敏症：発疹",
+    "精神神経系：眠気、めまい、頭痛、不眠",
+    "消化器：食欲不振、悪心・嘔吐、腹痛、下痢、口渇、胸やけ",
+    "消化器：便秘、口内炎",
+    "その他：悪寒、胸部圧迫感、倦怠感、心悸亢進"
+  ],
+  "revision_date": "2024-05",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

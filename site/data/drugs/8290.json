@@ -8,7 +8,12 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n高カルシウム血症の患者［高カルシウム血症が増悪するおそれがある。］\n,\n,",
   "application_precautions": "薬剤交付時の注意\n本剤は、かみ砕くか、口中で溶かして服用すること。\n吸湿及び光により品質低下が認められているので、分包しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：便秘、下痢、悪心、嘔吐、腹部不快感\n皮　膚：発疹、紅斑、そう痒症",
+  "observation_points": [
+    "消化器：便秘、下痢、悪心、嘔吐、腹部不快感",
+    "皮　膚：発疹、紅斑、そう痒症"
+  ],
+  "revision_date": "2023-04",
   "is_in_formulary": false,
   "interactions": [
     {

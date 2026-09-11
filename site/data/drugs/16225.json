@@ -8,7 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意　〈注射（10%注射液、1mol/L、2.5mol/L注射液）〉\n希釈して使用すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "大量投与：悪心・嘔吐等の消化器症状、高ナトリウム血症、うっ血性心不全、浮腫\n大量・急速投与：血清電解質異常、うっ血性心不全、浮腫、アシドーシス\n大量投与：高ナトリウム血症、うっ血性心不全、浮腫",
+  "observation_points": [
+    "大量投与：悪心・嘔吐等の消化器症状、高ナトリウム血症、うっ血性心不全、浮腫",
+    "大量・急速投与：血清電解質異常、うっ血性心不全、浮腫、アシドーシス",
+    "大量投与：高ナトリウム血症、うっ血性心不全、浮腫"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,10 +8,13 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "診断上の注意\n〈腎機能検査〉\n健康成人の初排泄時間は3～5分で、遅くとも10分以内であれば機能異常ではない。腎機能障害がある場合、初排泄時間は遅延する\n。（注）色素初排泄時間の他に、色素が尿中排泄最高濃度に達する時間（正常5～7分）、排泄持続時間（正常90分）を調べる場合もある。",
   "serious_adverse_events": "ショック（頻度不明）\n,",
+  "other_adverse_events": "過敏症：発疹等\n循環器：血圧上昇、徐脈\n消化器：悪心・嘔吐",
   "observation_points": [
-    "ショック（頻度不明）",
-    ","
+    "過敏症：発疹等",
+    "循環器：血圧上昇、徐脈",
+    "消化器：悪心・嘔吐"
   ],
+  "revision_date": "2021-11",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

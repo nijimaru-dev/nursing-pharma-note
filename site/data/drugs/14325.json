@@ -8,7 +8,14 @@
   "contraindications": "ガラクトース血症の患者［本剤はガラクトース（1%以下）及び乳糖（1%以下）を含有する。］",
   "application_precautions": "薬剤交付時の注意\n分包製品の使用後、残薬は廃棄し、保存しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：下痢\n、腹部膨満、腹痛、鼓腸、腹鳴\n消化器：悪心・嘔吐\n消化器：食欲不振",
+  "observation_points": [
+    "消化器：下痢",
+    "、腹部膨満、腹痛、鼓腸、腹鳴",
+    "消化器：悪心・嘔吐",
+    "消化器：食欲不振"
+  ],
+  "revision_date": "2022-06",
   "is_in_formulary": false,
   "interactions": [
     {

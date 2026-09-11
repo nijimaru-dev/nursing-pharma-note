@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：嘔気\nその他：めまい",
+  "observation_points": [
+    "消化器：嘔気",
+    "その他：めまい"
+  ],
+  "revision_date": "2022-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

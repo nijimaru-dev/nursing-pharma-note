@@ -8,7 +8,16 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤調製時の注意\n配合変化に十分注意すること。還元剤（ビタミンC等）との混合によりセレンの沈殿が生じるおそれがある。\n薬剤投与時の注意\n沈殿の認められるもの又は混濁しているものは投与しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：食欲亢進\n呼吸器：鼻出血\n皮膚：発疹、皮膚腫脹\n眼：角膜炎\n腎臓：腎機能障害、尿中血陽性\nその他：倦怠感、感染、背部痛、血中クレアチンホスホキナーゼ増加、体重増加",
+  "observation_points": [
+    "消化器：食欲亢進",
+    "呼吸器：鼻出血",
+    "皮膚：発疹、皮膚腫脹",
+    "眼：角膜炎",
+    "腎臓：腎機能障害、尿中血陽性",
+    "その他：倦怠感、感染、背部痛、血中クレアチンホスホキナーゼ増加、体重増加"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "精神神経系：眠気\n消化器：悪心、食欲不振、口渇",
+  "observation_points": [
+    "精神神経系：眠気",
+    "消化器：悪心、食欲不振、口渇"
+  ],
+  "revision_date": "2025-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。\n薬液汚染防止のため、点眼のとき、容器の先端が直接目に触れないように注意すること。\n他の点眼剤を併用する場合には、少なくとも5分以上間隔をあけてから点眼すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "眼：眼のそう痒感\n眼：眼刺激、眼脂、結膜充血、眼の異物感、眼瞼炎、結膜炎\n眼：びまん性表層角膜炎等の角膜障害、眼痛",
+  "observation_points": [
+    "眼：眼のそう痒感",
+    "眼：眼刺激、眼脂、結膜充血、眼の異物感、眼瞼炎、結膜炎",
+    "眼：びまん性表層角膜炎等の角膜障害、眼痛"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

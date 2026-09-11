@@ -8,10 +8,9 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n次の部位には使用しないこと血管内［塞栓を起こすおそれがある。］",
   "application_precautions": "薬剤投与時の注意\n容器より取出す際に細菌汚染しないように注意すること。\n消毒用アルコール浸漬又は加熱滅菌を避けること。（外装接着部の剥離、内容の変質をきたすおそれがある。）\n本剤は用法・用量にしたがって使用し、血管内には使用しないこと。",
   "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）\n全身発赤、呼吸困難、血圧低下等があらわれることがある。",
-  "observation_points": [
-    "ショック、アナフィラキシー（いずれも頻度不明）",
-    "全身発赤、呼吸困難、血圧低下等があらわれることがある"
-  ],
+  "other_adverse_events": "",
+  "observation_points": [],
+  "revision_date": "2020-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

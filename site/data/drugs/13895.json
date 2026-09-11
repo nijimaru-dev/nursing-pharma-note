@@ -8,9 +8,12 @@
   "contraindications": "本剤又は他の薬物に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n本剤は皮下注射のみに使用すること。\n本剤は「ワンポイントカットアンプル」を使用しているので、カット部位をエタノール綿等で清拭した後、ヤスリを用いず、アンプル枝部のマークの反対方向に折り取ること。",
   "serious_adverse_events": "ショック(頻度不明)",
+  "other_adverse_events": "過敏症：悪寒、悪心、発熱、発赤、発疹等\n注射部位：疼痛、発赤等",
   "observation_points": [
-    "ショック(頻度不明)"
+    "過敏症：悪寒、悪心、発熱、発赤、発疹等",
+    "注射部位：疼痛、発赤等"
   ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

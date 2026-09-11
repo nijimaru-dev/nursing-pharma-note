@@ -2,6 +2,16 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("npn-theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    var f = localStorage.getItem("npn-fontsize");
+    if (f === "small" || f === "large") document.documentElement.dataset.fontsize = f;
+  } catch (e) {}
+})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>このサイトについて｜看護薬理ノート</title>
 <meta name="description" content="看護薬理ノートの目的、データの出典、免責事項、著作権表記について説明します。">
@@ -13,11 +23,37 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-logo" href="/">看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
-    <nav class="site-nav" aria-label="サイト内ナビゲーション">
-      <a href="/">トップ</a>
-      <a href="/check.html">複数薬チェック</a>
-      <a href="/about.html" aria-current="page">このサイトについて</a>
-    </nav>
+    <div class="site-header__right">
+      <nav class="site-nav" aria-label="サイト内ナビゲーション">
+        <a href="/">トップ</a>
+        <a href="/check.html">複数薬チェック</a>
+        <a href="/mydrugs.html">マイ薬箱</a>
+        <a href="/about.html" aria-current="page">このサイトについて</a>
+      </nav>
+      <div class="settings-panel-wrap">
+        <button type="button" class="settings-toggle" id="settings-toggle" aria-haspopup="true" aria-expanded="false" aria-label="表示設定">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09a1.65 1.65 0 00-1-1.51 1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09a1.65 1.65 0 001.51-1 1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 112.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 112.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>
+        </button>
+        <div class="settings-panel" id="settings-panel" hidden>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">テーマ</span>
+            <div class="settings-panel__options" role="group" aria-label="テーマ">
+              <button type="button" data-theme-choice="system">自動</button>
+              <button type="button" data-theme-choice="light">ライト</button>
+              <button type="button" data-theme-choice="dark">ダーク</button>
+            </div>
+          </div>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">文字サイズ</span>
+            <div class="settings-panel__options" role="group" aria-label="文字サイズ">
+              <button type="button" data-fontsize-choice="small">小</button>
+              <button type="button" data-fontsize-choice="medium">中</button>
+              <button type="button" data-fontsize-choice="large">大</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
 
@@ -59,7 +95,12 @@
 
     <div class="field">
       <h2 class="sec-label">誤りを見つけたら</h2>
-      <div class="field__body">記載内容に誤りや古い情報が疑われる場合は、必ず最新の添付文書をご確認ください。誤り報告の仕組みは今後追加予定です。</div>
+      <div class="field__body">
+        記載内容に誤りや古い情報が疑われる場合は、必ず最新の添付文書をご確認ください。
+        <!-- TODO: 連絡先未確定。実際のメールアドレスまたはGoogleフォーム等のURLが決まり次第、
+             下記リンクのhref="#"を差し替えること。公開前に必ず対応する。 -->
+        <a href="#" id="error-report-link">誤りを報告する</a>
+      </div>
     </div>
   </div>
 </main>
@@ -69,6 +110,7 @@
     <span>© <span id="year"></span> 看護薬理ノート</span>
   </div>
 </footer>
+<script src="/js/settings.js"></script>
 <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
 </body>
 </html>

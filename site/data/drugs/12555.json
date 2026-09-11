@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。・薬液汚染防止のため、点眼のとき、容器の先端が直接目に触れないように注意すること。・点眼したときに液が眼瞼皮膚等についた場合には、すぐにふき取ること。・患眼を開瞼して結膜嚢内に点眼し、1～5分間閉瞼して涙嚢部を圧迫させた後、開瞼すること。・他の点眼剤を併用する場合には、少なくとも5分以上間隔をあけてから点眼すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "眼：眼瞼炎、眼刺激、結膜充血、眼脂\n眼：そう痒感、結膜炎",
+  "observation_points": [
+    "眼：眼瞼炎、眼刺激、結膜充血、眼脂",
+    "眼：そう痒感、結膜炎"
+  ],
+  "revision_date": "2024-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "一過性又は投与初期にあらわれる刺激症状：疼痛、熱感等\n一過性又は投与初期にあらわれる刺激症状：潮紅、瘙痒感\n過敏症：過敏症状\n皮膚：湿疹化、亀裂\n皮膚：腫脹、乾燥化、丘疹",
+  "observation_points": [
+    "一過性又は投与初期にあらわれる刺激症状：疼痛、熱感等",
+    "一過性又は投与初期にあらわれる刺激症状：潮紅、瘙痒感",
+    "過敏症：過敏症状",
+    "皮膚：湿疹化、亀裂",
+    "皮膚：腫脹、乾燥化、丘疹"
+  ],
+  "revision_date": "2025-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

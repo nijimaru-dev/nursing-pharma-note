@@ -8,7 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n〈皮下注射〉\n局所刺激作用として本剤を皮下注射した場合、局所に数時間発赤を生じることがある。\n〈筋肉内注射〉\n組織・神経などへの影響を避けるため、下記の点に注意すること。\n同一部位への反復注射は避けること。なお、新生児、低出生体重児、乳児、小児には特に注意すること。\n神経走行部位を避けるよう注意すること。\n注射針を刺入したとき、激痛を訴えたり血液の逆流を見た場合には、直ちに針を抜き、部位を変えて注射すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "呼吸器：咳嗽\n精神神経系：めまい、耳鳴\nその他：口内熱感・しびれ感、全身しびれ感",
+  "observation_points": [
+    "呼吸器：咳嗽",
+    "精神神経系：めまい、耳鳴",
+    "その他：口内熱感・しびれ感、全身しびれ感"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

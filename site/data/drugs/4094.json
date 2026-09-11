@@ -8,7 +8,16 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、蕁麻疹\n過敏症：そう痒感\n肝臓：肝機能障害、黄疸\n消化器：下痢、便秘\n消化器：悪心、腹部膨満感、嘔吐、腹痛\nその他：胸部圧迫感、全身倦怠感",
+  "observation_points": [
+    "過敏症：発疹、蕁麻疹",
+    "過敏症：そう痒感",
+    "肝臓：肝機能障害、黄疸",
+    "消化器：下痢、便秘",
+    "消化器：悪心、腹部膨満感、嘔吐、腹痛",
+    "その他：胸部圧迫感、全身倦怠感"
+  ],
+  "revision_date": "2025-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

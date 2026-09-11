@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "全般的な注意\n使用時には、感染に対する配慮をすること。\n注射針や輸液セット等のびん針は、ゴム栓の刻印部（〇印）に垂直にゆっくりと刺すこと。斜めに刺した場合、削り片の混入及び液漏れの原因となるおそれがある。また、針は同一箇所に繰り返し刺さないこと。\n血液製剤調製時の注意\nカルシウム含有製剤と混和すると凝血をおこすおそれがあるため混合輸注はしないこと。\n薬剤を配合する場合には、よく転倒混和し、配合変化に注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "電解質異常：クエン酸による血中カルシウムイオン濃度の低下",
+  "observation_points": [
+    "電解質異常：クエン酸による血中カルシウムイオン濃度の低下"
+  ],
+  "revision_date": "2026-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

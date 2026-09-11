@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n〈効能共通〉\n膀胱部の被曝を軽減させるため、撮像前後できるだけ患者に水分を摂取させ、排尿させること。\n〈局所肺換気機能の検査〉\n医療機器「テクネガス発生装置」と組み合わせて用いることによる局所肺換気機能の検査を行う場合、気道抵抗の大きい患者については、安静吸入法を採用すること。また、気道抵抗の大きい患者については呼吸困難に備えて適当な処置法（酸素吸入装置など）を講じておくこと。\n診断上の注意\n〈脳シンチグラフィ〉\n脳シンチグラフィを行う場合、脳底部及び後頭蓋窩の腫瘍については、シンチグラム読影が困難な場合がある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：紅斑性皮疹",
+  "observation_points": [
+    "過敏症：紅斑性皮疹"
+  ],
+  "revision_date": "2023-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

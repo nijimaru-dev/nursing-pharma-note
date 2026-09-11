@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意〈心筋シンチグラフィ〉\n心臓と重なる肝臓等への集積増加を防止するため検査前の一食は絶食が望ましい\n。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：皮膚発赤，多形滲出性紅斑，発疹，小丘疹，蕁麻疹，そう痒感，眼瞼浮腫等\n消化器：嘔吐，嘔気\n循環器：血圧低下，血圧上昇\n呼吸器：喘息様発作\nその他：気分不良，潮紅，手足の感覚異常，薬品臭，口内苦味感",
+  "observation_points": [
+    "過敏症：皮膚発赤，多形滲出性紅斑，発疹，小丘疹，蕁麻疹，そう痒感，眼瞼浮腫等",
+    "消化器：嘔吐，嘔気",
+    "循環器：血圧低下，血圧上昇",
+    "呼吸器：喘息様発作",
+    "その他：気分不良，潮紅，手足の感覚異常，薬品臭，口内苦味感"
+  ],
+  "revision_date": "2022-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

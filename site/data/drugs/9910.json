@@ -8,7 +8,12 @@
   "contraindications": "本剤の成分に対して過敏症の既往歴のある者",
   "application_precautions": "薬剤投与時の注意\n熱傷、各種皮膚潰瘍（褥瘡、糖尿病性壊疽、外傷性皮膚欠損等）の際の皮膚における創面感染には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "投与部位：軽度の局所反応（鼻炎様症状、刺激感等）\n皮膚：過敏症（発疹、発赤、そう痒等）",
+  "observation_points": [
+    "投与部位：軽度の局所反応（鼻炎様症状、刺激感等）",
+    "皮膚：過敏症（発疹、発赤、そう痒等）"
+  ],
+  "revision_date": "2025-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

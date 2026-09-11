@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：皮膚の刺激感",
+  "observation_points": [
+    "過敏症：皮膚の刺激感"
+  ],
+  "revision_date": "2023-05",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

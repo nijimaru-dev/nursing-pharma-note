@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤服用時の注意\n本剤は用時懸濁し、懸濁液は速やかに服用すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "代謝異常：高マグネシウム血症\n消化器：下痢",
+  "observation_points": [
+    "代謝異常：高マグネシウム血症",
+    "消化器：下痢"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [
     {

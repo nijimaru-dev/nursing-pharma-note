@@ -8,7 +8,16 @@
   "contraindications": "ガラクトース血症の患者［分子中にガラクトース骨格を含むため、腸内細菌により分解されてガラクトースが生成されるおそれがある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：下痢\n消化器：悪心・嘔吐、腹部膨満、腹痛、放屁、排便回数増加、食欲不振\n皮膚：そう痒感\n肝臓：LDH上昇\n血液：ヘモグロビン減少、好酸球増多\nその他：倦怠感",
+  "observation_points": [
+    "消化器：下痢",
+    "消化器：悪心・嘔吐、腹部膨満、腹痛、放屁、排便回数増加、食欲不振",
+    "皮膚：そう痒感",
+    "肝臓：LDH上昇",
+    "血液：ヘモグロビン減少、好酸球増多",
+    "その他：倦怠感"
+  ],
+  "revision_date": "2021-05",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

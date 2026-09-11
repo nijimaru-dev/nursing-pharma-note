@@ -8,7 +8,12 @@
   "contraindications": "ポリミキシンB又はコリスチンに対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、瘙痒感\n消化器：悪心・嘔吐、食欲不振、下痢",
+  "observation_points": [
+    "過敏症：発疹、瘙痒感",
+    "消化器：悪心・嘔吐、食欲不振、下痢"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

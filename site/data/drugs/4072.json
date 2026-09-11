@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "全般的な注意\n輸液口に針を刺す際は、まっすぐ刺すこと。斜めに刺すと輸液口の側壁を貫通し、液漏れの原因となることがある。\n血液製剤調製時の注意\nカルシウム含有製剤と混和すると凝血をおこすおそれがあるため混合輸注はしないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "電解質異常：クエン酸による血中カルシウムイオン濃度の低下\n,",
+  "observation_points": [
+    "電解質異常：クエン酸による血中カルシウムイオン濃度の低下",
+    ","
+  ],
+  "revision_date": "2026-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n本剤をグラシン紙等の包材に分包して投薬する場合は、気密性の高い容器に入れ、湿度の低い場所（冷暗所）に保管すること。なお、冷所（例えば冷蔵庫など）に保管した場合、取り出し後にそのまま放置すると結露により吸湿して変色の原因となるので、速やかに保管場所に戻すよう投薬時に注意を行うこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、発赤、瘙痒、蕁麻疹等\n消化器：胃部不快感、下痢等",
+  "observation_points": [
+    "過敏症：発疹、発赤、瘙痒、蕁麻疹等",
+    "消化器：胃部不快感、下痢等"
+  ],
+  "revision_date": "2023-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

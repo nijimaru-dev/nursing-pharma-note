@@ -8,7 +8,20 @@
   "contraindications": "重篤な腎機能障害のある患者\n本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "精神神経系：浮動感・不安定感、頭痛・頭重感\n精神神経系：幻覚\n精神神経系：錯乱\n皮膚：発疹・蕁麻疹\n眼：調節障害\n眼：散瞳\n肝臓：肝機能異常（AST、ALT、Al-Pの上昇等）\n消化器：口渇、食欲不振、胃・腹部不快感、胸やけ、悪心・嘔吐、胃痛\nその他：傾眠、動悸、顔面熱感、口内違和感\nその他：排尿困難",
+  "observation_points": [
+    "精神神経系：浮動感・不安定感、頭痛・頭重感",
+    "精神神経系：幻覚",
+    "精神神経系：錯乱",
+    "皮膚：発疹・蕁麻疹",
+    "眼：調節障害",
+    "眼：散瞳",
+    "肝臓：肝機能異常（AST、ALT、Al-Pの上昇等）",
+    "消化器：口渇、食欲不振、胃・腹部不快感、胸やけ、悪心・嘔吐、胃痛",
+    "その他：傾眠、動悸、顔面熱感、口内違和感",
+    "その他：排尿困難"
+  ],
+  "revision_date": "2021-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

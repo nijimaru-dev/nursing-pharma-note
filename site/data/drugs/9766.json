@@ -8,7 +8,12 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状\n皮膚：局所刺激、発赤、皮膚炎",
+  "observation_points": [
+    "過敏症：過敏症状",
+    "皮膚：局所刺激、発赤、皮膚炎"
+  ],
+  "revision_date": "2024-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n皮下・筋肉内注射時\n組織・神経などへの影響を避けるため、下記の点に配慮すること。\n神経走行部位を避けるよう注意すること。\n繰返し注射する場合には、注射部位を変え、たとえば左右交互に注射するなど配慮すること。なお、乳児、幼児、小児には連用しないことが望ましい。\n注射針を刺入したとき、激痛を訴えたり、血液の逆流をみた場合は、直ちに針を抜き、部位を変えて注射すること。\n静脈内注射時\nできるだけゆっくり行うこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "大量投与：振せん、頻脈、期外収縮、耳鳴、不眠、不穏等",
+  "observation_points": [
+    "大量投与：振せん、頻脈、期外収縮、耳鳴、不眠、不穏等"
+  ],
+  "revision_date": "2021-12",
   "is_in_formulary": false,
   "interactions": [
     {

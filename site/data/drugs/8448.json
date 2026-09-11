@@ -8,7 +8,11 @@
   "contraindications": "び爛・創傷皮膚及び粘膜には使用しないこと。［刺激作用を有する］",
   "application_precautions": "薬剤使用時の注意\n原液のまま使用しないこと。\n入浴直後に使用しないよう注意させること。\n眼又は眼の周囲に使用しないこと。\n引火性があり、爆発の危険性もあるため、火気には十分注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：刺激感、疼痛等",
+  "observation_points": [
+    "皮膚：刺激感、疼痛等"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

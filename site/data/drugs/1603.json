@@ -8,7 +8,18 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n幼児等への投与に際しては薬剤がのどにつかえることのないよう、十分注意し投与すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "代謝：高尿酸血症\n代謝：尿路結石\n血液：赤血球増加、血小板増加、白血球減少等\n肝臓：AST・ALT・Al-P・LDHの上昇\n肝臓：γ-GTPの上昇等\n過敏症：発疹\n消化器：消化管出血、嘔気・嘔吐、胃痛\nその他：間質性肺炎",
+  "observation_points": [
+    "代謝：高尿酸血症",
+    "代謝：尿路結石",
+    "血液：赤血球増加、血小板増加、白血球減少等",
+    "肝臓：AST・ALT・Al-P・LDHの上昇",
+    "肝臓：γ-GTPの上昇等",
+    "過敏症：発疹",
+    "消化器：消化管出血、嘔気・嘔吐、胃痛",
+    "その他：間質性肺炎"
+  ],
+  "revision_date": "2023-06",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

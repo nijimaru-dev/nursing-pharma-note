@@ -8,7 +8,18 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n注射漏れをおこすと投与部位に痛みを生じることがあるので，投与に際しては薬液が血管外に漏出しないように注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹，瘙痒感\n呼吸器：呼吸困難\n消化器：嘔気\n循環器：血圧上昇，血圧低下\n精神神経系：痙攣，失神，意識低下\nその他：異臭，味覚異常\nその他：口内異常感，注射部疼痛\nその他：顔面蒼白，脱力感，注射部腫脹",
+  "observation_points": [
+    "過敏症：発疹，瘙痒感",
+    "呼吸器：呼吸困難",
+    "消化器：嘔気",
+    "循環器：血圧上昇，血圧低下",
+    "精神神経系：痙攣，失神，意識低下",
+    "その他：異臭，味覚異常",
+    "その他：口内異常感，注射部疼痛",
+    "その他：顔面蒼白，脱力感，注射部腫脹"
+  ],
+  "revision_date": "2022-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

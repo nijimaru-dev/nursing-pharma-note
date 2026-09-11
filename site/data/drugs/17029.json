@@ -8,7 +8,18 @@
   "contraindications": "腎機能が高度に低下している患者\n急性膵炎の急性期［庇護療法が最優先され、本検査の対象でない。］\n急性肝炎の急性期",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：悪心\n消化器：下痢、胃重感、腹痛\n消化器：嘔吐\n精神神経系：頭痛\n精神神経系：ふらつき感\n過敏症：発疹、瘙痒感\n循環器：心悸亢進\nその他：顔面潮紅",
+  "observation_points": [
+    "消化器：悪心",
+    "消化器：下痢、胃重感、腹痛",
+    "消化器：嘔吐",
+    "精神神経系：頭痛",
+    "精神神経系：ふらつき感",
+    "過敏症：発疹、瘙痒感",
+    "循環器：心悸亢進",
+    "その他：顔面潮紅"
+  ],
+  "revision_date": "2026-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n筋肉内注射にあたっては、組織・神経等への影響を避けるため下記の点に注意すること。\n注射部位については、神経走行部位を避けて慎重に投与すること。\nくりかえし注射する場合には、左右交互に注射するなど、同一部位を避けること。なお、小児等には特に注意すること。\n注射針を刺入したとき、激痛を訴えたり、血液の逆流をみた場合は、直ちに針を抜き、部位をかえて注射すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：腹部膨満、腹痛\n消化器：下痢・軟便、悪心",
+  "observation_points": [
+    "消化器：腹部膨満、腹痛",
+    "消化器：下痢・軟便、悪心"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

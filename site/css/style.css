@@ -31,6 +31,13 @@
   --safe: #3e6f4f;
   --safe-tint: #e7efe3;
 
+  /* 「重要」バナー専用の文字色（danger-tint背景の上で読める濃さに調整済み）。
+     ダークモードでは背景が暗転するため、下のダークモードブロックで
+     明るい色に上書きする。 */
+  --important-title: #7a170f;
+  --important-text: #5a1b16;
+  --important-border: #e3b4ae;
+
   --radius: 8px;
   --radius-sm: 4px;
   --shadow-card: 0 1px 2px rgba(22, 33, 60, 0.04), 0 6px 18px -12px rgba(22, 33, 60, 0.12);
@@ -38,7 +45,76 @@
   /* 游明朝体・Noto Serif JP等を明示的にフォールバックへ含める（8章参照） */
   --font-display: "Shippori Mincho", "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
   --font-body: "Zen Kaku Gothic New", "Yu Gothic", "YuGothic", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Hiragino Sans", sans-serif;
+  --font-mono: "SFMono-Regular", "Consolas", "Menlo", "Cascadia Mono", monospace;
+
+  /* トースト・ツールチップ・skip-link用の「常に濃色」の背景。
+     --inkはダークモードで明るい色に反転するため、これらのように
+     テーマに関わらず「濃い背景＋白文字」を保ちたい部品には使えない
+     （使うとダークモード時に白背景×白文字でほぼ見えなくなる）。 */
+  --overlay-dark: #1c2333;
 }
+
+/* --- ダークモード：テーマ設定（システム連動／ライト固定／ダーク固定）
+   html[data-theme]は js/settings.js が localStorage の選択を反映して付与する。
+   data-theme未指定（＝「自動」選択時）はOSのprefers-color-schemeに従う。 --- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #14181f;
+    --paper-raised: #1c222c;
+    --ink: #e9edf3;
+    --ink-soft: #a3adbd;
+    --line: rgba(233, 237, 243, 0.1);
+    --line-strong: rgba(233, 237, 243, 0.22);
+
+    --teal: #5cc0b3;
+    --teal-dark: #8ad9cd;
+    --teal-tint: rgba(92, 192, 179, 0.14);
+
+    --danger: #e2695a;
+    --danger-tint: rgba(226, 105, 90, 0.14);
+    --warning: #d7a53e;
+    --warning-tint: rgba(215, 165, 62, 0.14);
+    --safe: #6fbf85;
+    --safe-tint: rgba(111, 191, 133, 0.14);
+
+    --important-title: #ffb4a8;
+    --important-text: #f0a99c;
+    --important-border: rgba(226, 105, 90, 0.4);
+
+    --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4), 0 6px 18px -12px rgba(0, 0, 0, 0.6);
+  }
+}
+
+:root[data-theme="dark"] {
+  --paper: #14181f;
+  --paper-raised: #1c222c;
+  --ink: #e9edf3;
+  --ink-soft: #a3adbd;
+  --line: rgba(233, 237, 243, 0.1);
+  --line-strong: rgba(233, 237, 243, 0.22);
+
+  --teal: #5cc0b3;
+  --teal-dark: #8ad9cd;
+  --teal-tint: rgba(92, 192, 179, 0.14);
+
+  --danger: #e2695a;
+  --danger-tint: rgba(226, 105, 90, 0.14);
+  --warning: #d7a53e;
+  --warning-tint: rgba(215, 165, 62, 0.14);
+  --safe: #6fbf85;
+  --safe-tint: rgba(111, 191, 133, 0.14);
+
+  --important-title: #ffb4a8;
+  --important-text: #f0a99c;
+  --important-border: rgba(226, 105, 90, 0.4);
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4), 0 6px 18px -12px rgba(0, 0, 0, 0.6);
+}
+
+/* --- 文字サイズ設定：html要素のfont-sizeを%で拡縮する。
+   サイト全体がrem基準（body含む）のため、この1箇所の変更で全体に反映される。 --- */
+html[data-fontsize="small"] { font-size: 87.5%; }
+html[data-fontsize="large"] { font-size: 112.5%; }
 
 * { box-sizing: border-box; min-width: 0; }
 html {
@@ -58,12 +134,15 @@ body {
   background: var(--paper);
   color: var(--ink);
   font-family: var(--font-body);
-  font-size: 16px;
+  /* 1remにする（htmlのfont-size%指定＝文字サイズ設定で全体をスケールするため）。
+     子要素の大半がrem指定のため、ここも固定pxではなくremにしておく。 */
+  font-size: 1rem;
   line-height: 1.95;
   -webkit-font-smoothing: antialiased;
   line-break: strict;
   word-break: normal;
   overflow-wrap: break-word;
+  transition: background-color 120ms ease, color 120ms ease;
 }
 
 img { max-width: 100%; }
@@ -143,12 +222,35 @@ p, li, .field__body, .sec-body {
   padding: 2px 8px;
 }
 
+.site-header__right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  flex: 1 1 auto;
+  justify-content: flex-end;
+}
+
+/* ナビ項目が増えて画面幅に入りきらない場合、複数行に折り返して
+   歯車ボタンが孤立するのを避けるため、折り返さず横スクロールさせる
+   （.tab-listと同じ考え方）。 */
 .site-nav {
   display: flex;
   align-items: center;
   gap: 12px;
   font-size: 0.92rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  min-width: 0;
+  /* 横スクロールで隠れている項目があることを、右端のフェードで示す
+     （まだ見えていない項目があるという視覚的ヒント）。 */
+  mask-image: linear-gradient(to right, #000 calc(100% - 20px), transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 20px), transparent 100%);
+  scrollbar-width: none;
 }
+.site-nav::-webkit-scrollbar { display: none; }
+
+.site-nav a { flex-shrink: 0; }
 
 .site-nav a {
   color: var(--ink-soft);
@@ -164,6 +266,74 @@ p, li, .field__body, .sec-body {
 .site-nav a[aria-current="page"] {
   color: var(--teal-dark);
   border-bottom-color: var(--teal);
+}
+
+/* --- 表示設定（テーマ・文字サイズ）パネル --- */
+.settings-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin: -8px -6px;
+  border: none;
+  background: transparent;
+  color: var(--ink-soft);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.settings-toggle:hover { background: var(--teal-tint); color: var(--teal-dark); }
+.settings-toggle svg { width: 20px; height: 20px; }
+
+.settings-panel-wrap { position: relative; flex-shrink: 0; }
+
+.settings-panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  width: 230px;
+  background: var(--paper-raised);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  padding: 14px;
+  z-index: 40;
+}
+
+.settings-panel__group + .settings-panel__group { margin-top: 14px; }
+
+.settings-panel__label {
+  display: block;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  margin-bottom: 8px;
+}
+
+.settings-panel__options {
+  display: flex;
+  gap: 6px;
+}
+
+.settings-panel__options button {
+  flex: 1;
+  font-family: var(--font-body);
+  font-size: 0.84rem;
+  color: var(--ink-soft);
+  background: var(--paper);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  padding: 8px 4px;
+  min-height: 40px;
+  cursor: pointer;
+}
+
+.settings-panel__options button[aria-pressed="true"] {
+  color: #fff;
+  background: var(--teal);
+  border-color: var(--teal);
+  font-weight: 700;
 }
 
 /* --- ヒーロー / 検索 --- */
@@ -250,7 +420,9 @@ p, li, .field__body, .sec-body {
 
 .search-result {
   display: block;
-  padding: 12px 16px;
+  padding: 13px 16px;
+  min-height: 44px;
+  box-sizing: border-box;
   border-bottom: 1px solid var(--line);
   text-decoration: none;
   color: var(--ink);
@@ -307,7 +479,7 @@ p, li, .field__body, .sec-body {
   gap: 12px;
   align-items: flex-start;
   background: var(--danger-tint);
-  border: 1px solid #e3b4ae;
+  border: 1px solid var(--important-border);
   border-left: 4px solid var(--danger);
   border-radius: var(--radius);
   padding: 16px 18px 17px;
@@ -325,12 +497,12 @@ p, li, .field__body, .sec-body {
   font-family: var(--font-display);
   font-weight: 700;
   font-size: 0.98rem;
-  color: #7a170f;
+  color: var(--important-title);
   margin-bottom: 8px;
 }
 
 .important-banner ul { margin: 0; padding-left: 1.2em; }
-.important-banner li { font-size: 0.9rem; line-height: 1.8; color: #5a1b16; margin-bottom: 4px; }
+.important-banner li { font-size: 0.9rem; line-height: 1.8; color: var(--important-text); margin-bottom: 4px; }
 .important-banner li:last-child { margin-bottom: 0; }
 
 /* --- 薬品詳細：ヘッダー部（バナーの下、本文の起点） --- */
@@ -392,6 +564,14 @@ p, li, .field__body, .sec-body {
   cursor: pointer;
   padding: 0;
   flex-shrink: 0;
+}
+/* タップ領域を44×44px確保する（見た目のトラックサイズは変えない） */
+.view-toggle__switch::before {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 44px; height: 44px;
+  transform: translate(-50%, -50%);
 }
 
 .view-toggle__switch::after {
@@ -467,6 +647,7 @@ p, li, .field__body, .sec-body {
   border: none;
   border-bottom: 2px solid transparent;
   padding: 10px 14px;
+  min-height: 44px;
   cursor: pointer;
   white-space: nowrap;
   /* サイト共通の * { min-width: 0 } リセットにより、指定しないと
@@ -555,6 +736,7 @@ p, li, .field__body, .sec-body {
 }
 
 .pill button {
+  position: relative;
   border: none;
   background: rgba(15, 110, 104, 0.16);
   color: var(--teal-dark);
@@ -564,6 +746,14 @@ p, li, .field__body, .sec-body {
   line-height: 1;
   flex-shrink: 0;
   font-size: 0.9rem;
+}
+/* タップ領域を44×44px確保する（見た目のボタンサイズは変えない） */
+.pill button::before {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 44px; height: 44px;
+  transform: translate(-50%, -50%);
 }
 
 .result-card {
@@ -628,6 +818,7 @@ p, li, .field__body, .sec-body {
   align-items: center;
   gap: 10px;
   flex-wrap: wrap;
+  min-height: 44px;
   padding: 4px 0;
 }
 .results-summary summary::-webkit-details-marker { display: none; }
@@ -723,7 +914,7 @@ p, li, .field__body, .sec-body {
   position: absolute;
   left: -999px;
   top: 0;
-  background: var(--ink);
+  background: var(--overlay-dark);
   color: #fff;
   padding: 8px 14px;
   z-index: 100;
@@ -837,7 +1028,7 @@ p, li, .field__body, .sec-body {
 }
 
 .toast {
-  background: var(--ink);
+  background: var(--overlay-dark);
   color: #fff;
   font-size: 0.88rem;
   padding: 10px 20px;
@@ -853,6 +1044,7 @@ p, li, .field__body, .sec-body {
 @media (prefers-reduced-motion: reduce) {
   .toast { transition: none; }
   .category-chip { transition: none; }
+  body { transition: none; }
 }
 
 /* --- 検索結果の空状態 --- */
@@ -875,7 +1067,164 @@ p, li, .field__body, .sec-body {
   padding: 8px 14px;
   border-radius: var(--radius);
   cursor: pointer;
-  min-height: 36px;
+  min-height: 44px;
 }
 .btn-copy:hover { border-color: var(--teal); color: var(--teal-dark); background: var(--teal-tint); }
 .btn-copy svg { width: 15px; height: 15px; }
+
+/* --- トースト：取り消し操作つき（一括リセット等） --- */
+.toast {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  pointer-events: auto;
+  /* グローバルな * { min-width: 0 } リセットにより、指定しないとflexアイテムの
+     テキストが縮んで不要に折り返されてしまう（タブの文字重なりと同じ原因）。 */
+  white-space: nowrap;
+}
+.toast__undo {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  color: #9fd8ce;
+  font-weight: 700;
+  font-size: 0.88rem;
+  cursor: pointer;
+  padding: 4px 2px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.toast__undo:hover { color: #fff; }
+
+/* --- 数値・単位表記：等幅フォントでmg/mcg等の誤読を防ぐ --- */
+.num-unit {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* --- フッター：免責事項のアコーディオン化（スマホでの初期スクロール量を削減） --- */
+.disclaimer-accordion { border: none; }
+.disclaimer-accordion summary {
+  cursor: pointer;
+  list-style: none;
+  font-weight: 700;
+  color: var(--ink-soft);
+  padding: 4px 0;
+}
+.disclaimer-accordion summary::-webkit-details-marker { display: none; }
+.disclaimer-accordion summary::after { content: "詳細を見る ▾"; font-weight: 400; margin-left: 6px; font-size: 0.9em; }
+.disclaimer-accordion[open] summary::after { content: "閉じる ▴"; }
+.disclaimer-accordion .disclaimer { margin-top: 10px; padding: 0; max-width: none; }
+
+/* --- 用語ヘルプ（ツールチップ） --- */
+.term-help {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  margin-left: 4px;
+  border-radius: 50%;
+  border: 1px solid var(--line-strong);
+  background: var(--paper-raised);
+  color: var(--ink-soft);
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  vertical-align: middle;
+  position: relative;
+  padding: 0;
+}
+.term-help:hover, .term-help:focus { border-color: var(--teal); color: var(--teal-dark); }
+
+/* ホバー・フォーカス（タップでもボタンにフォーカスが当たるため機種を問わず使える）で
+   data-tip属性の説明文をふきだし表示する。JSを使わない、CSSのみのツールチップ。 */
+.term-help::after {
+  content: attr(data-tip);
+  position: absolute;
+  /* 中央揃え（left:50%+translateX(-50%)）だと、ボタンが画面左寄りにある場合
+     ふきだしが画面外に左はみ出しする。用語ヘルプは各行の先頭付近（ラベル直後）に
+     置かれることが多いため、ボタンの左端を基準に右方向へ伸ばす配置にする。 */
+  left: 0;
+  bottom: calc(100% + 8px);
+  width: max-content;
+  max-width: min(240px, calc(100vw - 40px));
+  background: var(--overlay-dark);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 400;
+  line-height: 1.6;
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-card);
+  z-index: 50;
+  text-align: left;
+  white-space: normal;
+  display: none;
+}
+.term-help:hover::after, .term-help:focus::after { display: block; }
+
+/* --- 薬カード：マイ薬箱・最近見た薬で使う、お気に入りボタン付きカード --- */
+.drug-chip--with-fav {
+  position: relative;
+  padding-right: 52px;
+}
+.fav-toggle {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  /* --line-strongは罫線用の極薄色でコントラストが低すぎるため、
+     他の非活性アイコンと同じ--ink-softを使う（アクセシビリティ点検で発見）。 */
+  color: var(--ink-soft);
+  cursor: pointer;
+  border-radius: 50%;
+}
+.fav-toggle:hover { background: var(--teal-tint); }
+.fav-toggle svg { width: 20px; height: 20px; }
+.fav-toggle[aria-pressed="true"] { color: var(--warning); }
+.fav-toggle[aria-pressed="true"] svg { fill: currentColor; }
+
+/* 薬品詳細ページ等、カード上への重ね配置ではなく単独で置く場合 */
+.fav-toggle--standalone { position: static; }
+
+/* --- 薬品詳細：最終更新表示 --- */
+.revision-note {
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  margin: -18px 0 24px;
+}
+
+.mydrugs-section + .mydrugs-section { margin-top: 40px; }
+.mydrugs-section__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* --- 印刷用レイアウト --- */
+@media print {
+  .site-header, .site-footer, .btn-copy, .view-toggle,
+  #back-link-wrap, .tab-list, #toast-region, .search-box, .load-more-wrap,
+  .fav-toggle, .settings-toggle, .settings-panel, .category-filter,
+  .disclaimer-inline, .skip-link, #reset-selection-btn, #recent-section, .term-help {
+    display: none !important;
+  }
+  [data-simple] { display: none !important; }
+  [data-detail][hidden] { display: block !important; }
+  .tab-panel__body[hidden] { display: block !important; margin-bottom: 18px; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  a { color: #000; text-decoration: underline; }
+  .important-banner { background: none; border: 1px solid #000; }
+  .interaction-row { background: none; border: 1px solid #000; border-left-width: 4px; break-inside: avoid; }
+  .field { break-inside: avoid; }
+}

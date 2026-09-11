@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：接触皮膚炎",
+  "observation_points": [
+    "皮膚：接触皮膚炎"
+  ],
+  "revision_date": "2024-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

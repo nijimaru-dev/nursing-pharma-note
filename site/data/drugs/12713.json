@@ -8,7 +8,13 @@
   "contraindications": "本剤の成分に対して過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。\n点耳後約10分間の耳浴を行うこと。\n使用する際の薬液の温度が低いと、めまい感を起こす可能性が高いので、使用時には、できるだけ体温に近い状態で使用すること。\n本剤の調製後は、室温で2週間以上保存したものは使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状\nその他：めまい感\nその他：頭痛",
+  "observation_points": [
+    "過敏症：過敏症状",
+    "その他：めまい感",
+    "その他：頭痛"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

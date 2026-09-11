@@ -8,7 +8,12 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状、接触性皮膚炎\n菌交代症：長期連用による菌交代症",
+  "observation_points": [
+    "過敏症：過敏症状、接触性皮膚炎",
+    "菌交代症：長期連用による菌交代症"
+  ],
+  "revision_date": "2022-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

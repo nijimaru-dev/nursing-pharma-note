@@ -8,7 +8,14 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n口内にしびれ等を残さないため嚙み砕いたりせずに、速やかに飲みくだすよう注意させること。\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜に刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹\n消化器：便秘、食欲不振、口渇、悪心、下痢\n精神神経系：頭痛、眩暈\n精神神経系：眠気、脱力感",
+  "observation_points": [
+    "過敏症：発疹",
+    "消化器：便秘、食欲不振、口渇、悪心、下痢",
+    "精神神経系：頭痛、眩暈",
+    "精神神経系：眠気、脱力感"
+  ],
+  "revision_date": "2023-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

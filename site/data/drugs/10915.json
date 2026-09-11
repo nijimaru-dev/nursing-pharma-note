@@ -8,7 +8,14 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n本剤の投与により便が黒色を呈することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "胃腸障害：下痢（22.7%）、便秘\n胃腸障害：嘔吐、悪心、腹痛、腹部不快感、腹部膨満、胃腸炎、排便回数増加\n臨床検査：血清フェリチン増加、AST上昇、ALT上昇、CK上昇、血中鉄増加、ヘモグロビン増加\nその他：発疹、そう痒症",
+  "observation_points": [
+    "胃腸障害：下痢（22.7%）、便秘",
+    "胃腸障害：嘔吐、悪心、腹痛、腹部不快感、腹部膨満、胃腸炎、排便回数増加",
+    "臨床検査：血清フェリチン増加、AST上昇、ALT上昇、CK上昇、血中鉄増加、ヘモグロビン増加",
+    "その他：発疹、そう痒症"
+  ],
+  "revision_date": "2026-03",
   "is_in_formulary": false,
   "interactions": [
     {

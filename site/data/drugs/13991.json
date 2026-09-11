@@ -8,7 +8,13 @@
   "contraindications": "ガラクトース血症の患者［本剤はラクツロースのほか、ガラクトース（11%以下）及び乳糖（6%以下）を含有する。］",
   "application_precautions": "薬剤交付時の注意\n分包製品の使用後、残液は廃棄し、保存しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：下痢\n注2）\n消化器：悪心、嘔吐、腹痛、腹鳴、鼓腸、食欲不振等",
+  "observation_points": [
+    "消化器：下痢",
+    "注2）",
+    "消化器：悪心、嘔吐、腹痛、腹鳴、鼓腸、食欲不振等"
+  ],
+  "revision_date": "2025-12",
   "is_in_formulary": false,
   "interactions": [
     {

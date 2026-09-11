@@ -8,9 +8,11 @@
   "contraindications": "ストレプトマイシン、カナマイシン、ゲンタマイシン、フラジオマイシン等のアミノグリコシド系抗生物質及びバシトラシンに対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "腎障害、難聴（いずれも頻度不明）",
+  "other_adverse_events": "過敏症：発疹、接触皮膚炎",
   "observation_points": [
-    "腎障害、難聴（いずれも頻度不明）"
+    "過敏症：発疹、接触皮膚炎"
   ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,16 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "循環器：頻脈\n、期外収縮\n精神神経系：振せん\n、耳鳴\n、不眠\n、不穏",
+  "observation_points": [
+    "循環器：頻脈",
+    "、期外収縮",
+    "精神神経系：振せん",
+    "、耳鳴",
+    "、不眠",
+    "、不穏"
+  ],
+  "revision_date": "2022-01",
   "is_in_formulary": false,
   "interactions": [
     {

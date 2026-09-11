@@ -8,7 +8,18 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "循環器：不整脈\n注）\n精神神経系：振戦\n注）\n、めまい\n注）\n、不眠\n注）\n、不安\n注）\n感覚器：瞳孔散大\n注）\nその他：虚脱\n注）",
+  "observation_points": [
+    "循環器：不整脈",
+    "注）",
+    "精神神経系：振戦",
+    "、めまい",
+    "、不眠",
+    "、不安",
+    "感覚器：瞳孔散大",
+    "その他：虚脱"
+  ],
+  "revision_date": "2024-07",
   "is_in_formulary": false,
   "interactions": [
     {

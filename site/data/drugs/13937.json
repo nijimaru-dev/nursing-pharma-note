@@ -8,7 +8,13 @@
   "contraindications": "本剤の成分に対して過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n粘膜、潰瘍、明らかに局面を形成しているびらん等への塗布は避けること。\n万が一、眼に入った場合は、直ちに水で洗い流すこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：適用部位色素沈着障害（1.1%）、適用部位毛包炎、そう痒症\n皮膚：適用部位膿痂疹、適用部位ざ瘡、接触皮膚炎\n皮膚：適用部位紅斑、適用部位刺激感、適用部位腫脹",
+  "observation_points": [
+    "皮膚：適用部位色素沈着障害（1.1%）、適用部位毛包炎、そう痒症",
+    "皮膚：適用部位膿痂疹、適用部位ざ瘡、接触皮膚炎",
+    "皮膚：適用部位紅斑、適用部位刺激感、適用部位腫脹"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

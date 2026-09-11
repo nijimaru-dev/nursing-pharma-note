@@ -8,7 +8,14 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、発赤、瘙痒等\n肝臓：肝機能異常（AST、ALT、T-Bil等の上昇）\n消化器：食欲不振、胃部不快感、悪心、嘔吐、腹痛、下痢、便秘等\nその他：心悸亢進、のぼせ、舌のしびれ等",
+  "observation_points": [
+    "過敏症：発疹、発赤、瘙痒等",
+    "肝臓：肝機能異常（AST、ALT、T-Bil等の上昇）",
+    "消化器：食欲不振、胃部不快感、悪心、嘔吐、腹痛、下痢、便秘等",
+    "その他：心悸亢進、のぼせ、舌のしびれ等"
+  ],
+  "revision_date": "2022-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

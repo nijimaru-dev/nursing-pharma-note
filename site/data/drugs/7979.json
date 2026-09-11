@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n99m\nTc-ピロリン酸は静注後速やかに尿中へ排泄されるため、多量の水分摂取や頻回排尿はシンチグラムに好結果をもたらす\n。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：皮膚発赤、そう痒感\n循環器：血圧低下、動悸、顔面紅潮\n呼吸器：喘鳴\n消化器：嘔気、嘔吐\nその他：発熱",
+  "observation_points": [
+    "過敏症：皮膚発赤、そう痒感",
+    "循環器：血圧低下、動悸、顔面紅潮",
+    "呼吸器：喘鳴",
+    "消化器：嘔気、嘔吐",
+    "その他：発熱"
+  ],
+  "revision_date": "2024-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

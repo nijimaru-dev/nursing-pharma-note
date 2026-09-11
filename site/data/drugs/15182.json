@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n夏季には内容物が溶けて不均一になることがあるので、その際は、かきまぜて使用すること。\n眼のまわりに使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：皮膚の発赤、腫脹、そう痒感、湿潤",
+  "observation_points": [
+    "過敏症：皮膚の発赤、腫脹、そう痒感、湿潤"
+  ],
+  "revision_date": "2023-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

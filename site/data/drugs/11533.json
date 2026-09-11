@@ -8,7 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n眼に入るとしみるので、眼に入れないように注意すること。もし、誤って眼に入ったときは、ただちに清浄な水で洗眼すること。\n使用部位：外用にのみ使用すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：一過性の発赤、そう痒感\nアセチルコリン様作用：刺激痛、局所発汗、熱感\nアセチルコリン様作用：全身性の発汗、それに伴う悪寒、戦慄、嘔気、嘔吐",
+  "observation_points": [
+    "過敏症：一過性の発赤、そう痒感",
+    "アセチルコリン様作用：刺激痛、局所発汗、熱感",
+    "アセチルコリン様作用：全身性の発汗、それに伴う悪寒、戦慄、嘔気、嘔吐"
+  ],
+  "revision_date": "2025-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

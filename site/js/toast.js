@@ -27,6 +27,56 @@ function showToast(message) {
   }, 2400);
 }
 
+/**
+ * 確認ダイアログ（confirm()）の代わりに使う、「取り消し」操作つきのトースト。
+ * 呼び出し側は破壊的な操作（一括リセット等）を即座に実行してよい。
+ * 表示中に「取り消し」が押されたらonUndoを呼ぶ。押されないまま消えたら
+ * onUndoは呼ばれず、操作はそのまま確定する。
+ */
+function showUndoToast(message, onUndo) {
+  let region = document.getElementById("toast-region");
+  if (!region) {
+    region = document.createElement("div");
+    region.id = "toast-region";
+    region.setAttribute("aria-live", "polite");
+    region.setAttribute("role", "status");
+    document.body.appendChild(region);
+  }
+
+  const toast = document.createElement("div");
+  toast.className = "toast";
+
+  const label = document.createElement("span");
+  label.textContent = message;
+  toast.appendChild(label);
+
+  const undoBtn = document.createElement("button");
+  undoBtn.type = "button";
+  undoBtn.className = "toast__undo";
+  undoBtn.textContent = "取り消す";
+  toast.appendChild(undoBtn);
+
+  region.appendChild(toast);
+  requestAnimationFrame(() => toast.classList.add("toast--visible"));
+
+  let done = false;
+  const dismiss = () => {
+    if (done) return;
+    done = true;
+    toast.classList.remove("toast--visible");
+    setTimeout(() => toast.remove(), 250);
+  };
+
+  const timer = setTimeout(dismiss, 5000);
+
+  undoBtn.addEventListener("click", () => {
+    if (done) return;
+    clearTimeout(timer);
+    dismiss();
+    onUndo();
+  });
+}
+
 function copyTextToClipboard(text, successMessage) {
   const done = () => showToast(successMessage || "コピーしました");
   const fail = () => showToast("コピーできませんでした");

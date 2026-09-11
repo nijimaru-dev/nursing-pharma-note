@@ -8,7 +8,11 @@
   "contraindications": "ブドウ糖吸収不良の患者［遺伝性のグルコース-ガラクトース吸収不良症では小腸における両者共通の運搬体の欠損が存在すると考えられており、ブドウ糖を摂取しても吸収されずにそのまま排泄される。又、小児に腸炎や消化管の外科的切除を施行したときなどにも、まれにグルコース吸収不良を認める\n。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：悪心・嘔吐、下痢、腹痛",
+  "observation_points": [
+    "消化器：悪心・嘔吐、下痢、腹痛"
+  ],
+  "revision_date": "2025-06",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

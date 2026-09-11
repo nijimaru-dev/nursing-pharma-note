@@ -8,7 +8,13 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、蕁麻疹等\n消化器：胃部不快感、消化不良、軟便、下痢等\nその他：鼻出血、顔面紅潮、体のほてり、血圧上昇、浮腫等",
+  "observation_points": [
+    "過敏症：発疹、蕁麻疹等",
+    "消化器：胃部不快感、消化不良、軟便、下痢等",
+    "その他：鼻出血、顔面紅潮、体のほてり、血圧上昇、浮腫等"
+  ],
+  "revision_date": "2024-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

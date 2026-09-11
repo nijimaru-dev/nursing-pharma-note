@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n眼科用にのみ使用すること。\n長期間にわたり使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、眼瞼炎　等",
+  "observation_points": [
+    "過敏症：発疹、眼瞼炎　等"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

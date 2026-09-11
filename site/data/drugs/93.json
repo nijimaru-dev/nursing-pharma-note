@@ -8,7 +8,12 @@
   "contraindications": "本剤の成分に対して過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：口渇\nその他：嗅覚錯誤，注射部位紅斑，注射部位疼痛，味覚異常",
+  "observation_points": [
+    "消化器：口渇",
+    "その他：嗅覚錯誤，注射部位紅斑，注射部位疼痛，味覚異常"
+  ],
+  "revision_date": "2021-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

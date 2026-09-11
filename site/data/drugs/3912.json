@@ -8,13 +8,16 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシー卜から取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）\n肝機能障害、黄疸（いずれも頻度不明）\nAST、ALT、Al-P、LDHの上昇等があらわれることがある。\nショック、アナフィラキシー（いずれも頻度不明）\n呼吸困難、浮腫、蕁麻疹等があらわれることがある。",
+  "other_adverse_events": "消化器：食欲不振、下痢、腹痛\n消化器：悪心、嘔吐、腹部膨満感、口渇\n過敏症：発疹\n過敏症：湿疹、紅斑\n過敏症：浮腫、発熱、呼吸困難\nその他：そう痒感",
   "observation_points": [
-    "中毒性表皮壊死融解症（Toxic Epidermal Necrolysis：TEN）、皮膚粘膜眼症候群（Stevens-Johnson症候群）（いずれも頻度不明）",
-    "肝機能障害、黄疸（いずれも頻度不明）",
-    "AST、ALT、Al-P、LDHの上昇等があらわれることがある",
-    "ショック、アナフィラキシー（いずれも頻度不明）",
-    "呼吸困難、浮腫、蕁麻疹等があらわれることがある"
+    "消化器：食欲不振、下痢、腹痛",
+    "消化器：悪心、嘔吐、腹部膨満感、口渇",
+    "過敏症：発疹",
+    "過敏症：湿疹、紅斑",
+    "過敏症：浮腫、発熱、呼吸困難",
+    "その他：そう痒感"
   ],
+  "revision_date": "2026-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "高乳酸血症の患者［高乳酸血症が悪化するおそれがある。］",
   "application_precautions": "全般的な注意\n使用時には、感染に対する配慮をすること。\n薬剤調製時の注意\n本剤は使用に際して、よく混合されるよう注意すること。\n薬剤投与時の注意\n残液は使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "大量投与：脳浮腫、肺水腫、末梢の浮腫、アルカローシスによるテタニー様症状、悪心・嘔吐、下痢",
+  "observation_points": [
+    "大量投与：脳浮腫、肺水腫、末梢の浮腫、アルカローシスによるテタニー様症状、悪心・嘔吐、下痢"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [
     {

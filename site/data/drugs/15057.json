@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "全般的な注意\n使用時には、感染に対する配慮をすること。\n薬剤調製時の注意\n本剤は使用に際して、よく混合されるよう注意すること。\n以下の製剤と配合する場合、沈殿を生じることがあるので注意すること。\nカルシウム塩を含む製剤\nマグネシウム塩を含む製剤\n薬剤投与時の注意\n新生児（低出生体重児を含む）に対してリン補給を行う際、カルシウム塩、マグネシウム塩を含む製剤と併用する場合には、本剤とは投与経路を別に設けるなど特に注意すること。\nゆっくり静脈内に点滴投与すること。\n残液は使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：紅斑\n電解質異常：血中カルシウム減少",
+  "observation_points": [
+    "過敏症：紅斑",
+    "電解質異常：血中カルシウム減少"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

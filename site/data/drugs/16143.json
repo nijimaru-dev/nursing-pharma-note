@@ -8,7 +8,12 @@
   "contraindications": "重度又は広範囲の熱傷には使用しないこと。［酸化亜鉛が創傷部位に付着し、組織修復を遷延させることがある。］",
   "application_precautions": "薬剤使用時の注意\n眼には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状\n皮膚：発疹、刺激感等",
+  "observation_points": [
+    "過敏症：過敏症状",
+    "皮膚：発疹、刺激感等"
+  ],
+  "revision_date": "2023-06",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

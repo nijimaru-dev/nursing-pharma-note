@@ -8,7 +8,14 @@
   "contraindications": "甲状腺機能低下症又は副甲状腺機能亢進症の患者［症状を悪化させるおそれがある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "代謝異常：高カルシウム血症、アルカローシス等の電解質失調\n長期・大量投与：腎結石、尿路結石\n消化器：悪心、嘔吐、便秘、下痢、胃酸の反動性分泌等\n過敏症：そう痒感",
+  "observation_points": [
+    "代謝異常：高カルシウム血症、アルカローシス等の電解質失調",
+    "長期・大量投与：腎結石、尿路結石",
+    "消化器：悪心、嘔吐、便秘、下痢、胃酸の反動性分泌等",
+    "過敏症：そう痒感"
+  ],
+  "revision_date": "2024-09",
   "is_in_formulary": false,
   "interactions": [
     {

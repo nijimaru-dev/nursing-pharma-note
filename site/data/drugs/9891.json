@@ -8,10 +8,12 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n静脈内投与により血管痛を起こすことがあるので、注射速度はできるだけ遅くすること。",
   "serious_adverse_events": "ショック（頻度不明）\n血圧降下、胸内苦悶、呼吸困難等の症状があらわれた場合には、直ちに投与を中止し、適切な処置を行うこと。",
+  "other_adverse_events": "過敏症：発疹\n消化器：悪心・嘔吐",
   "observation_points": [
-    "ショック（頻度不明）",
-    "血圧降下、胸内苦悶、呼吸困難等の症状があらわれた場合には、直ちに投与を中止し、適切な処置を行うこと"
+    "過敏症：発疹",
+    "消化器：悪心・嘔吐"
   ],
+  "revision_date": "2022-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

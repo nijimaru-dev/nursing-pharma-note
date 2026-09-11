@@ -8,7 +8,12 @@
   "contraindications": "ジスルフィラム、シアナミド、カルモフール、プロカルバジン塩酸塩を投与中の患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器\n注）：嘔気、嘔吐、下痢、食欲不振",
+  "observation_points": [
+    "消化器",
+    "注）：嘔気、嘔吐、下痢、食欲不振"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [
     {

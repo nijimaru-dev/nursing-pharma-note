@@ -8,9 +8,16 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nバルビツール系薬剤等の非麻薬性中枢神経抑制剤又は病的原因による呼吸抑制のある患者［無効のため］",
   "application_precautions": "",
   "serious_adverse_events": "肺水腫（頻度不明）",
+  "other_adverse_events": "循環器：血圧上昇（8.1%）、頻脈\n循環器：胸部苦悶感\n精神神経系：振戦、術後疼痛\n消化器：悪心・嘔吐\n消化器：腹痛\n肝臓：AST上昇、ALT上昇、肝機能障害",
   "observation_points": [
-    "肺水腫（頻度不明）"
+    "循環器：血圧上昇（8.1%）、頻脈",
+    "循環器：胸部苦悶感",
+    "精神神経系：振戦、術後疼痛",
+    "消化器：悪心・嘔吐",
+    "消化器：腹痛",
+    "肝臓：AST上昇、ALT上昇、肝機能障害"
   ],
+  "revision_date": "2021-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

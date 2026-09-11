@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、発赤、瘙痒等",
+  "observation_points": [
+    "過敏症：発疹、発赤、瘙痒等"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

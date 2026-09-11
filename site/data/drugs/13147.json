@@ -8,9 +8,14 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "ショック、アナフィラキシー（いずれも頻度不明）",
+  "other_adverse_events": "過敏症：発疹\n消化器：嘔吐\n循環器：血圧低下\nその他：潮紅，熱感，口内灼熱感，金属味，動悸，口内異常感，嗅覚錯誤",
   "observation_points": [
-    "ショック、アナフィラキシー（いずれも頻度不明）"
+    "過敏症：発疹",
+    "消化器：嘔吐",
+    "循環器：血圧低下",
+    "その他：潮紅，熱感，口内灼熱感，金属味，動悸，口内異常感，嗅覚錯誤"
   ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,17 @@
   "contraindications": "妊婦又は妊娠している可能性のある女性",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：そう痒感、発疹\n消化器：便秘、下痢\n消化器：口渇、悪心・嘔吐、腹部不快感・膨満感\n肝臓：ASTの軽度上昇、ALTの軽度上昇\n精神神経系：頭痛、頭重感\nその他：胸部絞扼感、浮遊感、歯が浮く感じ\nその他：浮腫",
+  "observation_points": [
+    "皮膚：そう痒感、発疹",
+    "消化器：便秘、下痢",
+    "消化器：口渇、悪心・嘔吐、腹部不快感・膨満感",
+    "肝臓：ASTの軽度上昇、ALTの軽度上昇",
+    "精神神経系：頭痛、頭重感",
+    "その他：胸部絞扼感、浮遊感、歯が浮く感じ",
+    "その他：浮腫"
+  ],
+  "revision_date": "2022-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

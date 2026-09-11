@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "大量投与：悪心・嘔吐等の消化器症状、高ナトリウム血症、うっ血性心不全、浮腫",
+  "observation_points": [
+    "大量投与：悪心・嘔吐等の消化器症状、高ナトリウム血症、うっ血性心不全、浮腫"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

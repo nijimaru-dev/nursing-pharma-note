@@ -8,7 +8,13 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n適用部位\n眼科用として角膜、結膜には使用しないこと。\n著しいびらん面には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：局所の刺激感、皮膚炎、発赤・紅斑、そう痒感、湿潤、落屑の増加等\n皮膚：亀裂、白癬疹\n皮膚：自家感作性皮膚炎",
+  "observation_points": [
+    "皮膚：局所の刺激感、皮膚炎、発赤・紅斑、そう痒感、湿潤、落屑の増加等",
+    "皮膚：亀裂、白癬疹",
+    "皮膚：自家感作性皮膚炎"
+  ],
+  "revision_date": "2023-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

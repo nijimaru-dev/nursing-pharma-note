@@ -8,7 +8,11 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n本剤の基剤として使用されている油脂性成分は、コンドーム等の避妊用ラテックスゴム製品の品質を劣化・破損する可能性があるため、これらとの接触を避けさせること。\n薬剤使用時の注意\n眼科用として、角膜、結膜には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：接触皮膚炎様症状、刺激感、そう痒感等",
+  "observation_points": [
+    "皮膚：接触皮膚炎様症状、刺激感、そう痒感等"
+  ],
+  "revision_date": "2020-05",
   "is_in_formulary": false,
   "interactions": [
     {

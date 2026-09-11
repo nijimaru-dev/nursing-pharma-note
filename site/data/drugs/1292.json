@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "診断上の注意\n皮膚反応テスト実施時には，スクラッチエキス用対照液（アレルゲンスクラッチエキス対照液「トリイ」）を同時に用いて反応を比較すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症，呼吸困難，紅斑",
+  "observation_points": [
+    "過敏症：過敏症，呼吸困難，紅斑"
+  ],
+  "revision_date": "2025-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

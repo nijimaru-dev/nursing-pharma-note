@@ -8,7 +8,11 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n患者又は保護者に対し、使用説明書及び投与量に応じた専用の経口投与用ディスペンサーを渡し、服用方法を指導すること。\n小児の手の届かない所に保管するよう指導すること。\n開封後は室温（1～30℃）で保管するよう指導すること。\n開封後は130日以内に使用し、使用されなかった薬液は廃棄するよう指導すること。\n薬剤投与時の注意\n内服用にのみ使用させること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：下痢（23.3%）、腹痛（13.3%）",
+  "observation_points": [
+    "消化器：下痢（23.3%）、腹痛（13.3%）"
+  ],
+  "revision_date": "2025-06",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

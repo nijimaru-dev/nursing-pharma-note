@@ -8,7 +8,12 @@
   "contraindications": "ナトリウム摂取制限を必要とする患者（高ナトリウム血症、浮腫、妊娠高血圧症候群等）［ナトリウム貯留増加により、症状が悪化するおそれがある。］\nヘキサミンを投与中の患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "代謝異常：アルカローシス、ナトリウム蓄積による浮腫等\n消化器：胃部膨満、胃酸の二次的分泌（リバウンド現象）",
+  "observation_points": [
+    "代謝異常：アルカローシス、ナトリウム蓄積による浮腫等",
+    "消化器：胃部膨満、胃酸の二次的分泌（リバウンド現象）"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [
     {

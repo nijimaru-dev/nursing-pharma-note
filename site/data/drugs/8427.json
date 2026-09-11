@@ -8,7 +8,11 @@
   "contraindications": "ストレプトマイシン、カナマイシン、ゲンタマイシン、フラジオマイシン等のアミノグリコシド系抗生物質、バシトラシン又はベンゼトニウム塩化物に対し過敏症の既往歴のある患者（本剤は保存剤としてベンゼトニウム塩化物を含有している。）",
   "application_precautions": "薬剤使用時の注意\n抜歯後等の口腔内手術創の場合、血餅の形成が阻害されると思われる時期には、はげしい洗口を避けさせること。\n寒冷時溶解しにくい場合は、コップごと微温湯に浸け加温すること。なお、この加温による薬効の変化はない。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹",
+  "observation_points": [
+    "過敏症：発疹"
+  ],
+  "revision_date": "2024-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

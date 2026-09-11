@@ -8,7 +8,15 @@
   "contraindications": "高度の肝機能障害を伴う患者［アミノ酸インバランスを助長し、肝性昏睡を起こすおそれがある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、全身じん麻疹、そう痒感等\n消化器：悪心、嘔吐、食欲不振、口内不快感（口内乾燥感、口渇感を含む）、腹部膨満感等\n消化器：下痢、便秘\n肝臓：ASTの上昇、ALTの上昇\n腎臓：BUNの上昇",
+  "observation_points": [
+    "過敏症：発疹、全身じん麻疹、そう痒感等",
+    "消化器：悪心、嘔吐、食欲不振、口内不快感（口内乾燥感、口渇感を含む）、腹部膨満感等",
+    "消化器：下痢、便秘",
+    "肝臓：ASTの上昇、ALTの上昇",
+    "腎臓：BUNの上昇"
+  ],
+  "revision_date": "2026-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

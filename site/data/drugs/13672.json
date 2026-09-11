@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n腐食力があるので注意して使用すること。\n軟組織に対し局所作用をあらわすので、口腔粘膜等に付着させないよう配慮すること。したがって、使用に際してはラバーダム防湿等を行うこと。\n軟組織に付着した場合には、直ちに清拭し、消毒用エタノール、グリセリン、植物油等で清拭するか、又は多量の水で洗うなど適切な処置を行うこと。また、手指等に付着した場合には、石けん等を用いて水又は温湯で洗浄すること。万一眼に入った場合には、直ちに多量の水で洗浄する等の適切な処置を行うこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状",
+  "observation_points": [
+    "過敏症：過敏症状"
+  ],
+  "revision_date": "2024-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

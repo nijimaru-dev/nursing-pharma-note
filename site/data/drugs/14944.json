@@ -8,7 +8,17 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nガンシクロビル又はバルガンシクロビルを投与中の患者\n,\nリファンピシン又はセイヨウオトギリソウ（St. John's Wort、セント・ジョーンズ・ワート）含有食品を投与中の患者\n,",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "神経系障害：味覚障害\n神経系障害：頭痛\n胃腸障害：悪心、嘔吐、下痢\n胃腸障害：上腹部痛\n全身障害：疲労\n全身障害：食欲不振\n臨床検査：免疫抑制剤濃度増加、体重増加",
+  "observation_points": [
+    "神経系障害：味覚障害",
+    "神経系障害：頭痛",
+    "胃腸障害：悪心、嘔吐、下痢",
+    "胃腸障害：上腹部痛",
+    "全身障害：疲労",
+    "全身障害：食欲不振",
+    "臨床検査：免疫抑制剤濃度増加、体重増加"
+  ],
+  "revision_date": "2025-09",
   "is_in_formulary": false,
   "interactions": [
     {

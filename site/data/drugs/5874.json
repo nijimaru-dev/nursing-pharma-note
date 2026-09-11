@@ -8,7 +8,11 @@
   "contraindications": "鼓膜穿孔のある患者［症状を増悪させるおそれがある。］",
   "application_precautions": "薬剤投与時の注意\n本剤は耳科用のため、眼科用には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "投与部位：瘙痒感、外耳道発赤、疼痛、皮膚炎、かぶれ",
+  "observation_points": [
+    "投与部位：瘙痒感、外耳道発赤、疼痛、皮膚炎、かぶれ"
+  ],
+  "revision_date": "2023-05",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

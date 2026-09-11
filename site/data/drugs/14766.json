@@ -8,7 +8,17 @@
   "contraindications": "先天性分岐鎖アミノ酸代謝異常のある患者［メープルシロップ尿症においては痙攣、呼吸障害等があらわれるおそれがある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：腹部膨満感、下痢、腹部不快感、食欲不振、口渇\n消化器：嘔気、便秘、腹痛、嘔吐、おくび、胸やけ等\n腎臓：BUN上昇、血中クレアチニン上昇等\n代謝：血中アンモニア値の上昇等\n肝臓：AST上昇、ALT上昇、T-Bilの上昇等\n皮膚：発疹、そう痒等\nその他：倦怠感、浮腫（顔、下肢等）、発赤、ほてり",
+  "observation_points": [
+    "消化器：腹部膨満感、下痢、腹部不快感、食欲不振、口渇",
+    "消化器：嘔気、便秘、腹痛、嘔吐、おくび、胸やけ等",
+    "腎臓：BUN上昇、血中クレアチニン上昇等",
+    "代謝：血中アンモニア値の上昇等",
+    "肝臓：AST上昇、ALT上昇、T-Bilの上昇等",
+    "皮膚：発疹、そう痒等",
+    "その他：倦怠感、浮腫（顔、下肢等）、発赤、ほてり"
+  ],
+  "revision_date": "2023-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

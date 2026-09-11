@@ -8,7 +8,11 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\nウシ又はブタ蛋白質に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤服用時の注意\n本剤は腸溶性皮膜を施した顆粒が配合されているので、砕いたりかんだりしないこと。また、本剤は直ちに飲み下し、口内に残らないように注意すること。舌や口腔粘膜を刺激することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：くしゃみ、流涙、皮膚発赤等",
+  "observation_points": [
+    "過敏症：くしゃみ、流涙、皮膚発赤等"
+  ],
+  "revision_date": "2025-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n使用後の残液は、細菌汚染のおそれがあるので再使用しないこと。\n他の製剤との混注は避けること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "注射部位：注射部位不快感",
+  "observation_points": [
+    "注射部位：注射部位不快感"
+  ],
+  "revision_date": "2022-05",
   "is_in_formulary": false,
   "interactions": [
     {

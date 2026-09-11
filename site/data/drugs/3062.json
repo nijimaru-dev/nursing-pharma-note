@@ -8,7 +8,13 @@
   "contraindications": "皮膚癌又はその既往歴のある患者［皮膚癌が増悪又は再発するおそれがある。］\nポルフィリン症、紅斑性狼瘡、色素性乾皮症、多形性日光皮膚炎等の光線過敏症を伴う疾患のある患者［光毒性反応が増強される。］",
   "application_precautions": "薬剤投与時の注意\n指先等患部以外の部位に付着した場合は、エタノール綿又は石鹸等で洗い流すこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：発赤、水疱\n皮膚：皮膚炎、そう痒、潮紅、落屑、腫脹\n、痂皮",
+  "observation_points": [
+    "皮膚：発赤、水疱",
+    "皮膚：皮膚炎、そう痒、潮紅、落屑、腫脹",
+    "、痂皮"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [
     {

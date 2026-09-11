@@ -8,7 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n本剤には抗菌作用はないので以下について注意すること。\n潰瘍面を清拭消毒後、貼付又は塗布すること。\n感染があらわれた場合には、抗生物質を投与するなどの適切な処置を行い、経過を観察すること。\n本剤には薬理作用上壊死組織を積極的に融解する作用はないので、使用前に必要に応じ壊死組織を除去すること。\n眼科用に使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：疼痛\n皮膚：接触皮膚炎（紅斑、発赤、そう痒、刺激感等）\n皮膚：接触皮膚炎（水疱）、滲出液増加",
+  "observation_points": [
+    "皮膚：疼痛",
+    "皮膚：接触皮膚炎（紅斑、発赤、そう痒、刺激感等）",
+    "皮膚：接触皮膚炎（水疱）、滲出液増加"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

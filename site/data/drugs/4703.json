@@ -8,7 +8,13 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、接触性皮膚炎\n長期連用\n注）：内服、注射等全身投与の場合と同様な症状",
+  "observation_points": [
+    "過敏症：発疹、接触性皮膚炎",
+    "長期連用",
+    "注）：内服、注射等全身投与の場合と同様な症状"
+  ],
+  "revision_date": "2022-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

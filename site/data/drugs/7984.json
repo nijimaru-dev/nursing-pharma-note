@@ -8,9 +8,9 @@
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n両頭針を取りつける際、プランジャーロッドを押さないようにすること。\nシリンジ中にごくわずかに気泡が含まれている場合がある。注射液を投与してもこの気泡は通常シリンジ内に残るが、誤って投与することのないよう気泡の位置に注意しながら投与すること。",
   "serious_adverse_events": "ショック（頻度不明）",
-  "observation_points": [
-    "ショック（頻度不明）"
-  ],
+  "other_adverse_events": "",
+  "observation_points": [],
+  "revision_date": "2022-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

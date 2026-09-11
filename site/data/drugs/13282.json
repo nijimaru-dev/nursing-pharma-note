@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、蕁麻疹、瘙痒感\n肝臓：AST、ALT、LDH、Al-P、γ-GTP上昇等の肝機能障害\n消化器：悪心、嘔吐、便秘、下痢、腹痛、膨満感\n消化器：嘔気、胃部不快感\nその他：顔面紅潮",
+  "observation_points": [
+    "過敏症：発疹、蕁麻疹、瘙痒感",
+    "肝臓：AST、ALT、LDH、Al-P、γ-GTP上昇等の肝機能障害",
+    "消化器：悪心、嘔吐、便秘、下痢、腹痛、膨満感",
+    "消化器：嘔気、胃部不快感",
+    "その他：顔面紅潮"
+  ],
+  "revision_date": "2023-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

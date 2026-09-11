@@ -8,7 +8,13 @@
   "contraindications": "鉄欠乏状態にない患者［鉄過剰症を起こすおそれがある。］",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：悪心、嘔吐、食欲不振、腹痛、下痢、便秘、胃部不快感\n皮　膚：光線過敏症\n過敏症：発疹、蕁麻疹、そう痒",
+  "observation_points": [
+    "消化器：悪心、嘔吐、食欲不振、腹痛、下痢、便秘、胃部不快感",
+    "皮　膚：光線過敏症",
+    "過敏症：発疹、蕁麻疹、そう痒"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [
     {

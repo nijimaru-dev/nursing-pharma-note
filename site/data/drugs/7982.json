@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n本品の調製は無菌的に行い、また適当な鉛容器で遮蔽して行うこと。\n本品の調製の際、バイアル内に空気を入れないこと、またバイアル内を陽圧にしないこと。\n調製後は、放射線を安全に遮蔽できる貯蔵設備（貯蔵箱）に保存すること 。\n本品は調製後6時間以内に投与すること。\n薬剤投与時の注意\n本品は投与前にバイアルを振り混ぜ、粒子を分散均一化すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹\n循環器：低血圧、動悸、胸痛\n呼吸器：チアノーゼ\n消化器：悪心、嘔気\nその他：失神",
+  "observation_points": [
+    "過敏症：発疹",
+    "循環器：低血圧、動悸、胸痛",
+    "呼吸器：チアノーゼ",
+    "消化器：悪心、嘔気",
+    "その他：失神"
+  ],
+  "revision_date": "2026-07",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

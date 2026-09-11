@@ -8,7 +8,12 @@
   "contraindications": "リドカイン又はアニリド系局所麻酔剤及びアミノ安息香酸エチルに対し、過敏症の既往歴のある患者\n乳幼児",
   "application_precautions": "薬剤投与時の注意\n夏期の高温時には、坐剤がやわらかくなり挿入しにくくなることがあるので、このような場合には冷やしてから使用すると挿入し易い。また、冷やし過ぎて坐剤が固くなりすぎた場合には、しばらく手で温め表面をやわらかくしてから使用すると良い。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹、そう痒、局所の刺激感\n皮膚：色素沈着",
+  "observation_points": [
+    "過敏症：発疹、そう痒、局所の刺激感",
+    "皮膚：色素沈着"
+  ],
+  "revision_date": "2024-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

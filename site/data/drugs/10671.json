@@ -8,7 +8,15 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者\n妊婦又は妊娠している可能性のある女性",
   "application_precautions": "薬剤交付時の注意\n以下の使用方法を十分指導すること。\n投与直前にカプセル型容器を開けて、容器内の顆粒剤を飲食物とともに投与すること。\n,\nカプセル型容器ごと服用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "肝胆道系障害：血中ビリルビン増加、ALT増加\n肝胆道系障害：肝腫大、AST増加\n胃腸障害：下痢、嘔吐、腹痛\n代謝および栄養障害：ビタミンD欠乏\n代謝および栄養障害：ビタミンE欠乏",
+  "observation_points": [
+    "肝胆道系障害：血中ビリルビン増加、ALT増加",
+    "肝胆道系障害：肝腫大、AST増加",
+    "胃腸障害：下痢、嘔吐、腹痛",
+    "代謝および栄養障害：ビタミンD欠乏",
+    "代謝および栄養障害：ビタミンE欠乏"
+  ],
+  "revision_date": "2026-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

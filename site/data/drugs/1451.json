@@ -8,7 +8,12 @@
   "contraindications": "本剤に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤調製時の注意\n14.1.1 本剤を小分けするときは容器をよく洗い、本剤をよく振り混ぜて、成分が均等になるように小分け\nすること。\n薬剤使用時の注意\n14.2.1 眼又は眼の周囲には使用しないこと。\n14.2.2 他の薬剤、化粧品等が混入しないように注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発赤、発疹等\n皮膚：皮膚炎",
+  "observation_points": [
+    "過敏症：発赤、発疹等",
+    "皮膚：皮膚炎"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

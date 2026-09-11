@@ -8,7 +8,13 @@
   "contraindications": "本剤及び他のオキシコナゾール硝酸塩製剤に過敏な患者",
   "application_precautions": "薬剤使用時の注意\n腟にのみ使用し、経口投与しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：発疹等\n腟・外陰：発赤\n腟・外陰：刺激感、ひりひり感、そう痒感、疼痛等",
+  "observation_points": [
+    "過敏症：発疹等",
+    "腟・外陰：発赤",
+    "腟・外陰：刺激感、ひりひり感、そう痒感、疼痛等"
+  ],
+  "revision_date": "2023-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

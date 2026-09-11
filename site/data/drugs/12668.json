@@ -8,7 +8,14 @@
   "contraindications": "閉塞隅角緑内障の患者〔抗コリン作用により眼圧が上昇し、症状を悪化させることがある。〕",
   "application_precautions": "薬剤交付時の注意\nPTP 包装の薬剤はPTP シートから取り出して服用するよう指導すること。PTP シートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "精神神経系：眠気、不快、頭痛、頭重、昏迷\n消化器：食欲不振、便秘、口渇\n過敏症：発疹\nその他：尿量減少、喀出困難、瞳孔調節障害",
+  "observation_points": [
+    "精神神経系：眠気、不快、頭痛、頭重、昏迷",
+    "消化器：食欲不振、便秘、口渇",
+    "過敏症：発疹",
+    "その他：尿量減少、喀出困難、瞳孔調節障害"
+  ],
+  "revision_date": "2023-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：皮膚の発赤、腫脹、そう痒感、湿潤",
+  "observation_points": [
+    "過敏症：皮膚の発赤、腫脹、そう痒感、湿潤"
+  ],
+  "revision_date": "2025-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

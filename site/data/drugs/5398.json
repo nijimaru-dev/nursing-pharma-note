@@ -8,7 +8,13 @@
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n以下の事項に注意するよう患者を指導すること。\n噴霧時\n缶をよく振ってから、使用すること。\n缶を垂直に立てて、噴霧すること。\n1回1秒間の噴霧を30回以上行うと、1回当たりの噴霧液量が少なくなるので、噴霧時間を適宜延長すること。\n噴霧後\n使用後は噴射口付近をよく拭きとり、清浄に保存すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：蕁麻疹、そう痒\n消化器：嘔気、味覚変化、腹部膨満感、腹部不快感、腹鳴、口内痛等\nその他：咽頭不快感",
+  "observation_points": [
+    "過敏症：蕁麻疹、そう痒",
+    "消化器：嘔気、味覚変化、腹部膨満感、腹部不快感、腹鳴、口内痛等",
+    "その他：咽頭不快感"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

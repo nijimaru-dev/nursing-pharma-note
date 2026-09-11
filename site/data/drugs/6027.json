@@ -8,7 +8,14 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "泌尿器：膀胱痛(30.6%)、尿道痛、膀胱刺激症状\n泌尿器：膀胱不快感、頻尿\n泌尿器：排尿困難\nその他：呼気臭・皮膚臭異常（ニンニク様の臭い）",
+  "observation_points": [
+    "泌尿器：膀胱痛(30.6%)、尿道痛、膀胱刺激症状",
+    "泌尿器：膀胱不快感、頻尿",
+    "泌尿器：排尿困難",
+    "その他：呼気臭・皮膚臭異常（ニンニク様の臭い）"
+  ],
+  "revision_date": "2024-05",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

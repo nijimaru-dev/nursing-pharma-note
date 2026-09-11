@@ -8,7 +8,12 @@
   "contraindications": "エリスロマイシン、コリスチンに対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n患者に対し以下の点に注意するよう指導すること。\n〈投与方法共通〉\n薬剤汚染防止のため、塗布するとき、容器の先端が直接目に触れないように注意すること。\n他の点眼剤を併用する場合には、本剤を最後に使用すること。その際、少なくとも5分以上間隔をあけること。\n〈結膜嚢内に塗布する場合〉\n患眼を開瞼して結膜嚢内に塗布し、閉瞼して軟膏が全体に広がった後、開瞼すること。\n軟膏が眼瞼皮膚等についた場合には、すぐにふき取ること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "眼：結膜充血、眼瞼炎、眼のそう痒感\n皮膚：そう痒",
+  "observation_points": [
+    "眼：結膜充血、眼瞼炎、眼のそう痒感",
+    "皮膚：そう痒"
+  ],
+  "revision_date": "2022-09",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

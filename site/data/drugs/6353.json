@@ -8,7 +8,15 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n使用部位\n潰瘍、びらん面への塗布を避けること。\n眼、粘膜には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：皮膚炎、接触性皮膚炎、ひびあかぎれ（皮膚亀裂）、水疱、末梢性浮腫\n皮膚：皮膚乾燥\n肝臓：AST上昇、ALT上昇\n血液：血小板増加\n末梢神経系：ヒリヒリ感（錯感覚）",
+  "observation_points": [
+    "皮膚：皮膚炎、接触性皮膚炎、ひびあかぎれ（皮膚亀裂）、水疱、末梢性浮腫",
+    "皮膚：皮膚乾燥",
+    "肝臓：AST上昇、ALT上昇",
+    "血液：血小板増加",
+    "末梢神経系：ヒリヒリ感（錯感覚）"
+  ],
+  "revision_date": "2023-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

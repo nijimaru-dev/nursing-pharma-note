@@ -8,7 +8,12 @@
   "contraindications": "本剤に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤投与時の注意\n眼科用に使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状\n皮　膚：発赤、紅斑",
+  "observation_points": [
+    "過敏症：過敏症状",
+    "皮　膚：発赤、紅斑"
+  ],
+  "revision_date": "2024-10",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,17 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：悪心、下痢、腹部不快感、便秘、軟便、食欲減退\n過敏症：発疹\nその他：脱力感\n精神神経系：不眠症\n消化器：口内炎\n消化器：便秘、下痢、胃食道逆流性疾患、裂孔ヘルニア、胃腸炎、食欲減退\nその他：頻尿、四肢痛、γ-グルタミルトランスフェラーゼ増加、血中クレアチンホスホキナーゼ増加",
+  "observation_points": [
+    "消化器：悪心、下痢、腹部不快感、便秘、軟便、食欲減退",
+    "過敏症：発疹",
+    "その他：脱力感",
+    "精神神経系：不眠症",
+    "消化器：口内炎",
+    "消化器：便秘、下痢、胃食道逆流性疾患、裂孔ヘルニア、胃腸炎、食欲減退",
+    "その他：頻尿、四肢痛、γ-グルタミルトランスフェラーゼ増加、血中クレアチンホスホキナーゼ増加"
+  ],
+  "revision_date": "2023-12",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

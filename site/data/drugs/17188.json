@@ -8,9 +8,16 @@
   "contraindications": "本剤又はヨウ素に対し過敏症の既往歴のある患者\n水銀剤を使用中の患者",
   "application_precautions": "",
   "serious_adverse_events": "アナフィラキシー（頻度不明） アナフィラキシー（呼吸困難、潮紅、蕁麻疹等）があらわれることがある。",
+  "other_adverse_events": "過敏症：発疹、口腔粘膜び爛等\n甲状腺：血中甲状腺ホルモン値（T\n3\n、T\n4\n等）の上昇あるいは低下など甲状腺機能異常",
   "observation_points": [
-    "アナフィラキシー（頻度不明） アナフィラキシー（呼吸困難、潮紅、蕁麻疹等）があらわれることがある"
+    "過敏症：発疹、口腔粘膜び爛等",
+    "甲状腺：血中甲状腺ホルモン値（T",
+    "3",
+    "、T",
+    "4",
+    "等）の上昇あるいは低下など甲状腺機能異常"
   ],
+  "revision_date": "2023-01",
   "is_in_formulary": false,
   "interactions": [
     {

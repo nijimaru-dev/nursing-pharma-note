@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "消化器：嘔気\n消化器：口内苦味感\n循環器：胸内苦悶、不整脈\nその他：軽度不快感\nその他：下顎疲労感、ヨード過剰症状（鼻咽頭灼熱感、耳下腺痛）",
+  "observation_points": [
+    "消化器：嘔気",
+    "消化器：口内苦味感",
+    "循環器：胸内苦悶、不整脈",
+    "その他：軽度不快感",
+    "その他：下顎疲労感、ヨード過剰症状（鼻咽頭灼熱感、耳下腺痛）"
+  ],
+  "revision_date": "2024-02",
   "is_in_formulary": false,
   "interactions": [
     {

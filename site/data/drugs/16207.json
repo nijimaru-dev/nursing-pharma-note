@@ -8,7 +8,12 @@
   "contraindications": "",
   "application_precautions": "薬剤使用時の注意\n抜歯後等の口腔創傷の場合、血餅の形成が阻害されると思われる時期には、はげしい洗口を避けさせること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "口腔：口中のあれ\n口腔：口腔、咽頭の刺激感",
+  "observation_points": [
+    "口腔：口中のあれ",
+    "口腔：口腔、咽頭の刺激感"
+  ],
+  "revision_date": "2023-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

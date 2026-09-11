@@ -8,7 +8,19 @@
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "循環器\n注)：心機能の抑制、心電図異常（QT延長等）、血圧の低下等\n骨格筋\n注)：テタニー、痙攣等\n感覚器\n注)：知覚異常\n呼吸器：苦悶感、呼吸困難\n消化器：悪心・嘔吐\nその他：血色素尿、悪寒、戦慄、発熱、めまい、代謝性アルカローシス、小児に緑褐色便、ビリルビン尿",
+  "observation_points": [
+    "循環器",
+    "注)：心機能の抑制、心電図異常（QT延長等）、血圧の低下等",
+    "骨格筋",
+    "注)：テタニー、痙攣等",
+    "感覚器",
+    "注)：知覚異常",
+    "呼吸器：苦悶感、呼吸困難",
+    "消化器：悪心・嘔吐",
+    "その他：血色素尿、悪寒、戦慄、発熱、めまい、代謝性アルカローシス、小児に緑褐色便、ビリルビン尿"
+  ],
+  "revision_date": "2020-01",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

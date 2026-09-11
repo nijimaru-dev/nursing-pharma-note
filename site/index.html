@@ -2,6 +2,16 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("npn-theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    var f = localStorage.getItem("npn-fontsize");
+    if (f === "small" || f === "large") document.documentElement.dataset.fontsize = f;
+  } catch (e) {}
+})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>看護薬理ノート｜看護師・介護職員のための薬剤リファレンス</title>
 <meta name="description" content="看護師・介護職員・看護学生のための、無料の薬剤情報リファレンス。薬品名で検索して効能・用法・注意点を確認し、複数の薬を選んで飲み合わせ（相互作用）もチェックできます。">
@@ -13,11 +23,37 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-logo" href="/">看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
-    <nav class="site-nav" aria-label="サイト内ナビゲーション">
-      <a href="/" aria-current="page">トップ</a>
-      <a href="/check.html">複数薬チェック</a>
-      <a href="/about.html">このサイトについて</a>
-    </nav>
+    <div class="site-header__right">
+      <nav class="site-nav" aria-label="サイト内ナビゲーション">
+        <a href="/" aria-current="page">トップ</a>
+        <a href="/check.html">複数薬チェック</a>
+        <a href="/mydrugs.html">マイ薬箱</a>
+        <a href="/about.html">このサイトについて</a>
+      </nav>
+      <div class="settings-panel-wrap">
+        <button type="button" class="settings-toggle" id="settings-toggle" aria-haspopup="true" aria-expanded="false" aria-label="表示設定">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09a1.65 1.65 0 00-1-1.51 1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09a1.65 1.65 0 001.51-1 1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 112.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 112.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>
+        </button>
+        <div class="settings-panel" id="settings-panel" hidden>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">テーマ</span>
+            <div class="settings-panel__options" role="group" aria-label="テーマ">
+              <button type="button" data-theme-choice="system">自動</button>
+              <button type="button" data-theme-choice="light">ライト</button>
+              <button type="button" data-theme-choice="dark">ダーク</button>
+            </div>
+          </div>
+          <div class="settings-panel__group">
+            <span class="settings-panel__label">文字サイズ</span>
+            <div class="settings-panel__options" role="group" aria-label="文字サイズ">
+              <button type="button" data-fontsize-choice="small">小</button>
+              <button type="button" data-fontsize-choice="medium">中</button>
+              <button type="button" data-fontsize-choice="large">大</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
 
@@ -39,13 +75,13 @@
     <h2 class="section-label">薬効分類でさがす</h2>
     <ul class="category-grid" id="category-grid"></ul>
 
-    <!--
-      「よく調べられる薬」セクションは撤去済み（2026-09）。
-      実際のアクセス数や施設処方データに基づく選定ロジックが無いまま
-      表示すると、たまたまindex.jsonの先頭に来た薬（読み込み順）が
-      並ぶだけで意味を持たない。実用的な選定基準（施設処方データ・
-      アクセスログ等）ができてから再度追加すること。
-    -->
+    <section id="recent-section" hidden>
+      <div class="mydrugs-section__head">
+        <h2 class="section-label" style="margin:0;">最近見た薬</h2>
+        <a href="/mydrugs.html" style="font-size:0.86rem;">マイ薬箱で見る &rarr;</a>
+      </div>
+      <ul class="drug-grid" id="recent-grid" style="margin-top:14px;"></ul>
+    </section>
 
     <div class="disclaimer-inline">
       本サイトは診断・治療・処方の代替ではありません。実際の投薬判断は必ず最新の添付文書・医師・薬剤師の指示に従ってください。
@@ -54,19 +90,25 @@
 </main>
 
 <footer class="site-footer">
-  <div class="disclaimer">
-    <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
-    <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
-  </div>
+  <details class="disclaimer-accordion">
+    <summary>免責事項・データ出典</summary>
+    <div class="disclaimer">
+      <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+      <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+    </div>
+  </details>
   <div class="site-footer__links">
     <span>© <span id="year"></span> 看護薬理ノート</span>
     <a href="/about.html">このサイトについて</a>
+    <a href="/about.html#error-report-link">誤りを報告する</a>
   </div>
 </footer>
 
 <script src="/js/data.js"></script>
 <script src="/js/search-widget.js"></script>
 <script src="/js/categories.js"></script>
+<script src="/js/mydrugs.js"></script>
+<script src="/js/settings.js"></script>
 <script>
   document.getElementById("year").textContent = new Date().getFullYear();
 
@@ -75,6 +117,32 @@
     resultsEl: document.getElementById("search-results"),
     placeholder: "薬品名・一般名で検索（例：ジゴキシン）",
   });
+
+  // PC利用時、「/」キーで検索欄にフォーカスする（他の入力欄にフォーカス中は奪わない）
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "/" || e.metaKey || e.ctrlKey || e.altKey) return;
+    const active = document.activeElement;
+    const isTyping = active && (active.tagName === "INPUT" || active.tagName === "TEXTAREA" || active.isContentEditable);
+    if (isTyping) return;
+    e.preventDefault();
+    document.getElementById("drug-search").focus();
+  });
+
+  const recentHistory = MyDrugs.getHistory().slice(0, 4);
+  if (recentHistory.length) {
+    document.getElementById("recent-section").hidden = false;
+    document.getElementById("recent-grid").innerHTML = recentHistory
+      .map(
+        (d) => `
+      <li>
+        <a class="drug-chip" href="/drug.html?id=${d.id}">
+          <span class="name">${(d.brand_name || d.generic_name || "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]))}</span>
+          <span class="cls">${(d.generic_name || "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]))}</span>
+        </a>
+      </li>`
+      )
+      .join("");
+  }
 
   DrugData.loadIndex().then((list) => {
     const catGrid = document.getElementById("category-grid");

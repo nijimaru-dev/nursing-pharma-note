@@ -8,7 +8,11 @@
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n深い創傷に使用する場合の希釈液としては注射用水か滅菌精製水を用い、水道水や精製水を用いないこと。\n薬剤使用時の注意\n外用にのみ使用すること。\n粘膜、創傷面又は炎症部位に長期間又は広範囲に使用しないこと。\n原末又は溶解液が眼に入らないように注意すること。眼に入った場合には水でよく洗い流すこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：刺激感等",
+  "observation_points": [
+    "皮膚：刺激感等"
+  ],
+  "revision_date": "2023-02",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

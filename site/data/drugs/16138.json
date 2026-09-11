@@ -8,7 +8,12 @@
   "contraindications": "重度又は広範囲の熱傷には使用しないこと［酸化亜鉛が創傷部位に付着し、組織修復を遷延させることがある。］\n患部が湿潤している場合には使用しないこと［酸化亜鉛が創傷部位に付着し、組織修復を遷延させることがある。デンプンの保湿作用により、患部を悪化させることがある 。］",
   "application_precautions": "薬剤交付時の注意\n誤って吸入しないよう注意させること。\n薬剤使用時の注意\n眼には使用しないこと。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "過敏症：過敏症状\n皮膚：発疹、刺激感等",
+  "observation_points": [
+    "過敏症：過敏症状",
+    "皮膚：発疹、刺激感等"
+  ],
+  "revision_date": "2024-03",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

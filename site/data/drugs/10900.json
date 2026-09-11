@@ -8,7 +8,15 @@
   "contraindications": "",
   "application_precautions": "診断上の注意\n胃内の\nH.pylori\nの菌体数と\n13\nC-尿素呼気試験法の結果（Δ\n13\nCO\n2\n値）の相関は確立していない。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "血液：白血球増多\n肝臓：ALP、γ-GTPの上昇\n肝臓：AST、ALTの上昇\n腎臓：尿蛋白、尿潜血、血尿\nその他：総コレステロール上昇",
+  "observation_points": [
+    "血液：白血球増多",
+    "肝臓：ALP、γ-GTPの上昇",
+    "肝臓：AST、ALTの上昇",
+    "腎臓：尿蛋白、尿潜血、血尿",
+    "その他：総コレステロール上昇"
+  ],
+  "revision_date": "2022-04",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

@@ -8,7 +8,15 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤使用時の注意\n眼には使用しないこと。眼に入った場合は速やかに水でよく洗い流すこと。\n本剤は過酸化ベンゾイル製剤と重ねて塗布すると黄色に変色することがあるため、皮膚や衣服等への着色に注意すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "皮膚：乾燥\n皮膚：刺激感、鱗屑・落屑、紅斑、そう痒、ほてり、乾皮症\n皮膚：接触皮膚炎、違和感\nその他：血中ビリルビン増加\nその他：AST増加、ALT増加、γ-GTP増加、好酸球増加",
+  "observation_points": [
+    "皮膚：乾燥",
+    "皮膚：刺激感、鱗屑・落屑、紅斑、そう痒、ほてり、乾皮症",
+    "皮膚：接触皮膚炎、違和感",
+    "その他：血中ビリルビン増加",
+    "その他：AST増加、ALT増加、γ-GTP増加、好酸球増加"
+  ],
+  "revision_date": "2025-05",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""

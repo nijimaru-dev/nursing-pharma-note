@@ -8,7 +8,13 @@
   "contraindications": "高カルシウム血症の患者［高カルシウム血症を増悪させるおそれがある。］\n,\n腎結石のある患者［腎結石を増強させるおそれがある。］\n重篤な腎不全のある患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "長期投与：高カルシウム血症、結石症\n消化器：腹部膨満感、胸やけ、軟便\nその他：頭痛、心窩部不快感、発疹",
+  "observation_points": [
+    "長期投与：高カルシウム血症、結石症",
+    "消化器：腹部膨満感、胸やけ、軟便",
+    "その他：頭痛、心窩部不快感、発疹"
+  ],
+  "revision_date": "2023-07",
   "is_in_formulary": false,
   "interactions": [
     {

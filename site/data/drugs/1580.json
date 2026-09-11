@@ -8,7 +8,12 @@
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\n本剤はPTPシートから取り出して腟内にのみ使用するよう指導すること。",
   "serious_adverse_events": "",
-  "observation_points": [],
+  "other_adverse_events": "腟：刺激感\n腟：疼痛、腫脹感、そう痒感、発赤、熱感",
+  "observation_points": [
+    "腟：刺激感",
+    "腟：疼痛、腫脹感、そう痒感、発赤、熱感"
+  ],
+  "revision_date": "2023-08",
   "is_in_formulary": false,
   "interactions": [],
   "facility_notes": ""
