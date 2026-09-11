@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title id="page-title">薬効分類でさがす｜看護薬理ノート</title>
+<meta name="description" content="薬効分類ごとに薬品を一覧できます。">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へ移動</a>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-logo" href="/"><span aria-hidden="true">💊</span>看護薬理ノート<span>NURSING PHARMA NOTE</span></a>
+    <nav class="site-nav" aria-label="サイト内ナビゲーション">
+      <a href="/">トップ</a>
+      <a href="/check.html">複数薬チェック</a>
+      <a href="/about.html">このサイトについて</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="container">
+    <p style="margin-top:20px;"><a href="/">&larr; トップに戻る</a></p>
+
+    <div id="category-root">
+      <div class="empty-state">読み込み中です…</div>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="disclaimer">
+    <p>本サイトは、看護師・介護職員・看護学生が薬剤情報を調べる際の参考情報を提供するものであり、診断・治療・処方の代替を目的としたものではありません。実際の投薬判断は、必ず最新の添付文書・医師・薬剤師の指示に従ってください。</p>
+    <p>本サイトの薬剤情報は、独立行政法人医薬品医療機器総合機構（PMDA）が公開する添付文書情報を基に、公共データ利用規約（第1.0版）に基づき編集・加工して作成しています。内容の正確性・完全性・最新性を保証するものではありません。</p>
+  </div>
+  <div class="site-footer__links">
+    <span>© <span id="year"></span> 看護薬理ノート</span>
+    <a href="/about.html">このサイトについて</a>
+  </div>
+</footer>
+
+<script src="/js/data.js"></script>
+<script src="/js/categories.js"></script>
+<script>
+document.getElementById("year").textContent = new Date().getFullYear();
+
+function escapeHTML(str) {
+  return String(str ?? "").replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[c]));
+}
+
+const params = new URLSearchParams(location.search);
+const catId = params.get("cat");
+const root = document.getElementById("category-root");
+const PAGE_SIZE = 60;
+let shown = 0;
+let filteredDrugs = [];
+
+if (!catId) {
+  root.innerHTML = `<div class="empty-state">分類が指定されていません。<a href="/">トップページから選び直してください</a>。</div>`;
+} else {
+  const cat = getCategoryById(catId);
+  document.getElementById("page-title").textContent = `${cat.label}｜看護薬理ノート`;
+
+  DrugData.loadIndex().then((list) => {
+    const allInCategory = list.filter((d) => categorize(d.therapeutic_classification) === catId);
+    filteredDrugs = allInCategory;
+
+    root.innerHTML = `
+      <div class="category-page-head">
+        <span class="icon-badge" aria-hidden="true">${cat.icon}</span>
+        <h1>${escapeHTML(cat.label)}</h1>
+        <p class="count-note">${allInCategory.length}件の薬品</p>
+      </div>
+
+      <div class="search-box category-filter">
+        <span class="search-box__icon" aria-hidden="true">🔍</span>
+        <label for="in-category-filter" style="position:absolute;left:-9999px;">この分類内で絞り込み</label>
+        <input type="search" id="in-category-filter" autocomplete="off" placeholder="この分類の中でさらに薬品名で絞り込む">
+      </div>
+
+      <ul class="drug-grid" id="category-drug-grid"></ul>
+      <div class="load-more-wrap" id="load-more-wrap">
+        <button type="button" class="btn btn--ghost" id="load-more-btn">もっと見る</button>
+      </div>
+    `;
+
+    const gridEl = document.getElementById("category-drug-grid");
+    const loadMoreWrap = document.getElementById("load-more-wrap");
+    const loadMoreBtn = document.getElementById("load-more-btn");
+    const filterInput = document.getElementById("in-category-filter");
+
+    function renderPage(reset) {
+      if (reset) {
+        gridEl.innerHTML = "";
+        shown = 0;
+      }
+      const next = filteredDrugs.slice(shown, shown + PAGE_SIZE);
+      next.forEach((d) => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.className = "drug-chip";
+        a.href = `/drug.html?id=${d.id}`;
+        const nameSpan = document.createElement("span");
+        nameSpan.className = "name";
+        nameSpan.textContent = d.brand_name || d.generic_name;
+        const clsSpan = document.createElement("span");
+        clsSpan.className = "cls";
+        clsSpan.textContent = d.therapeutic_classification || d.generic_name || "";
+        a.appendChild(nameSpan);
+        a.appendChild(clsSpan);
+        li.appendChild(a);
+        gridEl.appendChild(li);
+      });
+      shown += next.length;
+      loadMoreWrap.hidden = shown >= filteredDrugs.length;
+    }
+
+    if (allInCategory.length === 0) {
+      gridEl.innerHTML = `<div class="empty-state">該当する薬品がまだ登録されていません。</div>`;
+      loadMoreWrap.hidden = true;
+    } else {
+      renderPage(true);
+    }
+
+    loadMoreBtn.addEventListener("click", () => renderPage(false));
+
+    filterInput.addEventListener("input", () => {
+      const q = filterInput.value.trim();
+      filteredDrugs = q
+        ? allInCategory.filter(
+            (d) =>
+              (d.brand_name && d.brand_name.includes(q)) ||
+              (d.generic_name && d.generic_name.includes(q))
+          )
+        : allInCategory;
+      renderPage(true);
+      if (filteredDrugs.length === 0) {
+        gridEl.innerHTML = `<div class="empty-state">「${escapeHTML(q)}」に一致する薬品は見つかりませんでした。</div>`;
+      }
+    });
+  });
+}
+</script>
+</body>
+</html>

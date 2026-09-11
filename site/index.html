@@ -36,6 +36,9 @@
       </div>
     </section>
 
+    <h2 class="section-label">薬効分類でさがす</h2>
+    <ul class="category-grid" id="category-grid"></ul>
+
     <h2 class="section-label">よく調べられる薬</h2>
     <ul class="drug-grid" id="popular-drugs"></ul>
 
@@ -58,6 +61,7 @@
 
 <script src="/js/data.js"></script>
 <script src="/js/search-widget.js"></script>
+<script src="/js/categories.js"></script>
 <script>
   document.getElementById("year").textContent = new Date().getFullYear();
 
@@ -65,6 +69,28 @@
     inputEl: document.getElementById("drug-search"),
     resultsEl: document.getElementById("search-results"),
     placeholder: "薬品名・一般名で検索（例：ジゴキシン）",
+  });
+
+  DrugData.loadIndex().then((list) => {
+    const catGrid = document.getElementById("category-grid");
+    const counts = new Map();
+    list.forEach((d) => {
+      const cid = categorize(d.therapeutic_classification);
+      counts.set(cid, (counts.get(cid) || 0) + 1);
+    });
+    const allCats = [...DRUG_CATEGORIES, OTHER_CATEGORY];
+    allCats.forEach((cat) => {
+      const count = counts.get(cat.id) || 0;
+      if (count === 0) return;
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.className = "category-chip" + (cat.id === "other" ? " category-chip--other" : "");
+      a.href = `/category.html?cat=${cat.id}`;
+      a.innerHTML = `<span class="icon" aria-hidden="true">${cat.icon}</span>
+        <span><span class="label">${cat.label}</span><span class="count">${count}件</span></span>`;
+      li.appendChild(a);
+      catGrid.appendChild(li);
+    });
   });
 
   DrugData.loadIndex().then((list) => {
