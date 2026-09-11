@@ -89,6 +89,7 @@
       if (count === 0) return;
       const li = document.createElement("li");
       const a = document.createElement("a");
+      if (cat.id === "other") li.className = "category-grid__other";
       a.className = "category-chip" + (cat.id === "other" ? " category-chip--other" : "");
       a.href = `/category.html?cat=${cat.id}`;
       a.innerHTML = `<span class="label">${cat.label}</span><span class="count">${count}件</span>`;

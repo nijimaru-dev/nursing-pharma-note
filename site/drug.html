@@ -173,8 +173,8 @@ function renderDrug(drug) {
     : "";
 
   const tabs = [
-    { id: "indications", label: "効能・効果の詳細", body: drug.indications },
-    { id: "dose", label: "用法・用量の詳細", body: drug.dose_admin },
+    { id: "indications", label: "効能・効果", body: drug.indications },
+    { id: "dose", label: "用法・用量", body: drug.dose_admin },
     { id: "precautions", label: "適用上の注意", body: drug.application_precautions },
     { id: "contra", label: "禁忌", body: drug.contraindications },
     { id: "facility", label: "施設の注意点", body: drug.facility_notes || "未登録（この施設ではまだ院内処方リストが取り込まれていません）" },

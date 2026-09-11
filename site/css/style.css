@@ -466,6 +466,10 @@ p, li, .field__body, .sec-body {
   padding: 10px 14px;
   cursor: pointer;
   white-space: nowrap;
+  /* サイト共通の * { min-width: 0 } リセットにより、指定しないと
+     タブが際限なく縮んで文字が重なって表示されてしまう。
+     縮ませず、はみ出した分は.tab-listのoverflow-x:autoで横スクロールさせる。 */
+  flex-shrink: 0;
 }
 .tab-btn[aria-selected="true"] {
   color: var(--ink);
@@ -733,11 +737,18 @@ p, li, .field__body, .sec-body {
 .category-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  align-items: stretch;
   gap: 8px;
   list-style: none;
   padding: 0;
   margin: 0 0 32px;
 }
+
+/* 分類名が2行に折り返しても、そのカードだけ高さが伸びて他と不揃いに
+   ならないよう、<li>（grid item）を縦stretchさせたうえで、中の
+   .category-chipもflexで<li>いっぱいに広げる。 */
+.category-grid li { display: flex; }
+.category-chip { flex: 1; }
 
 @media (min-width: 560px) {
   .category-grid { grid-template-columns: repeat(3, 1fr); }
@@ -745,6 +756,11 @@ p, li, .field__body, .sec-body {
 @media (min-width: 760px) {
   .category-grid { grid-template-columns: repeat(4, 1fr); }
 }
+
+/* 「その他」は分類数に関わらず必ず最後の1件で、グリッドの端に
+   半端に余って見えるため、常に行いっぱいに広げて明確に「その他」枠と
+   分かる見た目にする。 */
+.category-grid__other { grid-column: 1 / -1; }
 
 .category-chip {
   display: flex;
