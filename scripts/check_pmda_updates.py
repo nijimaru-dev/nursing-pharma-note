@@ -1,53 +1,37 @@
 # -*- coding: utf-8 -*-
 """
 check_pmda_updates.py
-PMDA「医療用医薬品 添付文書等情報検索」の更新年月日検索を使い、
-直近で改訂された添付文書のみを検知して差分ダウンロードするためのスクリプト。
 
-【現状：未実装のプレースホルダー】
-PMDAは公式ダウンロードAPIを提供しておらず、検索ページのフォームパラメータ・
-レスポンス構造に依存したスクレイピングが必要になる。実際のリクエスト形式は
-実機で検証していないため、ここでは実装していない（HANDOFF.md 2章・7章参照）。
+【現状：意図的に未使用（実装しない方針に確定）】
+このスクリプトは、PMDA「医療用医薬品 添付文書等情報検索」の更新年月日検索を使って
+差分（直近改訂分）のみを自動検知・自動ダウンロードするための下書きとして書かれたが、
+実装しないことに決定した。理由は「未実装」ではなく「不要」である。
 
-実装する際に確認すべきこと：
-- 検索ページのURL・フォームの実際のパラメータ名（更新年月日での絞り込み条件）
-- 検索結果一覧のHTML構造（ページネーション含む）
-- 個別のXML（新記載要領）ダウンロードリンクの取得方法
-- 短期間に大量リクエストを送らないためのレート制御・User-Agent設定
+- PMDAは公式ダウンロードAPIを提供しておらず、検索ページのフォームパラメータ・
+  レスポンス構造に依存したスクレイピングが必要になる。PMDA側の画面変更で
+  簡単に壊れるうえ、実機での挙動検証・継続的なメンテナンスコストに見合わないと判断した
+  （HANDOFF.md 2章参照）。
+- 代わりに `.github/workflows/update-drug-db.yml` は半自動化方式を採用している：
+  1. 毎月1日、cronがPMDAには一切アクセスせず「今月の一括ダウンロードをお願いします」
+     というGitHub Issueを作成するだけ
+  2. 人がPMDAから新記載要領XMLを一括ダウンロードし、`scripts/tenpu_xml/`に配置する
+  3. workflow_dispatchを手動実行し、`pmda_tenpu_parser.py`が全件を再パースする
 
-未実装の間は、このスクリプトは常に「更新なし」として正常終了する
-（exit code 0）。これにより、GitHub Actions のワークフロー自体は
-本実装が入るまで安全にスキップ・成功扱いになる。
-実装後は、新規・改訂ファイルを --input-dir に保存し、
-GITHUB_OUTPUT に has_updates=true/false を書き出すこと。
-
-使い方（実装後の想定）：
-    python check_pmda_updates.py --input-dir ./tenpu_xml
+このため「直近改訂分のみを検知する」差分取得の仕組み自体が不要になった。
+このファイルはワークフローから呼び出されておらず、経緯を残すためだけに置いている。
+削除して差し支えない状況になれば削除してよい。
 """
 
-import argparse
-import os
 import sys
-from pathlib import Path
 
 
-def main():
-    ap = argparse.ArgumentParser(description="PMDA添付文書の更新チェック（未実装プレースホルダー）")
-    ap.add_argument("--input-dir", type=Path, default=Path("./tenpu_xml"))
-    args = ap.parse_args()
-
+def main() -> int:
     print(
-        "[未実装] PMDA更新チェックはまだ実装されていません。"
-        "HANDOFF.md 2章・7章および本ファイルのdocstringを参照し、"
-        "実機でPMDA検索ページの挙動を確認してから実装してください。",
+        "check_pmda_updates.py は使用されていません。"
+        "PMDAの自動差分検知は実装しない方針です（本ファイルのdocstring、"
+        "HANDOFF.md 2章、CLAUDE.md「データ更新パイプライン」参照）。",
         file=sys.stderr,
     )
-
-    github_output = os.environ.get("GITHUB_OUTPUT")
-    if github_output:
-        with open(github_output, "a", encoding="utf-8") as f:
-            f.write("has_updates=false\n")
-
     return 0
 
 

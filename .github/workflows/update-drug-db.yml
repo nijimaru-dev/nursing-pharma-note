@@ -1,5 +1,16 @@
-name: 薬剤DB更新・サイトデプロイ
+name: 薬剤DB更新リマインド
 
+# 【2026-09-12設計変更】GitHub Actionsの役割は「月次リマインドIssueの作成」のみに
+# 限定する。DB更新・JSON書き出し・Netlifyデプロイはクラウド側では一切行わない。
+# 理由：
+# - PMDAは公式ダウンロードAPIを提供しておらず、XMLの取得は人が手動で行う必要がある
+# - workflow_dispatch（GitHub Actionsのクラウド上のランナー）はリポジトリを
+#   チェックアウトした状態からしか動かないため、人が自分のPCに置いただけのXMLを
+#   処理できない（毎回コミット＆pushするのはリポジトリが肥大化しすぎる）
+# - karteno_drugs.dbは.gitignore対象のまま維持したい（原本はローカルのみで運用）
+# そのため、実際のパース・エクスポートは人がローカルで実行し、site/data配下の
+# 変更をコミット＆pushすることで、Netlify側の既存の自動デプロイ（gitプッシュ連携）
+# にそのままサイト更新を任せる。詳細はHANDOFF.md 2章参照。
 on:
   schedule:
     # 毎月1日 03:00 UTC（日本時間 正午）
@@ -7,65 +18,41 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write
+  issues: write
 
 jobs:
-  update-and-deploy:
+  monthly-reminder:
     runs-on: ubuntu-latest
     steps:
-      - name: リポジトリをチェックアウト
-        uses: actions/checkout@v4
-
-      - name: Python セットアップ
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: PMDA更新チェック
-        id: pmda_check
-        working-directory: scripts
-        run: python check_pmda_updates.py --input-dir ./tenpu_xml
-
-      # 未実装の間は has_updates が常に false のため、以降のステップは実行されない。
-      # check_pmda_updates.py の実装が完了したら、このジョブは自動的に機能し始める。
-      - name: DB更新（クレンジング）
-        if: steps.pmda_check.outputs.has_updates == 'true'
-        working-directory: scripts
-        run: |
-          python pmda_tenpu_parser.py \
-            --input-dir ./tenpu_xml \
-            --db ../karteno_drugs.db
-
-      - name: JSON書き出し
-        if: steps.pmda_check.outputs.has_updates == 'true'
-        working-directory: scripts
-        run: |
-          python export_db_to_json.py \
-            --db ../karteno_drugs.db \
-            --out ../site/data
-
-      - name: 変更をコミット
-        if: steps.pmda_check.outputs.has_updates == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add karteno_drugs.db site/data
-          git diff --cached --quiet || git commit -m "chore: 薬剤DBを更新（自動）"
-          git push
-
-      - name: Netlifyへデプロイ
-        if: steps.pmda_check.outputs.has_updates == 'true'
+      - name: 今月の一括ダウンロード依頼Issueを作成
         env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
         run: |
-          if [ -z "$NETLIFY_AUTH_TOKEN" ] || [ -z "$NETLIFY_SITE_ID" ]; then
-            echo "NETLIFY_AUTH_TOKEN / NETLIFY_SITE_ID がSecretsに未設定のため、デプロイをスキップします。"
-            exit 0
-          fi
-          npx --yes netlify-cli deploy --prod --dir=site
+          YM=$(date -u +"%Y年%-m月")
+          BODY=$(cat <<'EOF'
+          PMDAは添付文書の公式ダウンロードAPIを提供していないため、本サイトの更新は
+          完全自動化せず、月1回の手動ダウンロード＋ローカルでの手動実行で行っています。
+
+          ## やること
+          1. PMDA「医療用医薬品 添付文書等情報検索」から、新記載要領のXMLを一括ダウンロードする
+          2. ダウンロードしたXMLを `scripts/tenpu_xml/` に配置し、ローカルで以下を実行する
+             （`karteno_drugs.db` はローカルのみに置くファイルで、コミットしない）
+
+             python scripts/pmda_tenpu_parser.py --input-dir ./tenpu_xml --db ../karteno_drugs.db
+             python scripts/export_db_to_json.py --db ../karteno_drugs.db --out ../site/data
+
+          3. このIssueをクローズし、`site/data` 配下の変更をコミット＆pushする
+             （Netlifyの既存の自動デプロイがそのままサイトへ反映する）
+
+          詳細は `HANDOFF.md` 2章・`CLAUDE.md`「データ更新パイプライン」を参照してください。
+          EOF
+          )
+          gh issue create \
+            --title "[月次] ${YM}分のPMDA添付文書 一括ダウンロードをお願いします" \
+            --body "$BODY"
 
       - name: 失敗時の通知について
         if: failure()
         run: |
-          echo "::warning::このジョブは失敗しました。GitHubの通知設定（Settings > Notifications）で Actions の失敗通知が有効になっていることを確認してください。"
+          echo "::warning::月次リマインドIssueの作成に失敗しました。GitHubの通知設定（Settings > Notifications）でActionsの失敗通知が有効になっていることを確認してください。"

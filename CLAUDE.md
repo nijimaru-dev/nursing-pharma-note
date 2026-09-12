@@ -21,11 +21,23 @@
 
 ## データ更新パイプライン
 
-- `.github/workflows/update-drug-db.yml`が月次でDB更新・JSON再生成・デプロイまでを自動実行する。
-- ワークフロー内の「PMDA更新チェック」ステップ（`scripts/check_pmda_updates.py`）は
-  未実装のプレースホルダー。実装時はPMDAの検索ページの実際のリクエスト形式を
-  実機で確認すること（公式ダウンロードAPIは存在しない）。
-- このジョブが失敗した場合に気づけるよう、GitHub通知設定を必ず有効にしておくこと。
+- 月次更新は完全自動化しない（2026-09-12確定）。PMDAは添付文書の公式ダウンロードAPIを
+  提供しておらず、検索ページの挙動に依存した自動スクレイピングは壊れやすく保守コストが
+  高いため、自動差分検知は行わない方針にした。GitHub Actions
+  （`.github/workflows/update-drug-db.yml`）の役割は**月次リマインドIssueの作成だけ**に
+  限定し、DB更新・JSON書き出し・デプロイはクラウド側では一切行わない。
+  - 毎月1日（cron）または手動（workflow_dispatch）：PMDAには一切アクセスせず、
+    「今月の一括ダウンロードをお願いします」というGitHub Issueを作成するだけ
+  - 人がPMDAから新記載要領XMLを一括ダウンロードし、`scripts/tenpu_xml/`に配置した上で、
+    ローカルで`pmda_tenpu_parser.py`→`export_db_to_json.py`を実行する
+    （`karteno_drugs.db`は引き続きローカルのみに置き、`.gitignore`のまま）
+  - `site/data`配下の変更をコミット＆pushする。Netlify側の既存の自動デプロイ
+    （gitプッシュ連携）がそのままサイトへ反映するため、GitHub Actions側に
+    デプロイ用のステップは持たせない
+- `scripts/check_pmda_updates.py`は上記方針に伴い**意図的に未使用**（未実装ではない）。
+  ワークフローからは呼び出していない。詳細は同ファイルのdocstring参照。
+- 月次リマインドIssueの見落とし、およびこのジョブが失敗した場合に気づけるよう、
+  GitHub通知設定を必ず有効にしておくこと。
 
 ## 詳細設計
 
