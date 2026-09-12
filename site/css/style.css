@@ -526,19 +526,22 @@ main:focus-visible { outline: none; }
 
 /* グリッド上のタイルという性質はcategory-chipと同じなので、同じ角丸
    （10px）を使う。影は付けない（浮いた装飾のカードではなく、一覧の中の
-   1項目のため）。 */
+   1項目のため）。
+   【2026-09-12】左端のteal色縦線（border-left）を削除した。禁忌・注意の
+   色分け（interaction-row・result-card）とは異なり、ここでの色は
+   薬剤の種別や状態を示すものではなく、意味のない装飾だった
+   （DESIGN.md 8章が禁止する「意味のない装飾色」に該当）。 */
 .drug-chip {
   display: block;
   background: var(--paper-raised);
   border: 1px solid var(--line);
-  border-left: 4px solid var(--teal);
   border-radius: 10px;
   padding: 12px 14px;
   text-decoration: none;
   color: var(--ink);
 }
 
-.drug-chip:hover { border-left-color: var(--teal-dark); background: var(--teal-tint); }
+.drug-chip:hover { border-color: var(--teal); background: var(--teal-tint); }
 .drug-chip .name { font-weight: 700; display: block; }
 .drug-chip .cls { font-size: 0.8rem; color: var(--ink-soft); }
 
