@@ -38,9 +38,33 @@
   --important-text: #5a1b16;
   --important-border: #e3b4ae;
 
+  /* 【2026-09-12見直し】以前は--radius/--shadow-cardを性質の異なる
+     十数種類のコンポーネントへ無差別に適用していた（DESIGN.md 8章が禁止する
+     「全カード同一角丸の機械的適用」に該当）。以下は用途ごとに意味を持たせた
+     角丸の使い分け：
+       --radius       … 8px。settings-panel/search-results等の「浮いて見える
+                        ポップオーバー」、および check-panel のような独立した
+                        ページ内セクション枠に使う（shadow-cardとセットが基本）
+       --radius-sm    … 4px。classification-chip等の小さな機能的タグ・ボタン
+                        （.btn/.btn-copy含む）に使う。装飾ではなく操作物の
+                        角の丸みとして最小限に
+       --radius-notice… 6px。禁忌・注意・記載なし等、色付き背景＋左罫線で
+                        意味を伝える「通知型ボックス」専用（important-banner・
+                        interaction-row・empty-note・result-card）。これらは
+                        ページ内に静置される要素で浮いていないため影は使わない
+     search-box（検索は主役の操作のため単独で角丸12px）、category-chip/
+     drug-chip（グリッド上のタイルとして10px）、disclaimer-inlineや
+     result-card等は各ルール側で個別に説明する。 */
   --radius: 8px;
   --radius-sm: 4px;
+  --radius-notice: 6px;
   --shadow-card: 0 1px 2px rgba(22, 33, 60, 0.04), 0 6px 18px -12px rgba(22, 33, 60, 0.12);
+
+  /* 【2026-09-12】ページ本体の最大幅。モバイル基準の760pxをPCにもそのまま
+     流用すると、画面幅を活かせず中央に寄って間延びして見えるため、
+     広い画面幅（PC想定：1024px以上）では拡張する。header/footer/containerが
+     同じ変数を参照することで、幅を揃えたまま一括で調整できるようにする。 */
+  --content-width: 760px;
 
   /* 游明朝体・Noto Serif JP等を明示的にフォールバックへ含める（8章参照） */
   --font-display: "Shippori Mincho", "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
@@ -52,6 +76,15 @@
      テーマに関わらず「濃い背景＋白文字」を保ちたい部品には使えない
      （使うとダークモード時に白背景×白文字でほぼ見えなくなる）。 */
   --overlay-dark: #1c2333;
+}
+
+/* PC相当の画面幅では、モバイル基準の760pxのままだと画面幅を活かせず
+   中央に寄って間延びして見えるため拡張する。1024pxをブレークポイントに
+   採用（一般的なタブレット横向き〜ノートPC幅の境目）。 */
+@media (min-width: 1024px) {
+  :root {
+    --content-width: 1200px;
+  }
 }
 
 /* --- ダークモード：テーマ設定（システム連動／ライト固定／ダーク固定）
@@ -175,9 +208,18 @@ p, li, .field__body, .sec-body {
 main:focus-visible { outline: none; }
 
 .container {
-  max-width: 760px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 0 20px;
+}
+
+/* トップ・カテゴリ一覧・マイ薬箱のようにグリッド一覧を持つページは
+   .containerの拡張幅（PCで1200px）をそのまま活かして複数カラム表示にするが、
+   薬剤詳細・複数薬チェック・このサイトについて、のような文章主体のページは
+   広げすぎると1行が長くなり読みにくくなるため、内側でさらに読みやすい幅に
+   絞る（このサイトについて／複数薬チェック／薬剤詳細のcontainerに付与）。 */
+.container--prose {
+  max-width: 720px;
 }
 
 /* --- ヘッダー ---
@@ -195,7 +237,7 @@ main:focus-visible { outline: none; }
 }
 
 .site-header__inner {
-  max-width: 760px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 14px 20px;
   display: flex;
@@ -292,6 +334,8 @@ main:focus-visible { outline: none; }
 
 .settings-panel-wrap { position: relative; flex-shrink: 0; }
 
+/* ページ本文の上に浮くポップオーバーのため、影で「浮いている」ことを
+   視覚的に示す必要がある（この用途に限りradius+shadow-cardの組が妥当）。 */
 .settings-panel {
   position: absolute;
   right: 0;
@@ -357,9 +401,8 @@ main:focus-visible { outline: none; }
 
 .hero h1 {
   font-size: clamp(1.5rem, 5vw, 2.1rem);
-  /* 見出しの改行位置は文中の<br>で明示的に指定している。
-     ch単位はCJKフォントでは半角基準になり文字数と一致しないため、
-     max-widthによる折り返し制御は行わない。 */
+  /* ch単位はCJKフォントでは半角基準になり文字数と一致しないため、
+     max-widthによる折り返し制御は行わない（折り返し位置はブラウザに任せる）。 */
   text-wrap: wrap;
 }
 
@@ -369,14 +412,25 @@ main:focus-visible { outline: none; }
   margin: 0 0 16px;
 }
 
+/* 検索はサイトの主役の操作であり、他の枠物と同じ角丸・影を機械的に
+   流用しない。静止時は影を持たせず（浮いた装飾のカードではないため）、
+   フォーカス時だけ操作対象であることを示すリングを表示する。 */
 .search-box {
   position: relative;
   display: flex;
   align-items: center;
+  /* .containerがPC幅で1200pxまで広がっても、検索入力欄自体は
+     不自然に間延びした横長にはしない。 */
+  max-width: 640px;
   background: var(--paper-raised);
   border: 1px solid var(--line-strong);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-card);
+  border-radius: 12px;
+  transition: border-color 120ms ease, box-shadow 120ms ease;
+}
+
+.search-box:focus-within {
+  border-color: var(--teal);
+  box-shadow: 0 0 0 3px var(--teal-tint);
 }
 
 .search-box input[type="search"] {
@@ -402,6 +456,8 @@ main:focus-visible { outline: none; }
   color: var(--ink-soft);
 }
 
+/* 検索候補ドロップダウンも本文の上に浮くポップオーバーなので、
+   settings-panelと同じ理由でradius+shadow-cardの組を使う。 */
 .search-results {
   position: absolute;
   left: 0;
@@ -462,13 +518,21 @@ main:focus-visible { outline: none; }
 @media (min-width: 560px) {
   .drug-grid { grid-template-columns: 1fr 1fr; }
 }
+/* PC幅（.containerが1200pxに広がる）では2カラムのままだと余白ばかりが
+   広がるため、カテゴリ一覧（検索結果に相当）を3カラムに増やす。 */
+@media (min-width: 1024px) {
+  .drug-grid { grid-template-columns: repeat(3, 1fr); }
+}
 
+/* グリッド上のタイルという性質はcategory-chipと同じなので、同じ角丸
+   （10px）を使う。影は付けない（浮いた装飾のカードではなく、一覧の中の
+   1項目のため）。 */
 .drug-chip {
   display: block;
   background: var(--paper-raised);
   border: 1px solid var(--line);
   border-left: 4px solid var(--teal);
-  border-radius: var(--radius);
+  border-radius: 10px;
   padding: 12px 14px;
   text-decoration: none;
   color: var(--ink);
@@ -478,7 +542,10 @@ main:focus-visible { outline: none; }
 .drug-chip .name { font-weight: 700; display: block; }
 .drug-chip .cls { font-size: 0.8rem; color: var(--ink-soft); }
 
-/* --- 「重要」バナー：ページ最上部・薬品名より前に常時固定表示 --- */
+/* --- 「重要」バナー：ページ最上部・薬品名より前に常時固定表示 ---
+   色付き背景＋左罫線で意味を伝える「通知型ボックス」の一種
+   （interaction-row・empty-note・result-cardと同じ--radius-notice）。
+   ページ内に静置される要素で浮いていないため、影は使わない。 */
 .important-banner {
   display: flex;
   gap: 12px;
@@ -486,7 +553,7 @@ main:focus-visible { outline: none; }
   background: var(--danger-tint);
   border: 1px solid var(--important-border);
   border-left: 4px solid var(--danger);
-  border-radius: var(--radius);
+  border-radius: var(--radius-notice);
   padding: 16px 18px 17px;
   margin: 20px 0;
 }
@@ -667,9 +734,9 @@ main:focus-visible { outline: none; }
 }
 .tab-panel__body { color: var(--ink); white-space: pre-line; line-height: 1.9; }
 
-/* --- 相互作用行 --- */
+/* --- 相互作用行（通知型ボックス、important-banner参照） --- */
 .interaction-row {
-  border-radius: var(--radius);
+  border-radius: var(--radius-notice);
   padding: 12px 14px;
   margin-bottom: 8px;
   border-left: 4px solid var(--warning);
@@ -687,28 +754,34 @@ main:focus-visible { outline: none; }
   letter-spacing: 0.06em;
   color: var(--warning);
   text-transform: uppercase;
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 4px;
   margin-bottom: 2px;
 }
+.itype__icon { flex-shrink: 0; }
 
 .interaction-row--contraindicated .itype { color: var(--danger); }
 .interaction-row .target { font-weight: 700; }
 .interaction-row .detail { font-size: 0.92rem; color: var(--ink-soft); margin-top: 2px; }
 
+/* 通知型ボックス、important-banner参照。記載なしの安心メッセージなので
+   左罫線は付けず色のみだが、角丸は同じ通知系の値で揃える。 */
 .empty-note {
   background: var(--safe-tint);
   color: var(--safe);
-  border-radius: var(--radius);
+  border-radius: var(--radius-notice);
   padding: 12px 14px;
   font-size: 0.92rem;
 }
 
-/* --- 複数薬チェック --- */
+/* --- 複数薬チェック ---
+   ページ内に静置される独立したセクション枠。浮いてはいないため影は
+   使わないが、機能のまとまりを示す囲みとして角丸は残す。 */
 .check-panel {
   background: var(--paper-raised);
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  box-shadow: var(--shadow-card);
   padding: 20px 20px 24px;
   margin-bottom: 24px;
 }
@@ -761,8 +834,10 @@ main:focus-visible { outline: none; }
   transform: translate(-50%, -50%);
 }
 
+/* 通知型ボックス、important-banner参照。複数薬チェック結果の1件を
+   区切って見せる必要があるため角丸は残すが、影は使わない。 */
 .result-card {
-  border-radius: var(--radius);
+  border-radius: var(--radius-notice);
   border-left: 5px solid var(--danger);
   background: var(--danger-tint);
   padding: 16px 18px;
@@ -773,7 +848,17 @@ main:focus-visible { outline: none; }
 .result-card--none { border-left-color: var(--safe); background: var(--safe-tint); }
 
 .result-card .pair-name { font-weight: 700; font-family: var(--font-display); font-size: 1.05rem; margin-bottom: 6px; }
-.result-card .pair-type { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--danger); }
+.result-card .pair-type {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--danger);
+}
+.pair-type__icon { flex-shrink: 0; }
 .result-card--caution .pair-type { color: var(--warning); }
 .result-card--none .pair-type { color: var(--safe); }
 .result-card .pair-detail { margin-top: 6px; font-size: 0.94rem; color: var(--ink-soft); }
@@ -848,17 +933,20 @@ main:focus-visible { outline: none; }
 .summary-badge--caution { background: var(--warning-tint); color: var(--warning); }
 .summary-badge--none { background: var(--safe-tint); color: var(--safe); }
 
+/* 免責事項の地の文であり「カード」ではないため、角丸は付けない。 */
 .disclaimer-inline {
   font-size: 0.82rem;
   color: var(--ink-soft);
   background: var(--paper);
   border: 1px dashed var(--line-strong);
-  border-radius: var(--radius);
   padding: 10px 14px;
   margin-top: 8px;
 }
 
-/* --- 汎用ボタン --- */
+/* --- 汎用ボタン ---
+   ボタンは「カード」ではなく押せる操作物なので、カード用の角丸を
+   機械的に流用しない。classification-chip等と同じ、機能的な小さい
+   角丸（--radius-sm）にとどめる。 */
 .btn {
   display: inline-block;
   font-family: var(--font-body);
@@ -868,7 +956,7 @@ main:focus-visible { outline: none; }
   background: var(--teal);
   color: #fff;
   padding: 10px 18px;
-  border-radius: var(--radius);
+  border-radius: var(--radius-sm);
   cursor: pointer;
   text-decoration: none;
 }
@@ -886,7 +974,7 @@ main:focus-visible { outline: none; }
 }
 
 .site-footer .disclaimer {
-  max-width: 760px;
+  max-width: var(--content-width);
   margin: 0 auto 20px;
   padding: 0 20px;
   line-height: 1.8;
@@ -895,7 +983,7 @@ main:focus-visible { outline: none; }
 .site-footer .disclaimer p { margin: 0 0 10px; }
 
 .site-footer__links {
-  max-width: 760px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
@@ -955,29 +1043,36 @@ main:focus-visible { outline: none; }
 @media (min-width: 760px) {
   .category-grid { grid-template-columns: repeat(4, 1fr); }
 }
+/* PC幅（.containerが1200pxに広がる）では4カラムのままだと1枠が間延びして
+   見えるため、6カラムに増やして余った横幅を活かす。 */
+@media (min-width: 1024px) {
+  .category-grid { grid-template-columns: repeat(6, 1fr); }
+}
 
 /* 「その他」は分類数に関わらず必ず最後の1件で、グリッドの端に
    半端に余って見えるため、常に行いっぱいに広げて明確に「その他」枠と
    分かる見た目にする。 */
 .category-grid__other { grid-column: 1 / -1; }
 
+/* グリッド上のタイルという性質はdrug-chipと同じなので、同じ角丸
+   （10px）を使う。hoverは色の変化のみとし、影の出現やtranslateYでの
+   浮き上がりのような装飾的モーション（DESIGN.md 8章で禁止）は付けない。 */
 .category-chip {
   display: flex;
   flex-direction: column;
   gap: 4px;
   background: var(--paper-raised);
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-radius: 10px;
   padding: 16px 16px 14px;
   text-decoration: none;
   color: var(--ink);
-  transition: border-color 120ms ease, box-shadow 120ms ease, transform 120ms ease;
+  transition: border-color 120ms ease, background-color 120ms ease;
 }
 
 .category-chip:hover {
-  border-color: var(--line-strong);
-  box-shadow: var(--shadow-card);
-  transform: translateY(-1px);
+  border-color: var(--teal);
+  background: var(--teal-tint);
 }
 
 .category-chip .label {
@@ -1059,7 +1154,7 @@ main:focus-visible { outline: none; }
   font-size: 0.88rem;
 }
 
-/* --- コピーボタン --- */
+/* --- コピーボタン（.btnと同じ理由で機能的な小さい角丸にとどめる） --- */
 .btn-copy {
   display: inline-flex;
   align-items: center;
@@ -1070,7 +1165,7 @@ main:focus-visible { outline: none; }
   font-family: var(--font-body);
   font-size: 0.82rem;
   padding: 8px 14px;
-  border-radius: var(--radius);
+  border-radius: var(--radius-sm);
   cursor: pointer;
   min-height: 44px;
 }
@@ -1142,6 +1237,14 @@ main:focus-visible { outline: none; }
   padding: 0;
 }
 .term-help:hover, .term-help:focus { border-color: var(--teal); color: var(--teal-dark); }
+/* タップ領域を44×44px確保する（見た目のボタンサイズは変えない。.pill buttonと同じ手法） */
+.term-help::before {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 44px; height: 44px;
+  transform: translate(-50%, -50%);
+}
 
 /* ホバー・フォーカス（タップでもボタンにフォーカスが当たるため機種を問わず使える）で
    data-tip属性の説明文をふきだし表示する。JSを使わない、CSSのみのツールチップ。 */

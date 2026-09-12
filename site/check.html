@@ -58,7 +58,7 @@
 </header>
 
 <main id="main" tabindex="-1">
-  <div class="container">
+  <div class="container container--prose">
     <section class="hero" style="padding-top:32px;">
       <p class="hero__eyebrow">複数薬チェック</p>
       <h1>服用中の薬を選んで、飲み合わせを確認</h1>
@@ -119,6 +119,24 @@ function escapeHTML(str) {
   return String(str ?? "").replace(/[&<>"']/g, (c) => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
   }[c]));
+}
+
+/**
+ * 禁忌・注意・記載なしバッジ用のSVG線画アイコン。色分け・文字ラベルに加えて
+ * 視覚的な手がかりを与える（色だけに頼らない。DESIGN.md 7章参照）。
+ * 色はcurrentColorで親要素（.pair-type）のcolorをそのまま継承する。
+ */
+function interactionTypeIcon(type) {
+  if (type === "contraindicated") {
+    // 禁止（進入禁止）標識：丸に斜線
+    return `<svg class="pair-type__icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>`;
+  }
+  if (type === "caution") {
+    // 警告三角（！）：薬品詳細ページの「重要」バナーと同系統のアイコンで統一する
+    return `<svg class="pair-type__icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>`;
+  }
+  // 記載なし：チェック（問題の記載が見つからなかったことを示す中立のアイコン）
+  return `<svg class="pair-type__icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.5 2.5 5.5-6"/></svg>`;
 }
 
 // 選択状態はページ遷移・再読み込みをまたいで保持する
@@ -307,7 +325,7 @@ function renderCheck() {
     sorted.forEach((p) => {
       html += `
         <div class="result-card ${p.interaction_type === "caution" ? "result-card--caution" : ""}">
-          <div class="pair-type">${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}<button type="button" class="term-help" tabindex="0" aria-label="用語の説明" data-tip="${p.interaction_type === "contraindicated" ? "併用禁忌：一緒に使ってはいけない組み合わせ。" : "併用注意：一緒に使う場合は注意深い観察が必要な組み合わせ。"}">?</button></div>
+          <div class="pair-type">${interactionTypeIcon(p.interaction_type)}<span class="pair-type__label">${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</span><button type="button" class="term-help" tabindex="0" aria-label="用語の説明" data-tip="${p.interaction_type === "contraindicated" ? "併用禁忌：一緒に使ってはいけない組み合わせ。" : "併用注意：一緒に使う場合は注意深い観察が必要な組み合わせ。"}">?</button></div>
           <div class="pair-vs">
             <span class="pair-vs__name pair-vs__name--a">${escapeHTML(p.aBrand)}</span>
             <span class="pair-vs__x" aria-hidden="true">×</span>
@@ -321,7 +339,7 @@ function renderCheck() {
     noneFoundPairs.forEach(([a, b]) => {
       html += `
         <div class="result-card result-card--none">
-          <div class="pair-type">記載なし</div>
+          <div class="pair-type">${interactionTypeIcon("none")}<span class="pair-type__label">記載なし</span></div>
           <div class="pair-vs">
             <span class="pair-vs__name pair-vs__name--a">${escapeHTML(a.brand_name)}</span>
             <span class="pair-vs__x" aria-hidden="true">×</span>

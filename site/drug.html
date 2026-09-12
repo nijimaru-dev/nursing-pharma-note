@@ -58,7 +58,7 @@
 </header>
 
 <main id="main" tabindex="-1">
-  <div class="container">
+  <div class="container container--prose">
     <p id="back-link-wrap" style="margin-top:20px;"></p>
 
     <div id="drug-root">
@@ -187,6 +187,20 @@ if (!drugId) {
     });
 }
 
+/**
+ * 禁忌・注意バッジ用のSVG線画アイコン。色分け・文字ラベルに加えて視覚的な
+ * 手がかりを与える（色だけに頼らない。DESIGN.md 7章参照）。色はcurrentColorで
+ * 親要素（.itype/.pair-type）のcolorをそのまま継承する。
+ */
+function interactionTypeIcon(type) {
+  if (type === "contraindicated") {
+    // 禁止（進入禁止）標識：丸に斜線
+    return `<svg class="itype__icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>`;
+  }
+  // 警告三角（！）：重要バナーと同系統のアイコンで統一する
+  return `<svg class="itype__icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>`;
+}
+
 function buildInteractionsHTML(drug) {
   if (!drug.interactions || !drug.interactions.length) {
     return `<div class="empty-note">記載されている飲み合わせの注意は見つかりませんでした。</div>`;
@@ -195,7 +209,7 @@ function buildInteractionsHTML(drug) {
     .map(
       (i) => `
     <div class="interaction-row ${i.interaction_type === "contraindicated" ? "interaction-row--contraindicated" : ""}">
-      <span class="itype">${i.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}<button type="button" class="term-help" tabindex="0" aria-label="用語の説明" data-tip="${i.interaction_type === "contraindicated" ? "併用禁忌：一緒に使ってはいけない組み合わせ。" : "併用注意：一緒に使う場合は注意深い観察が必要な組み合わせ。"}">?</button></span>
+      <span class="itype">${interactionTypeIcon(i.interaction_type)}<span class="itype__label">${i.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</span><button type="button" class="term-help" tabindex="0" aria-label="用語の説明" data-tip="${i.interaction_type === "contraindicated" ? "併用禁忌：一緒に使ってはいけない組み合わせ。" : "併用注意：一緒に使う場合は注意深い観察が必要な組み合わせ。"}">?</button></span>
       <span class="target">${escapeHTML(i.drug_name_or_class)}</span>
       <div class="detail">${escapeHTML(i.clinical_symptom_action)}</div>
       ${i.mechanism_risk_factor ? `<div class="detail detail--mechanism" data-detail hidden>機序・危険因子：${escapeHTML(i.mechanism_risk_factor)}</div>` : ""}
@@ -262,7 +276,7 @@ function renderDrug(drug) {
         </div>
       </div>
 
-      ${drug.revision_date ? `<p class="revision-note">情報の最終更新：${escapeHTML(formatRevisionDate(drug.revision_date))}（添付文書の改訂年月）</p>` : ""}
+      <p class="revision-note">${drug.revision_date ? `情報の最終更新：${escapeHTML(formatRevisionDate(drug.revision_date))}（添付文書の改訂年月）` : "情報の最終更新：不明（添付文書に改訂年月の記載がありません）"}</p>
 
       <div class="view-toggle">
         <span class="view-toggle__label" data-view="simple" data-active="true">かんたん表示</span>
