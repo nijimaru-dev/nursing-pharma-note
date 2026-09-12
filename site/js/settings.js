@@ -63,7 +63,13 @@
   });
 
   document.addEventListener("click", function (e) {
-    if (!panel.hidden && !panel.contains(e.target) && e.target !== toggle) {
+    // トグルボタンの中のsvgアイコンをタップした場合、e.targetはbutton自体ではなく
+    // svg（またはその子のpath/circle）になる。e.target !== toggleの比較だけでは
+    // これを「ボタンの外側」と誤判定し、開いた直後の同じクリックでこのハンドラが
+    // 即座にパネルを閉じてしまい、1回目のタップでパネルが開かないように見える
+    // 不具合があった。toggle.contains(e.target)で子要素へのクリックも
+    // 「トグルボタン自身への操作」として扱う。
+    if (!panel.hidden && !panel.contains(e.target) && !toggle.contains(e.target)) {
       panel.hidden = true;
       toggle.setAttribute("aria-expanded", "false");
     }
