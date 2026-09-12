@@ -1,0 +1,10 @@
+[
+  {
+    "interaction_type": "contraindicated",
+    "source_text": "左記薬剤の血中濃度上昇により、QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+  },
+  {
+    "interaction_type": "caution",
+    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
+  }
+]

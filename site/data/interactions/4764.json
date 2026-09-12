@@ -1,182 +1,122 @@
 [
   {
     "other_id": 4728,
-    "other_brand": "グラセプターカプセル0.5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6042,
-    "other_brand": "ジャクスタピッドカプセル5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ロミタピドメシル酸塩の血中濃度が著しく上昇するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7112,
-    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7115,
-    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7122,
-    "other_brand": "タクロリムスカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7124,
-    "other_brand": "タクロリムス軟膏0.1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7125,
-    "other_brand": "タクロリムス軟膏0.1％「PP」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7126,
-    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7128,
-    "other_brand": "タクロリムス錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7138,
-    "other_brand": "タクロリムス錠5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7140,
-    "other_brand": "タクロリムス錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7298,
-    "other_brand": "タリムス点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "タクロリムスの血中濃度が上昇することがあるので、本剤を減量又は休薬する等適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7140,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7112,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7115,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7122,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7124,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7125,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7126,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7128,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7113,
-    "other_brand": "タクロリムスカプセル0.5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7114,
-    "other_brand": "タクロリムスカプセル0.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7120,
-    "other_brand": "タクロリムスカプセル5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7121,
-    "other_brand": "タクロリムスカプセル5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7127,
-    "other_brand": "タクロリムス錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7139,
-    "other_brand": "タクロリムス錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12014,
-    "other_brand": "プログラフカプセル0.5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12016,
-    "other_brand": "プログラフカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12017,
-    "other_brand": "プログラフ注射液2mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12019,
-    "other_brand": "プログラフ顆粒0.2mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害、不整脈等の副作用が発現することがある。併用開始後数日以内に本剤血中濃度が上昇し、副作用が発現した症例も報告されていることから、患者の状態を十分に観察するとともに、本剤血中濃度のモニターを行い、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12943,
-    "other_brand": "ボシュリフ錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用の発現頻度及び重症度が増加するおそれがあるので、CYP3A阻害作用のない又は弱い薬剤への代替を考慮すること。やむを得ず併用する際には本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   }
 ]

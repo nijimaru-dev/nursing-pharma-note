@@ -1,2270 +1,1514 @@
 [
   {
     "other_id": 10,
-    "other_brand": "〔東洋〕五淋散エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12,
-    "other_brand": "〔東洋〕人参湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 20,
-    "other_brand": "〔東洋〕半夏瀉心湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 25,
-    "other_brand": "〔東洋〕小柴胡湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 37,
-    "other_brand": "〔東洋〕芍薬甘草湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 44,
-    "other_brand": "〔東洋〕黄連湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
-  },
-  {
-    "other_id": 8273,
-    "other_brand": "デスモプレシン点鼻スプレー2.5µg「フェリング」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
-  },
-  {
-    "other_id": 8274,
-    "other_brand": "デスモプレシン静注4µg「フェリング」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
-  },
-  {
-    "other_id": 13404,
-    "other_brand": "ミニリンメルトOD錠60µg",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
-  },
-  {
-    "other_id": 13406,
-    "other_brand": "ミニリンメルトOD錠25µg",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8273,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8274,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を減弱するおそれがあるので、手術前の患者に使用する場合には、本剤の一時休薬等の処置を行うこと。"
+    "other_id": 13404,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 13406,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を減弱するおそれがあるので、手術前の患者に使用する場合には、本剤の一時休薬等の処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を減弱するおそれがあるので、手術前の患者に使用する場合には、本剤の一時休薬等の処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を減弱するおそれがあるので、手術前の患者に使用する場合には、本剤の一時休薬等の処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を減弱するおそれがあるので、手術前の患者に使用する場合には、本剤の一時休薬等の処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 102,
-    "other_brand": "アクチット輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 103,
-    "other_brand": "アクチット輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 792,
-    "other_brand": "アミニック輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 802,
-    "other_brand": "アミノレバンEN配合散",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 807,
-    "other_brand": "アミユー配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 1291,
-    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 1667,
-    "other_brand": "イノソリッド配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 1674,
-    "other_brand": "イノラス配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 1783,
-    "other_brand": "イムフレックスCPD-MAP",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 2259,
-    "other_brand": "エクストラニール腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 2606,
-    "other_brand": "エネーボ配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 2895,
-    "other_brand": "エレメンミック注",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 2896,
-    "other_brand": "エレンタール配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 2897,
-    "other_brand": "エレンタールP乳幼児用配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 2901,
-    "other_brand": "エンシュア・リキッド",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 2902,
-    "other_brand": "エンシュア・H",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4056,
-    "other_brand": "カーボスター透析剤・L（6L）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4058,
-    "other_brand": "カーボスター透析剤・M",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4059,
-    "other_brand": "カーボスター透析剤・P（袋）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4065,
-    "other_brand": "カーミパック生理食塩液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4069,
-    "other_brand": "カーミパック生理食塩液L",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4072,
-    "other_brand": "カーミパックACD−A液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4073,
-    "other_brand": "カーミC リューコトラップ MAP",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4074,
-    "other_brand": "カーミCA液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4254,
-    "other_brand": "キンダリー透析剤5E",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4267,
-    "other_brand": "キンダリー透析剤AF5号(6L)",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4269,
-    "other_brand": "キンダリー透析剤AF5P号",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4487,
-    "other_brand": "クリニザルツ輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 5362,
-    "other_brand": "サブパック血液ろ過用補充液−Bi",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 5403,
-    "other_brand": "サルプレップ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 5623,
-    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6190,
-    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6204,
-    "other_brand": "スチックゼノールA",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6448,
-    "other_brand": "セパセルインテグラC−MAP",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6449,
-    "other_brand": "セパセルインテグラCA",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6852,
-    "other_brand": "ソリタ−T配合顆粒2号",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6853,
-    "other_brand": "ソリタ−T配合顆粒3号",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6854,
-    "other_brand": "ソリタ−T1号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6856,
-    "other_brand": "ソリタ−T2号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6858,
-    "other_brand": "ソリタ−T3号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6860,
-    "other_brand": "ソリタ−T3号G輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6862,
-    "other_brand": "ソリタ−T4号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6864,
-    "other_brand": "ソリタックス−H輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 6915,
-    "other_brand": "ソルバノン",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 7352,
-    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 7370,
-    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 7388,
-    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 7391,
-    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 7614,
-    "other_brand": "ツインパル輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 7616,
-    "other_brand": "ツインラインNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 8204,
-    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 8206,
-    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 8879,
-    "other_brand": "トレーランG液50g",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 9436,
-    "other_brand": "ニコペリック腹膜透析液（1500mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 9601,
-    "other_brand": "ネオアミユー輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 9844,
-    "other_brand": "ハルトマン−G3号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 9851,
-    "other_brand": "ハルトマンD液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 9898,
-    "other_brand": "バイフィル透析剤",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 10153,
-    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 10154,
-    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 10194,
-    "other_brand": "パレセーフ輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 10195,
-    "other_brand": "パレプラス輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 10500,
-    "other_brand": "ビカーボン輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 2744,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10760,
-    "other_brand": "ピシバニール注射用1KE",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10905,
-    "other_brand": "ピーエヌツイン−1号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 8204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11855,
-    "other_brand": "プリミーフォート経腸用液6",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 12013,
-    "other_brand": "プロクトセディル軟膏",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 12219,
-    "other_brand": "ヘパンED配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 12605,
-    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 12613,
-    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 13012,
-    "other_brand": "ボルヒール組織接着用（0.5mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 13292,
-    "other_brand": "ミオテクター冠血管注",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 13356,
-    "other_brand": "ミッドペリック135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 13369,
-    "other_brand": "ミッドペリックL135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 13390,
-    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 13895,
-    "other_brand": "メルスモン",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14019,
-    "other_brand": "モリアミンS注",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14020,
-    "other_brand": "モリプロンF輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14192,
-    "other_brand": "ユエキンキープ3号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14295,
-    "other_brand": "ラエンネック",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14312,
-    "other_brand": "ラクトリンゲル液′′フソー′′",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14319,
-    "other_brand": "ラクトリンゲルS注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 8206,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14365,
-    "other_brand": "ラコールNF配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14366,
-    "other_brand": "ラコールNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14824,
-    "other_brand": "リナセートD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 13356,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14826,
-    "other_brand": "リナセートF輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 2606,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14840,
-    "other_brand": "リハビックス−K1号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14947,
-    "other_brand": "リプラス1号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 14950,
-    "other_brand": "リプラス3号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 15014,
-    "other_brand": "リンゲル液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 15046,
-    "other_brand": "リンパック透析剤TA1",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 15047,
-    "other_brand": "リンパック透析剤TA3",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 15048,
-    "other_brand": "リンパック透析剤TA5",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 15138,
-    "other_brand": "レギュニール HCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 15150,
-    "other_brand": "レギュニール LCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 15997,
-    "other_brand": "ワンパル1号輸液（800mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16012,
-    "other_brand": "ヴィーン3G輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16013,
-    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16015,
-    "other_brand": "ヴィーンD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16016,
-    "other_brand": "ヴィーンD輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16018,
-    "other_brand": "ヴィーンF輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16098,
-    "other_brand": "乳糖水和物「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16567,
-    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16572,
-    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 16575,
-    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 6190,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16948,
-    "other_brand": "白色ワセリン",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17210,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 13369,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17211,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 6204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17212,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 13895,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17213,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 13390,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17214,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 11855,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17215,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 14947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17216,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 102,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17217,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 103,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17218,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17219,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17220,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17221,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17222,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17223,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17224,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17225,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17226,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17227,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17228,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17229,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17230,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17231,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17232,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17233,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17234,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17235,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17236,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17237,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17238,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17239,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17240,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17241,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17242,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
-  },
-  {
-    "other_id": 17243,
-    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 14950,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17523,
-    "other_brand": "10%EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9844,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9851,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15997,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1667,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1674,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16016,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16018,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10905,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4254,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15014,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4267,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4269,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8879,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17584,
-    "other_brand": "ACD-A液 250mL",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17585,
-    "other_brand": "AK−ソリタ透析剤・DL",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17586,
-    "other_brand": "AK−ソリタ透析剤・DP",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17587,
-    "other_brand": "AK−ソリタ透析剤・FL",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17588,
-    "other_brand": "AK−ソリタ透析剤・FP",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7352,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16575,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17602,
-    "other_brand": "Dドライ透析剤2.5S",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17603,
-    "other_brand": "Dドライ透析剤2.75S",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 14019,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17604,
-    "other_brand": "Dドライ透析剤3.0S",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "other_id": 6852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14020,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15046,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6860,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15047,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6862,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15048,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6864,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17614,
-    "other_brand": "EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17618,
-    "other_brand": "ESポリタミン配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2259,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7388,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9436,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17631,
-    "other_brand": "JMS ACD-A液",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17632,
-    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16098,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5362,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 802,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 807,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6449,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17718,
-    "other_brand": "T&Tオルファクトメーター",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがあるので、用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 773,
-    "other_brand": "アミカシン硫酸塩注射液100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "other_id": 17210,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 774,
-    "other_brand": "アミカシン硫酸塩注射液100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "other_id": 17211,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 775,
-    "other_brand": "アミカシン硫酸塩注射液100mg「F」",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "other_id": 17212,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 776,
-    "other_brand": "アミカシン硫酸塩注射液100mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "other_id": 12605,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1039,
-    "other_brand": "アリケイス吸入液590mg",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "other_id": 17213,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5085,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "other_id": 17214,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5086,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「F」",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "other_id": 17215,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17216,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17217,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12613,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17220,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17224,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17225,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17226,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17227,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17228,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17230,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17231,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2901,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17232,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17233,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17234,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17235,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17239,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17240,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17241,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17242,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17243,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10153,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7614,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7616,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10195,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14295,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4056,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4059,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4065,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4069,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4072,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4073,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4074,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14312,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14824,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14826,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17603,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5623,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14840,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17604,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5093,
-    "other_brand": "ゲンタマイシン硫酸塩軟膏0.1%「F」",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 773,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 774,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 775,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 776,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1039,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8506,
-    "other_brand": "トチモトのカシ",
-    "interaction_type": "caution",
-    "source_text": "アミノグリコシド系抗生物質の第8脳神経障害（聴覚障害）を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5085,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5086,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5597,
-    "other_brand": "シスプラチン点滴静注10mg「マルコ」",
-    "interaction_type": "caution",
-    "source_text": "シスプラチンの聴覚障害を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5098,
-    "other_brand": "コアキシン注射用1g",
-    "interaction_type": "caution",
-    "source_text": "抗生物質の腎毒性を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの心臓に対する作用を増強するおそれがあるので、血清カリウム値及び血中ジギタリス濃度に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの心臓に対する作用を増強するおそれがあるので、血清カリウム値及び血中ジギタリス濃度に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの心臓に対する作用を増強するおそれがあるので、血清カリウム値及び血中ジギタリス濃度に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの心臓に対する作用を増強するおそれがあるので、血清カリウム値及び血中ジギタリス濃度に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの心臓に対する作用を増強するおそれがあるので、血清カリウム値及び血中ジギタリス濃度に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5299,
-    "other_brand": "コートリル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "過剰のカリウム放出により、低カリウム血症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13670,
-    "other_brand": "メトグルコ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13703,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「三和」",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13705,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「明治」",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13707,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13708,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「DSPB」",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13711,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「TE」",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ビグアナイド系薬剤による乳酸アシドーシスを起こすおそれがあるので、脱水症状があらわれた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13711,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16757,
-    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "リチウムの毒性を増強するおそれがあるので、血中リチウム濃度に注意すること。"
-  },
-  {
-    "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
-  },
-  {
-    "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
-  },
-  {
-    "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
-  },
-  {
-    "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
-  },
-  {
-    "other_id": 5393,
-    "other_brand": "サリチル酸ナトリウム静注0.5g「日新」",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "サリチル酸誘導体毒性が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
+    "other_id": 294,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
+    "other_id": 296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5393,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 6668,
-    "other_brand": "セレコキシブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 6670,
-    "other_brand": "セレコキシブ錠100mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 6675,
-    "other_brand": "セレコキシブ錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 6676,
-    "other_brand": "セレコキシブ錠100mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 6677,
-    "other_brand": "セレコキシブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 6678,
-    "other_brand": "セレコキシブ錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 6683,
-    "other_brand": "セレコキシブ錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "本剤の利尿作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6668,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6675,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6676,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6677,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12408,
-    "other_brand": "ベネシッド錠250mg",
-    "interaction_type": "caution",
-    "source_text": "尿酸排泄促進剤の尿酸排泄作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "症候性低ナトリウム血症が発現するおそれがある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "症候性低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "症候性低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 781,
-    "other_brand": "アミカシン硫酸塩注100mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1051,
-    "other_brand": "アリッサ配合錠",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症を誘発することがあるので、血清カリウム値を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1250,
-    "other_brand": "アルベカシン硫酸塩注射液25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1251,
-    "other_brand": "アルベカシン硫酸塩注射液25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1700,
-    "other_brand": "イブプロフェン錠100mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "これら利尿薬の作用を減弱するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1701,
-    "other_brand": "イブプロフェン錠100mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "これら利尿薬の作用を減弱するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2256,
-    "other_brand": "エクサシン注射液200",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "血清カリウム値が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2935,
-    "other_brand": "エンレスト錠50mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値及び血清クレアチニン値が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3573,
-    "other_brand": "オースギ人参湯エキスG",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3585,
-    "other_brand": "オースギ半夏瀉心湯エキスG",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3596,
-    "other_brand": "オースギ小柴胡湯エキスG",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3597,
-    "other_brand": "オースギ小柴胡湯エキスT錠",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3598,
-    "other_brand": "オースギ小青竜湯エキスG",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3599,
-    "other_brand": "オースギ小青竜湯エキスT錠",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3602,
-    "other_brand": "オースギ当帰四逆加呉茱萸生姜湯エキスG",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3618,
-    "other_brand": "オースギ甘麦大棗湯エキスTG",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3687,
-    "other_brand": "カナグル錠100mg",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3690,
-    "other_brand": "カナマイシン硫酸塩注射液1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3691,
-    "other_brand": "カナリア配合錠",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4360,
-    "other_brand": "クラシエ人参湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4374,
-    "other_brand": "クラシエ半夏瀉心湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4375,
-    "other_brand": "クラシエ半夏瀉心湯エキス錠",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4383,
-    "other_brand": "クラシエ小柴胡湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4384,
-    "other_brand": "クラシエ小柴胡湯エキス錠",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4385,
-    "other_brand": "クラシエ小青竜湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4386,
-    "other_brand": "クラシエ小青竜湯エキス錠",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4387,
-    "other_brand": "クラシエ当帰四逆加呉茱萸生姜湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4396,
-    "other_brand": "クラシエ桂枝人参湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4408,
-    "other_brand": "クラシエ甘草湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4412,
-    "other_brand": "クラシエ芍薬甘草湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5080,
-    "other_brand": "ゲンタシン注10",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5120,
-    "other_brand": "コタローきゅう帰膠艾湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5128,
-    "other_brand": "コタロー人参湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5136,
-    "other_brand": "コタロー半夏瀉心湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5149,
-    "other_brand": "コタロー小柴胡湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5150,
-    "other_brand": "コタロー小青竜湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5152,
-    "other_brand": "コタロー当帰四逆加呉茱萸生姜湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5155,
-    "other_brand": "コタロー排膿散及湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5173,
-    "other_brand": "コタロー炙甘草湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5175,
-    "other_brand": "コタロー甘麦大棗湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5181,
-    "other_brand": "コタロー芍薬甘草湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5204,
-    "other_brand": "コタロー黄連湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5301,
-    "other_brand": "コートロシンZ筋注0.5mg",
-    "interaction_type": "caution",
-    "source_text": "過剰のカリウム放出を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5368,
-    "other_brand": "サムスカOD錠7.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5372,
-    "other_brand": "サムタス点滴静注用8mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6048,
-    "other_brand": "ジャディアンス錠10mg",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6059,
-    "other_brand": "ジュンコウ　きゅう帰膠艾湯FCエキス細粒　医療用",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6068,
-    "other_brand": "ジュンコウ　半夏瀉心湯FCエキス細粒　医療用",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6072,
-    "other_brand": "ジュンコウ　小柴胡湯FCエキス細粒　医療用",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6082,
-    "other_brand": "ジュンコウ　芍薬甘草湯FCエキス細粒　医療用",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6287,
-    "other_brand": "ストレプトマイシン硫酸塩注射用1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6377,
-    "other_brand": "スーグラ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "利尿作用が過剰にみられるおそれがあるため、必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6379,
-    "other_brand": "スージャヌ配合錠",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤とイプラグリフロジンの併用により、利尿作用が過剰にみられるおそれがあるため、必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "血清カリウム値が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6825,
-    "other_brand": "ソニアス配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "高血糖症状（嘔気・嘔吐、脱水、呼気のアセトン臭等）が起こることがあるので、併用する場合には、血糖値等の患者の状態を十分に観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7429,
-    "other_brand": "ダパグリフロジン錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7430,
-    "other_brand": "ダパグリフロジン錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7431,
-    "other_brand": "ダパグリフロジン錠5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7432,
-    "other_brand": "ダパグリフロジン錠5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7435,
-    "other_brand": "ダパグリフロジン錠5mg「EP」",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7436,
-    "other_brand": "ダパグリフロジン錠5mg「TSP」",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7445,
-    "other_brand": "ダパグリフロジンOD錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7620,
-    "other_brand": "ツムラきゅう帰膠艾湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7714,
-    "other_brand": "ツムラ五淋散エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7718,
-    "other_brand": "ツムラ人参湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7729,
-    "other_brand": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7747,
-    "other_brand": "ツムラ小柴胡湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7749,
-    "other_brand": "ツムラ小青竜湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7753,
-    "other_brand": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7760,
-    "other_brand": "ツムラ排膿散及湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7769,
-    "other_brand": "ツムラ桂枝人参湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7778,
-    "other_brand": "ツムラ桔梗湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7791,
-    "other_brand": "ツムラ炙甘草湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7795,
-    "other_brand": "ツムラ甘麦大棗湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7805,
-    "other_brand": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7833,
-    "other_brand": "ツムラ黄連湯エキス顆粒（医療用）",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8694,
-    "other_brand": "トブラシン注60mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8725,
-    "other_brand": "トラディアンス配合錠AP",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8797,
-    "other_brand": "トリセノックス点滴静注12mg",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8838,
-    "other_brand": "トルバプタンOD錠15mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8832,
-    "other_brand": "トルバプタンOD錠7.5mg「オーツカ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8830,
-    "other_brand": "トルバプタンOD錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8831,
-    "other_brand": "トルバプタンOD錠7.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8836,
-    "other_brand": "トルバプタンOD錠7.5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8835,
-    "other_brand": "トルバプタンOD錠3.75mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8837,
-    "other_brand": "トルバプタンOD錠7.5mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8839,
-    "other_brand": "トルバプタンOD錠3.75mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤と併用する場合、血清カリウム濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9154,
-    "other_brand": "ドロエチフレックス配合錠「あすか」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症を誘発することがあるので、血清カリウム値を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9155,
-    "other_brand": "ドロエチフレックス配合錠「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症を誘発することがあるので、血清カリウム値を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9156,
-    "other_brand": "ドロエチ配合錠「あすか」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症を誘発することがあるので、血清カリウム値を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9157,
-    "other_brand": "ドロエチ配合錠「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症を誘発することがあるので、血清カリウム値を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9834,
-    "other_brand": "ハベカシン注射液25mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9923,
-    "other_brand": "バッサミン配合錠A81",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9934,
-    "other_brand": "バファリン配合錠A81",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10159,
-    "other_brand": "パニマイシン注射液50mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10941,
-    "other_brand": "ファモター配合錠A81",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11300,
-    "other_brand": "フォシーガ錠5mg",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11549,
-    "other_brand": "フロベン錠40",
-    "interaction_type": "caution",
-    "source_text": "これら利尿薬の作用を減弱するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12953,
-    "other_brand": "ボックスゾゴ皮下注用0.4mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下があらわれる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14188,
-    "other_brand": "ヤーズフレックス配合錠",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症を誘発することがあるので、血清カリウム値を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14189,
-    "other_brand": "ヤーズ配合錠",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症を誘発することがあるので、血清カリウム値を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14268,
-    "other_brand": "ヨビパス皮下注168μgペン",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15070,
-    "other_brand": "ルセフィ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15072,
-    "other_brand": "ルセフィODフィルム2.5mg",
-    "interaction_type": "caution",
-    "source_text": "必要に応じ利尿薬の用量を調整するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15563,
-    "other_brand": "ロキソニン錠60mg",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15575,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「クニヒロ」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15576,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15577,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15578,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15579,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15630,
-    "other_brand": "ロキソプロフェンNa錠60mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15631,
-    "other_brand": "ロキソプロフェンNa錠60mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15629,
-    "other_brand": "ロキソプロフェンNa錠60mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15633,
-    "other_brand": "ロキソプロフェンNa錠60mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15634,
-    "other_brand": "ロキソプロフェンNa錠60mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15636,
-    "other_brand": "ロキソプロフェンNa錠60mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15637,
-    "other_brand": "ロキソプロフェンNa錠60mg「三恵」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15638,
-    "other_brand": "ロキソプロフェンNa錠60mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15639,
-    "other_brand": "ロキソプロフェンNa錠60mg「武田テバ」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15640,
-    "other_brand": "ロキソプロフェンNa錠60mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15641,
-    "other_brand": "ロキソプロフェンNa錠60mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15642,
-    "other_brand": "ロキソプロフェンNa錠60mg「OHA」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15644,
-    "other_brand": "ロキソプロフェンNa錠60mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15646,
-    "other_brand": "ロキソプロフェンNa錠60mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "利尿・降圧作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15653,
-    "other_brand": "ロコアテープ",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15853,
-    "other_brand": "ロピオン静注50mg",
-    "interaction_type": "caution",
-    "source_text": "これら利尿薬の作用を減弱するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16047,
-    "other_brand": "三和半夏瀉心湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16057,
-    "other_brand": "三和小柴胡湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16058,
-    "other_brand": "三和小青竜湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16072,
-    "other_brand": "三和芍薬甘草附子湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16082,
-    "other_brand": "三和附子理中湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16088,
-    "other_brand": "三和黄ごん湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16284,
-    "other_brand": "太虎堂の人参湯エキス顆粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16290,
-    "other_brand": "太虎堂の半夏瀉心湯エキス顆粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16295,
-    "other_brand": "太虎堂の小柴胡湯エキス顆粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16296,
-    "other_brand": "太虎堂の小青竜湯エキス顆粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16319,
-    "other_brand": "太虎堂の黄連湯エキス顆粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16481,
-    "other_brand": "本草人参湯エキス細粒",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16489,
-    "other_brand": "本草半夏瀉心湯エキス顆粒−M",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16494,
-    "other_brand": "本草小柴胡湯エキス顆粒−M",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16495,
-    "other_brand": "本草小青龍湯エキス顆粒−M",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16507,
-    "other_brand": "本草芍薬甘草湯エキス顆粒−M",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16587,
-    "other_brand": "注射用パニマイシン100mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16783,
-    "other_brand": "点滴静注用ホスカビル注24mg/mL",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16979,
-    "other_brand": "硫酸カナマイシン注射液1000mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16980,
-    "other_brand": "硫酸ストレプトマイシン注射用1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17641,
-    "other_brand": "JPS半夏瀉心湯エキス顆粒〔調剤用〕",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17644,
-    "other_brand": "JPS小柴胡湯エキス顆粒〔調剤用〕",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17645,
-    "other_brand": "JPS小青竜湯エキス顆粒〔調剤用〕",
-    "interaction_type": "caution",
-    "source_text": "偽アルドステロン症があらわれやすくなる。また、低カリウム血症の結果として、ミオパチーがあらわれやすくなる。"
+    "interaction_type": "caution"
   }
 ]

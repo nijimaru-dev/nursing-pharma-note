@@ -1,92 +1,62 @@
 [
   {
     "other_id": 2186,
-    "other_brand": "ウパシタ静注透析用25μgシリンジ",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3360,
-    "other_brand": "オルケディア錠1mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5434,
-    "other_brand": "サレドカプセル25",
-    "interaction_type": "caution",
-    "source_text": "海外において腎機能不全が発現したとの報告がある。"
-  },
-  {
-    "other_id": 2838,
-    "other_brand": "エルカトニン注40単位「TBP」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
-  },
-  {
-    "other_id": 2839,
-    "other_brand": "エルカトニン筋注10単位「TBP」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
-  },
-  {
-    "other_id": 2840,
-    "other_brand": "エルカトニン筋注20単位「TBP」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2849,
-    "other_brand": "エルシトニン注10単位",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2850,
-    "other_brand": "エルシトニン注20S",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2851,
-    "other_brand": "エルシトニン注20Sディスポ",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2852,
-    "other_brand": "エルシトニン注40単位",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2838,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2839,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2840,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "脱水により急性腎障害の発現リスクを増加させるおそれがある。"
-  },
-  {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "急性腎障害の発現リスクを増加させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "急性腎障害の発現リスクを増加させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "急性腎障害の発現リスクを増加させるおそれがある。"
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "急性腎障害の発現リスクを増加させるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1922,
+    "interaction_type": "caution"
   }
 ]

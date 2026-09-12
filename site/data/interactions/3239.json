@@ -1,86 +1,58 @@
 [
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "other_id": 5559,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、これらの薬剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、これらの薬剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、これらの薬剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、ジゴキシンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、ジゴキシンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、ジゴキシンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、ジゴキシンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の併用により、ジゴキシンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   }
 ]

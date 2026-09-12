@@ -1,122 +1,82 @@
 [
   {
-    "other_id": 4294,
-    "other_brand": "クエストラン粉末44.4%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "other_id": 5264,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5264,
-    "other_brand": "コレバイン錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "other_id": 4294,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2208,
-    "other_brand": "ウルソデオキシコール酸錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
-  },
-  {
-    "other_id": 2212,
-    "other_brand": "ウルソデオキシコール酸錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "other_id": 2212,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14428,
-    "other_brand": "ラパリムスゲル0.2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14429,
-    "other_brand": "ラパリムス錠1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14428,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
-  },
-  {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11853,
-    "other_brand": "プリミドン錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11150,
+    "interaction_type": "caution"
   }
 ]

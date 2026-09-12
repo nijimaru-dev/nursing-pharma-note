@@ -1,62 +1,42 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
     "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
-    "other_id": 15892,
-    "other_brand": "ロラゼパム錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
-    "other_id": 15922,
-    "other_brand": "ロラピタ静注2mg",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
-    "other_id": 15963,
-    "other_brand": "ワイパックス錠0.5",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15922,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15892,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15963,
+    "interaction_type": "caution"
   }
 ]

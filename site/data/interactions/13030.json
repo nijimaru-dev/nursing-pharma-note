@@ -1,32 +1,22 @@
 [
   {
     "other_id": 2186,
-    "other_brand": "ウパシタ静注透析用25μgシリンジ",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3360,
-    "other_brand": "オルケディア錠1mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10308,
-    "other_brand": "パーサビブ静注透析用シリンジ2.5mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10311,
-    "other_brand": "パーサビブ静注透析用2.5mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14268,
-    "other_brand": "ヨビパス皮下注168μgペン",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   }
 ]

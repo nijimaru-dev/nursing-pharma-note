@@ -1,170 +1,114 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
+    "other_id": 15459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を誘発することがあるので、用量を調節するなど注意すること。"
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがあるので、用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがあるので、用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがあるので、用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがあるので、用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5055,
-    "other_brand": "ケラチナミンコーワクリーム20％",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用を増強するおそれがあるので、用量を調節するなど注意すること。"
+    "other_id": 15978,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16428,
-    "other_brand": "尿素「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用を増強するおそれがあるので、用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 16430,
-    "other_brand": "尿素クリーム10％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用を増強するおそれがあるので、用量を調節するなど注意すること。"
+    "other_id": 15982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16432,
-    "other_brand": "尿素クリーム20％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用を増強するおそれがあるので、用量を調節するなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16428,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5055,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16757,
-    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "リチウム製剤の作用を増強するとの報告があるので、リチウム製剤の用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強するとの報告があるので、メトトレキサートの用量を調節するなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13626,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13627,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13630,
+    "interaction_type": "caution"
   }
 ]

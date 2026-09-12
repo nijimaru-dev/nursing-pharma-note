@@ -1,32 +1,22 @@
 [
   {
     "other_id": 152,
-    "other_brand": "アザニン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1785,
-    "other_brand": "イムラン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5292,
-    "other_brand": "コンビビル配合錠",
-    "interaction_type": "caution",
-    "source_text": "In vitro\nにおいてリバビリンとの併用によりジドブジンの効果が減弱するとの報告があるので、ジドブジンとリバビリンの併用療法は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15215,
-    "other_brand": "レトロビルカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "In vitro\nにおいてリバビリンとの併用により本剤の効果が減弱するとの報告があるので、本剤とリバビリンの併用療法は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5487,
-    "other_brand": "ザイアジェン錠300mg",
-    "interaction_type": "caution",
-    "source_text": "併用により乳酸アシドーシス、肝不全が報告されていることから、本剤は乳酸アシドーシス、肝不全を増強する可能性がある。また、本剤投与終了後2ヵ月間はヌクレオシドアナログとの相互作用の可能性があるので注意すること。"
+    "interaction_type": "caution"
   }
 ]

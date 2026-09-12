@@ -1,632 +1,422 @@
 [
   {
     "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "Torsade de pointesを起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "Torsade de pointesを起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "Torsade de pointesを起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 771,
-    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "Torsade de pointesを起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 772,
-    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "Torsade de pointesを起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 773,
-    "other_brand": "アミカシン硫酸塩注射液100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 774,
-    "other_brand": "アミカシン硫酸塩注射液100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 775,
-    "other_brand": "アミカシン硫酸塩注射液100mg「F」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 776,
-    "other_brand": "アミカシン硫酸塩注射液100mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 781,
-    "other_brand": "アミカシン硫酸塩注100mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
-  },
-  {
-    "other_id": 4158,
-    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
+    "other_id": 5556,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5597,
-    "other_brand": "シスプラチン点滴静注10mg「マルコ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5299,
-    "other_brand": "コートリル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
+    "other_id": 5448,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
+    "other_id": 5597,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
-  },
-  {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
-  },
-  {
-    "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
+    "other_id": 4158,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12354,
-    "other_brand": "ベタメタゾン錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11986,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5299,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15033,
-    "other_brand": "リンデロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15034,
-    "other_brand": "リンデロン坐剤0.5mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を増悪させるおそれがあるので、血清中の電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの毒性（不整脈等）を増強するおそれがあるので、血清電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの毒性（不整脈等）を増強するおそれがあるので、血清電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの毒性（不整脈等）を増強するおそれがあるので、血清電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの毒性（不整脈等）を増強するおそれがあるので、血清電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリスの毒性（不整脈等）を増強するおそれがあるので、血清電解質及び心機能を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1372,
-    "other_brand": "アンコチル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "フルシトシンの毒性（骨髄抑制作用）を増強させるおそれがある。"
-  },
-  {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を発現、悪化するおそれがあるので、併用する場合は十分に塩類を補給し、腎毒性の軽減をはかることが望ましい。"
-  },
-  {
-    "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を発現、悪化するおそれがあるので、併用する場合は十分に塩類を補給し、腎毒性の軽減をはかることが望ましい。"
-  },
-  {
-    "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を発現、悪化するおそれがあるので、併用する場合は十分に塩類を補給し、腎毒性の軽減をはかることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を発現、悪化するおそれがあるので、併用する場合は十分に塩類を補給し、腎毒性の軽減をはかることが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1039,
-    "other_brand": "アリケイス吸入液590mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1250,
-    "other_brand": "アルベカシン硫酸塩注射液25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1251,
-    "other_brand": "アルベカシン硫酸塩注射液25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "Torsade de pointesを起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "Torsade de pointesを起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2256,
-    "other_brand": "エクサシン注射液200",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3690,
-    "other_brand": "カナマイシン硫酸塩注射液1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4728,
-    "other_brand": "グラセプターカプセル0.5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5044,
-    "other_brand": "ケナコルト−A皮内用関節腔内用水懸注50mg/5mL",
-    "interaction_type": "caution",
-    "source_text": "併用により、低カリウム血症があらわれることがあるので、併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5045,
-    "other_brand": "ケナコルト−A筋注用関節腔内用水懸注40mg/1mL",
-    "interaction_type": "caution",
-    "source_text": "併用により、低カリウム血症があらわれることがあるので、併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5080,
-    "other_brand": "ゲンタシン注10",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5085,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5086,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「F」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5302,
-    "other_brand": "コートン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "併用により、低カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5557,
-    "other_brand": "シクロスポリンカプセル10mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害があらわれやすくなるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5563,
-    "other_brand": "シクロスポリンカプセル10mg「TC」",
-    "interaction_type": "caution",
-    "source_text": "腎障害があらわれやすくなるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5881,
-    "other_brand": "ジギラノゲン注0.4mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。ジギタリス中毒の症状（嘔気、嘔吐、不整脈等）があらわれるおそれがある。消化器・神経系自覚症状、心電図、血中濃度測定等必要に応じ観察するとともに腎機能、血清電解質（カリウム、マグネシウム、カルシウム）、甲状腺機能等の誘因に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6277,
-    "other_brand": "ステロネマ注腸3mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6287,
-    "other_brand": "ストレプトマイシン硫酸塩注射用1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7112,
-    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7113,
-    "other_brand": "タクロリムスカプセル0.5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7114,
-    "other_brand": "タクロリムスカプセル0.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7115,
-    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7120,
-    "other_brand": "タクロリムスカプセル5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7121,
-    "other_brand": "タクロリムスカプセル5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7122,
-    "other_brand": "タクロリムスカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7128,
-    "other_brand": "タクロリムス錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7126,
-    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7127,
-    "other_brand": "タクロリムス錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7138,
-    "other_brand": "タクロリムス錠5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7139,
-    "other_brand": "タクロリムス錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7140,
-    "other_brand": "タクロリムス錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7944,
-    "other_brand": "テイコプラニン点滴静注用200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7948,
-    "other_brand": "テイコプラニン点滴静注用200mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7945,
-    "other_brand": "テイコプラニン点滴静注用200mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7946,
-    "other_brand": "テイコプラニン点滴静注用200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7947,
-    "other_brand": "テイコプラニン点滴静注用200mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8288,
-    "other_brand": "デノシン点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8412,
-    "other_brand": "デルティバ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8694,
-    "other_brand": "トブラシン注60mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8797,
-    "other_brand": "トリセノックス点滴静注12mg",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8900,
-    "other_brand": "トービイ吸入液300mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現又は悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9834,
-    "other_brand": "ハベカシン注射液25mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9967,
-    "other_brand": "バリキサ錠450mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のガンシクロビルとの併用により、毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10111,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10113,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「NIG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10112,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10114,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10117,
-    "other_brand": "バンコマイシン点滴静注用0.5g「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10159,
-    "other_brand": "パニマイシン注射液50mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10391,
-    "other_brand": "ヒドロコルチゾンリン酸エステルNa静注液100mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "併用により、低カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12014,
-    "other_brand": "プログラフカプセル0.5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12016,
-    "other_brand": "プログラフカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12017,
-    "other_brand": "プログラフ注射液2mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12019,
-    "other_brand": "プログラフ顆粒0.2mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。併用が必要な場合には、腎機能と本剤の血中濃度を継続的にモニターし、必要に応じ減量・休薬等の処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13654,
-    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14595,
-    "other_brand": "ランダ注10mg/20mL",
-    "interaction_type": "caution",
-    "source_text": "腎障害が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15091,
-    "other_brand": "ルプキネスカプセル7.9mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15197,
-    "other_brand": "レダコート錠4mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症があらわれることがあるので、併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16187,
-    "other_brand": "動注用アイエーコール50mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16240,
-    "other_brand": "塩酸バンコマイシン点滴静注用0.5g",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16541,
-    "other_brand": "水溶性ハイドロコートン注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "併用により、低カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16586,
-    "other_brand": "注射用タゴシッド200mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16587,
-    "other_brand": "注射用パニマイシン100mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16783,
-    "other_brand": "点滴静注用ホスカビル注24mg/mL",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16979,
-    "other_brand": "硫酸カナマイシン注射液1000mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16980,
-    "other_brand": "硫酸ストレプトマイシン注射用1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

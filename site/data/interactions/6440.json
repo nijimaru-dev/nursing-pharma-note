@@ -1,248 +1,166 @@
 [
   {
+    "other_id": 16241,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 16241,
-    "other_brand": "塩酸プロカルバジンカプセル50mg「TYP」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、血圧降下、悪心、頻脈、めまい、呼吸困難、視力低下等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 651,
-    "other_brand": "アネメトロ点滴静注液500mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 1179,
-    "other_brand": "アルトフェッド注射液　200mL　（ソフトバッグ）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4061,
-    "other_brand": "カーボスター透析剤2号・L（6L）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4063,
-    "other_brand": "カーボスター透析剤2号・P（袋）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4250,
-    "other_brand": "キンダリー透析剤2E",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4251,
-    "other_brand": "キンダリー透析剤3E",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4252,
-    "other_brand": "キンダリー透析剤4E",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4256,
-    "other_brand": "キンダリー透析剤AF1号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4257,
-    "other_brand": "キンダリー透析剤AF1P号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4258,
-    "other_brand": "キンダリー透析剤AF2号（6L）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4260,
-    "other_brand": "キンダリー透析剤AF2P号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4261,
-    "other_brand": "キンダリー透析剤AF3号（6L）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4263,
-    "other_brand": "キンダリー透析剤AF3P号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4264,
-    "other_brand": "キンダリー透析剤AF4号（6L）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 4266,
-    "other_brand": "キンダリー透析剤AF4P号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 5553,
-    "other_brand": "シオマリン静注用1g",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 6582,
-    "other_brand": "セフメタゾン筋注用0.5g",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 6583,
-    "other_brand": "セフメタゾン静注用0.25g",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 6589,
-    "other_brand": "セフメタゾールナトリウム静注用0.25g「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 11337,
-    "other_brand": "フラジール内服錠250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 11338,
-    "other_brand": "フラジール腟錠250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12291,
-    "other_brand": "ベストロン点眼用0.5%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12292,
-    "other_brand": "ベストロン耳鼻科用1%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13553,
-    "other_brand": "メイセリン静注用1g",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "other_id": 651,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14021,
-    "other_brand": "モリヘパミン点滴静注（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "other_id": 4250,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14316,
-    "other_brand": "ラクトリンゲルM注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "other_id": 4251,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "other_id": 1179,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "other_id": 4252,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4256,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4257,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4258,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4260,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4261,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4263,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4264,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4266,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5553,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6582,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6583,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16568,
-    "other_brand": "治療用アレルゲンエキス皮下注「トリイ」ブタクサ花粉1：100",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16571,
-    "other_brand": "治療用アレルゲンエキス皮下注「トリイ」ホウレン草花粉1：100",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤とのアルコール反応 (顔面潮紅、悪心、頻脈、多汗、頭痛等) を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6589,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14021,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11337,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11338,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4061,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4063,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13553,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   }
 ]

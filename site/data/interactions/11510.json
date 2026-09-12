@@ -1,296 +1,198 @@
 [
   {
     "other_id": 1662,
-    "other_brand": "イナビル吸入懸濁用160mgセット",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1663,
-    "other_brand": "イナビル吸入粉末剤20mg",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3108,
-    "other_brand": "オセルタミビルカプセル75mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3109,
-    "other_brand": "オセルタミビル錠75mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3110,
-    "other_brand": "オセルタミビルDS3%「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3111,
-    "other_brand": "オセルタミビルDS3%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7258,
-    "other_brand": "タミフルカプセル75",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7259,
-    "other_brand": "タミフルドライシロップ3％",
-    "interaction_type": "caution",
-    "source_text": "経鼻弱毒生インフルエンザワクチンの効果が得られないおそれがある。"
-  },
-  {
-    "other_id": 152,
-    "other_brand": "アザニン錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 1785,
-    "other_brand": "イムラン錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9639,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
-  },
-  {
-    "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
+    "other_id": 5448,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11986,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5556,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1785,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 152,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15012,
-    "other_brand": "リレンザ",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
-  },
-  {
-    "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5393,
-    "other_brand": "サリチル酸ナトリウム静注0.5g「日新」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5891,
-    "other_brand": "ジクロフェナクナトリウムテープ15mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5896,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「ゼリア」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5897,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5922,
-    "other_brand": "ジクロフェナクNa坐剤12.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5924,
-    "other_brand": "ジクロフェナクNa坐剤25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5933,
-    "other_brand": "ジクロフェナクNa点眼液0.1％「日新」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5934,
-    "other_brand": "ジクロフェナクNa錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5935,
-    "other_brand": "ジクロフェナクNa錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5941,
-    "other_brand": "ジクロード点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12995,
-    "other_brand": "ボルタレンサポ12.5mg",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5897,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13001,
-    "other_brand": "ボルタレン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5393,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13140,
-    "other_brand": "ポンタールカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13141,
-    "other_brand": "ポンタールシロップ3.25％",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13142,
-    "other_brand": "ポンタール散50%",
-    "interaction_type": "caution",
-    "source_text": "ライ症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 290,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9890,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 294,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5922,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5924,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5933,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5934,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5935,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5941,
+    "interaction_type": "caution"
   }
 ]

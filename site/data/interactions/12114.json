@@ -1,38 +1,26 @@
 [
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン、メチルジゴキシンの作用を増強するおそれがあるので、併用する場合は、血中濃度の推移、自覚症状、心電図等に注意し、慎重に投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン、メチルジゴキシンの作用を増強するおそれがあるので、併用する場合は、血中濃度の推移、自覚症状、心電図等に注意し、慎重に投与する。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン、メチルジゴキシンの作用を増強するおそれがあるので、併用する場合は、血中濃度の推移、自覚症状、心電図等に注意し、慎重に投与する。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン、メチルジゴキシンの作用を増強するおそれがあるので、併用する場合は、血中濃度の推移、自覚症状、心電図等に注意し、慎重に投与する。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン、メチルジゴキシンの作用を増強するおそれがあるので、併用する場合は、血中濃度の推移、自覚症状、心電図等に注意し、慎重に投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン、メチルジゴキシンの作用を増強するおそれがあるので、併用する場合は、血中濃度の推移、自覚症状、心電図等に注意し、慎重に投与する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   }
 ]

@@ -1,560 +1,374 @@
 [
   {
     "other_id": 143,
-    "other_brand": "アコファイド錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1562,
-    "other_brand": "イスコチン原末",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用（口渇、便秘、麻痺性イレウス、尿閉等）が増強することがある。\n併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1563,
-    "other_brand": "イスコチン注100mg",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用（口渇、便秘、麻痺性イレウス、尿閉等）が増強することがある。\n併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 591,
-    "other_brand": "アトワゴリバース静注シリンジ6mL",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤はコリン作動性クリーゼの初期症状を不顕性化し、本剤の過剰投与を招くおそれがあるので、副交感神経抑制剤の常用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1040,
-    "other_brand": "アリセプトドライシロップ1%",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1041,
-    "other_brand": "アリセプト内服ゼリー3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1044,
-    "other_brand": "アリセプト錠3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1048,
-    "other_brand": "アリセプトD錠3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1052,
-    "other_brand": "アリドネパッチ27.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2193,
-    "other_brand": "ウブレチド点眼液0.5%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を拮抗する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2194,
-    "other_brand": "ウブレチド点眼液1%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を拮抗する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2195,
-    "other_brand": "ウブレチド錠5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を拮抗する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2795,
-    "other_brand": "エボザックカプセル30mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5379,
-    "other_brand": "サラジェン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5380,
-    "other_brand": "サラジェン顆粒0.5%",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5391,
-    "other_brand": "サリグレンカプセル30mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5951,
-    "other_brand": "ジスチグミン臭化物錠5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を拮抗する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5996,
-    "other_brand": "ジフェンヒドラミン塩酸塩注10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用（口渇、便秘、尿閉、麻痺性イレウス等）が増強することがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8977,
-    "other_brand": "ドネペジル塩酸塩内服ゼリー3mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8980,
-    "other_brand": "ドネペジル塩酸塩内用液3mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8984,
-    "other_brand": "ドネペジル塩酸塩錠3mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8985,
-    "other_brand": "ドネペジル塩酸塩錠3mg「クニヒロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8986,
-    "other_brand": "ドネペジル塩酸塩錠3mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8983,
-    "other_brand": "ドネペジル塩酸塩錠3mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8988,
-    "other_brand": "ドネペジル塩酸塩錠3mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8989,
-    "other_brand": "ドネペジル塩酸塩錠3mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8990,
-    "other_brand": "ドネペジル塩酸塩錠3mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8991,
-    "other_brand": "ドネペジル塩酸塩錠3mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8993,
-    "other_brand": "ドネペジル塩酸塩錠3mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8994,
-    "other_brand": "ドネペジル塩酸塩錠3mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8995,
-    "other_brand": "ドネペジル塩酸塩錠3mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8996,
-    "other_brand": "ドネペジル塩酸塩錠3mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8997,
-    "other_brand": "ドネペジル塩酸塩錠3mg「TSU」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9028,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9029,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9030,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「クニヒロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9031,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9033,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9034,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9035,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9036,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「テバ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9037,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9038,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9039,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9040,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8992,
-    "other_brand": "ドネペジル塩酸塩錠3mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9042,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9043,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9044,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9045,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9046,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9047,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9048,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9049,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤と抗コリン剤は互いに干渉し、それぞれの効果を減弱させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10528,
-    "other_brand": "ビスミラー注5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11861,
-    "other_brand": "プリンペランシロップ0.1%",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11862,
-    "other_brand": "プリンペラン注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11863,
-    "other_brand": "プリンペラン細粒2%",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11864,
-    "other_brand": "プリンペラン錠5",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12543,
-    "other_brand": "ペチジン塩酸塩注射液35mg「タケダ」",
-    "interaction_type": "caution",
-    "source_text": "麻痺性イレウスに至る重篤な便秘又は尿貯留が起こるおそれがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12546,
-    "other_brand": "ペチロルファン配合注HD",
-    "interaction_type": "caution",
-    "source_text": "麻痺性イレウスに至る重篤な便秘又は尿貯留が起こるおそれがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12600,
-    "other_brand": "ペリアクチンシロップ0.04%",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12601,
-    "other_brand": "ペリアクチン錠4mg",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13119,
-    "other_brand": "ポララミンシロップ0.04％",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13120,
-    "other_brand": "ポララミンドライシロップ0.2％",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13122,
-    "other_brand": "ポララミン注5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13121,
-    "other_brand": "ポララミン散1%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13160,
-    "other_brand": "マイテラーゼ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の過剰投与を招くおそれがある。常用を避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13548,
-    "other_brand": "ムコブロチン配合シロップ",
-    "interaction_type": "caution",
-    "source_text": "便秘又は尿貯留が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13625,
-    "other_brand": "メスチノン錠60mg",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤は、ムスカリン様作用を隠蔽し、本剤の過剰投与を招くおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13662,
-    "other_brand": "メトクロプラミド注10mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13663,
-    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13664,
-    "other_brand": "メトクロプラミド錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13665,
-    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13667,
-    "other_brand": "メトクロプラミド錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13668,
-    "other_brand": "メトクロプラミド錠5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13669,
-    "other_brand": "メトクロプラミド錠5mg「NIG」（旧製品：使用期限2027年4月まで）",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14293,
-    "other_brand": "ライトゲン配合シロップ",
-    "interaction_type": "caution",
-    "source_text": "便秘又は尿貯留が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15183,
-    "other_brand": "レスタミンコーワ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15969,
-    "other_brand": "ワゴスチグミン散（0.5％）",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤はコリン作動性クリーゼの初期症状を不顕性化し、本剤の過剰投与を招くおそれがあるので、副交感神経抑制剤の常用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15970,
-    "other_brand": "ワゴスチグミン注0.5mg",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤はコリン作動性クリーゼの初期症状を不顕性化し、本剤の過剰投与を招くおそれがあるので、副交感神経抑制剤の常用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16242,
-    "other_brand": "塩酸メトクロプラミド注射液10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に消化管における作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12545,
-    "other_brand": "ペチロルファン注射液",
-    "interaction_type": "caution",
-    "source_text": "麻痺性イレウスに至る重篤な便秘又は尿貯留が起こるおそれがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17596,
-    "other_brand": "d−クロルフェニラミンマレイン酸塩シロップ0.04%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17597,
-    "other_brand": "d−\nクロルフェニラミンマレイン酸塩シロップ0.04%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17598,
-    "other_brand": "d−クロルフェニラミンマレイン酸塩シロップ0.04%「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17599,
-    "other_brand": "d-クロルフェニラミンマレイン酸塩錠2mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、併用する場合には、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   }
 ]

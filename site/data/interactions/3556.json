@@ -1,140 +1,94 @@
 [
   {
     "other_id": 12133,
-    "other_brand": "ヘパフィルド透析用150単位/mLシリンジ20mL",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
-  },
-  {
-    "other_id": 12136,
-    "other_brand": "ヘパフラッシュ10単位/mLシリンジ5mL",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
-  },
-  {
-    "other_id": 12142,
-    "other_brand": "ヘパリンカルシウム皮下注5千単位/0.2mLシリンジ「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
-  },
-  {
-    "other_id": 12182,
-    "other_brand": "ヘパリンCa注射液2万単位/20mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
-  },
-  {
-    "other_id": 12185,
-    "other_brand": "ヘパリンCa皮下注1万単位/0.4mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
-  },
-  {
-    "other_id": 12186,
-    "other_brand": "ヘパリンCa皮下注2万単位/0.8mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
-  },
-  {
-    "other_id": 12187,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ「オーツカ」5mL",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
-  },
-  {
-    "other_id": 12190,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ5mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12199,
-    "other_brand": "ヘパリンNa注5千単位/5mL「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12136,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12202,
-    "other_brand": "ヘパリンNa透析用150単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12203,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「フソー」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12204,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12142,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12208,
-    "other_brand": "ヘパリンNa透析用250単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12209,
-    "other_brand": "ヘパリンNa透析用250単位/mL「NS」20mL",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12210,
-    "other_brand": "ヘパリンNa透析用250単位/mLシリンジ12mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4510,
-    "other_brand": "クレキサン皮下注キット2000IU",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "other_id": 12182,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7463,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "other_id": 12185,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7464,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「日新」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "other_id": 12186,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7465,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "other_id": 12187,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12190,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10183,
-    "other_brand": "パルナパリンNa透析用100単位/mLシリンジ20mL「フソー」",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7464,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7465,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11336,
-    "other_brand": "フラグミン静注5000単位/5mL",
-    "interaction_type": "caution",
-    "source_text": "ヘパリンの抗凝固作用が減弱し、ヘパリン抵抗性を示すことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4510,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1035,
-    "other_brand": "アリクストラ皮下注1.5mg",
-    "interaction_type": "caution",
-    "source_text": "フォンダパリヌクスの抗凝固作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1037,
-    "other_brand": "アリクストラ皮下注5mg",
-    "interaction_type": "caution",
-    "source_text": "フォンダパリヌクスの抗凝固作用が減弱することがある。"
+    "interaction_type": "caution"
   }
 ]

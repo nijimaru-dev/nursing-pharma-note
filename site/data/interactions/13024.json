@@ -1,230 +1,154 @@
 [
   {
     "other_id": 3780,
-    "other_brand": "カルタン錠250",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3782,
-    "other_brand": "カルタン錠500",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3783,
-    "other_brand": "カルタンOD錠250mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3784,
-    "other_brand": "カルタンOD錠500mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16101,
-    "other_brand": "乳酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3782,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3783,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16104,
-    "other_brand": "乳酸カルシウム「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16105,
-    "other_brand": "乳酸カルシウム水和物＜ハチ＞原末",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3784,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16556,
-    "other_brand": "沈降炭酸カルシウム「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16559,
-    "other_brand": "沈降炭酸カルシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16561,
-    "other_brand": "沈降炭酸カルシウム恵美須",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16562,
-    "other_brand": "沈降炭酸カルシウム錠250mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16729,
-    "other_brand": "炭カル錠500mg「旭化成」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1190,
-    "other_brand": "アルファカルシドールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1192,
-    "other_brand": "アルファカルシドールカプセル0.25μg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1215,
-    "other_brand": "アルファカルシドール錠0.25μg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1218,
-    "other_brand": "アルファロールカプセル0.25μg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1221,
-    "other_brand": "アルファロールカプセル3μg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1222,
-    "other_brand": "アルファロール内用液0.5μg／mL",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1223,
-    "other_brand": "アルファロール散1μg／g",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3763,
-    "other_brand": "カルシトリオールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3764,
-    "other_brand": "カルシトリオールカプセル0.25μg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3773,
-    "other_brand": "カルシトリオール静注液0.5μg「F」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 13167,
-    "other_brand": "マキサカルシトール軟膏25μg／g「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 13168,
-    "other_brand": "マキサカルシトール軟膏25μg/g「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 13176,
-    "other_brand": "マキサカルシトール静注透析用2.5μg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 15550,
-    "other_brand": "ロカルトロールカプセル0.25",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15552,
-    "other_brand": "ロカルトロール注0.5",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1190,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13167,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13168,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15985,
-    "other_brand": "ワンアルファ錠0.25μg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "other_id": 3763,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "other_id": 3764,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13176,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3773,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1215,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤の塗布を中止し、経過を観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   }
 ]

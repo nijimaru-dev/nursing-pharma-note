@@ -1,290 +1,194 @@
 [
   {
     "other_id": 637,
-    "other_brand": "アナフラニール点滴静注液25mg",
-    "interaction_type": "caution",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 638,
-    "other_brand": "アナフラニール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1282,
-    "other_brand": "アレビアチン注250mg",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1672,
-    "other_brand": "イノベロン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の代謝を促進し、作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1770,
-    "other_brand": "イミドール糖衣錠（10）",
-    "interaction_type": "caution",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれるおそれがある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "併用中の他の抗てんかん剤を減量又は中止する場合には、本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11147,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6361,
-    "other_brand": "スルピリドカプセル50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6362,
-    "other_brand": "スルピリド錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6363,
-    "other_brand": "スルピリド錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6364,
-    "other_brand": "スルピリド錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6368,
-    "other_brand": "スルピリド錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6369,
-    "other_brand": "スルピリド錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6370,
-    "other_brand": "スルピリド錠50mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度上昇や薬理学的相互作用により中枢神経抑制作用が増強されるおそれがある。併用する場合には、必要に応じてこれらの薬剤を減量する、血中濃度を測定するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8692,
-    "other_brand": "トフラニール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8763,
-    "other_brand": "トランコロンP配合錠",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下し、作用が減弱することがあるので、用量に注意すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8960,
-    "other_brand": "ドグマチール筋注100mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8961,
-    "other_brand": "ドグマチール筋注50mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8962,
-    "other_brand": "ドグマチール細粒10％",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8964,
-    "other_brand": "ドグマチール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8959,
-    "other_brand": "ドグマチールカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9561,
-    "other_brand": "ニュープロパッチ2.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9762,
-    "other_brand": "ノーベルバール静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下し、作用が減弱することがあるので、用量に注意すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9854,
-    "other_brand": "ハルロピテープ8mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11812,
-    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11814,
-    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11815,
-    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11816,
-    "other_brand": "プラミペキソール塩酸塩LA錠0.375mgMI「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12693,
-    "other_brand": "ホストイン静注750mg",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13251,
-    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13453,
-    "other_brand": "ミラペックスLA錠0.375mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15068,
-    "other_brand": "ルジオミール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15088,
-    "other_brand": "ルピアール坐剤25",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下し、作用が減弱することがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15965,
-    "other_brand": "ワコビタール坐剤15",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下し、作用が減弱することがあるので用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,134 +1,90 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
-  },
-  {
-    "other_id": 6320,
-    "other_brand": "スピロピタン錠0.25mg",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
-  },
-  {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
-  },
-  {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
-  },
-  {
     "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6320,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11732,
-    "other_brand": "ブロムペリドール錠1mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11733,
-    "other_brand": "ブロムペリドール錠1mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 430,
-    "other_brand": "アダラートCR錠10mg",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9512,
-    "other_brand": "ニフェジピンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9514,
-    "other_brand": "ニフェジピンカプセル5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
+    "other_id": 6718,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9517,
-    "other_brand": "ニフェジピンCR錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
-  },
-  {
-    "other_id": 9522,
-    "other_brand": "ニフェジピンCR錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
-  },
-  {
-    "other_id": 9535,
-    "other_brand": "ニフェジピンL錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
+    "other_id": 6719,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9539,
-    "other_brand": "ニフェジピンL錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9540,
-    "other_brand": "ニフェジピンL錠10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9541,
-    "other_brand": "ニフェジピンL錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9512,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9514,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9517,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9522,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9535,
+    "interaction_type": "caution"
   }
 ]

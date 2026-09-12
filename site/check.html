@@ -248,16 +248,32 @@ function renderCheck() {
   const interactionResultsEl = document.getElementById("interaction-results");
   const idSet = new Set(ids);
 
-  // 相互作用は薬品ごとのファイル（interactions/{id}.json）に分割されているため、
-  // 選択された薬の分だけ取得し、選択セット内の相手だけを拾い上げる。
+  // 相互作用は薬品ごとの「索引」ファイル（interactions/{id}.json、相手薬のid・
+  // 注意種別だけ）に分割されているため、まず選択された薬の分だけ索引を取得し、
+  // 選択セット内の相手だけに絞り込む。本文（source_text）はペアごとに1ファイル
+  // （interactions/pairs/{min}_{max}.json）に分かれているため、実際に表示が
+  // 必要になった組み合わせだけを2段階目で取得する（無関係なペアの本文は
+  // ダウンロードしない。2026-09-12：本文の二重持ちをやめるための分離）。
   Promise.all(
-    ids.map((id) => DrugData.loadDrugInteractions(id).then((list) => ({ id, list })))
+    ids.map((id) => DrugData.loadDrugInteractionIndex(id).then((list) => ({ id, list })))
   ).then((results) => {
-    const foundPairs = new Map(); // "aId-bId-type" -> 表示用データ
+    const neededPairs = new Map(); // "aId-bId" -> [aId, bId]
     results.forEach(({ id, list }) => {
       list.forEach((entry) => {
-        if (!idSet.has(entry.other_id)) return;
+        if (!idSet.has(entry.other_id) || entry.other_id === id) return;
         const [aId, bId] = [id, entry.other_id].sort((x, y) => x - y);
+        neededPairs.set(`${aId}-${bId}`, [aId, bId]);
+      });
+    });
+
+    return Promise.all(
+      Array.from(neededPairs.values()).map(([aId, bId]) =>
+        DrugData.loadPairInteraction(aId, bId).then((list) => ({ aId, bId, list }))
+      )
+    ).then((pairResults) => {
+    const foundPairs = new Map(); // "aId-bId-type" -> 表示用データ
+    pairResults.forEach(({ aId, bId, list }) => {
+      list.forEach((entry) => {
         const key = `${aId}-${bId}-${entry.interaction_type}`;
         if (foundPairs.has(key)) return;
         foundPairs.set(key, {
@@ -356,6 +372,7 @@ function renderCheck() {
     });
 
     renderCommonIndications(ids);
+    });
   });
 }
 

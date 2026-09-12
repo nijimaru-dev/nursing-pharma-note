@@ -1,386 +1,258 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "アンジオテンシン変換酵素阻害剤服用中の患者は、左記のアフェレーシス中にショックを起こすことがある。"
-  },
-  {
     "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "contraindicated",
-    "source_text": "アンジオテンシン変換酵素阻害剤服用中の患者は、左記のアフェレーシス中にショックを起こすことがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "アンジオテンシン変換酵素阻害剤服用中の患者は、左記のアフェレーシス中にショックを起こすことがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "アンジオテンシン変換酵素阻害剤服用中の患者は、左記のアフェレーシス中にショックを起こすことがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "アンジオテンシン変換酵素阻害剤服用中の患者は、左記のアフェレーシス中にショックを起こすことがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "contraindicated",
-    "source_text": "アンジオテンシン変換酵素阻害剤服用中の患者は、左記のアフェレーシス中にショックを起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "contraindicated",
-    "source_text": "アンジオテンシン変換酵素阻害剤服用中の患者は、左記のアフェレーシス中にショックを起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 14375,
-    "other_brand": "ラジレス錠150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
-  },
-  {
-    "other_id": 2935,
-    "other_brand": "エンレスト錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 8214,
-    "other_brand": "ディオバン錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 8218,
-    "other_brand": "ディオバンOD錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9980,
-    "other_brand": "バルサルタン錠20mg「オーハラ」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9982,
-    "other_brand": "バルサルタン錠20mg「ケミファ」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9984,
-    "other_brand": "バルサルタン錠20mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9985,
-    "other_brand": "バルサルタン錠20mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9986,
-    "other_brand": "バルサルタン錠20mg「ツルハラ」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9988,
-    "other_brand": "バルサルタン錠20mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9989,
-    "other_brand": "バルサルタン錠20mg「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9990,
-    "other_brand": "バルサルタン錠20mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9991,
-    "other_brand": "バルサルタン錠20mg「BMD」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9992,
-    "other_brand": "バルサルタン錠20mg「DSEP」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9993,
-    "other_brand": "バルサルタン錠20mg「FFP」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 9995,
-    "other_brand": "バルサルタン錠20mg「Me」",
-    "interaction_type": "contraindicated",
-    "source_text": "血管性浮腫があらわれるおそれがある。\n左記薬剤を投与する場合は、本剤を少なくとも36時間前に中止すること。\nまた、左記薬剤の投与終了後に本剤を投与する場合は、36時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 1173,
-    "other_brand": "アルダクトンA細粒10％",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
+    "other_id": 16433,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6313,
-    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6315,
-    "other_brand": "スピロノラクトン錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6316,
-    "other_brand": "スピロノラクトン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6317,
-    "other_brand": "スピロノラクトン錠25mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 8800,
-    "other_brand": "トリテレン・カプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "利尿降圧剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "利尿降圧剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "利尿降圧剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "利尿降圧剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14375,
-    "other_brand": "ラジレス錠150mg",
-    "interaction_type": "caution",
-    "source_text": "腎機能障害、高カリウム血症及び低血圧を起こすおそれがある。eGFRが60mL/min/1.73m\n2\n未満の腎機能障害のある患者へのアリスキレンフマル酸塩との併用については、治療上やむを得ないと判断される場合を除き避けること。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "other_id": 9984,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "other_id": 9985,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9986,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9988,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9989,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9990,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9991,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9992,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9993,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9995,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8214,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2935,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8218,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9980,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9982,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8800,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6313,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6315,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6317,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6606,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9904,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2778,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11536,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14375,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6668,
-    "other_brand": "セレコキシブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6670,
-    "other_brand": "セレコキシブ錠100mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6675,
-    "other_brand": "セレコキシブ錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6676,
-    "other_brand": "セレコキシブ錠100mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6677,
-    "other_brand": "セレコキシブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6678,
-    "other_brand": "セレコキシブ錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6683,
-    "other_brand": "セレコキシブ錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3747,
-    "other_brand": "カリジノゲナーゼ錠25単位「日医工」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下が引き起こされる可能性がある。"
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6668,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6675,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6676,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6677,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3811,
-    "other_brand": "カルナクリン錠25",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下が引き起こされる可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3747,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14428,
-    "other_brand": "ラパリムスゲル0.2%",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14429,
-    "other_brand": "ラパリムス錠1mg",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
-  },
-  {
-    "other_id": 2255,
-    "other_brand": "エクア錠50mg",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10658,
-    "other_brand": "ビルダグリプチン錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10662,
-    "other_brand": "ビルダグリプチン錠50mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10663,
-    "other_brand": "ビルダグリプチン錠50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10665,
-    "other_brand": "ビルダグリプチン錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10668,
-    "other_brand": "ビルダグリプチン錠50mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "血管性浮腫を発症するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2255,
+    "interaction_type": "caution"
   }
 ]

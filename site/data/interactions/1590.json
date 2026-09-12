@@ -1,296 +1,198 @@
 [
   {
     "other_id": 490,
-    "other_brand": "アデムパス錠0.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤単回投与後にニトログリセリンを舌下投与したときに、プラセボ投与に比べて有意な収縮期血圧の低下が認められている。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 603,
-    "other_brand": "アドシルカ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5527,
-    "other_brand": "ザルティア錠2.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5549,
-    "other_brand": "シアリス錠5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5676,
-    "other_brand": "シルデナフィル錠20mgRE「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5684,
-    "other_brand": "シルデナフィル錠50mgVI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5677,
-    "other_brand": "シルデナフィル錠25mgVI「キッセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5678,
-    "other_brand": "シルデナフィル錠25mgVI「ANG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5679,
-    "other_brand": "シルデナフィル錠25mgVI「DK」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5681,
-    "other_brand": "シルデナフィル錠25mgVI「FCI」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5682,
-    "other_brand": "シルデナフィル錠25mgVI「NIG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5683,
-    "other_brand": "シルデナフィル錠25mgVI「SN」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5692,
-    "other_brand": "シルデナフィル錠50mgVI「YD」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5693,
-    "other_brand": "シルデナフィルOD錠50mgVI「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5851,
-    "other_brand": "ジェニナック錠200mg",
-    "interaction_type": "caution",
-    "source_text": "海外での注射剤の臨床試験において、併用により血圧低下の発現頻度の増加傾向が認められている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6456,
-    "other_brand": "セピエンス顆粒分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血圧低下作用が増強される可能性があるため、血圧等の患者の状態を観察しながら慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7173,
-    "other_brand": "タダラフィル錠10mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7178,
-    "other_brand": "タダラフィル錠10mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7181,
-    "other_brand": "タダラフィル錠10mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7191,
-    "other_brand": "タダラフィル錠20mgAD「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7192,
-    "other_brand": "タダラフィル錠20mgAD「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7195,
-    "other_brand": "タダラフィル錠20mgAD「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7196,
-    "other_brand": "タダラフィル錠20mgAD「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7197,
-    "other_brand": "タダラフィル錠20mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7174,
-    "other_brand": "タダラフィル錠10mgCI「クラシエ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7175,
-    "other_brand": "タダラフィル錠10mgCI「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7176,
-    "other_brand": "タダラフィル錠10mgCI「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7177,
-    "other_brand": "タダラフィル錠10mgCI「FCI」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある 。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7202,
-    "other_brand": "タダラフィル錠20mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7179,
-    "other_brand": "タダラフィル錠10mgCI「TCK」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7205,
-    "other_brand": "タダラフィル錠20mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7182,
-    "other_brand": "タダラフィル錠2.5mgZA「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7183,
-    "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7184,
-    "other_brand": "タダラフィル錠2.5mgZA「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7185,
-    "other_brand": "タダラフィル錠2.5mgZA「シオエ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7186,
-    "other_brand": "タダラフィル錠2.5mgZA「ニプロ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7187,
-    "other_brand": "タダラフィル錠2.5mgZA「フソー」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7188,
-    "other_brand": "タダラフィル錠2.5mgZA「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7189,
-    "other_brand": "タダラフィル錠2.5mgZA「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7190,
-    "other_brand": "タダラフィル錠2.5mgZA「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7215,
-    "other_brand": "タダラフィルOD錠10mgCI「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7216,
-    "other_brand": "タダラフィルOD錠2.5mgZA「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9886,
-    "other_brand": "バイアグラ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10052,
-    "other_brand": "バルデナフィル錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10053,
-    "other_brand": "バルデナフィル錠10mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10054,
-    "other_brand": "バルデナフィル錠5mg「FCI」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12471,
-    "other_brand": "ベリキューボ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "症候性低血圧を起こすおそれがある。血圧等患者の状態を継続的に観察しながら慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14208,
-    "other_brand": "ユバンシ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とタダラフィルの併用により、降圧作用を増強するとの報告がある。\n,\n,"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15232,
-    "other_brand": "レバチオ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある\n,\n,\n,\n。"
+    "interaction_type": "contraindicated"
   }
 ]

@@ -1,1184 +1,790 @@
 [
   {
     "other_id": 61,
-    "other_brand": "アイノフロー吸入用800ppm",
-    "interaction_type": "caution",
-    "source_text": "血中MetHb濃度が増加し、血液の酸素運搬能が低下する可能性がある。併用する場合、血中MetHb濃度を十分観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 289,
-    "other_brand": "アスピリン「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 293,
-    "other_brand": "アスピリン腸溶錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 295,
-    "other_brand": "アスピリン腸溶錠100mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 490,
-    "other_brand": "アデムパス錠0.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤単回投与後にニトログリセリンを舌下投与したときに、プラセボ投与に比べて有意な収縮期血圧の低下が認められている。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 603,
-    "other_brand": "アドシルカ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2246,
-    "other_brand": "エカード配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2546,
-    "other_brand": "エナラプリルマレイン酸塩細粒1％「アメル」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2576,
-    "other_brand": "エナラプリルマレイン酸塩錠5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2547,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2548,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2550,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2551,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2552,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2553,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2554,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2556,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2557,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2558,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2559,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「NikP」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2560,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2817,
-    "other_brand": "エムラクリーム",
-    "interaction_type": "caution",
-    "source_text": "メトヘモグロビン血症を起こすことがある。チアノーゼ等の症状が認められた場合には、本剤の投与を直ちに中止し、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2818,
-    "other_brand": "エムラパッチ",
-    "interaction_type": "caution",
-    "source_text": "メトヘモグロビン血症を起こすことがある。チアノーゼ等の症状が認められた場合には、本剤の投与を直ちに中止し、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2941,
-    "other_brand": "エースコール錠1mg",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3134,
-    "other_brand": "オビソート注射用0.1g",
-    "interaction_type": "caution",
-    "source_text": "アセチルコリンの作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3671,
-    "other_brand": "カデチア配合錠LD「あすか」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3672,
-    "other_brand": "カデチア配合錠LD「テバ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3703,
-    "other_brand": "カプトリル−Rカプセル18.75mg",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3704,
-    "other_brand": "カプトリル錠12.5mg",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3725,
-    "other_brand": "カムシア配合錠LD「あすか」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3726,
-    "other_brand": "カムシア配合錠LD「サンド」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3728,
-    "other_brand": "カムシア配合錠LD「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3729,
-    "other_brand": "カムシア配合錠LD「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3730,
-    "other_brand": "カムシア配合錠LD「日新」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3731,
-    "other_brand": "カムシア配合錠LD「NIG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3839,
-    "other_brand": "カルビスケン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4217,
-    "other_brand": "キャブピリン配合錠",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5208,
-    "other_brand": "コディオ配合錠MD",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5296,
-    "other_brand": "コンプラビン配合錠",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5465,
-    "other_brand": "サンリズムカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "動物実験（イヌ）において、本剤の作用が増強される可能性が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5467,
-    "other_brand": "サンリズム注射液50",
-    "interaction_type": "caution",
-    "source_text": "動物実験（イヌ）において、本剤の作用が増強される可能性が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5527,
-    "other_brand": "ザルティア錠2.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5549,
-    "other_brand": "シアリス錠5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5676,
-    "other_brand": "シルデナフィル錠20mgRE「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5684,
-    "other_brand": "シルデナフィル錠50mgVI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5677,
-    "other_brand": "シルデナフィル錠25mgVI「キッセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5678,
-    "other_brand": "シルデナフィル錠25mgVI「ANG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5679,
-    "other_brand": "シルデナフィル錠25mgVI「DK」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5681,
-    "other_brand": "シルデナフィル錠25mgVI「FCI」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5682,
-    "other_brand": "シルデナフィル錠25mgVI「NIG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5683,
-    "other_brand": "シルデナフィル錠25mgVI「SN」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5692,
-    "other_brand": "シルデナフィル錠50mgVI「YD」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5693,
-    "other_brand": "シルデナフィルOD錠50mgVI「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5851,
-    "other_brand": "ジェニナック錠200mg",
-    "interaction_type": "caution",
-    "source_text": "海外での注射剤の臨床試験において、併用により血圧低下の発現頻度の増加傾向が認められている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6456,
-    "other_brand": "セピエンス顆粒分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血圧低下作用が増強される可能性があるため、血圧等の患者の状態を観察しながら慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6733,
-    "other_brand": "セロケン錠20mg",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6734,
-    "other_brand": "セロケンL錠120mg",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7152,
-    "other_brand": "タケルダ配合錠",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7173,
-    "other_brand": "タダラフィル錠10mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7178,
-    "other_brand": "タダラフィル錠10mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7181,
-    "other_brand": "タダラフィル錠10mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7191,
-    "other_brand": "タダラフィル錠20mgAD「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7192,
-    "other_brand": "タダラフィル錠20mgAD「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7195,
-    "other_brand": "タダラフィル錠20mgAD「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7196,
-    "other_brand": "タダラフィル錠20mgAD「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7197,
-    "other_brand": "タダラフィル錠20mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7174,
-    "other_brand": "タダラフィル錠10mgCI「クラシエ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7175,
-    "other_brand": "タダラフィル錠10mgCI「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7176,
-    "other_brand": "タダラフィル錠10mgCI「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7177,
-    "other_brand": "タダラフィル錠10mgCI「FCI」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある 。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7202,
-    "other_brand": "タダラフィル錠20mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7179,
-    "other_brand": "タダラフィル錠10mgCI「TCK」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7205,
-    "other_brand": "タダラフィル錠20mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7182,
-    "other_brand": "タダラフィル錠2.5mgZA「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7183,
-    "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7184,
-    "other_brand": "タダラフィル錠2.5mgZA「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7185,
-    "other_brand": "タダラフィル錠2.5mgZA「シオエ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7186,
-    "other_brand": "タダラフィル錠2.5mgZA「ニプロ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7187,
-    "other_brand": "タダラフィル錠2.5mgZA「フソー」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7188,
-    "other_brand": "タダラフィル錠2.5mgZA「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7189,
-    "other_brand": "タダラフィル錠2.5mgZA「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7190,
-    "other_brand": "タダラフィル錠2.5mgZA「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7215,
-    "other_brand": "タダラフィルOD錠10mgCI「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7216,
-    "other_brand": "タダラフィルOD錠2.5mgZA「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強するとの報告がある\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8041,
-    "other_brand": "テモカプリル塩酸塩錠1mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8042,
-    "other_brand": "テモカプリル塩酸塩錠1mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8043,
-    "other_brand": "テモカプリル塩酸塩錠1mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8086,
-    "other_brand": "テルチア配合錠AP「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8087,
-    "other_brand": "テルチア配合錠AP「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8088,
-    "other_brand": "テルチア配合錠AP「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8089,
-    "other_brand": "テルチア配合錠AP「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8090,
-    "other_brand": "テルチア配合錠AP「NIG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9424,
-    "other_brand": "ニカルジピン塩酸塩注射液2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "動物実験で房室ブロックを起こしたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9425,
-    "other_brand": "ニカルジピン塩酸塩注射液2mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "動物実験で房室ブロックを起こしたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9430,
-    "other_brand": "ニカルジピン塩酸塩錠10mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "動物実験で房室ブロックを起こしたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9886,
-    "other_brand": "バイアグラ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用を増強することがある\n,\n,\n,\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9923,
-    "other_brand": "バッサミン配合錠A81",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9934,
-    "other_brand": "バファリン配合錠A81",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10052,
-    "other_brand": "バルデナフィル錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10053,
-    "other_brand": "バルデナフィル錠10mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10054,
-    "other_brand": "バルデナフィル錠5mg「FCI」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により降圧作用が増強し、過度に血圧を下降させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10068,
-    "other_brand": "バルヒディオ配合錠MD「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10069,
-    "other_brand": "バルヒディオ配合錠MD「サンド」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10070,
-    "other_brand": "バルヒディオ配合錠MD「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10071,
-    "other_brand": "バルヒディオ配合錠MD「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10072,
-    "other_brand": "バルヒディオ配合錠MD「JG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10073,
-    "other_brand": "バルヒディオ配合錠MD「NIG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10074,
-    "other_brand": "バルヒディオ配合錠MD「TCK」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10388,
-    "other_brand": "ヒドロクロロチアジド錠12.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10390,
-    "other_brand": "ヒドロクロロチアジドOD錠12.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10881,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "動物実験（イヌ）において、本剤の作用が増強される可能性が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10882,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "動物実験（イヌ）において、本剤の作用が増強される可能性が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10883,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "動物実験（イヌ）において、本剤の作用が増強される可能性が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10884,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "動物実験（イヌ）において、本剤の作用が増強される可能性が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10885,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "動物実験（イヌ）において、本剤の作用が増強される可能性が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10941,
-    "other_brand": "ファモター配合錠A81",
-    "interaction_type": "caution",
-    "source_text": "ニトログリセリンの作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11997,
-    "other_brand": "プレミネント配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12133,
-    "other_brand": "ヘパフィルド透析用150単位/mLシリンジ20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12136,
-    "other_brand": "ヘパフラッシュ10単位/mLシリンジ5mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12140,
-    "other_brand": "ヘパリンカルシウム注1万単位/10mL「YD」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12142,
-    "other_brand": "ヘパリンカルシウム皮下注5千単位/0.2mLシリンジ「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12143,
-    "other_brand": "ヘパリンナトリウム注1万単位/10mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12144,
-    "other_brand": "ヘパリンナトリウム注5千単位/5mL「YD」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12149,
-    "other_brand": "ヘパリンナトリウム注N1万単位/10mL「YD」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12182,
-    "other_brand": "ヘパリンCa注射液2万単位/20mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12185,
-    "other_brand": "ヘパリンCa皮下注1万単位/0.4mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12186,
-    "other_brand": "ヘパリンCa皮下注2万単位/0.8mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12187,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ「オーツカ」5mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12189,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ5mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12190,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ5mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12199,
-    "other_brand": "ヘパリンNa注5千単位/5mL「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12201,
-    "other_brand": "ヘパリンNa透析用カテーテルロック用1,000単位/mLシリンジ5mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12202,
-    "other_brand": "ヘパリンNa透析用150単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12208,
-    "other_brand": "ヘパリンNa透析用250単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12209,
-    "other_brand": "ヘパリンNa透析用250単位/mL「NS」20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12204,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12203,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「フソー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12210,
-    "other_brand": "ヘパリンNa透析用250単位/mLシリンジ12mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12361,
-    "other_brand": "ベナゼプリル塩酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがあるので、患者の状態を十分に観察しながら両剤の用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12471,
-    "other_brand": "ベリキューボ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "症候性低血圧を起こすおそれがある。血圧等患者の状態を継続的に観察しながら慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12647,
-    "other_brand": "ペルジピン注射液2mg",
-    "interaction_type": "caution",
-    "source_text": "動物実験で房室ブロックを起こしたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12646,
-    "other_brand": "ペルジピン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "動物実験で房室ブロックを起こしたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12652,
-    "other_brand": "ペルジピンLAカプセル20mg",
-    "interaction_type": "caution",
-    "source_text": "動物実験で房室ブロックを起こしたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13297,
-    "other_brand": "ミカトリオ配合錠",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13337,
-    "other_brand": "ミコンビ配合錠AP",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15232,
-    "other_brand": "レバチオ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "降圧作用を増強することがある。本剤投与前にこれらの薬剤を服用していないことを十分確認すること。また、本剤投与中及び投与後においてこれらの薬剤を服用しないよう十分注意すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を増強するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を増強するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "血圧低下作用を増強するおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "血圧低下作用を増強するおそれがある。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "血圧低下作用を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13692,
-    "other_brand": "メトプロロール酒石酸塩錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13693,
-    "other_brand": "メトプロロール酒石酸塩錠20mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13694,
-    "other_brand": "メトプロロール酒石酸塩錠20mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14204,
-    "other_brand": "ユニシア配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強するおそれがある。用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14208,
-    "other_brand": "ユバンシ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤とタダラフィルの併用により、降圧作用を増強するとの報告がある。\n,\n,"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15229,
-    "other_brand": "レニベース錠2.5",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15721,
-    "other_brand": "ロサルヒド配合錠LD「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15723,
-    "other_brand": "ロサルヒド配合錠LD「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15724,
-    "other_brand": "ロサルヒド配合錠LD「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15725,
-    "other_brand": "ロサルヒド配合錠LD「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15726,
-    "other_brand": "ロサルヒド配合錠LD「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15727,
-    "other_brand": "ロサルヒド配合錠LD「三和」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15728,
-    "other_brand": "ロサルヒド配合錠LD「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15729,
-    "other_brand": "ロサルヒド配合錠LD「日新」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15730,
-    "other_brand": "ロサルヒド配合錠LD「杏林」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15731,
-    "other_brand": "ロサルヒド配合錠LD「科研」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15732,
-    "other_brand": "ロサルヒド配合錠LD「EP」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15733,
-    "other_brand": "ロサルヒド配合錠LD「JG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15734,
-    "other_brand": "ロサルヒド配合錠LD「NIG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15735,
-    "other_brand": "ロサルヒド配合錠LD「NPI」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15736,
-    "other_brand": "ロサルヒド配合錠LD「TCK」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15737,
-    "other_brand": "ロサルヒド配合錠LD「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15738,
-    "other_brand": "ロサルヒド配合錠LD「YD」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を増強するおそれがある。降圧剤の用量調節等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15878,
-    "other_brand": "ロプレソール錠20mg",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15880,
-    "other_brand": "ロプレソールSR錠120mg",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15929,
-    "other_brand": "ロレアス配合錠「杏林」",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15930,
-    "other_brand": "ロレアス配合錠「NS」",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15932,
-    "other_brand": "ロレアス配合錠「SANIK」",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはニトログリセリンの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16033,
-    "other_brand": "一酸化窒素吸入用800ppm「ALJ」",
-    "interaction_type": "caution",
-    "source_text": "血中MetHb濃度が増加し、血液の酸素運搬能が低下する可能性がある。併用する場合、血中MetHb濃度を十分観察すること。"
+    "interaction_type": "caution"
   }
 ]

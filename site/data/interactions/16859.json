@@ -1,38 +1,26 @@
 [
   {
     "other_id": 8304,
-    "other_brand": "デファイテリオ静注200mg",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増大するおそれがあるので、血液凝固能（出血時間、プロトロンビン時間、APTT等）等の検査、臨床症状の観察を頻回に行うこと。異常が認められた場合には本剤の投与中断も検討すること（ただし、中心静脈ラインの維持又は再開のための抗凝固療法を除く）。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14632,
-    "other_brand": "リコモジュリン点滴静注用12800",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。他の抗凝固剤と本剤との併用の安全性は明らかになっておらず、併用に際しては慎重に投与の判断を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   }
 ]

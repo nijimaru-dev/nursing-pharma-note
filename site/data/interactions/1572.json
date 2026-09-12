@@ -1,320 +1,214 @@
 [
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 4439,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 4440,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 4441,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 4442,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 4443,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 4444,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6042,
-    "other_brand": "ジャクスタピッドカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6042,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 2910,
-    "other_brand": "エンタカポン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "エンタカポンとの併用によりジスキネジーの発現頻度の上昇が認められた。"
-  },
-  {
-    "other_id": 2911,
-    "other_brand": "エンタカポン錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "エンタカポンとの併用によりジスキネジーの発現頻度の上昇が認められた。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5244,
-    "other_brand": "コムタン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "エンタカポンとの併用によりジスキネジーの発現頻度の上昇が認められた。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2910,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2911,
+    "interaction_type": "caution"
   }
 ]

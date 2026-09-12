@@ -1,500 +1,334 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "左記薬剤の血中濃度上昇により、QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
-  },
-  {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "左記薬剤の血中濃度上昇により、QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "左記薬剤の血中濃度上昇により、QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "左記薬剤の血中濃度上昇により、QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
-  },
-  {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤と強力なCYP3A4阻害剤(例：ケトコナゾール)との併用は慎重に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2946,
-    "other_brand": "オイラゾンクリーム0.05％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 8236,
-    "other_brand": "デカドロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 8238,
-    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 8251,
-    "other_brand": "デキサメタゾン軟膏口腔用0.1%「CH」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
-  },
-  {
-    "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13733,
-    "other_brand": "メドロール錠2mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8238,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15217,
-    "other_brand": "レナデックス錠2mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2381,
-    "other_brand": "エストラジオール錠0.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱されるおそれがあるので、本剤の投与期間中及び最終投与から1ヵ月間は、代りの避妊法又は補助的避妊法を用いる必要がある。"
+    "other_id": 11986,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6058,
-    "other_brand": "ジュリナ錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱されるおそれがあるので、本剤の投与期間中及び最終投与から1ヵ月間は、代りの避妊法又は補助的避妊法を用いる必要がある。"
+    "other_id": 11569,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8251,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13342,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13343,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12035,
-    "other_brand": "プロセキソール錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱されるおそれがあるので、本剤の投与期間中及び最終投与から1ヵ月間は、代りの避妊法又は補助的避妊法を用いる必要がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2381,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1784,
-    "other_brand": "イムブルビカカプセル140mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用が増強されるおそれがあるので、CYP3A阻害作用のない薬剤への代替を考慮すること。やむを得ず併用する際には、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5258,
-    "other_brand": "コルヒチン錠0.5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。併用する場合は減量あるいは低用量から開始するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5813,
-    "other_brand": "シンフェーズT28錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがあるので、これらの薬剤の投与期間中及び最終投与から1ヵ月間は、代りの避妊法又は補助的避妊法を用いる必要がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5857,
-    "other_brand": "ジェミーナ配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6042,
-    "other_brand": "ジャクスタピッドカプセル5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が著しく上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6829,
-    "other_brand": "ソホノスカプセル1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用が強くあらわれるおそれがあるため、併用を避け、代替薬への変更を考慮すること。併用が避けられない場合は、本剤の用量を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6931,
-    "other_brand": "ソル・メドロール静注用40mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。必要に応じて本剤又はこれらの薬剤を減量するなど用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8316,
-    "other_brand": "デポ・メドロール水懸注20mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。必要に応じて本剤又はこれらの薬剤を減量するなど用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8901,
-    "other_brand": "トーリセル点滴静注液25mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10317,
-    "other_brand": "ヒアニュオ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、併用する場合は患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11342,
-    "other_brand": "フリウェル配合錠LD「あすか」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11343,
-    "other_brand": "フリウェル配合錠LD「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11344,
-    "other_brand": "フリウェル配合錠LD「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11345,
-    "other_brand": "フリウェル配合錠LD「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12943,
-    "other_brand": "ボシュリフ錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用の発現頻度及び重症度が増加するおそれがあるので、CYP3A阻害作用のない又は弱い薬剤への代替を考慮すること。やむを得ず併用する際には本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14271,
-    "other_brand": "ヨンデリス点滴静注用0.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇し、副作用の頻度及び重症度が増加するおそれがあるので、CYP3A阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15080,
-    "other_brand": "ルナベル配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   }
 ]

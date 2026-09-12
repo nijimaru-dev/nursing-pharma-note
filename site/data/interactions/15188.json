@@ -1,56 +1,38 @@
 [
   {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがある。"
+    "other_id": 17249,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7554,
-    "other_brand": "チトラミン液「フソー」−4%",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17249,
-    "other_brand": "輸血用チトラミン「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがある。"
-  },
-  {
-    "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "キノロン系抗菌剤の効果が減弱されるおそれがあるので、本剤をキノロン投与後2時間後に投与すること。"
+    "other_id": 4339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "キノロン系抗菌剤の効果が減弱されるおそれがあるので、本剤をキノロン投与後2時間後に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15430,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "キノロン系抗菌剤の効果が減弱されるおそれがあるので、本剤をキノロン投与後2時間後に投与すること。"
-  },
-  {
-    "other_id": 4963,
-    "other_brand": "ケイキサレートドライシロップ 76%",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがあるので電解質の観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4964,
-    "other_brand": "ケイキサレート散",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがあるので電解質の観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13129,
-    "other_brand": "ポリスチレンスルホン酸Na「フソー」原末",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがあるので電解質の観察を十分に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4963,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4964,
+    "interaction_type": "caution"
   }
 ]

@@ -1,14 +1,10 @@
 [
   {
     "other_id": 16120,
-    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16121,
-    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので併用しないこと。"
+    "interaction_type": "contraindicated"
   }
 ]

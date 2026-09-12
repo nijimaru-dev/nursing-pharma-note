@@ -1,260 +1,174 @@
 [
   {
     "other_id": 5633,
-    "other_brand": "シプロキサン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7594,
-    "other_brand": "チラーヂンS散0.01％",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7595,
-    "other_brand": "チラーヂンS錠12.5μg",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7600,
-    "other_brand": "チラーヂンS静注液200μg",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7601,
-    "other_brand": "チロナミン錠5μg",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少するおそれがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15405,
-    "other_brand": "レボチロキシンNa錠25μg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
-  },
-  {
-    "other_id": 4430,
-    "other_brand": "クラビット点滴静注バッグ500mg/100mL",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
-  },
-  {
-    "other_id": 4434,
-    "other_brand": "クラビット錠250mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
-  },
-  {
-    "other_id": 5245,
-    "other_brand": "コムレクス耳科用液1.5％",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15419,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg「HK」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15420,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15421,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg/100mL「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15423,
-    "other_brand": "レボフロキサシン点眼液0.5％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15424,
-    "other_brand": "レボフロキサシン点眼液0.5％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15428,
-    "other_brand": "レボフロキサシン点眼液0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15431,
-    "other_brand": "レボフロキサシン点眼液0.5％「科研」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15432,
-    "other_brand": "レボフロキサシン点眼液0.5％「FFP」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15435,
-    "other_brand": "レボフロキサシン点眼液0.5％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15436,
-    "other_brand": "レボフロキサシン点眼液1.5％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15437,
-    "other_brand": "レボフロキサシン点眼液1.5%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4430,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15441,
-    "other_brand": "レボフロキサシン点眼液1.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4434,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15445,
-    "other_brand": "レボフロキサシン点眼液1.5％「科研」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15449,
-    "other_brand": "レボフロキサシン点眼液1.5％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15450,
-    "other_brand": "レボフロキサシン粒状錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15452,
-    "other_brand": "レボフロキサシン錠250mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15453,
-    "other_brand": "レボフロキサシン錠250mg「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15455,
-    "other_brand": "レボフロキサシン錠250mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15456,
-    "other_brand": "レボフロキサシン錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15457,
-    "other_brand": "レボフロキサシン錠250mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15461,
-    "other_brand": "レボフロキサシン錠250mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15465,
-    "other_brand": "レボフロキサシン錠250mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5245,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17542,
-    "other_brand": "5mcgチロナミン錠",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少するおそれがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   }
 ]

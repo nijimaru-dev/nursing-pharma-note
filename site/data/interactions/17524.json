@@ -1,80 +1,54 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
-  },
-  {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13251,
-    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "1）眠気、注意力・集中力・反射運動能力等の低下が増強することがある。2）併用中の本剤を急速に減量又は中止すると痙攣発作がおこる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15068,
-    "other_brand": "ルジオミール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "1）眠気、注意力・集中力・反射運動能力等の低下が増強することがある。2）併用中の本剤を急速に減量又は中止すると痙攣発作がおこる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "1）眠気、注意力・集中力・反射運動能力等の低下が増強することがある。2）併用中の本剤を急速に減量又は中止すると痙攣発作がおこる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "1）眠気、注意力・集中力・反射運動能力等の低下が増強することがある。2）併用中の本剤を急速に減量又は中止すると痙攣発作がおこる可能性がある。"
-  },
-  {
-    "other_id": 7495,
-    "other_brand": "ダントリウムカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "筋弛緩作用が増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7496,
-    "other_brand": "ダントリウム静注用20mg",
-    "interaction_type": "caution",
-    "source_text": "筋弛緩作用が増強する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7495,
+    "interaction_type": "caution"
   }
 ]

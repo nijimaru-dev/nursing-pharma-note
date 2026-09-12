@@ -1,602 +1,402 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
-  },
-  {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔作用が増強されたり、呼吸数、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下するおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔作用が増強されたり、呼吸数、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔作用が増強されたり、呼吸数、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔作用が増強されたり、呼吸数、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下するおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔作用が増強されたり、呼吸数、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下するおそれがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔作用が増強されたり、呼吸数、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔作用が増強されたり、呼吸数、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8679,
-    "other_brand": "トピナ細粒10%",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8680,
-    "other_brand": "トピナ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 8683,
-    "other_brand": "トピラマート錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13152,
-    "other_brand": "マイスタン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1322,
-    "other_brand": "アロカリス点滴静注235mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 8679,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 8680,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 8683,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 3830,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 3943,
-    "other_brand": "カログラ錠120mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 5850,
-    "other_brand": "ジェセリ錠40mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 2833,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "other_id": 5656,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15193,
-    "other_brand": "レズロック錠200mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6939,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3943,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1322,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5850,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6116,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7107,
-    "other_brand": "タキソール注射液30mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。"
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10130,
-    "other_brand": "パクリタキセル注射液30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7107,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10135,
-    "other_brand": "パクリタキセル注30mg/5mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15832,
-    "other_brand": "ロゼウス静注液10mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17260,
-    "other_brand": "酒石酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12100,
-    "other_brand": "プロポフォール静注1%20mL「FK」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12106,
-    "other_brand": "プロポフォール1%静注20mL「日医工」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12107,
-    "other_brand": "プロポフォール1％静注20mL「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下することがある。"
-  },
-  {
-    "other_id": 998,
-    "other_brand": "アメナリーフ錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
-  },
-  {
-    "other_id": 3183,
-    "other_brand": "オペプリム",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
-  },
-  {
-    "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
-  },
-  {
-    "other_id": 10925,
-    "other_brand": "ファビハルタカプセル200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
-  },
-  {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
-  },
-  {
-    "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15949,
-    "other_brand": "ローブレナ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10381,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14937,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 998,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10925,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3183,
+    "interaction_type": "caution"
   }
 ]

@@ -1,80 +1,54 @@
 [
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "contraindicated",
-    "source_text": "ジギタリス中毒を起こしやすい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "contraindicated",
-    "source_text": "ジギタリス中毒を起こしやすい。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "contraindicated",
-    "source_text": "ジギタリス中毒を起こしやすい。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ジギタリス中毒を起こしやすい。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ジギタリス中毒を起こしやすい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ジギタリス中毒を起こしやすい。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。このような場合には減量するなど慎重に投与すること。"
+    "other_id": 5946,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。このような場合には減量するなど慎重に投与すること。"
+    "other_id": 5947,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。このような場合には減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。このような場合には減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。このような場合には減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。このような場合には減量するなど慎重に投与すること。"
+    "other_id": 5948,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがある。このような場合には減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   }
 ]

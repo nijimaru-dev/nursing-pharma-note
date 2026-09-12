@@ -1,710 +1,474 @@
 [
   {
     "other_id": 280,
-    "other_brand": "アスパラ−CA錠200",
-    "interaction_type": "caution",
-    "source_text": "ニューキノロン系抗菌剤の作用が減弱するおそれがある。同時服用を避け、併用する場合には、2時間以上あける等注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 693,
-    "other_brand": "アプニション静注15mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 794,
-    "other_brand": "アミノフィリン注250mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 795,
-    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 796,
-    "other_brand": "アミノフィリン静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 797,
-    "other_brand": "アミノフィリン静注250mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 798,
-    "other_brand": "アミノフィリン静注250mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4347,
-    "other_brand": "クエン酸第一鉄ナトリウム錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "抗菌剤の吸収を阻害することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4349,
-    "other_brand": "クエン酸第一鉄Na錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "抗菌剤の吸収を阻害することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4350,
-    "other_brand": "クエン酸第一鉄Na錠50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "抗菌剤の吸収を阻害することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4351,
-    "other_brand": "クエン酸第一鉄Na錠50mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "抗菌剤の吸収を阻害することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5268,
-    "other_brand": "コロネル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7952,
-    "other_brand": "テオドール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7954,
-    "other_brand": "テオドール顆粒20%",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7957,
-    "other_brand": "テオフィリン徐放カプセル100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7959,
-    "other_brand": "テオフィリン徐放カプセル50mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7967,
-    "other_brand": "テオフィリン徐放DS小児用20%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7968,
-    "other_brand": "テオフィリン徐放U錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9628,
-    "other_brand": "ネオフィリン原末",
-    "interaction_type": "caution",
-    "source_text": "健康成人にテオフィリン1日400mgとトスフロキサシントシル酸塩水和物（錠剤）1日450mgを併用したところ、テオフィリンの最高血中濃度は、併用3日目で1.13倍、5日目では1.23倍の上昇を示したとの報告がある。テオフィリンの中毒症状（消化器障害、頭痛、不整脈、痙攣等）があらわれるおそれがあるため、観察を十分に行い、血中濃度モニタリングを行うなど注意すること。"
-  },
-  {
-    "other_id": 9629,
-    "other_brand": "ネオフィリン注点滴用バッグ250mg",
-    "interaction_type": "caution",
-    "source_text": "健康成人にテオフィリン1日400mgとトスフロキサシントシル酸塩水和物（錠剤）1日450mgを併用したところ、テオフィリンの最高血中濃度は、併用3日目で1.13倍、5日目では1.23倍の上昇を示したとの報告がある。テオフィリンの中毒症状（消化器障害、頭痛、不整脈、痙攣等）があらわれるおそれがあるため、観察を十分に行い、血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9630,
-    "other_brand": "ネオフィリン注250mg",
-    "interaction_type": "caution",
-    "source_text": "健康成人にテオフィリン1日400mgとトスフロキサシントシル酸塩水和物（錠剤）1日450mgを併用したところ、テオフィリンの最高血中濃度は、併用3日目で1.13倍、5日目では1.23倍の上昇を示したとの報告がある。テオフィリンの中毒症状（消化器障害、頭痛、不整脈、痙攣等）があらわれるおそれがあるため、観察を十分に行い、血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9632,
-    "other_brand": "ネオフィリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "健康成人にテオフィリン1日400mgとトスフロキサシントシル酸塩水和物（錠剤）1日450mgを併用したところ、テオフィリンの最高血中濃度は、併用3日目で1.13倍、5日目では1.23倍の上昇を示したとの報告がある。テオフィリンの中毒症状（消化器障害、頭痛、不整脈、痙攣等）があらわれるおそれがあるため、観察を十分に行い、血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5891,
-    "other_brand": "ジクロフェナクナトリウムテープ15mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5896,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「ゼリア」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5897,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5922,
-    "other_brand": "ジクロフェナクNa坐剤12.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5924,
-    "other_brand": "ジクロフェナクNa坐剤25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5933,
-    "other_brand": "ジクロフェナクNa点眼液0.1％「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5934,
-    "other_brand": "ジクロフェナクNa錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5935,
-    "other_brand": "ジクロフェナクNa錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 5941,
-    "other_brand": "ジクロード点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 6668,
-    "other_brand": "セレコキシブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 6670,
-    "other_brand": "セレコキシブ錠100mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 6675,
-    "other_brand": "セレコキシブ錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 6676,
-    "other_brand": "セレコキシブ錠100mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 6677,
-    "other_brand": "セレコキシブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 6678,
-    "other_brand": "セレコキシブ錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 6683,
-    "other_brand": "セレコキシブ錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 12995,
-    "other_brand": "ボルタレンサポ12.5mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 13001,
-    "other_brand": "ボルタレン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15568,
-    "other_brand": "ロキソプロフェンナトリウムテープ50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15574,
-    "other_brand": "ロキソプロフェンナトリウムパップ100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15576,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15577,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15578,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15579,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15581,
-    "other_brand": "ロキソプロフェンNaゲル1%「NP」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15582,
-    "other_brand": "ロキソプロフェンNaテープ50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15590,
-    "other_brand": "ロキソプロフェンNaテープ50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15592,
-    "other_brand": "ロキソプロフェンNaテープ50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 15595,
-    "other_brand": "ロキソプロフェンNaテープ50mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "other_id": 9629,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15616,
-    "other_brand": "ロキソプロフェンNaパップ100mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5891,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15620,
-    "other_brand": "ロキソプロフェンNaパップ100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11654,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15622,
-    "other_brand": "ロキソプロフェンNaパップ100mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6668,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15629,
-    "other_brand": "ロキソプロフェンNa錠60mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15630,
-    "other_brand": "ロキソプロフェンNa錠60mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15631,
-    "other_brand": "ロキソプロフェンNa錠60mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15633,
-    "other_brand": "ロキソプロフェンNa錠60mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6675,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6676,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6677,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15636,
-    "other_brand": "ロキソプロフェンNa錠60mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15637,
-    "other_brand": "ロキソプロフェンNa錠60mg「三恵」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15638,
-    "other_brand": "ロキソプロフェンNa錠60mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15640,
-    "other_brand": "ロキソプロフェンNa錠60mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15641,
-    "other_brand": "ロキソプロフェンNa錠60mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15642,
-    "other_brand": "ロキソプロフェンNa錠60mg「OHA」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5922,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5924,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5933,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5934,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5935,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5941,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12995,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15568,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15574,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15576,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15577,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15578,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15579,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15581,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15582,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15590,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15592,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15595,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣があらわれることがある。観察を十分に行い、症状があらわれた場合には両剤の投与を中止し、気道確保と抗痙攣薬の使用など痙攣に対する治療を実施すること。"
-  },
-  {
-    "other_id": 3780,
-    "other_brand": "カルタン錠250",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 3782,
-    "other_brand": "カルタン錠500",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 3783,
-    "other_brand": "カルタンOD錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 3784,
-    "other_brand": "カルタンOD錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 11246,
-    "other_brand": "フェロミア錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 16123,
-    "other_brand": "乾燥水酸化アルミニウムゲル「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 16556,
-    "other_brand": "沈降炭酸カルシウム「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 16559,
-    "other_brand": "沈降炭酸カルシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 16561,
-    "other_brand": "沈降炭酸カルシウム恵美須",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 16562,
-    "other_brand": "沈降炭酸カルシウム錠250mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
-  },
-  {
-    "other_id": 16729,
-    "other_brand": "炭カル錠500mg「旭化成」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3780,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3782,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3784,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16729,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16123,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11246,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5299,
-    "other_brand": "コートリル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 16559,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 16561,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 16562,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
-  },
-  {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 4339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5299,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11222,
-    "other_brand": "フェリセルツ散20%",
-    "interaction_type": "caution",
-    "source_text": "左記医薬品の作用が減弱するおそれがあるので、造影終了後3時間程度服用時間をあける等注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13124,
-    "other_brand": "ポリカルボフィルCa細粒83.3%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13133,
-    "other_brand": "ポリフル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14201,
-    "other_brand": "ユニコン錠100",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16103,
-    "other_brand": "乳酸カルシウム「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "ニューキノロン系抗菌剤の作用が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16104,
-    "other_brand": "乳酸カルシウム「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "ニューキノロン系抗菌剤の作用が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16105,
-    "other_brand": "乳酸カルシウム水和物＜ハチ＞原末",
-    "interaction_type": "caution",
-    "source_text": "ニューキノロン系抗菌剤の作用が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16106,
-    "other_brand": "乳酸カルシウム水和物「ケンエー」原末",
-    "interaction_type": "caution",
-    "source_text": "ニューキノロン系抗菌剤の作用が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17683,
-    "other_brand": "L−アスパラギン酸Ca錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ニューキノロン系抗菌剤の作用が減弱するおそれがある。同時服用を避け、併用する場合には、2時間以上あける等注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17684,
-    "other_brand": "L−アスパラギン酸Ca錠200mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "ニューキノロン系抗菌剤の作用が減弱するおそれがある。同時服用を避け、併用する場合には、2時間以上あける等注意する。"
+    "interaction_type": "caution"
   }
 ]

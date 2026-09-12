@@ -1,1040 +1,694 @@
 [
   {
     "other_id": 663,
-    "other_brand": "アビラテロン酢酸エステル錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 665,
-    "other_brand": "アビラテロン酢酸エステル錠250mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 666,
-    "other_brand": "アビラテロン酢酸エステル錠250mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 668,
-    "other_brand": "アビラテロン酢酸エステル錠250mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 669,
-    "other_brand": "アビラテロン酢酸エステル錠250mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 664,
-    "other_brand": "アビラテロン酢酸エステル錠250mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 667,
-    "other_brand": "アビラテロン酢酸エステル錠250mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "・本剤とアリピプラゾールの併用により、アリピプラゾールのC\nmax\n、AUC、t\n1/2\nがそれぞれ19.4%、48.0%、18.6%増加したとの報告がある。・本剤とペロスピロンの併用により、ペロスピロンのC\nmax\n及びAUCがそれぞれ5.7倍及び6.8倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤とアリピプラゾールの併用により、アリピプラゾールのC\nmax\n、AUC、t\n1/2\nがそれぞれ19.4%、48.0%、18.6%増加したとの報告がある。\n本剤とペロスピロンの併用により、ペロスピロンのC\nmax\n及びAUCがそれぞれ5.7倍及び6.8倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "・本剤とアリピプラゾールの併用により、アリピプラゾールのC\nmax\n、AUC、t\n1/2\nがそれぞれ19.4%、48.0%、18.6%増加したとの報告がある。・本剤とペロスピロンの併用により、ペロスピロンのC\nmax\n及びAUCがそれぞれ5.7倍及び6.8倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "・本剤とアリピプラゾールの併用により、アリピプラゾールのC\nmax\n、AUC、t\n1/2\nがそれぞれ19.4%、48.0%、18.6%増加したとの報告がある。・本剤とペロスピロンの併用により、ペロスピロンのC\nmax\n及びAUCがそれぞれ5.7倍及び6.8倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "・本剤とアリピプラゾールの併用により、アリピプラゾールのC\nmax\n、AUC、t\n1/2\nがそれぞれ19.4%、48.0%、18.6%増加したとの報告がある。・本剤とペロスピロンの併用により、ペロスピロンのC\nmax\n及びAUCがそれぞれ5.7倍及び6.8倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1682,
-    "other_brand": "イフェクサーSRカプセル37.5mg",
-    "interaction_type": "caution",
-    "source_text": "ハロペリドールの血中濃度が上昇するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1699,
-    "other_brand": "イブトロジーカプセル200mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長作用を増強するおそれがあるので、患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1949,
-    "other_brand": "イーシー・ドパール配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2303,
-    "other_brand": "エスシタロプラム錠10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2305,
-    "other_brand": "エスシタロプラム錠10mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2306,
-    "other_brand": "エスシタロプラム錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2307,
-    "other_brand": "エスシタロプラム錠10mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2309,
-    "other_brand": "エスシタロプラム錠10mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2310,
-    "other_brand": "エスシタロプラム錠10mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2311,
-    "other_brand": "エスシタロプラム錠10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2302,
-    "other_brand": "エスシタロプラム錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2324,
-    "other_brand": "エスシタロプラムOD錠10mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2304,
-    "other_brand": "エスシタロプラム錠10mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2325,
-    "other_brand": "エスシタロプラムOD錠10mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2746,
-    "other_brand": "エピリド配合注歯科用カートリッジ1.0mL",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3646,
-    "other_brand": "オーラ注歯科用カートリッジ1.0mL",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3695,
-    "other_brand": "カバサール錠0.25mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3707,
-    "other_brand": "カプレルサ錠100mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こす又は悪化させるおそれがあるので、QT間隔延長を起こすことが知られている薬剤と併用する場合には、治療上の有益性が危険性を上回ると判断される場合にのみ使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3708,
-    "other_brand": "カベルゴリン錠0.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3761,
-    "other_brand": "カルコーパ配合錠L100",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4178,
-    "other_brand": "キシレステシンA注射液（カートリッジ）",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4541,
-    "other_brand": "クロザリル錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "副作用発現に対し速やかに対応できないため、血中から薬剤が消失するまで本剤を投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4758,
-    "other_brand": "グラマリール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5259,
-    "other_brand": "コレアジン錠12.5mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5490,
-    "other_brand": "ザイティガ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "CYP2D6により代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6200,
-    "other_brand": "スタレボ配合錠L50",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱され、パーキンソン病症状が悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6361,
-    "other_brand": "スルピリドカプセル50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6362,
-    "other_brand": "スルピリド錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6363,
-    "other_brand": "スルピリド錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6364,
-    "other_brand": "スルピリド錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6368,
-    "other_brand": "スルピリド錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6369,
-    "other_brand": "スルピリド錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6370,
-    "other_brand": "スルピリド錠50mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6431,
-    "other_brand": "セディール錠5mg",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6597,
-    "other_brand": "セプトカイン配合注カートリッジ",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6602,
-    "other_brand": "セムブリックス錠20mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こす又は悪化させるおそれがあるため、患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6954,
-    "other_brand": "ゾニサミドOD錠25mgTRE「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6955,
-    "other_brand": "ゾニサミドOD錠25mgTRE「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6956,
-    "other_brand": "ゾニサミドOD錠25mgTRE「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6957,
-    "other_brand": "ゾニサミドOD錠25mgTRE「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6958,
-    "other_brand": "ゾニサミドOD錠25mgTRE「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6959,
-    "other_brand": "ゾニサミドOD錠25mgTRE「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6960,
-    "other_brand": "ゾニサミドOD錠25mgTRE「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6961,
-    "other_brand": "ゾニサミドOD錠25mgTRE「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6962,
-    "other_brand": "ゾニサミドOD錠25mgTRE「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6963,
-    "other_brand": "ゾニサミドOD錠25mgTRE「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6964,
-    "other_brand": "ゾニサミドOD錠25mgTRE「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6965,
-    "other_brand": "ゾニサミドOD錠25mgTRE「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6966,
-    "other_brand": "ゾニサミドOD錠25mgTRE「KO」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6967,
-    "other_brand": "ゾニサミドOD錠25mgTRE「SMPP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6968,
-    "other_brand": "ゾニサミドOD錠25mgTRE「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7156,
-    "other_brand": "タシグナカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こす又は悪化させるおそれがあるため、観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7231,
-    "other_brand": "タナドーパ顆粒75%",
-    "interaction_type": "caution",
-    "source_text": "本剤の腎動脈血流量増加等の作用が減弱することがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7320,
-    "other_brand": "タンドスピロンクエン酸塩錠5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7321,
-    "other_brand": "タンドスピロンクエン酸塩錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7322,
-    "other_brand": "タンドスピロンクエン酸塩錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "錐体外路症状を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7503,
-    "other_brand": "チアプリド錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7505,
-    "other_brand": "チアプリド錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7506,
-    "other_brand": "チアプリド錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7507,
-    "other_brand": "チアプリド錠25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。併用する場合には、これらの薬剤を減量するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8318,
-    "other_brand": "デムサーカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "錐体外路障害を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8412,
-    "other_brand": "デルティバ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "リスクとベネフィットを考慮して本剤投与の適応を慎重に判断すること。QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8797,
-    "other_brand": "トリセノックス点滴静注12mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8877,
-    "other_brand": "トレリーフOD錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8960,
-    "other_brand": "ドグマチール筋注100mg",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8961,
-    "other_brand": "ドグマチール筋注50mg",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8962,
-    "other_brand": "ドグマチール細粒10％",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8964,
-    "other_brand": "ドグマチール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8959,
-    "other_brand": "ドグマチールカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9094,
-    "other_brand": "ドパコール配合錠L50",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9097,
-    "other_brand": "ドパストンカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9099,
-    "other_brand": "ドパストン静注25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9101,
-    "other_brand": "ドパゾール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9161,
-    "other_brand": "ドンペリドン坐剤10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9162,
-    "other_brand": "ドンペリドン坐剤10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9163,
-    "other_brand": "ドンペリドン坐剤10mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9167,
-    "other_brand": "ドンペリドン錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9168,
-    "other_brand": "ドンペリドン錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9169,
-    "other_brand": "ドンペリドン錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9170,
-    "other_brand": "ドンペリドン錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9171,
-    "other_brand": "ドンペリドン錠5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9172,
-    "other_brand": "ドンペリドン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9173,
-    "other_brand": "ドンペリドン錠5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9174,
-    "other_brand": "ドンペリドン錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9175,
-    "other_brand": "ドンペリドン錠5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9176,
-    "other_brand": "ドンペリドン錠5mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9187,
-    "other_brand": "ドンペリドンDS小児用1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9190,
-    "other_brand": "ナウゼリンドライシロップ1%",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9191,
-    "other_brand": "ナウゼリン坐剤10",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9194,
-    "other_brand": "ナウゼリン錠5",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9196,
-    "other_brand": "ナウゼリンOD錠5",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能調節異常又は錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9582,
-    "other_brand": "ニロチニブカプセル150mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こす又は悪化させるおそれがあるため、観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9614,
-    "other_brand": "ネオドパストン配合錠L100",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9616,
-    "other_brand": "ネオドパゾール配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
+    "other_id": 12944,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
-  },
-  {
-    "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧降下を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 4181,
-    "other_brand": "キシロカインポンプスプレー8%",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
-  },
-  {
-    "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14784,
-    "other_brand": "リドカインテープ18mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14788,
-    "other_brand": "リドカインポンプスプレー8％「日新」",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14791,
-    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14797,
-    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14809,
-    "other_brand": "リドカイン点滴静注液1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "other_id": 12944,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14810,
-    "other_brand": "リドカイン静注液2％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "other_id": 12945,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4181,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16535,
-    "other_brand": "歯科用キシロカインカートリッジ",
-    "interaction_type": "caution",
-    "source_text": "重篤な血圧降下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがあるので、減量するなど注意すること。"
+    "other_id": 2744,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14809,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14810,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがあるので、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがあるので、減量するなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強することがあるので、減量するなど注意すること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11861,
-    "other_brand": "プリンペランシロップ0.1%",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11862,
-    "other_brand": "プリンペラン注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11863,
-    "other_brand": "プリンペラン細粒2%",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11864,
-    "other_brand": "プリンペラン錠5",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13663,
-    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13664,
-    "other_brand": "メトクロプラミド錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13665,
-    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10316,
-    "other_brand": "パーロデル錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10924,
-    "other_brand": "ファダプス錠10mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣発作のリスクが高まる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11742,
-    "other_brand": "ブロモクリプチン錠2.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11743,
-    "other_brand": "ブロモクリプチン錠2.5mg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11744,
-    "other_brand": "ブロモクリプチン錠2.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11852,
-    "other_brand": "プリマキン錠15mg「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13237,
-    "other_brand": "マドパー配合錠L50",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13662,
-    "other_brand": "メトクロプラミド注10mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13667,
-    "other_brand": "メトクロプラミド錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13668,
-    "other_brand": "メトクロプラミド錠5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13669,
-    "other_brand": "メトクロプラミド錠5mg「NIG」（旧製品：使用期限2027年4月まで）",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13738,
-    "other_brand": "メネシット配合錠100",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13764,
-    "other_brand": "メフィーゴパック",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14524,
-    "other_brand": "ラボナ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14610,
-    "other_brand": "リアメット配合錠",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15064,
-    "other_brand": "リーマス錠100",
-    "interaction_type": "caution",
-    "source_text": "心電図変化、重症の錐体外路症状、持続性のジスキネジア、突発性のSyndrome malin、非可逆性の脳障害を起こすとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15163,
-    "other_brand": "レクサプロ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがあるので、これらの薬剤を減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15170,
-    "other_brand": "レグパラ錠12.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16242,
-    "other_brand": "塩酸メトクロプラミド注射液10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "内分泌機能異常、錐体外路症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16757,
-    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "心電図変化、重症の錐体外路症状、持続性のジスキネジア、突発性のSyndrome malin、非可逆性の脳障害を起こすとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16758,
-    "other_brand": "炭酸リチウム錠100mg「大正」",
-    "interaction_type": "caution",
-    "source_text": "心電図変化、重症の錐体外路症状、持続性のジスキネジア、突発性のSyndrome malin、非可逆性の脳障害を起こすとの報告がある。"
+    "interaction_type": "caution"
   }
 ]

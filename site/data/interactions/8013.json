@@ -1,194 +1,130 @@
 [
   {
-    "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
+    "other_id": 6661,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切りかえるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 5492,
-    "other_brand": "ザイボックス注射液600mg",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5493,
-    "other_brand": "ザイボックス錠600mg",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
+    "other_id": 253,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14829,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14830,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14831,
-    "other_brand": "リネゾリド点滴静注液600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14832,
-    "other_brand": "リネゾリド点滴静注液600mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14834,
-    "other_brand": "リネゾリド錠600mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14835,
-    "other_brand": "リネゾリド錠600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "other_id": 5492,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5493,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "降圧剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   }
 ]

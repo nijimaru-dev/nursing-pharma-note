@@ -1,122 +1,82 @@
 [
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、Torsades de pointesを起こす可能性が高くなる。"
-  },
-  {
-    "other_id": 6155,
-    "other_brand": "ジレニアカプセル0.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11082,
-    "other_brand": "フィンゴリモドカプセル0.5mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 6155,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17260,
-    "other_brand": "酒石酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりQT延長等を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強する可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強する可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強する可能性がある。"
-  },
-  {
-    "other_id": 5818,
-    "other_brand": "シンレスタール錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12089,
-    "other_brand": "プロブコール錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 712,
-    "other_brand": "アベロックス錠400mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 8872,
-    "other_brand": "トレミフェン錠40mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 10052,
-    "other_brand": "バルデナフィル錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "other_id": 5818,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13939,
-    "other_brand": "モキシフロキサシン点眼液0.5%「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10052,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 712,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8872,
+    "interaction_type": "caution"
   }
 ]

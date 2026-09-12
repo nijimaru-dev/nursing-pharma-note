@@ -1,218 +1,146 @@
 [
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1282,
-    "other_brand": "アレビアチン注250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2297,
-    "other_brand": "エスカゾール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "プラジカンテルとの併用により、アルベンダゾール活性代謝物の血中濃度が上昇することが報告されている\n,\n,\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10385,
-    "other_brand": "ヒドロキシクロロキン硫酸塩錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤と類似の構造を有するクロロキンとの併用により、プラジカンテルの生物学的利用率が低下するとの報告がある。このため、本剤との併用においても同様にプラジカンテルの生物学的利用率を低下させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10386,
-    "other_brand": "ヒドロキシクロロキン硫酸塩錠200mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤と類似の構造を有するクロロキンとの併用により、プラジカンテルの生物学的利用率が低下するとの報告がある。このため、本剤との併用においても同様にプラジカンテルの生物学的利用率を低下させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が約100%低下することが報告されている。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2946,
-    "other_brand": "オイラゾンクリーム0.05％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下することが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8236,
-    "other_brand": "デカドロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下することが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8238,
-    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下することが報告されている。"
-  },
-  {
-    "other_id": 8251,
-    "other_brand": "デキサメタゾン軟膏口腔用0.1%「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下することが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15217,
-    "other_brand": "レナデックス錠2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下することが報告されている。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することが報告されている。"
+    "other_id": 8251,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することが報告されている。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
+    "other_id": 5656,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
+    "other_id": 5658,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
+    "other_id": 5660,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。ケトコナゾール（経口剤：国内未発売）との併用により、本剤の血中濃度が上昇することが報告されている。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11749,
-    "other_brand": "プラケニル錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と類似の構造を有するクロロキンとの併用により、プラジカンテルの生物学的利用率が低下するとの報告がある。このため、本剤との併用においても同様にプラジカンテルの生物学的利用率を低下させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12693,
-    "other_brand": "ホストイン静注750mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "プラジカンテルの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   }
 ]

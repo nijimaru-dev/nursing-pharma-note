@@ -1,140 +1,94 @@
 [
   {
-    "other_id": 4294,
-    "other_brand": "クエストラン粉末44.4%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがあるので、可能な限り間隔をあけて投与すること。"
+    "other_id": 5264,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5264,
-    "other_brand": "コレバイン錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがあるので、可能な限り間隔をあけて投与すること。"
+    "other_id": 4294,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17285,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17290,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17292,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 4607,
-    "other_brand": "クロフィブラートカプセル250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 8709,
-    "other_brand": "トライコア錠53.3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 12273,
-    "other_brand": "ベザフィブラート徐放錠100mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 12278,
-    "other_brand": "ベザフィブラートSR錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 12279,
-    "other_brand": "ベザフィブラートSR錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12280,
-    "other_brand": "ベザフィブラートSR錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8709,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12273,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12279,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14931,
-    "other_brand": "リピディル錠53.3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12278,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4607,
+    "interaction_type": "caution"
   }
 ]

@@ -1,272 +1,182 @@
 [
   {
     "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "他のMAO-B阻害薬との併用により、高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、さらに死亡例も報告されている。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、左記薬剤の投与を中止してから本剤の投与を開始するまでに、2〜3日間の間隔を置くこと。"
-  },
-  {
-    "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、MAO阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また、本剤からMAO阻害剤に切り替えるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 1444,
-    "other_brand": "アーテン錠（2mg）",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 8806,
-    "other_brand": "トリヘキシフェニジル塩酸塩散1％「CH」",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 8807,
-    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 8808,
-    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 8809,
-    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 8810,
-    "other_brand": "トリヘキシフェニジル塩酸塩錠2mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "口渇、排尿困難・乏尿、眼内圧亢進、視調節障害、便秘、鼻閉等があらわれることがある。"
-  },
-  {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "心血管作用（高血圧等）を増強することがある。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "心血管作用（高血圧等）を増強することがある。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "心血管作用（高血圧等）を増強することがある。"
-  },
-  {
-    "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "心血管作用（高血圧等）を増強することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "other_id": 2269,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "other_id": 1444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8806,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8807,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8808,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8809,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8810,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されることがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されることがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5492,
-    "other_brand": "ザイボックス注射液600mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5493,
-    "other_brand": "ザイボックス錠600mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14829,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14830,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14831,
-    "other_brand": "リネゾリド点滴静注液600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14832,
-    "other_brand": "リネゾリド点滴静注液600mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14834,
-    "other_brand": "リネゾリド錠600mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14835,
-    "other_brand": "リネゾリド錠600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5492,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5493,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、更に三環系抗うつ剤との併用下において死亡例も報告されている。本剤の投与を中止してから三環系抗うつ剤及び四環系抗うつ剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、三環系抗うつ剤及び四環系抗うつ剤の投与を中止してから本剤の投与を開始するまでに、少なくとも2～3日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、更に三環系抗うつ剤との併用下において死亡例も報告されている。本剤の投与を中止してから三環系抗うつ剤及び四環系抗うつ剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、三環系抗うつ剤及び四環系抗うつ剤の投与を中止してから本剤の投与を開始するまでに、少なくとも2～3日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7427,
-    "other_brand": "ダットスキャン静注",
-    "interaction_type": "caution",
-    "source_text": "線条体における本剤の集積低下の原因となる可能性がある。画像を評価する際に留意すること。"
+    "interaction_type": "caution"
   }
 ]

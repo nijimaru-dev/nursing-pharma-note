@@ -1,26 +1,18 @@
 [
   {
-    "other_id": 5309,
-    "other_brand": "ゴナトロピン注用5000単位",
-    "interaction_type": "caution",
-    "source_text": "卵巣過剰刺激症候群があらわれることがある。"
-  },
-  {
-    "other_id": 5310,
-    "other_brand": "ゴナトロピン筋注用1000単位",
-    "interaction_type": "caution",
-    "source_text": "卵巣過剰刺激症候群があらわれることがある。"
-  },
-  {
     "other_id": 16624,
-    "other_brand": "注射用HCG　3,000単位「F」",
-    "interaction_type": "caution",
-    "source_text": "卵巣過剰刺激症候群があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17621,
-    "other_brand": "HCGモチダ筋注用3千単位",
-    "interaction_type": "caution",
-    "source_text": "卵巣過剰刺激症候群があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5309,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5310,
+    "interaction_type": "caution"
   }
 ]

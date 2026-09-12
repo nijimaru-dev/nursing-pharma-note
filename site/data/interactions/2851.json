@@ -1,104 +1,70 @@
 [
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。高度の低カルシウム血症があらわれた場合には投与を中止し、注射用カルシウム剤の投与等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。高度の低カルシウム血症があらわれた場合には投与を中止し、注射用カルシウム剤の投与等適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。高度の低カルシウム血症があらわれた場合には投与を中止し、注射用カルシウム剤の投与等適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10164,
-    "other_brand": "パミドロン酸二Na点滴静注用15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。高度の低カルシウム血症があらわれた場合には投与を中止し、注射用カルシウム剤の投与等適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。高度の低カルシウム血症があらわれた場合には投与を中止し、注射用カルシウム剤の投与等適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6999,
-    "other_brand": "ゾメタ点滴静注4mg/100mL",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7000,
-    "other_brand": "ゾメタ点滴静注4mg/5mL",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7077,
-    "other_brand": "ゾレドロン酸点滴静注4mg/100mLバッグ「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7079,
-    "other_brand": "ゾレドロン酸点滴静注4mg/100mLバッグ「日医工P」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7080,
-    "other_brand": "ゾレドロン酸点滴静注4mg/100mLバッグ「KCC」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7081,
-    "other_brand": "ゾレドロン酸点滴静注4mg/100mLバッグ「NK」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7082,
-    "other_brand": "ゾレドロン酸点滴静注4mg/5mL「サンド」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7078,
-    "other_brand": "ゾレドロン酸点滴静注4mg／5mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7084,
-    "other_brand": "ゾレドロン酸点滴静注4mg/5mL「F」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7085,
-    "other_brand": "ゾレドロン酸点滴静注4mg/5mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7086,
-    "other_brand": "ゾレドロン酸点滴静注4mg/5mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14629,
-    "other_brand": "リクラスト点滴静注液5mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウムが急速に低下するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

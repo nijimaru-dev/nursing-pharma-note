@@ -1,182 +1,122 @@
 [
   {
-    "other_id": 430,
-    "other_brand": "アダラートCR錠10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 9512,
-    "other_brand": "ニフェジピンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 9514,
-    "other_brand": "ニフェジピンカプセル5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 9517,
-    "other_brand": "ニフェジピンCR錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 9522,
-    "other_brand": "ニフェジピンCR錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 9535,
-    "other_brand": "ニフェジピンL錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9539,
-    "other_brand": "ニフェジピンL錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9540,
-    "other_brand": "ニフェジピンL錠10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9541,
-    "other_brand": "ニフェジピンL錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
+    "other_id": 1655,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
+    "other_id": 5448,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇する可能性があるため、併用の開始、用量の変更並びに中止時には、患者の状態を十分に観察するなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9639,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9512,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9514,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9517,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9522,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9535,
+    "interaction_type": "caution"
   }
 ]

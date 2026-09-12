@@ -1,224 +1,150 @@
 [
   {
     "other_id": 4477,
-    "other_brand": "クリアクター静注用40万",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強し、重篤な出血をきたすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8304,
-    "other_brand": "デファイテリオ静注200mg",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増大するおそれがあるので、血液凝固能（出血時間、プロトロンビン時間、APTT等）等の検査、臨床症状の観察を頻回に行うこと。異常が認められた場合には本剤の投与中断も検討すること（ただし、中心静脈ラインの維持又は再開のための抗凝固療法を除く）。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9336,
-    "other_brand": "ナファモスタットメシル酸塩注射用10mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "活性化プロテインCの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9337,
-    "other_brand": "ナファモスタットメシル酸塩注射用10mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "活性化プロテインCの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9338,
-    "other_brand": "ナファモスタットメシル酸塩注射用10mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "活性化プロテインCの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9346,
-    "other_brand": "ナファモスタットメシル酸塩注用10mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "活性化プロテインCの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9348,
-    "other_brand": "ナファモスタット注射用10mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "活性化プロテインCの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 7463,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
-  },
-  {
-    "other_id": 7464,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
-  },
-  {
-    "other_id": 7465,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「AFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11336,
-    "other_brand": "フラグミン静注5000単位/5mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
-  },
-  {
-    "other_id": 12133,
-    "other_brand": "ヘパフィルド透析用150単位/mLシリンジ20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
-  },
-  {
-    "other_id": 12136,
-    "other_brand": "ヘパフラッシュ10単位/mLシリンジ5mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
-  },
-  {
-    "other_id": 12142,
-    "other_brand": "ヘパリンカルシウム皮下注5千単位/0.2mLシリンジ「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12182,
-    "other_brand": "ヘパリンCa注射液2万単位/20mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12185,
-    "other_brand": "ヘパリンCa皮下注1万単位/0.4mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12186,
-    "other_brand": "ヘパリンCa皮下注2万単位/0.8mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12187,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ「オーツカ」5mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12190,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ5mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12133,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12199,
-    "other_brand": "ヘパリンNa注5千単位/5mL「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12136,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7464,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12202,
-    "other_brand": "ヘパリンNa透析用150単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12203,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「フソー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12204,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7465,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12142,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7463,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12208,
-    "other_brand": "ヘパリンNa透析用250単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12209,
-    "other_brand": "ヘパリンNa透析用250単位/mL「NS」20mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12210,
-    "other_brand": "ヘパリンNa透析用250単位/mLシリンジ12mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強することがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16593,
-    "other_brand": "注射用フサン10",
-    "interaction_type": "caution",
-    "source_text": "活性化プロテインCの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

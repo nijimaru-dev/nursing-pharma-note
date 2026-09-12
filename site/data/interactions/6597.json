@@ -1,74 +1,50 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血管収縮、血圧上昇、徐脈を起こすことがある。"
-  },
-  {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血管収縮、血圧上昇、徐脈を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血管収縮、血圧上昇、徐脈を起こすことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血管収縮、血圧上昇、徐脈を起こすことがある。"
-  },
-  {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
-  },
-  {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution"
   },
   {
     "other_id": 494,
-    "other_brand": "アトニン−O注1単位",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3023,
-    "other_brand": "オキシトシン注射液5単位「F」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
+    "interaction_type": "caution"
   }
 ]

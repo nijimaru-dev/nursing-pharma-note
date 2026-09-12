@@ -1,386 +1,258 @@
 [
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の退薬症候を起こすおそれがある。また、ナルメフェン塩酸塩水和物により本剤の鎮痛作用を減弱させるため、効果を得るために必要な用量が通常用量より多くなるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の退薬症候を起こすおそれがある。また、ナルメフェン塩酸塩水和物により本剤の鎮痛作用を減弱させるため、効果を得るために必要な用量が通常用量より多くなるおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に使用すること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に使用すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に使用すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に使用すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に使用すること。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "other_id": 9672,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "other_id": 2744,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "other_id": 9737,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "フェンタニルのAUCの増加、血中半減期の延長が認められたとの報告がある。呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に使用すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   }
 ]

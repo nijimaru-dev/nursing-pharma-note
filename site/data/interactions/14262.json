@@ -1,50 +1,34 @@
 [
   {
     "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "血清カリウム値が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3022,
-    "other_brand": "オキシテトラコーン歯科用挿入剤5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "血清カリウム値が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9653,
-    "other_brand": "ネキソブリッド外用ゲル5g",
-    "interaction_type": "caution",
-    "source_text": "本剤の壊死組織除去作用が減弱するとの報告があるため、本剤塗布前にこれらを使用した場合は、これらを除去してから本剤を塗布すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13409,
-    "other_brand": "ミネブロ錠1.25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "血清カリウム値が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13409,
-    "other_brand": "ミネブロ錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+    "interaction_type": "caution"
   }
 ]

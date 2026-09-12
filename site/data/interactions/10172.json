@@ -1,278 +1,186 @@
 [
   {
     "other_id": 1699,
-    "other_brand": "イブトロジーカプセル200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6056,
-    "other_brand": "ジャルカ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "リルピビリンの血中濃度が低下し、本剤の効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2290,
-    "other_brand": "エジュラント錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リルピビリン塩酸塩の作用を減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14619,
-    "other_brand": "リカムビス水懸筋注600mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リルピビリン塩酸塩の作用を減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "リルピビリン塩酸塩の作用を減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "リルピビリン塩酸塩の作用を減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "other_id": 5946,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "other_id": 5947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5062,
-    "other_brand": "ゲフィチニブ錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5063,
-    "other_brand": "ゲフィチニブ錠250mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5064,
-    "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5065,
-    "other_brand": "ゲフィチニブ錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
-  },
-  {
-    "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
-  },
-  {
-    "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
-  },
-  {
-    "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17285,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17290,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17292,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤単独投与に比べ制酸剤同時服用、制酸剤投与1時間後服用で平均血漿中濃度曲線下面積がそれぞれ8%、6%低下したとの報告がある。"
-  },
-  {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
-  },
-  {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
-  },
-  {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
-  },
-  {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇することがある。高用量のメトトレキサートを投与する場合は、一時的に本剤の投与を中止することを考慮すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13626,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13627,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13630,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13654,
-    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   }
 ]

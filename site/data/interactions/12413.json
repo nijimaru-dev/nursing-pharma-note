@@ -1,158 +1,106 @@
 [
   {
     "other_id": 497,
-    "other_brand": "アトモキセチンカプセル5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 498,
-    "other_brand": "アトモキセチンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 499,
-    "other_brand": "アトモキセチンカプセル5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 500,
-    "other_brand": "アトモキセチンカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 513,
-    "other_brand": "アトモキセチン内用液0.4%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 514,
-    "other_brand": "アトモキセチン内用液0.4％「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 515,
-    "other_brand": "アトモキセチン内用液0.4％「JG」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 516,
-    "other_brand": "アトモキセチン錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 517,
-    "other_brand": "アトモキセチン錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 518,
-    "other_brand": "アトモキセチン錠5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 519,
-    "other_brand": "アトモキセチン錠5mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 520,
-    "other_brand": "アトモキセチン錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6282,
-    "other_brand": "ストラテラカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6286,
-    "other_brand": "ストラテラ内用液0.4%",
-    "interaction_type": "caution",
-    "source_text": "心拍数、血圧が上昇したとの報告があるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6820,
-    "other_brand": "ソタコール錠40mg",
-    "interaction_type": "caution",
-    "source_text": "β\n2\n受容体刺激薬の作用が減弱することがあるので、併用に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6822,
-    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "β\n2\n受容体刺激薬の作用が減弱することがあるので、併用に注意する。"
-  },
-  {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   }
 ]

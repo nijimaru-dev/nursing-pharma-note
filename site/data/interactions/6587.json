@@ -1,50 +1,34 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "飲酒により、ジスルフィラム様作用（顔面潮紅、心悸亢進、めまい、頭痛、嘔気等）があらわれることがある。投与期間中及び投与後少なくとも1週間は飲酒を避けさせること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "飲酒により、ジスルフィラム様作用（顔面潮紅、心悸亢進、めまい、頭痛、嘔気等）があらわれることがある。投与期間中及び投与後少なくとも1週間は飲酒を避けさせること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "飲酒により、ジスルフィラム様作用（顔面潮紅、心悸亢進、めまい、頭痛、嘔気等）があらわれることがある。投与期間中及び投与後少なくとも1週間は飲酒を避けさせること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "飲酒により、ジスルフィラム様作用（顔面潮紅、心悸亢進、めまい、頭痛、嘔気等）があらわれることがある。投与期間中及び投与後少なくとも1週間は飲酒を避けさせること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "飲酒により、ジスルフィラム様作用（顔面潮紅、心悸亢進、めまい、頭痛、嘔気等）があらわれることがある。投与期間中及び投与後少なくとも1週間は飲酒を避けさせること。"
+    "other_id": 16688,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "飲酒により、ジスルフィラム様作用（顔面潮紅、心悸亢進、めまい、頭痛、嘔気等）があらわれることがある。投与期間中及び投与後少なくとも1週間は飲酒を避けさせること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "飲酒により、ジスルフィラム様作用（顔面潮紅、心悸亢進、めまい、頭痛、嘔気等）があらわれることがある。投与期間中及び投与後少なくとも1週間は飲酒を避けさせること。"
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が増強されるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

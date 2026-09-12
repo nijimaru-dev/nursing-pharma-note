@@ -1,92 +1,62 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "other_id": 15459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 6543,
-    "other_brand": "セフジニルカプセル50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 6544,
-    "other_brand": "セフジニルカプセル50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 6548,
-    "other_brand": "セフジニル細粒小児用10%「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 6549,
-    "other_brand": "セフジニル細粒小児用10％「SW」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 6550,
-    "other_brand": "セフジニル錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 7408,
-    "other_brand": "ダイドロネル錠200",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6543,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7408,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6544,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6548,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6549,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   }
 ]

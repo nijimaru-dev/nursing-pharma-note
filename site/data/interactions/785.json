@@ -1,284 +1,190 @@
 [
   {
-    "other_id": 712,
-    "other_brand": "アベロックス錠400mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 8872,
-    "other_brand": "トレミフェン錠40mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10052,
-    "other_brand": "バルデナフィル錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 712,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8872,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13939,
-    "other_brand": "モキシフロキサシン点眼液0.5%「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 6296,
-    "other_brand": "スニチニブ錠12.5mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 6380,
-    "other_brand": "スーテントカプセル12.5mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
-  },
-  {
-    "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
-  },
-  {
-    "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "other_id": 4339,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 767,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 6296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6380,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 769,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 770,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1371,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 453,
-    "other_brand": "アテノロール錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 454,
-    "other_brand": "アテノロール錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 456,
-    "other_brand": "アテノロール錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 458,
-    "other_brand": "アテノロール錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 1440,
-    "other_brand": "アーチスト錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "other_id": 767,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3845,
-    "other_brand": "カルベジロール錠1.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3846,
-    "other_brand": "カルベジロール錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 454,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3849,
-    "other_brand": "カルベジロール錠1.25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 456,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3851,
-    "other_brand": "カルベジロール錠1.25mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 458,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3855,
-    "other_brand": "カルベジロール錠1.25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8022,
-    "other_brand": "テノーミン錠50",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 10534,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 10538,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 10539,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 10540,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
-  },
-  {
-    "other_id": 10543,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "other_id": 1440,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "other_id": 10534,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10538,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10539,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10540,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10543,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の抗不整脈作用等の心血管作用を増強させるおそれがある。本剤の用量を調節する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "サルファ剤の抗菌力を減弱させる。"
+    "interaction_type": "caution"
   }
 ]

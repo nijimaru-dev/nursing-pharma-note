@@ -1,80 +1,54 @@
 [
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（不整脈等）の症状があらわれた場合には、投与を中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（不整脈等）の症状があらわれた場合には、投与を中止すること。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（不整脈等）の症状があらわれた場合には、投与を中止すること。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（不整脈等）の症状があらわれた場合には、投与を中止すること。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（不整脈等）の症状があらわれた場合には、投与を中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（不整脈等）の症状があらわれた場合には、投与を中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用を減弱させるおそれがある。"
-  },
-  {
-    "other_id": 9097,
-    "other_brand": "ドパストンカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用を減弱させるおそれがある。"
-  },
-  {
-    "other_id": 9099,
-    "other_brand": "ドパストン静注25mg",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用を減弱させるおそれがある。"
-  },
-  {
-    "other_id": 9101,
-    "other_brand": "ドパゾール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用を減弱させるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用を減弱させるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9097,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9099,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9101,
+    "interaction_type": "caution"
   }
 ]

@@ -1,380 +1,254 @@
 [
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤と制酸剤の併用により、本剤のC\nmax\n及びAUCがそれぞれ70%及び66%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2290,
-    "other_brand": "エジュラント錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。これらの薬剤は、本剤投与の2時間以上前又は4時間以上後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3113,
-    "other_brand": "オゼックス細粒小児用15%",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3115,
-    "other_brand": "オゼックス錠75",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3122,
-    "other_brand": "オデフシィ配合錠",
-    "interaction_type": "caution",
-    "source_text": "リルピビリンの血中濃度が低下し、本剤の効果が減弱するおそれがある。これらの薬剤は、本剤投与の2時間以上前又は4時間以上後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3746,
-    "other_brand": "カリエード散",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3751,
-    "other_brand": "カリメートドライシロップ92.59%",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3752,
-    "other_brand": "カリメート散",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3753,
-    "other_brand": "カリメート経口液20%",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4949,
-    "other_brand": "グレースビット錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与後2時間以上あけて投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5268,
-    "other_brand": "コロネル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5620,
-    "other_brand": "シタフロキサシン錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。これらの薬剤は本剤投与後2時間以上あけて投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6056,
-    "other_brand": "ジャルカ配合錠",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビル及びリルピビリンの血中濃度が低下し、本剤の効果が減弱するおそれがある。本剤は制酸剤、多価カチオン含有製剤投与の4時間以上前又は6時間以上後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8475,
-    "other_brand": "トスフロキサシントシル酸塩小児用細粒15%「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8476,
-    "other_brand": "トスフロキサシントシル酸塩細粒小児用15％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8477,
-    "other_brand": "トスフロキサシントシル酸塩細粒小児用15%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8478,
-    "other_brand": "トスフロキサシントシル酸塩細粒小児用15％「TCK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8479,
-    "other_brand": "トスフロキサシントシル酸塩錠75mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8480,
-    "other_brand": "トスフロキサシントシル酸塩錠75mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱されるおそれがある。同時投与を避けるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12908,
-    "other_brand": "ボカブリア錠30mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が低下し、本剤の効果が減弱するおそれがある。多価カチオン含有制酸剤は、本剤の投与2時間以上前又は4時間以上後の経口投与が推奨される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13124,
-    "other_brand": "ポリカルボフィルCa細粒83.3%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13125,
-    "other_brand": "ポリスチレンスルホン酸Ca「フソー」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13126,
-    "other_brand": "ポリスチレンスルホン酸Ca散96.7％分包5.17g〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13127,
-    "other_brand": "ポリスチレンスルホン酸Ca経口ゼリー20%分包25g「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13128,
-    "other_brand": "ポリスチレンスルホン酸Ca顆粒89.29%分包5.6g「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13133,
-    "other_brand": "ポリフル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど注意すること。"
-  },
-  {
-    "other_id": 7554,
-    "other_brand": "チトラミン液「フソー」−4%",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17249,
-    "other_brand": "輸血用チトラミン「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7554,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4963,
-    "other_brand": "ケイキサレートドライシロップ 76%",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム抑制イオン交換樹脂の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4964,
-    "other_brand": "ケイキサレート散",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム抑制イオン交換樹脂の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13129,
-    "other_brand": "ポリスチレンスルホン酸Na「フソー」原末",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム抑制イオン交換樹脂の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 1562,
-    "other_brand": "イスコチン原末",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 1563,
-    "other_brand": "イスコチン注100mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
-  },
-  {
-    "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1562,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1563,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14423,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害するおそれがある。この作用は薬剤の服用時間をずらすことにより、弱まるとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5942,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5943,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10119,
-    "other_brand": "パオスクレー内痔核内注射用250mg",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11154,
-    "other_brand": "フェノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11155,
-    "other_brand": "フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11156,
-    "other_brand": "フェノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16703,
-    "other_brand": "液状フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2208,
-    "other_brand": "ウルソデオキシコール酸錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2212,
-    "other_brand": "ウルソデオキシコール酸錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
+    "interaction_type": "caution"
   }
 ]

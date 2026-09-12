@@ -1,104 +1,70 @@
 [
   {
     "other_id": 143,
-    "other_brand": "アコファイド錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤及び併用薬共に作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 411,
-    "other_brand": "アタラックス−Pシロップ0.5％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 409,
-    "other_brand": "アタラックス−Pカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 413,
-    "other_brand": "アタラックス−P散10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 414,
-    "other_brand": "アタラックス−P注射液(25mg/ml)",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 416,
-    "other_brand": "アタラックス錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2195,
-    "other_brand": "ウブレチド錠5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5060,
-    "other_brand": "ケンブラン吸入粉末溶解用100㎎",
-    "interaction_type": "caution",
-    "source_text": "本剤のコリン作動性作用に基づく副作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5951,
-    "other_brand": "ジスチグミン臭化物錠5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6181,
-    "other_brand": "スキサメトニウム注40「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10387,
-    "other_brand": "ヒドロキシジンパモ酸塩錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12098,
-    "other_brand": "プロボコリン吸入粉末溶解用100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤のコリン作動性作用に基づく副作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13160,
-    "other_brand": "マイテラーゼ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "コリン作用が増強する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15516,
-    "other_brand": "レラキシン注用200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15516,
-    "other_brand": "レラキシン注用200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "脱分極性筋弛緩剤の作用を増強する。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 585,
-    "other_brand": "アトロピン注0.05%シリンジ「テルモ」",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤はコリン作動性クリーゼの初期症状を不顕性化し、本剤の過剰投与を招くおそれがあるので、副交感神経抑制剤の常用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 586,
-    "other_brand": "アトロピン硫酸塩水和物「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤はコリン作動性クリーゼの初期症状を不顕性化し、本剤の過剰投与を招くおそれがあるので、副交感神経抑制剤の常用は避けること。"
+    "interaction_type": "caution"
   }
 ]

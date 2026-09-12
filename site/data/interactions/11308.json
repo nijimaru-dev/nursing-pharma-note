@@ -1,194 +1,130 @@
 [
   {
     "other_id": 55,
-    "other_brand": "アイソボリン点滴静注用25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 153,
-    "other_brand": "アザルフィジンEN錠250mg",
-    "interaction_type": "caution",
-    "source_text": "葉酸の吸収が低下し、大赤血球症、汎血球減少を来す葉酸欠乏症を起こすおそれがあるので、葉酸欠乏症が疑われる場合は、葉酸を補給すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5381,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "葉酸の吸収が低下し、大赤血球症、汎血球減少を来す葉酸欠乏症を起こすおそれがあるので、葉酸欠乏症が疑われる場合は、葉酸を補給すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5382,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
-    "interaction_type": "caution",
-    "source_text": "葉酸の吸収が低下し、大赤血球症、汎血球減少を来す葉酸欠乏症を起こすおそれがあるので、葉酸欠乏症が疑われる場合は、葉酸を補給すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5383,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "葉酸の吸収が低下し、大赤血球症、汎血球減少を来す葉酸欠乏症を起こすおそれがあるので、葉酸欠乏症が疑われる場合は、葉酸を補給すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5387,
-    "other_brand": "サラゾピリン坐剤500mg",
-    "interaction_type": "caution",
-    "source_text": "葉酸の吸収が低下し、大赤血球症、汎血球減少を来す葉酸欠乏症を起こすおそれがあるので、葉酸欠乏症が疑われる場合は、葉酸を補給すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5388,
-    "other_brand": "サラゾピリン錠500mg",
-    "interaction_type": "caution",
-    "source_text": "葉酸の吸収が低下し、大赤血球症、汎血球減少を来す葉酸欠乏症を起こすおそれがあるので、葉酸欠乏症が疑われる場合は、葉酸を補給すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6456,
-    "other_brand": "セピエンス顆粒分包250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱する可能性があるため、血中フェニルアラニン濃度を確認し、必要に応じて食事からのタンパク摂取量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7411,
-    "other_brand": "ダイフェン配合錠",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強し、汎血球減少等があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強し、汎血球減少等があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9907,
-    "other_brand": "バクトラミン注",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強し、汎血球減少等があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9908,
-    "other_brand": "バクトラミン配合錠",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用を増強し、汎血球減少等があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12875,
-    "other_brand": "ホリナート錠25mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12876,
-    "other_brand": "ホリナート錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12877,
-    "other_brand": "ホリナート錠25mg「タイホウ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12878,
-    "other_brand": "ホリナート錠25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12879,
-    "other_brand": "ホリナート錠25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12880,
-    "other_brand": "ホリナート錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12881,
-    "other_brand": "ホリナート錠25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12882,
-    "other_brand": "ホリナート錠25mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14239,
-    "other_brand": "ユーゼル錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15482,
-    "other_brand": "レボホリナート点滴静注用25「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15483,
-    "other_brand": "レボホリナート点滴静注用25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15484,
-    "other_brand": "レボホリナート点滴静注用25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15485,
-    "other_brand": "レボホリナート点滴静注用25mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15486,
-    "other_brand": "レボホリナート点滴静注用25mg「HK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15487,
-    "other_brand": "レボホリナート点滴静注用25mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15488,
-    "other_brand": "レボホリナート点滴静注用25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15530,
-    "other_brand": "ロイコボリン注3mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15531,
-    "other_brand": "ロイコボリン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15532,
-    "other_brand": "ロイコボリン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15937,
-    "other_brand": "ロンサーフ配合錠T15",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

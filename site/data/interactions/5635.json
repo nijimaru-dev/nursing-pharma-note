@@ -1,860 +1,574 @@
 [
   {
-    "other_id": 5015,
-    "other_brand": "ケトプロフェンテープ20mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
-  },
-  {
-    "other_id": 5016,
-    "other_brand": "ケトプロフェンテープ20mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
-  },
-  {
-    "other_id": 5037,
-    "other_brand": "ケトプロフェンパップ30mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
-  },
-  {
-    "other_id": 5039,
-    "other_brand": "ケトプロフェン坐剤50mg「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
-  },
-  {
     "other_id": 5040,
-    "other_brand": "ケトプロフェン坐剤50mg「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5043,
-    "other_brand": "ケトプロフェン筋注50mg「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 7545,
-    "other_brand": "チザニジン錠1mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "チザニジンのCmaxが7倍、AUCが10倍それぞれ上昇し、血圧低下、傾眠、めまい等があらわれたとの報告がある。チザニジンの作用を増強させるおそれがあるので、併用しないこと。"
+    "other_id": 5015,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 7549,
-    "other_brand": "チザニジン錠1mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "チザニジンのCmaxが7倍、AUCが10倍それぞれ上昇し、血圧低下、傾眠、めまい等があらわれたとの報告がある。チザニジンの作用を増強させるおそれがあるので、併用しないこと。"
+    "other_id": 5016,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 7550,
-    "other_brand": "チザニジン錠1mg「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "チザニジンのCmaxが7倍、AUCが10倍それぞれ上昇し、血圧低下、傾眠、めまい等があらわれたとの報告がある。チザニジンの作用を増強させるおそれがあるので、併用しないこと。"
+    "other_id": 5037,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5039,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8096,
-    "other_brand": "テルネリン錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "チザニジンのCmaxが7倍、AUCが10倍それぞれ上昇し、血圧低下、傾眠、めまい等があらわれたとの報告がある。チザニジンの作用を増強させるおそれがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "チザニジンのCmaxが7倍、AUCが10倍それぞれ上昇し、血圧低下、傾眠、めまい等があらわれたとの報告がある。チザニジンの作用を増強させるおそれがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "チザニジンのCmaxが7倍、AUCが10倍それぞれ上昇し、血圧低下、傾眠、めまい等があらわれたとの報告がある。チザニジンの作用を増強させるおそれがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7545,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7549,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7550,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6042,
-    "other_brand": "ジャクスタピッドカプセル5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ロミタピドの血中濃度が著しく上昇するおそれがある。"
-  },
-  {
-    "other_id": 693,
-    "other_brand": "アプニション静注15mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 794,
-    "other_brand": "アミノフィリン注250mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 795,
-    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 796,
-    "other_brand": "アミノフィリン静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 798,
-    "other_brand": "アミノフィリン静注250mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "other_id": 794,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9628,
-    "other_brand": "ネオフィリン原末",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9629,
-    "other_brand": "ネオフィリン注点滴用バッグ250mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "other_id": 7965,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7966,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9630,
-    "other_brand": "ネオフィリン注250mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9632,
-    "other_brand": "ネオフィリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンのCmaxが17%、AUCが22%それぞれ上昇したとの報告がある\n。テオフィリンの作用を増強させる可能性があるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5341,
-    "other_brand": "サインバルタカプセル20mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
+    "other_id": 795,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 796,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7971,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9629,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 798,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 693,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8365,
-    "other_brand": "デュロキセチンカプセル20mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 8368,
-    "other_brand": "デュロキセチンカプセル20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 8369,
-    "other_brand": "デュロキセチンカプセル20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 8376,
-    "other_brand": "デュロキセチンカプセル20mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 8377,
-    "other_brand": "デュロキセチンカプセル20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 8380,
-    "other_brand": "デュロキセチンカプセル20mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 8368,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5015,
-    "other_brand": "ケトプロフェンテープ20mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 8369,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5016,
-    "other_brand": "ケトプロフェンテープ20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 8376,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5037,
-    "other_brand": "ケトプロフェンパップ30mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 8377,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5039,
-    "other_brand": "ケトプロフェン坐剤50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 8380,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5040,
-    "other_brand": "ケトプロフェン坐剤50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5043,
-    "other_brand": "ケトプロフェン筋注50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5529,
-    "other_brand": "ザルトプロフェン錠80mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5530,
-    "other_brand": "ザルトプロフェン錠80mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6668,
-    "other_brand": "セレコキシブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6670,
-    "other_brand": "セレコキシブ錠100mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6675,
-    "other_brand": "セレコキシブ錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6676,
-    "other_brand": "セレコキシブ錠100mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6677,
-    "other_brand": "セレコキシブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6678,
-    "other_brand": "セレコキシブ錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6683,
-    "other_brand": "セレコキシブ錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6935,
-    "other_brand": "ソレトン錠80",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9549,
-    "other_brand": "ニフラン点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 5341,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11768,
-    "other_brand": "プラノプロフェン点眼液0.1％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 6668,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12537,
-    "other_brand": "ペオン錠80",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "other_id": 9549,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6675,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6676,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6677,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5016,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5529,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5530,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6935,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5037,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5039,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5040,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5043,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "相互に副作用（腎障害等）が増強されるおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+    "other_id": 11768,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "相互に副作用（腎障害等）が増強されるおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に副作用（腎障害等）が増強されるおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+    "other_id": 12537,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "相互に副作用（腎障害等）が増強されるおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "相互に副作用（腎障害等）が増強されるおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "相互に副作用（腎障害等）が増強されるおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 718,
-    "other_brand": "アマリール0.5mg錠",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2944,
-    "other_brand": "オイグルコン錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4832,
-    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4846,
-    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4848,
-    "other_brand": "グリメピリド錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4851,
-    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4852,
-    "other_brand": "グリメピリド錠0.5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4853,
-    "other_brand": "グリメピリド錠0.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4854,
-    "other_brand": "グリメピリド錠0.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4855,
-    "other_brand": "グリメピリド錠0.5mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4856,
-    "other_brand": "グリメピリド錠0.5mg「AA」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4858,
-    "other_brand": "グリメピリド錠0.5mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4859,
-    "other_brand": "グリメピリド錠0.5mg「NC」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4861,
-    "other_brand": "グリメピリド錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
-  },
-  {
-    "other_id": 4863,
-    "other_brand": "グリメピリド錠0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4865,
-    "other_brand": "グリメピリド錠0.5mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5055,
-    "other_brand": "ケラチナミンコーワクリーム20％",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
+    "other_id": 718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4863,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4832,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16428,
-    "other_brand": "尿素「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16430,
-    "other_brand": "尿素クリーム10％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4846,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16432,
-    "other_brand": "尿素クリーム20％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "スルホニル尿素系血糖降下剤の作用を増強し、低血糖があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "other_id": 4848,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "other_id": 4851,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "other_id": 4852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4855,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4859,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4861,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5055,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
-  },
-  {
-    "other_id": 15132,
-    "other_brand": "レキップ錠0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
-  },
-  {
-    "other_id": 15135,
-    "other_brand": "レキップCR錠2mg",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15854,
-    "other_brand": "ロピニロール徐放錠2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15856,
-    "other_brand": "ロピニロール徐放錠2mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15860,
-    "other_brand": "ロピニロール錠0.25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15863,
-    "other_brand": "ロピニロールOD錠0.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "ロピニロールのCmaxが60%、AUCが84%それぞれ上昇したとの報告がある。ロピニロールの投与中に本剤を投与開始又は投与中止する場合には、必要に応じてロピニロールの用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "other_id": 15132,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "other_id": 15135,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの血中濃度が上昇し、作用が増強されるおそれがある。併用する場合には患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3258,
-    "other_brand": "オランザピン細粒1％「アメル」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "other_id": 13626,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3259,
-    "other_brand": "オランザピン錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "other_id": 13627,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3260,
-    "other_brand": "オランザピン細粒1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "other_id": 13628,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3263,
-    "other_brand": "オランザピン細粒1%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "other_id": 13630,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3264,
-    "other_brand": "オランザピン細粒1％「日新」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3265,
-    "other_brand": "オランザピン錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3266,
-    "other_brand": "オランザピン細粒1％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3269,
-    "other_brand": "オランザピン錠1.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3274,
-    "other_brand": "オランザピン錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3276,
-    "other_brand": "オランザピン錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3304,
-    "other_brand": "オランザピンOD錠1.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3306,
-    "other_brand": "オランザピンOD錠2.5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3309,
-    "other_brand": "オランザピンOD錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3311,
-    "other_brand": "オランザピンOD錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3316,
-    "other_brand": "オランザピンOD錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3258,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3259,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3260,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4541,
-    "other_brand": "クロザリル錠25mg",
-    "interaction_type": "caution",
-    "source_text": "経口剤においてクロザピン及びその代謝物の血中濃度が29%と31%それぞれ上昇したとの報告がある。左記薬剤の投与中に本剤を投与開始又は投与中止する場合には、必要に応じて左記薬剤の用量調節をすること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "シルデナフィルのCmax及びAUCがそれぞれ約2倍上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5678,
-    "other_brand": "シルデナフィル錠25mgVI「ANG」",
-    "interaction_type": "caution",
-    "source_text": "シルデナフィルのCmax及びAUCがそれぞれ約2倍上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5683,
-    "other_brand": "シルデナフィル錠25mgVI「SN」",
-    "interaction_type": "caution",
-    "source_text": "シルデナフィルのCmax及びAUCがそれぞれ約2倍上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5684,
-    "other_brand": "シルデナフィル錠50mgVI「あすか」",
-    "interaction_type": "caution",
-    "source_text": "シルデナフィルのCmax及びAUCがそれぞれ約2倍上昇したとの報告がある。"
-  },
-  {
-    "other_id": 9886,
-    "other_brand": "バイアグラ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "シルデナフィルのCmax及びAUCがそれぞれ約2倍上昇したとの報告がある。"
+    "other_id": 3263,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15232,
-    "other_brand": "レバチオ錠20mg",
-    "interaction_type": "caution",
-    "source_text": "シルデナフィルのCmax及びAUCがそれぞれ約2倍上昇したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5683,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5684,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9886,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が低下したとの報告がある。本剤を併用する場合は、フェニトインの血中濃度を測定するなど、観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が低下したとの報告がある。本剤を併用する場合は、フェニトインの血中濃度を測定するなど、観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が低下したとの報告がある。本剤を併用する場合は、フェニトインの血中濃度を測定するなど、観察を十分に行うこと。"
-  },
-  {
-    "other_id": 5299,
-    "other_brand": "コートリル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
-  },
-  {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
-  },
-  {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
-  },
-  {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
-  },
-  {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5299,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
   }
 ]

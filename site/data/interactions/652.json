@@ -1,140 +1,94 @@
 [
   {
-    "other_id": 4181,
-    "other_brand": "キシロカインポンプスプレー8%",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 6599,
-    "other_brand": "セボフルラン吸入麻酔液「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 6600,
-    "other_brand": "セボフルラン吸入麻酔液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 6601,
-    "other_brand": "セボフレン吸入麻酔液",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 8407,
-    "other_brand": "デュロテップMTパッチ2.1mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "other_id": 14784,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12100,
-    "other_brand": "プロポフォール静注1%20mL「FK」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 12106,
-    "other_brand": "プロポフォール1%静注20mL「日医工」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 12107,
-    "other_brand": "プロポフォール1％静注20mL「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 14436,
-    "other_brand": "ラフェンタテープ1.38mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 14784,
-    "other_brand": "リドカインテープ18mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14788,
-    "other_brand": "リドカインポンプスプレー8％「日新」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6599,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6600,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12106,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12107,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14791,
-    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14797,
-    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4181,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8407,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14809,
-    "other_brand": "リドカイン点滴静注液1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14810,
-    "other_brand": "リドカイン静注液2％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15991,
-    "other_brand": "ワンデュロパッチ0.84mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "other_id": 14436,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15991,
+    "interaction_type": "caution"
   }
 ]

@@ -1,482 +1,322 @@
 [
   {
     "other_id": 15184,
-    "other_brand": "レスピア静注・経口液60mg",
-    "interaction_type": "contraindicated",
-    "source_text": "麦角中毒を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17260,
-    "other_brand": "酒石酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "麦角中毒を引き起こすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5793,
-    "other_brand": "シンバスタチン錠10mg「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5795,
-    "other_brand": "シンバスタチン錠5mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5797,
-    "other_brand": "シンバスタチン錠5mg「SW」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5798,
-    "other_brand": "シンバスタチン錠5mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5805,
-    "other_brand": "シンバスタチン錠5mg「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14972,
-    "other_brand": "リポバス錠5",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室頻拍（Torsade de pointesを含む）等の心血管系の重篤な副作用を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12405,
-    "other_brand": "ベネクレクスタ錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "腫瘍崩壊症候群の発現を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12484,
-    "other_brand": "ベルソムラ錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を著しく増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダリドレキサント塩酸塩の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダリドレキサント塩酸塩の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5058,
-    "other_brand": "ケレンディア錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
-  },
-  {
-    "other_id": 383,
-    "other_brand": "アゼルニジピン錠8mg「ケミファ」",
-    "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピンの作用を増強させるおそれがある。"
-  },
-  {
-    "other_id": 386,
-    "other_brand": "アゼルニジピン錠8mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピンの作用を増強させるおそれがある。"
-  },
-  {
-    "other_id": 387,
-    "other_brand": "アゼルニジピン錠8mg「BMD」",
-    "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピンの作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3841,
-    "other_brand": "カルブロック錠8mg",
-    "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピンの作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 386,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 387,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 383,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3722,
-    "other_brand": "カムザイオスカプセル1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "マバカムテンの副作用を増強させ、収縮機能障害による心不全の危険性を増大させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11682,
-    "other_brand": "ブロナンセリン錠2mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11683,
-    "other_brand": "ブロナンセリン錠2mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11684,
-    "other_brand": "ブロナンセリン錠2mg「DSPB」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
-  },
-  {
-    "other_id": 11689,
-    "other_brand": "ブロナンセリン錠2mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
-  },
-  {
-    "other_id": 14416,
-    "other_brand": "ラツーダ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15845,
-    "other_brand": "ロナセンテープ20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15848,
-    "other_brand": "ロナセン錠2mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 8564,
-    "other_brand": "トチモトのシオン",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長を起こすおそれがある。"
+    "other_id": 11689,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 8776,
-    "other_brand": "トリアゾラム錠0.125mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 8777,
-    "other_brand": "トリアゾラム錠0.125mg「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 8778,
-    "other_brand": "トリアゾラム錠0.125mg「CH」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長を起こすおそれがある。"
+    "other_id": 14416,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9842,
-    "other_brand": "ハルシオン0.125mg錠",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1529,
-    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
+    "other_id": 8564,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1531,
-    "other_brand": "イグザレルト細粒分包10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
+    "other_id": 8776,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1533,
-    "other_brand": "イグザレルト錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
+    "other_id": 8777,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1535,
-    "other_brand": "イグザレルト錠2.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
+    "other_id": 8778,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1536,
-    "other_brand": "イグザレルトOD錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
-  },
-  {
-    "other_id": 14906,
-    "other_brand": "リバーロキサバン錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
-  },
-  {
-    "other_id": 14907,
-    "other_brand": "リバーロキサバン錠10mg「バイエル」",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
-  },
-  {
-    "other_id": 14910,
-    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14913,
-    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14914,
-    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "リバーロキサバンの抗凝固作用を増強させ、出血の危険性を増大させるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 14907,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1529,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 14906,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1531,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1533,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 14910,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1535,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "治療上の有益性が危険性を上回る場合を除き、リファブチンとの併用は避けること。やむを得ず併用する場合は、真菌症の発症の有無、全血球数の推移及びリファブチンの血漿中濃度上昇に伴う副作用（ぶどう膜炎等）を注意深くモニタリングするなど患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "治療上の有益性が危険性を上回る場合を除き、フェニトインとの併用は避けること。やむを得ず併用する場合は、真菌症の発症の有無を注意深くモニタリングするなど患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "治療上の有益性が危険性を上回る場合を除き、フェニトインとの併用は避けること。やむを得ず併用する場合は、真菌症の発症の有無を注意深くモニタリングするなど患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "治療上の有益性が危険性を上回る場合を除き、フェニトインとの併用は避けること。やむを得ず併用する場合は、真菌症の発症の有無を注意深くモニタリングするなど患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12405,
-    "other_brand": "ベネクレクスタ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、ベネトクラクスを減量するとともに、患者の状態を慎重に観察し、ベネトクラクスに関連した副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14428,
-    "other_brand": "ラパリムスゲル0.2%",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14429,
-    "other_brand": "ラパリムス錠1mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤を減量することを考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分に注意すること。併用中及び中止時には、これらの薬剤の血中濃度をモニタリングし、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1227,
-    "other_brand": "アルプラゾラム錠0.4mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 1228,
-    "other_brand": "アルプラゾラム錠0.4mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 6847,
-    "other_brand": "ソラナックス0.4mg錠",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
+    "other_id": 14428,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6847,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1227,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1228,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 430,
-    "other_brand": "アダラートCR錠10mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 9512,
-    "other_brand": "ニフェジピンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 9514,
-    "other_brand": "ニフェジピンカプセル5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 9517,
-    "other_brand": "ニフェジピンCR錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 9522,
-    "other_brand": "ニフェジピンCR錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
-  },
-  {
-    "other_id": 9535,
-    "other_brand": "ニフェジピンL錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9539,
-    "other_brand": "ニフェジピンL錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9540,
-    "other_brand": "ニフェジピンL錠10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9541,
-    "other_brand": "ニフェジピンL錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、これらの薬剤に関連した副作用発現に十分に注意すること。また、必要に応じてこれらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9512,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9514,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9517,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9522,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9535,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、併用開始時及び中止時にジゴキシンの血漿中濃度をモニタリングすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、併用開始時及び中止時にジゴキシンの血漿中濃度をモニタリングすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、併用開始時及び中止時にジゴキシンの血漿中濃度をモニタリングすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、併用開始時及び中止時にジゴキシンの血漿中濃度をモニタリングすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合は、併用開始時及び中止時にジゴキシンの血漿中濃度をモニタリングすること。"
+    "interaction_type": "caution"
   }
 ]

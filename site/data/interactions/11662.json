@@ -1,26 +1,18 @@
 [
   {
     "other_id": 6613,
-    "other_brand": "セルセプトカプセル250",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16120,
-    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ワクチン由来の感染を増強又は持続させるおそれがあるので、本剤投与中に生ワクチンを接種しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16121,
-    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ワクチン由来の感染を増強又は持続させるおそれがあるので、本剤投与中に生ワクチンを接種しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13335,
-    "other_brand": "ミコフェノール酸モフェチルカプセル250mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制が起こるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

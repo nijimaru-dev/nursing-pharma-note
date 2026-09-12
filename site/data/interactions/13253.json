@@ -1,98 +1,66 @@
 [
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "プログアニルはこれらの薬剤の抗凝固作用を増強する可能性がある。これらの薬剤を継続している患者においてマラリアの予防及び治療に対し本剤を開始又は中止する場合には、注意すること。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "プログアニルはこれらの薬剤の抗凝固作用を増強する可能性がある。これらの薬剤を継続している患者においてマラリアの予防及び治療に対し本剤を開始又は中止する場合には、注意すること。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "プログアニルはこれらの薬剤の抗凝固作用を増強する可能性がある。これらの薬剤を継続している患者においてマラリアの予防及び治療に対し本剤を開始又は中止する場合には、注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "プログアニルはこれらの薬剤の抗凝固作用を増強する可能性がある。これらの薬剤を継続している患者においてマラリアの予防及び治療に対し本剤を開始又は中止する場合には、注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用によりアトバコンの血漿中濃度が約53%低下し、t\n1/2\nは約33時間短縮した。また、リファブチンとの併用によりアトバコンの血漿中濃度が約34%低下し、t\n1/2\nは約14時間短縮した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用によりアトバコンの血漿中濃度が約53%低下し、t\n1/2\nは約33時間短縮した。また、リファブチンとの併用によりアトバコンの血漿中濃度が約34%低下し、t\n1/2\nは約14時間短縮した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
-  },
-  {
-    "other_id": 133,
-    "other_brand": "アクロマイシン末",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
-  },
-  {
-    "other_id": 11861,
-    "other_brand": "プリンペランシロップ0.1%",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
-  },
-  {
-    "other_id": 11862,
-    "other_brand": "プリンペラン注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
-  },
-  {
-    "other_id": 11863,
-    "other_brand": "プリンペラン細粒2%",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
-  },
-  {
-    "other_id": 11864,
-    "other_brand": "プリンペラン錠5",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
-  },
-  {
-    "other_id": 13663,
-    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13664,
-    "other_brand": "メトクロプラミド錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13665,
-    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 133,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "アトバコンの血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用でアトバコンの血漿中濃度は約58%低下した。併用する場合には、血液中のマラリア原虫数を慎重にモニターすること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11861,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11862,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11863,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11864,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13663,
+    "interaction_type": "caution"
   }
 ]

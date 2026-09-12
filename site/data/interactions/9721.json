@@ -1,38 +1,26 @@
 [
   {
-    "other_id": 8734,
-    "other_brand": "トラネキサム酸カプセル250mg「旭化成」",
-    "interaction_type": "caution",
-    "source_text": "口腔等、線溶系活性が強い部位での手術に併用するような場合、凝固系がより亢進されるおそれがある。"
-  },
-  {
     "other_id": 8738,
-    "other_brand": "トラネキサム酸注250mg/5mL「日新」",
-    "interaction_type": "caution",
-    "source_text": "口腔等、線溶系活性が強い部位での手術に併用するような場合、凝固系がより亢進されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8741,
-    "other_brand": "トラネキサム酸錠250mg「三恵」",
-    "interaction_type": "caution",
-    "source_text": "口腔等、線溶系活性が強い部位での手術に併用するような場合、凝固系がより亢進されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8742,
-    "other_brand": "トラネキサム酸錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "口腔等、線溶系活性が強い部位での手術に併用するような場合、凝固系がより亢進されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8765,
-    "other_brand": "トランサミンシロップ5%",
-    "interaction_type": "caution",
-    "source_text": "口腔等、線溶系活性が強い部位での手術に併用するような場合、凝固系がより亢進されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8734,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8767,
-    "other_brand": "トランサミン注5%",
-    "interaction_type": "caution",
-    "source_text": "口腔等、線溶系活性が強い部位での手術に併用するような場合、凝固系がより亢進されるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

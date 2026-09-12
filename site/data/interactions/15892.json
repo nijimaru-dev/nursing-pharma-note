@@ -1,440 +1,294 @@
 [
   {
     "other_id": 5341,
-    "other_brand": "サインバルタカプセル20mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5813,
-    "other_brand": "シンフェーズT28錠",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6715,
-    "other_brand": "セレニカR顆粒40%",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7299,
-    "other_brand": "タリージェ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "注意力、平衡機能の低下を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤及びアルコールの中枢神経抑制作用が増強され過度の鎮静が起こるおそれがある。併用する場合には、これらの薬剤及びアルコールを減量するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8293,
-    "other_brand": "デパケンシロップ5%",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8294,
-    "other_brand": "デパケン細粒20%",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8296,
-    "other_brand": "デパケン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8298,
-    "other_brand": "デパケンR錠100mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8365,
-    "other_brand": "デュロキセチンカプセル20mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8366,
-    "other_brand": "デュロキセチンカプセル20mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8368,
-    "other_brand": "デュロキセチンカプセル20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8369,
-    "other_brand": "デュロキセチンカプセル20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8370,
-    "other_brand": "デュロキセチンカプセル20mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8371,
-    "other_brand": "デュロキセチンカプセル20mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8372,
-    "other_brand": "デュロキセチンカプセル20mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8373,
-    "other_brand": "デュロキセチンカプセル20mg「三笠」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8374,
-    "other_brand": "デュロキセチンカプセル20mg「日医工G」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8375,
-    "other_brand": "デュロキセチンカプセル20mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8377,
-    "other_brand": "デュロキセチンカプセル20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8378,
-    "other_brand": "デュロキセチンカプセル20mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8379,
-    "other_brand": "デュロキセチンカプセル20mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8380,
-    "other_brand": "デュロキセチンカプセル20mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8381,
-    "other_brand": "デュロキセチンカプセル20mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8399,
-    "other_brand": "デュロキセチン錠20mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8400,
-    "other_brand": "デュロキセチン錠20mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8403,
-    "other_brand": "デュロキセチンOD錠20mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8376,
-    "other_brand": "デュロキセチンカプセル20mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10082,
-    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10083,
-    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10084,
-    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10086,
-    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10088,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10089,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10092,
-    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10095,
-    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10094,
-    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の消失半減期が延長することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11871,
-    "other_brand": "プレガバリンカプセル25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11878,
-    "other_brand": "プレガバリンOD錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11879,
-    "other_brand": "プレガバリンOD錠25mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11881,
-    "other_brand": "プレガバリンOD錠25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11869,
-    "other_brand": "プレガバリンカプセル25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11883,
-    "other_brand": "プレガバリンOD錠25mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11870,
-    "other_brand": "プレガバリンカプセル25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11885,
-    "other_brand": "プレガバリンOD錠25mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11886,
-    "other_brand": "プレガバリンOD錠25mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11887,
-    "other_brand": "プレガバリンOD錠25mg「三笠」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11889,
-    "other_brand": "プレガバリンOD錠25mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11888,
-    "other_brand": "プレガバリンOD錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11890,
-    "other_brand": "プレガバリンOD錠25mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11892,
-    "other_brand": "プレガバリンOD錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11893,
-    "other_brand": "プレガバリンOD錠25mg「武田テバ」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11894,
-    "other_brand": "プレガバリンOD錠25mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11895,
-    "other_brand": "プレガバリンOD錠25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11896,
-    "other_brand": "プレガバリンOD錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11897,
-    "other_brand": "プレガバリンOD錠25mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11899,
-    "other_brand": "プレガバリンOD錠25mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11900,
-    "other_brand": "プレガバリンOD錠25mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11901,
-    "other_brand": "プレガバリンOD錠25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11902,
-    "other_brand": "プレガバリンOD錠25mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11903,
-    "other_brand": "プレガバリンOD錠25mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15003,
-    "other_brand": "リリカカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "認知機能障害及び粗大運動機能障害に対して本剤が相加的に作用するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15184,
-    "other_brand": "レスピア静注・経口液60mg",
-    "interaction_type": "caution",
-    "source_text": "ベンゾジアゼピン系薬剤の血中濃度が減少することがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4541,
-    "other_brand": "クロザリル錠25mg",
-    "interaction_type": "caution",
-    "source_text": "循環虚脱を発現する危険性が高まり、重度の循環虚脱から心停止、呼吸停止に至るおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12408,
-    "other_brand": "ベネシッド錠250mg",
-    "interaction_type": "caution",
-    "source_text": "ロラゼパムの消失半減期が延長することがあるので、プロベネシドと併用する際は適宜減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "ロラゼパムの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   }
 ]

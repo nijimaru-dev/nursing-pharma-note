@@ -1,104 +1,70 @@
 [
   {
     "other_id": 1565,
-    "other_brand": "イスツリサ錠1mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こす又は悪化させるおそれがあるため、観察を十分に行うこと。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が低下することがある。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が低下することがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が低下することがある。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が低下することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 453,
-    "other_brand": "アテノロール錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 454,
-    "other_brand": "アテノロール錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 456,
-    "other_brand": "アテノロール錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 458,
-    "other_brand": "アテノロール錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8022,
-    "other_brand": "テノーミン錠50",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11664,
-    "other_brand": "ブレビブロック注 100mg",
-    "interaction_type": "caution",
-    "source_text": "併用すると重度の徐脈や心ブロックが認められるおそれがあるので、注意すること。"
+    "interaction_type": "caution"
   }
 ]

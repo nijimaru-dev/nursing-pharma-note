@@ -1,3212 +1,2142 @@
 [
   {
-    "other_id": 4968,
-    "other_brand": "ケイツーシロップ0.2%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の効果を減弱する。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、骨粗鬆症治療用ビタミンK\n2\n製剤の投与を中止すること。"
-  },
-  {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の効果を減弱する。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、骨粗鬆症治療用ビタミンK\n2\n製剤の投与を中止すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の効果を減弱する。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、骨粗鬆症治療用ビタミンK\n2\n製剤の投与を中止すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の効果を減弱する。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、骨粗鬆症治療用ビタミンK\n2\n製剤の投与を中止すること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の効果を減弱する。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、骨粗鬆症治療用ビタミンK\n2\n製剤の投与を中止すること。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4968,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1539,
-    "other_brand": "イグラチモド錠25mg「ケミファ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
-  },
-  {
-    "other_id": 1541,
-    "other_brand": "イグラチモド錠25mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
-  },
-  {
-    "other_id": 7560,
-    "other_brand": "チモダイコーM",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
-  },
-  {
-    "other_id": 7673,
-    "other_brand": "ツムラの生薬チモ",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8612,
-    "other_brand": "トチモトのチモ",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9277,
-    "other_brand": "ナカジマ　チモ",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
-  },
-  {
-    "other_id": 12828,
-    "other_brand": "ホリエ　チモK",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
-  },
-  {
-    "other_id": 14173,
-    "other_brand": "ヤマダのチモA",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
+    "other_id": 1541,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16389,
-    "other_brand": "小島知母M",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7560,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17135,
-    "other_brand": "花扇チモK",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17437,
-    "other_brand": "高砂チモM",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、イグラチモドを投与しないこと。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9277,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7673,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12828,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 14173,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。また、併用中止後も、本剤の作用が遷延し、出血やINR上昇に至ったとの報告もある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、ミコナゾール（ゲル剤・注射剤・錠剤）を投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を増強することがある。また、併用中止後も、本剤の作用が遷延し、出血やINR上昇に至ったとの報告もある。\n患者が本剤による治療を必要とする場合、本剤による治療を優先し、ミコナゾール（ゲル剤・注射剤・錠剤）を投与しないこと。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8788,
-    "other_brand": "トリクロリールシロップ10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11853,
-    "other_brand": "プリミドン錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがある。\nまた、フェニトインの作用を増強することがある。\n併用する場合には血液凝固能の変動及びフェニトインの中毒症状又は血中濃度の上昇に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1282,
-    "other_brand": "アレビアチン注250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがある。\nまた、フェニトインの作用を増強することがある。\n併用する場合には血液凝固能の変動及びフェニトインの中毒症状又は血中濃度の上昇に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがある。\nまた、フェニトインの作用を増強することがある。\n併用する場合には血液凝固能の変動及びフェニトインの中毒症状又は血中濃度の上昇に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがある。\nまた、フェニトインの作用を増強することがある。\n併用する場合には血液凝固能の変動及びフェニトインの中毒症状又は血中濃度の上昇に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12693,
-    "other_brand": "ホストイン静注750mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがある。\nまた、フェニトインの作用を増強することがある。\n併用する場合には血液凝固能の変動及びフェニトインの中毒症状又は血中濃度の上昇に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 101,
-    "other_brand": "アクセノン末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、エトトインの作用を増強することがある。\n併用する場合には血液凝固能の変動及びエトトインの中毒症状又は血中濃度の上昇に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 6715,
-    "other_brand": "セレニカR顆粒40%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10082,
-    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10083,
-    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10084,
-    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10086,
-    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10088,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10089,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10092,
-    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10094,
-    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10095,
-    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 335,
-    "other_brand": "アセトアミノフェン〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 337,
-    "other_brand": "アセトアミノフェン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 338,
-    "other_brand": "アセトアミノフェン「JG」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 339,
-    "other_brand": "アセトアミノフェン「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 342,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 343,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 359,
-    "other_brand": "アセトアミノフェン錠200mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 367,
-    "other_brand": "アセトアミノフェンDS小児用20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 375,
-    "other_brand": "アセリオ静注液1000mgバッグ",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 6715,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1382,
-    "other_brand": "アンヒバ坐剤小児用50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 359,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3946,
-    "other_brand": "カロナール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 335,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 367,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 337,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 338,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10896,
-    "other_brand": "ピレチノール",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6668,
-    "other_brand": "セレコキシブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 342,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6670,
-    "other_brand": "セレコキシブ錠100mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 343,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 375,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6675,
-    "other_brand": "セレコキシブ錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6676,
-    "other_brand": "セレコキシブ錠100mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6677,
-    "other_brand": "セレコキシブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6678,
-    "other_brand": "セレコキシブ錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6683,
-    "other_brand": "セレコキシブ錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6668,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10171,
-    "other_brand": "パラミヂンカプセル300mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 13900,
-    "other_brand": "メロキシカム錠5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 13901,
-    "other_brand": "メロキシカム錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 13903,
-    "other_brand": "メロキシカム錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13905,
-    "other_brand": "メロキシカム錠5mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 14127,
-    "other_brand": "モービック錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15926,
-    "other_brand": "ロルノキシカム錠2mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 13900,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 13901,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 13903,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 616,
-    "other_brand": "アドフィードパップ40mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 14127,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 2538,
-    "other_brand": "エトドラク錠100mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5015,
-    "other_brand": "ケトプロフェンテープ20mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5016,
-    "other_brand": "ケトプロフェンテープ20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5037,
-    "other_brand": "ケトプロフェンパップ30mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5039,
-    "other_brand": "ケトプロフェン坐剤50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5040,
-    "other_brand": "ケトプロフェン坐剤50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5043,
-    "other_brand": "ケトプロフェン筋注50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5891,
-    "other_brand": "ジクロフェナクナトリウムテープ15mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5896,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「ゼリア」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5897,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5922,
-    "other_brand": "ジクロフェナクNa坐剤12.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5924,
-    "other_brand": "ジクロフェナクNa坐剤25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5933,
-    "other_brand": "ジクロフェナクNa点眼液0.1％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5934,
-    "other_brand": "ジクロフェナクNa錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5935,
-    "other_brand": "ジクロフェナクNa錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5941,
-    "other_brand": "ジクロード点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11223,
-    "other_brand": "フェルデン軟膏0.5％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11520,
-    "other_brand": "フルルビプロフェンテープ20mg「QQ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11549,
-    "other_brand": "フロベン錠40",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 1922,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 5891,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12995,
-    "other_brand": "ボルタレンサポ12.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 13001,
-    "other_brand": "ボルタレン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 13140,
-    "other_brand": "ポンタールカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 13141,
-    "other_brand": "ポンタールシロップ3.25％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 13142,
-    "other_brand": "ポンタール散50%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15568,
-    "other_brand": "ロキソプロフェンナトリウムテープ50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15574,
-    "other_brand": "ロキソプロフェンナトリウムパップ100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15576,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15577,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15578,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15579,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15581,
-    "other_brand": "ロキソプロフェンNaゲル1%「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15582,
-    "other_brand": "ロキソプロフェンNaテープ50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15590,
-    "other_brand": "ロキソプロフェンNaテープ50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15592,
-    "other_brand": "ロキソプロフェンNaテープ50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15595,
-    "other_brand": "ロキソプロフェンNaテープ50mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 1924,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15616,
-    "other_brand": "ロキソプロフェンNaパップ100mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11654,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15620,
-    "other_brand": "ロキソプロフェンNaパップ100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5897,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15622,
-    "other_brand": "ロキソプロフェンNaパップ100mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15629,
-    "other_brand": "ロキソプロフェンNa錠60mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15630,
-    "other_brand": "ロキソプロフェンNa錠60mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15631,
-    "other_brand": "ロキソプロフェンNa錠60mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15633,
-    "other_brand": "ロキソプロフェンNa錠60mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15636,
-    "other_brand": "ロキソプロフェンNa錠60mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15637,
-    "other_brand": "ロキソプロフェンNa錠60mg「三恵」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15638,
-    "other_brand": "ロキソプロフェンNa錠60mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5016,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15640,
-    "other_brand": "ロキソプロフェンNa錠60mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15641,
-    "other_brand": "ロキソプロフェンNa錠60mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15642,
-    "other_brand": "ロキソプロフェンNa錠60mg「OHA」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8269,
-    "other_brand": "デジレル錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 11549,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 290,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9890,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 294,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5922,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5924,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5037,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5933,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5039,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5040,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5934,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5935,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5043,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5941,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12995,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15568,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13140,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13141,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13142,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15574,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15576,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15577,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15578,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15579,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15581,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15582,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15590,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 616,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15592,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2538,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15595,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8722,
-    "other_brand": "トラゾドン塩酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15191,
-    "other_brand": "レスリン錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8269,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14764,
-    "other_brand": "リタリン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 790,
-    "other_brand": "アミトリプチリン塩酸塩錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10120,
-    "other_brand": "パキシル錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10123,
-    "other_brand": "パキシルCR錠6.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10197,
-    "other_brand": "パロキセチン錠10mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10198,
-    "other_brand": "パロキセチン錠5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10199,
-    "other_brand": "パロキセチン錠5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10201,
-    "other_brand": "パロキセチン錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10202,
-    "other_brand": "パロキセチン錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10204,
-    "other_brand": "パロキセチン錠5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10205,
-    "other_brand": "パロキセチン錠5mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10206,
-    "other_brand": "パロキセチン錠5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10207,
-    "other_brand": "パロキセチン錠5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10208,
-    "other_brand": "パロキセチン錠5mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10209,
-    "other_brand": "パロキセチン錠5mg「AA」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10210,
-    "other_brand": "パロキセチン錠5mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10213,
-    "other_brand": "パロキセチン錠5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10214,
-    "other_brand": "パロキセチン錠5mg「SPKK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10216,
-    "other_brand": "パロキセチン錠5mg「TSU」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10217,
-    "other_brand": "パロキセチン錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 10204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 10205,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 10206,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10207,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10208,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10209,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10210,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11484,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10213,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10214,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10216,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10217,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 8311,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5341,
-    "other_brand": "サインバルタカプセル20mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8365,
-    "other_brand": "デュロキセチンカプセル20mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8368,
-    "other_brand": "デュロキセチンカプセル20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8369,
-    "other_brand": "デュロキセチンカプセル20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8376,
-    "other_brand": "デュロキセチンカプセル20mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8377,
-    "other_brand": "デュロキセチンカプセル20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8380,
-    "other_brand": "デュロキセチンカプセル20mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 11485,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8365,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 8368,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8369,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8377,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8380,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5341,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8376,
+    "interaction_type": "caution"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 767,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12057,
-    "other_brand": "プロノン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12066,
-    "other_brand": "プロパフェノン塩酸塩錠100mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4294,
-    "other_brand": "クエストラン粉末44.4%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5793,
-    "other_brand": "シンバスタチン錠10mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5795,
-    "other_brand": "シンバスタチン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5797,
-    "other_brand": "シンバスタチン錠5mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5798,
-    "other_brand": "シンバスタチン錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5805,
-    "other_brand": "シンバスタチン錠5mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11477,
-    "other_brand": "フルバスタチン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 14972,
-    "other_brand": "リポバス錠5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15759,
-    "other_brand": "ロスバスタチン錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15761,
-    "other_brand": "ロスバスタチン錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15765,
-    "other_brand": "ロスバスタチン錠2.5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15766,
-    "other_brand": "ロスバスタチン錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15767,
-    "other_brand": "ロスバスタチン錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15768,
-    "other_brand": "ロスバスタチン錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15801,
-    "other_brand": "ロスバスタチンOD錠2.5mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15803,
-    "other_brand": "ロスバスタチンOD錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15804,
-    "other_brand": "ロスバスタチンOD錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15940,
-    "other_brand": "ローコール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12273,
-    "other_brand": "ベザフィブラート徐放錠100mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 15759,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12278,
-    "other_brand": "ベザフィブラートSR錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 15761,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12279,
-    "other_brand": "ベザフィブラートSR錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 11477,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15765,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15766,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15767,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15768,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15804,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5793,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5795,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5797,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5798,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5805,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15801,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15803,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14972,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12280,
-    "other_brand": "ベザフィブラートSR錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4607,
-    "other_brand": "クロフィブラートカプセル250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 12273,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12279,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12278,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8709,
-    "other_brand": "トライコア錠53.3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14931,
-    "other_brand": "リピディル錠53.3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4607,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3224,
-    "other_brand": "オメプラゾール錠10「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3225,
-    "other_brand": "オメプラゾール錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3226,
-    "other_brand": "オメプラゾール錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 699,
-    "other_brand": "アプレピタントカプセル125mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 700,
-    "other_brand": "アプレピタントカプセル80mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7594,
-    "other_brand": "チラーヂンS散0.01％",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下症の患者に相手薬剤を投与し甲状腺機能が正常化すると血液凝固能が低下し、見かけ上本剤の作用が増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 11975,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7595,
-    "other_brand": "チラーヂンS錠12.5μg",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下症の患者に相手薬剤を投与し甲状腺機能が正常化すると血液凝固能が低下し、見かけ上本剤の作用が増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7600,
-    "other_brand": "チラーヂンS静注液200μg",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下症の患者に相手薬剤を投与し甲状腺機能が正常化すると血液凝固能が低下し、見かけ上本剤の作用が増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7594,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7595,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13892,
-    "other_brand": "メルカゾール注10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\n甲状腺機能亢進症の患者に相手薬剤を投与し甲状腺機能が正常化すると血液凝固能が亢進し、見かけ上の本剤の作用が減弱することがある。\n併用する場合には病態の変化に応じて血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13893,
-    "other_brand": "メルカゾール錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\n甲状腺機能亢進症の患者に相手薬剤を投与し甲状腺機能が正常化すると血液凝固能が亢進し、見かけ上の本剤の作用が減弱することがある。\n併用する場合には病態の変化に応じて血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4925,
-    "other_brand": "グルカゴン注射用1単位「ILS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4181,
-    "other_brand": "キシロカインポンプスプレー8%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14784,
-    "other_brand": "リドカインテープ18mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14788,
-    "other_brand": "リドカインポンプスプレー8％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4181,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14791,
-    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 14797,
-    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14809,
-    "other_brand": "リドカイン点滴静注液1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14810,
-    "other_brand": "リドカイン静注液2％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14797,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10581,
-    "other_brand": "ビタミンK1錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4968,
-    "other_brand": "ケイツーシロップ0.2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3642,
-    "other_brand": "オーツカMV注",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7413,
-    "other_brand": "ダイメジン・マルチ注",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10568,
-    "other_brand": "ビタジェクト注キット",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3642,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12133,
-    "other_brand": "ヘパフィルド透析用150単位/mLシリンジ20mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12136,
-    "other_brand": "ヘパフラッシュ10単位/mLシリンジ5mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12142,
-    "other_brand": "ヘパリンカルシウム皮下注5千単位/0.2mLシリンジ「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12182,
-    "other_brand": "ヘパリンCa注射液2万単位/20mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12185,
-    "other_brand": "ヘパリンCa皮下注1万単位/0.4mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12186,
-    "other_brand": "ヘパリンCa皮下注2万単位/0.8mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12187,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ「オーツカ」5mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12190,
-    "other_brand": "ヘパリンNaロック用10単位/mLシリンジ5mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12199,
-    "other_brand": "ヘパリンNa注5千単位/5mL「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12136,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12202,
-    "other_brand": "ヘパリンNa透析用150単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12203,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「フソー」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12204,
-    "other_brand": "ヘパリンNa透析用150単位/mLシリンジ20mL「NIG」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12142,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12208,
-    "other_brand": "ヘパリンNa透析用250単位/mL「フソー」20mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12209,
-    "other_brand": "ヘパリンNa透析用250単位/mL「NS」20mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12210,
-    "other_brand": "ヘパリンNa透析用250単位/mLシリンジ12mL「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7463,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 12182,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12185,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12186,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12187,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12190,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7464,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7465,
-    "other_brand": "ダルテパリンNa静注5000単位/5mL「AFP」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11336,
-    "other_brand": "フラグミン静注5000単位/5mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1035,
-    "other_brand": "アリクストラ皮下注1.5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1037,
-    "other_brand": "アリクストラ皮下注5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1529,
-    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1531,
-    "other_brand": "イグザレルト細粒分包10mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1533,
-    "other_brand": "イグザレルト錠10mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1535,
-    "other_brand": "イグザレルト錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 7463,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1536,
-    "other_brand": "イグザレルトOD錠10mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 2823,
-    "other_brand": "エリキュース錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 14906,
-    "other_brand": "リバーロキサバン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 14907,
-    "other_brand": "リバーロキサバン錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 14910,
-    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14913,
-    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14914,
-    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1146,
-    "other_brand": "アルガトロバン注射液10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 2823,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1147,
-    "other_brand": "アルガトロバンHI注10mg/2mL「フソー」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 1035,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6376,
-    "other_brand": "スロンノンHI注10mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 1037,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1531,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1529,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14906,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14907,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1533,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14910,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1535,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8896,
-    "other_brand": "トロンビン液モチダ ソフトボトル5千",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8898,
-    "other_brand": "トロンビン経口・外用剤5千「F」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11750,
-    "other_brand": "プラザキサカプセル75mg",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17025,
-    "other_brand": "経口用トロンビン細粒0.5万単位「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8898,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17026,
-    "other_brand": "経口用トロンビン細粒5千単位",
-    "interaction_type": "caution",
-    "source_text": "相互に抗凝固作用、出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1542,
-    "other_brand": "イコサペント酸エチルカプセル300mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 11750,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1544,
-    "other_brand": "イコサペント酸エチルカプセル300mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 6376,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1545,
-    "other_brand": "イコサペント酸エチルカプセル300mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 1146,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1546,
-    "other_brand": "イコサペント酸エチルカプセル300mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1548,
-    "other_brand": "イコサペント酸エチル粒状カプセル300mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1549,
-    "other_brand": "イコサペント酸エチル粒状カプセル300mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1550,
-    "other_brand": "イコサペント酸エチル粒状カプセル300mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1551,
-    "other_brand": "イコサペント酸エチル粒状カプセル300mg「TC」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 2658,
-    "other_brand": "エパデールカプセル300",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 2659,
-    "other_brand": "エパデールEMカプセル2g",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 2660,
-    "other_brand": "エパデールS300",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3069,
-    "other_brand": "オザグレルナトリウム点滴静注液40mg「JD」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3071,
-    "other_brand": "オザグレルNa注射液20mgシリンジ「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "other_id": 1147,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3074,
-    "other_brand": "オザグレルNa注射用20mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3077,
-    "other_brand": "オザグレルNa注80mgシリンジ「IP」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1542,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3078,
-    "other_brand": "オザグレルNa点滴静注液20mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1544,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1545,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1546,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1548,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1549,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1551,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3084,
-    "other_brand": "オザグレルNa点滴静注20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3085,
-    "other_brand": "オザグレルNa点滴静注20mg「IP」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3093,
-    "other_brand": "オザグレルNa点滴静注80mgバッグ「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3094,
-    "other_brand": "オザグレルNa点滴静注80mgバッグ「テルモ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3095,
-    "other_brand": "オザグレルNa点滴静注80mg/100mLバッグ「IP」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3097,
-    "other_brand": "オザグレルNa静注液20mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3662,
-    "other_brand": "カタクロット注射液40mg",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4563,
-    "other_brand": "クロピドグレル錠25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4565,
-    "other_brand": "クロピドグレル錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4567,
-    "other_brand": "クロピドグレル錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4570,
-    "other_brand": "クロピドグレル錠25mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4572,
-    "other_brand": "クロピドグレル錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4573,
-    "other_brand": "クロピドグレル錠25mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4574,
-    "other_brand": "クロピドグレル錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4575,
-    "other_brand": "クロピドグレル錠25mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4581,
-    "other_brand": "クロピドグレル錠25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5404,
-    "other_brand": "サルポグレラート塩酸塩錠50mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5406,
-    "other_brand": "サルポグレラート塩酸塩錠50mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5408,
-    "other_brand": "サルポグレラート塩酸塩錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5410,
-    "other_brand": "サルポグレラート塩酸塩錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5412,
-    "other_brand": "サルポグレラート塩酸塩錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5417,
-    "other_brand": "サルポグレラート塩酸塩錠50mg「TSU」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5707,
-    "other_brand": "シロスタゾール錠50mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5709,
-    "other_brand": "シロスタゾール錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5713,
-    "other_brand": "シロスタゾール錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5725,
-    "other_brand": "シロスタゾールOD錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5729,
-    "other_brand": "シロスタゾールOD錠50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5730,
-    "other_brand": "シロスタゾールOD錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 7542,
-    "other_brand": "チクロピジン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 7543,
-    "other_brand": "チクロピジン塩酸塩錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 10157,
-    "other_brand": "パナルジン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11755,
-    "other_brand": "プラスグレル錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11964,
-    "other_brand": "プレタール散20％",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11965,
-    "other_brand": "プレタールOD錠50mg",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 12023,
-    "other_brand": "プロサイリン錠20",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12456,
-    "other_brand": "ベラサスLA錠60μg",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5417,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10157,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12461,
-    "other_brand": "ベラプロストナトリウム錠20μg「JG」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12462,
-    "other_brand": "ベラプロストNa錠20μg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12463,
-    "other_brand": "ベラプロストNa錠20μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12466,
-    "other_brand": "ベラプロストNa錠20μg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11964,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11965,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5707,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12023,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5709,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3662,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5713,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4563,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4565,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4570,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4573,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4574,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4575,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5725,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5729,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2659,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4581,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5730,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11755,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7542,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7543,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3069,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3071,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2228,
-    "other_brand": "ウロナーゼ冠動注用12万単位",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2229,
-    "other_brand": "ウロナーゼ静注用6万単位",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16577,
-    "other_brand": "注射用アナクトC 2,500単位",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8305,
-    "other_brand": "デフィブラーゼ点滴静注液10単位",
-    "interaction_type": "caution",
-    "source_text": "相互に出血傾向を増強することがあるので、併用する場合には観察を十分に行い、相手薬剤の用量を調節するなど十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1334,
-    "other_brand": "アロプリノール錠50mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1335,
-    "other_brand": "アロプリノール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1336,
-    "other_brand": "アロプリノール錠50mg「アメル」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1337,
-    "other_brand": "アロプリノール錠50mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1338,
-    "other_brand": "アロプリノール錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1339,
-    "other_brand": "アロプリノール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1340,
-    "other_brand": "アロプリノール錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1341,
-    "other_brand": "アロプリノール錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1344,
-    "other_brand": "アロプリノール錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1345,
-    "other_brand": "アロプリノール錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1346,
-    "other_brand": "アロプリノール錠50mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1348,
-    "other_brand": "アロプリノール錠50mg「NS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1351,
-    "other_brand": "アロプリノール錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1334,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1335,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1336,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1337,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1338,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1340,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1341,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12408,
-    "other_brand": "ベネシッド錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12055,
-    "other_brand": "プロナーゼMS",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 718,
-    "other_brand": "アマリール0.5mg錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2944,
-    "other_brand": "オイグルコン錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4832,
-    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4846,
-    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4848,
-    "other_brand": "グリメピリド錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4851,
-    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4852,
-    "other_brand": "グリメピリド錠0.5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4853,
-    "other_brand": "グリメピリド錠0.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4854,
-    "other_brand": "グリメピリド錠0.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4855,
-    "other_brand": "グリメピリド錠0.5mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4856,
-    "other_brand": "グリメピリド錠0.5mg「AA」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4858,
-    "other_brand": "グリメピリド錠0.5mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4859,
-    "other_brand": "グリメピリド錠0.5mg「NC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4861,
-    "other_brand": "グリメピリド錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4863,
-    "other_brand": "グリメピリド錠0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4865,
-    "other_brand": "グリメピリド錠0.5mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5055,
-    "other_brand": "ケラチナミンコーワクリーム20％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4863,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4832,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16428,
-    "other_brand": "尿素「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16430,
-    "other_brand": "尿素クリーム10％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4846,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16432,
-    "other_brand": "尿素クリーム20％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\nまた、相手薬剤の血糖降下作用を増強し、低血糖症状があらわれることがある。\n併用する場合には相手薬剤の作用増強及び血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4848,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4851,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4855,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4859,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4861,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5055,
+    "interaction_type": "caution"
   },
   {
     "other_id": 152,
-    "other_brand": "アザニン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1785,
-    "other_brand": "イムラン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7282,
-    "other_brand": "タモキシフェン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7283,
-    "other_brand": "タモキシフェン錠10mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7285,
-    "other_brand": "タモキシフェン錠10mg「MYL」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8872,
-    "other_brand": "トレミフェン錠40mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5062,
-    "other_brand": "ゲフィチニブ錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5063,
-    "other_brand": "ゲフィチニブ錠250mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5064,
-    "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5065,
-    "other_brand": "ゲフィチニブ錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5062,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5063,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2883,
-    "other_brand": "エルロチニブ錠25mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "INR増加、胃腸出血等の報告があるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2884,
-    "other_brand": "エルロチニブ錠150mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "INR増加、胃腸出血等の報告があるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7310,
-    "other_brand": "タルセバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "INR増加、胃腸出血等の報告があるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7311,
-    "other_brand": "タルセバ錠150mg",
-    "interaction_type": "caution",
-    "source_text": "INR増加、胃腸出血等の報告があるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11429,
-    "other_brand": "フルタミド錠125mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11430,
-    "other_brand": "フルタミド錠125mg「VTRS」（未発売）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3710,
-    "other_brand": "カペシタビン錠300mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3711,
-    "other_brand": "カペシタビン錠300mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3713,
-    "other_brand": "カペシタビン錠300mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3714,
-    "other_brand": "カペシタビン錠300mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3716,
-    "other_brand": "カペシタビン錠300mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 6809,
-    "other_brand": "ゼローダ錠300",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17546,
-    "other_brand": "5−FU注250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17548,
-    "other_brand": "5−FU軟膏5%協和",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6809,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3710,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3711,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2596,
-    "other_brand": "エヌケーエスワン配合カプセルT20",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nまた、テガフール・ギメラシル・オテラシルカリウムでは、併用中止後も、本剤の作用が遷延し、出血やINR上昇に至ったとの報告もあるので、十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1709,
-    "other_brand": "イマチニブ錠100mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1710,
-    "other_brand": "イマチニブ錠100mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1711,
-    "other_brand": "イマチニブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1712,
-    "other_brand": "イマチニブ錠100mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1715,
-    "other_brand": "イマチニブ錠100mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1716,
-    "other_brand": "イマチニブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1719,
-    "other_brand": "イマチニブ錠100mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1721,
-    "other_brand": "イマチニブ錠100mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4831,
-    "other_brand": "グリベック錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8728,
-    "other_brand": "トラニラスト点眼液0.5％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4643,
-    "other_brand": "クロマイ腟錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4659,
-    "other_brand": "クロラムフェニコール腟錠100mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4702,
-    "other_brand": "クロロマイセチンサクシネート静注用1g",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4703,
-    "other_brand": "クロロマイセチン局所用液5%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4704,
-    "other_brand": "クロロマイセチン耳科用液0.5%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4705,
-    "other_brand": "クロロマイセチン軟膏2％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4706,
-    "other_brand": "クロロマイセチン錠50",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 4643,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 4659,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 4702,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 15111,
-    "other_brand": "ルリッド錠150",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 4703,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15556,
-    "other_brand": "ロキシスロマイシン錠150mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15111,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1562,
-    "other_brand": "イスコチン原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1563,
-    "other_brand": "イスコチン注100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3142,
-    "other_brand": "オフロキサシンゲル化点眼液0.3％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3144,
-    "other_brand": "オフロキサシン点眼液0.3％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3147,
-    "other_brand": "オフロキサシン点眼液0.3％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3152,
-    "other_brand": "オフロキサシン点眼液0.3％「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 3155,
-    "other_brand": "オフロキサシン錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4430,
-    "other_brand": "クラビット点滴静注バッグ500mg/100mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 4434,
-    "other_brand": "クラビット錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5245,
-    "other_brand": "コムレクス耳科用液1.5％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9752,
-    "other_brand": "ノルフロキサシン点眼液0.3％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9753,
-    "other_brand": "ノルフロキサシン点眼液0.3%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9754,
-    "other_brand": "ノルフロキサシン点眼液0.3％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9755,
-    "other_brand": "ノルフロキサシン点眼液0.3%「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9756,
-    "other_brand": "ノルフロキサシン錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9757,
-    "other_brand": "ノルフロキサシン錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15419,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg「HK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15420,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15421,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg/100mL「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15423,
-    "other_brand": "レボフロキサシン点眼液0.5％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15424,
-    "other_brand": "レボフロキサシン点眼液0.5％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15428,
-    "other_brand": "レボフロキサシン点眼液0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 3142,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15431,
-    "other_brand": "レボフロキサシン点眼液0.5％「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3144,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15432,
-    "other_brand": "レボフロキサシン点眼液0.5％「FFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3147,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15435,
-    "other_brand": "レボフロキサシン点眼液0.5％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15436,
-    "other_brand": "レボフロキサシン点眼液1.5％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15437,
-    "other_brand": "レボフロキサシン点眼液1.5%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3152,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15441,
-    "other_brand": "レボフロキサシン点眼液1.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4434,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3155,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15445,
-    "other_brand": "レボフロキサシン点眼液1.5％「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15449,
-    "other_brand": "レボフロキサシン点眼液1.5％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15450,
-    "other_brand": "レボフロキサシン粒状錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15452,
-    "other_brand": "レボフロキサシン錠250mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15453,
-    "other_brand": "レボフロキサシン錠250mg「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15455,
-    "other_brand": "レボフロキサシン錠250mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15456,
-    "other_brand": "レボフロキサシン錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15457,
-    "other_brand": "レボフロキサシン錠250mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15461,
-    "other_brand": "レボフロキサシン錠250mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15465,
-    "other_brand": "レボフロキサシン錠250mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5245,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 153,
-    "other_brand": "アザルフィジンEN錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5381,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5382,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5387,
-    "other_brand": "サラゾピリン坐剤500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5388,
-    "other_brand": "サラゾピリン錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11557,
-    "other_brand": "フロリード腟坐剤100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11558,
-    "other_brand": "フロリードDクリーム1%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12024,
-    "other_brand": "プロジフ静注液100",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11555,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11557,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11558,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11559,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11562,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11563,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11565,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10654,
-    "other_brand": "ビラミューン錠200",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 651,
-    "other_brand": "アネメトロ点滴静注液500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11337,
-    "other_brand": "フラジール内服錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11338,
-    "other_brand": "フラジール腟錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8711,
-    "other_brand": "トラクリア小児用分散錠32mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
-  },
-  {
-    "other_id": 8712,
-    "other_brand": "トラクリア錠62.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "other_id": 651,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12946,
-    "other_brand": "ボセンタン成人用DS6.25%「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12947,
-    "other_brand": "ボセンタン錠62.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12949,
-    "other_brand": "ボセンタン錠62.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12950,
-    "other_brand": "ボセンタン錠62.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8711,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8712,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15173,
-    "other_brand": "レケンビ点滴静注200mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬投与中に脳出血を発現した場合、本剤が出血を助長するおそれがある。併用時には脳出血の副作用に注意すること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、本剤服用中の飲酒には注意すること。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、本剤服用中の飲酒には注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱又は増強することがあるので、本剤服用中の飲酒には注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   }
 ]

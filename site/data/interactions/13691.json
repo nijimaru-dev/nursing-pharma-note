@@ -1,74 +1,50 @@
 [
   {
-    "other_id": 335,
-    "other_brand": "アセトアミノフェン〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 337,
-    "other_brand": "アセトアミノフェン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 338,
-    "other_brand": "アセトアミノフェン「JG」原末",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 339,
-    "other_brand": "アセトアミノフェン「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 342,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 343,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
+    "other_id": 1382,
+    "interaction_type": "caution"
   },
   {
     "other_id": 359,
-    "other_brand": "アセトアミノフェン錠200mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 367,
-    "other_brand": "アセトアミノフェンDS小児用20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 375,
-    "other_brand": "アセリオ静注液1000mgバッグ",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 1382,
-    "other_brand": "アンヒバ坐剤小児用50mg",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3946,
-    "other_brand": "カロナール原末",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 335,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 367,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 337,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 338,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10896,
-    "other_brand": "ピレチノール",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの酸化代謝物（N-アセチルパラベンゾキノニミン）による肝毒性が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 342,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 343,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 375,
+    "interaction_type": "caution"
   }
 ]

@@ -1,110 +1,74 @@
 [
   {
     "other_id": 672,
-    "other_brand": "アピドラ注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 673,
-    "other_brand": "アピドラ注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 674,
-    "other_brand": "アピドラ注100単位／mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 772,
-    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointesのリスクが増加する。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointesのリスクが増加する。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1898,
-    "other_brand": "インスリン グラルギンBS注キット「FFP」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1897,
-    "other_brand": "インスリン　グラルギンBS注カート「リリー」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4158,
-    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5292,
-    "other_brand": "コンビビル配合錠",
-    "interaction_type": "caution",
-    "source_text": "ジドブジンの毒性作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6851,
-    "other_brand": "ソリクア配合注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8288,
-    "other_brand": "デノシン点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9967,
-    "other_brand": "バリキサ錠450mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のガンシクロビルとの併用により、毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14591,
-    "other_brand": "ランタス注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14592,
-    "other_brand": "ランタス注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14593,
-    "other_brand": "ランタス注100単位／mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14594,
-    "other_brand": "ランタスXR注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15215,
-    "other_brand": "レトロビルカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の毒性作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16783,
-    "other_brand": "点滴静注用ホスカビル注24mg/mL",
-    "interaction_type": "contraindicated",
-    "source_text": "腎障害の増強、低カルシウム血症が起こることがある。なお、海外で本剤とペンタミジンイセチオン酸塩（静注）との併用により、重篤な低カルシウム血症が発現し死亡した症例が報告されている。"
+    "interaction_type": "contraindicated"
   }
 ]

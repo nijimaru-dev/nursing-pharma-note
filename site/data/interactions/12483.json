@@ -1,128 +1,86 @@
 [
   {
     "other_id": 16120,
-    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "生ワクチンを接種すると発症するおそれがある。生ワクチンを接種する必要がある場合、本剤投与開始4週間以上前に接種すること。また、本剤の投与中及び投与終了後最低2週間は接種を避けること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16121,
-    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "生ワクチンを接種すると発症するおそれがある。生ワクチンを接種する必要がある場合、本剤投与開始4週間以上前に接種すること。また、本剤の投与中及び投与終了後最低2週間は接種を避けること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。CYP2C9のPoor metabolizer（PM）である患者又は疑いのある患者は、CYP2C8又はCYP3Aのうち少なくとも1種類を阻害する薬剤を本剤と併用すると、本剤の曝露量が増加する可能性がある。このような薬剤は併用しないことが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "単剤又は複数の薬剤の組み合わせによりCYP2C8、CYP2C9又はCYP3Aのうち少なくとも2種類を中程度以上に誘導する薬剤を本剤と併用すると、本剤の曝露量が減少し、有効性が減弱する可能性がある。このような薬剤は併用しないことが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 453,
-    "other_brand": "アテノロール錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に一過性の心拍数減少及び房室伝導遅延があらわれる可能性がある。これらの薬剤と併用する際には注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 454,
-    "other_brand": "アテノロール錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に一過性の心拍数減少及び房室伝導遅延があらわれる可能性がある。これらの薬剤と併用する際には注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 456,
-    "other_brand": "アテノロール錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に一過性の心拍数減少及び房室伝導遅延があらわれる可能性がある。これらの薬剤と併用する際には注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 458,
-    "other_brand": "アテノロール錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に一過性の心拍数減少及び房室伝導遅延があらわれる可能性がある。これらの薬剤と併用する際には注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8022,
-    "other_brand": "テノーミン錠50",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に一過性の心拍数減少及び房室伝導遅延があらわれる可能性がある。これらの薬剤と併用する際には注意すること。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,308 +1,206 @@
 [
   {
     "other_id": 1449,
-    "other_brand": "アーリーダ錠60mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度が低下するため、作用が減弱し、これらの薬剤に対する耐性出現のおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1523,
-    "other_brand": "イクスタンジ錠40mg",
-    "interaction_type": "contraindicated",
-    "source_text": "エンザルタミドの併用により、これらの抗ウイルス剤の作用を減弱させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3183,
-    "other_brand": "オペプリム",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3356,
-    "other_brand": "オルガドロン注射液1.9mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6157,
-    "other_brand": "ジンタス錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤及びこれらの薬剤の効果を減弱するおそれがあるので、時間をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7937,
-    "other_brand": "ティブソボ錠250mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の効果が減弱し、耐性が出現するおそれがある。"
-  },
-  {
-    "other_id": 5465,
-    "other_brand": "サンリズムカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "ピルシカイニドの血漿中濃度を増加させる可能性がある。併用により、ピルシカイニドで重大な副作用として報告されている心室頻拍、洞停止及び心室細動等の発現及び重篤化があらわれるおそれがあるので、併用中は注意深く観察すること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10881,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ピルシカイニドの血漿中濃度を増加させる可能性がある。併用により、ピルシカイニドで重大な副作用として報告されている心室頻拍、洞停止及び心室細動等の発現及び重篤化があらわれるおそれがあるので、併用中は注意深く観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10883,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "ピルシカイニドの血漿中濃度を増加させる可能性がある。併用により、ピルシカイニドで重大な副作用として報告されている心室頻拍、洞停止及び心室細動等の発現及び重篤化があらわれるおそれがあるので、併用中は注意深く観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5465,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "ピルシカイニドの血漿中濃度を増加させる可能性がある。併用により、ピルシカイニドで重大な副作用として報告されている心室頻拍、洞停止及び心室細動等の発現及び重篤化があらわれるおそれがあるので、併用中は注意深く観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ピルシカイニドの血漿中濃度を増加させる可能性がある。併用により、ピルシカイニドで重大な副作用として報告されている心室頻拍、洞停止及び心室細動等の発現及び重篤化があらわれるおそれがあるので、併用中は注意深く観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10654,
-    "other_brand": "ビラミューン錠200",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度をC\nmax\nで33%、C\nτ\nで73%低下させたとの報告がある\n。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度をC\nmax\nで33%、C\nτ\nで73%低下させたとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度をC\nmax\nで33%、C\nτ\nで73%低下させたとの報告がある\n。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度をC\nmax\nで43%、C\nτ\nで72%低下させたとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13670,
-    "other_brand": "メトグルコ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "メトホルミンの血漿中濃度をドルテグラビル50mg 1日1回投与時及び1日2回投与時にC\nmax\nでそれぞれ66%及び111%上昇させる\n。注意深く観察し、必要に応じてメトホルミンを減量する等慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13703,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「三和」",
-    "interaction_type": "caution",
-    "source_text": "メトホルミンの血漿中濃度をドルテグラビル50mg 1日1回投与時及び1日2回投与時にC\nmax\nでそれぞれ66%及び111%上昇させる\n。注意深く観察し、必要に応じてメトホルミンを減量する等慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13705,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「明治」",
-    "interaction_type": "caution",
-    "source_text": "メトホルミンの血漿中濃度をドルテグラビル50mg 1日1回投与時及び1日2回投与時にC\nmax\nでそれぞれ66%及び111%上昇させる\n。注意深く観察し、必要に応じてメトホルミンを減量する等慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13707,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "メトホルミンの血漿中濃度をドルテグラビル50mg 1日1回投与時及び1日2回投与時にC\nmax\nでそれぞれ66%及び111%上昇させる\n。注意深く観察し、必要に応じてメトホルミンを減量する等慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13708,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「DSPB」",
-    "interaction_type": "caution",
-    "source_text": "メトホルミンの血漿中濃度をドルテグラビル50mg 1日1回投与時及び1日2回投与時にC\nmax\nでそれぞれ66%及び111%上昇させる\n。注意深く観察し、必要に応じてメトホルミンを減量する等慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13711,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「TE」",
-    "interaction_type": "caution",
-    "source_text": "メトホルミンの血漿中濃度をドルテグラビル50mg 1日1回投与時及び1日2回投与時にC\nmax\nでそれぞれ66%及び111%上昇させる\n。注意深く観察し、必要に応じてメトホルミンを減量する等慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8222,
-    "other_brand": "ディクアノン懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血漿中濃度をC\nmax\nで72%、C\n24\nで74%低下させる。ドルテグラビルナトリウムは本剤投与2時間前又は6時間後の投与が推奨される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8233,
-    "other_brand": "デカドロン注射液1.65mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8236,
-    "other_brand": "デカドロン錠0.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8238,
-    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8256,
-    "other_brand": "デキサート注射液1.65mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9711,
-    "other_brand": "ノベルジン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤及びこれらの薬剤の効果を減弱するおそれがあるので、時間をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10652,
-    "other_brand": "ビラフトビカプセル50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度が低下するため、作用が減弱し、これらの薬剤に対する耐性出現のおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13265,
-    "other_brand": "マルファ懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血漿中濃度をC\nmax\nで72%、C\n24\nで74%低下させる。ドルテグラビルナトリウムは本剤投与2時間前又は6時間後の投与が推奨される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13289,
-    "other_brand": "マーレッジ懸濁用配合DS",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血漿中濃度をC\nmax\nで72%、C\n24\nで74%低下させる。ドルテグラビルナトリウムは本剤投与2時間前又は6時間後の投与が推奨される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "リルピビリンの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14765,
-    "other_brand": "リタロクス懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血漿中濃度をC\nmax\nで72%、C\n24\nで74%低下させる。ドルテグラビルナトリウムは本剤投与2時間前又は6時間後の投与が推奨される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ドルテグラビル及びリルピビリンの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "ドルテグラビル及びリルピビリンの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血漿中濃度が低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15217,
-    "other_brand": "レナデックス錠2mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度を低下させ、作用を減弱させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17272,
-    "other_brand": "酢酸亜鉛錠25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤及びこれらの薬剤の効果を減弱するおそれがあるので、時間をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17273,
-    "other_brand": "酢酸亜鉛錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤及びこれらの薬剤の効果を減弱するおそれがあるので、時間をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17278,
-    "other_brand": "酢酸亜鉛顆粒5%「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤及びこれらの薬剤の効果を減弱するおそれがあるので、時間をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17274,
-    "other_brand": "酢酸亜鉛錠25mg「ノーベル」",
-    "interaction_type": "caution",
-    "source_text": "本剤及びこれらの薬剤の効果を減弱するおそれがあるので、時間をあけて投与すること。"
+    "interaction_type": "caution"
   }
 ]

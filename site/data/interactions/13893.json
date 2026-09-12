@@ -1,122 +1,82 @@
 [
   {
     "other_id": 5881,
-    "other_brand": "ジギラノゲン注0.4mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。ジギタリス中毒の症状（嘔気、嘔吐、不整脈等）があらわれるおそれがある。消化器・神経系自覚症状、心電図、血中濃度測定等必要に応じ観察するとともに腎機能、血清電解質（カリウム、マグネシウム、カルシウム）、甲状腺機能等の誘因に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13654,
-    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "併用開始時、中止時及び病態の変化に応じて血液凝固能が変化するので、血液凝固能検査値の変動に十分注意し、必要があれば抗凝血剤の用量調節を行う。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "併用開始時、中止時及び病態の変化に応じて血液凝固能が変化するので、血液凝固能検査値の変動に十分注意し、必要があれば抗凝血剤の用量調節を行う。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "併用開始時、中止時及び病態の変化に応じて血液凝固能が変化するので、血液凝固能検査値の変動に十分注意し、必要があれば抗凝血剤の用量調節を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "併用開始時、中止時及び病態の変化に応じて血液凝固能が変化するので、血液凝固能検査値の変動に十分注意し、必要があれば抗凝血剤の用量調節を行う。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "併用開始時、中止時及び病態の変化に応じてジギタリス製剤の血中濃度が変動するので、血中濃度の変動に十分注意し、必要があればジギタリス製剤の用量調節を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14247,
-    "other_brand": "ヨウ化カリウム「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺－脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14248,
-    "other_brand": "ヨウ化カリウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺－脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14250,
-    "other_brand": "ヨウ化カリウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺－脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14252,
-    "other_brand": "ヨウ化カリウム「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺－脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14253,
-    "other_brand": "ヨウ化カリウム丸50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14254,
-    "other_brand": "ヨウ化カリウム内服ゼリー16.3mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\n甲状腺機能亢進症の患者に相手薬剤を投与し甲状腺機能が正常化すると血液凝固能が亢進し、見かけ上の本剤の作用が減弱することがある。\n併用する場合には病態の変化に応じて血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。\n甲状腺機能亢進症の患者に相手薬剤を投与し甲状腺機能が正常化すると血液凝固能が亢進し、見かけ上の本剤の作用が減弱することがある。\n併用する場合には病態の変化に応じて血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   }
 ]

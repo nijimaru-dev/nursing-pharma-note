@@ -1,188 +1,126 @@
 [
   {
     "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "他のMAO-B阻害薬との併用により、高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、さらに死亡例も報告されている。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、左記薬剤の投与を中止してから本剤の投与を開始するまでに、2〜3日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "他のMAO-B阻害剤との併用により、高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、さらに死亡例も報告されている。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、左記薬剤の投与を中止してから本剤の投与を開始するまでに、少なくとも2～3日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、更に三環系抗うつ剤との併用下において死亡例も報告されている。本剤の投与を中止してから三環系抗うつ剤及び四環系抗うつ剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、三環系抗うつ剤及び四環系抗うつ剤の投与を中止してから本剤の投与を開始するまでに、少なくとも2～3日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、更に三環系抗うつ剤との併用下において死亡例も報告されている。本剤の投与を中止してから三環系抗うつ剤及び四環系抗うつ剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、三環系抗うつ剤及び四環系抗うつ剤の投与を中止してから本剤の投与を開始するまでに、少なくとも2～3日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧、失神、不全収縮、発汗、てんかん、動作・精神障害の変化及び筋強剛等の副作用があらわれ、更に三環系抗うつ剤との併用下において死亡例も報告されている。本剤の投与を中止してから三環系抗うつ剤及び四環系抗うつ剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、三環系抗うつ剤及び四環系抗うつ剤の投与を中止してから本剤の投与を開始するまでに、少なくとも2～3日間の間隔を置くこと。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者にセチプチリンマレイン酸塩を投与する場合には、少なくとも2週間の間隔をおき、また、セチプチリンマレイン酸塩からMAO阻害剤に切り替えるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者にセチプチリンマレイン酸塩を投与する場合には、少なくとも2週間の間隔をおき、また、セチプチリンマレイン酸塩からMAO阻害剤に切り替えるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者にセチプチリンマレイン酸塩を投与する場合には、少なくとも2週間の間隔をおき、また、セチプチリンマレイン酸塩からMAO阻害剤に切り替えるときは、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者にセチプチリンマレイン酸塩を投与する場合には、少なくとも2週間の間隔をおき、また、セチプチリンマレイン酸塩からMAO阻害剤に切り替えるときは、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者にセチプチリンマレイン酸塩を投与する場合には、少なくとも2週間の間隔をおき、また、セチプチリンマレイン酸塩からMAO阻害剤に切り替えるときは、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれるおそれがある。MAO阻害剤の投与を受けた患者にセチプチリンマレイン酸塩を投与する場合には、少なくとも2週間の間隔をおき、また、セチプチリンマレイン酸塩からMAO阻害剤に切り替えるときは、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "眠気、脱力感、倦怠感、ふらつき等があらわれやすい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、脱力感、倦怠感、ふらつき等があらわれやすい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、脱力感、倦怠感、ふらつき等があらわれやすい。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "眠気、脱力感、倦怠感、ふらつき等があらわれやすい。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、脱力感、倦怠感、ふらつき等があらわれやすい。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、脱力感、倦怠感、ふらつき等があらわれやすい。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "眠気、脱力感、倦怠感、ふらつき等があらわれやすい。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1905,
-    "other_brand": "インチュニブ錠1mg",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4710,
-    "other_brand": "グアンファシン徐放錠1mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4711,
-    "other_brand": "グアンファシン徐放錠1mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1905,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15960,
-    "other_brand": "ワイテンス錠2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧効果が減弱するおそれがある。患者の状態を注意深く観察し、血圧上昇等の症状が認められた場合、他剤への変更、又は抗うつ剤の投与を中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   }
 ]

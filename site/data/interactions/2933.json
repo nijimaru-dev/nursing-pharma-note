@@ -1,80 +1,54 @@
 [
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
-  },
-  {
-    "other_id": 7112,
-    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7115,
-    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7122,
-    "other_brand": "タクロリムスカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7124,
-    "other_brand": "タクロリムス軟膏0.1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7125,
-    "other_brand": "タクロリムス軟膏0.1％「PP」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7126,
-    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7128,
-    "other_brand": "タクロリムス錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7138,
-    "other_brand": "タクロリムス錠5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
-  },
-  {
-    "other_id": 7140,
-    "other_brand": "タクロリムス錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7298,
-    "other_brand": "タリムス点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "タクロリムス水和物の血中濃度が上昇することが報告されている。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7140,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7112,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7115,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7122,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7124,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7125,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7126,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7128,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   }
 ]

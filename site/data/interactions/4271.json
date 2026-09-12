@@ -1,152 +1,102 @@
 [
   {
-    "other_id": 4181,
-    "other_brand": "キシロカインポンプスプレー8%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "other_id": 14784,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 14784,
-    "other_brand": "リドカインテープ18mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14788,
-    "other_brand": "リドカインポンプスプレー8％「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14791,
-    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14797,
-    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7956,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4181,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7961,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7960,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14809,
-    "other_brand": "リドカイン点滴静注液1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14810,
-    "other_brand": "リドカイン静注液2％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4469,
-    "other_brand": "クラリチンドライシロップ1%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "other_id": 7962,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4471,
-    "other_brand": "クラリチン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "other_id": 7965,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15895,
-    "other_brand": "ロラタジンドライシロップ1%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 15896,
-    "other_brand": "ロラタジン錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 15898,
-    "other_brand": "ロラタジン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 15899,
-    "other_brand": "ロラタジン錠10mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 15900,
-    "other_brand": "ロラタジン錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 15901,
-    "other_brand": "ロラタジン錠10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 15902,
-    "other_brand": "ロラタジン錠10mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "other_id": 7966,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15905,
-    "other_brand": "ロラタジン錠10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15907,
-    "other_brand": "ロラタジンDS1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15899,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15900,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15901,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4471,
+    "interaction_type": "caution"
   }
 ]

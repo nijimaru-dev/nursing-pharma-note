@@ -1,116 +1,78 @@
 [
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "ビタミンAの正常血中濃度には影響を及ぼさないが、ビタミンA過剰症と類似した副作用症状があらわれることがある。"
-  },
-  {
-    "other_id": 7532,
-    "other_brand": "チガソンカプセル10",
-    "interaction_type": "contraindicated",
-    "source_text": "ビタミンAの正常血中濃度には影響を及ぼさないが、ビタミンA過剰症と類似した副作用症状があらわれることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ビタミンAの正常血中濃度には影響を及ぼさないが、ビタミンA過剰症と類似した副作用症状があらわれることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ビタミンAの正常血中濃度には影響を及ぼさないが、ビタミンA過剰症と類似した副作用症状があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "ビタミンAの正常血中濃度には影響を及ぼさないが、ビタミンA過剰症と類似した副作用症状があらわれることがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7532,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12269,
-    "other_brand": "ベサノイドカプセル10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ビタミンA過剰症と類似した副作用症状を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7309,
-    "other_brand": "タルグレチンカプセル75mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ビタミンA過剰症と類似した副作用症状を起こすおそれがある。"
-  },
-  {
-    "other_id": 7107,
-    "other_brand": "タキソール注射液30mg",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセルの血中濃度が上昇する。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10130,
-    "other_brand": "パクリタキセル注射液30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセルの血中濃度が上昇する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7107,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10135,
-    "other_brand": "パクリタキセル注30mg/5mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセルの血中濃度が上昇する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13419,
-    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13420,
-    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13421,
-    "other_brand": "ミノサイクリン塩酸塩点滴静注用100mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13422,
-    "other_brand": "ミノサイクリン塩酸塩錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13423,
-    "other_brand": "ミノサイクリン塩酸塩錠50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13426,
-    "other_brand": "ミノサイクリン塩酸塩顆粒2％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13443,
-    "other_brand": "ミノマイシンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13445,
-    "other_brand": "ミノマイシン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13446,
-    "other_brand": "ミノマイシン顆粒2％",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   }
 ]

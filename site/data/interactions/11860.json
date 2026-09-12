@@ -1,26 +1,18 @@
 [
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強することがある。観察を十分に行い慎重に投与すること。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強することがある。観察を十分に行い慎重に投与すること。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強することがある。観察を十分に行い慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強することがある。観察を十分に行い慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   }
 ]

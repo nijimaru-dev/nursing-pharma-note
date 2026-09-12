@@ -1,230 +1,154 @@
 [
   {
     "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 771,
-    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 772,
-    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性不整脈を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 783,
-    "other_brand": "アミサリン注100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 785,
-    "other_brand": "アミサリン錠125mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 806,
-    "other_brand": "アミファーゲンP注20mL",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性不整脈を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1567,
-    "other_brand": "イストダックス点滴静注用10mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長等の重篤な心電図異常を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長等があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4235,
-    "other_brand": "キョウミノチン静注PL",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4828,
-    "other_brand": "グリチロン配合錠",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4932,
-    "other_brand": "グルコリン配合静注",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5641,
-    "other_brand": "シベノール錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5643,
-    "other_brand": "シベノール静注70mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5645,
-    "other_brand": "シベンゾリンコハク酸塩錠50mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5646,
-    "other_brand": "シベンゾリンコハク酸塩錠50mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5812,
-    "other_brand": "シンビット静注用50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5962,
-    "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5963,
-    "other_brand": "ジソピラミド徐放錠150mg「SW」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5964,
-    "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6820,
-    "other_brand": "ソタコール錠40mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6822,
-    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8412,
-    "other_brand": "デルティバ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "リスクとベネフィットを考慮して本剤投与の適応を慎重に判断すること。QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9471,
-    "other_brand": "ニチファーゲン注",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9473,
-    "other_brand": "ニチファーゲン配合錠",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9626,
-    "other_brand": "ネオファーゲン静注20mL",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9627,
-    "other_brand": "ネオファーゲンC配合錠",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10375,
-    "other_brand": "ヒシファーゲン配合静注",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11852,
-    "other_brand": "プリマキン錠15mg「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14732,
-    "other_brand": "リスモダンR錠150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15502,
-    "other_brand": "レミゲン静注20mL",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16460,
-    "other_brand": "強力ネオミノファーゲンシー静注シリンジ20mL",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16462,
-    "other_brand": "強力ネオミノファーゲンシー静注20mL",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16463,
-    "other_brand": "強力ネオミノファーゲンシーP静注20mL",
-    "interaction_type": "caution",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,0 +1,10 @@
+[
+  {
+    "interaction_type": "contraindicated",
+    "source_text": "本剤の血中濃度が上昇することがある。また、腎障害等の副作用があらわれやすくなるので併用しないこと。"
+  },
+  {
+    "interaction_type": "caution",
+    "source_text": "腎障害があらわれやすくなるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど患者の状態を十分に観察すること。"
+  }
+]

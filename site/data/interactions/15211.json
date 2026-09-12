@@ -1,170 +1,114 @@
 [
   {
     "other_id": 3060,
-    "other_brand": "オクソラレンローション1%",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3062,
-    "other_brand": "オクソラレン軟膏0.3%",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3063,
-    "other_brand": "オクソラレン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5379,
-    "other_brand": "サラジェン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5380,
-    "other_brand": "サラジェン顆粒0.5%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11562,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11563,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11565,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12973,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12976,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
   }
 ]

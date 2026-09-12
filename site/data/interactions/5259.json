@@ -1,254 +1,170 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤の作用が増強することがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合は、少なくとも2週間の間隔をおくこと。"
-  },
-  {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤の作用が増強することがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合は、少なくとも2週間の間隔をおくこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤の作用が増強することがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合は、少なくとも2週間の間隔をおくこと。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤の作用が増強することがある。MAO阻害剤の投与を受けた患者に本剤を投与する場合は、少なくとも2週間の間隔をおくこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
-  },
-  {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "other_id": 11991,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長、心室性不整脈（Torsade de pointesを含む）等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9097,
-    "other_brand": "ドパストンカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9099,
-    "other_brand": "ドパストン静注25mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9101,
-    "other_brand": "ドパゾール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9161,
-    "other_brand": "ドンペリドン坐剤10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9162,
-    "other_brand": "ドンペリドン坐剤10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9163,
-    "other_brand": "ドンペリドン坐剤10mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9167,
-    "other_brand": "ドンペリドン錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9168,
-    "other_brand": "ドンペリドン錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9170,
-    "other_brand": "ドンペリドン錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9171,
-    "other_brand": "ドンペリドン錠5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9172,
-    "other_brand": "ドンペリドン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9173,
-    "other_brand": "ドンペリドン錠5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9174,
-    "other_brand": "ドンペリドン錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9187,
-    "other_brand": "ドンペリドンDS小児用1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9190,
-    "other_brand": "ナウゼリンドライシロップ1%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9191,
-    "other_brand": "ナウゼリン坐剤10",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9194,
-    "other_brand": "ナウゼリン錠5",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9196,
-    "other_brand": "ナウゼリンOD錠5",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11861,
-    "other_brand": "プリンペランシロップ0.1%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11862,
-    "other_brand": "プリンペラン注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11863,
-    "other_brand": "プリンペラン細粒2%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11864,
-    "other_brand": "プリンペラン錠5",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9174,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13663,
-    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13664,
-    "other_brand": "メトクロプラミド錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13665,
-    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "other_id": 9187,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "other_id": 9190,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9191,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9196,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   }
 ]

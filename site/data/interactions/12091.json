@@ -1,1478 +1,986 @@
 [
   {
     "other_id": 67,
-    "other_brand": "アイベータ配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 68,
-    "other_brand": "アイベータ配合点眼液（添加剤にベンザルコニウム塩化物を含む、使用期限2028年5月まで）",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 79,
-    "other_brand": "アウィクリ注 フレックスタッチ 総量300単位",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 289,
-    "other_brand": "アスピリン「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 293,
-    "other_brand": "アスピリン腸溶錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 295,
-    "other_brand": "アスピリン腸溶錠100mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 407,
-    "other_brand": "アゾルガ配合懸濁性点眼液",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 430,
-    "other_brand": "アダラートCR錠10mg",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 672,
-    "other_brand": "アピドラ注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 673,
-    "other_brand": "アピドラ注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 674,
-    "other_brand": "アピドラ注100単位／mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1894,
-    "other_brand": "インスリン　アスパルトBS注カート NR「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1895,
-    "other_brand": "インスリン　アスパルトBS注ソロスター NR「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1896,
-    "other_brand": "インスリン　アスパルトBS注100単位/mL NR「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1898,
-    "other_brand": "インスリン グラルギンBS注キット「FFP」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1897,
-    "other_brand": "インスリン　グラルギンBS注カート「リリー」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1900,
-    "other_brand": "インスリン　リスプロBS注カート　HU「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1902,
-    "other_brand": "インスリン　リスプロBS注100単位/mL　HU「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1910,
-    "other_brand": "インテバン坐剤25",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の降圧作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1925,
-    "other_brand": "インドメタシン坐剤25「NP」",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の降圧作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の降圧作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1933,
-    "other_brand": "インフリーカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のインドメタシンとの併用により、これらの医薬品の作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4217,
-    "other_brand": "キャブピリン配合錠",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4270,
-    "other_brand": "キーンス配合注 フレックスタッチ",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。特に、スルホニルウレア薬と併用する場合、低血糖のリスクが増加するおそれがあるため、スルホニルウレア薬の減量又は投与中止を検討すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4925,
-    "other_brand": "グルカゴン注射用1単位「ILS」",
-    "interaction_type": "caution",
-    "source_text": "血糖上昇後のリバウンド現象である低血糖症状があらわれやすくなる。特に、成長ホルモン分泌機能検査におけるプロプラノロール併用時に低血糖によると思われる症状が高頻度に認められているので、観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4926,
-    "other_brand": "グルカゴンGノボ注射用1mg（添付溶解液あり）",
-    "interaction_type": "caution",
-    "source_text": "血糖上昇後のリバウンド現象である低血糖症状があらわれやすくなる。特に、成長ホルモン分泌機能検査におけるプロプラノロール併用時に低血糖によると思われる症状が高頻度に認められているので、観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4927,
-    "other_brand": "グルカゴンGノボ注射用1mg（添付溶解液なし）",
-    "interaction_type": "caution",
-    "source_text": "血糖上昇後のリバウンド現象である低血糖症状があらわれやすくなる。特に、成長ホルモン分泌機能検査におけるプロプラノロール併用時に低血糖によると思われる症状が高頻度に認められているので、観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4943,
-    "other_brand": "グルファスト錠5mg",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4947,
-    "other_brand": "グルベス配合錠",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニター、その他患者の状態を十分に観察し、必要に応じて中止を考慮すること。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4948,
-    "other_brand": "グルベス配合OD錠",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニター、その他患者の状態を十分に観察し、必要に応じて中止を考慮すること。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5118,
-    "other_brand": "コソプト配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5296,
-    "other_brand": "コンプラビン配合錠",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはこれらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5510,
-    "other_brand": "ザラカム配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6103,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。心電図をモニターし、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。心電図をモニターし、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6112,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6202,
-    "other_brand": "スターシス錠30mg",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6454,
-    "other_brand": "セパミット−R細粒2％",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6455,
-    "other_brand": "セパミット細粒1%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6820,
-    "other_brand": "ソタコール錠40mg",
-    "interaction_type": "caution",
-    "source_text": "β遮断作用が増強されることがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6822,
-    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "β遮断作用が増強されることがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6851,
-    "other_brand": "ソリクア配合注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7005,
-    "other_brand": "ゾルトファイ配合注 フレックスタッチ",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。特に、スルホニルウレア薬と併用する場合、低血糖のリスクが増加するおそれがあるため、スルホニルウレア薬の減量を検討すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7152,
-    "other_brand": "タケルダ配合錠",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7237,
-    "other_brand": "タフチモ配合点眼液「日点」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7240,
-    "other_brand": "タフチモ配合点眼液「NIT」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7250,
-    "other_brand": "タプコム配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7338,
-    "other_brand": "タンボコール錠50mg",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。また、プロプラノロールとの併用においては、本剤並びにプロプラノロールの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7341,
-    "other_brand": "タンボコール静注50mg",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。また、プロプラノロールとの併用においては、本剤並びにプロプラノロールの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7561,
-    "other_brand": "チモプトール点眼液0.25％",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7563,
-    "other_brand": "チモプトールXE点眼液0.25%",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7565,
-    "other_brand": "チモロール点眼液0.25％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7566,
-    "other_brand": "チモロール点眼液0.25%「テイカ」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7567,
-    "other_brand": "チモロール点眼液0.25％「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7568,
-    "other_brand": "チモロール点眼液0.25％「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7569,
-    "other_brand": "チモロール点眼液0.25％「日新」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7575,
-    "other_brand": "チモロールPF点眼液0.25％「日点」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7577,
-    "other_brand": "チモロールXE点眼液0.25%「センジュ」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7578,
-    "other_brand": "チモロールXE点眼液0.25％「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7579,
-    "other_brand": "チモロールXE点眼液0.25％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7580,
-    "other_brand": "チモロールXE点眼液0.25%「TS」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。併用する場合には、これらの薬剤を減量するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8320,
-    "other_brand": "デュオトラバ配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8724,
-    "other_brand": "トラチモ配合点眼液「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8861,
-    "other_brand": "トレシーバ注　フレックスタッチ",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8862,
-    "other_brand": "トレシーバ注　ペンフィル",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9101,
-    "other_brand": "ドパゾール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "降圧薬の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9116,
-    "other_brand": "ドブタミン塩酸塩点滴静注液100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9117,
-    "other_brand": "ドブタミン持続静注50mgシリンジ「テルモ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9118,
-    "other_brand": "ドブタミン持続静注50mgシリンジ「KKC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9123,
-    "other_brand": "ドブタミン点滴静注液100mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9124,
-    "other_brand": "ドブタミン点滴静注液100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9125,
-    "other_brand": "ドブタミン点滴静注液200mgキット「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9127,
-    "other_brand": "ドブタミン点滴静注100mg「アイロム」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9128,
-    "other_brand": "ドブトレックスキット点滴静注用200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9130,
-    "other_brand": "ドブトレックス注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果の減弱、末梢血管抵抗の上昇等が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9147,
-    "other_brand": "ドルモロール配合点眼液「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9148,
-    "other_brand": "ドルモロール配合点眼液「センジュ」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9149,
-    "other_brand": "ドルモロール配合点眼液「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9150,
-    "other_brand": "ドルモロール配合点眼液「日点」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9153,
-    "other_brand": "ドルモロール配合点眼液「TS」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9326,
-    "other_brand": "ナテグリニド錠30mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9512,
-    "other_brand": "ニフェジピンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9514,
-    "other_brand": "ニフェジピンカプセル5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9517,
-    "other_brand": "ニフェジピンCR錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9518,
-    "other_brand": "ニフェジピンCR錠10mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9519,
-    "other_brand": "ニフェジピンCR錠10mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9520,
-    "other_brand": "ニフェジピンCR錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9521,
-    "other_brand": "ニフェジピンCR錠10mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9522,
-    "other_brand": "ニフェジピンCR錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。\n患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9535,
-    "other_brand": "ニフェジピンL錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9537,
-    "other_brand": "ニフェジピンL錠10mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9538,
-    "other_brand": "ニフェジピンL錠10mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9539,
-    "other_brand": "ニフェジピンL錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9540,
-    "other_brand": "ニフェジピンL錠10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9541,
-    "other_brand": "ニフェジピンL錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。患者の状態を注意深く観察し、過度の血圧低下や心不全等の症状が認められた場合、本剤又はβ遮断剤を減量若しくは中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9551,
-    "other_brand": "ニプラジロール点眼液0.25％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9552,
-    "other_brand": "ニプラジロール点眼液0.25％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9553,
-    "other_brand": "ニプラジロール点眼液0.25％「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9554,
-    "other_brand": "ニプラジロール点眼液0.25％「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9555,
-    "other_brand": "ニプラジロールPF点眼液0.25％「日点」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9556,
-    "other_brand": "ニプラノール点眼液0.25%",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9616,
-    "other_brand": "ネオドパゾール配合錠",
-    "interaction_type": "caution",
-    "source_text": "降圧薬の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9724,
-    "other_brand": "ノボラピッド注 フレックスタッチ",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9726,
-    "other_brand": "ノボラピッド注 ペンフィル",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9727,
-    "other_brand": "ノボラピッド注 100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9728,
-    "other_brand": "ノボラピッド30ミックス注 フレックスペン",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9729,
-    "other_brand": "ノボラピッド30ミックス注 ペンフィル",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9730,
-    "other_brand": "ノボラピッド50ミックス注 フレックスペン",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9731,
-    "other_brand": "ノボリン30R注フレックスペン",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9732,
-    "other_brand": "ノボリンN注フレックスペン",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9733,
-    "other_brand": "ノボリンR注 100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9734,
-    "other_brand": "ノボリンR注フレックスペン",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9799,
-    "other_brand": "ハイパジールコーワ点眼液0.25％",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10427,
-    "other_brand": "ヒューマリン3/7注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10429,
-    "other_brand": "ヒューマリン3/7注100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10430,
-    "other_brand": "ヒューマリンN注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10432,
-    "other_brand": "ヒューマリンN注100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10433,
-    "other_brand": "ヒューマリンR注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10435,
-    "other_brand": "ヒューマリンR注100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10436,
-    "other_brand": "ヒューマログミックス25注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10438,
-    "other_brand": "ヒューマログミックス50注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10440,
-    "other_brand": "ヒューマログ注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10443,
-    "other_brand": "ヒューマログ注100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10919,
-    "other_brand": "ファスティック錠30",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11032,
-    "other_brand": "フィアスプ注 フレックスタッチ",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11034,
-    "other_brand": "フィアスプ注 100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11486,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11524,
-    "other_brand": "フレカイニド酢酸塩錠50mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。また、プロプラノロールとの併用においては、本剤並びにプロプラノロールの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11525,
-    "other_brand": "フレカイニド酢酸塩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。また、プロプラノロールとの併用においては、本剤並びにプロプラノロールの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11527,
-    "other_brand": "フレカイニド酢酸塩錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。また、プロプラノロールとの併用においては、本剤並びにプロプラノロールの血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 14636,
-    "other_brand": "リザトリプタンOD錠10mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "リザトリプタンの消失半減期が延長、AUCが増加し、作用が増強する可能性がある。本剤投与中あるいは本剤投与中止から24時間以内の患者にはリザトリプタンを投与しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16321,
-    "other_brand": "安息香酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "リザトリプタンの消失半減期が延長、AUCが増加し、作用が増強する可能性がある。本剤投与中あるいは本剤投与中止から24時間以内の患者にはリザトリプタンを投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 7560,
-    "other_brand": "チモダイコーM",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 7673,
-    "other_brand": "ツムラの生薬チモ",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
+    "other_id": 14636,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8612,
-    "other_brand": "トチモトのチモ",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9277,
-    "other_brand": "ナカジマ　チモ",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 12828,
-    "other_brand": "ホリエ　チモK",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 14173,
-    "other_brand": "ヤマダのチモA",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16389,
-    "other_brand": "小島知母M",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7560,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14173,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17135,
-    "other_brand": "花扇チモK",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17437,
-    "other_brand": "高砂チモM",
-    "interaction_type": "caution",
-    "source_text": "交感神経系の過剰の抑制（徐脈、心不全等）をきたすことがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7673,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12828,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9277,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制（徐脈、心停止等）があらわれることがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "相互の薬剤の効果が減弱する。また、血管収縮、血圧上昇をきたすことがあるので注意すること。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "相互の薬剤の効果が減弱する。また、血管収縮、血圧上昇をきたすことがあるので注意すること。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "相互の薬剤の効果が減弱する。また、血管収縮、血圧上昇をきたすことがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "相互の薬剤の効果が減弱する。また、血管収縮、血圧上昇をきたすことがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6599,
-    "other_brand": "セボフルラン吸入麻酔液「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "反射性頻脈が弱まり、低血圧のリスクが増加することがある。陰性変力作用の小さい麻酔剤を選択すること。また、心筋抑制作用を有する麻酔剤との併用は出来るだけ避けること。"
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6600,
-    "other_brand": "セボフルラン吸入麻酔液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "反射性頻脈が弱まり、低血圧のリスクが増加することがある。陰性変力作用の小さい麻酔剤を選択すること。また、心筋抑制作用を有する麻酔剤との併用は出来るだけ避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6601,
-    "other_brand": "セボフレン吸入麻酔液",
-    "interaction_type": "caution",
-    "source_text": "反射性頻脈が弱まり、低血圧のリスクが増加することがある。陰性変力作用の小さい麻酔剤を選択すること。また、心筋抑制作用を有する麻酔剤との併用は出来るだけ避けること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4181,
-    "other_brand": "キシロカインポンプスプレー8%",
-    "interaction_type": "caution",
-    "source_text": "リドカインの代謝を遅延させ、血中濃度を上昇させることがあるので併用は避けること。"
+    "other_id": 6599,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14784,
-    "other_brand": "リドカインテープ18mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの代謝を遅延させ、血中濃度を上昇させることがあるので併用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14788,
-    "other_brand": "リドカインポンプスプレー8％「日新」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの代謝を遅延させ、血中濃度を上昇させることがあるので併用は避けること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4181,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14791,
-    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの代謝を遅延させ、血中濃度を上昇させることがあるので併用は避けること。"
-  },
-  {
-    "other_id": 14797,
-    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの代謝を遅延させ、血中濃度を上昇させることがあるので併用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14809,
-    "other_brand": "リドカイン点滴静注液1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの代謝を遅延させ、血中濃度を上昇させることがあるので併用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14810,
-    "other_brand": "リドカイン静注液2％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの代謝を遅延させ、血中濃度を上昇させることがあるので併用は避けること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14797,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等が発現することがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等が発現することがあるので注意すること。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等が発現することがあるので注意すること。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等が発現することがあるので注意すること。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等が発現することがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等が発現することがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強する可能性があるので注意すること。"
+    "other_id": 5946,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強する可能性があるので注意すること。"
+    "other_id": 5947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強する可能性があるので注意すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強する可能性があるので注意すること。"
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強する可能性があるので注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度の変動により、作用が減弱または増強する可能性があるので注意すること。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度の変動により、作用が減弱または増強する可能性があるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度の変動により、作用が減弱または増強する可能性があるので注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱する可能性があるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12242,
-    "other_brand": "ヘルベッサー注射用250",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。心電図をモニターし、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12241,
-    "other_brand": "ヘルベッサー注射用10",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。心電図をモニターし、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12244,
-    "other_brand": "ヘルベッサー錠30",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12246,
-    "other_brand": "ヘルベッサーRカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12311,
-    "other_brand": "ベタキソロール点眼液0.5％「SW」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断剤の全身的な作用が増強される可能性があるので、観察を十分に行うなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12433,
-    "other_brand": "ベプリコール錠50mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12435,
-    "other_brand": "ベプリジル塩酸塩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "徐脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12460,
-    "other_brand": "ベラパミル塩酸塩静注5mg「NIG」",
-    "interaction_type": "contraindicated",
-    "source_text": "心機能の低下や徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12543,
-    "other_brand": "ペチジン塩酸塩注射液35mg「タケダ」",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧及び顕著な鎮静又は昏睡が起こることがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12546,
-    "other_brand": "ペチロルファン配合注HD",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧及び顕著な鎮静又は昏睡が起こることがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13185,
-    "other_brand": "マクサルト錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の消失半減期（t\n1/2\n）が延長し、血中濃度-時間曲線下面積（AUC）が増加するので、プロプラノロールを投与中あるいは投与中止から次の期間が経過していない患者には本剤を投与しないこと。錠剤：24時間、徐放製剤：48時間"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13251,
-    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "起立性低血圧、鎮静、口渇、霧視、運動失調等があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13344,
-    "other_brand": "ミチグリニドCa・OD錠5mg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13345,
-    "other_brand": "ミチグリニドCa・OD錠5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13346,
-    "other_brand": "ミチグリニドCa・OD錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13347,
-    "other_brand": "ミチグリニドCa・OD錠5mg「SN」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13348,
-    "other_brand": "ミチグリニドCa・OD錠5mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13654,
-    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14292,
-    "other_brand": "ライゾデグ配合注 フレックスタッチ",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14386,
-    "other_brand": "ラタチモ配合点眼液「センジュ」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14387,
-    "other_brand": "ラタチモ配合点眼液「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14390,
-    "other_brand": "ラタチモ配合点眼液「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14391,
-    "other_brand": "ラタチモ配合点眼液「TS」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14392,
-    "other_brand": "ラタチモ配合点眼液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ遮断薬の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14591,
-    "other_brand": "ランタス注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14592,
-    "other_brand": "ランタス注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14593,
-    "other_brand": "ランタス注100単位／mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14594,
-    "other_brand": "ランタスXR注ソロスター",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状、又は減弱による高血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14634,
-    "other_brand": "リザトリプタンOD錠10mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の消失半減期(t\n1/2\n)が延長し、血中濃度-時間曲線下面積(AUC)が増加するので、プロプラノロールを投与中あるいは投与中止から次の期間が経過していない患者には本剤を投与しないこと。錠剤：24時間、徐放製剤：48時間"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14635,
-    "other_brand": "リザトリプタンOD錠10mg「TCK」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の消失半減期(t\n1/2\n)が延長し、血中濃度-時間曲線下面積(AUC)が増加するので、プロプラノロールを投与中あるいは投与中止から次の期間が経過していない患者には本剤を投与しないこと。錠剤：24時間、徐放製剤：48時間"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14734,
-    "other_brand": "リズモンTG点眼液0.25％",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14735,
-    "other_brand": "リズモンTG点眼液0.25%",
-    "interaction_type": "caution",
-    "source_text": "眼圧下降あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15068,
-    "other_brand": "ルジオミール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "起立性低血圧、鎮静、口渇、霧視、運動失調等があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "プロプラノロールの血中濃度上昇によると考えられる徐脈、低血圧等が報告されているので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15101,
-    "other_brand": "ルムジェブ注カート",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15104,
-    "other_brand": "ルムジェブ注100単位/mL",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15332,
-    "other_brand": "レベミル注 フレックスペン",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15333,
-    "other_brand": "レベミル注 ペンフィル",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状があらわれることがある。併用する場合は血糖値その他患者の状態を十分観察しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15480,
-    "other_brand": "レボブノロール塩酸塩点眼液0.5%「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "眼内圧あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15481,
-    "other_brand": "レボブノロール塩酸塩PF点眼液0.5%「日点」",
-    "interaction_type": "caution",
-    "source_text": "眼内圧あるいはβ-遮断剤の全身的な作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15929,
-    "other_brand": "ロレアス配合錠「杏林」",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはこれらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15930,
-    "other_brand": "ロレアス配合錠「NS」",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはこれらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15932,
-    "other_brand": "ロレアス配合錠「SANIK」",
-    "interaction_type": "caution",
-    "source_text": "アスピリンはこれらの薬剤の作用を減弱させることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15960,
-    "other_brand": "ワイテンス錠2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤投与中止後のリバウンド現象が強められるおそれがあるので、投与を中止する場合にはβ遮断剤を先に中止し、数日間経過を観察した後、本剤の投与を中止する。また、患者に医師の指示なしに使用を中止しないように注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心機能の低下や徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16216,
-    "other_brand": "塩化カリウム徐放錠600mg「St」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12545,
-    "other_brand": "ペチロルファン注射液",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧及び顕著な鎮静又は昏睡が起こることがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   }
 ]

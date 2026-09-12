@@ -1,62 +1,42 @@
 [
   {
     "other_id": 4294,
-    "other_brand": "クエストラン粉末44.4%",
-    "interaction_type": "caution",
-    "source_text": "A771726の体内からの消失を促進し、本剤の作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17183,
-    "other_brand": "薬用炭「日医工」",
-    "interaction_type": "caution",
-    "source_text": "A771726の体内からの消失を促進し、本剤の作用を減弱させることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制、肝障害の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制、肝障害の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制、肝障害の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制、肝障害の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験（単回経口投与）において、A771726のC\nmax\nが上昇したとの報告がある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与中はアルコール摂取を避けることが望ましい。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与中はアルコール摂取を避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与中はアルコール摂取を避けることが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   }
 ]

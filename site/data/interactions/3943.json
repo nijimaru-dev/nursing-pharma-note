@@ -1,44 +1,30 @@
 [
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物であるカロテグラストの作用が増強される可能性がある。本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9145,
-    "other_brand": "ドルミカムシロップ2mg/mL",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9146,
-    "other_brand": "ドルミカム注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13341,
-    "other_brand": "ミダゾラム注射液10mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

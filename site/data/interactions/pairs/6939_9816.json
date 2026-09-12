@@ -1,0 +1,10 @@
+[
+  {
+    "interaction_type": "contraindicated",
+    "source_text": "これらの薬剤の血中濃度上昇により、QT延長が発現するおそれがある。"
+  },
+  {
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+  }
+]

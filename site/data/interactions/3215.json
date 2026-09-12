@@ -1,86 +1,58 @@
 [
   {
-    "other_id": 6715,
-    "other_brand": "セレニカR顆粒40%",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
-  },
-  {
     "other_id": 10082,
-    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10083,
-    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10084,
-    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10086,
-    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10088,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10089,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10092,
-    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10094,
-    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10095,
-    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
-    "interaction_type": "contraindicated",
-    "source_text": "バルプロ酸の血中濃度が低下し、てんかんの発作が再発するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 6715,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8293,
-    "other_brand": "デパケンシロップ5%",
-    "interaction_type": "contraindicated",
-    "source_text": "てんかんの発作が再発することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8294,
-    "other_brand": "デパケン細粒20%",
-    "interaction_type": "contraindicated",
-    "source_text": "てんかんの発作が再発することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8296,
-    "other_brand": "デパケン錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "てんかんの発作が再発することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8298,
-    "other_brand": "デパケンR錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "てんかんの発作が再発することがある。"
+    "interaction_type": "contraindicated"
   }
 ]

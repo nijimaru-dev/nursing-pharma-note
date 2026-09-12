@@ -1,260 +1,174 @@
 [
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 9131,
-    "other_brand": "ドプスOD錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
     "other_id": 9158,
-    "other_brand": "ドロキシドパカプセル100mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
+    "other_id": 9131,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
+    "other_id": 2744,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "重篤ないし致死的不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。異常が認められた際には減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。異常が認められた際には減量するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。異常が認められた際には減量するなど適切な処置を行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。異常が認められた際には減量するなど適切な処置を行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 693,
-    "other_brand": "アプニション静注15mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 794,
-    "other_brand": "アミノフィリン注250mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 795,
-    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 796,
-    "other_brand": "アミノフィリン静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 798,
-    "other_brand": "アミノフィリン静注250mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 794,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9628,
-    "other_brand": "ネオフィリン原末",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9629,
-    "other_brand": "ネオフィリン注点滴用バッグ250mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7965,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7966,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9630,
-    "other_brand": "ネオフィリン注250mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9632,
-    "other_brand": "ネオフィリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、循環器症状（頻脈等）等の本剤の副作用症状を増強させることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 795,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 796,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7971,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9629,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 798,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 693,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強することがある。"
-  },
-  {
-    "other_id": 7700,
-    "other_brand": "ツムラの生薬マオウ",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
-  },
-  {
-    "other_id": 8657,
-    "other_brand": "トチモトのマオウ",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
-  },
-  {
-    "other_id": 9305,
-    "other_brand": "ナカジマ　マオウ",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
-  },
-  {
-    "other_id": 12860,
-    "other_brand": "ホリエ　マオウK",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
-  },
-  {
-    "other_id": 13166,
-    "other_brand": "マオウダイコーM",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
-  },
-  {
-    "other_id": 16418,
-    "other_brand": "小島麻黄M",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
-  },
-  {
-    "other_id": 17165,
-    "other_brand": "花扇マオウK",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17472,
-    "other_brand": "高砂マオウM",
-    "interaction_type": "caution",
-    "source_text": "不眠、発汗過多、頻脈、動悸、全身脱力感、精神興奮等があらわれやすくなる。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16418,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17165,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13166,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8657,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7700,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9305,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12860,
+    "interaction_type": "caution"
   }
 ]

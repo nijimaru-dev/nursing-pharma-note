@@ -1,320 +1,214 @@
 [
   {
     "other_id": 637,
-    "other_brand": "アナフラニール点滴静注液25mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 638,
-    "other_brand": "アナフラニール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "リトナビルとの併用により、本剤のAUC、クリアランス、半減期がそれぞれ2.5倍、0.41倍、2.2倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、本剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、半減期がそれぞれ2.8倍、0.41倍、2.7倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、半減期がそれぞれ2.8倍、0.41倍、2.7倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、半減期がそれぞれ2.8倍、0.41倍、2.7倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、半減期がそれぞれ2.8倍、0.41倍、2.7倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、半減期がそれぞれ2.8倍、0.41倍、2.7倍になり、中枢神経抑制作用が増強するとの報告がある。"
-  },
-  {
-    "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、最高血中濃度がそれぞれ2.0倍、0.51倍、1.9倍になり、中枢神経抑制作用が増強するとの報告がある。"
-  },
-  {
-    "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、最高血中濃度がそれぞれ2.0倍、0.51倍、1.9倍になり、中枢神経抑制作用が増強するとの報告がある。"
-  },
-  {
-    "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、最高血中濃度がそれぞれ2.0倍、0.51倍、1.9倍になり、中枢神経抑制作用が増強するとの報告がある。"
-  },
-  {
-    "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、最高血中濃度がそれぞれ2.0倍、0.51倍、1.9倍になり、中枢神経抑制作用が増強するとの報告がある。"
-  },
-  {
-    "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、最高血中濃度がそれぞれ2.0倍、0.51倍、1.9倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、最高血中濃度がそれぞれ2.0倍、0.51倍、1.9倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUC、クリアランス、最高血中濃度がそれぞれ2.0倍、0.51倍、1.9倍になり、中枢神経抑制作用が増強するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の最高血中濃度、クリアランス、半減期がそれぞれ1.9倍、0.58倍、1.2倍になるとの報告があるので、本剤を減量するか、又は他の抗潰瘍剤を用いるなど注意すること。"
+    "other_id": 8311,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の最高血中濃度、クリアランス、半減期がそれぞれ1.9倍、0.58倍、1.2倍になるとの報告があるので、本剤を減量するか、又は他の抗潰瘍剤を用いるなど注意すること。"
+    "other_id": 11483,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の最高血中濃度、クリアランス、半減期がそれぞれ1.9倍、0.58倍、1.2倍になるとの報告があるので、本剤を減量するか、又は他の抗潰瘍剤を用いるなど注意すること。"
+    "other_id": 11484,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の最高血中濃度、クリアランス、半減期がそれぞれ1.9倍、0.58倍、1.2倍になるとの報告があるので、本剤を減量するか、又は他の抗潰瘍剤を用いるなど注意すること。"
+    "other_id": 11485,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11487,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の最高血中濃度、クリアランス、半減期がそれぞれ1.9倍、0.58倍、1.2倍になるとの報告があるので、本剤を減量するか、又は他の抗潰瘍剤を用いるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が0.5倍以下に低下し、原疾患の悪化が認められた例が報告されている。"
+    "other_id": 5656,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が0.5倍以下に低下し、原疾患の悪化が認められた例が報告されている。"
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が0.5倍以下に低下し、原疾患の悪化が認められた例が報告されている。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用においてジゴキシンの血中濃度が上昇するとの報告がある\n。特に高齢者では注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用においてジゴキシンの血中濃度が上昇するとの報告がある\n。特に高齢者では注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用においてジゴキシンの血中濃度が上昇するとの報告がある\n。特に高齢者では注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用においてジゴキシンの血中濃度が上昇するとの報告がある\n。特に高齢者では注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用においてジゴキシンの血中濃度が上昇するとの報告がある\n。特に高齢者では注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1770,
-    "other_brand": "イミドール糖衣錠（10）",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2829,
-    "other_brand": "エリスロシン点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2830,
-    "other_brand": "エリスロシン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2827,
-    "other_brand": "エリスロシンドライシロップ10％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3254,
-    "other_brand": "オラビ錠口腔用50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5850,
-    "other_brand": "ジェセリ錠40mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度上昇や薬理学的相互作用により過度の鎮静が起こることがある。併用する場合にはこれらの薬剤を減量するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8692,
-    "other_brand": "トフラニール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9699,
-    "other_brand": "ノクサフィル点滴静注300mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9700,
-    "other_brand": "ノクサフィル錠100mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静の延長や呼吸抑制のおそれがあるため、CYP3A4によって代謝されるベンゾジアゼピン系薬剤（ミダゾラム、アルプラゾラム等）とポサコナゾールとの併用は、治療上の有益性が危険性を上回る場合を除き避けること。併用する場合には、これらの薬剤の用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11486,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させることがあるので、これらの薬剤の用量を減量するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

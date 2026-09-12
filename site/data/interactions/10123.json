@@ -1,2174 +1,1450 @@
 [
   {
     "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、左記薬剤の投与を中止してから本剤の投与を開始するまでに、フルボキサミンマレイン酸塩は少なくとも7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩及びエスシタロプラムシュウ酸塩は少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 497,
-    "other_brand": "アトモキセチンカプセル5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 498,
-    "other_brand": "アトモキセチンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 499,
-    "other_brand": "アトモキセチンカプセル5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 500,
-    "other_brand": "アトモキセチンカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 513,
-    "other_brand": "アトモキセチン内用液0.4%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 514,
-    "other_brand": "アトモキセチン内用液0.4％「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 515,
-    "other_brand": "アトモキセチン内用液0.4％「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 516,
-    "other_brand": "アトモキセチン錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 517,
-    "other_brand": "アトモキセチン錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 518,
-    "other_brand": "アトモキセチン錠5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 519,
-    "other_brand": "アトモキセチン錠5mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 520,
-    "other_brand": "アトモキセチン錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 766,
-    "other_brand": "アマージ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1727,
-    "other_brand": "イミグランキット皮下注3mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1728,
-    "other_brand": "イミグラン点鼻液20",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1729,
-    "other_brand": "イミグラン錠50",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。また、左記薬剤の投与を中止してから本剤の投与を開始するまでに、フルボキサミンマレイン酸塩は少なくとも7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩及びエスシタロプラムシュウ酸塩は少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2887,
-    "other_brand": "エレトリプタン錠20mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2888,
-    "other_brand": "エレトリプタン錠20mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2889,
-    "other_brand": "エレトリプタン錠20mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2890,
-    "other_brand": "エレトリプタン錠20mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2891,
-    "other_brand": "エレトリプタン錠20mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2892,
-    "other_brand": "エレトリプタン錠20mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2893,
-    "other_brand": "エレトリプタン錠20mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2894,
-    "other_brand": "エレトリプタン錠20mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5096,
-    "other_brand": "ゲンボイヤ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用時にこれら薬剤を増量する場合は慎重に行い，患者の状態を注意して観察することが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5341,
-    "other_brand": "サインバルタカプセル20mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6282,
-    "other_brand": "ストラテラカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6286,
-    "other_brand": "ストラテラ内用液0.4%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、経過を観察しながら時間をかけて本剤を増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6343,
-    "other_brand": "スマトリプタン錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6342,
-    "other_brand": "スマトリプタン錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6345,
-    "other_brand": "スマトリプタン錠50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6346,
-    "other_brand": "スマトリプタン錠50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6347,
-    "other_brand": "スマトリプタン錠50mg「SPKK」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6348,
-    "other_brand": "スマトリプタン錠50mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6350,
-    "other_brand": "スマトリプタン錠50mg「TW」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6351,
-    "other_brand": "スマトリプタン錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6352,
-    "other_brand": "スマトリプタン錠50mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7064,
-    "other_brand": "ゾルミトリプタンOD錠2.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7065,
-    "other_brand": "ゾルミトリプタンOD錠2.5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7066,
-    "other_brand": "ゾルミトリプタンOD錠2.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7067,
-    "other_brand": "ゾルミトリプタンOD錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7068,
-    "other_brand": "ゾルミトリプタンOD錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7069,
-    "other_brand": "ゾルミトリプタンOD錠2.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7070,
-    "other_brand": "ゾルミトリプタンOD錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7088,
-    "other_brand": "ゾーミッグ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7089,
-    "other_brand": "ゾーミッグRM錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7338,
-    "other_brand": "タンボコール錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7341,
-    "other_brand": "タンボコール静注50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7427,
-    "other_brand": "ダットスキャン静注",
-    "interaction_type": "caution",
-    "source_text": "線条体と背景組織における本剤の集積比が上昇する可能性がある。画像を評価する際に留意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。併用する場合には、これらの薬剤を減量するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8365,
-    "other_brand": "デュロキセチンカプセル20mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8366,
-    "other_brand": "デュロキセチンカプセル20mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8368,
-    "other_brand": "デュロキセチンカプセル20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8369,
-    "other_brand": "デュロキセチンカプセル20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8370,
-    "other_brand": "デュロキセチンカプセル20mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8371,
-    "other_brand": "デュロキセチンカプセル20mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8372,
-    "other_brand": "デュロキセチンカプセル20mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8373,
-    "other_brand": "デュロキセチンカプセル20mg「三笠」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8374,
-    "other_brand": "デュロキセチンカプセル20mg「日医工G」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8375,
-    "other_brand": "デュロキセチンカプセル20mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8377,
-    "other_brand": "デュロキセチンカプセル20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8378,
-    "other_brand": "デュロキセチンカプセル20mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8379,
-    "other_brand": "デュロキセチンカプセル20mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8380,
-    "other_brand": "デュロキセチンカプセル20mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8381,
-    "other_brand": "デュロキセチンカプセル20mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8399,
-    "other_brand": "デュロキセチン錠20mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8400,
-    "other_brand": "デュロキセチン錠20mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8403,
-    "other_brand": "デュロキセチンOD錠20mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8376,
-    "other_brand": "デュロキセチンカプセル20mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがあるので、本剤の用量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8818,
-    "other_brand": "トリラホン錠2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8822,
-    "other_brand": "トリンテリックス錠10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9404,
-    "other_brand": "ナラトリプタン錠2.5mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群があらわれることがある。MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には投与しないこと。また、本剤の投与中止後2週間以内にMAO阻害剤の投与を開始しないこと。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群があらわれることがある。MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には投与しないこと。また、本剤の投与中止後2週間以内にMAO阻害剤の投与を開始しないこと。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群があらわれることがある。MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には投与しないこと。また、本剤の投与中止後2週間以内にMAO阻害剤の投与を開始しないこと。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群があらわれることがある。MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には投与しないこと。また、本剤の投与中止後2週間以内にMAO阻害剤の投与を開始しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群があらわれることがある。MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には投与しないこと。また、本剤の投与中止後2週間以内にMAO阻害剤の投与を開始しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "セロトニン症候群があらわれることがある。MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には投与しないこと。また、本剤の投与中止後2週間以内にMAO阻害剤の投与を開始しないこと。"
-  },
-  {
-    "other_id": 102,
-    "other_brand": "アクチット輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 103,
-    "other_brand": "アクチット輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 688,
-    "other_brand": "アブストラル舌下錠100μg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 792,
-    "other_brand": "アミニック輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 802,
-    "other_brand": "アミノレバンEN配合散",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 807,
-    "other_brand": "アミユー配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 1291,
-    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 1667,
-    "other_brand": "イノソリッド配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 1674,
-    "other_brand": "イノラス配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 1783,
-    "other_brand": "イムフレックスCPD-MAP",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 2259,
-    "other_brand": "エクストラニール腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 2606,
-    "other_brand": "エネーボ配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 2895,
-    "other_brand": "エレメンミック注",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 2896,
-    "other_brand": "エレンタール配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 2897,
-    "other_brand": "エレンタールP乳幼児用配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 2901,
-    "other_brand": "エンシュア・リキッド",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 2902,
-    "other_brand": "エンシュア・H",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4056,
-    "other_brand": "カーボスター透析剤・L（6L）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4058,
-    "other_brand": "カーボスター透析剤・M",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4059,
-    "other_brand": "カーボスター透析剤・P（袋）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4065,
-    "other_brand": "カーミパック生理食塩液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4069,
-    "other_brand": "カーミパック生理食塩液L",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4072,
-    "other_brand": "カーミパックACD−A液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4073,
-    "other_brand": "カーミC リューコトラップ MAP",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4074,
-    "other_brand": "カーミCA液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4254,
-    "other_brand": "キンダリー透析剤5E",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4267,
-    "other_brand": "キンダリー透析剤AF5号(6L)",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4269,
-    "other_brand": "キンダリー透析剤AF5P号",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 4487,
-    "other_brand": "クリニザルツ輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 5362,
-    "other_brand": "サブパック血液ろ過用補充液−Bi",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5403,
-    "other_brand": "サルプレップ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "other_id": 11991,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5492,
-    "other_brand": "ザイボックス注射液600mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5493,
-    "other_brand": "ザイボックス錠600mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 5623,
-    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6190,
-    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6204,
-    "other_brand": "スチックゼノールA",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6448,
-    "other_brand": "セパセルインテグラC−MAP",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6449,
-    "other_brand": "セパセルインテグラCA",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6852,
-    "other_brand": "ソリタ−T配合顆粒2号",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6853,
-    "other_brand": "ソリタ−T配合顆粒3号",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6854,
-    "other_brand": "ソリタ−T1号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6856,
-    "other_brand": "ソリタ−T2号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6858,
-    "other_brand": "ソリタ−T3号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6860,
-    "other_brand": "ソリタ−T3号G輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6862,
-    "other_brand": "ソリタ−T4号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6864,
-    "other_brand": "ソリタックス−H輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 6915,
-    "other_brand": "ソルバノン",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 7352,
-    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 7370,
-    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 7388,
-    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 7391,
-    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 7614,
-    "other_brand": "ツインパル輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 7616,
-    "other_brand": "ツインラインNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8204,
-    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8206,
-    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 8407,
-    "other_brand": "デュロテップMTパッチ2.1mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 8879,
-    "other_brand": "トレーランG液50g",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9436,
-    "other_brand": "ニコペリック腹膜透析液（1500mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9601,
-    "other_brand": "ネオアミユー輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9844,
-    "other_brand": "ハルトマン−G3号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9851,
-    "other_brand": "ハルトマンD液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9898,
-    "other_brand": "バイフィル透析剤",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 10153,
-    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 10154,
-    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 10194,
-    "other_brand": "パレセーフ輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 10195,
-    "other_brand": "パレプラス輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 10500,
-    "other_brand": "ビカーボン輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 10760,
-    "other_brand": "ピシバニール注射用1KE",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 10905,
-    "other_brand": "ピーエヌツイン−1号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 11260,
-    "other_brand": "フェンタニル注射液0.1mg「テルモ」赤",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 11855,
-    "other_brand": "プリミーフォート経腸用液6",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 12013,
-    "other_brand": "プロクトセディル軟膏",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 12219,
-    "other_brand": "ヘパンED配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 12605,
-    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 12613,
-    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 13012,
-    "other_brand": "ボルヒール組織接着用（0.5mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 13292,
-    "other_brand": "ミオテクター冠血管注",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 13356,
-    "other_brand": "ミッドペリック135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 13369,
-    "other_brand": "ミッドペリックL135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 13390,
-    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 13895,
-    "other_brand": "メルスモン",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14019,
-    "other_brand": "モリアミンS注",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14020,
-    "other_brand": "モリプロンF輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14192,
-    "other_brand": "ユエキンキープ3号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14295,
-    "other_brand": "ラエンネック",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14312,
-    "other_brand": "ラクトリンゲル液′′フソー′′",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14319,
-    "other_brand": "ラクトリンゲルS注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14365,
-    "other_brand": "ラコールNF配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14366,
-    "other_brand": "ラコールNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13356,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6190,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13369,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6204,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13390,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14436,
-    "other_brand": "ラフェンタテープ1.38mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14824,
-    "other_brand": "リナセートD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "other_id": 102,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14826,
-    "other_brand": "リナセートF輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14829,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14830,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14831,
-    "other_brand": "リネゾリド点滴静注液600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14832,
-    "other_brand": "リネゾリド点滴静注液600mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14834,
-    "other_brand": "リネゾリド錠600mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14835,
-    "other_brand": "リネゾリド錠600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14840,
-    "other_brand": "リハビックス−K1号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14947,
-    "other_brand": "リプラス1号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 14950,
-    "other_brand": "リプラス3号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15014,
-    "other_brand": "リンゲル液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15046,
-    "other_brand": "リンパック透析剤TA1",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15047,
-    "other_brand": "リンパック透析剤TA3",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15048,
-    "other_brand": "リンパック透析剤TA5",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15138,
-    "other_brand": "レギュニール HCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15150,
-    "other_brand": "レギュニール LCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15991,
-    "other_brand": "ワンデュロパッチ0.84mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 15997,
-    "other_brand": "ワンパル1号輸液（800mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16012,
-    "other_brand": "ヴィーン3G輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16013,
-    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16015,
-    "other_brand": "ヴィーンD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16016,
-    "other_brand": "ヴィーンD輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16018,
-    "other_brand": "ヴィーンF輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16098,
-    "other_brand": "乳糖水和物「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16567,
-    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16572,
-    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16575,
-    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16757,
-    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 16948,
-    "other_brand": "白色ワセリン",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17210,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17211,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17212,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17213,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17214,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17215,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17216,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17217,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17218,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17219,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17220,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17221,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17222,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17223,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17224,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17225,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17226,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17227,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17228,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17229,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17230,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17231,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17232,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17233,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17234,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17235,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17236,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17237,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17238,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17239,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17240,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17241,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17242,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
-  },
-  {
-    "other_id": 17243,
-    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "other_id": 103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17523,
-    "other_brand": "10%EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4254,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4267,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4269,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17584,
-    "other_brand": "ACD-A液 250mL",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17585,
-    "other_brand": "AK−ソリタ透析剤・DL",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17586,
-    "other_brand": "AK−ソリタ透析剤・DP",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17587,
-    "other_brand": "AK−ソリタ透析剤・FL",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17588,
-    "other_brand": "AK−ソリタ透析剤・FP",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7352,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16575,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17602,
-    "other_brand": "Dドライ透析剤2.5S",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17603,
-    "other_brand": "Dドライ透析剤2.75S",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17604,
-    "other_brand": "Dドライ透析剤3.0S",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7370,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17614,
-    "other_brand": "EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17618,
-    "other_brand": "ESポリタミン配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2259,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8407,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7388,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9436,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17631,
-    "other_brand": "JMS ACD-A液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17632,
-    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5362,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6449,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17718,
-    "other_brand": "T&Tオルファクトメーター",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14653,
-    "other_brand": "リスパダール コンスタ筋注用25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "other_id": 12605,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12613,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5492,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16757,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5493,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7614,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7616,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14824,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14826,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14829,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14831,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14832,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14834,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14835,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5623,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14840,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10760,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2606,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16948,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11855,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14950,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9844,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9851,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15997,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1667,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1674,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16016,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16018,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10905,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15014,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8879,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 688,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14019,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14020,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15046,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15047,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6860,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15048,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6862,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6864,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16098,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 802,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 807,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17210,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17211,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17212,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17213,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17214,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17215,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17216,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17217,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17220,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17224,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17225,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17226,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17227,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17228,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17230,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17231,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17232,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17233,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2901,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17234,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17235,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17239,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17240,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17241,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17242,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17243,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10153,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10195,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14295,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4056,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4059,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4065,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4069,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4072,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4073,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4074,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14312,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11260,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14656,
-    "other_brand": "リスパダール内用液1mg/mL",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14657,
-    "other_brand": "リスパダール錠1mg",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14661,
-    "other_brand": "リスパダールOD錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14664,
-    "other_brand": "リスペリドン内用液1mg/mL「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14669,
-    "other_brand": "リスペリドン内用液1mg/mL「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14671,
-    "other_brand": "リスペリドン内用液1mg/mL「ヨシトミ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14672,
-    "other_brand": "リスペリドン内用液1mg/mL「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14673,
-    "other_brand": "リスペリドン錠0.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14674,
-    "other_brand": "リスペリドン錠1mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14675,
-    "other_brand": "リスペリドン細粒1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14677,
-    "other_brand": "リスペリドン錠1mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14678,
-    "other_brand": "リスペリドン錠1mg「ヨシトミ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14679,
-    "other_brand": "リスペリドン錠0.5mg「ヨシトミ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14680,
-    "other_brand": "リスペリドン錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14682,
-    "other_brand": "リスペリドン錠0.5mg「クニヒロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14712,
-    "other_brand": "リスペリドンOD錠0.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14713,
-    "other_brand": "リスペリドンOD錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14714,
-    "other_brand": "リスペリドンOD錠0.5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。これらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14653,
+    "interaction_type": "caution"
   },
   {
     "other_id": 790,
-    "other_brand": "アミトリプチリン塩酸塩錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。イミプラミンとの薬物相互作用試験において、併用投与により鎮静及び抗コリン作用の症状が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9735,
-    "other_brand": "ノリトレン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。イミプラミンとの薬物相互作用試験において、併用投与により鎮静及び抗コリン作用の症状が報告されている。"
-  },
-  {
-    "other_id": 11524,
-    "other_brand": "フレカイニド酢酸塩錠50mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11525,
-    "other_brand": "フレカイニド酢酸塩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11527,
-    "other_brand": "フレカイニド酢酸塩錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 12057,
-    "other_brand": "プロノン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12066,
-    "other_brand": "プロパフェノン塩酸塩錠100mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11524,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11525,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11527,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7560,
-    "other_brand": "チモダイコーM",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7565,
-    "other_brand": "チモロール点眼液0.25％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7569,
-    "other_brand": "チモロール点眼液0.25％「日新」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7577,
-    "other_brand": "チモロールXE点眼液0.25%「センジュ」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7579,
-    "other_brand": "チモロールXE点眼液0.25％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7673,
-    "other_brand": "ツムラの生薬チモ",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 8612,
-    "other_brand": "トチモトのチモ",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9277,
-    "other_brand": "ナカジマ　チモ",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 12828,
-    "other_brand": "ホリエ　チモK",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 14173,
-    "other_brand": "ヤマダのチモA",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "other_id": 12057,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16389,
-    "other_brand": "小島知母M",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17135,
-    "other_brand": "花扇チモK",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "other_id": 12828,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17437,
-    "other_brand": "高砂チモM",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6733,
-    "other_brand": "セロケン錠20mg",
-    "interaction_type": "caution",
-    "source_text": "メトプロロールとの併用投与により、重度の血圧低下が報告されている。"
+    "other_id": 9277,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6734,
-    "other_brand": "セロケンL錠120mg",
-    "interaction_type": "caution",
-    "source_text": "メトプロロールとの併用投与により、重度の血圧低下が報告されている。"
+    "other_id": 17135,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13692,
-    "other_brand": "メトプロロール酒石酸塩錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "メトプロロールとの併用投与により、重度の血圧低下が報告されている。"
+    "other_id": 14173,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13694,
-    "other_brand": "メトプロロール酒石酸塩錠20mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "メトプロロールとの併用投与により、重度の血圧低下が報告されている。"
+    "other_id": 7560,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7565,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7569,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7577,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7579,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8612,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7673,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15878,
-    "other_brand": "ロプレソール錠20mg",
-    "interaction_type": "caution",
-    "source_text": "メトプロロールとの併用投与により、重度の血圧低下が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15880,
-    "other_brand": "ロプレソールSR錠120mg",
-    "interaction_type": "caution",
-    "source_text": "メトプロロールとの併用投与により、重度の血圧低下が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17260,
-    "other_brand": "酒石酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "メトプロロールとの併用投与により、重度の血圧低下が報告されている。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6733,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6734,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13692,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13694,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7282,
-    "other_brand": "タモキシフェン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "タモキシフェンの作用が減弱されるおそれがある。併用により乳癌による死亡リスクが増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7283,
-    "other_brand": "タモキシフェン錠10mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "タモキシフェンの作用が減弱されるおそれがある。併用により乳癌による死亡リスクが増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7285,
-    "other_brand": "タモキシフェン錠10mg「MYL」",
-    "interaction_type": "caution",
-    "source_text": "タモキシフェンの作用が減弱されるおそれがある。併用により乳癌による死亡リスクが増加したとの報告がある。"
-  },
-  {
-    "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4206,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの作用が減弱されるおそれがある。"
-  },
-  {
-    "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
-  },
-  {
-    "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
-  },
-  {
-    "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
-  },
-  {
-    "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "出血傾向が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤服用中は、飲酒を避けることが望ましい。"
+    "other_id": 294,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤服用中は、飲酒を避けることが望ましい。"
+    "other_id": 296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "本剤服用中は、飲酒を避けることが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10908,
-    "other_brand": "ピーゼットシー散1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10909,
-    "other_brand": "ピーゼットシー筋注2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10910,
-    "other_brand": "ピーゼットシー糖衣錠2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13185,
-    "other_brand": "マクサルト錠10mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13658,
-    "other_brand": "メチレンブルー静注50mg「第一三共」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン作動薬との併用により、セロトニン症候群があらわれるおそれがある。本剤の低用量からの投与開始を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14634,
-    "other_brand": "リザトリプタンOD錠10mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14635,
-    "other_brand": "リザトリプタンOD錠10mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14636,
-    "other_brand": "リザトリプタンOD錠10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15518,
-    "other_brand": "レルパックス錠20mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（不安、焦燥、興奮、頻脈、発熱、反射亢進、協調運動障害、下痢等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   }
 ]

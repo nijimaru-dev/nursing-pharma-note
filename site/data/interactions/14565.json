@@ -1,32 +1,22 @@
 [
   {
     "other_id": 2186,
-    "other_brand": "ウパシタ静注透析用25μgシリンジ",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4294,
-    "other_brand": "クエストラン粉末44.4%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。これらの薬剤の吸収阻害を避けるために、本剤投与前4時間若しくは投与後4～6時間以上、又は可能な限り間隔をあけて慎重に投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10308,
-    "other_brand": "パーサビブ静注透析用シリンジ2.5mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10311,
-    "other_brand": "パーサビブ静注透析用2.5mg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12662,
-    "other_brand": "ペングッド錠250mg",
-    "interaction_type": "caution",
-    "source_text": "ラロキシフェン塩酸塩の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

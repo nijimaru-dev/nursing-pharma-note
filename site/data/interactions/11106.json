@@ -1,74 +1,50 @@
 [
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17285,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17290,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17292,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1449,
-    "other_brand": "アーリーダ錠60mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,140 +1,94 @@
 [
   {
-    "other_id": 8273,
-    "other_brand": "デスモプレシン点鼻スプレー2.5µg「フェリング」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
-  },
-  {
-    "other_id": 8274,
-    "other_brand": "デスモプレシン静注4µg「フェリング」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
-  },
-  {
-    "other_id": 13404,
-    "other_brand": "ミニリンメルトOD錠60µg",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
-  },
-  {
-    "other_id": 13406,
-    "other_brand": "ミニリンメルトOD錠25µg",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
-  },
-  {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8273,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8274,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "other_id": 13404,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "other_id": 13406,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "モメタゾンフランカルボン酸エステルの血中濃度又はシクレソニドの活性代謝物である脱イソブチリル体の血中濃度が上昇し、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "モメタゾンフランカルボン酸エステルの血中濃度又はシクレソニドの活性代謝物である脱イソブチリル体の血中濃度が上昇し、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,14 +1,10 @@
 [
   {
     "other_id": 9795,
-    "other_brand": "ハイツエキシン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16582,
-    "other_brand": "注射用エンドキサン100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,308 +1,206 @@
 [
   {
     "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 771,
-    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 772,
-    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 783,
-    "other_brand": "アミサリン注100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 785,
-    "other_brand": "アミサリン錠125mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長、心室性頻拍（Torsades de pointesを含む）を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5641,
-    "other_brand": "シベノール錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5643,
-    "other_brand": "シベノール静注70mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5645,
-    "other_brand": "シベンゾリンコハク酸塩錠50mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5646,
-    "other_brand": "シベンゾリンコハク酸塩錠50mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5812,
-    "other_brand": "シンビット静注用50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5962,
-    "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5963,
-    "other_brand": "ジソピラミド徐放錠150mg「SW」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5964,
-    "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6820,
-    "other_brand": "ソタコール錠40mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6822,
-    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが上昇することが予想される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10861,
-    "other_brand": "ピメノールカプセル50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsade de pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14732,
-    "other_brand": "リスモダンR錠150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室性頻拍（Torsades de pointesを含む）、QT延長を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   }
 ]

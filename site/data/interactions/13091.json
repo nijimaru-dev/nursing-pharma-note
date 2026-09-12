@@ -1,170 +1,114 @@
 [
   {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "other_id": 2833,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "レボブピバカインによる中毒症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "レボブピバカインによる中毒症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "レボブピバカインによる中毒症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "レボブピバカインによる中毒症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "レボブピバカインによる中毒症状が発現しやすくなる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11962,
-    "other_brand": "プレセデックス静注液200μg「ファイザー」",
-    "interaction_type": "caution",
-    "source_text": "鎮静・麻酔・鎮痛作用が増強し、血圧低下、心拍数低下、呼吸数低下などの症状があらわれるおそれがあるので、併用する場合には投与速度を減速するなど慎重に投与すること。抜管後に他の鎮静剤、鎮痛剤などと併用する場合は、鎮静効果が相加的に増強するおそれがあるので、本剤あるいは他の鎮静剤、鎮痛剤の投与量を減量するなどの注意が必要である。"
+    "interaction_type": "caution"
   }
 ]

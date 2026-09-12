@@ -1,416 +1,278 @@
 [
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1282,
-    "other_brand": "アレビアチン注250mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8763,
-    "other_brand": "トランコロンP配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9762,
-    "other_brand": "ノーベルバール静注用250mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12693,
-    "other_brand": "ホストイン静注750mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "other_id": 3830,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "other_id": 3831,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "other_id": 7996,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "other_id": 9860,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "other_id": 9861,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "other_id": 9862,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "other_id": 11402,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "other_id": 11403,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "other_id": 2833,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が上昇し、QT延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13989,
-    "other_brand": "モディオダール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びルメファントリンの血中濃度が低下し、抗マラリア作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "アルテメテル及びDHAの血中濃度が低下し、ルメファントリンの血中濃度が上昇する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15088,
-    "other_brand": "ルピアール坐剤25",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15965,
-    "other_brand": "ワコビタール坐剤15",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下することがある。"
+    "interaction_type": "contraindicated"
   }
 ]

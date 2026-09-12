@@ -1,80 +1,54 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
-  },
-  {
-    "other_id": 9567,
-    "other_brand": "ニューレプチル錠5mg",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
-  },
-  {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
-  },
-  {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。\nやむを得ず投与する場合は、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "other_id": 11150,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9567,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "眠気、注意力・集中力・反射運動能力等の低下が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   }
 ]

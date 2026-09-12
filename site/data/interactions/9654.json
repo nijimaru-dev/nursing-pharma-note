@@ -1,248 +1,166 @@
 [
   {
     "other_id": 1789,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1790,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1791,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1792,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1793,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「SUN」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3125,
-    "other_brand": "オニバイド点滴静注43mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8703,
-    "other_brand": "トポテシン点滴静注40mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2946,
-    "other_brand": "オイラゾンクリーム0.05％",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 8236,
-    "other_brand": "デカドロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 8238,
-    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 8251,
-    "other_brand": "デキサメタゾン軟膏口腔用0.1%「CH」",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "other_id": 1283,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8238,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15217,
-    "other_brand": "レナデックス錠2mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤のAUCが37%減少したとの報告がある\n。CYP3A4誘導薬等の併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8251,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8969,
-    "other_brand": "ドセタキセル点滴静注液20mg/1mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "ドセタキセルのAUCが36～80%増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 3925,
-    "other_brand": "カルボプラチン注射液50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
-  },
-  {
-    "other_id": 3926,
-    "other_brand": "カルボプラチン注射液50mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
-  },
-  {
-    "other_id": 3932,
-    "other_brand": "カルボプラチン点滴静注液50mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
-  },
-  {
-    "other_id": 3933,
-    "other_brand": "カルボプラチン点滴静注液50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7107,
-    "other_brand": "タキソール注射液30mg",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10130,
-    "other_brand": "パクリタキセル注射液30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3925,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3926,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10135,
-    "other_brand": "パクリタキセル注30mg/5mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10168,
-    "other_brand": "パラプラチン注射液50mg",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセル及びカルボプラチンとの併用により本剤のAUCが47%増加し、パクリタキセル及びその活性代謝物である6-OHパクリタキセルのAUCがそれぞれ29%及び50%増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3710,
-    "other_brand": "カペシタビン錠300mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "カペシタビン及びその活性代謝物であるフルオロウラシルのAUCがそれぞれ50%及び52%増加したとの報告がある。"
+    "other_id": 3932,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3711,
-    "other_brand": "カペシタビン錠300mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "カペシタビン及びその活性代謝物であるフルオロウラシルのAUCがそれぞれ50%及び52%増加したとの報告がある。"
+    "other_id": 3933,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3713,
-    "other_brand": "カペシタビン錠300mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "カペシタビン及びその活性代謝物であるフルオロウラシルのAUCがそれぞれ50%及び52%増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3714,
-    "other_brand": "カペシタビン錠300mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "カペシタビン及びその活性代謝物であるフルオロウラシルのAUCがそれぞれ50%及び52%増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3716,
-    "other_brand": "カペシタビン錠300mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "カペシタビン及びその活性代謝物であるフルオロウラシルのAUCがそれぞれ50%及び52%増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6809,
-    "other_brand": "ゼローダ錠300",
-    "interaction_type": "caution",
-    "source_text": "カペシタビン及びその活性代謝物であるフルオロウラシルのAUCがそれぞれ50%及び52%増加したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3710,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3711,
+    "interaction_type": "caution"
   }
 ]

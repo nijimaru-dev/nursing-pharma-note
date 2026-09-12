@@ -1,1418 +1,946 @@
 [
   {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の副作用が増強されるおそれがあるので、これらの薬剤との併用は可能な限り避けること。これらの薬剤を短期間使用する場合は、本剤の中断を考慮すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3224,
-    "other_brand": "オメプラゾール錠10「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3225,
-    "other_brand": "オメプラゾール錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3226,
-    "other_brand": "オメプラゾール錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、これらの薬剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4084,
-    "other_brand": "ガスター散10%",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 4086,
-    "other_brand": "ガスター注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 4088,
-    "other_brand": "ガスター錠10mg",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 4090,
-    "other_brand": "ガスターD錠10mg",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "other_id": 3224,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 10942,
-    "other_brand": "ファモチジン錠10「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10948,
-    "other_brand": "ファモチジン注射用10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10956,
-    "other_brand": "ファモチジン錠10mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10961,
-    "other_brand": "ファモチジン錠10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10962,
-    "other_brand": "ファモチジン錠10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10963,
-    "other_brand": "ファモチジン錠10mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10964,
-    "other_brand": "ファモチジン錠10mg「TBP」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10967,
-    "other_brand": "ファモチジン錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4090,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10982,
-    "other_brand": "ファモチジン静注液10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10983,
-    "other_brand": "ファモチジン静注液10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10986,
-    "other_brand": "ファモチジン静注10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10987,
-    "other_brand": "ファモチジン静注10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10990,
-    "other_brand": "ファモチジンD錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10991,
-    "other_brand": "ファモチジンD錠10mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10995,
-    "other_brand": "ファモチジンOD錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4084,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4086,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10999,
-    "other_brand": "ファモチジンOD錠10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4088,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11002,
-    "other_brand": "ファモチジンOD錠10mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11005,
-    "other_brand": "ファモチジンOD錠10mg「TBP」",
-    "interaction_type": "caution",
-    "source_text": "H\n2\n受容体拮抗薬投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10942,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
-  },
-  {
-    "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17285,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17290,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17292,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "制酸剤投与の2時間前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5793,
-    "other_brand": "シンバスタチン錠10mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5795,
-    "other_brand": "シンバスタチン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5797,
-    "other_brand": "シンバスタチン錠5mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5798,
-    "other_brand": "シンバスタチン錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5805,
-    "other_brand": "シンバスタチン錠5mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14972,
-    "other_brand": "リポバス錠5",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 102,
-    "other_brand": "アクチット輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 13342,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 103,
-    "other_brand": "アクチット輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 792,
-    "other_brand": "アミニック輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 802,
-    "other_brand": "アミノレバンEN配合散",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 807,
-    "other_brand": "アミユー配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 1291,
-    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 1667,
-    "other_brand": "イノソリッド配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 1674,
-    "other_brand": "イノラス配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 1783,
-    "other_brand": "イムフレックスCPD-MAP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 2259,
-    "other_brand": "エクストラニール腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 2606,
-    "other_brand": "エネーボ配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 2895,
-    "other_brand": "エレメンミック注",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 2896,
-    "other_brand": "エレンタール配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 2897,
-    "other_brand": "エレンタールP乳幼児用配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 2901,
-    "other_brand": "エンシュア・リキッド",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 2902,
-    "other_brand": "エンシュア・H",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4056,
-    "other_brand": "カーボスター透析剤・L（6L）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4058,
-    "other_brand": "カーボスター透析剤・M",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4059,
-    "other_brand": "カーボスター透析剤・P（袋）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4065,
-    "other_brand": "カーミパック生理食塩液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4069,
-    "other_brand": "カーミパック生理食塩液L",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4072,
-    "other_brand": "カーミパックACD−A液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4073,
-    "other_brand": "カーミC リューコトラップ MAP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4074,
-    "other_brand": "カーミCA液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4254,
-    "other_brand": "キンダリー透析剤5E",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4267,
-    "other_brand": "キンダリー透析剤AF5号(6L)",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4269,
-    "other_brand": "キンダリー透析剤AF5P号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 4487,
-    "other_brand": "クリニザルツ輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5362,
-    "other_brand": "サブパック血液ろ過用補充液−Bi",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5403,
-    "other_brand": "サルプレップ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5623,
-    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6190,
-    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6204,
-    "other_brand": "スチックゼノールA",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6448,
-    "other_brand": "セパセルインテグラC−MAP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6449,
-    "other_brand": "セパセルインテグラCA",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6852,
-    "other_brand": "ソリタ−T配合顆粒2号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6853,
-    "other_brand": "ソリタ−T配合顆粒3号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6854,
-    "other_brand": "ソリタ−T1号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6856,
-    "other_brand": "ソリタ−T2号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6858,
-    "other_brand": "ソリタ−T3号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6860,
-    "other_brand": "ソリタ−T3号G輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6862,
-    "other_brand": "ソリタ−T4号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6864,
-    "other_brand": "ソリタックス−H輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 6915,
-    "other_brand": "ソルバノン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 7352,
-    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 7370,
-    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 7388,
-    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 7391,
-    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 7614,
-    "other_brand": "ツインパル輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 7616,
-    "other_brand": "ツインラインNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 8204,
-    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 8206,
-    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 8879,
-    "other_brand": "トレーランG液50g",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 9436,
-    "other_brand": "ニコペリック腹膜透析液（1500mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 9601,
-    "other_brand": "ネオアミユー輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 9844,
-    "other_brand": "ハルトマン−G3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 9851,
-    "other_brand": "ハルトマンD液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 9898,
-    "other_brand": "バイフィル透析剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 10153,
-    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 10154,
-    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 10194,
-    "other_brand": "パレセーフ輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 10195,
-    "other_brand": "パレプラス輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 10500,
-    "other_brand": "ビカーボン輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 13343,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10760,
-    "other_brand": "ピシバニール注射用1KE",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10905,
-    "other_brand": "ピーエヌツイン−1号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 8204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11855,
-    "other_brand": "プリミーフォート経腸用液6",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 12013,
-    "other_brand": "プロクトセディル軟膏",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 12219,
-    "other_brand": "ヘパンED配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 12605,
-    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 12613,
-    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13012,
-    "other_brand": "ボルヒール組織接着用（0.5mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13292,
-    "other_brand": "ミオテクター冠血管注",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13356,
-    "other_brand": "ミッドペリック135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13369,
-    "other_brand": "ミッドペリックL135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13390,
-    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 13895,
-    "other_brand": "メルスモン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14019,
-    "other_brand": "モリアミンS注",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14020,
-    "other_brand": "モリプロンF輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14192,
-    "other_brand": "ユエキンキープ3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14295,
-    "other_brand": "ラエンネック",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14312,
-    "other_brand": "ラクトリンゲル液′′フソー′′",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14319,
-    "other_brand": "ラクトリンゲルS注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 8206,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14365,
-    "other_brand": "ラコールNF配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14366,
-    "other_brand": "ラコールNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14824,
-    "other_brand": "リナセートD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 13356,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14826,
-    "other_brand": "リナセートF輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 2606,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14840,
-    "other_brand": "リハビックス−K1号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14947,
-    "other_brand": "リプラス1号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 14950,
-    "other_brand": "リプラス3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 15014,
-    "other_brand": "リンゲル液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 15046,
-    "other_brand": "リンパック透析剤TA1",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 15047,
-    "other_brand": "リンパック透析剤TA3",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 15048,
-    "other_brand": "リンパック透析剤TA5",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 15138,
-    "other_brand": "レギュニール HCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 15150,
-    "other_brand": "レギュニール LCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 15997,
-    "other_brand": "ワンパル1号輸液（800mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16012,
-    "other_brand": "ヴィーン3G輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16013,
-    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16015,
-    "other_brand": "ヴィーンD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16016,
-    "other_brand": "ヴィーンD輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16018,
-    "other_brand": "ヴィーンF輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16098,
-    "other_brand": "乳糖水和物「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16567,
-    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16572,
-    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 16575,
-    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 6190,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16948,
-    "other_brand": "白色ワセリン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17210,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 13369,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17211,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 6204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17212,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 13895,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17213,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 13390,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17214,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 11855,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17215,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 14947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17216,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 102,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17217,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 103,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17218,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17219,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17220,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17221,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17222,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17223,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17224,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17225,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17226,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17227,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17228,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17229,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17230,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17231,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17232,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17233,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17234,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17235,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17236,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17237,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17238,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17239,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17240,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17241,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17242,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 17243,
-    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 14950,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17523,
-    "other_brand": "10%EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9844,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9851,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15997,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1667,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1674,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16016,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16018,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10905,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4254,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15014,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4267,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4269,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8879,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17584,
-    "other_brand": "ACD-A液 250mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17585,
-    "other_brand": "AK−ソリタ透析剤・DL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17586,
-    "other_brand": "AK−ソリタ透析剤・DP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17587,
-    "other_brand": "AK−ソリタ透析剤・FL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17588,
-    "other_brand": "AK−ソリタ透析剤・FP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7352,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16575,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17602,
-    "other_brand": "Dドライ透析剤2.5S",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17603,
-    "other_brand": "Dドライ透析剤2.75S",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 14019,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17604,
-    "other_brand": "Dドライ透析剤3.0S",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 6852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14020,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15046,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6860,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15047,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6862,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15048,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6864,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17614,
-    "other_brand": "EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17618,
-    "other_brand": "ESポリタミン配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2259,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7388,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9436,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17631,
-    "other_brand": "JMS ACD-A液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17632,
-    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16098,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5362,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 802,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 807,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6449,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17718,
-    "other_brand": "T&Tオルファクトメーター",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5942,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5943,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17210,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17211,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17212,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12605,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17213,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17214,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17215,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17216,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17217,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12613,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17220,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17224,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17225,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17226,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17227,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17228,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17230,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17231,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2901,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17232,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17233,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17234,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17235,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17239,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17240,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17241,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17242,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17243,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9639,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10153,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7614,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7616,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10195,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14295,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4056,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4059,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4065,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4069,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4072,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4073,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4074,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14312,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14824,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14826,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17603,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5623,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14840,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17604,
+    "interaction_type": "caution"
   }
 ]

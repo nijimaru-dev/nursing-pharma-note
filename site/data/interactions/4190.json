@@ -1,272 +1,182 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の血圧低下を起こすことがある。"
+    "other_id": 15840,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6946,
-    "other_brand": "ゾテピン細粒10％「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の血圧低下を起こすことがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の血圧低下を起こすことがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の血圧低下を起こすことがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の血圧低下を起こすことがある。"
-  },
-  {
-    "other_id": 15840,
-    "other_brand": "ロドピン錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の血圧低下を起こすことがある。"
-  },
-  {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "contraindicated",
-    "source_text": "不整脈、場合により心停止があらわれることがある。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "不整脈、場合により心停止があらわれることがある。"
-  },
-  {
-    "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "不整脈、場合により心停止があらわれることがある。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "contraindicated",
-    "source_text": "不整脈、場合により心停止があらわれることがある。"
-  },
-  {
-    "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "不整脈、場合により心停止があらわれることがある。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "不整脈、場合により心停止があらわれることがある。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "不整脈、場合により心停止があらわれることがある。"
-  },
-  {
-    "other_id": 1602,
-    "other_brand": "イソフルラン吸入麻酔液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "頻脈、不整脈、場合によっては心停止を起こすことがある。"
-  },
-  {
-    "other_id": 6381,
-    "other_brand": "スープレン吸入麻酔液",
-    "interaction_type": "caution",
-    "source_text": "頻脈、不整脈、場合によっては心停止を起こすことがある。"
-  },
-  {
-    "other_id": 6599,
-    "other_brand": "セボフルラン吸入麻酔液「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "頻脈、不整脈、場合によっては心停止を起こすことがある。"
-  },
-  {
-    "other_id": 6600,
-    "other_brand": "セボフルラン吸入麻酔液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "頻脈、不整脈、場合によっては心停止を起こすことがある。"
-  },
-  {
-    "other_id": 6601,
-    "other_brand": "セボフレン吸入麻酔液",
-    "interaction_type": "caution",
-    "source_text": "頻脈、不整脈、場合によっては心停止を起こすことがある。"
-  },
-  {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
-  },
-  {
-    "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
-  },
-  {
-    "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9737,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1602,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6599,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6600,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6381,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9737,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
     "other_id": 494,
-    "other_brand": "アトニン−O注1単位",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3023,
-    "other_brand": "オキシトシン注射液5単位「F」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "異所性不整脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "異所性不整脈があらわれることがある。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "異所性不整脈があらわれることがある。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "異所性不整脈があらわれることがある。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "異所性不整脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "異所性不整脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1173,
-    "other_brand": "アルダクトンA細粒10％",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6313,
-    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6315,
-    "other_brand": "スピロノラクトン錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6316,
-    "other_brand": "スピロノラクトン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6317,
-    "other_brand": "スピロノラクトン錠25mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
-  },
-  {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
-  },
-  {
-    "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
-  },
-  {
-    "other_id": 9329,
-    "other_brand": "ナトリックス錠1",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
-  },
-  {
-    "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "アドレナリンの作用が減弱することがある。手術前の患者に使用する場合、利尿剤の一時休薬等を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9329,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution"
   }
 ]

@@ -1,308 +1,206 @@
 [
   {
-    "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
+    "other_id": 6661,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
-  },
-  {
-    "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "外国において、セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）を含む中枢神経系（攻撃的行動、固縮、痙攣、昏睡、頭痛）、呼吸器系（呼吸抑制）及び心血管系（低血圧、高血圧）の重篤な副作用が報告されている。MAO阻害剤を投与中の患者又は投与中止後14日以内の患者には投与しないこと。また、本剤投与中止後にMAO阻害剤の投与を開始する場合には、2～3日間の間隔を空けることが望ましい。"
-  },
-  {
-    "other_id": 5492,
-    "other_brand": "ザイボックス注射液600mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
-  },
-  {
-    "other_id": 5493,
-    "other_brand": "ザイボックス錠600mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
+    "other_id": 253,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14829,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14830,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14831,
-    "other_brand": "リネゾリド点滴静注液600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14832,
-    "other_brand": "リネゾリド点滴静注液600mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14834,
-    "other_brand": "リネゾリド錠600mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14835,
-    "other_brand": "リネゾリド錠600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。また、痙攣発作の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。"
+    "other_id": 5492,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5493,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群（錯乱、激越、発熱、発汗、運動失調、反射異常亢進、ミオクローヌス、下痢等）があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 1562,
-    "other_brand": "イスコチン原末",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 1563,
-    "other_brand": "イスコチン注100mg",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 7662,
-    "other_brand": "ツムラの生薬シンイ",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8581,
-    "other_brand": "トチモトのシンイ",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 11853,
-    "other_brand": "プリミドン錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 17113,
-    "other_brand": "花扇シンイK",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17415,
-    "other_brand": "高砂シンイM",
-    "interaction_type": "caution",
-    "source_text": "トラマドールの血中濃度が低下し作用が減弱する可能性がある。また、これらの薬剤の長期連用者では肝代謝酵素が誘導され、アセトアミノフェン代謝物による肝障害を生じやすくなるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制が生じるおそれがある。また、アルコール多量常飲者がアセトアミノフェンを服用したところ肝不全を起こしたとの報告がある。"
+    "other_id": 11145,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制が生じるおそれがある。また、アルコール多量常飲者がアセトアミノフェンを服用したところ肝不全を起こしたとの報告がある。"
+    "other_id": 11147,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14937,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17113,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1562,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1563,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7662,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制が生じるおそれがある。また、アルコール多量常飲者がアセトアミノフェンを服用したところ肝不全を起こしたとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン中毒が発現したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン中毒が発現したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン中毒が発現したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン中毒が発現したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシン中毒が発現したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の鎮痛作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の鎮痛作用を減弱させるおそれがある。"
-  },
-  {
-    "other_id": 2381,
-    "other_brand": "エストラジオール錠0.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの血中濃度が低下するおそれがある。"
-  },
-  {
-    "other_id": 6058,
-    "other_brand": "ジュリナ錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12035,
-    "other_brand": "プロセキソール錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "アセトアミノフェンの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2381,
+    "interaction_type": "caution"
   }
 ]

@@ -1,50 +1,34 @@
 [
   {
     "other_id": 3941,
-    "other_brand": "カレトラ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤との併用において、クッシング症候群、副腎皮質機能抑制等が報告されているので、併用は治療上の有益性がこれらの症状発現の危険性を上回ると判断される場合に限ること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3942,
-    "other_brand": "カレトラ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤との併用において、クッシング症候群、副腎皮質機能抑制等が報告されているので、併用は治療上の有益性がこれらの症状発現の危険性を上回ると判断される場合に限ること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5060,
-    "other_brand": "ケンブラン吸入粉末溶解用100㎎",
-    "interaction_type": "caution",
-    "source_text": "本剤による検査において、正確な検査結果が得られない可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤との併用において、クッシング症候群、副腎皮質機能抑制等が報告されているので、併用は治療上の有益性がこれらの症状発現の危険性を上回ると判断される場合に限ること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤との併用において、クッシング症候群、副腎皮質機能抑制等が報告されているので、併用は治療上の有益性がこれらの症状発現の危険性を上回ると判断される場合に限ること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤との併用において、クッシング症候群、副腎皮質機能抑制等が報告されているので、併用は治療上の有益性がこれらの症状発現の危険性を上回ると判断される場合に限ること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12098,
-    "other_brand": "プロボコリン吸入粉末溶解用100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による検査において、正確な検査結果が得られない可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13406,
-    "other_brand": "ミニリンメルトOD錠25µg",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   }
 ]

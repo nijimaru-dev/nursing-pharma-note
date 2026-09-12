@@ -1,422 +1,282 @@
 [
   {
     "other_id": 2256,
-    "other_brand": "エクサシン注射液200",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5080,
-    "other_brand": "ゲンタシン注10",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5085,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5086,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「F」",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11029,
-    "other_brand": "ファンギゾン注射用50mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12365,
-    "other_brand": "ベナンバックス注用300mg",
-    "interaction_type": "contraindicated",
-    "source_text": "腎障害の増強、低カルシウム血症が起こることがある。なお、海外で本剤とペンタミジンイセチオン酸塩（静注）との併用により、重篤な低カルシウム血症が発現し死亡した症例が報告されている。"
-  },
-  {
-    "other_id": 403,
-    "other_brand": "アゾセミド錠30mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 404,
-    "other_brand": "アゾセミド錠30mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 1173,
-    "other_brand": "アルダクトンA細粒10％",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 6313,
-    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 6315,
-    "other_brand": "スピロノラクトン錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 6316,
-    "other_brand": "スピロノラクトン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 6317,
-    "other_brand": "スピロノラクトン錠25mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 7397,
-    "other_brand": "ダイアート錠30mg",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8717,
-    "other_brand": "トラセミド錠4mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 8830,
-    "other_brand": "トルバプタンOD錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 404,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "低カルシウム血症が起こることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 773,
-    "other_brand": "アミカシン硫酸塩注射液100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 774,
-    "other_brand": "アミカシン硫酸塩注射液100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 775,
-    "other_brand": "アミカシン硫酸塩注射液100mg「F」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 7397,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 776,
-    "other_brand": "アミカシン硫酸塩注射液100mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 6313,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 827,
-    "other_brand": "アムビゾーム点滴静注用50mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 6315,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1039,
-    "other_brand": "アリケイス吸入液590mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 6316,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5093,
-    "other_brand": "ゲンタマイシン硫酸塩軟膏0.1%「F」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 6317,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 5597,
-    "other_brand": "シスプラチン点滴静注10mg「マルコ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7112,
-    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7115,
-    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7122,
-    "other_brand": "タクロリムスカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7124,
-    "other_brand": "タクロリムス軟膏0.1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7125,
-    "other_brand": "タクロリムス軟膏0.1％「PP」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7126,
-    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7128,
-    "other_brand": "タクロリムス錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7138,
-    "other_brand": "タクロリムス錠5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7140,
-    "other_brand": "タクロリムス錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 7298,
-    "other_brand": "タリムス点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 8506,
-    "other_brand": "トチモトのカシ",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 9841,
-    "other_brand": "ハリゾンシロップ100mg/mL",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 10107,
-    "other_brand": "バンコマイシン塩酸塩散0.5g「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 10108,
-    "other_brand": "バンコマイシン塩酸塩散0.5g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 10110,
-    "other_brand": "バンコマイシン塩酸塩散0.5g「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 10111,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 8830,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10112,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10113,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「NIG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10114,
-    "other_brand": "バンコマイシン塩酸塩点滴静注用0.5g「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7298,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 773,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 774,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 775,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 776,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1039,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11028,
-    "other_brand": "ファンギゾンシロップ100mg/mL",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 9639,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 9904,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16239,
-    "other_brand": "塩酸バンコマイシン散0.5g",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 5556,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16240,
-    "other_brand": "塩酸バンコマイシン点滴静注用0.5g",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "other_id": 5558,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8506,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 827,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13626,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13627,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13630,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7112,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7115,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7122,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7124,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7125,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7126,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7128,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5597,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7140,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5093,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16239,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16240,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9841,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13681,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13685,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10111,
+    "interaction_type": "caution"
   }
 ]

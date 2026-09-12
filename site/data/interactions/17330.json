@@ -1,116 +1,78 @@
 [
   {
     "other_id": 3941,
-    "other_brand": "カレトラ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。血中濃度のモニタリングを行うことが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3942,
-    "other_brand": "カレトラ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。血中濃度のモニタリングを行うことが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5096,
-    "other_brand": "ゲンボイヤ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，これら薬剤の血中濃度をモニタリングすることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8263,
-    "other_brand": "デクスメデトミジン静注液200μg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8264,
-    "other_brand": "デクスメデトミジン静注液200μg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11962,
-    "other_brand": "プレセデックス静注液200μg「ファイザー」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇することがある。"
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9328,
-    "other_brand": "ナディック錠30mg",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇することがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "リドカインの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   }
 ]

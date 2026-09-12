@@ -1,68 +1,46 @@
 [
   {
     "other_id": 6811,
-    "other_brand": "ゼンフォザイム点滴静注用20mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
-  },
-  {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
-  },
-  {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "デスロラタジン及び3-OHデスロラタジンの血漿中濃度の上昇が認められた。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
   }
 ]

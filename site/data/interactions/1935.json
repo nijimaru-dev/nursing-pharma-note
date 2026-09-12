@@ -1,158 +1,106 @@
 [
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
+    "other_id": 5559,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4728,
-    "other_brand": "グラセプターカプセル0.5mg",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6613,
-    "other_brand": "セルセプトカプセル250",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7112,
-    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7113,
-    "other_brand": "タクロリムスカプセル0.5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7114,
-    "other_brand": "タクロリムスカプセル0.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7115,
-    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7120,
-    "other_brand": "タクロリムスカプセル5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7121,
-    "other_brand": "タクロリムスカプセル5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7122,
-    "other_brand": "タクロリムスカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7128,
-    "other_brand": "タクロリムス錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7126,
-    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7127,
-    "other_brand": "タクロリムス錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7138,
-    "other_brand": "タクロリムス錠5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7139,
-    "other_brand": "タクロリムス錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7140,
-    "other_brand": "タクロリムス錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12014,
-    "other_brand": "プログラフカプセル0.5mg",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12016,
-    "other_brand": "プログラフカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12017,
-    "other_brand": "プログラフ注射液2mg",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12019,
-    "other_brand": "プログラフ顆粒0.2mg",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13335,
-    "other_brand": "ミコフェノール酸モフェチルカプセル250mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "ワクチンの効果を減弱させるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

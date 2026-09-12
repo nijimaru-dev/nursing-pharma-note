@@ -1,686 +1,458 @@
 [
   {
     "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5058,
-    "other_brand": "ケレンディア錠10mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2778,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
-  },
-  {
-    "other_id": 1173,
-    "other_brand": "アルダクトンA細粒10％",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 1914,
-    "other_brand": "インデラル注射液2mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 1915,
-    "other_brand": "インデラル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2381,
-    "other_brand": "エストラジオール錠0.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2546,
-    "other_brand": "エナラプリルマレイン酸塩細粒1％「アメル」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2547,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2548,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2550,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2551,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2554,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2556,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2557,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2559,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「NikP」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2560,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 2576,
-    "other_brand": "エナラプリルマレイン酸塩錠5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6058,
-    "other_brand": "ジュリナ錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6313,
-    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6315,
-    "other_brand": "スピロノラクトン錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6316,
-    "other_brand": "スピロノラクトン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6317,
-    "other_brand": "スピロノラクトン錠25mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6356,
-    "other_brand": "スリンダ錠28",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6668,
-    "other_brand": "セレコキシブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6670,
-    "other_brand": "セレコキシブ錠100mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6675,
-    "other_brand": "セレコキシブ錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6676,
-    "other_brand": "セレコキシブ錠100mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6677,
-    "other_brand": "セレコキシブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6678,
-    "other_brand": "セレコキシブ錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 6683,
-    "other_brand": "セレコキシブ錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8125,
-    "other_brand": "テルミサルタン錠20mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8126,
-    "other_brand": "テルミサルタン錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8128,
-    "other_brand": "テルミサルタン錠20mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8131,
-    "other_brand": "テルミサルタン錠20mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8133,
-    "other_brand": "テルミサルタン錠20mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8134,
-    "other_brand": "テルミサルタン錠20mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8135,
-    "other_brand": "テルミサルタン錠20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8136,
-    "other_brand": "テルミサルタン錠20mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8139,
-    "other_brand": "テルミサルタン錠20mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8143,
-    "other_brand": "テルミサルタン錠20mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8214,
-    "other_brand": "ディオバン錠20mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8218,
-    "other_brand": "ディオバンOD錠20mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8800,
-    "other_brand": "トリテレン・カプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 8830,
-    "other_brand": "トルバプタンOD錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9154,
-    "other_brand": "ドロエチフレックス配合錠「あすか」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9155,
-    "other_brand": "ドロエチフレックス配合錠「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9156,
-    "other_brand": "ドロエチ配合錠「あすか」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9157,
-    "other_brand": "ドロエチ配合錠「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9572,
-    "other_brand": "ニューロタン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9980,
-    "other_brand": "バルサルタン錠20mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9982,
-    "other_brand": "バルサルタン錠20mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9984,
-    "other_brand": "バルサルタン錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9985,
-    "other_brand": "バルサルタン錠20mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9986,
-    "other_brand": "バルサルタン錠20mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9988,
-    "other_brand": "バルサルタン錠20mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9989,
-    "other_brand": "バルサルタン錠20mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9990,
-    "other_brand": "バルサルタン錠20mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9991,
-    "other_brand": "バルサルタン錠20mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9992,
-    "other_brand": "バルサルタン錠20mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9993,
-    "other_brand": "バルサルタン錠20mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 9995,
-    "other_brand": "バルサルタン錠20mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12035,
-    "other_brand": "プロセキソール錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12090,
-    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "other_id": 9995,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12091,
-    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "other_id": 6668,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12093,
-    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "other_id": 6670,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12361,
-    "other_brand": "ベナゼプリル塩酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "other_id": 2576,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13308,
-    "other_brand": "ミカルディス錠20mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "other_id": 6675,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14188,
-    "other_brand": "ヤーズフレックス配合錠",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "other_id": 6676,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14189,
-    "other_brand": "ヤーズ配合錠",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "other_id": 6677,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8214,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9980,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14375,
-    "other_brand": "ラジレス錠150mg",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
-  },
-  {
-    "other_id": 15229,
-    "other_brand": "レニベース錠2.5",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15658,
-    "other_brand": "ロサルタンカリウム錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15659,
-    "other_brand": "ロサルタンカリウム錠25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15661,
-    "other_brand": "ロサルタンカリウム錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15662,
-    "other_brand": "ロサルタンカリウム錠25mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15663,
-    "other_brand": "ロサルタンカリウム錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15664,
-    "other_brand": "ロサルタンカリウム錠25mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15669,
-    "other_brand": "ロサルタンカリウム錠25mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5942,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5943,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12090,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12091,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12093,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12361,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2381,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15694,
-    "other_brand": "ロサルタンK錠25mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15698,
-    "other_brand": "ロサルタンK錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15699,
-    "other_brand": "ロサルタンK錠25mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15700,
-    "other_brand": "ロサルタンK錠25mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15701,
-    "other_brand": "ロサルタンK錠25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15702,
-    "other_brand": "ロサルタンK錠25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8800,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14188,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "高カリウム血症があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14189,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1914,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1920,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1922,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1924,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11654,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9639,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6313,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6315,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6317,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8125,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8126,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8128,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8131,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9155,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8133,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8134,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8135,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8136,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9156,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9157,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8139,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8143,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6356,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2546,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2547,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2548,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2551,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2554,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13308,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2557,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2559,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11579,
-    "other_brand": "ブチルスコポラミン臭化物注射液20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の消化管粘膜刺激があらわれやすい。症状があらわれた場合には、本剤の減量又はカリウムの液剤の使用を考慮する。"
-  },
-  {
-    "other_id": 2393,
-    "other_brand": "エスラックス静注25mg/2.5mL",
-    "interaction_type": "caution",
-    "source_text": "筋弛緩剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15647,
-    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "筋弛緩剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15648,
-    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「F」",
-    "interaction_type": "caution",
-    "source_text": "筋弛緩剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2393,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15647,
+    "interaction_type": "caution"
   }
 ]

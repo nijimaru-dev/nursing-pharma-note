@@ -1,44 +1,30 @@
 [
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "過剰の利尿を来したとの報告があり、電解質異常、心室性不整脈（心室頻拍、心室細動等）、赤血球増加、血小板増加が認められることがある。また、過剰の前負荷軽減、利尿効果が強く発現し、過度の血圧低下を来すおそれがある。"
-  },
-  {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を来すおそれがある。"
-  },
-  {
-    "other_id": 5678,
-    "other_brand": "シルデナフィル錠25mgVI「ANG」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を来すおそれがある。"
-  },
-  {
-    "other_id": 5683,
-    "other_brand": "シルデナフィル錠25mgVI「SN」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を来すおそれがある。"
-  },
-  {
-    "other_id": 5684,
-    "other_brand": "シルデナフィル錠50mgVI「あすか」",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を来すおそれがある。"
-  },
-  {
-    "other_id": 9886,
-    "other_brand": "バイアグラ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を来すおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15232,
-    "other_brand": "レバチオ錠20mg",
-    "interaction_type": "caution",
-    "source_text": "過度の血圧低下を来すおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5683,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5684,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9886,
+    "interaction_type": "caution"
   }
 ]

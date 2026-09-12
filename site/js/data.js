@@ -8,7 +8,8 @@ const DrugData = (() => {
   const DATA_ROOT = "/data";
   let indexPromise = null;
   const detailCache = new Map();
-  const interactionCache = new Map();
+  const interactionIndexCache = new Map();
+  const pairInteractionCache = new Map();
 
   function fetchJSON(path) {
     return fetch(path).then((res) => {
@@ -23,21 +24,43 @@ const DrugData = (() => {
   }
 
   /**
-   * 指定した薬品idが関わる相互作用ペアだけを取得する。
-   * 全薬剤分の相互作用をまとめた1ファイルは45万件規模になりGitHubの
-   * ファイルサイズ上限を超えるため、薬品ごとに分割している
-   * （interactions/{id}.json、無ければ相互作用の記載なし＝空配列）。
+   * 指定した薬品idが関わる相互作用ペアの「索引」だけを取得する
+   * （相手薬のid・注意種別のみ。本文（source_text）は含まない）。
+   * 本文はペアごとに1ファイル（pairs/{min}_{max}.json）へ分離してあるため、
+   * 実際に表示する必要があるペアが決まってから loadPairInteraction で
+   * 別途取得する（2026-09-12：本文の二重持ちをやめるための分離）。
+   * interactions/{id}.json が無い薬品は相互作用の記載なし＝空配列。
    */
-  function loadDrugInteractions(id) {
-    if (!interactionCache.has(id)) {
+  function loadDrugInteractionIndex(id) {
+    if (!interactionIndexCache.has(id)) {
       const promise = fetch(`${DATA_ROOT}/interactions/${id}.json`).then((res) => {
         if (res.status === 404) return [];
-        if (!res.ok) throw new Error(`相互作用データの取得に失敗しました: id=${id}`);
+        if (!res.ok) throw new Error(`相互作用索引の取得に失敗しました: id=${id}`);
         return res.json();
       });
-      interactionCache.set(id, promise);
+      interactionIndexCache.set(id, promise);
     }
-    return interactionCache.get(id);
+    return interactionIndexCache.get(id);
+  }
+
+  /**
+   * 薬品ペア（idA, idB。順不同でよい）の相互作用本文を取得する。
+   * ファイル名は薬品idを小さい順に並べた min_max.json（pairs/{min}_{max}.json）。
+   * 同じペアにcontraindicated/cautionが両方記載されていることがあるため配列で返す。
+   */
+  function loadPairInteraction(idA, idB) {
+    const minId = Math.min(idA, idB);
+    const maxId = Math.max(idA, idB);
+    const key = `${minId}_${maxId}`;
+    if (!pairInteractionCache.has(key)) {
+      const promise = fetch(`${DATA_ROOT}/interactions/pairs/${key}.json`).then((res) => {
+        if (res.status === 404) return [];
+        if (!res.ok) throw new Error(`相互作用本文の取得に失敗しました: pair=${key}`);
+        return res.json();
+      });
+      pairInteractionCache.set(key, promise);
+    }
+    return pairInteractionCache.get(key);
   }
 
   function loadDrug(id) {
@@ -68,5 +91,5 @@ const DrugData = (() => {
       .slice(0, 20);
   }
 
-  return { loadIndex, loadDrugInteractions, loadDrug, search };
+  return { loadIndex, loadDrugInteractionIndex, loadPairInteraction, loadDrug, search };
 })();

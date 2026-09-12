@@ -1,326 +1,218 @@
 [
   {
     "other_id": 2829,
-    "other_brand": "エリスロシン点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用を増強するおそれがあるため、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2830,
-    "other_brand": "エリスロシン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用を増強するおそれがあるため、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2827,
-    "other_brand": "エリスロシンドライシロップ10％",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用を増強するおそれがあるため、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用を増強するおそれがあるため、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 2393,
-    "other_brand": "エスラックス静注25mg/2.5mL",
-    "interaction_type": "caution",
-    "source_text": "末梢性筋弛緩剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 15516,
-    "other_brand": "レラキシン注用200mg",
-    "interaction_type": "caution",
-    "source_text": "末梢性筋弛緩剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 15647,
-    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "末梢性筋弛緩剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15648,
-    "other_brand": "ロクロニウム臭化物静注液25mg/2.5mL「F」",
-    "interaction_type": "caution",
-    "source_text": "末梢性筋弛緩剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "other_id": 2393,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "other_id": 15516,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "other_id": 15647,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "作用が減弱するおそれがある。本剤投与期間中は左記薬剤・食品との併用を避けることが望ましい。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "作用が減弱するおそれがある。本剤投与期間中は左記薬剤・食品との併用を避けることが望ましい。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "作用が減弱するおそれがある。本剤投与期間中は左記薬剤・食品との併用を避けることが望ましい。"
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "作用が減弱するおそれがある。本剤投与期間中は左記薬剤・食品との併用を避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "作用が減弱するおそれがある。本剤投与期間中は左記薬剤・食品との併用を避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "作用が減弱するおそれがある。本剤投与期間中は左記薬剤・食品との併用を避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "作用が減弱するおそれがある。本剤投与期間中は左記薬剤・食品との併用を避けることが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6205,
-    "other_brand": "スチバーガ錠40mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9654,
-    "other_brand": "ネクサバール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7094,
-    "other_brand": "タイケルブ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3254,
-    "other_brand": "オラビ錠口腔用50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤による骨髄抑制等の副作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "イリノテカンの活性代謝物の血中濃度を上昇させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "イリノテカンの活性代謝物の血中濃度を上昇させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤による骨髄抑制等の副作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤による骨髄抑制等の副作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   }
 ]

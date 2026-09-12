@@ -1,218 +1,146 @@
 [
   {
     "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "心室性不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "心室性不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "心室性不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 771,
-    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "心室性不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 772,
-    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "心室性不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "心室性不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "心室性不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、ジゴキシンの血中濃度を上昇させるとの報告がある。併用する場合には血中ジゴキシン濃度をモニターするなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、ジゴキシンの血中濃度を上昇させるとの報告がある。併用する場合には血中ジゴキシン濃度をモニターするなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、ジゴキシンの血中濃度を上昇させるとの報告がある。併用する場合には血中ジゴキシン濃度をモニターするなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、ジゴキシンの血中濃度を上昇させるとの報告がある。併用する場合には血中ジゴキシン濃度をモニターするなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、ジゴキシンの血中濃度を上昇させるとの報告がある。併用する場合には血中ジゴキシン濃度をモニターするなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、シクロスポリンの血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、シクロスポリンの血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、シクロスポリンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、シクロスポリンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、シクロスポリンの血中濃度が上昇したとの報告がある。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、シクロスポリンの血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇するおそれがある。"
+    "other_id": 5448,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇するおそれがある。"
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、抗てんかん薬の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、抗てんかん薬の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、抗てんかん薬の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、抗てんかん薬の作用が減弱する可能性がある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、抗てんかん薬の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、抗てんかん薬の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10670,
-    "other_brand": "ビルトリシド錠600mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と類似の構造を有するクロロキンとの併用により、プラジカンテルの生物学的利用率が低下するとの報告がある。このため、本剤との併用においても同様にプラジカンテルの生物学的利用率を低下させる可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、α-ガラクトシダーゼの作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、α-ガラクトシダーゼの作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、α-ガラクトシダーゼの作用が減弱する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、α-ガラクトシダーゼの作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12263,
-    "other_brand": "ベクルリー点滴静注用100mg",
-    "interaction_type": "caution",
-    "source_text": "レムデシビルの抗ウイルス活性が低下する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14956,
-    "other_brand": "リプレガル点滴静注用3.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱する可能性がある。"
+    "interaction_type": "caution"
   }
 ]

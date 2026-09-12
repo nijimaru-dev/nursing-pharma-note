@@ -1,470 +1,314 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等を起こすおそれがある。"
-  },
-  {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等を起こすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等を起こすおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3224,
-    "other_brand": "オメプラゾール錠10「SW」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3225,
-    "other_brand": "オメプラゾール錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 3226,
-    "other_brand": "オメプラゾール錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3225,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3226,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3224,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14574,
-    "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14578,
-    "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14579,
-    "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14583,
-    "other_brand": "ランソプラゾールOD錠15mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
-  },
-  {
-    "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8311,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11483,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11484,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11485,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11487,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11565,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する可能性がある。"
-  },
-  {
-    "other_id": 383,
-    "other_brand": "アゼルニジピン錠8mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 386,
-    "other_brand": "アゼルニジピン錠8mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 387,
-    "other_brand": "アゼルニジピン錠8mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3841,
-    "other_brand": "カルブロック錠8mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 386,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 387,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 383,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13251,
-    "other_brand": "マプロチリン塩酸塩錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "1）中枢神経抑制作用を増強することがある。2）併用中の本剤を急速に減量又は中止するとけいれん発作が起こることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15068,
-    "other_brand": "ルジオミール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "1）中枢神経抑制作用を増強することがある。2）併用中の本剤を急速に減量又は中止するとけいれん発作が起こることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "1）中枢神経抑制作用を増強することがある。2）併用中の本剤を急速に減量又は中止するとけいれん発作が起こることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "1）中枢神経抑制作用を増強することがある。2）併用中の本剤を急速に減量又は中止するとけいれん発作が起こることがある。"
-  },
-  {
-    "other_id": 13469,
-    "other_brand": "ミルタザピン錠15mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
-  },
-  {
-    "other_id": 13471,
-    "other_brand": "ミルタザピン錠15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13474,
-    "other_brand": "ミルタザピン錠15mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13475,
-    "other_brand": "ミルタザピン錠15mg「共創未来」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13476,
-    "other_brand": "ミルタザピン錠15mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13477,
-    "other_brand": "ミルタザピン錠15mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13478,
-    "other_brand": "ミルタザピン錠15mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13479,
-    "other_brand": "ミルタザピン錠15mg「EE」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13480,
-    "other_brand": "ミルタザピン錠15mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13481,
-    "other_brand": "ミルタザピン錠15mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
-  },
-  {
-    "other_id": 13483,
-    "other_brand": "ミルタザピン錠15mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
-  },
-  {
-    "other_id": 13500,
-    "other_brand": "ミルタザピンOD錠15mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14941,
-    "other_brand": "リフレックス錠15mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13483,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15514,
-    "other_brand": "レメロン錠15mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用が増強されるおそれがある。また、ミルタザピンとの併用により精神運動機能及び学習獲得能力が減退するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6715,
-    "other_brand": "セレニカR顆粒40%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "other_id": 13500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13471,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10082,
-    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10083,
-    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10084,
-    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10086,
-    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10088,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10089,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10092,
-    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10094,
-    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10095,
-    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7495,
-    "other_brand": "ダントリウムカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "筋弛緩作用を増強することがある。"
+    "other_id": 6715,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7496,
-    "other_brand": "ダントリウム静注用20mg",
-    "interaction_type": "caution",
-    "source_text": "筋弛緩作用を増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7495,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1449,
-    "other_brand": "アーリーダ錠60mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3360,
-    "other_brand": "オルケディア錠1mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度に影響を与えるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15184,
-    "other_brand": "レスピア静注・経口液60mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が減少することがある。"
+    "interaction_type": "caution"
   }
 ]

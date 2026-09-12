@@ -1,362 +1,242 @@
 [
   {
     "other_id": 3183,
-    "other_brand": "オペプリム",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の睡眠作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15182,
-    "other_brand": "レスタミンコーワクリーム1％",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "other_id": 16237,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "other_id": 15182,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8788,
-    "other_brand": "トリクロリールシロップ10%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 790,
-    "other_brand": "アミトリプチリン塩酸塩錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9735,
-    "other_brand": "ノリトレン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5833,
-    "other_brand": "ジアゼパム錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5834,
-    "other_brand": "ジアゼパム錠2「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5836,
-    "other_brand": "ジアゼパム錠2mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5837,
-    "other_brand": "ジアゼパム錠2mg「タイホウ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 6303,
-    "other_brand": "スピジア点鼻液5mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 9478,
-    "other_brand": "ニトラゼパム錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9679,
-    "other_brand": "ネルボン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9478,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5834,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12491,
-    "other_brand": "ベンザリン錠2",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 335,
-    "other_brand": "アセトアミノフェン〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "other_id": 5836,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 337,
-    "other_brand": "アセトアミノフェン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "other_id": 5837,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 338,
-    "other_brand": "アセトアミノフェン「JG」原末",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 339,
-    "other_brand": "アセトアミノフェン「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 342,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 343,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 359,
-    "other_brand": "アセトアミノフェン錠200mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 367,
-    "other_brand": "アセトアミノフェンDS小児用20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 375,
-    "other_brand": "アセリオ静注液1000mgバッグ",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 1382,
-    "other_brand": "アンヒバ坐剤小児用50mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 3946,
-    "other_brand": "カロナール原末",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "other_id": 6303,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5891,
-    "other_brand": "ジクロフェナクナトリウムテープ15mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5896,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「ゼリア」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5897,
-    "other_brand": "ジクロフェナクナトリウム坐剤12.5mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5922,
-    "other_brand": "ジクロフェナクNa坐剤12.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5924,
-    "other_brand": "ジクロフェナクNa坐剤25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5933,
-    "other_brand": "ジクロフェナクNa点眼液0.1％「日新」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5934,
-    "other_brand": "ジクロフェナクNa錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5935,
-    "other_brand": "ジクロフェナクNa錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 5941,
-    "other_brand": "ジクロード点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 10896,
-    "other_brand": "ピレチノール",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
-  },
-  {
-    "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12995,
-    "other_brand": "ボルタレンサポ12.5mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11654,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5897,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13001,
-    "other_brand": "ボルタレン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "起立性低血圧があらわれることがある。異常が認められた場合には、本剤を減量するなど適切な処置を行う。"
+    "other_id": 335,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 337,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 338,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 342,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 343,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5922,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5924,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1382,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 359,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5933,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5934,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5935,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 367,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5941,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 375,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "起立性低血圧があらわれることがある。異常が認められた場合には、本剤を減量するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "起立性低血圧があらわれることがある。異常が認められた場合には、本剤を減量するなど適切な処置を行う。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   }
 ]

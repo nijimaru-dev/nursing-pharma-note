@@ -1,248 +1,166 @@
 [
   {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
-  },
-  {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
-  },
-  {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン塩酸塩又はグアナベンズ酢酸塩の投与中止後のリバウンド現象を増強するおそれがある。β遮断剤を先に中止し、これらの薬剤を徐々に減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン塩酸塩又はグアナベンズ酢酸塩の投与中止後のリバウンド現象を増強するおそれがある。β遮断剤を先に中止し、これらの薬剤を徐々に減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン塩酸塩又はグアナベンズ酢酸塩の投与中止後のリバウンド現象を増強するおそれがある。β遮断剤を先に中止し、これらの薬剤を徐々に減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン塩酸塩又はグアナベンズ酢酸塩の投与中止後のリバウンド現象を増強するおそれがある。β遮断剤を先に中止し、これらの薬剤を徐々に減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン塩酸塩又はグアナベンズ酢酸塩の投与中止後のリバウンド現象を増強するおそれがある。β遮断剤を先に中止し、これらの薬剤を徐々に減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン塩酸塩又はグアナベンズ酢酸塩の投与中止後のリバウンド現象を増強するおそれがある。β遮断剤を先に中止し、これらの薬剤を徐々に減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン塩酸塩又はグアナベンズ酢酸塩の投与中止後のリバウンド現象を増強するおそれがある。β遮断剤を先に中止し、これらの薬剤を徐々に減量する。"
-  },
-  {
-    "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
-  },
-  {
-    "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
-  },
-  {
-    "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
-  },
-  {
-    "other_id": 5963,
-    "other_brand": "ジソピラミド徐放錠150mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
-  },
-  {
-    "other_id": 5964,
-    "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれるおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制を来すおそれがあるので、減量するなど注意する。"
+    "other_id": 5963,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5964,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1371,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 767,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制を来すおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制を来すおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制を来すおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれるおそれがあるので、心機能に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれるおそれがあるので、心機能に注意する。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれるおそれがあるので、心機能に注意する。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれるおそれがあるので、心機能に注意する。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれるおそれがあるので、心機能に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれるおそれがあるので、心機能に注意する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1922,
+    "interaction_type": "caution"
   }
 ]

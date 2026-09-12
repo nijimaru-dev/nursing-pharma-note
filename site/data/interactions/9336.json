@@ -1,20 +1,14 @@
 [
   {
     "other_id": 6598,
-    "other_brand": "セプーロチン静注用1000単位",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16577,
-    "other_brand": "注射用アナクトC 2,500単位",
-    "interaction_type": "caution",
-    "source_text": "活性化プロテインCの作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14632,
-    "other_brand": "リコモジュリン点滴静注用12800",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。 本剤との併用の安全性は明らかになっておらず、併用に際しては慎重に投与の判断を行うこと。"
+    "interaction_type": "caution"
   }
 ]

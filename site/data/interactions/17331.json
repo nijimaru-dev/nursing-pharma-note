@@ -1,164 +1,110 @@
 [
   {
     "other_id": 8711,
-    "other_brand": "トラクリア小児用分散錠32mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を助長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8712,
-    "other_brand": "トラクリア錠62.5mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を助長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12946,
-    "other_brand": "ボセンタン成人用DS6.25%「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を助長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12947,
-    "other_brand": "ボセンタン錠62.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を助長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12948,
-    "other_brand": "ボセンタン錠62.5mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を助長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12949,
-    "other_brand": "ボセンタン錠62.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を助長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12950,
-    "other_brand": "ボセンタン錠62.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下を助長するおそれがある。"
-  },
-  {
-    "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 2228,
-    "other_brand": "ウロナーゼ冠動注用12万単位",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 2229,
-    "other_brand": "ウロナーゼ静注用6万単位",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 294,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10157,
-    "other_brand": "パナルジン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2228,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2229,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "出血の危険性を増大させるおそれがある。定期的にプロトロンビン時間等の血液検査を行い、必要に応じてこれらの併用薬を減量又は投与を中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "一過性であるが、ジゴキシンの血中濃度が上昇することが報告されているので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "一過性であるが、ジゴキシンの血中濃度が上昇することが報告されているので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "一過性であるが、ジゴキシンの血中濃度が上昇することが報告されているので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "一過性であるが、ジゴキシンの血中濃度が上昇することが報告されているので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "一過性であるが、ジゴキシンの血中濃度が上昇することが報告されているので注意すること。"
+    "interaction_type": "caution"
   }
 ]

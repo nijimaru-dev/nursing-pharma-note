@@ -1,44 +1,30 @@
 [
   {
-    "other_id": 8734,
-    "other_brand": "トラネキサム酸カプセル250mg「旭化成」",
-    "interaction_type": "caution",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
-  },
-  {
     "other_id": 8738,
-    "other_brand": "トラネキサム酸注250mg/5mL「日新」",
-    "interaction_type": "caution",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8741,
-    "other_brand": "トラネキサム酸錠250mg「三恵」",
-    "interaction_type": "caution",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8742,
-    "other_brand": "トラネキサム酸錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8765,
-    "other_brand": "トランサミンシロップ5%",
-    "interaction_type": "caution",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8734,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8767,
-    "other_brand": "トランサミン注5%",
-    "interaction_type": "caution",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12226,
-    "other_brand": "ヘムライブラ皮下注12mg",
-    "interaction_type": "caution",
-    "source_text": "血栓塞栓症又は血栓性微小血管症があらわれるおそれがある。\nエミシズマブ（遺伝子組換え）投与中及び投与中止後6ヵ月間は、本剤の投与は避けること。エミシズマブ（遺伝子組換え）投与中及び投与中止後6ヵ月間の出血に対してやむを得ず本剤を投与する場合は必ず血友病に対する十分な治療経験を有する医師のもと、必要な血液凝固系検査等が実施可能で血栓塞栓症及び血栓性微小血管症に対する適切な処置が可能な医療機関で投与すること。"
+    "interaction_type": "caution"
   }
 ]

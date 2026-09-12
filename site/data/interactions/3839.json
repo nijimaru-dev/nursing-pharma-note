@@ -1,224 +1,150 @@
 [
   {
     "other_id": 2944,
-    "other_brand": "オイグルコン錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用を増強することがある。また、低血糖症状（頻脈等）をマスクすることがあるので、血糖値に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4832,
-    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用を増強することがある。また、低血糖症状（頻脈等）をマスクすることがあるので、血糖値に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれることがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経の抑制を起こすおそれがあるので、心機能等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経の抑制を起こすおそれがあるので、心機能等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経の抑制を起こすおそれがあるので、心機能等に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経の抑制を起こすおそれがあるので、心機能等に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等があらわれるおそれがあるので、心機能に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等があらわれるおそれがあるので、心機能に注意すること。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等があらわれるおそれがあるので、心機能に注意すること。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等があらわれるおそれがあるので、心機能に注意すること。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等があらわれるおそれがあるので、心機能に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "房室伝導時間が延長し、徐脈、房室ブロック等があらわれるおそれがあるので、心機能に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがあるので、用量に注意すること。"
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがあるので、用量に注意すること。"
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4780,
-    "other_brand": "グリセリン「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4781,
-    "other_brand": "グリセリン　シオエ",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4783,
-    "other_brand": "グリセリン「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4784,
-    "other_brand": "グリセリン「タイセイ」M",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4786,
-    "other_brand": "グリセリン「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4788,
-    "other_brand": "グリセリン「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4790,
-    "other_brand": "グリセリン「ヤクハン」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4791,
-    "other_brand": "グリセリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4793,
-    "other_brand": "グリセリン「東海」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4795,
-    "other_brand": "グリセリン「東豊」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
-  },
-  {
-    "other_id": 4796,
-    "other_brand": "グリセリン「NikP」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "other_id": 1922,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4807,
-    "other_brand": "グリセリン浣腸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4811,
-    "other_brand": "グリセリン浣腸液50%「ケンエー」　30mL",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9491,
-    "other_brand": "ニトログリセリン注25mg／50mLシリンジ「テルモ」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9496,
-    "other_brand": "ニトログリセリン静注25mg／50mLRFIDシリンジ「テルモ」",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13400,
-    "other_brand": "ミニトロテープ27mg",
-    "interaction_type": "caution",
-    "source_text": "過度の降圧を来すおそれがあるので、用量に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4780,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4781,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4784,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4786,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4788,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4790,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4791,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4793,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4795,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4796,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧反応を引き起こすことがあるので、血圧値に注意すること。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧反応を引き起こすことがあるので、血圧値に注意すること。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "昇圧反応を引き起こすことがあるので、血圧値に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧反応を引き起こすことがあるので、血圧値に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
   }
 ]

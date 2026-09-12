@@ -1,158 +1,106 @@
 [
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1282,
-    "other_brand": "アレビアチン注250mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1657,
-    "other_brand": "イドビンソ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤のイスラトラビルの活性体であるイスラトラビル三リン酸の細胞内濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7411,
-    "other_brand": "ダイフェン配合錠",
-    "interaction_type": "caution",
-    "source_text": "ラミブジンのAUCが43%増加し、全身クリアランスが30%、腎クリアランスが35%減少したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9762,
-    "other_brand": "ノーベルバール静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9907,
-    "other_brand": "バクトラミン注",
-    "interaction_type": "caution",
-    "source_text": "ラミブジンのAUCが43%増加し、全身クリアランスが30%、腎クリアランスが35%減少したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9908,
-    "other_brand": "バクトラミン配合錠",
-    "interaction_type": "caution",
-    "source_text": "ラミブジンのAUCが43%増加し、全身クリアランスが30%、腎クリアランスが35%減少したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11845,
-    "other_brand": "プリジスタ錠600mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤との相互作用を示さないと推察される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12693,
-    "other_brand": "ホストイン静注750mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15088,
-    "other_brand": "ルピアール坐剤25",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15965,
-    "other_brand": "ワコビタール坐剤15",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   }
 ]

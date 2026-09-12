@@ -1,92 +1,62 @@
 [
   {
     "other_id": 12408,
-    "other_brand": "ベネシッド錠250mg",
-    "interaction_type": "caution",
-    "source_text": "タゾバクタム及びピペラシリンの半減期が延長することがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
-  },
-  {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
-  },
-  {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの排泄が遅延し、メトトレキサートの毒性作用が増強される可能性がある。血中濃度モニタリングを行うなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13626,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13627,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13630,
+    "interaction_type": "caution"
   }
 ]

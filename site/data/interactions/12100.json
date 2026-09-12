@@ -1,218 +1,146 @@
 [
   {
     "other_id": 650,
-    "other_brand": "アネスタ",
-    "interaction_type": "caution",
-    "source_text": "麻酔作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下することがあるので、併用する場合には、プロポフォールの投与速度を減速するなど慎重に投与すること\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 652,
-    "other_brand": "アネレム静注用20mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3128,
-    "other_brand": "オノアクト点滴静注用50mg",
-    "interaction_type": "caution",
-    "source_text": "徐拍作用を増強するおそれがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8263,
-    "other_brand": "デクスメデトミジン静注液200μg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8264,
-    "other_brand": "デクスメデトミジン静注液200μg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9145,
-    "other_brand": "ドルミカムシロップ2mg/mL",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9146,
-    "other_brand": "ドルミカム注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11664,
-    "other_brand": "ブレビブロック注 100mg",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制を来すおそれがあるので、注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11962,
-    "other_brand": "プレセデックス静注液200μg「ファイザー」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
-  },
-  {
-    "other_id": 5101,
-    "other_brand": "コアベータ静注用12.5mg",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5833,
-    "other_brand": "ジアゼパム錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5834,
-    "other_brand": "ジアゼパム錠2「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5836,
-    "other_brand": "ジアゼパム錠2mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5837,
-    "other_brand": "ジアゼパム錠2mg「タイホウ」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 6303,
-    "other_brand": "スピジア点鼻液5mg",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13266,
-    "other_brand": "マルワ亜酸化窒素",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6303,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 14572,
-    "other_brand": "ランジオロール塩酸塩点滴静注用50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16427,
-    "other_brand": "小池笑気",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16694,
-    "other_brand": "液化亜酸化窒素",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16695,
-    "other_brand": "液化亜酸化窒素",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16991,
-    "other_brand": "日本薬局方窒素",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16992,
-    "other_brand": "日本薬局方 窒素",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16993,
-    "other_brand": "日本薬局方窒素",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧、心拍出量及び心拍数が低下することがあるので、併用する場合には、投与速度を減速するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16427,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16688,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11569,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5101,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16694,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16695,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13341,
-    "other_brand": "ミダゾラム注射液10mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "麻酔・鎮静作用が増強されたり、収縮期血圧、拡張期血圧、平均動脈圧及び心拍出量が低下することがある。"
+    "interaction_type": "caution"
   }
 ]

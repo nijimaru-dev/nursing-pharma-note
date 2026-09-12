@@ -1,3794 +1,2530 @@
 [
   {
+    "other_id": 14416,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "ルラシドン塩酸塩の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ルラシドン塩酸塩の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ルラシドン塩酸塩の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "ルラシドン塩酸塩の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 14416,
-    "other_brand": "ラツーダ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ルラシドン塩酸塩の作用が減弱するおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "ルラシドン塩酸塩の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ルラシドン塩酸塩の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7173,
-    "other_brand": "タダラフィル錠10mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7174,
-    "other_brand": "タダラフィル錠10mgCI「クラシエ」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7175,
-    "other_brand": "タダラフィル錠10mgCI「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7176,
-    "other_brand": "タダラフィル錠10mgCI「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7178,
-    "other_brand": "タダラフィル錠10mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7181,
-    "other_brand": "タダラフィル錠10mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7182,
-    "other_brand": "タダラフィル錠2.5mgZA「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7183,
-    "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7188,
-    "other_brand": "タダラフィル錠2.5mgZA「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7189,
-    "other_brand": "タダラフィル錠2.5mgZA「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7191,
-    "other_brand": "タダラフィル錠20mgAD「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7192,
-    "other_brand": "タダラフィル錠20mgAD「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7197,
-    "other_brand": "タダラフィル錠20mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7202,
-    "other_brand": "タダラフィル錠20mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7173,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7174,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7175,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7176,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7205,
-    "other_brand": "タダラフィル錠20mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "タダラフィルの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7178,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7181,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7182,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7183,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7188,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7189,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7191,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7192,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7197,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3161,
-    "other_brand": "オプスミット小児用分散錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "マシテンタンの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3163,
-    "other_brand": "オプスミット錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "マシテンタンの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 10191,
-    "other_brand": "パルモディア錠0.1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ペマフィブラートの血中濃度が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10192,
-    "other_brand": "パルモディアXR錠0.2mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ペマフィブラートの血中濃度が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 10191,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15949,
-    "other_brand": "ローブレナ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ALT及びASTが上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ボリコナゾールの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ボリコナゾールの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "contraindicated",
-    "source_text": "ボリコナゾールの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "ボリコナゾールの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11565,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ボリコナゾールの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "contraindicated",
-    "source_text": "ボリコナゾールの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ボリコナゾールの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4515,
-    "other_brand": "クレセンバカプセル40mg",
-    "interaction_type": "contraindicated",
-    "source_text": "イサブコナゾニウム硫酸塩の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4517,
-    "other_brand": "クレセンバ点滴静注用200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "イサブコナゾニウム硫酸塩の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2290,
-    "other_brand": "エジュラント錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リルピビリン塩酸塩の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14619,
-    "other_brand": "リカムビス水懸筋注600mg",
-    "interaction_type": "contraindicated",
-    "source_text": "リルピビリン塩酸塩の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8024,
-    "other_brand": "テビケイ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ドルテグラビル及びリルピビリンの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2456,
-    "other_brand": "エタノール「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2457,
-    "other_brand": "エタノール「ヤマゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2458,
-    "other_brand": "エタノール（カネイチ）Ⓜ",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2459,
-    "other_brand": "エタノール シオエ",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2460,
-    "other_brand": "エタノール「イマヅ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2462,
-    "other_brand": "エタノール「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2464,
-    "other_brand": "エタノール「タカスギ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2465,
-    "other_brand": "エタノール「ニッコー」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2467,
-    "other_brand": "エタノール「マルイシ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2469,
-    "other_brand": "エタノール「ヤクハン」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2471,
-    "other_brand": "エタノール「ヨシダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2473,
-    "other_brand": "エタノール「東海」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 2476,
-    "other_brand": "エタノール（ミツマル）",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9646,
-    "other_brand": "ネオ消アル「ニッコー」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16649,
-    "other_brand": "消毒用エタノール「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 16666,
-    "other_brand": "消毒用エタノール「東海」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 16673,
-    "other_brand": "消毒用エタノール（ミツマル）",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16789,
-    "other_brand": "無水エタノール「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16790,
-    "other_brand": "無水エタノール「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2456,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2457,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16666,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2458,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2459,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2460,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2462,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16798,
-    "other_brand": "無水エタノール「東海」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2464,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2465,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16673,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2467,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16801,
-    "other_brand": "無水エタノール注「フソー」",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2469,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16803,
-    "other_brand": "無水エタノール（ミツマル）",
-    "interaction_type": "contraindicated",
-    "source_text": "ダルナビル、コビシスタット及びテノホビル　アラフェナミドの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2471,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2473,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2476,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9646,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1657,
-    "other_brand": "イドビンソ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "ドラビリンの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12906,
-    "other_brand": "ボカブリア水懸筋注400mg",
-    "interaction_type": "contraindicated",
-    "source_text": "カボテグラビルの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12908,
-    "other_brand": "ボカブリア錠30mg",
-    "interaction_type": "contraindicated",
-    "source_text": "カボテグラビルの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 998,
-    "other_brand": "アメナリーフ錠200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "アメナメビルの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "ニルマトレルビル及びリトナビルの作用の減弱や耐性出現のおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "エンシトレルビル　フマル酸の作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10670,
-    "other_brand": "ビルトリシド錠600mg",
-    "interaction_type": "contraindicated",
-    "source_text": "プラジカンテルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5833,
-    "other_brand": "ジアゼパム錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5834,
-    "other_brand": "ジアゼパム錠2「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5836,
-    "other_brand": "ジアゼパム錠2mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5837,
-    "other_brand": "ジアゼパム錠2mg「タイホウ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6303,
-    "other_brand": "スピジア点鼻液5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8776,
-    "other_brand": "トリアゾラム錠0.125mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5834,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8777,
-    "other_brand": "トリアゾラム錠0.125mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5836,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5837,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8778,
-    "other_brand": "トリアゾラム錠0.125mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9842,
-    "other_brand": "ハルシオン0.125mg錠",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9842,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1013,
-    "other_brand": "アモバン錠7.5",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6992,
-    "other_brand": "ゾピクロン錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7006,
-    "other_brand": "ゾルピデム酒石酸塩内用液5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7008,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7012,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7014,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7018,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7020,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7021,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7025,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7031,
-    "other_brand": "ゾルピデム酒石酸塩錠5mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17260,
-    "other_brand": "酒石酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6992,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7025,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7031,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7006,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14529,
-    "other_brand": "ラミクタール錠小児用2mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14542,
-    "other_brand": "ラモトリギン錠小児用2mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14543,
-    "other_brand": "ラモトリギン錠小児用2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14545,
-    "other_brand": "ラモトリギン錠小児用2mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 335,
-    "other_brand": "アセトアミノフェン〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
+    "other_id": 14542,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 337,
-    "other_brand": "アセトアミノフェン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 338,
-    "other_brand": "アセトアミノフェン「JG」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 339,
-    "other_brand": "アセトアミノフェン「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 342,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 343,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 359,
-    "other_brand": "アセトアミノフェン錠200mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 367,
-    "other_brand": "アセトアミノフェンDS小児用20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
-  },
-  {
-    "other_id": 375,
-    "other_brand": "アセリオ静注液1000mgバッグ",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
+    "other_id": 14543,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1382,
-    "other_brand": "アンヒバ坐剤小児用50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 359,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3946,
-    "other_brand": "カロナール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 335,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 367,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 337,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 338,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10896,
-    "other_brand": "ピレチノール",
-    "interaction_type": "caution",
-    "source_text": "本剤の長期投与により、肝薬物代謝酵素が誘導され、肝障害を生じやすくなるとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 342,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 343,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 375,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11624,
-    "other_brand": "ブプレノルフィン注0.2mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1568,
-    "other_brand": "イストラデフィリン錠20mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1569,
-    "other_brand": "イストラデフィリン錠20mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1571,
-    "other_brand": "イストラデフィリンOD錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9697,
-    "other_brand": "ノウリアスト錠20mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 1571,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3258,
-    "other_brand": "オランザピン細粒1％「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3259,
-    "other_brand": "オランザピン錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3260,
-    "other_brand": "オランザピン細粒1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3263,
-    "other_brand": "オランザピン細粒1%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3264,
-    "other_brand": "オランザピン細粒1％「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3265,
-    "other_brand": "オランザピン錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3266,
-    "other_brand": "オランザピン細粒1％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3269,
-    "other_brand": "オランザピン錠1.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3274,
-    "other_brand": "オランザピン錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3276,
-    "other_brand": "オランザピン錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3304,
-    "other_brand": "オランザピンOD錠1.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3306,
-    "other_brand": "オランザピンOD錠2.5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3309,
-    "other_brand": "オランザピンOD錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3311,
-    "other_brand": "オランザピンOD錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3316,
-    "other_brand": "オランザピンOD錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4295,
-    "other_brand": "クエチアピン錠12.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4297,
-    "other_brand": "クエチアピン細粒50％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4304,
-    "other_brand": "クエチアピン錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4306,
-    "other_brand": "クエチアピン錠12.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4307,
-    "other_brand": "クエチアピン錠25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4309,
-    "other_brand": "クエチアピン錠25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4541,
-    "other_brand": "クロザリル錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9735,
-    "other_brand": "ノリトレン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10603,
-    "other_brand": "ビプレッソ徐放錠50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11732,
-    "other_brand": "ブロムペリドール錠1mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11733,
-    "other_brand": "ブロムペリドール錠1mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13469,
-    "other_brand": "ミルタザピン錠15mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13471,
-    "other_brand": "ミルタザピン錠15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13474,
-    "other_brand": "ミルタザピン錠15mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13475,
-    "other_brand": "ミルタザピン錠15mg「共創未来」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13476,
-    "other_brand": "ミルタザピン錠15mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13477,
-    "other_brand": "ミルタザピン錠15mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13478,
-    "other_brand": "ミルタザピン錠15mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13479,
-    "other_brand": "ミルタザピン錠15mg「EE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13480,
-    "other_brand": "ミルタザピン錠15mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13481,
-    "other_brand": "ミルタザピン錠15mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13483,
-    "other_brand": "ミルタザピン錠15mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13500,
-    "other_brand": "ミルタザピンOD錠15mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14941,
-    "other_brand": "リフレックス錠15mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 9735,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15514,
-    "other_brand": "レメロン錠15mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1040,
-    "other_brand": "アリセプトドライシロップ1%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13469,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1041,
-    "other_brand": "アリセプト内服ゼリー3mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13471,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1044,
-    "other_brand": "アリセプト錠3mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13474,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1048,
-    "other_brand": "アリセプトD錠3mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13475,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8977,
-    "other_brand": "ドネペジル塩酸塩内服ゼリー3mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13476,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8983,
-    "other_brand": "ドネペジル塩酸塩錠3mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13477,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8984,
-    "other_brand": "ドネペジル塩酸塩錠3mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13478,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8986,
-    "other_brand": "ドネペジル塩酸塩錠3mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13479,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8988,
-    "other_brand": "ドネペジル塩酸塩錠3mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13480,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8990,
-    "other_brand": "ドネペジル塩酸塩錠3mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13481,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8991,
-    "other_brand": "ドネペジル塩酸塩錠3mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13483,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8992,
-    "other_brand": "ドネペジル塩酸塩錠3mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 3258,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8993,
-    "other_brand": "ドネペジル塩酸塩錠3mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 3259,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8994,
-    "other_brand": "ドネペジル塩酸塩錠3mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 3260,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8995,
-    "other_brand": "ドネペジル塩酸塩錠3mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 4541,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8997,
-    "other_brand": "ドネペジル塩酸塩錠3mg「TSU」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 6718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3263,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6720,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3264,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3265,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3266,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3269,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4295,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4297,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3274,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3276,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4304,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4306,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4307,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11732,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11733,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4309,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14941,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3304,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3306,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10603,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3309,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3311,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3316,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9028,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9029,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9031,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9033,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9035,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9039,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9040,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9042,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9043,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9045,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9049,
-    "other_brand": "ドネペジル塩酸塩OD錠3mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12484,
-    "other_brand": "ベルソムラ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7545,
-    "other_brand": "チザニジン錠1mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 9031,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7549,
-    "other_brand": "チザニジン錠1mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 9033,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7550,
-    "other_brand": "チザニジン錠1mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 9035,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9039,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1040,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1041,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9040,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1044,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9042,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9043,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8983,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8984,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1048,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8986,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9045,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8988,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9049,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8990,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8992,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8993,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8994,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8995,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8997,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8096,
-    "other_brand": "テルネリン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7545,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7549,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7550,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1914,
-    "other_brand": "インデラル注射液2mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5946,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1915,
-    "other_brand": "インデラル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5465,
-    "other_brand": "サンリズムカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6733,
-    "other_brand": "セロケン錠20mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6734,
-    "other_brand": "セロケンL錠120mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10881,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10883,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12057,
-    "other_brand": "プロノン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12066,
-    "other_brand": "プロパフェノン塩酸塩錠100mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12090,
-    "other_brand": "プロプラノロール塩酸塩徐放カプセル60mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12091,
-    "other_brand": "プロプラノロール塩酸塩錠10mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12093,
-    "other_brand": "プロプラノロール塩酸塩錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13564,
-    "other_brand": "メキシチールカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13566,
-    "other_brand": "メキシチール点滴静注125mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13567,
-    "other_brand": "メキシレチン塩酸塩カプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13571,
-    "other_brand": "メキシレチン塩酸塩錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13572,
-    "other_brand": "メキシレチン塩酸塩錠50mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13692,
-    "other_brand": "メトプロロール酒石酸塩錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13694,
-    "other_brand": "メトプロロール酒石酸塩錠20mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 10883,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15878,
-    "other_brand": "ロプレソール錠20mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15880,
-    "other_brand": "ロプレソールSR錠120mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14730,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6733,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6734,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13692,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5465,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12057,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12090,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12091,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12066,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13694,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4206,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1914,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13564,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12093,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13566,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13567,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8830,
-    "other_brand": "トルバプタンOD錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 383,
-    "other_brand": "アゼルニジピン錠8mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 386,
-    "other_brand": "アゼルニジピン錠8mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 387,
-    "other_brand": "アゼルニジピン錠8mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1440,
-    "other_brand": "アーチスト錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3841,
-    "other_brand": "カルブロック錠8mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 386,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 387,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3845,
-    "other_brand": "カルベジロール錠1.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3846,
-    "other_brand": "カルベジロール錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3849,
-    "other_brand": "カルベジロール錠1.25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3851,
-    "other_brand": "カルベジロール錠1.25mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3855,
-    "other_brand": "カルベジロール錠1.25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3855,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2778,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8283,
-    "other_brand": "デタントールR錠3mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2546,
-    "other_brand": "エナラプリルマレイン酸塩細粒1％「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 1440,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2547,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2548,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2550,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2551,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2554,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2556,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2557,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2559,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「NikP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 383,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2560,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2576,
-    "other_brand": "エナラプリルマレイン酸塩錠5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15229,
-    "other_brand": "レニベース錠2.5",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2576,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2546,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2547,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2548,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2551,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2554,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2557,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2559,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2890,
-    "other_brand": "エレトリプタン錠20mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2893,
-    "other_brand": "エレトリプタン錠20mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15518,
-    "other_brand": "レルパックス錠20mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 430,
-    "other_brand": "アダラートCR錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9512,
-    "other_brand": "ニフェジピンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9514,
-    "other_brand": "ニフェジピンカプセル5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9517,
-    "other_brand": "ニフェジピンCR錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9522,
-    "other_brand": "ニフェジピンCR錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9535,
-    "other_brand": "ニフェジピンL錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9539,
-    "other_brand": "ニフェジピンL錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9540,
-    "other_brand": "ニフェジピンL錠10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9541,
-    "other_brand": "ニフェジピンL錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9541,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4607,
-    "other_brand": "クロフィブラートカプセル250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 9512,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9514,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9517,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9522,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9535,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5793,
-    "other_brand": "シンバスタチン錠10mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5795,
-    "other_brand": "シンバスタチン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5797,
-    "other_brand": "シンバスタチン錠5mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5798,
-    "other_brand": "シンバスタチン錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5805,
-    "other_brand": "シンバスタチン錠5mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11477,
-    "other_brand": "フルバスタチン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14972,
-    "other_brand": "リポバス錠5",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15940,
-    "other_brand": "ローコール錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8711,
-    "other_brand": "トラクリア小児用分散錠32mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5797,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8712,
-    "other_brand": "トラクリア錠62.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5798,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8867,
-    "other_brand": "トレプロスト吸入液1.74mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5805,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8868,
-    "other_brand": "トレプロスト注射液20mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 11477,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14972,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4607,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12946,
-    "other_brand": "ボセンタン成人用DS6.25%「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12947,
-    "other_brand": "ボセンタン錠62.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8867,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12949,
-    "other_brand": "ボセンタン錠62.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12950,
-    "other_brand": "ボセンタン錠62.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 8711,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 8712,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 8868,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 102,
-    "other_brand": "アクチット輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 7956,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 103,
-    "other_brand": "アクチット輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 7960,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 699,
-    "other_brand": "アプレピタントカプセル125mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 7961,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 700,
-    "other_brand": "アプレピタントカプセル80mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 7962,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 792,
-    "other_brand": "アミニック輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 7965,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 802,
-    "other_brand": "アミノレバンEN配合散",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 807,
-    "other_brand": "アミユー配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1291,
-    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1667,
-    "other_brand": "イノソリッド配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1674,
-    "other_brand": "イノラス配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1783,
-    "other_brand": "イムフレックスCPD-MAP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2259,
-    "other_brand": "エクストラニール腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2606,
-    "other_brand": "エネーボ配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2795,
-    "other_brand": "エボザックカプセル30mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2895,
-    "other_brand": "エレメンミック注",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2896,
-    "other_brand": "エレンタール配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2897,
-    "other_brand": "エレンタールP乳幼児用配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2901,
-    "other_brand": "エンシュア・リキッド",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2902,
-    "other_brand": "エンシュア・H",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4056,
-    "other_brand": "カーボスター透析剤・L（6L）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4058,
-    "other_brand": "カーボスター透析剤・M",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4059,
-    "other_brand": "カーボスター透析剤・P（袋）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4065,
-    "other_brand": "カーミパック生理食塩液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4069,
-    "other_brand": "カーミパック生理食塩液L",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4072,
-    "other_brand": "カーミパックACD−A液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4073,
-    "other_brand": "カーミC リューコトラップ MAP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4074,
-    "other_brand": "カーミCA液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4254,
-    "other_brand": "キンダリー透析剤5E",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4267,
-    "other_brand": "キンダリー透析剤AF5号(6L)",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4269,
-    "other_brand": "キンダリー透析剤AF5P号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4487,
-    "other_brand": "クリニザルツ輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5362,
-    "other_brand": "サブパック血液ろ過用補充液−Bi",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5403,
-    "other_brand": "サルプレップ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5623,
-    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6190,
-    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6204,
-    "other_brand": "スチックゼノールA",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6448,
-    "other_brand": "セパセルインテグラC−MAP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6449,
-    "other_brand": "セパセルインテグラCA",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6852,
-    "other_brand": "ソリタ−T配合顆粒2号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6853,
-    "other_brand": "ソリタ−T配合顆粒3号",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6854,
-    "other_brand": "ソリタ−T1号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6856,
-    "other_brand": "ソリタ−T2号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6858,
-    "other_brand": "ソリタ−T3号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6860,
-    "other_brand": "ソリタ−T3号G輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6862,
-    "other_brand": "ソリタ−T4号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6864,
-    "other_brand": "ソリタックス−H輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6915,
-    "other_brand": "ソルバノン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7352,
-    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7370,
-    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7388,
-    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7391,
-    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7614,
-    "other_brand": "ツインパル輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7616,
-    "other_brand": "ツインラインNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8204,
-    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8206,
-    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8879,
-    "other_brand": "トレーランG液50g",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9436,
-    "other_brand": "ニコペリック腹膜透析液（1500mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9601,
-    "other_brand": "ネオアミユー輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9844,
-    "other_brand": "ハルトマン−G3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9851,
-    "other_brand": "ハルトマンD液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9898,
-    "other_brand": "バイフィル透析剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10153,
-    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10154,
-    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10194,
-    "other_brand": "パレセーフ輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10195,
-    "other_brand": "パレプラス輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10500,
-    "other_brand": "ビカーボン輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 7966,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10760,
-    "other_brand": "ピシバニール注射用1KE",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10905,
-    "other_brand": "ピーエヌツイン−1号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 8204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11855,
-    "other_brand": "プリミーフォート経腸用液6",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12013,
-    "other_brand": "プロクトセディル軟膏",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12219,
-    "other_brand": "ヘパンED配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12605,
-    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 12613,
-    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13012,
-    "other_brand": "ボルヒール組織接着用（0.5mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13292,
-    "other_brand": "ミオテクター冠血管注",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13356,
-    "other_brand": "ミッドペリック135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13369,
-    "other_brand": "ミッドペリックL135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13390,
-    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 13895,
-    "other_brand": "メルスモン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14019,
-    "other_brand": "モリアミンS注",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14020,
-    "other_brand": "モリプロンF輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14192,
-    "other_brand": "ユエキンキープ3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14295,
-    "other_brand": "ラエンネック",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14312,
-    "other_brand": "ラクトリンゲル液′′フソー′′",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14319,
-    "other_brand": "ラクトリンゲルS注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 8206,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14365,
-    "other_brand": "ラコールNF配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14366,
-    "other_brand": "ラコールNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14824,
-    "other_brand": "リナセートD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13356,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14826,
-    "other_brand": "リナセートF輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 2606,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14840,
-    "other_brand": "リハビックス−K1号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14947,
-    "other_brand": "リプラス1号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14950,
-    "other_brand": "リプラス3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15014,
-    "other_brand": "リンゲル液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15046,
-    "other_brand": "リンパック透析剤TA1",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15047,
-    "other_brand": "リンパック透析剤TA3",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15048,
-    "other_brand": "リンパック透析剤TA5",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15138,
-    "other_brand": "レギュニール HCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15150,
-    "other_brand": "レギュニール LCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 15997,
-    "other_brand": "ワンパル1号輸液（800mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16012,
-    "other_brand": "ヴィーン3G輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16013,
-    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16015,
-    "other_brand": "ヴィーンD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16016,
-    "other_brand": "ヴィーンD輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16018,
-    "other_brand": "ヴィーンF輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16098,
-    "other_brand": "乳糖水和物「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16567,
-    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16572,
-    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 16575,
-    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 6190,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16948,
-    "other_brand": "白色ワセリン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17210,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13369,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17211,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 6204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17212,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13895,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17213,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 13390,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17214,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 11855,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17215,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 14947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17216,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 102,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17217,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 103,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17218,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17219,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17220,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17221,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17222,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17223,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17224,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17225,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17226,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17227,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17228,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17229,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17230,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17231,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17232,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17233,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17234,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17235,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17236,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17237,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17238,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17239,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17240,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17241,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17242,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 17243,
-    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 14950,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17523,
-    "other_brand": "10%EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9844,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9851,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15997,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1667,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1674,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16016,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16018,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10905,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4254,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15014,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4267,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4269,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8879,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17584,
-    "other_brand": "ACD-A液 250mL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17585,
-    "other_brand": "AK−ソリタ透析剤・DL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17586,
-    "other_brand": "AK−ソリタ透析剤・DP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17587,
-    "other_brand": "AK−ソリタ透析剤・FL",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17588,
-    "other_brand": "AK−ソリタ透析剤・FP",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7352,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 699,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 700,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16575,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17602,
-    "other_brand": "Dドライ透析剤2.5S",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17603,
-    "other_brand": "Dドライ透析剤2.75S",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 14019,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17604,
-    "other_brand": "Dドライ透析剤3.0S",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 6852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14020,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15046,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6860,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15047,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6862,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15048,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6864,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17614,
-    "other_brand": "EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17618,
-    "other_brand": "ESポリタミン配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2259,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7388,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9436,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17631,
-    "other_brand": "JMS ACD-A液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17632,
-    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16098,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2795,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5362,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 802,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 807,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6449,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17718,
-    "other_brand": "T&Tオルファクトメーター",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17210,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5678,
-    "other_brand": "シルデナフィル錠25mgVI「ANG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17211,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5683,
-    "other_brand": "シルデナフィル錠25mgVI「SN」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17212,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5684,
-    "other_brand": "シルデナフィル錠50mgVI「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 12605,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7173,
-    "other_brand": "タダラフィル錠10mgCI「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17213,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7174,
-    "other_brand": "タダラフィル錠10mgCI「クラシエ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17214,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7175,
-    "other_brand": "タダラフィル錠10mgCI「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17215,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7176,
-    "other_brand": "タダラフィル錠10mgCI「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17216,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7178,
-    "other_brand": "タダラフィル錠10mgCI「GO」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17217,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7181,
-    "other_brand": "タダラフィル錠10mgCI「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17218,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7182,
-    "other_brand": "タダラフィル錠2.5mgZA「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17219,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7183,
-    "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 12613,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7188,
-    "other_brand": "タダラフィル錠2.5mgZA「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17220,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7189,
-    "other_brand": "タダラフィル錠2.5mgZA「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17221,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7191,
-    "other_brand": "タダラフィル錠20mgAD「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17222,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7192,
-    "other_brand": "タダラフィル錠20mgAD「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17223,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7197,
-    "other_brand": "タダラフィル錠20mgCI「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17224,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7202,
-    "other_brand": "タダラフィル錠20mgCI「GO」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17225,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7205,
-    "other_brand": "タダラフィル錠20mgCI「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17226,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9886,
-    "other_brand": "バイアグラ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17227,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10052,
-    "other_brand": "バルデナフィル錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 17228,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17230,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17231,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2901,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17232,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17233,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17234,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17235,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17239,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17240,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17241,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17242,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17243,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10153,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7614,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7616,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10195,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14295,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4056,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4059,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4065,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4069,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4072,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4073,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4074,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14312,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14824,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14826,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17603,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5623,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14840,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17604,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15232,
-    "other_brand": "レバチオ錠20mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10052,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7174,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7175,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7176,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7178,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7181,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7182,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7183,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7188,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7189,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7191,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7197,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9886,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7202,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7205,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5683,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5684,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6865,
-    "other_brand": "ソリフェナシンコハク酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6877,
-    "other_brand": "ソリフェナシンコハク酸塩OD錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1529,
-    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1531,
-    "other_brand": "イグザレルト細粒分包10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1533,
-    "other_brand": "イグザレルト錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1535,
-    "other_brand": "イグザレルト錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1536,
-    "other_brand": "イグザレルトOD錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 2823,
-    "other_brand": "エリキュース錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14906,
-    "other_brand": "リバーロキサバン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14907,
-    "other_brand": "リバーロキサバン錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 14910,
-    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14913,
-    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14914,
-    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2823,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14907,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1529,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14906,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1531,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1533,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14910,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1535,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11750,
-    "other_brand": "プラザキサカプセル75mg",
-    "interaction_type": "caution",
-    "source_text": "ダビガトランの血中濃度が低下することがある。"
-  },
-  {
-    "other_id": 4563,
-    "other_brand": "クロピドグレル錠25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 4565,
-    "other_brand": "クロピドグレル錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 4567,
-    "other_brand": "クロピドグレル錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 4570,
-    "other_brand": "クロピドグレル錠25mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 4572,
-    "other_brand": "クロピドグレル錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 4573,
-    "other_brand": "クロピドグレル錠25mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 4574,
-    "other_brand": "クロピドグレル錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 4575,
-    "other_brand": "クロピドグレル錠25mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4581,
-    "other_brand": "クロピドグレル錠25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "クロピドグレル硫酸塩の血小板阻害作用が増強されることにより、出血リスクが高まるおそれがある。クロピドグレル硫酸塩との併用は避けることが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4563,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4565,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4570,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4573,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4574,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4575,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6050,
-    "other_brand": "ジャドニュ顆粒分包90mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8306,
-    "other_brand": "デフェラシロクス顆粒分包90mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6808,
-    "other_brand": "ゼルヤンツ錠5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7112,
-    "other_brand": "タクロリムスカプセル0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7115,
-    "other_brand": "タクロリムスカプセル0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7122,
-    "other_brand": "タクロリムスカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7124,
-    "other_brand": "タクロリムス軟膏0.1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7125,
-    "other_brand": "タクロリムス軟膏0.1％「PP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7126,
-    "other_brand": "タクロリムス錠0.5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7128,
-    "other_brand": "タクロリムス錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7138,
-    "other_brand": "タクロリムス錠5mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7140,
-    "other_brand": "タクロリムス錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7298,
-    "other_brand": "タリムス点眼液0.1%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10119,
-    "other_brand": "パオスクレー内痔核内注射用250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7112,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7115,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11154,
-    "other_brand": "フェノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11155,
-    "other_brand": "フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11156,
-    "other_brand": "フェノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7122,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7124,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7125,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7126,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7128,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6808,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7140,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9639,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16703,
-    "other_brand": "液状フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1709,
-    "other_brand": "イマチニブ錠100mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1710,
-    "other_brand": "イマチニブ錠100mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1711,
-    "other_brand": "イマチニブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1712,
-    "other_brand": "イマチニブ錠100mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1715,
-    "other_brand": "イマチニブ錠100mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1716,
-    "other_brand": "イマチニブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1719,
-    "other_brand": "イマチニブ錠100mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1721,
-    "other_brand": "イマチニブ錠100mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1789,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1791,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1793,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「SUN」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3125,
-    "other_brand": "オニバイド点滴静注43mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4831,
-    "other_brand": "グリベック錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5062,
-    "other_brand": "ゲフィチニブ錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5063,
-    "other_brand": "ゲフィチニブ錠250mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5064,
-    "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 5065,
-    "other_brand": "ゲフィチニブ錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7094,
-    "other_brand": "タイケルブ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7282,
-    "other_brand": "タモキシフェン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7283,
-    "other_brand": "タモキシフェン錠10mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 7285,
-    "other_brand": "タモキシフェン錠10mg「MYL」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8703,
-    "other_brand": "トポテシン点滴静注40mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8872,
-    "other_brand": "トレミフェン錠40mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1709,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1710,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1711,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1712,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1715,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1716,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3125,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7094,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1719,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1791,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1721,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5062,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5063,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5064,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5065,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11221,
-    "other_brand": "フェマーラ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15203,
-    "other_brand": "レトロゾール錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15205,
-    "other_brand": "レトロゾール錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15206,
-    "other_brand": "レトロゾール錠2.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15209,
-    "other_brand": "レトロゾール錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15211,
-    "other_brand": "レトロゾール錠2.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15213,
-    "other_brand": "レトロゾール錠2.5mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15214,
-    "other_brand": "レトロゾール錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7282,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7283,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7285,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1789,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8703,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4643,
-    "other_brand": "クロマイ腟錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 4659,
-    "other_brand": "クロラムフェニコール腟錠100mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4702,
-    "other_brand": "クロロマイセチンサクシネート静注用1g",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4703,
-    "other_brand": "クロロマイセチン局所用液5%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4704,
-    "other_brand": "クロロマイセチン耳科用液0.5%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4705,
-    "other_brand": "クロロマイセチン軟膏2％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4706,
-    "other_brand": "クロロマイセチン錠50",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4643,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4703,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10600,
-    "other_brand": "ビブラマイシン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。"
+    "other_id": 4467,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。"
+    "other_id": 4659,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "カスポファンギン酢酸塩との併用により、本剤単回投与ではカスポファンギンのAUCが上昇し、本剤の代謝誘導作用が定常状態下ではカスポファンギンのトラフ濃度が低下したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16552,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17262,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1562,
-    "other_brand": "イスコチン原末",
-    "interaction_type": "caution",
-    "source_text": "重篤な肝機能障害があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1563,
-    "other_brand": "イスコチン注100mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な肝機能障害があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2285,
-    "other_brand": "エサンブトール錠125mg",
-    "interaction_type": "caution",
-    "source_text": "エタンブトール塩酸塩の視力障害を増強するおそれがある。視力障害について観察を十分に行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2766,
-    "other_brand": "エブトール125mg錠",
-    "interaction_type": "caution",
-    "source_text": "エタンブトール塩酸塩の視力障害を増強するおそれがある。視力障害について観察を十分に行う。"
-  },
-  {
-    "other_id": 5492,
-    "other_brand": "ザイボックス注射液600mg",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
-  },
-  {
-    "other_id": 5493,
-    "other_brand": "ザイボックス錠600mg",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14829,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14830,
-    "other_brand": "リネゾリド点滴静注液600mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14831,
-    "other_brand": "リネゾリド点滴静注液600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14832,
-    "other_brand": "リネゾリド点滴静注液600mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14834,
-    "other_brand": "リネゾリド錠600mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14835,
-    "other_brand": "リネゾリド錠600mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "外国人健康成人を対象に行った併用試験において、リネゾリドのCmax及びAUCが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5820,
-    "other_brand": "シーエルセントリ錠150mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "other_id": 5492,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5493,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5820,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10654,
-    "other_brand": "ビラミューン錠200",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8024,
-    "other_brand": "テビケイ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血漿中濃度が低下したとの報告がある。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8098,
-    "other_brand": "テルビナフィン塩酸塩クリーム1％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8099,
-    "other_brand": "テルビナフィン塩酸塩クリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8101,
-    "other_brand": "テルビナフィン塩酸塩クリーム1%「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8104,
-    "other_brand": "テルビナフィン塩酸塩外用液1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8106,
-    "other_brand": "テルビナフィン塩酸塩外用液1%「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8107,
-    "other_brand": "テルビナフィン塩酸塩外用液1%「MYK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8108,
-    "other_brand": "テルビナフィン塩酸塩錠125mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8109,
-    "other_brand": "テルビナフィン錠125mg「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8110,
-    "other_brand": "テルビナフィン錠125mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8113,
-    "other_brand": "テルビナフィン錠125mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 8120,
-    "other_brand": "テルビナフィン錠125mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14533,
-    "other_brand": "ラミシールクリーム1%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14534,
-    "other_brand": "ラミシール外用液1%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14535,
-    "other_brand": "ラミシール錠125mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11402,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8098,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8099,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8101,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8106,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8109,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8113,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8120,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 496,
-    "other_brand": "アトバコン内用懸濁液15％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "アトバコンとの併用により、アトバコンの血中濃度が約53%低下し、t\n1/2\nは約33時間短縮したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5373,
-    "other_brand": "サムチレール内用懸濁液15%",
-    "interaction_type": "caution",
-    "source_text": "アトバコンとの併用により、アトバコンの血中濃度が約53%低下し、t\n1/2\nは約33時間短縮したとの報告がある。"
-  },
-  {
-    "other_id": 3018,
-    "other_brand": "オキシコンチンTR錠5mg",
-    "interaction_type": "caution",
-    "source_text": "オキシコドン塩酸塩水和物の作用が減弱することがある。"
-  },
-  {
-    "other_id": 3054,
-    "other_brand": "オキノーム散2.5mg",
-    "interaction_type": "caution",
-    "source_text": "オキシコドン塩酸塩水和物の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3058,
-    "other_brand": "オキファスト注10mg",
-    "interaction_type": "caution",
-    "source_text": "オキシコドン塩酸塩水和物の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3018,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3054,
+    "interaction_type": "caution"
   }
 ]

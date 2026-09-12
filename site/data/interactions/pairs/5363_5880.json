@@ -1,0 +1,10 @@
+[
+  {
+    "interaction_type": "contraindicated",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+  },
+  {
+    "interaction_type": "caution",
+    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
+  }
+]

@@ -1,44 +1,30 @@
 [
   {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "β遮断薬との併用により、相互に作用が増強され、過度の血圧低下、心機能抑制があらわれることがあるので慎重に投与すること。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "β遮断薬との併用により、相互に作用が増強され、過度の血圧低下、心機能抑制があらわれることがあるので慎重に投与すること。"
-  },
-  {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "β遮断薬との併用により、相互に作用が増強され、過度の血圧低下、心機能抑制があらわれることがあるので慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "β遮断薬との併用により、相互に作用が増強され、過度の血圧低下、心機能抑制があらわれることがあるので慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "β遮断薬との併用により、相互に作用が増強され、過度の血圧低下、心機能抑制があらわれることがあるので慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "β遮断薬との併用により、相互に作用が増強され、過度の血圧低下、心機能抑制があらわれることがあるので慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれることがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   }
 ]

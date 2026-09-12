@@ -1,320 +1,214 @@
 [
   {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 5678,
-    "other_brand": "シルデナフィル錠25mgVI「ANG」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 5683,
-    "other_brand": "シルデナフィル錠25mgVI「SN」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 5684,
-    "other_brand": "シルデナフィル錠50mgVI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7173,
-    "other_brand": "タダラフィル錠10mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7174,
-    "other_brand": "タダラフィル錠10mgCI「クラシエ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7175,
-    "other_brand": "タダラフィル錠10mgCI「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7176,
-    "other_brand": "タダラフィル錠10mgCI「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7178,
-    "other_brand": "タダラフィル錠10mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7181,
-    "other_brand": "タダラフィル錠10mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7182,
-    "other_brand": "タダラフィル錠2.5mgZA「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7183,
-    "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7188,
-    "other_brand": "タダラフィル錠2.5mgZA「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7189,
-    "other_brand": "タダラフィル錠2.5mgZA「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7191,
-    "other_brand": "タダラフィル錠20mgAD「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7192,
-    "other_brand": "タダラフィル錠20mgAD「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7197,
-    "other_brand": "タダラフィル錠20mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7202,
-    "other_brand": "タダラフィル錠20mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 7205,
-    "other_brand": "タダラフィル錠20mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 9886,
-    "other_brand": "バイアグラ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
+    "other_id": 15232,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10052,
-    "other_brand": "バルデナフィル錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7173,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7174,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7175,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7176,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7178,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7181,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7182,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7183,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7188,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7189,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 15232,
-    "other_brand": "レバチオ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7191,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7192,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7197,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9886,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7202,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7205,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5678,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5683,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5684,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 490,
-    "other_brand": "アデムパス錠0.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、降圧作用が増強され、過度に血圧を低下させることがある。"
-  },
-  {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれることがあるので、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害があらわれることがあるので、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害があらわれることがあるので、減量するなど注意すること。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害があらわれることがあるので、減量するなど注意すること。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害があらわれることがあるので、減量するなど注意すること。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害があらわれることがあるので、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害があらわれることがあるので、減量するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1922,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12471,
-    "other_brand": "ベリキューボ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "症候性低血圧を起こすおそれがある。血圧等患者の状態を継続的に観察しながら慎重に投与すること。"
+    "interaction_type": "caution"
   }
 ]

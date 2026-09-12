@@ -1,80 +1,54 @@
 [
   {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "other_id": 4980,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "other_id": 4982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経系に影響を与える可能性があるため、アルコールと併用する際は注意すること。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "中枢神経系に影響を与える可能性があるため、アルコールと併用する際は注意すること。"
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "中枢神経系に影響を与える可能性があるため、アルコールと併用する際は注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   }
 ]

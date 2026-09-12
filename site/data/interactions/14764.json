@@ -1,290 +1,194 @@
 [
   {
     "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 497,
-    "other_brand": "アトモキセチンカプセル5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 498,
-    "other_brand": "アトモキセチンカプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 499,
-    "other_brand": "アトモキセチンカプセル5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 500,
-    "other_brand": "アトモキセチンカプセル5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 513,
-    "other_brand": "アトモキセチン内用液0.4%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 514,
-    "other_brand": "アトモキセチン内用液0.4％「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 515,
-    "other_brand": "アトモキセチン内用液0.4％「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 516,
-    "other_brand": "アトモキセチン錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 517,
-    "other_brand": "アトモキセチン錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 518,
-    "other_brand": "アトモキセチン錠5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 519,
-    "other_brand": "アトモキセチン錠5mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 520,
-    "other_brand": "アトモキセチン錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5256,
-    "other_brand": "コルドリン錠12.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6282,
-    "other_brand": "ストラテラカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6286,
-    "other_brand": "ストラテラ内用液0.4%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強するおそれがあるので、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7427,
-    "other_brand": "ダットスキャン静注",
-    "interaction_type": "caution",
-    "source_text": "線条体における本剤の集積低下の原因となる可能性がある。画像を評価する際に留意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10595,
-    "other_brand": "ビバンセカプセル20mg",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。MAO阻害剤を投与中又は投与中止後14日以内の患者には本剤を投与しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。MAO阻害剤を投与中又は投与中止後14日以内の患者には本剤を投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。MAO阻害剤を投与中又は投与中止後14日以内の患者には本剤を投与しないこと。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。MAO阻害剤を投与中又は投与中止後14日以内の患者には本剤を投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11853,
-    "other_brand": "プリミドン錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "抗痙攣剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがあるため、注意して投与すること。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがあるため、注意して投与すること。"
-  },
-  {
-    "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがあるため、注意して投与すること。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがあるため、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがあるため、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "精神神経系の副作用が増強されることがある。"
+    "other_id": 9672,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "精神神経系の副作用が増強されることがある。"
+    "other_id": 2744,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9737,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "精神神経系の副作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   }
 ]

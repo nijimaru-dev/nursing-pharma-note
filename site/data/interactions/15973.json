@@ -1,2702 +1,1802 @@
 [
   {
     "other_id": 67,
-    "other_brand": "アイベータ配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 68,
-    "other_brand": "アイベータ配合点眼液（添加剤にベンザルコニウム塩化物を含む、使用期限2028年5月まで）",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 306,
-    "other_brand": "アスペノンカプセル10",
-    "interaction_type": "caution",
-    "source_text": "アプリンジンの血中濃度が上昇するとの報告\nがあるので、併用する場合には慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 407,
-    "other_brand": "アゾルガ配合懸濁性点眼液",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 691,
-    "other_brand": "アブラキサン点滴静注用100mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。併用療法を行う場合には、患者の状態を観察しながら、減量するか又は投与間隔を延長すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 693,
-    "other_brand": "アプニション静注15mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 694,
-    "other_brand": "アプリンジン塩酸塩カプセル10mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "アプリンジンの血中濃度が上昇するとの報告\nがあるので、併用する場合には慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 794,
-    "other_brand": "アミノフィリン注250mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 795,
-    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 796,
-    "other_brand": "アミノフィリン静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 797,
-    "other_brand": "アミノフィリン静注250mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 798,
-    "other_brand": "アミノフィリン静注250mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1440,
-    "other_brand": "アーチスト錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1879,
-    "other_brand": "イレッサ錠250",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇し、血清カリウム値の上昇を誘発するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2829,
-    "other_brand": "エリスロシン点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、徐脈性不整脈、乳酸アシドーシス等が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2830,
-    "other_brand": "エリスロシン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、徐脈性不整脈、乳酸アシドーシス等が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2827,
-    "other_brand": "エリスロシンドライシロップ10％",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、徐脈性不整脈、乳酸アシドーシス等が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血圧低下、徐脈性不整脈、乳酸アシドーシス等が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3254,
-    "other_brand": "オラビ錠口腔用50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3788,
-    "other_brand": "カルテオロール塩酸塩点眼液1％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3789,
-    "other_brand": "カルテオロール塩酸塩点眼液1％「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3790,
-    "other_brand": "カルテオロール塩酸塩点眼液1％「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3794,
-    "other_brand": "カルテオロール塩酸塩錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3795,
-    "other_brand": "カルテオロール塩酸塩錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3796,
-    "other_brand": "カルテオロール塩酸塩LA点眼液1％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3800,
-    "other_brand": "カルテオロール塩酸塩PF点眼液1％「日点」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3836,
-    "other_brand": "カルバン錠25",
-    "interaction_type": "caution",
-    "source_text": "β遮断薬との併用により、相互に作用が増強され、過度の血圧低下、心機能抑制があらわれることがあるので慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3845,
-    "other_brand": "カルベジロール錠1.25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3846,
-    "other_brand": "カルベジロール錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3847,
-    "other_brand": "カルベジロール錠1.25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3848,
-    "other_brand": "カルベジロール錠1.25mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3849,
-    "other_brand": "カルベジロール錠1.25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3850,
-    "other_brand": "カルベジロール錠1.25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3851,
-    "other_brand": "カルベジロール錠1.25mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3852,
-    "other_brand": "カルベジロール錠1.25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3866,
-    "other_brand": "カルベジロール錠10mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3853,
-    "other_brand": "カルベジロール錠1.25mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3855,
-    "other_brand": "カルベジロール錠1.25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "心不全や低血圧を引き起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3941,
-    "other_brand": "カレトラ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "PR間隔が延長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3942,
-    "other_brand": "カレトラ配合錠",
-    "interaction_type": "caution",
-    "source_text": "PR間隔が延長するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "致死的な心室性不整脈等があらわれることがあるので、必要に応じて本剤を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4446,
-    "other_brand": "クラリスロマイシン錠小児用50mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4449,
-    "other_brand": "クラリスロマイシン錠200mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4454,
-    "other_brand": "クラリスロマイシン錠200mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4456,
-    "other_brand": "クラリスロマイシン錠200mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4445,
-    "other_brand": "クラリスロマイシン錠小児用50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5056,
-    "other_brand": "ケルロング錠5mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5062,
-    "other_brand": "ゲフィチニブ錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5063,
-    "other_brand": "ゲフィチニブ錠250mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5064,
-    "other_brand": "ゲフィチニブ錠250mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5065,
-    "other_brand": "ゲフィチニブ錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5066,
-    "other_brand": "ゲフィチニブ錠250mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5067,
-    "other_brand": "ゲフィチニブ錠250mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5068,
-    "other_brand": "ゲフィチニブ錠250mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用の発現頻度及び重症度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5096,
-    "other_brand": "ゲンボイヤ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，患者の状態を注意して観察することが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5118,
-    "other_brand": "コソプト配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5510,
-    "other_brand": "ザラカム配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度が上昇し、血清カリウム値の上昇を誘発するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6609,
-    "other_brand": "セリプロロール塩酸塩錠100mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用、毒性が大幅に増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6663,
-    "other_brand": "セレクトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれるおそれがある。併用する場合には用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6820,
-    "other_brand": "ソタコール錠40mg",
-    "interaction_type": "caution",
-    "source_text": "房室伝導抑制、心室機能への陰性変力作用が増強され、また、低血圧が引き起こされるおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6822,
-    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導抑制、心室機能への陰性変力作用が増強され、また、低血圧が引き起こされるおそれがあるので、減量するなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7107,
-    "other_brand": "タキソール注射液30mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。併用療法を行う場合には、患者の状態を観察しながら、減量するか又は投与間隔を延長すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7237,
-    "other_brand": "タフチモ配合点眼液「日点」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7240,
-    "other_brand": "タフチモ配合点眼液「NIT」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7250,
-    "other_brand": "タプコム配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7338,
-    "other_brand": "タンボコール錠50mg",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7341,
-    "other_brand": "タンボコール静注50mg",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7561,
-    "other_brand": "チモプトール点眼液0.25％",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7563,
-    "other_brand": "チモプトールXE点眼液0.25%",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7565,
-    "other_brand": "チモロール点眼液0.25％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7566,
-    "other_brand": "チモロール点眼液0.25%「テイカ」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7567,
-    "other_brand": "チモロール点眼液0.25％「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7568,
-    "other_brand": "チモロール点眼液0.25％「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7569,
-    "other_brand": "チモロール点眼液0.25％「日新」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7575,
-    "other_brand": "チモロールPF点眼液0.25％「日点」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7577,
-    "other_brand": "チモロールXE点眼液0.25%「センジュ」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7578,
-    "other_brand": "チモロールXE点眼液0.25％「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7579,
-    "other_brand": "チモロールXE点眼液0.25％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7580,
-    "other_brand": "チモロールXE点眼液0.25%「TS」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7952,
-    "other_brand": "テオドール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7954,
-    "other_brand": "テオドール顆粒20%",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7957,
-    "other_brand": "テオフィリン徐放カプセル100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7959,
-    "other_brand": "テオフィリン徐放カプセル50mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7967,
-    "other_brand": "テオフィリン徐放DS小児用20%「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7968,
-    "other_brand": "テオフィリン徐放U錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8320,
-    "other_brand": "デュオトラバ配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8724,
-    "other_brand": "トラチモ配合点眼液「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8772,
-    "other_brand": "トランデート錠50mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9145,
-    "other_brand": "ドルミカムシロップ2mg/mL",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9146,
-    "other_brand": "ドルミカム注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9147,
-    "other_brand": "ドルモロール配合点眼液「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9148,
-    "other_brand": "ドルモロール配合点眼液「センジュ」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9149,
-    "other_brand": "ドルモロール配合点眼液「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9150,
-    "other_brand": "ドルモロール配合点眼液「日点」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9153,
-    "other_brand": "ドルモロール配合点眼液「TS」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9551,
-    "other_brand": "ニプラジロール点眼液0.25％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9552,
-    "other_brand": "ニプラジロール点眼液0.25％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9553,
-    "other_brand": "ニプラジロール点眼液0.25％「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9554,
-    "other_brand": "ニプラジロール点眼液0.25％「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9555,
-    "other_brand": "ニプラジロールPF点眼液0.25％「日点」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9556,
-    "other_brand": "ニプラノール点眼液0.25%",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9628,
-    "other_brand": "ネオフィリン原末",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9629,
-    "other_brand": "ネオフィリン注点滴用バッグ250mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9630,
-    "other_brand": "ネオフィリン注250mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9632,
-    "other_brand": "ネオフィリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9799,
-    "other_brand": "ハイパジールコーワ点眼液0.25％",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9800,
-    "other_brand": "ハイパジールコーワ錠3",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝達障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10130,
-    "other_brand": "パクリタキセル注射液30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。併用療法を行う場合には，患者の状態を観察しながら，減量するか又は投与間隔を延長すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10131,
-    "other_brand": "パクリタキセル注射液30mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。併用療法を行う場合には、患者の状態を観察しながら、減量するか又は投与間隔を延長すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10135,
-    "other_brand": "パクリタキセル注30mg/5mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。併用療法を行う場合には、患者の状態を観察しながら、減量するか又は投与間隔を延長すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10137,
-    "other_brand": "パクリタキセル点滴静注液30mg/5mL「ホスピーラ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用が増強するおそれがある。併用療法を行う場合には、患者の状態を観察しながら、減量するか又は投与間隔を延長すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10531,
-    "other_brand": "ビソノテープ2mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10534,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10535,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10536,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「テバ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10537,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10538,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10539,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10540,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10541,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10542,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10543,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11524,
-    "other_brand": "フレカイニド酢酸塩錠50mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11525,
-    "other_brand": "フレカイニド酢酸塩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11527,
-    "other_brand": "フレカイニド酢酸塩錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "心機能低下や房室ブロックがあらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静や呼吸抑制があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11750,
-    "other_brand": "プラザキサカプセル75mg",
-    "interaction_type": "caution",
-    "source_text": "併用によりダビガトランの血中濃度が上昇することがあるため、本剤1回110mg1日2回投与を考慮すること。また、本剤と同時にベラパミル塩酸塩の併用を開始、もしくは本剤服用中に新たにベラパミル塩酸塩の併用を開始する場合は、併用開始から3日間はベラパミル塩酸塩服用の2時間以上前に本剤を服用させること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12305,
-    "other_brand": "ベタキソロール塩酸塩錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12306,
-    "other_brand": "ベタキソロール塩酸塩錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12307,
-    "other_brand": "ベタキソロール塩酸塩錠5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12311,
-    "other_brand": "ベタキソロール点眼液0.5％「SW」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こす可能性があるので、観察を十分に行うなど注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12433,
-    "other_brand": "ベプリコール錠50mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12435,
-    "other_brand": "ベプリジル塩酸塩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "徐脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12943,
-    "other_brand": "ボシュリフ錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用の発現頻度及び重症度が増加するおそれがあるので、CYP3A阻害作用のない又は弱い薬剤への代替を考慮すること。やむを得ず併用する際には本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12964,
-    "other_brand": "ボノサップパック400",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、クラリスロマイシンとの併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12988,
-    "other_brand": "ボルズィ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13091,
-    "other_brand": "ポプスカイン0.25%注シリンジ25mg/10mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13092,
-    "other_brand": "ポプスカイン0.25%注バッグ250mg/100mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13093,
-    "other_brand": "ポプスカイン0.25%注25mg/10mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13094,
-    "other_brand": "ポプスカイン0.5%注シリンジ50mg/10mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13095,
-    "other_brand": "ポプスカイン0.5%注50mg/10mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13096,
-    "other_brand": "ポプスカイン0.75%注シリンジ75mg/10mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13097,
-    "other_brand": "ポプスカイン0.75%注75mg/10mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13327,
-    "other_brand": "ミケラン点眼液1％",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13329,
-    "other_brand": "ミケラン細粒1%",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13330,
-    "other_brand": "ミケラン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13331,
-    "other_brand": "ミケランLAカプセル15mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13332,
-    "other_brand": "ミケランLA点眼液1％",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13334,
-    "other_brand": "ミケルナ配合点眼液",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全等があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13341,
-    "other_brand": "ミダゾラム注射液10mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "中枢神経抑制作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13561,
-    "other_brand": "メインテート錠0.625mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13654,
-    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14201,
-    "other_brand": "ユニコン錠100",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14386,
-    "other_brand": "ラタチモ配合点眼液「センジュ」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14387,
-    "other_brand": "ラタチモ配合点眼液「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14390,
-    "other_brand": "ラタチモ配合点眼液「ニットー」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14391,
-    "other_brand": "ラタチモ配合点眼液「TS」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14392,
-    "other_brand": "ラタチモ配合点眼液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14454,
-    "other_brand": "ラベタロール塩酸塩錠50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14623,
-    "other_brand": "リクシアナ錠15mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度を上昇させ、出血の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14626,
-    "other_brand": "リクシアナOD錠15mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度を上昇させ、出血の危険性を増大させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14734,
-    "other_brand": "リズモンTG点眼液0.25％",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14735,
-    "other_brand": "リズモンTG点眼液0.25%",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15480,
-    "other_brand": "レボブノロール塩酸塩点眼液0.5%「ニッテン」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15481,
-    "other_brand": "レボブノロール塩酸塩PF点眼液0.5%「日点」",
-    "interaction_type": "caution",
-    "source_text": "房室伝導障害、左室不全、低血圧を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15939,
-    "other_brand": "ローガン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6042,
-    "other_brand": "ジャクスタピッドカプセル5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "相手薬剤の血中濃度が著しく上昇するおそれがある。"
-  },
-  {
-    "other_id": 102,
-    "other_brand": "アクチット輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 103,
-    "other_brand": "アクチット輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 792,
-    "other_brand": "アミニック輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 802,
-    "other_brand": "アミノレバンEN配合散",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 807,
-    "other_brand": "アミユー配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1291,
-    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1667,
-    "other_brand": "イノソリッド配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1674,
-    "other_brand": "イノラス配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1783,
-    "other_brand": "イムフレックスCPD-MAP",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2259,
-    "other_brand": "エクストラニール腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2606,
-    "other_brand": "エネーボ配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2895,
-    "other_brand": "エレメンミック注",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2896,
-    "other_brand": "エレンタール配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2897,
-    "other_brand": "エレンタールP乳幼児用配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2901,
-    "other_brand": "エンシュア・リキッド",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2902,
-    "other_brand": "エンシュア・H",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4056,
-    "other_brand": "カーボスター透析剤・L（6L）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4058,
-    "other_brand": "カーボスター透析剤・M",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4059,
-    "other_brand": "カーボスター透析剤・P（袋）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4065,
-    "other_brand": "カーミパック生理食塩液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4069,
-    "other_brand": "カーミパック生理食塩液L",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4072,
-    "other_brand": "カーミパックACD−A液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4073,
-    "other_brand": "カーミC リューコトラップ MAP",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4074,
-    "other_brand": "カーミCA液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4254,
-    "other_brand": "キンダリー透析剤5E",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4267,
-    "other_brand": "キンダリー透析剤AF5号(6L)",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4269,
-    "other_brand": "キンダリー透析剤AF5P号",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4487,
-    "other_brand": "クリニザルツ輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5362,
-    "other_brand": "サブパック血液ろ過用補充液−Bi",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5403,
-    "other_brand": "サルプレップ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5623,
-    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6190,
-    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6204,
-    "other_brand": "スチックゼノールA",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6448,
-    "other_brand": "セパセルインテグラC−MAP",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6449,
-    "other_brand": "セパセルインテグラCA",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6852,
-    "other_brand": "ソリタ−T配合顆粒2号",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6853,
-    "other_brand": "ソリタ−T配合顆粒3号",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6854,
-    "other_brand": "ソリタ−T1号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6856,
-    "other_brand": "ソリタ−T2号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6858,
-    "other_brand": "ソリタ−T3号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6860,
-    "other_brand": "ソリタ−T3号G輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6862,
-    "other_brand": "ソリタ−T4号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6864,
-    "other_brand": "ソリタックス−H輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6915,
-    "other_brand": "ソルバノン",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7352,
-    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7370,
-    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7388,
-    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7391,
-    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7614,
-    "other_brand": "ツインパル輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7616,
-    "other_brand": "ツインラインNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8204,
-    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8206,
-    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8879,
-    "other_brand": "トレーランG液50g",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9436,
-    "other_brand": "ニコペリック腹膜透析液（1500mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9601,
-    "other_brand": "ネオアミユー輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9844,
-    "other_brand": "ハルトマン−G3号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9851,
-    "other_brand": "ハルトマンD液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9898,
-    "other_brand": "バイフィル透析剤",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 10153,
-    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 10154,
-    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 10194,
-    "other_brand": "パレセーフ輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 10195,
-    "other_brand": "パレプラス輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 10500,
-    "other_brand": "ビカーボン輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10760,
-    "other_brand": "ピシバニール注射用1KE",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10905,
-    "other_brand": "ピーエヌツイン−1号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 8204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11855,
-    "other_brand": "プリミーフォート経腸用液6",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12013,
-    "other_brand": "プロクトセディル軟膏",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12219,
-    "other_brand": "ヘパンED配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12605,
-    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12613,
-    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13012,
-    "other_brand": "ボルヒール組織接着用（0.5mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13292,
-    "other_brand": "ミオテクター冠血管注",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13356,
-    "other_brand": "ミッドペリック135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13369,
-    "other_brand": "ミッドペリックL135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13390,
-    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13895,
-    "other_brand": "メルスモン",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14019,
-    "other_brand": "モリアミンS注",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14020,
-    "other_brand": "モリプロンF輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14192,
-    "other_brand": "ユエキンキープ3号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14295,
-    "other_brand": "ラエンネック",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14312,
-    "other_brand": "ラクトリンゲル液′′フソー′′",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14319,
-    "other_brand": "ラクトリンゲルS注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 8206,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14365,
-    "other_brand": "ラコールNF配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14366,
-    "other_brand": "ラコールNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14824,
-    "other_brand": "リナセートD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 13356,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14826,
-    "other_brand": "リナセートF輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 2606,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14840,
-    "other_brand": "リハビックス−K1号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14947,
-    "other_brand": "リプラス1号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14950,
-    "other_brand": "リプラス3号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 15014,
-    "other_brand": "リンゲル液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 15046,
-    "other_brand": "リンパック透析剤TA1",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 15047,
-    "other_brand": "リンパック透析剤TA3",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 15048,
-    "other_brand": "リンパック透析剤TA5",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 15138,
-    "other_brand": "レギュニール HCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 15150,
-    "other_brand": "レギュニール LCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 15997,
-    "other_brand": "ワンパル1号輸液（800mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16012,
-    "other_brand": "ヴィーン3G輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16013,
-    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16015,
-    "other_brand": "ヴィーンD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16016,
-    "other_brand": "ヴィーンD輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16018,
-    "other_brand": "ヴィーンF輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16098,
-    "other_brand": "乳糖水和物「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16567,
-    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16572,
-    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16575,
-    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 6190,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16948,
-    "other_brand": "白色ワセリン",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17210,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 13369,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17211,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 6204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17212,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 13895,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17213,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 13390,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17214,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 11855,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17215,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 14947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17216,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 102,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17217,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 103,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17218,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17219,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17220,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17221,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17222,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17223,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17224,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17225,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17226,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17227,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17228,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17229,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17230,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17231,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17232,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17233,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17234,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17235,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17236,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17237,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17238,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17239,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17240,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17241,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17242,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17243,
-    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 14950,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17523,
-    "other_brand": "10%EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9844,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9851,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15997,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1667,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1674,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16016,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16018,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10905,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4254,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15014,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4267,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4269,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8879,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17584,
-    "other_brand": "ACD-A液 250mL",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17585,
-    "other_brand": "AK−ソリタ透析剤・DL",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17586,
-    "other_brand": "AK−ソリタ透析剤・DP",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17587,
-    "other_brand": "AK−ソリタ透析剤・FL",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17588,
-    "other_brand": "AK−ソリタ透析剤・FP",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7352,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16575,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17602,
-    "other_brand": "Dドライ透析剤2.5S",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17603,
-    "other_brand": "Dドライ透析剤2.75S",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 14019,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17604,
-    "other_brand": "Dドライ透析剤3.0S",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "other_id": 6852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14020,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15046,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6860,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15047,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6862,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15048,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6864,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17614,
-    "other_brand": "EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17618,
-    "other_brand": "ESポリタミン配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2259,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7388,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9436,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17631,
-    "other_brand": "JMS ACD-A液",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17632,
-    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16098,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5362,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 802,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 807,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6449,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17718,
-    "other_brand": "T&Tオルファクトメーター",
-    "interaction_type": "caution",
-    "source_text": "心機能の低下や徐脈があらわれることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4181,
-    "other_brand": "キシロカインポンプスプレー8%",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "other_id": 17210,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5465,
-    "other_brand": "サンリズムカプセル25mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "other_id": 17211,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10881,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "other_id": 17212,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10883,
-    "other_brand": "ピルシカイニド塩酸塩カプセル25mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "other_id": 12605,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17213,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17214,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17215,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17216,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17217,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12613,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17220,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17224,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17225,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17226,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17227,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17228,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17230,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17231,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2901,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17232,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17233,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17234,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17235,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17239,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17240,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17241,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17242,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17243,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10153,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7614,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7616,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10195,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14295,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4056,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4059,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4065,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4069,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4072,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4073,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4074,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14312,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14824,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14826,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17603,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5623,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14840,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17604,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14784,
-    "other_brand": "リドカインテープ18mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10881,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10883,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14788,
-    "other_brand": "リドカインポンプスプレー8％「日新」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14791,
-    "other_brand": "リドカイン塩酸塩注射液0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14797,
-    "other_brand": "リドカイン塩酸塩注0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4181,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5465,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14809,
-    "other_brand": "リドカイン点滴静注液1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14810,
-    "other_brand": "リドカイン静注液2％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロックがあらわれることがあり、高度の不整脈に発展させることがある。自覚症状、心電図等に注意し、異常が認められた場合には、本剤又は相手薬剤を減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "高度の徐脈、房室ブロック等の徐脈性不整脈があらわれることがある。また、これらの不整脈を含めたジギタリスの血中濃度上昇による中毒症状（悪心・嘔吐、食欲不振、頭痛、疲労、倦怠感等）があらわれることがある。定期的に心電図検査を行い、ジギタリスの中毒症状の有無を確認し、必要に応じてジギタリスの血中濃度を測定する。異常が認められた場合には、両剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "高度の徐脈、房室ブロック等の徐脈性不整脈があらわれることがある。また、これらの不整脈を含めたジギタリスの血中濃度上昇による中毒症状（悪心・嘔吐、食欲不振、頭痛、疲労、倦怠感等）があらわれることがある。定期的に心電図検査を行い、ジギタリスの中毒症状の有無を確認し、必要に応じてジギタリスの血中濃度を測定する。異常が認められた場合には、両剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "高度の徐脈、房室ブロック等の徐脈性不整脈があらわれることがある。また、これらの不整脈を含めたジギタリスの血中濃度上昇による中毒症状（悪心・嘔吐、食欲不振、頭痛、疲労、倦怠感等）があらわれることがある。定期的に心電図検査を行い、ジギタリスの中毒症状の有無を確認し、必要に応じてジギタリスの血中濃度を測定する。異常が認められた場合には、両剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "高度の徐脈、房室ブロック等の徐脈性不整脈があらわれることがある。また、これらの不整脈を含めたジギタリスの血中濃度上昇による中毒症状（悪心・嘔吐、食欲不振、頭痛、疲労、倦怠感等）があらわれることがある。定期的に心電図検査を行い、ジギタリスの中毒症状の有無を確認し、必要に応じてジギタリスの血中濃度を測定する。異常が認められた場合には、両剤を減量又は中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "高度の徐脈、房室ブロック等の徐脈性不整脈があらわれることがある。また、これらの不整脈を含めたジギタリスの血中濃度上昇による中毒症状（悪心・嘔吐、食欲不振、頭痛、疲労、倦怠感等）があらわれることがある。定期的に心電図検査を行い、ジギタリスの中毒症状の有無を確認し、必要に応じてジギタリスの血中濃度を測定する。異常が認められた場合には、両剤を減量又は中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "ダビガトランの抗凝固作用が増強することがあるので、ダビガトランエテキシラートの用量調節や投与間隔を考慮するなど、投与方法に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "ダビガトランの抗凝固作用が増強することがあるので、ダビガトランエテキシラートの用量調節や投与間隔を考慮するなど、投与方法に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "ダビガトランの抗凝固作用が増強することがあるので、ダビガトランエテキシラートの用量調節や投与間隔を考慮するなど、投与方法に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "ダビガトランの抗凝固作用が増強することがあるので、ダビガトランエテキシラートの用量調節や投与間隔を考慮するなど、投与方法に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2456,
-    "other_brand": "エタノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2457,
-    "other_brand": "エタノール「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2458,
-    "other_brand": "エタノール（カネイチ）Ⓜ",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2459,
-    "other_brand": "エタノール シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2460,
-    "other_brand": "エタノール「イマヅ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2462,
-    "other_brand": "エタノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2464,
-    "other_brand": "エタノール「タカスギ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2465,
-    "other_brand": "エタノール「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2467,
-    "other_brand": "エタノール「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2469,
-    "other_brand": "エタノール「ヤクハン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2471,
-    "other_brand": "エタノール「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2473,
-    "other_brand": "エタノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 2476,
-    "other_brand": "エタノール（ミツマル）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 9646,
-    "other_brand": "ネオ消アル「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16649,
-    "other_brand": "消毒用エタノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 16666,
-    "other_brand": "消毒用エタノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 16673,
-    "other_brand": "消毒用エタノール（ミツマル）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16789,
-    "other_brand": "無水エタノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16790,
-    "other_brand": "無水エタノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2456,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2457,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16666,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2459,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2462,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16798,
-    "other_brand": "無水エタノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2464,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2465,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16673,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2467,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16801,
-    "other_brand": "無水エタノール注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2469,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16803,
-    "other_brand": "無水エタノール（ミツマル）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、副作用を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2471,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2473,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2476,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9646,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度を上昇させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度を上昇させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度を上昇させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度を上昇させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度を上昇させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 675,
-    "other_brand": "アフィニトール分散錠2mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。異常が認められた場合には、適切な処置を行うこと。"
-  },
-  {
-    "other_id": 677,
-    "other_brand": "アフィニトール錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。異常が認められた場合には、適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1784,
-    "other_brand": "イムブルビカカプセル140mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。異常が認められた場合には、適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5482,
-    "other_brand": "サーティカン錠0.25mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。異常が認められた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12484,
-    "other_brand": "ベルソムラ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。異常が認められた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 677,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1784,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5482,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14428,
-    "other_brand": "ラパリムスゲル0.2%",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。異常が認められた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14429,
-    "other_brand": "ラパリムス錠1mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が上昇することがある。異常が認められた場合には、適切な処置を行うこと。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピンの血中濃度が上昇し、中毒症状（めまい、頭痛等）があらわれることがある。カルバマゼピンの血中濃度に注意し、異常が認められた場合には、適切な処置を行うこと。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピンの血中濃度が上昇し、中毒症状（めまい、頭痛等）があらわれることがある。カルバマゼピンの血中濃度に注意し、異常が認められた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピンの血中濃度が上昇し、中毒症状（めまい、頭痛等）があらわれることがある。カルバマゼピンの血中濃度に注意し、異常が認められた場合には、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が上昇することがある。シクロスポリンの血中濃度に注意し、異常が認められた場合には、シクロスポリンを減量又は中止すること。"
+    "other_id": 3830,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が上昇することがある。シクロスポリンの血中濃度に注意し、異常が認められた場合には、シクロスポリンを減量又は中止すること。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が上昇することがある。シクロスポリンの血中濃度に注意し、異常が認められた場合には、シクロスポリンを減量又は中止すること。"
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が上昇することがある。シクロスポリンの血中濃度に注意し、異常が認められた場合には、シクロスポリンを減量又は中止すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が上昇することがある。シクロスポリンの血中濃度に注意し、異常が認められた場合には、シクロスポリンを減量又は中止すること。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの血中濃度が上昇することがある。シクロスポリンの血中濃度に注意し、異常が認められた場合には、シクロスポリンを減量又は中止すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15832,
-    "other_brand": "ロゼウス静注液10mg",
-    "interaction_type": "caution",
-    "source_text": "ビノレルビンの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17260,
-    "other_brand": "酒石酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "ビノレルビンの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2890,
-    "other_brand": "エレトリプタン錠20mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "エレトリプタンの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2893,
-    "other_brand": "エレトリプタン錠20mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "エレトリプタンの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15518,
-    "other_brand": "レルパックス錠20mg",
-    "interaction_type": "caution",
-    "source_text": "エレトリプタンの血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
-  },
-  {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1281,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1283,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11145,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11147,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10381,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11150,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16332,
-    "other_brand": "小児用ミケラン細粒0.2%",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には用量に注意すること。"
+    "interaction_type": "caution"
   }
 ]

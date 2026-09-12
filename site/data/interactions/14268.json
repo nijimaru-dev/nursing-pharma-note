@@ -1,572 +1,382 @@
 [
   {
     "other_id": 6277,
-    "other_brand": "ステロネマ注腸3mg",
-    "interaction_type": "caution",
-    "source_text": "パロペグテリパラチドによる血清カルシウム濃度の正常化を阻害し、パロペグテリパラチドの治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症に伴い不整脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症に伴い不整脈があらわれることがある。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症に伴い不整脈があらわれることがある。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症に伴い不整脈があらわれることがある。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症に伴い不整脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症に伴い不整脈があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 119,
-    "other_brand": "アクトネル錠17.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 5946,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 120,
-    "other_brand": "アクトネル錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 5947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 121,
-    "other_brand": "アクトネル錠75mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1299,
-    "other_brand": "アレンドロン酸錠35mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1301,
-    "other_brand": "アレンドロン酸錠35mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1302,
-    "other_brand": "アレンドロン酸錠35mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1304,
-    "other_brand": "アレンドロン酸錠35mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1306,
-    "other_brand": "アレンドロン酸錠35mg「SN」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1308,
-    "other_brand": "アレンドロン酸錠35mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1310,
-    "other_brand": "アレンドロン酸錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1312,
-    "other_brand": "アレンドロン酸錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1313,
-    "other_brand": "アレンドロン酸錠5mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1314,
-    "other_brand": "アレンドロン酸錠5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1316,
-    "other_brand": "アレンドロン酸錠5mg「SN」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1318,
-    "other_brand": "アレンドロン酸錠5mg「VTRS」（未発売）",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1319,
-    "other_brand": "アレンドロン酸錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1678,
-    "other_brand": "イバンドロン酸静注1mgシリンジ「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1680,
-    "other_brand": "イバンドロン酸静注1mgシリンジ「HK」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1681,
-    "other_brand": "イバンドロン酸静注1mgシリンジ「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11299,
-    "other_brand": "フォサマック錠35mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 12409,
-    "other_brand": "ベネット錠17.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 12410,
-    "other_brand": "ベネット錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 12411,
-    "other_brand": "ベネット錠75mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 12960,
-    "other_brand": "ボナロン点滴静注バッグ900μg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 12961,
-    "other_brand": "ボナロン経口ゼリー35mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 12962,
-    "other_brand": "ボナロン錠35mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 12963,
-    "other_brand": "ボナロン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 13030,
-    "other_brand": "ボンビバ錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 13031,
-    "other_brand": "ボンビバ静注1mgシリンジ",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14738,
-    "other_brand": "リセドロン酸ナトリウム錠17.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1299,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14740,
-    "other_brand": "リセドロン酸ナトリウム錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1301,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1302,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14742,
-    "other_brand": "リセドロン酸Na錠17.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1304,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14745,
-    "other_brand": "リセドロン酸Na錠17.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1306,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14746,
-    "other_brand": "リセドロン酸Na錠17.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1308,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14747,
-    "other_brand": "リセドロン酸Na錠17.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1310,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14748,
-    "other_brand": "リセドロン酸Na錠17.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14749,
-    "other_brand": "リセドロン酸Na錠17.5mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 1312,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14750,
-    "other_brand": "リセドロン酸Na錠17.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 1313,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14751,
-    "other_brand": "リセドロン酸Na錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 1314,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14753,
-    "other_brand": "リセドロン酸Na錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 11299,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12960,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1318,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12961,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12962,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12963,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14754,
-    "other_brand": "リセドロン酸Na錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14755,
-    "other_brand": "リセドロン酸Na錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14756,
-    "other_brand": "リセドロン酸Na錠2.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14757,
-    "other_brand": "リセドロン酸Na錠2.5mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14758,
-    "other_brand": "リセドロン酸Na錠2.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14759,
-    "other_brand": "リセドロン酸Na錠75mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14761,
-    "other_brand": "リセドロン酸Na錠75mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3100,
-    "other_brand": "オスタバロ皮下注カートリッジ1.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14749,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12409,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14750,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13030,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13031,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14751,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14753,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 119,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 120,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 121,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12410,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12411,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 403,
-    "other_brand": "アゾセミド錠30mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 404,
-    "other_brand": "アゾセミド錠30mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 1173,
-    "other_brand": "アルダクトンA細粒10％",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 6313,
-    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 6315,
-    "other_brand": "スピロノラクトン錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 6316,
-    "other_brand": "スピロノラクトン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 6317,
-    "other_brand": "スピロノラクトン錠25mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 7397,
-    "other_brand": "ダイアート錠30mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 3100,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8717,
-    "other_brand": "トラセミド錠4mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 8830,
-    "other_brand": "トルバプタンOD錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 9329,
-    "other_brand": "ナトリックス錠1",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 404,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7397,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6313,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6315,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6317,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9329,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8830,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2946,
-    "other_brand": "オイラゾンクリーム0.05％",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 8236,
-    "other_brand": "デカドロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 8238,
-    "other_brand": "デキサメタゾンエリキシル0.01％「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 8251,
-    "other_brand": "デキサメタゾン軟膏口腔用0.1%「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
-  },
-  {
-    "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12354,
-    "other_brand": "ベタメタゾン錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15033,
-    "other_brand": "リンデロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 11975,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15034,
-    "other_brand": "リンデロン坐剤0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8238,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15217,
-    "other_brand": "レナデックス錠2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11986,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15033,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15034,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8251,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16757,
-    "other_brand": "炭酸リチウム錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤による血清カルシウム濃度の正常化が阻害され、本剤の治療効果に影響を与える可能性がある。"
+    "interaction_type": "caution"
   }
 ]

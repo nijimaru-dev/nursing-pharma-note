@@ -1,386 +1,258 @@
 [
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "ナルメフェン塩酸塩水和物により本剤の鎮痛作用を減弱させるため、効果を得るために必要な用量が通常用量より多くなるおそれがある。また、退薬症候を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "ナルメフェン塩酸塩水和物により本剤の鎮痛作用を減弱させるため、効果を得るために必要な用量が通常用量より多くなるおそれがある。また、退薬症候を起こすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "不整脈を誘発するおそれがある。"
-  },
-  {
-    "other_id": 7417,
-    "other_brand": "ダサチニブ錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "不整脈を誘発するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈を誘発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈を誘発するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "不整脈を誘発するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7417,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "不整脈を誘発するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧及び顕著な鎮静又は昏睡が起こるおそれがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧及び顕著な鎮静又は昏睡が起こるおそれがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧及び顕著な鎮静又は昏睡が起こるおそれがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5844,
-    "other_brand": "ジェイゾロフト錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 6618,
-    "other_brand": "セルトラリン錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 6619,
-    "other_brand": "セルトラリン錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 6622,
-    "other_brand": "セルトラリン錠25mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 6623,
-    "other_brand": "セルトラリン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
-  },
-  {
-    "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "other_id": 11487,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9897,
-    "other_brand": "バイフィル専用炭酸水素ナトリウム補充液1.39%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "other_id": 11483,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16761,
-    "other_brand": "炭酸水素ナトリウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "other_id": 5844,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16762,
-    "other_brand": "炭酸水素ナトリウム「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "other_id": 15094,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16764,
-    "other_brand": "炭酸水素ナトリウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "other_id": 8311,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16766,
-    "other_brand": "炭酸水素ナトリウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "other_id": 6618,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6619,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11484,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11485,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6622,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6623,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16771,
-    "other_brand": "炭酸水素ナトリウム「フソー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16772,
-    "other_brand": "炭酸水素ナトリウム「昭和」（M）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16773,
-    "other_brand": "炭酸水素ナトリウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17317,
-    "other_brand": "重ソー注7%「CMX」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17319,
-    "other_brand": "重ソー静注7％「NS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9897,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17321,
-    "other_brand": "重ソー静注8.4％「NS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加したとの報告がある\n。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16761,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16762,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16764,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16766,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
-  },
-  {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
-  },
-  {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2290,
-    "other_brand": "エジュラント錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
-  },
-  {
-    "other_id": 5487,
-    "other_brand": "ザイアジェン錠300mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10654,
-    "other_brand": "ビラミューン錠200",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "other_id": 2290,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14619,
-    "other_brand": "リカムビス水懸筋注600mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10654,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5487,
+    "interaction_type": "caution"
   }
 ]

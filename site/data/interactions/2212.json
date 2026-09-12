@@ -1,224 +1,150 @@
 [
   {
     "other_id": 1157,
-    "other_brand": "アルサルミン内用液10％",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1158,
-    "other_brand": "アルサルミン細粒90％",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
-  },
-  {
-    "other_id": 4294,
-    "other_brand": "クエストラン粉末44.4%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがあるので、可能な限り間隔をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5264,
-    "other_brand": "コレバイン錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがあるので、可能な限り間隔をあけて投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4294,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17285,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17290,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17292,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 4607,
-    "other_brand": "クロフィブラートカプセル250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 8709,
-    "other_brand": "トライコア錠53.3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 12273,
-    "other_brand": "ベザフィブラート徐放錠100mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 12278,
-    "other_brand": "ベザフィブラートSR錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 12279,
-    "other_brand": "ベザフィブラートSR錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12280,
-    "other_brand": "ベザフィブラートSR錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8709,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12273,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12279,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14931,
-    "other_brand": "リピディル錠53.3mg",
-    "interaction_type": "caution",
-    "source_text": "本剤をコレステロール胆石溶解の目的で使用する場合は、本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12278,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4607,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3136,
-    "other_brand": "オファコルカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の効果が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4218,
-    "other_brand": "キャベジンUコーワ配合散",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4958,
-    "other_brand": "グーフィス錠5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6192,
-    "other_brand": "スクラルファート内用液10%「NIG」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6193,
-    "other_brand": "スクラルファート細粒90%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8222,
-    "other_brand": "ディクアノン懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11318,
-    "other_brand": "フジケノン粒状錠125",
-    "interaction_type": "caution",
-    "source_text": "本剤及びウルソデオキシコール酸の作用が減弱するおそれがあるため、可能な限り間隔をあけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13265,
-    "other_brand": "マルファ懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13289,
-    "other_brand": "マーレッジ懸濁用配合DS",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14765,
-    "other_brand": "リタロクス懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16123,
-    "other_brand": "乾燥水酸化アルミニウムゲル「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16125,
-    "other_brand": "乾燥水酸化アルミニウムゲル細粒「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "同時に服用することにより、これら併用薬剤の吸収を遅延又は阻害することがある。これらの作用は薬剤の服用時間をずらすことにより、弱まると考えられる。"
+    "interaction_type": "caution"
   }
 ]

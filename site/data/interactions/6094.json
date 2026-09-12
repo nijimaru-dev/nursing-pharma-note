@@ -1,92 +1,62 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
+    "other_id": 15459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9752,
-    "other_brand": "ノルフロキサシン点眼液0.3％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9753,
-    "other_brand": "ノルフロキサシン点眼液0.3%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9754,
-    "other_brand": "ノルフロキサシン点眼液0.3％「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9755,
-    "other_brand": "ノルフロキサシン点眼液0.3%「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9756,
-    "other_brand": "ノルフロキサシン錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9757,
-    "other_brand": "ノルフロキサシン錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9752,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9753,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。痙攣が発現した場合には、気道を確保し、ジアゼパムの静注等を行う。"
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9754,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9755,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9756,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9757,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   }
 ]

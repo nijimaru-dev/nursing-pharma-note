@@ -1,68 +1,46 @@
 [
   {
     "other_id": 15516,
-    "other_brand": "レラキシン注用200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "脱分極性筋弛緩剤の作用を増強する。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 585,
-    "other_brand": "アトロピン注0.05%シリンジ「テルモ」",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤はコリン作動性クリーゼの初期症状を不顕性化し、本剤の過剰投与を招くおそれがあるので、副交感神経抑制剤の常用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 586,
-    "other_brand": "アトロピン硫酸塩水和物「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "副交感神経抑制剤はコリン作動性クリーゼの初期症状を不顕性化し、本剤の過剰投与を招くおそれがあるので、副交感神経抑制剤の常用は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1562,
-    "other_brand": "イスコチン原末",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用（口渇、便秘、麻痺性イレウス、 尿閉等）が増強することがある。\n併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1563,
-    "other_brand": "イスコチン注100mg",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用（口渇、便秘、麻痺性イレウス、 尿閉等）が増強することがある。\n併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、 嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、 嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、 嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、 嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、 嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "ジギタリス中毒（嘔気、 嘔吐、めまい、徐脈、不整脈等）があらわれることがある。\n定期的にジギタリス中毒の有無、心電図検査を行い、必要に応じてジギタリス製剤の血中濃度を測定し、異常が認められた場合には、ジギタリス製剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   }
 ]

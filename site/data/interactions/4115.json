@@ -1,32 +1,22 @@
 [
   {
-    "other_id": 7501,
-    "other_brand": "チアトンカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の消化管運動賦活作用（コリン作用）が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7534,
-    "other_brand": "チキジウム臭化物カプセル5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の消化管運動賦活作用（コリン作用）が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7535,
-    "other_brand": "チキジウム臭化物カプセル5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の消化管運動賦活作用（コリン作用）が減弱するおそれがある。"
-  },
-  {
     "other_id": 7559,
-    "other_brand": "チメピジウム臭化物錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の消化管運動賦活作用（コリン作用）が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11579,
-    "other_brand": "ブチルスコポラミン臭化物注射液20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の消化管運動賦活作用（コリン作用）が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7501,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7534,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7535,
+    "interaction_type": "caution"
   }
 ]

@@ -1,170 +1,114 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7684,
-    "other_brand": "ツムラの生薬ニンジン",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 7697,
-    "other_brand": "ツムラの生薬ボウフウ",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 8631,
-    "other_brand": "トチモトのニンジン",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 8651,
-    "other_brand": "トチモトのボウフウ",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9288,
-    "other_brand": "ナカジマ　ニンジン　AM",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 9584,
-    "other_brand": "ニンジンダイコーM",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 12843,
-    "other_brand": "ホリエ　ニンジンK",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 12905,
-    "other_brand": "ボウフウダイコーM",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 16345,
-    "other_brand": "小島人参M",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
-  },
-  {
-    "other_id": 17148,
-    "other_brand": "花扇ニンジンK",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17160,
-    "other_brand": "花扇ボウフウK",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12905,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12843,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17452,
-    "other_brand": "高砂ニンジン末M",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17453,
-    "other_brand": "高砂ニンジンM",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9584,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7697,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8631,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16345,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17467,
-    "other_brand": "高砂ボウフウM",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11221,
-    "other_brand": "フェマーラ錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "other_id": 17148,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15203,
-    "other_brand": "レトロゾール錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15205,
-    "other_brand": "レトロゾール錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15206,
-    "other_brand": "レトロゾール錠2.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15209,
-    "other_brand": "レトロゾール錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15211,
-    "other_brand": "レトロゾール錠2.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15213,
-    "other_brand": "レトロゾール錠2.5mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15214,
-    "other_brand": "レトロゾール錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を増強させるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11221,
+    "interaction_type": "caution"
   }
 ]

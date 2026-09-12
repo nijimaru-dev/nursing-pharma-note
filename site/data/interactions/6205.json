@@ -1,254 +1,170 @@
 [
   {
     "other_id": 1789,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1790,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1791,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1792,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1793,
-    "other_brand": "イリノテカン塩酸塩点滴静注液40mg「SUN」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2420,
-    "other_brand": "エゼロス配合錠LD「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ロスバスタチンとレゴラフェニブを併用したとき、ロスバスタチンのAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2421,
-    "other_brand": "エゼロス配合錠LD「JG」",
-    "interaction_type": "caution",
-    "source_text": "ロスバスタチンとレゴラフェニブを併用したとき、ロスバスタチンのAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3125,
-    "other_brand": "オニバイド点滴静注43mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4511,
-    "other_brand": "クレストール錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とリファンピシンとの併用により、未変化体のAUC及びCmaxはそれぞれ50%及び20%減少した。M-2のCmaxは1.6倍に増加し、M-5のAUC及びCmaxはそれぞれ3.6倍及び4.2倍に増加したが、M-2のAUCは変化しなかった。CYP3A4誘導作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
-  },
-  {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
-  },
-  {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤単回投与とケトコナゾール（経口剤：国内未発売）との併用により、未変化体のAUC及びCmaxはそれぞれ33%及び40%増加した。M-2及びM-5のAUCはそれぞれ94%及び93%減少し、Cmaxはそれぞれ97%及び94%減少した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、患者の状態を慎重に観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8703,
-    "other_brand": "トポテシン点滴静注40mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制、下痢等の副作用が増強するおそれがある。患者の状態を観察しながら、減量するか又は投与間隔を延長する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15762,
-    "other_brand": "ロスバスタチン錠2.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15765,
-    "other_brand": "ロスバスタチン錠2.5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15766,
-    "other_brand": "ロスバスタチン錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15767,
-    "other_brand": "ロスバスタチン錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15768,
-    "other_brand": "ロスバスタチン錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15772,
-    "other_brand": "ロスバスタチン錠2.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15773,
-    "other_brand": "ロスバスタチン錠2.5mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15758,
-    "other_brand": "ロスバスタチン錠2.5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15759,
-    "other_brand": "ロスバスタチン錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15761,
-    "other_brand": "ロスバスタチン錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15757,
-    "other_brand": "ロスバスタチン錠2.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15764,
-    "other_brand": "ロスバスタチン錠2.5mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15801,
-    "other_brand": "ロスバスタチンOD錠2.5mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15802,
-    "other_brand": "ロスバスタチンOD錠2.5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15803,
-    "other_brand": "ロスバスタチンOD錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15804,
-    "other_brand": "ロスバスタチンOD錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15805,
-    "other_brand": "ロスバスタチンOD錠2.5mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15769,
-    "other_brand": "ロスバスタチン錠2.5mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15770,
-    "other_brand": "ロスバスタチン錠2.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15771,
-    "other_brand": "ロスバスタチン錠2.5mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15775,
-    "other_brand": "ロスバスタチン錠2.5mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "本剤とレゴラフェニブを併用したとき、本剤のAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15825,
-    "other_brand": "ロスーゼット配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "ロスバスタチンとレゴラフェニブを併用したとき、ロスバスタチンのAUCが3.8倍、C\nmax\nが4.6倍上昇したとの報告がある。"
+    "interaction_type": "caution"
   }
 ]

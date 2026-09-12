@@ -1,146 +1,98 @@
 [
   {
     "other_id": 12408,
-    "other_brand": "ベネシッド錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルの排泄が抑制され、アシクロビルの平均血漿中濃度曲線下面積（AUC）が48%増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルの排泄が抑制され、アシクロビルのAUCが27%増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルの排泄が抑制され、アシクロビルのAUCが27%増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルの排泄が抑制され、アシクロビルのAUCが27%増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルの排泄が抑制され、アシクロビルのAUCが27%増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルの排泄が抑制され、アシクロビルのAUCが27%増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "other_id": 5656,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6613,
-    "other_brand": "セルセプトカプセル250",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "other_id": 5658,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "other_id": 5660,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10119,
-    "other_brand": "パオスクレー内痔核内注射用250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 11154,
-    "other_brand": "フェノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 11155,
-    "other_brand": "フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 11156,
-    "other_brand": "フェノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11155,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11156,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6613,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13335,
-    "other_brand": "ミコフェノール酸モフェチルカプセル250mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16703,
-    "other_brand": "液状フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、アシクロビル及びミコフェノール酸　モフェチル代謝物の排泄が抑制され、両方のAUCが増加するとの報告がある\n。特に腎機能低下の可能性がある患者（高齢者等）には慎重に投与すること。"
-  },
-  {
-    "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、テオフィリンの中毒症状があらわれることがある\n。"
-  },
-  {
-    "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、テオフィリンの中毒症状があらわれることがある\n。"
-  },
-  {
-    "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、テオフィリンの中毒症状があらわれることがある\n。"
-  },
-  {
-    "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、テオフィリンの中毒症状があらわれることがある\n。"
-  },
-  {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、テオフィリンの中毒症状があらわれることがある\n。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、テオフィリンの中毒症状があらわれることがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のアシクロビルとの併用により、テオフィリンの中毒症状があらわれることがある\n。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7956,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7960,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7961,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7962,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7965,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7966,
+    "interaction_type": "caution"
   }
 ]

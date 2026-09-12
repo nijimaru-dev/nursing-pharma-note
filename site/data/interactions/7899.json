@@ -1,242 +1,162 @@
 [
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "other_id": 2744,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "不整脈、場合によっては心停止を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 693,
-    "other_brand": "アプニション静注15mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 794,
-    "other_brand": "アミノフィリン注250mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 795,
-    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 796,
-    "other_brand": "アミノフィリン静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 798,
-    "other_brand": "アミノフィリン静注250mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6025,
-    "other_brand": "ジプロフィリン注300mg「エーザイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6026,
-    "other_brand": "ジプロフィリン注300mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 794,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9628,
-    "other_brand": "ネオフィリン原末",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9629,
-    "other_brand": "ネオフィリン注点滴用バッグ250mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 7965,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7966,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9630,
-    "other_brand": "ネオフィリン注250mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9632,
-    "other_brand": "ネオフィリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5299,
-    "other_brand": "コートリル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 795,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 796,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 7971,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 9629,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 798,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "other_id": 693,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12354,
-    "other_brand": "ベタメタゾン錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11986,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5299,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15033,
-    "other_brand": "リンデロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15034,
-    "other_brand": "リンデロン坐剤0.5mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 7394,
-    "other_brand": "ダイアモックス末",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症による不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7394,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution"
   }
 ]

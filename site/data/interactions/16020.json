@@ -1,290 +1,194 @@
 [
   {
     "other_id": 7094,
-    "other_brand": "タイケルブ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用によりパゾパニブ塩酸塩のAUC及びCmaxは、それぞれ約59%及び51%増加した\n。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "エソメプラゾールとの併用により、本剤のAUC及びCmaxがそれぞれ約40%及び42%低下したとの報告があるので、プロトンポンプ阻害剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "エソメプラゾールとの併用により、本剤のAUC及びCmaxがそれぞれ約40%及び42%低下したとの報告があるので、プロトンポンプ阻害剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "エソメプラゾールとの併用により、本剤のAUC及びCmaxがそれぞれ約40%及び42%低下したとの報告があるので、プロトンポンプ阻害剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "エソメプラゾールとの併用により、本剤のAUC及びCmaxがそれぞれ約40%及び42%低下したとの報告があるので、プロトンポンプ阻害剤との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "ケトコナゾールとの併用により、本剤のAUC及びCmaxは、それぞれ約66%及び45%増加した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、副作用の発現・増強に注意し、減量等を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "ケトコナゾールとの併用により、本剤のAUC及びCmaxは、それぞれ約66%及び45%増加した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、副作用の発現・増強に注意し、減量等を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "ケトコナゾールとの併用により、本剤のAUC及びCmaxは、それぞれ約66%及び45%増加した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、副作用の発現・増強に注意し、減量等を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "ケトコナゾールとの併用により、本剤のAUC及びCmaxは、それぞれ約66%及び45%増加した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、副作用の発現・増強に注意し、減量等を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "ケトコナゾールとの併用により、本剤のAUC及びCmaxは、それぞれ約66%及び45%増加した。CYP3A4阻害作用のない又は弱い薬剤への代替を考慮すること。併用が避けられない場合には、副作用の発現・増強に注意し、減量等を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピン、フェニトイン等との併用により、本剤のAUC及びCmaxは、それぞれ約54%及び35%低下した。CYP3A4誘導作用のない又は弱い薬剤への代替を考慮すること。併用に際しては、本剤の有効性が減弱する可能性があることを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピン、フェニトイン等との併用により、本剤のAUC及びCmaxは、それぞれ約54%及び35%低下した。CYP3A4誘導作用のない又は弱い薬剤への代替を考慮すること。併用に際しては、本剤の有効性が減弱する可能性があることを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピン、フェニトイン等との併用により、本剤のAUC及びCmaxは、それぞれ約54%及び35%低下した。CYP3A4誘導作用のない又は弱い薬剤への代替を考慮すること。併用に際しては、本剤の有効性が減弱する可能性があることを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピン、フェニトイン等との併用により、本剤のAUC及びCmaxは、それぞれ約54%及び35%低下した。CYP3A4誘導作用のない又は弱い薬剤への代替を考慮すること。併用に際しては、本剤の有効性が減弱する可能性があることを考慮すること。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピン、フェニトイン等との併用により、本剤のAUC及びCmaxは、それぞれ約54%及び35%低下した。CYP3A4誘導作用のない又は弱い薬剤への代替を考慮すること。併用に際しては、本剤の有効性が減弱する可能性があることを考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "カルバマゼピン、フェニトイン等との併用により、本剤のAUC及びCmaxは、それぞれ約54%及び35%低下した。CYP3A4誘導作用のない又は弱い薬剤への代替を考慮すること。併用に際しては、本剤の有効性が減弱する可能性があることを考慮すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7107,
-    "other_brand": "タキソール注射液30mg",
-    "interaction_type": "caution",
-    "source_text": "本剤は血漿中パクリタキセルのAUC及びCmaxをそれぞれ約26%及び31%増加させた。"
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10130,
-    "other_brand": "パクリタキセル注射液30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤は血漿中パクリタキセルのAUC及びCmaxをそれぞれ約26%及び31%増加させた。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7107,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10135,
-    "other_brand": "パクリタキセル注30mg/5mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "本剤は血漿中パクリタキセルのAUC及びCmaxをそれぞれ約26%及び31%増加させた。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5793,
-    "other_brand": "シンバスタチン錠10mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "併用によりALTが上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5795,
-    "other_brand": "シンバスタチン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "併用によりALTが上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5797,
-    "other_brand": "シンバスタチン錠5mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "併用によりALTが上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5798,
-    "other_brand": "シンバスタチン錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "併用によりALTが上昇するおそれがある。"
-  },
-  {
-    "other_id": 5805,
-    "other_brand": "シンバスタチン錠5mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "併用によりALTが上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14972,
-    "other_brand": "リポバス錠5",
-    "interaction_type": "caution",
-    "source_text": "併用によりALTが上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 7662,
-    "other_brand": "ツムラの生薬シンイ",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
+    "other_id": 5805,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8581,
-    "other_brand": "トチモトのシンイ",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
-  },
-  {
-    "other_id": 17113,
-    "other_brand": "花扇シンイK",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17415,
-    "other_brand": "高砂シンイM",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長や心室性不整脈をおこすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14730,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17113,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7662,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
   }
 ]

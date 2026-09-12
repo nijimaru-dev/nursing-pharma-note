@@ -1,20 +1,14 @@
 [
   {
+    "other_id": 5967,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 494,
-    "other_brand": "アトニン−O注1単位",
-    "interaction_type": "caution",
-    "source_text": "子宮収縮が異常に強くなる可能性があるので、観察を十分に行い慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3023,
-    "other_brand": "オキシトシン注射液5単位「F」",
-    "interaction_type": "caution",
-    "source_text": "子宮収縮が異常に強くなる可能性があるので、観察を十分に行い慎重に投与すること。"
-  },
-  {
-    "other_id": 5967,
-    "other_brand": "ジノプロスト注射液1000μg「F」",
-    "interaction_type": "caution",
-    "source_text": "子宮収縮が異常に強くなる可能性があるので、観察を十分に行い慎重に投与すること。"
+    "interaction_type": "caution"
   }
 ]

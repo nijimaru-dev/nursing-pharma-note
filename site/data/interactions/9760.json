@@ -1,266 +1,178 @@
 [
   {
     "other_id": 1322,
-    "other_brand": "アロカリス点滴静注235mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が増強されるおそれがある。なお、デキサメタゾンを併用する場合は、デキサメタゾンの用量を減量するなど用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3640,
-    "other_brand": "オータイロカプセル40mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "other_id": 1283,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11853,
-    "other_brand": "プリミドン錠250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "other_id": 11150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9795,
-    "other_brand": "ハイツエキシン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10600,
-    "other_brand": "ビブラマイシン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "経口避妊薬の効果を減弱させるおそれがある\n,\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11035,
-    "other_brand": "フィコンパ点滴静注用2mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下し、効果が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11036,
-    "other_brand": "フィコンパ錠2mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下し、効果が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11392,
-    "other_brand": "フルコナゾールカプセル50mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11395,
-    "other_brand": "フルコナゾールカプセル50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11408,
-    "other_brand": "フルコナゾール静注50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11409,
-    "other_brand": "フルコナゾール静注50mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11653,
-    "other_brand": "ブルキンザカプセル80mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12024,
-    "other_brand": "プロジフ静注液100",
-    "interaction_type": "caution",
-    "source_text": "エチニルエストラジオール\n、レボノルゲストレルの血中濃度上昇の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12585,
-    "other_brand": "ペランパネル錠2mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下し、効果が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12586,
-    "other_brand": "ペランパネル錠2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下し、効果が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12591,
-    "other_brand": "ペランパネル錠2mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下し、効果が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12587,
-    "other_brand": "ペランパネルOD錠2mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の血中濃度が低下し、効果が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12971,
-    "other_brand": "ボラニゴ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15198,
-    "other_brand": "レダマイシンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "黄体・卵胞ホルモン配合剤の効果の減弱化及び不正性器出血の発現率が増大するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

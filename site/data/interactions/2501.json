@@ -1,110 +1,74 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "眠気、血圧低下、運動失調、意識障害などを起こすおそれがある。"
-  },
-  {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、血圧低下、運動失調、意識障害などを起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "眠気、血圧低下、運動失調、意識障害などを起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "眠気、血圧低下、運動失調、意識障害などを起こすおそれがある。"
-  },
-  {
-    "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の用量を減量するなど、注意して投与する。"
-  },
-  {
-    "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の用量を減量するなど、注意して投与する。"
-  },
-  {
-    "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の用量を減量するなど、注意して投与する。"
-  },
-  {
-    "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の用量を減量するなど、注意して投与する。"
-  },
-  {
-    "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の用量を減量するなど、注意して投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の用量を減量するなど、注意して投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤の用量を減量するなど、注意して投与する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "精神機能、知覚・運動機能の低下を起こすおそれがある。"
+    "other_id": 8311,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "精神機能、知覚・運動機能の低下を起こすおそれがある。"
+    "other_id": 11483,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11484,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11485,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11487,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "精神機能、知覚・運動機能の低下を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6764,
-    "other_brand": "ゼオマイン注用50単位",
-    "interaction_type": "caution",
-    "source_text": "過剰な筋弛緩があらわれるおそれがあり、筋力低下、嚥下障害等の発現するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6767,
-    "other_brand": "ゼオマイン筋注用50単位",
-    "interaction_type": "caution",
-    "source_text": "過剰な筋弛緩があらわれるおそれがあり、筋力低下、嚥下障害等の発現するリスクが高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12956,
-    "other_brand": "ボトックスビスタ注用50単位",
-    "interaction_type": "caution",
-    "source_text": "閉瞼不全、頸部筋脱力等の過剰な筋弛緩があらわれるおそれがある。嚥下障害の発現が高まるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12958,
-    "other_brand": "ボトックス注用50単位",
-    "interaction_type": "caution",
-    "source_text": "閉瞼不全、頸部筋脱力等の過剰な筋弛緩があらわれるおそれがある。嚥下障害の発現が高まるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

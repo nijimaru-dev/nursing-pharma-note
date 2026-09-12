@@ -1,38 +1,26 @@
 [
   {
     "other_id": 13161,
-    "other_brand": "マイトマイシン注用10mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の項に記載したもの以外に、静脈炎、脱毛があらわれることがある。"
-  },
-  {
-    "other_id": 13162,
-    "other_brand": "マイトマイシン注用2mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の項に記載したもの以外に、静脈炎、脱毛があらわれることがある。"
-  },
-  {
-    "other_id": 13163,
-    "other_brand": "マイトマイシン眼科外用液用2mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の項に記載したもの以外に、静脈炎、脱毛があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17546,
-    "other_brand": "5−FU注250mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の項に記載したもの以外に、静脈炎、脱毛があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13163,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17548,
-    "other_brand": "5−FU軟膏5%協和",
-    "interaction_type": "caution",
-    "source_text": "副作用の項に記載したもの以外に、静脈炎、脱毛があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13162,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1372,
-    "other_brand": "アンコチル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制の副作用が増強することがあるので、患者の状態を観察しながら、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   }
 ]

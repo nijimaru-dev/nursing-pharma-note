@@ -1,164 +1,110 @@
 [
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により重篤な不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により重篤な不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により重篤な不整脈を起こすおそれがある。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
+    "other_id": 5946,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
+    "other_id": 5947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
-  },
-  {
-    "other_id": 13160,
-    "other_brand": "マイテラーゼ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15969,
-    "other_brand": "ワゴスチグミン散（0.5％）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強し、遷延性無呼吸（持続性呼吸麻痺）を起こすことがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13160,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1602,
-    "other_brand": "イソフルラン吸入麻酔液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の筋弛緩作用が増強するので、併用する場合には、本剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6381,
-    "other_brand": "スープレン吸入麻酔液",
-    "interaction_type": "caution",
-    "source_text": "本剤の筋弛緩作用が増強するので、併用する場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 1013,
-    "other_brand": "アモバン錠7.5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
-  },
-  {
-    "other_id": 2330,
-    "other_brand": "エスゾピクロン錠1mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
-  },
-  {
-    "other_id": 2331,
-    "other_brand": "エスゾピクロン錠1mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
-  },
-  {
-    "other_id": 2333,
-    "other_brand": "エスゾピクロン錠1mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2336,
-    "other_brand": "エスゾピクロン錠1mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2337,
-    "other_brand": "エスゾピクロン錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2338,
-    "other_brand": "エスゾピクロン錠1mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2339,
-    "other_brand": "エスゾピクロン錠1mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2341,
-    "other_brand": "エスゾピクロン錠1mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
-  },
-  {
-    "other_id": 6992,
-    "other_brand": "ゾピクロン錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15084,
-    "other_brand": "ルネスタ錠1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強又は遷延することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6992,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2330,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2331,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2333,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の筋弛緩作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の筋弛緩作用が減弱することがある。"
+    "interaction_type": "caution"
   }
 ]

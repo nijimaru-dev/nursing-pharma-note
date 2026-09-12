@@ -1,86 +1,58 @@
 [
   {
     "other_id": 7329,
-    "other_brand": "タンニン酸アルブミン「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがあるので、投与間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7330,
-    "other_brand": "タンニン酸アルブミン　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがあるので、投与間隔をあけるなど注意すること。"
-  },
-  {
-    "other_id": 7332,
-    "other_brand": "タンニン酸アルブミン「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがあるので、投与間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7337,
-    "other_brand": "タンニン酸アルブミン「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがあるので、投与間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7332,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   }
 ]

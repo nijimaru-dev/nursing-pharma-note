@@ -1,974 +1,650 @@
 [
   {
     "other_id": 383,
-    "other_brand": "アゼルニジピン錠8mg「ケミファ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 385,
-    "other_brand": "アゼルニジピン錠8mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 386,
-    "other_brand": "アゼルニジピン錠8mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 387,
-    "other_brand": "アゼルニジピン錠8mg「BMD」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 388,
-    "other_brand": "アゼルニジピン錠8mg「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 390,
-    "other_brand": "アゼルニジピン錠8mg「NP」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 391,
-    "other_brand": "アゼルニジピン錠8mg「TCK」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 392,
-    "other_brand": "アゼルニジピン錠8mg「YD」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 603,
-    "other_brand": "アドシルカ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "強いCYP3A4阻害作用を有するケトコナゾール（400mg/日：経口剤、国内未発売）との併用により、本剤（20mg）のAUC及びC\nmax\nが312%及び22%増加するとの報告がある\n。また、リトナビル（200mg/1日2回投与）との併用により、本剤（20mg）のAUCが124%増加するとの報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が上昇することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1282,
-    "other_brand": "アレビアチン注250mg",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が上昇することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が上昇することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1784,
-    "other_brand": "イムブルビカカプセル140mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2543,
-    "other_brand": "エドルミズ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、副作用の発現が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中濃度が上昇し、血清カリウム値の上昇を誘発するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3637,
-    "other_brand": "オーゼイフル錠0.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3722,
-    "other_brand": "カムザイオスカプセル1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の副作用が増強され、収縮機能障害による心不全のリスクが高まるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3841,
-    "other_brand": "カルブロック錠8mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "QT 延長等があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4483,
-    "other_brand": "クリアミン配合錠A1.0",
-    "interaction_type": "contraindicated",
-    "source_text": "エルゴタミンの血中濃度が上昇し、血管攣縮等の重篤な副作用を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4708,
-    "other_brand": "クービビック錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の副作用を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5058,
-    "other_brand": "ケレンディア錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が著しく上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5248,
-    "other_brand": "コララン錠2.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5258,
-    "other_brand": "コルヒチン錠0.5mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用が増強することがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5258,
-    "other_brand": "コルヒチン錠0.5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。併用する場合は減量あるいは低用量から開始するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5793,
-    "other_brand": "シンバスタチン錠10mg「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5805,
-    "other_brand": "シンバスタチン錠5mg「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5794,
-    "other_brand": "シンバスタチン錠5mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5795,
-    "other_brand": "シンバスタチン錠5mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5796,
-    "other_brand": "シンバスタチン錠5mg「武田テバ」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5797,
-    "other_brand": "シンバスタチン錠5mg「SW」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5798,
-    "other_brand": "シンバスタチン錠5mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5799,
-    "other_brand": "シンバスタチン錠5mg「YD」",
-    "interaction_type": "contraindicated",
-    "source_text": "横紋筋融解症を含むミオパチー等の重篤な副作用が起きるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12405,
-    "other_brand": "ベネクレクスタ錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "腫瘍崩壊症候群の発現が増強されるおそれがある。"
-  },
-  {
-    "other_id": 3161,
-    "other_brand": "オプスミット小児用分散錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 3163,
-    "other_brand": "オプスミット錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6042,
-    "other_brand": "ジャクスタピッドカプセル5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7173,
-    "other_brand": "タダラフィル錠10mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7174,
-    "other_brand": "タダラフィル錠10mgCI「クラシエ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7175,
-    "other_brand": "タダラフィル錠10mgCI「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7176,
-    "other_brand": "タダラフィル錠10mgCI「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7178,
-    "other_brand": "タダラフィル錠10mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7181,
-    "other_brand": "タダラフィル錠10mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7182,
-    "other_brand": "タダラフィル錠2.5mgZA「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7183,
-    "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7188,
-    "other_brand": "タダラフィル錠2.5mgZA「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7189,
-    "other_brand": "タダラフィル錠2.5mgZA「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7191,
-    "other_brand": "タダラフィル錠20mgAD「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7192,
-    "other_brand": "タダラフィル錠20mgAD「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7197,
-    "other_brand": "タダラフィル錠20mgCI「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7202,
-    "other_brand": "タダラフィル錠20mgCI「GO」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 7205,
-    "other_brand": "タダラフィル錠20mgCI「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 8564,
-    "other_brand": "トチモトのシオン",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 8776,
-    "other_brand": "トリアゾラム錠0.125mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 8777,
-    "other_brand": "トリアゾラム錠0.125mg「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 8778,
-    "other_brand": "トリアゾラム錠0.125mg「CH」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9842,
-    "other_brand": "ハルシオン0.125mg錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 10052,
-    "other_brand": "バルデナフィル錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 10181,
-    "other_brand": "パルタンM注0.2mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 10182,
-    "other_brand": "パルタンM錠0.125mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11682,
-    "other_brand": "ブロナンセリン錠2mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11683,
-    "other_brand": "ブロナンセリン錠2mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11684,
-    "other_brand": "ブロナンセリン錠2mg「DSPB」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11689,
-    "other_brand": "ブロナンセリン錠2mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 12484,
-    "other_brand": "ベルソムラ錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 13650,
-    "other_brand": "メチルエルゴメトリンマレイン酸塩注0.2mg「F」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 13651,
-    "other_brand": "メチルエルゴメトリンマレイン酸塩錠0.125mg「F」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 13652,
-    "other_brand": "メチルエルゴメトリン注0.2mg「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 13653,
-    "other_brand": "メチルエルゴメトリン錠0.125mg「あすか」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14208,
-    "other_brand": "ユバンシ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 14416,
-    "other_brand": "ラツーダ錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "other_id": 7173,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 14972,
-    "other_brand": "リポバス錠5",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "other_id": 7174,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7175,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7176,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7178,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7181,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7182,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7183,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7188,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7189,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7191,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7192,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 6042,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7197,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7202,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11682,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7205,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11683,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11684,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11689,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12484,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 10052,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 10181,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 10182,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8776,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8777,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8778,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 6606,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15184,
-    "other_brand": "レスピア静注・経口液60mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 15845,
-    "other_brand": "ロナセンテープ20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "other_id": 14416,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 15848,
-    "other_brand": "ロナセン錠2mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "other_id": 13650,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "other_id": 13651,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "other_id": 13652,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 17260,
-    "other_brand": "酒石酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 9160,
-    "other_brand": "ドロレプタン注射液25mg",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
+    "other_id": 13653,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "QT間隔延長を起こすおそれがあるので、患者の状態を十分に観察すること。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用が増加するおそれがあるので、併用は避け、代替の治療薬への変更を考慮すること。併用が避けられない場合は、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用が増加するおそれがあるので、併用は避け、代替の治療薬への変更を考慮すること。併用が避けられない場合は、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 3161,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用が増加するおそれがあるので、併用は避け、代替の治療薬への変更を考慮すること。併用が避けられない場合は、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 3163,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用が増加するおそれがあるので、併用は避け、代替の治療薬への変更を考慮すること。併用が避けられない場合は、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用が増加するおそれがあるので、併用は避け、代替の治療薬への変更を考慮すること。併用が避けられない場合は、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "other_id": 15845,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 15848,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 17260,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9842,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8564,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 14972,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9160,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が増加し、副作用が増加するおそれがあるので、併用は避け、代替の治療薬への変更を考慮すること。併用が避けられない場合は、本剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、本剤の有効性が減弱するおそれがあるので、併用を避けることが望ましい。"
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下し、本剤の有効性が減弱するおそれがあるので、併用を避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8407,
-    "other_brand": "デュロテップMTパッチ2.1mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14436,
-    "other_brand": "ラフェンタテープ1.38mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15991,
-    "other_brand": "ワンデュロパッチ0.84mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8407,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13342,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13343,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12405,
-    "other_brand": "ベネクレクスタ錠10mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。ワルファリンと併用する場合にはプロトロンビン時間国際標準比（PT-INR）のモニタリングの頻度を増やすこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6829,
-    "other_brand": "ソホノスカプセル1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、副作用が強くあらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の副作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7147,
-    "other_brand": "タケプロンカプセル15",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7149,
-    "other_brand": "タケプロン静注用30mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7150,
-    "other_brand": "タケプロンOD錠15",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7152,
-    "other_brand": "タケルダ配合錠",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7195,
-    "other_brand": "タダラフィル錠20mgAD「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "強いCYP3A4阻害作用を有するケトコナゾール（400mg/日：経口剤、国内未発売）との併用により、本剤（20mg）のAUC及びC\nmax\nが312%及び22%増加するとの報告がある\n。また、リトナビル（200mg/1日2回投与）との併用により、本剤（20mg）のAUCが124%増加するとの報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7196,
-    "other_brand": "タダラフィル錠20mgAD「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "強いCYP3A4阻害作用を有するケトコナゾール（400mg/日：経口剤、国内未発売）との併用により、本剤（20mg）のAUC及びC\nmax\nが312%及び22%増加するとの報告がある\n。また、リトナビル（200mg/1日2回投与）との併用により、本剤（20mg）のAUCが124%増加するとの報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8779,
-    "other_brand": "トリアゾラム錠0.125mg「TCK」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10053,
-    "other_brand": "バルデナフィル錠10mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10054,
-    "other_brand": "バルデナフィル錠5mg「FCI」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中濃度が上昇するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇し、副作用が増強されるおそれがある。本剤からCYP3A阻害作用のない薬剤への代替を考慮すること。やむを得ず併用する際には、これら薬剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇し、副作用が増強されるおそれがある。本剤からCYP3A阻害作用のない薬剤への代替を考慮すること。やむを得ず併用する際には、これら薬剤の減量を考慮するとともに、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が上昇することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11648,
-    "other_brand": "ブリリンタ錠60mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血小板凝集抑制作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11664,
-    "other_brand": "ブレビブロック注 100mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈を起こすおそれがあるので、可能な限り併用しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11687,
-    "other_brand": "ブロナンセリン錠2mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11688,
-    "other_brand": "ブロナンセリン錠2mg「ニプロ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11690,
-    "other_brand": "ブロナンセリン錠2mg「DSEP」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11692,
-    "other_brand": "ブロナンセリン錠2mg「YD」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12693,
-    "other_brand": "ホストイン静注750mg",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が上昇することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12988,
-    "other_brand": "ボルズィ錠2.5mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の作用を著しく増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14574,
-    "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14575,
-    "other_brand": "ランソプラゾールカプセル15mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14583,
-    "other_brand": "ランソプラゾールOD錠15mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14578,
-    "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14579,
-    "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14580,
-    "other_brand": "ランソプラゾールOD錠15mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14582,
-    "other_brand": "ランソプラゾールOD錠15mg「武田テバ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14584,
-    "other_brand": "ランソプラゾールOD錠15mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用を減弱する可能性がある。ボスチニブ水和物との併用は可能な限り避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15091,
-    "other_brand": "ルプキネスカプセル7.9mg",
-    "interaction_type": "contraindicated",
-    "source_text": "代謝酵素の阻害により、本剤の作用が増強するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15178,
-    "other_brand": "レザルタス配合錠LD",
-    "interaction_type": "contraindicated",
-    "source_text": "アゼルニジピンの作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "フェニトインの血中濃度が上昇することがある\n。"
+    "interaction_type": "caution"
   }
 ]

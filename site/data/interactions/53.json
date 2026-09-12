@@ -1,68 +1,46 @@
 [
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血漿中濃度が低下する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
-  },
-  {
-    "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
-  },
-  {
-    "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
-  },
-  {
-    "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17285,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17290,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17292,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前後6時間以内に水酸化マグネシウム・水酸化アルミニウム含有制酸剤を併用投与した場合、本剤の血漿中濃度が低下する。"
+    "interaction_type": "caution"
   }
 ]

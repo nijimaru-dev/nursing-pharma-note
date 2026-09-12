@@ -1,584 +1,390 @@
 [
   {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4084,
-    "other_brand": "ガスター散10%",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4086,
-    "other_brand": "ガスター注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4088,
-    "other_brand": "ガスター錠10mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4090,
-    "other_brand": "ガスターD錠10mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 5818,
-    "other_brand": "シンレスタール錠250mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9160,
-    "other_brand": "ドロレプタン注射液25mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9161,
-    "other_brand": "ドンペリドン坐剤10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9162,
-    "other_brand": "ドンペリドン坐剤10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9163,
-    "other_brand": "ドンペリドン坐剤10mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9167,
-    "other_brand": "ドンペリドン錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9168,
-    "other_brand": "ドンペリドン錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9170,
-    "other_brand": "ドンペリドン錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9171,
-    "other_brand": "ドンペリドン錠5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9172,
-    "other_brand": "ドンペリドン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9173,
-    "other_brand": "ドンペリドン錠5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9174,
-    "other_brand": "ドンペリドン錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9187,
-    "other_brand": "ドンペリドンDS小児用1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9190,
-    "other_brand": "ナウゼリンドライシロップ1%",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9191,
-    "other_brand": "ナウゼリン坐剤10",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9194,
-    "other_brand": "ナウゼリン錠5",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9196,
-    "other_brand": "ナウゼリンOD錠5",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10942,
-    "other_brand": "ファモチジン錠10「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10948,
-    "other_brand": "ファモチジン注射用10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10956,
-    "other_brand": "ファモチジン錠10mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10961,
-    "other_brand": "ファモチジン錠10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10962,
-    "other_brand": "ファモチジン錠10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10963,
-    "other_brand": "ファモチジン錠10mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10964,
-    "other_brand": "ファモチジン錠10mg「TBP」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10967,
-    "other_brand": "ファモチジン錠10mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10982,
-    "other_brand": "ファモチジン静注液10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10983,
-    "other_brand": "ファモチジン静注液10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10986,
-    "other_brand": "ファモチジン静注10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10987,
-    "other_brand": "ファモチジン静注10mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10990,
-    "other_brand": "ファモチジンD錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10991,
-    "other_brand": "ファモチジンD錠10mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10995,
-    "other_brand": "ファモチジンOD錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 10999,
-    "other_brand": "ファモチジンOD錠10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11002,
-    "other_brand": "ファモチジンOD錠10mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11005,
-    "other_brand": "ファモチジンOD錠10mg「TBP」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
-    "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
-  },
-  {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
+    "other_id": 2833,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12089,
-    "other_brand": "プロブコール錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6718,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6720,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4090,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11393,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11394,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9860,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9861,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9862,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長、心室性不整脈（TdPを含む）を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 403,
-    "other_brand": "アゾセミド錠30mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 11402,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 404,
-    "other_brand": "アゾセミド錠30mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 11403,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 827,
-    "other_brand": "アムビゾーム点滴静注用50mg",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 5818,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1173,
-    "other_brand": "アルダクトンA細粒10％",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 10942,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6313,
-    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 10948,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6315,
-    "other_brand": "スピロノラクトン錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 9160,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6316,
-    "other_brand": "スピロノラクトン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 9161,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6317,
-    "other_brand": "スピロノラクトン錠25mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 9162,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9163,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10956,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9167,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9168,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10961,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10962,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10963,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10964,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9170,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9171,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10967,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9172,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9174,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9187,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10983,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9190,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9191,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10986,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10987,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9196,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10990,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10995,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4084,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4086,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4088,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11002,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11005,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7397,
-    "other_brand": "ダイアート錠30mg",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6313,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6315,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6317,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8717,
-    "other_brand": "トラセミド錠4mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
-  },
-  {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
-  },
-  {
-    "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
-  },
-  {
-    "other_id": 8830,
-    "other_brand": "トルバプタンOD錠7.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9841,
-    "other_brand": "ハリゾンシロップ100mg/mL",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 404,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11028,
-    "other_brand": "ファンギゾンシロップ100mg/mL",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11029,
-    "other_brand": "ファンギゾン注射用50mg",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "other_id": 8791,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "電解質異常を引き起こす。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11029,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 827,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8830,
+    "interaction_type": "caution"
   }
 ]

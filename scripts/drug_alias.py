@@ -6,7 +6,10 @@ drug_alias.py
 個別薬剤の一般名だけでは文字列が一致せず自動突合できないケースがある。
 
 このファイルは、そうした分類名から代表的な一般名への対応表（ALIAS_MAP）と、
-2剤間で相互作用の記載が実際に一致するかを判定する関数を提供する。
+薬剤名・分類名を候補となる一般名の集合へ展開する関数（expand_aliases）を提供する。
+展開結果を使った実際の突合ロジックは pmda_tenpu_parser.py の
+auto_match_pair_interactions() 側にある（全薬剤分をまとめて1つの正規表現に
+事前コンパイルして使うため）。
 
 対応表は臨床知識に基づく初期セットであり、完全な網羅ではない。
 新しいクラス・薬剤が出てくるたびに追記していく前提の「育てる辞書」。
@@ -57,24 +60,3 @@ def expand_aliases(name):
         if name in members:
             result.add(category)
     return result
-
-
-def interaction_text_mentions(interaction_text, target_generic_name, target_brand_name=None):
-    """
-    ある薬の相互作用テキスト（drug_name_or_class列）が、
-    target_generic_name（または target_brand_name）に該当する薬剤・分類を
-    言及しているかどうかを判定する。
-    """
-    text = _normalize(interaction_text)
-    if not text:
-        return False
-
-    candidates = set()
-    candidates |= expand_aliases(target_generic_name)
-    if target_brand_name:
-        candidates |= expand_aliases(target_brand_name)
-
-    for candidate in candidates:
-        if candidate and candidate in text:
-            return True
-    return False

@@ -1,92 +1,62 @@
 [
   {
     "other_id": 2944,
-    "other_brand": "オイグルコン錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用が増強することがある。また、低血糖症状（頻脈、発汗等）をマスクすることがあるので、血糖値に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4832,
-    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用が増強することがある。また、低血糖症状（頻脈、発汗等）をマスクすることがあるので、血糖値に注意すること。"
-  },
-  {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれることがあるので、減量するなど注意すること。"
+    "interaction_type": "caution"
   }
 ]

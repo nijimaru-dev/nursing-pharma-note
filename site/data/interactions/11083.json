@@ -1,92 +1,62 @@
 [
   {
     "other_id": 16120,
-    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので接種しないこと。本剤投与中止後も薬力学的効果が持続するため、リンパ球数の回復が確認されるまでは接種を避けること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16121,
-    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので接種しないこと。本剤投与中止後も薬力学的効果が持続するため、リンパ球数の回復が確認されるまでは接種を避けること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsade de pointes等の重篤な不整脈を生じるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsade de pointes等の重篤な不整脈を生じるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsade de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsade de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 453,
-    "other_brand": "アテノロール錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 454,
-    "other_brand": "アテノロール錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 456,
-    "other_brand": "アテノロール錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 458,
-    "other_brand": "アテノロール錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8022,
-    "other_brand": "テノーミン錠50",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   }
 ]

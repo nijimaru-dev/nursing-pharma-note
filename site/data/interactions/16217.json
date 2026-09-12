@@ -1,488 +1,326 @@
 [
   {
     "other_id": 5881,
-    "other_brand": "ジギラノゲン注0.4mg",
-    "interaction_type": "caution",
-    "source_text": "治療上やむを得ないと判断される場合を除き、併用しないこと。静注により急激に血中カルシウム濃度が上昇すると、心毒性が急激に発現するおそれがある。カルシウム値の補正に用いるなど、やむを得ず投与する場合には、低濃度で緩徐に投与するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、カルシウム注射剤を投与しないこと。やむを得ず投与する場合には、急激にカルシウム濃度を上昇させるような使用法は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、カルシウム注射剤を投与しないこと。やむを得ず投与する場合には、急激にカルシウム濃度を上昇させるような使用法は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、カルシウム注射剤を投与しないこと。やむを得ず投与する場合には、急激にカルシウム濃度を上昇させるような使用法は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、カルシウム注射剤を投与しないこと。やむを得ず投与する場合には、急激にカルシウム濃度を上昇させるような使用法は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、カルシウム注射剤を投与しないこと。やむを得ず投与する場合には、急激にカルシウム濃度を上昇させるような使用法は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13654,
-    "other_brand": "メチルジゴキシン錠0.05mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、投与しないこと。急激にカルシウム濃度を上昇させるような使用法は避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "静注により急激に血中カルシウム濃度が上昇するとジゴキシンの毒性が急激に出現することがある。治療上やむを得ないと判断される場合を除き、投与しないこと。急激にカルシウム濃度を上昇させるような使用法は避けること。"
-  },
-  {
-    "other_id": 1190,
-    "other_brand": "アルファカルシドールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 1192,
-    "other_brand": "アルファカルシドールカプセル0.25μg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 1215,
-    "other_brand": "アルファカルシドール錠0.25μg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 1218,
-    "other_brand": "アルファロールカプセル0.25μg",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 1221,
-    "other_brand": "アルファロールカプセル3μg",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 1222,
-    "other_brand": "アルファロール内用液0.5μg／mL",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 1223,
-    "other_brand": "アルファロール散1μg／g",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 3763,
-    "other_brand": "カルシトリオールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 3764,
-    "other_brand": "カルシトリオールカプセル0.25μg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 3773,
-    "other_brand": "カルシトリオール静注液0.5μg「F」",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 11419,
-    "other_brand": "フルスタン錠0.15",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
-  },
-  {
-    "other_id": 15550,
-    "other_brand": "ロカルトロールカプセル0.25",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15552,
-    "other_brand": "ロカルトロール注0.5",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11419,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1190,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1192,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15985,
-    "other_brand": "ワンアルファ錠0.25μg",
-    "interaction_type": "caution",
-    "source_text": "高カルシウム血症があらわれやすい。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 119,
-    "other_brand": "アクトネル錠17.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 120,
-    "other_brand": "アクトネル錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 3763,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 121,
-    "other_brand": "アクトネル錠75mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 3764,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1299,
-    "other_brand": "アレンドロン酸錠35mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 3773,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1301,
-    "other_brand": "アレンドロン酸錠35mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 15550,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1302,
-    "other_brand": "アレンドロン酸錠35mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1304,
-    "other_brand": "アレンドロン酸錠35mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1306,
-    "other_brand": "アレンドロン酸錠35mg「SN」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1308,
-    "other_brand": "アレンドロン酸錠35mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1310,
-    "other_brand": "アレンドロン酸錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1312,
-    "other_brand": "アレンドロン酸錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1313,
-    "other_brand": "アレンドロン酸錠5mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1314,
-    "other_brand": "アレンドロン酸錠5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1316,
-    "other_brand": "アレンドロン酸錠5mg「SN」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1318,
-    "other_brand": "アレンドロン酸錠5mg「VTRS」（未発売）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 1319,
-    "other_brand": "アレンドロン酸錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 1215,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 7408,
-    "other_brand": "ダイドロネル錠200",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 9752,
-    "other_brand": "ノルフロキサシン点眼液0.3％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 9753,
-    "other_brand": "ノルフロキサシン点眼液0.3%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 9754,
-    "other_brand": "ノルフロキサシン点眼液0.3％「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 9755,
-    "other_brand": "ノルフロキサシン点眼液0.3%「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 9756,
-    "other_brand": "ノルフロキサシン錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 9757,
-    "other_brand": "ノルフロキサシン錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 11299,
-    "other_brand": "フォサマック錠35mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 12409,
-    "other_brand": "ベネット錠17.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 12410,
-    "other_brand": "ベネット錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 12411,
-    "other_brand": "ベネット錠75mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 12960,
-    "other_brand": "ボナロン点滴静注バッグ900μg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 12961,
-    "other_brand": "ボナロン経口ゼリー35mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 12962,
-    "other_brand": "ボナロン錠35mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
-  },
-  {
-    "other_id": 12963,
-    "other_brand": "ボナロン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14738,
-    "other_brand": "リセドロン酸ナトリウム錠17.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1299,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14740,
-    "other_brand": "リセドロン酸ナトリウム錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1301,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1302,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14742,
-    "other_brand": "リセドロン酸Na錠17.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14745,
-    "other_brand": "リセドロン酸Na錠17.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 9752,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14746,
-    "other_brand": "リセドロン酸Na錠17.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 9753,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14747,
-    "other_brand": "リセドロン酸Na錠17.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 9754,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14748,
-    "other_brand": "リセドロン酸Na錠17.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 9755,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14749,
-    "other_brand": "リセドロン酸Na錠17.5mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 9756,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14750,
-    "other_brand": "リセドロン酸Na錠17.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 9757,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14751,
-    "other_brand": "リセドロン酸Na錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 1304,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14753,
-    "other_brand": "リセドロン酸Na錠2.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "other_id": 1306,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1312,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1313,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1314,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11299,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12960,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1318,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12961,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12962,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12963,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14754,
-    "other_brand": "リセドロン酸Na錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14755,
-    "other_brand": "リセドロン酸Na錠2.5mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14756,
-    "other_brand": "リセドロン酸Na錠2.5mg「F」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14757,
-    "other_brand": "リセドロン酸Na錠2.5mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14758,
-    "other_brand": "リセドロン酸Na錠2.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14759,
-    "other_brand": "リセドロン酸Na錠75mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14761,
-    "other_brand": "リセドロン酸Na錠75mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1308,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1310,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14745,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14746,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14747,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14748,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14749,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12409,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14750,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14751,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7408,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14753,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 119,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 120,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 121,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12410,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12411,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13133,
-    "other_brand": "ポリフル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "（1）高カルシウム血症があらわれるおそれがある。（2）この薬剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

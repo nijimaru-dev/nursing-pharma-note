@@ -1,554 +1,370 @@
 [
   {
     "other_id": 47,
-    "other_brand": "おたふくかぜ生ワクチン「第一三共」",
-    "interaction_type": "contraindicated",
-    "source_text": "おたふくかぜ様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 49,
-    "other_brand": "はしか風しん混合生ワクチン「第一三共」",
-    "interaction_type": "contraindicated",
-    "source_text": "麻しん又は風しん様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 144,
-    "other_brand": "アサコール錠400mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制があらわれるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 153,
-    "other_brand": "アザルフィジンEN錠250mg",
-    "interaction_type": "caution",
-    "source_text": "白血球減少等の骨髄抑制があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1340,
-    "other_brand": "アロプリノール錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1345,
-    "other_brand": "アロプリノール錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1334,
-    "other_brand": "アロプリノール錠50mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1335,
-    "other_brand": "アロプリノール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1336,
-    "other_brand": "アロプリノール錠50mg「アメル」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1337,
-    "other_brand": "アロプリノール錠50mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1338,
-    "other_brand": "アロプリノール錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1339,
-    "other_brand": "アロプリノール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1341,
-    "other_brand": "アロプリノール錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1342,
-    "other_brand": "アロプリノール錠50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1343,
-    "other_brand": "アロプリノール錠50mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1344,
-    "other_brand": "アロプリノール錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1346,
-    "other_brand": "アロプリノール錠50mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1347,
-    "other_brand": "アロプリノール錠50mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1348,
-    "other_brand": "アロプリノール錠50mg「NS」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1350,
-    "other_brand": "アロプリノール錠50mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1351,
-    "other_brand": "アロプリノール錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。これらの薬剤の用量を1/3～1/4に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1779,
-    "other_brand": "イムノブラダー膀注用80mg",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16120,
-    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16121,
-    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがある。"
-  },
-  {
-    "other_id": 8686,
-    "other_brand": "トピロリック錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
-  },
-  {
-    "other_id": 11163,
-    "other_brand": "フェブキソスタット錠10mg「ケミファ」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
-  },
-  {
-    "other_id": 11165,
-    "other_brand": "フェブキソスタット錠10mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11168,
-    "other_brand": "フェブキソスタット錠10mg「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11169,
-    "other_brand": "フェブキソスタット錠10mg「明治」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11170,
-    "other_brand": "フェブキソスタット錠10mg「杏林」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11171,
-    "other_brand": "フェブキソスタット錠10mg「AFP」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11202,
-    "other_brand": "フェブキソスタットOD錠10mg「ケミファ」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11205,
-    "other_brand": "フェブキソスタットOD錠10mg「日新」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11207,
-    "other_brand": "フェブキソスタットOD錠10mg「NPI」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8686,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11218,
-    "other_brand": "フェブリク錠10mg",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。併用する場合には、本剤を通常投与量の1/3～1/4に減量すること。"
+    "other_id": 11163,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。併用する場合には、本剤を通常投与量の1/3～1/4に減量すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。併用する場合には、本剤を通常投与量の1/3～1/4に減量すること。"
+    "other_id": 11165,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制等の副作用を増強する。併用する場合には、本剤を通常投与量の1/3～1/4に減量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5381,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5382,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「CH」（旧製品：処方変更前、使用期限2026年11月まで）",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
-  },
-  {
-    "other_id": 5387,
-    "other_brand": "サラゾピリン坐剤500mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
-  },
-  {
-    "other_id": 5388,
-    "other_brand": "サラゾピリン錠500mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
-  },
-  {
-    "other_id": 12665,
-    "other_brand": "ペンタサ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13610,
-    "other_brand": "メサラジン徐放錠250mg「日医工P」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5387,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5388,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13615,
-    "other_brand": "メサラジン腸溶錠400mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13617,
-    "other_brand": "メサラジン錠250mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14611,
-    "other_brand": "リアルダ錠1200mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。併用する場合には、本剤の減量を考慮すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12665,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15327,
-    "other_brand": "レベトールカプセル200mg",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制が起こるおそれがある。"
-  },
-  {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
-  },
-  {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
-  },
-  {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
-  },
-  {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "併用する場合には、適切な白血球数を維持するよう用量を調節すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13626,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13627,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13630,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2202,
-    "other_brand": "ウリアデック錠20mg",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5383,
-    "other_brand": "サラゾスルファピリジン腸溶錠250mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "白血球減少等の骨髄抑制があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6613,
-    "other_brand": "セルセプトカプセル250",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10695,
-    "other_brand": "ビームゲン注0.25mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11166,
-    "other_brand": "フェブキソスタット錠10mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11167,
-    "other_brand": "フェブキソスタット錠10mg「ニプロ」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11172,
-    "other_brand": "フェブキソスタット錠10mg「DSEP」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11173,
-    "other_brand": "フェブキソスタット錠10mg「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11174,
-    "other_brand": "フェブキソスタット錠10mg「TCK」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11175,
-    "other_brand": "フェブキソスタット錠10mg「YD」",
-    "interaction_type": "contraindicated",
-    "source_text": "骨髄抑制等の副作用を増強する可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11510,
-    "other_brand": "フルミスト点鼻液",
-    "interaction_type": "contraindicated",
-    "source_text": "インフルエンザ様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12223,
-    "other_brand": "ヘプタバックス−II水性懸濁注シリンジ0.25mL",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が得られないおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12663,
-    "other_brand": "ペンタサ坐剤1g",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制があらわれるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12664,
-    "other_brand": "ペンタサ注腸1g",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制があらわれるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12667,
-    "other_brand": "ペンタサ顆粒94%",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制があらわれるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13335,
-    "other_brand": "ミコフェノール酸モフェチルカプセル250mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "骨髄機能抑制が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13447,
-    "other_brand": "ミムリット皮下注用",
-    "interaction_type": "contraindicated",
-    "source_text": "麻しん、おたふくかぜ又は風しん様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13534,
-    "other_brand": "ミールビック",
-    "interaction_type": "contraindicated",
-    "source_text": "麻しん又は風しん様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13535,
-    "other_brand": "ミールビックⅡ皮下注用",
-    "interaction_type": "contraindicated",
-    "source_text": "麻しん又は風しん様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13609,
-    "other_brand": "メサラジン徐放錠250mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制があらわれるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13613,
-    "other_brand": "メサラジン注腸1g「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制があらわれるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13614,
-    "other_brand": "メサラジン注腸1g「JG」",
-    "interaction_type": "caution",
-    "source_text": "骨髄抑制があらわれるおそれがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。\nなお、相手薬剤が本剤の作用を増強したとの報告もある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16117,
-    "other_brand": "乾燥弱毒生おたふくかぜワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "おたふくかぜ様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16118,
-    "other_brand": "乾燥弱毒生水痘ワクチン「ビケン」",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性の症状を呈するなどワクチンウイルスの感染を増強させるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16122,
-    "other_brand": "乾燥弱毒生麻しん風しん混合ワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "麻しん又は風しん様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16126,
-    "other_brand": "乾燥細胞培養痘そうワクチンLC16「KMB」",
-    "interaction_type": "contraindicated",
-    "source_text": "痘そう様症状があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16129,
-    "other_brand": "乾燥BCGワクチン（経皮用・1人用）",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがあるので、本剤を接種しないこと。"
+    "interaction_type": "contraindicated"
   }
 ]

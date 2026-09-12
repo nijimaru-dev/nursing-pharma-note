@@ -1,128 +1,86 @@
 [
   {
-    "other_id": 1020,
-    "other_brand": "アラセプリル錠12.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 1021,
-    "other_brand": "アラセプリル錠12.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 1022,
-    "other_brand": "アラセプリル錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 1744,
-    "other_brand": "イミダプリル塩酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 1750,
-    "other_brand": "イミダプリル塩酸塩錠10mg「PH」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 1759,
-    "other_brand": "イミダプリル塩酸塩錠2.5mg「PH」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2546,
-    "other_brand": "エナラプリルマレイン酸塩細粒1％「アメル」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2547,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2548,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2550,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2551,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2554,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2556,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "other_id": 2560,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2557,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2559,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「NikP」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
-  },
-  {
-    "other_id": 2560,
-    "other_brand": "エナラプリルマレイン酸塩錠2.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "other_id": 1020,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2576,
-    "other_brand": "エナラプリルマレイン酸塩錠5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6397,
-    "other_brand": "セタプリル錠25mg",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "other_id": 1744,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15229,
-    "other_brand": "レニベース錠2.5",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "other_id": 1021,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1750,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1759,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "血管浮腫"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2546,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2547,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2548,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2551,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6397,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2554,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1022,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2559,
+    "interaction_type": "caution"
   }
 ]

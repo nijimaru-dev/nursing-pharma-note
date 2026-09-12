@@ -1,0 +1,10 @@
+[
+  {
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  }
+]

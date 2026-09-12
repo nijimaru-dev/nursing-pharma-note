@@ -1,392 +1,262 @@
 [
   {
     "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 771,
-    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 772,
-    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsade de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4206,
-    "other_brand": "キニジン硫酸塩「VTRS」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsade de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5056,
-    "other_brand": "ケルロング錠5mg",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に本剤を併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5641,
-    "other_brand": "シベノール錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5643,
-    "other_brand": "シベノール静注70mg",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5645,
-    "other_brand": "シベンゾリンコハク酸塩錠50mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5646,
-    "other_brand": "シベンゾリンコハク酸塩錠50mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "心室頻拍（Torsades de Pointesを含む）、QT延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5812,
-    "other_brand": "シンビット静注用50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用により、Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5962,
-    "other_brand": "ジソピラミドリン酸塩徐放錠150mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5963,
-    "other_brand": "ジソピラミド徐放錠150mg「SW」",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5964,
-    "other_brand": "ジソピラミド徐放錠150mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6103,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6112,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16120,
-    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので接種しないこと。本剤投与中止後も薬力学的効果が持続するため、リンパ球数の回復が確認されるまでは接種を避けること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16121,
-    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので接種しないこと。本剤投与中止後も薬力学的効果が持続するため、リンパ球数の回復が確認されるまでは接種を避けること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を生じるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 453,
-    "other_brand": "アテノロール錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 454,
-    "other_brand": "アテノロール錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 456,
-    "other_brand": "アテノロール錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 458,
-    "other_brand": "アテノロール錠25mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8022,
-    "other_brand": "テノーミン錠50",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6820,
-    "other_brand": "ソタコール錠40mg",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6822,
-    "other_brand": "ソタロール塩酸塩錠40mg「TE」",
-    "interaction_type": "contraindicated",
-    "source_text": "QT延長を増強し、心室性頻拍（Torsade de pointesを含む）等を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10531,
-    "other_brand": "ビソノテープ2mg",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10534,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10535,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10536,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「テバ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10537,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10538,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10539,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10540,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10541,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10542,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10543,
-    "other_brand": "ビソプロロールフマル酸塩錠0.625mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11664,
-    "other_brand": "ブレビブロック注 100mg",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に併用すると重度の徐脈や心ブロックが認められることがあるので、注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12242,
-    "other_brand": "ヘルベッサー注射用250",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12241,
-    "other_brand": "ヘルベッサー注射用10",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12244,
-    "other_brand": "ヘルベッサー錠30",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12246,
-    "other_brand": "ヘルベッサーRカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12305,
-    "other_brand": "ベタキソロール塩酸塩錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に本剤を併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12306,
-    "other_brand": "ベタキソロール塩酸塩錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に本剤を併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12307,
-    "other_brand": "ベタキソロール塩酸塩錠5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に本剤を併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13561,
-    "other_brand": "メインテート錠0.625mg",
-    "interaction_type": "caution",
-    "source_text": "スフィンゴシン1-リン酸受容体調節剤の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13935,
-    "other_brand": "メーゼント錠0.25mg",
-    "interaction_type": "caution",
-    "source_text": "過剰な免疫系の抑制により、感染症などのリスクが増大するおそれがある。\nインターフェロンβ又はグラチラマー酢酸塩であれば、通常、これらの薬剤の投与中止直後に本剤の投与を開始してもよい。また、他の薬剤から本剤に切り替える場合は、他の薬剤の消失半減期及び作用機序を考慮すること。\n本剤の最終投与後3～4週間以内にこれらの薬剤を投与する場合も同様に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "併用によりTorsades de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14732,
-    "other_brand": "リスモダンR錠150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "Torsades de pointes等の重篤な不整脈を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   }
 ]

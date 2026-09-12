@@ -1,0 +1,10 @@
+[
+  {
+    "interaction_type": "contraindicated",
+    "source_text": "本剤の血中濃度が低下し、本剤の効果が減弱するおそれがある。"
+  },
+  {
+    "interaction_type": "caution",
+    "source_text": "QT延長、心室性頻拍（Torsade de Pointesを含む）が発現するおそれがある。"
+  }
+]

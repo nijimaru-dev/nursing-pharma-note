@@ -1,536 +1,358 @@
 [
   {
     "other_id": 48,
-    "other_brand": "つくしA・M配合散",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させないなど注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 606,
-    "other_brand": "アドソルビン原末",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させないなど注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 718,
-    "other_brand": "アマリール0.5mg錠",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1594,
-    "other_brand": "イソトレックスカプセル8mg",
-    "interaction_type": "caution",
-    "source_text": "本剤とこれらの薬剤を併用した患者で頭蓋内圧亢進症を発現したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2944,
-    "other_brand": "オイグルコン錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3780,
-    "other_brand": "カルタン錠250",
-    "interaction_type": "caution",
-    "source_text": "本剤のキレート作用により、相互に吸収が低下し、効果が減弱することがある。併用する場合には本剤服用後2時間以上間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3782,
-    "other_brand": "カルタン錠500",
-    "interaction_type": "caution",
-    "source_text": "本剤のキレート作用により、相互に吸収が低下し、効果が減弱することがある。併用する場合には本剤服用後2時間以上間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3784,
-    "other_brand": "カルタンOD錠500mg",
-    "interaction_type": "caution",
-    "source_text": "本剤のキレート作用により、相互に吸収が低下し、効果が減弱することがある。併用する場合には本剤服用後2時間以上間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3783,
-    "other_brand": "カルタンOD錠250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤のキレート作用により、相互に吸収が低下し、効果が減弱することがある。併用する場合には本剤服用後2時間以上間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4218,
-    "other_brand": "キャベジンUコーワ配合散",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの併用薬剤の効果を減弱させることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4832,
-    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4833,
-    "other_brand": "グリベンクラミド錠1.25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4834,
-    "other_brand": "グリベンクラミド錠1.25mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4835,
-    "other_brand": "グリベンクラミド錠1.25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4843,
-    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4846,
-    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4848,
-    "other_brand": "グリメピリド錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4849,
-    "other_brand": "グリメピリド錠0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4850,
-    "other_brand": "グリメピリド錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4851,
-    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4852,
-    "other_brand": "グリメピリド錠0.5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4853,
-    "other_brand": "グリメピリド錠0.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4854,
-    "other_brand": "グリメピリド錠0.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4855,
-    "other_brand": "グリメピリド錠0.5mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4856,
-    "other_brand": "グリメピリド錠0.5mg「AA」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4857,
-    "other_brand": "グリメピリド錠0.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4858,
-    "other_brand": "グリメピリド錠0.5mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4859,
-    "other_brand": "グリメピリド錠0.5mg「NC」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4860,
-    "other_brand": "グリメピリド錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4861,
-    "other_brand": "グリメピリド錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4862,
-    "other_brand": "グリメピリド錠0.5mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4863,
-    "other_brand": "グリメピリド錠0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4864,
-    "other_brand": "グリメピリド錠0.5mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4865,
-    "other_brand": "グリメピリド錠0.5mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4912,
-    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4913,
-    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4914,
-    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4943,
-    "other_brand": "グルファスト錠5mg",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4947,
-    "other_brand": "グルベス配合錠",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニター、その他患者の状態を十分に観察し、必要に応じて中止を考慮すること。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4948,
-    "other_brand": "グルベス配合OD錠",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニター、その他患者の状態を十分に観察し、必要に応じて中止を考慮すること。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6202,
-    "other_brand": "スターシス錠30mg",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9326,
-    "other_brand": "ナテグリニド錠30mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10919,
-    "other_brand": "ファスティック錠30",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11222,
-    "other_brand": "フェリセルツ散20%",
-    "interaction_type": "caution",
-    "source_text": "左記医薬品の作用が減弱するおそれがあるので、造影終了後3時間程度服用時間をあける等注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13033,
-    "other_brand": "ボースデル内用液10",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が減弱するおそれがあるので、造影終了後3時間程度服用時間をあける等注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13344,
-    "other_brand": "ミチグリニドCa・OD錠5mg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13345,
-    "other_brand": "ミチグリニドCa・OD錠5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13346,
-    "other_brand": "ミチグリニドCa・OD錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13347,
-    "other_brand": "ミチグリニドCa・OD錠5mg「SN」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13348,
-    "other_brand": "ミチグリニドCa・OD錠5mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状（空腹感、あくび、悪心、無気力、だるさ等の初期症状から血圧上昇、発汗、ふるえ、顔面蒼白等の症状を経て意識消失、けいれん、昏睡にいたる）、血糖降下作用が増強されることがあるので、血糖値モニターその他患者の状態を十分に観察し、必要であれば減量する。\n特に、インスリン製剤と併用する場合、低血糖のリスクが増加するおそれがある。併用時の低血糖のリスクを軽減するため、インスリン製剤の減量を検討すること。\nチアゾリジン系薬剤との併用時には、特に浮腫の発現に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "血漿プロトロンビン活性を抑制することがある。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "血漿プロトロンビン活性を抑制することがある。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "血漿プロトロンビン活性を抑制することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "血漿プロトロンビン活性を抑制することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5055,
-    "other_brand": "ケラチナミンコーワクリーム20％",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用が増強することがある。"
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16428,
-    "other_brand": "尿素「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16430,
-    "other_brand": "尿素クリーム10％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16432,
-    "other_brand": "尿素クリーム20％「SUN」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "other_id": 5055,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
-  },
-  {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
-  },
-  {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "メトトレキサートの作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13626,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13627,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13630,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10524,
-    "other_brand": "ビスダイン静注用15mg",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症を起こすおそれがある。直射日光、集中光等を避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16599,
-    "other_brand": "注射用レザフィリン100mg",
-    "interaction_type": "caution",
-    "source_text": "光線過敏症を起こすおそれがある。直射日光、集中光等を避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "本剤がジゴキシンの作用を増強し、中毒症状が発現することがある。併用時はジゴキシンの中毒症状に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "本剤がジゴキシンの作用を増強し、中毒症状が発現することがある。併用時はジゴキシンの中毒症状に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "本剤がジゴキシンの作用を増強し、中毒症状が発現することがある。併用時はジゴキシンの中毒症状に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "本剤がジゴキシンの作用を増強し、中毒症状が発現することがある。併用時はジゴキシンの中毒症状に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤がジゴキシンの作用を増強し、中毒症状が発現することがある。併用時はジゴキシンの中毒症状に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5537,
-    "other_brand": "ザーネ軟膏0.5%",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
-  },
-  {
-    "other_id": 7532,
-    "other_brand": "チガソンカプセル10",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7591,
-    "other_brand": "チョコラA筋注5万単位",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7532,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12269,
-    "other_brand": "ベサノイドカプセル10mg",
-    "interaction_type": "caution",
-    "source_text": "頭蓋内圧上昇があらわれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16562,
-    "other_brand": "沈降炭酸カルシウム錠250mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤のキレート作用により、相互に吸収が低下し、効果が減弱することがある。併用する場合には本剤服用後2時間以上間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16563,
-    "other_brand": "沈降炭酸カルシウム錠250mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤のキレート作用により、相互に吸収が低下し、効果が減弱することがある。併用する場合には本剤服用後2時間以上間隔をあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17674,
-    "other_brand": "KM散",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させないなど注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17694,
-    "other_brand": "M・M配合散",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させないなど注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17715,
-    "other_brand": "S・M配合散",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させないなど注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17728,
-    "other_brand": "YM散「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、これらの薬剤の効果が減弱することがあるので、同時に服用させないなど注意すること。この作用は薬剤の服用時間をずらすことにより弱まるとの報告がある。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,224 +1,150 @@
 [
   {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック、洞房ブロック等があらわれることがある。\n定期的に脈拍数を測定し、必要に応じて心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等があらわれることがある。\n定期的に心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等があらわれることがある。\n定期的に心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等があらわれることがある。\n定期的に心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等があらわれることがある。\n定期的に心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等があらわれることがある。\n定期的に心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等があらわれることがある。\n定期的に心電図検査を行い、異常が認められた場合には、両剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン、グアナベンズ投与中止後のリバウンド現象（急激な血圧上昇）が増強することがある。\nクロニジンを中止する場合は、あらかじめ本剤の投与中止等適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン、グアナベンズ投与中止後のリバウンド現象（急激な血圧上昇）が増強することがある。\nクロニジンを中止する場合は、あらかじめ本剤の投与中止等適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン、グアナベンズ投与中止後のリバウンド現象（急激な血圧上昇）が増強することがある。\nクロニジンを中止する場合は、あらかじめ本剤の投与中止等適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン、グアナベンズ投与中止後のリバウンド現象（急激な血圧上昇）が増強することがある。\nクロニジンを中止する場合は、あらかじめ本剤の投与中止等適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン、グアナベンズ投与中止後のリバウンド現象（急激な血圧上昇）が増強することがある。\nクロニジンを中止する場合は、あらかじめ本剤の投与中止等適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン、グアナベンズ投与中止後のリバウンド現象（急激な血圧上昇）が増強することがある。\nクロニジンを中止する場合は、あらかじめ本剤の投与中止等適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "クロニジン、グアナベンズ投与中止後のリバウンド現象（急激な血圧上昇）が増強することがある。\nクロニジンを中止する場合は、あらかじめ本剤の投与中止等適切な処置を行う。"
-  },
-  {
-    "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制（徐脈、低血圧等）があらわれることがある。\n臨床症状を観察し、異常が認められた場合には本剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制（徐脈、低血圧等）があらわれることがある。\n臨床症状を観察し、異常が認められた場合には本剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制（徐脈、低血圧等）があらわれることがある。\n臨床症状を観察し、異常が認められた場合には本剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制（徐脈、低血圧等）があらわれることがある。\n臨床症状を観察し、異常が認められた場合には本剤の減量若しくは投与を中止する。"
-  },
-  {
-    "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制（徐脈、低血圧等）があらわれることがある。\n臨床症状を観察し、異常が認められた場合には本剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制（徐脈、低血圧等）があらわれることがある。\n臨床症状を観察し、異常が認められた場合には本剤の減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "other_id": 1370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1371,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 767,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6155,
-    "other_brand": "ジレニアカプセル0.5mg",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "other_id": 1922,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11082,
-    "other_brand": "フィンゴリモドカプセル0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "フィンゴリモド塩酸塩の投与開始時に併用すると重度の徐脈や心ブロックが認められることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6155,
+    "interaction_type": "caution"
   }
 ]

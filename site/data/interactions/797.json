@@ -1,1172 +1,782 @@
 [
   {
     "other_id": 481,
-    "other_brand": "アデノシン負荷用静注60mgシリンジ「FRI」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤によりアデノシンによる冠血流速度の増加及び冠血管抵抗の減少を抑制し、虚血診断に影響を及ぼすことがある。アデノシン（アデノスキャン）を投与する場合は12時間以上の間隔をあけること。"
-  },
-  {
-    "other_id": 6025,
-    "other_brand": "ジプロフィリン注300mg「エーザイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6026,
-    "other_brand": "ジプロフィリン注300mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7700,
-    "other_brand": "ツムラの生薬マオウ",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8657,
-    "other_brand": "トチモトのマオウ",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9305,
-    "other_brand": "ナカジマ　マオウ",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12860,
-    "other_brand": "ホリエ　マオウK",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13166,
-    "other_brand": "マオウダイコーM",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16005,
-    "other_brand": "ヱフェドリン「ナガヰ」注射液40mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 16418,
-    "other_brand": "小島麻黄M",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 17165,
-    "other_brand": "花扇マオウK",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17472,
-    "other_brand": "高砂マオウM",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 16005,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6322,
-    "other_brand": "スピロペント錠10μg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 6025,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7896,
-    "other_brand": "ツロブテロールテープ0.5「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 6026,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7897,
-    "other_brand": "ツロブテロールテープ0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 17165,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7898,
-    "other_brand": "ツロブテロールテープ0.5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 8657,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7902,
-    "other_brand": "ツロブテロールテープ0.5mg「MED」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7956,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7903,
-    "other_brand": "ツロブテロールテープ0.5mg「QQ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7700,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7904,
-    "other_brand": "ツロブテロールテープ0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7960,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7932,
-    "other_brand": "ツロブテロール塩酸塩DS小児用0.1％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7961,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7962,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 9305,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7965,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12005,
-    "other_brand": "プロカテロール塩酸塩シロップ5μg/mL「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7966,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12006,
-    "other_brand": "プロカテロール塩酸塩シロップ5μg/mL「日新」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 16418,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12008,
-    "other_brand": "プロカテロール塩酸塩DS0.01%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 7971,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13166,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12860,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12685,
-    "other_brand": "ホクナリンテープ0.5mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12688,
-    "other_brand": "ホクナリン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "低カリウム血症、心・血管症状（頻脈、不整脈等）等のβ刺激剤の副作用症状を増強させることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7903,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7904,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12005,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12006,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12008,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6322,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7932,
+    "interaction_type": "caution"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 3113,
-    "other_brand": "オゼックス細粒小児用15%",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 3115,
-    "other_brand": "オゼックス錠75",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6050,
-    "other_brand": "ジャドニュ顆粒分包90mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6163,
-    "other_brand": "スオード錠100",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7542,
-    "other_brand": "チクロピジン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 7543,
-    "other_brand": "チクロピジン塩酸塩錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8306,
-    "other_brand": "デフェラシロクス顆粒分包90mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8475,
-    "other_brand": "トスフロキサシントシル酸塩小児用細粒15%「明治」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8476,
-    "other_brand": "トスフロキサシントシル酸塩細粒小児用15％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 8479,
-    "other_brand": "トスフロキサシントシル酸塩錠75mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9752,
-    "other_brand": "ノルフロキサシン点眼液0.3％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9753,
-    "other_brand": "ノルフロキサシン点眼液0.3%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9754,
-    "other_brand": "ノルフロキサシン点眼液0.3％「日新」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9755,
-    "other_brand": "ノルフロキサシン点眼液0.3%「杏林」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9756,
-    "other_brand": "ノルフロキサシン錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 9757,
-    "other_brand": "ノルフロキサシン錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 10139,
-    "other_brand": "パシル点滴静注液300mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 10157,
-    "other_brand": "パナルジン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12057,
-    "other_brand": "プロノン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12066,
-    "other_brand": "プロパフェノン塩酸塩錠100mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13564,
-    "other_brand": "メキシチールカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13566,
-    "other_brand": "メキシチール点滴静注125mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13567,
-    "other_brand": "メキシレチン塩酸塩カプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13571,
-    "other_brand": "メキシレチン塩酸塩錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13572,
-    "other_brand": "メキシレチン塩酸塩錠50mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 5637,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15111,
-    "other_brand": "ルリッド錠150",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 15556,
-    "other_brand": "ロキシスロマイシン錠150mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6163,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 767,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12057,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8475,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8476,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9752,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9753,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9754,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9755,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12066,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9756,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9757,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8479,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3113,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3115,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1371,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8306,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7542,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8311,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7543,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11393,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11394,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11402,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10139,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6050,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10157,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11483,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11484,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11485,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11488,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6116,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15094,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13564,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13566,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13567,
+    "interaction_type": "caution"
   },
   {
     "other_id": 156,
-    "other_brand": "アシクロビル軟膏5%「ラクール」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 157,
-    "other_brand": "アシクロビルシロップ8%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 158,
-    "other_brand": "アシクロビル内服ゼリー200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 159,
-    "other_brand": "アシクロビル内服ゼリー800mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 161,
-    "other_brand": "アシクロビル点滴静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 162,
-    "other_brand": "アシクロビル点滴静注液250mgバッグ100mL「アイロム」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 163,
-    "other_brand": "アシクロビル点滴静注用250mg「アイロム」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 164,
-    "other_brand": "アシクロビル点滴静注用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 170,
-    "other_brand": "アシクロビル錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 174,
-    "other_brand": "アシクロビル顆粒40％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 175,
-    "other_brand": "アシクロビル顆粒40％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 177,
-    "other_brand": "アシクロビルDS80％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 178,
-    "other_brand": "アシクロビルDS80%「NK」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1334,
-    "other_brand": "アロプリノール錠50mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1335,
-    "other_brand": "アロプリノール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1336,
-    "other_brand": "アロプリノール錠50mg「アメル」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1337,
-    "other_brand": "アロプリノール錠50mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1338,
-    "other_brand": "アロプリノール錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1339,
-    "other_brand": "アロプリノール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1340,
-    "other_brand": "アロプリノール錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1341,
-    "other_brand": "アロプリノール錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1344,
-    "other_brand": "アロプリノール錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1345,
-    "other_brand": "アロプリノール錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1346,
-    "other_brand": "アロプリノール錠50mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1348,
-    "other_brand": "アロプリノール錠50mg「NS」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 1351,
-    "other_brand": "アロプリノール錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6984,
-    "other_brand": "ゾビラックスクリーム5%",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6985,
-    "other_brand": "ゾビラックス点滴静注用250",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6988,
-    "other_brand": "ゾビラックス軟膏5%",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6989,
-    "other_brand": "ゾビラックス錠200",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 6991,
-    "other_brand": "ゾビラックス顆粒40%",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9939,
-    "other_brand": "バラシクロビル粒状錠500mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 170,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9940,
-    "other_brand": "バラシクロビル錠500mg「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 174,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9941,
-    "other_brand": "バラシクロビル錠500mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 175,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9943,
-    "other_brand": "バラシクロビル錠500mg「サトウ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 177,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9944,
-    "other_brand": "バラシクロビル錠500mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 178,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9945,
-    "other_brand": "バラシクロビル錠500mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 5556,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9947,
-    "other_brand": "バラシクロビル錠500mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9948,
-    "other_brand": "バラシクロビル錠500mg「日本臓器」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 5559,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9949,
-    "other_brand": "バラシクロビル錠500mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 1334,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9950,
-    "other_brand": "バラシクロビル錠500mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 1335,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9951,
-    "other_brand": "バラシクロビル錠500mg「EE」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 1336,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9952,
-    "other_brand": "バラシクロビル錠500mg「FFP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 1337,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9955,
-    "other_brand": "バラシクロビル錠500mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9956,
-    "other_brand": "バラシクロビル錠500mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 1338,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9957,
-    "other_brand": "バラシクロビル錠500mg「SPKK」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "other_id": 1339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1340,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1344,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1345,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1346,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1341,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1348,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1351,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6984,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10059,
-    "other_brand": "バルトレックス錠500",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6988,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6989,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10060,
-    "other_brand": "バルトレックス顆粒50%",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの中毒症状があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9939,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9940,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9941,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9943,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9945,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9948,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9949,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9950,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9951,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9952,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9955,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9956,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9957,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14574,
-    "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14578,
-    "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14579,
-    "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
-  },
-  {
-    "other_id": 14583,
-    "other_brand": "ランソプラゾールOD錠15mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリンの効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14583,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "テオフィリン及び相手薬の効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。また、相手薬の効果減弱や血中濃度の低下に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリン及び相手薬の効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。また、相手薬の効果減弱や血中濃度の低下に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリン及び相手薬の効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。また、相手薬の効果減弱や血中濃度の低下に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "テオフィリン及び相手薬の効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。また、相手薬の効果減弱や血中濃度の低下に注意すること。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリン及び相手薬の効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。また、相手薬の効果減弱や血中濃度の低下に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "テオフィリン及び相手薬の効果が減弱することがある。テオフィリン血中濃度が低下することがあるので、適切な処置を行うこと。また、相手薬の効果減弱や血中濃度の低下に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5984,
-    "other_brand": "ジピリダモール錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "ジピリダモールの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5987,
-    "other_brand": "ジピリダモール錠12.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "ジピリダモールの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5989,
-    "other_brand": "ジピリダモール錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "ジピリダモールの作用を減弱させることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14527,
-    "other_brand": "ラマトロバン錠50mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "ラマトロバンの血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   }
 ]

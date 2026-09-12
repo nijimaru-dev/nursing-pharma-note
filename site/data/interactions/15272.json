@@ -1,38 +1,26 @@
 [
   {
     "other_id": 1018,
-    "other_brand": "アラセナ−A点滴静注用300mg",
-    "interaction_type": "caution",
-    "source_text": "エラペグアデマーゼ（遺伝子組換え）がビダラビンの作用に影響を及ぼすおそれがある。"
-  },
-  {
-    "other_id": 1017,
-    "other_brand": "アラセナ−A軟膏3%",
-    "interaction_type": "caution",
-    "source_text": "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある。本剤との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 1027,
-    "other_brand": "アラノンジー静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある。本剤との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 10589,
-    "other_brand": "ビダラビン軟膏3%「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある。本剤との併用は避けることが望ましい。"
-  },
-  {
-    "other_id": 10591,
-    "other_brand": "ビダラビン軟膏3％「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある。本剤との併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10593,
-    "other_brand": "ビダラビン軟膏3％「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤がビダラビン、ネララビンの作用に影響を及ぼすおそれがある。本剤との併用は避けることが望ましい。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1027,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1017,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10589,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10591,
+    "interaction_type": "caution"
   }
 ]

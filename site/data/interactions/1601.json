@@ -1,50 +1,34 @@
 [
   {
     "other_id": 13670,
-    "other_brand": "メトグルコ錠250mg",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13703,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「三和」",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13705,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「明治」",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13707,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13708,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「DSPB」",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 13711,
-    "other_brand": "メトホルミン塩酸塩錠250mgMT「TE」",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "類薬で乳酸アシドーシスを起こしたとの報告があるので、異常が認められた場合には、ビグアナイド系糖尿病用剤の減量若しくは投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13711,
+    "interaction_type": "caution"
   }
 ]

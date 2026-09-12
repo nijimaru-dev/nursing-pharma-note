@@ -1,308 +1,206 @@
 [
   {
-    "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
+    "other_id": 6661,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "発汗、不穏、全身痙攣、異常高熱、昏睡等があらわれることがある。なお、モノアミン酸化酵素阻害剤の投与を受けた患者に本剤を投与する場合には、少なくとも2週間の間隔をおき、また本剤からモノアミン酸化酵素阻害剤に切りかえるときには、2～3日間の間隔をおくことが望ましい。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
+    "other_id": 253,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11579,
-    "other_brand": "ブチルスコポラミン臭化物注射液20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強さ\nれることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤がこれらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤がこれらの薬剤の作用を減弱することがある。"
-  },
-  {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "アドレナリン作動薬の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "アドレナリン作動薬の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "アドレナリン作動薬の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "アドレナリン作動薬の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "アドレナリン作動薬の作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "抗凝血作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6715,
-    "other_brand": "セレニカR顆粒40%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10082,
-    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10083,
-    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10084,
-    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10086,
-    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10088,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10089,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10092,
-    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10094,
-    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10095,
-    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6715,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   }
 ]

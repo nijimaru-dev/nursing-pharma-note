@@ -1,20 +1,14 @@
 [
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "モメタゾンフランカルボン酸エステルの血中濃度又はシクレソニドの活性代謝物である脱イソブチリル体の血中濃度が上昇し、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "モメタゾンフランカルボン酸エステルの血中濃度又はシクレソニドの活性代謝物である脱イソブチリル体の血中濃度が上昇し、副腎皮質ステロイド剤を全身投与した場合と同様の症状があらわれる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13406,
-    "other_brand": "ミニリンメルトOD錠25µg",
-    "interaction_type": "contraindicated",
-    "source_text": "低ナトリウム血症が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   }
 ]

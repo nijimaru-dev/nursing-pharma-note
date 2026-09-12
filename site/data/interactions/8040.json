@@ -1,254 +1,170 @@
 [
   {
     "other_id": 1594,
-    "other_brand": "イソトレックスカプセル8mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
-  },
-  {
-    "other_id": 5678,
-    "other_brand": "シルデナフィル錠25mgVI「ANG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5820,
-    "other_brand": "シーエルセントリ錠150mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7173,
-    "other_brand": "タダラフィル錠10mgCI「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7174,
-    "other_brand": "タダラフィル錠10mgCI「クラシエ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7175,
-    "other_brand": "タダラフィル錠10mgCI「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7176,
-    "other_brand": "タダラフィル錠10mgCI「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7178,
-    "other_brand": "タダラフィル錠10mgCI「GO」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7181,
-    "other_brand": "タダラフィル錠10mgCI「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7182,
-    "other_brand": "タダラフィル錠2.5mgZA「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7183,
-    "other_brand": "タダラフィル錠2.5mgZA「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7188,
-    "other_brand": "タダラフィル錠2.5mgZA「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7189,
-    "other_brand": "タダラフィル錠2.5mgZA「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7191,
-    "other_brand": "タダラフィル錠20mgAD「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7192,
-    "other_brand": "タダラフィル錠20mgAD「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7197,
-    "other_brand": "タダラフィル錠20mgCI「あすか」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7202,
-    "other_brand": "タダラフィル錠20mgCI「GO」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 7205,
-    "other_brand": "タダラフィル錠20mgCI「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14619,
-    "other_brand": "リカムビス水懸筋注600mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7197,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13342,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13343,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7202,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7205,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11569,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5820,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15264,
-    "other_brand": "レパグリニド錠0.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "レパグリニドの血漿中濃度が上昇する可能性があるため、併用する場合は、低血糖症状等の副作用の発現に十分に注意すること。"
-  },
-  {
-    "other_id": 3224,
-    "other_brand": "オメプラゾール錠10「SW」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 3225,
-    "other_brand": "オメプラゾール錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 3226,
-    "other_brand": "オメプラゾール錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
-  },
-  {
-    "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "other_id": 3225,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "other_id": 3224,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3226,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11562,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11563,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11565,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14574,
-    "other_brand": "ランソプラゾールカプセル15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12973,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12976,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14578,
-    "other_brand": "ランソプラゾールOD錠15mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14579,
-    "other_brand": "ランソプラゾールOD錠15mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12978,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14583,
-    "other_brand": "ランソプラゾールOD錠15mg「DK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがあることから、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12987,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16126,
-    "other_brand": "乾燥細胞培養痘そうワクチンLC16「KMB」",
-    "interaction_type": "caution",
-    "source_text": "乾燥細胞培養痘そうワクチンの効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

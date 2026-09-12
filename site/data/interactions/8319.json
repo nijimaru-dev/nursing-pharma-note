@@ -1,26 +1,18 @@
 [
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15516,
-    "other_brand": "レラキシン注用200mg",
-    "interaction_type": "caution",
-    "source_text": "神経筋遮断作用が増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "神経筋遮断作用が増強する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "神経筋遮断作用が増強する可能性がある。"
+    "interaction_type": "caution"
   }
 ]

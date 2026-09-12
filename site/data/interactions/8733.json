@@ -1,62 +1,42 @@
 [
   {
     "other_id": 8896,
-    "other_brand": "トロンビン液モチダ ソフトボトル5千",
-    "interaction_type": "contraindicated",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
-  },
-  {
-    "other_id": 8898,
-    "other_brand": "トロンビン経口・外用剤5千「F」",
-    "interaction_type": "contraindicated",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17025,
-    "other_brand": "経口用トロンビン細粒0.5万単位「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 8898,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 17026,
-    "other_brand": "経口用トロンビン細粒5千単位",
-    "interaction_type": "contraindicated",
-    "source_text": "血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "大量併用により血栓形成傾向があらわれるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "大量併用により血栓形成傾向があらわれるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "大量併用により血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "大量併用により血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15277,
-    "other_brand": "レプチラーゼ注1単位",
-    "interaction_type": "caution",
-    "source_text": "大量併用により血栓形成傾向があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8305,
-    "other_brand": "デフィブラーゼ点滴静注液10単位",
-    "interaction_type": "caution",
-    "source_text": "血栓・塞栓症を起こすおそれがある。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,242 +1,162 @@
 [
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な肝障害があらわれることがある。"
-  },
-  {
-    "other_id": 1529,
-    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
-  },
-  {
-    "other_id": 1531,
-    "other_brand": "イグザレルト細粒分包10mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
-  },
-  {
-    "other_id": 1533,
-    "other_brand": "イグザレルト錠10mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
-  },
-  {
-    "other_id": 1535,
-    "other_brand": "イグザレルト錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1536,
-    "other_brand": "イグザレルトOD錠10mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
-  },
-  {
-    "other_id": 2823,
-    "other_brand": "エリキュース錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
-  },
-  {
-    "other_id": 14906,
-    "other_brand": "リバーロキサバン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
-  },
-  {
-    "other_id": 14907,
-    "other_brand": "リバーロキサバン錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
-  },
-  {
-    "other_id": 14910,
-    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14913,
-    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14914,
-    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2823,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14907,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1529,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14906,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1531,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1533,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14910,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1535,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強し、中毒症状が発現することがある。また、カルバマゼピンでは本剤の肝毒性が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強し、中毒症状が発現することがある。また、カルバマゼピンでは本剤の肝毒性が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強し、中毒症状が発現することがある。また、カルバマゼピンでは本剤の肝毒性が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強し、中毒症状が発現することがある。また、カルバマゼピンでは本剤の肝毒性が増強されることがある。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強し、中毒症状が発現することがある。また、カルバマゼピンでは本剤の肝毒性が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの作用を増強し、中毒症状が発現することがある。また、カルバマゼピンでは本剤の肝毒性が増強されることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5325,
-    "other_brand": "サイクロセリンカプセル250mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の中枢神経系の副作用を増強するとの報告がある。"
-  },
-  {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの作用が減弱することがある。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの作用が減弱することがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの作用が減弱することがある。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
+    "other_id": 5448,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "イトラコナゾールの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9097,
-    "other_brand": "ドパストンカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9099,
-    "other_brand": "ドパストン静注25mg",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9101,
-    "other_brand": "ドパゾール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "レボドパの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 12543,
-    "other_brand": "ペチジン塩酸塩注射液35mg「タケダ」",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、昏睡、痙攣等があらわれるおそれがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、昏睡、痙攣等があらわれるおそれがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "呼吸抑制、低血圧、昏睡、痙攣等があらわれるおそれがある。併用する場合には、定期的に臨床症状を観察し、用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12543,
+    "interaction_type": "caution"
   }
 ]

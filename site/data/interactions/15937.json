@@ -1,164 +1,110 @@
 [
   {
-    "other_id": 2596,
-    "other_brand": "エヌケーエスワン配合カプセルT20",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 3710,
-    "other_brand": "カペシタビン錠300mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 3711,
-    "other_brand": "カペシタビン錠300mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
     "other_id": 3713,
-    "other_brand": "カペシタビン錠300mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3714,
-    "other_brand": "カペシタビン錠300mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3716,
-    "other_brand": "カペシタビン錠300mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 6809,
-    "other_brand": "ゼローダ錠300",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "other_id": 2596,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11462,
-    "other_brand": "フルツロンカプセル200",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17546,
-    "other_brand": "5−FU注250mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17548,
-    "other_brand": "5−FU軟膏5%協和",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6809,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3710,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3711,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1372,
-    "other_brand": "アンコチル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11307,
-    "other_brand": "フォリアミン錠",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11308,
-    "other_brand": "フォリアミン注射液",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 13626,
-    "other_brand": "メソトレキセート注射液50mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 13627,
-    "other_brand": "メソトレキセート注射液5mg/2mL",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 13628,
-    "other_brand": "メソトレキセート点滴静注液200mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 13630,
-    "other_brand": "メソトレキセート錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13681,
-    "other_brand": "メトトレキサートカプセル2mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13685,
-    "other_brand": "メトトレキサート錠2mg「あゆみ」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
-  },
-  {
-    "other_id": 13687,
-    "other_brand": "メトトレキサート錠2mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14613,
-    "other_brand": "リウマトレックスカプセル2mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13687,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16597,
-    "other_brand": "注射用メソトレキセート50mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16598,
-    "other_brand": "注射用メソトレキセート5mg",
-    "interaction_type": "caution",
-    "source_text": "重篤な骨髄抑制等の副作用が発現するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13626,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13627,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13630,
+    "interaction_type": "caution"
   }
 ]

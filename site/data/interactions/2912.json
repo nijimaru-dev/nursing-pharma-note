@@ -1,980 +1,654 @@
 [
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数増加、不整脈、血圧変動があらわれるおそれがある。吸入を含めて投与経路にかかわらず注意すること。"
-  },
-  {
     "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数増加、不整脈、血圧変動があらわれるおそれがある。吸入を含めて投与経路にかかわらず注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数増加、不整脈、血圧変動があらわれるおそれがある。吸入を含めて投与経路にかかわらず注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "心拍数増加、不整脈、血圧変動があらわれるおそれがある。吸入を含めて投与経路にかかわらず注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数増加、不整脈、血圧変動があらわれるおそれがある。吸入を含めて投与経路にかかわらず注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 102,
-    "other_brand": "アクチット輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 103,
-    "other_brand": "アクチット輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 792,
-    "other_brand": "アミニック輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 802,
-    "other_brand": "アミノレバンEN配合散",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 807,
-    "other_brand": "アミユー配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 1291,
-    "other_brand": "アレルゲンスクラッチエキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 1667,
-    "other_brand": "イノソリッド配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 1674,
-    "other_brand": "イノラス配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 1783,
-    "other_brand": "イムフレックスCPD-MAP",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 2259,
-    "other_brand": "エクストラニール腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 2606,
-    "other_brand": "エネーボ配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 2895,
-    "other_brand": "エレメンミック注",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 2896,
-    "other_brand": "エレンタール配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 2897,
-    "other_brand": "エレンタールP乳幼児用配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 2901,
-    "other_brand": "エンシュア・リキッド",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 2902,
-    "other_brand": "エンシュア・H",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4056,
-    "other_brand": "カーボスター透析剤・L（6L）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4058,
-    "other_brand": "カーボスター透析剤・M",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4059,
-    "other_brand": "カーボスター透析剤・P（袋）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4065,
-    "other_brand": "カーミパック生理食塩液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4069,
-    "other_brand": "カーミパック生理食塩液L",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4072,
-    "other_brand": "カーミパックACD−A液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4073,
-    "other_brand": "カーミC リューコトラップ MAP",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4074,
-    "other_brand": "カーミCA液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4254,
-    "other_brand": "キンダリー透析剤5E",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4267,
-    "other_brand": "キンダリー透析剤AF5号(6L)",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4269,
-    "other_brand": "キンダリー透析剤AF5P号",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 4487,
-    "other_brand": "クリニザルツ輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 5362,
-    "other_brand": "サブパック血液ろ過用補充液−Bi",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 5403,
-    "other_brand": "サルプレップ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 5623,
-    "other_brand": "シダキュアスギ花粉舌下錠2,000JAU",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6190,
-    "other_brand": "スクラッチダニアレルゲンエキス「トリイ」100,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6204,
-    "other_brand": "スチックゼノールA",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6448,
-    "other_brand": "セパセルインテグラC−MAP",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6449,
-    "other_brand": "セパセルインテグラCA",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6852,
-    "other_brand": "ソリタ−T配合顆粒2号",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6853,
-    "other_brand": "ソリタ−T配合顆粒3号",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6854,
-    "other_brand": "ソリタ−T1号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6856,
-    "other_brand": "ソリタ−T2号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6858,
-    "other_brand": "ソリタ−T3号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6860,
-    "other_brand": "ソリタ−T3号G輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6862,
-    "other_brand": "ソリタ−T4号輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6864,
-    "other_brand": "ソリタックス−H輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 6915,
-    "other_brand": "ソルバノン",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 7352,
-    "other_brand": "ダイアニール-N PD-2　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 7370,
-    "other_brand": "ダイアニール-N PD-4　1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 7388,
-    "other_brand": "ダイアニールPD-2　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 7391,
-    "other_brand": "ダイアニールPD-4　4.25腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 7614,
-    "other_brand": "ツインパル輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 7616,
-    "other_brand": "ツインラインNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 8204,
-    "other_brand": "テルモ血液バッグCPDA／テルモ血液バッグCPDA　メスコネクター付き（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 8206,
-    "other_brand": "テルモ血液バッグMAP液（200mL採血用）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 8879,
-    "other_brand": "トレーランG液50g",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 9436,
-    "other_brand": "ニコペリック腹膜透析液（1500mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 9601,
-    "other_brand": "ネオアミユー輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 9844,
-    "other_brand": "ハルトマン−G3号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 9851,
-    "other_brand": "ハルトマンD液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 9898,
-    "other_brand": "バイフィル透析剤",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 10153,
-    "other_brand": "パッチテスト試薬 ウルシオール0.002%",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 10154,
-    "other_brand": "パッチテスト試薬金属 塩化アルミニウム2%",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 10194,
-    "other_brand": "パレセーフ輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 10195,
-    "other_brand": "パレプラス輸液（500mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 10500,
-    "other_brand": "ビカーボン輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 2744,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10760,
-    "other_brand": "ピシバニール注射用1KE",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 10905,
-    "other_brand": "ピーエヌツイン−1号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 8204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11855,
-    "other_brand": "プリミーフォート経腸用液6",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 12013,
-    "other_brand": "プロクトセディル軟膏",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 12219,
-    "other_brand": "ヘパンED配合内用剤",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 12605,
-    "other_brand": "ペリセート360N腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 12613,
-    "other_brand": "ペリセート360NL腹膜透析液（1L1袋）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 13012,
-    "other_brand": "ボルヒール組織接着用（0.5mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 13292,
-    "other_brand": "ミオテクター冠血管注",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 13356,
-    "other_brand": "ミッドペリック135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 13369,
-    "other_brand": "ミッドペリックL135腹膜透析液1L",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 13390,
-    "other_brand": "ミティキュアダニ舌下錠3,300JAU",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 13895,
-    "other_brand": "メルスモン",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14019,
-    "other_brand": "モリアミンS注",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14020,
-    "other_brand": "モリプロンF輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14192,
-    "other_brand": "ユエキンキープ3号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14295,
-    "other_brand": "ラエンネック",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14312,
-    "other_brand": "ラクトリンゲル液′′フソー′′",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14319,
-    "other_brand": "ラクトリンゲルS注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 8206,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14365,
-    "other_brand": "ラコールNF配合経腸用半固形剤",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14366,
-    "other_brand": "ラコールNF配合経腸用液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14824,
-    "other_brand": "リナセートD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 13356,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14826,
-    "other_brand": "リナセートF輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 2606,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 14840,
-    "other_brand": "リハビックス−K1号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14947,
-    "other_brand": "リプラス1号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 14950,
-    "other_brand": "リプラス3号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 15014,
-    "other_brand": "リンゲル液「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 15046,
-    "other_brand": "リンパック透析剤TA1",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 15047,
-    "other_brand": "リンパック透析剤TA3",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 15048,
-    "other_brand": "リンパック透析剤TA5",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 15138,
-    "other_brand": "レギュニール HCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 15150,
-    "other_brand": "レギュニール LCa 1.5腹膜透析液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 15997,
-    "other_brand": "ワンパル1号輸液（800mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16012,
-    "other_brand": "ヴィーン3G輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16013,
-    "other_brand": "ヴィーン3G輸液（200mLバッグ）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16015,
-    "other_brand": "ヴィーンD輸液（200mL）",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16016,
-    "other_brand": "ヴィーンD輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16018,
-    "other_brand": "ヴィーンF輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16098,
-    "other_brand": "乳糖水和物「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16567,
-    "other_brand": "治療用アレルゲンエキス希釈液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16572,
-    "other_brand": "治療用ダニアレルゲンエキス皮下注「トリイ」1,000JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 16575,
-    "other_brand": "治療用標準化アレルゲンエキス皮下注「トリイ」スギ花粉200JAU/mL",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 6190,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16948,
-    "other_brand": "白色ワセリン",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17210,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カモガヤ花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 13369,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17211,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」犬毛",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 6204,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17212,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」兎毛",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 13895,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17213,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ニンジン",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 13390,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17214,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」トマト",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 11855,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17215,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」カナムグラ花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 14947,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17216,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アルテルナリア",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 102,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17217,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」チモシー花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 103,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17218,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アキノキリン草花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17219,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ダニ",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17220,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アサリ",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17221,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」牛乳",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17222,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ブタクサ花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17223,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヒメガマ花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17224,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」エダマメ",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17225,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」小麦粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17226,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」猫毛",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17227,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」アスペルギルス",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17228,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」スギ花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17229,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ヨモギ花粉",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17230,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」卵黄",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17231,
-    "other_brand": "アレルゲンスクラッチエキス「トリイ」ジャガイモ",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17232,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」エダマメ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17233,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カナムグラ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17234,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」カモガヤ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17235,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」クリ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17236,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」スギ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17237,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ススキ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17238,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」トウモロコシ1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17239,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ヒメガマ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17240,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」ブタクサ花粉1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17241,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」大麦1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17242,
-    "other_brand": "診断用アレルゲン皮内エキス「トリイ」米1:1,000",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
-  },
-  {
-    "other_id": 17243,
-    "other_brand": "診断用アレルゲン皮内エキス対照液「トリイ」",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 14950,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17523,
-    "other_brand": "10%EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9844,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9851,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15997,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1667,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1674,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16015,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16016,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16018,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10905,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4254,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15014,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9898,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4267,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4269,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8879,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17584,
-    "other_brand": "ACD-A液 250mL",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17585,
-    "other_brand": "AK−ソリタ透析剤・DL",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17586,
-    "other_brand": "AK−ソリタ透析剤・DP",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17587,
-    "other_brand": "AK−ソリタ透析剤・FL",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17588,
-    "other_brand": "AK−ソリタ透析剤・FP",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16567,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7352,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16575,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17602,
-    "other_brand": "Dドライ透析剤2.5S",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17603,
-    "other_brand": "Dドライ透析剤2.75S",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 14019,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 17604,
-    "other_brand": "Dドライ透析剤3.0S",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "other_id": 6852,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6853,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6854,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14020,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6856,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15046,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6858,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7370,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6860,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15047,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6862,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15048,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6864,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17614,
-    "other_brand": "EL−3号輸液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17618,
-    "other_brand": "ESポリタミン配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2259,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13012,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7388,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9436,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17631,
-    "other_brand": "JMS ACD-A液",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17632,
-    "other_brand": "JMS LRフィルタバッグ CPD-MAP 400",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16098,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12013,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5362,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1783,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6915,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10500,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 802,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15138,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 807,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15150,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6449,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17718,
-    "other_brand": "T&Tオルファクトメーター",
-    "interaction_type": "caution",
-    "source_text": "血圧上昇等を起こすおそれがある。本剤とセレギリンとの相互作用は認められていないが、本剤とセレギリンを併用する場合は、セレギリンの1日量は10mgを超えないこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17210,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17211,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17212,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12605,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17213,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17214,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17215,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17216,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17217,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12613,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17220,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17224,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17225,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17226,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17227,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17228,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2895,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2896,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2897,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17229,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17230,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17231,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2901,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2902,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17232,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17233,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17234,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17235,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17236,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17239,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17240,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17241,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17242,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17243,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14192,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9601,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4487,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10153,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10154,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12219,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7614,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7616,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10194,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10195,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14295,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4056,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4058,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4059,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4065,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4069,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4072,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4073,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4074,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14312,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14824,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14826,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14319,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17603,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5623,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14840,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17604,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1568,
-    "other_brand": "イストラデフィリン錠20mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジアの発現頻度の上昇が認められた。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1569,
-    "other_brand": "イストラデフィリン錠20mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジアの発現頻度の上昇が認められた。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1571,
-    "other_brand": "イストラデフィリンOD錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジアの発現頻度の上昇が認められた。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9697,
-    "other_brand": "ノウリアスト錠20mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジアの発現頻度の上昇が認められた。"
+    "interaction_type": "caution"
   }
 ]

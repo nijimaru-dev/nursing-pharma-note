@@ -28,12 +28,13 @@ formulary.txt を渡すと、院内処方リストに載っている薬剤名（
 """
 
 import argparse
+import re
 import sqlite3
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from drug_alias import interaction_text_mentions
+from drug_alias import expand_aliases
 
 
 # ---------------------------------------------------------------------------
@@ -320,18 +321,24 @@ CREATE TABLE IF NOT EXISTS drug_interaction (
     FOREIGN KEY(drug_master_id) REFERENCES drug_master(id)
 );
 
+-- 【2026-09-12改称】旧称drug_a_id/drug_b_idから min_id/max_id に改称。
+-- 突合ロジック側は元々 sorted() で常に小さいidをa、大きいidをbに入れており、
+-- 実質min/max運用だったため、その不変条件をスキーマ上でも明示・強制する
+-- （CHECKで min_id < max_id を保証し、「同じペアをA視点・B視点の2通りで
+-- 持ててしまう」余地自体を無くす）。既存DBの移行はmigrate_pair_interaction_schema参照。
 CREATE TABLE IF NOT EXISTS drug_pair_interaction (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    drug_a_id INTEGER NOT NULL,
-    drug_b_id INTEGER NOT NULL,
+    min_id INTEGER NOT NULL,
+    max_id INTEGER NOT NULL,
     interaction_type TEXT CHECK(interaction_type IN ('contraindicated', 'caution')),
     source_text TEXT,
-    FOREIGN KEY(drug_a_id) REFERENCES drug_master(id),
-    FOREIGN KEY(drug_b_id) REFERENCES drug_master(id)
+    CHECK(min_id < max_id),
+    FOREIGN KEY(min_id) REFERENCES drug_master(id),
+    FOREIGN KEY(max_id) REFERENCES drug_master(id)
 );
 
-CREATE INDEX IF NOT EXISTS idx_pair_a ON drug_pair_interaction(drug_a_id);
-CREATE INDEX IF NOT EXISTS idx_pair_b ON drug_pair_interaction(drug_b_id);
+CREATE INDEX IF NOT EXISTS idx_pair_min ON drug_pair_interaction(min_id);
+CREATE INDEX IF NOT EXISTS idx_pair_max ON drug_pair_interaction(max_id);
 CREATE INDEX IF NOT EXISTS idx_drug_master_brand ON drug_master(brand_name);
 CREATE INDEX IF NOT EXISTS idx_drug_master_generic ON drug_master(generic_name);
 CREATE INDEX IF NOT EXISTS idx_interaction_drug ON drug_interaction(drug_master_id);
@@ -346,6 +353,61 @@ def ensure_column(conn, table, column, coltype="TEXT"):
     cols = {row[1] for row in conn.execute(f"PRAGMA table_info({table})").fetchall()}
     if column not in cols:
         conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {coltype}")
+
+
+def migrate_pair_interaction_schema(conn):
+    """
+    2026-09-12：drug_pair_interactionの列名をdrug_a_id/drug_b_idから
+    min_id/max_idへ改称するマイグレーション。
+
+    元々auto_match_pair_interactions()はsorted()で常に小さいidをa、
+    大きいidをbに入れており（＝同じペアをA視点・B視点の2通りで持つことは
+    DBレベルでは元から無かった）、実質min/max運用だった。それをスキーマ上でも
+    明示するための改称であり、データの意味自体は変わらない。
+
+    SQLiteはCHECK制約を既存テーブルへ後から追加できないため、新しいテーブルを
+    作ってデータをコピーし、入れ替える方式を取る。既に新スキーマ（min_id列が
+    存在）なら何もしない（何度呼んでも安全＝冪等）。
+    """
+    cols = {row[1] for row in conn.execute("PRAGMA table_info(drug_pair_interaction)").fetchall()}
+    if not cols or "min_id" in cols:
+        return
+    if "drug_a_id" not in cols:
+        # 想定外のスキーマ。安全側に倒して何もしない。
+        return
+
+    conn.execute(
+        """
+        CREATE TABLE drug_pair_interaction_new (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            min_id INTEGER NOT NULL,
+            max_id INTEGER NOT NULL,
+            interaction_type TEXT CHECK(interaction_type IN ('contraindicated', 'caution')),
+            source_text TEXT,
+            CHECK(min_id < max_id),
+            FOREIGN KEY(min_id) REFERENCES drug_master(id),
+            FOREIGN KEY(max_id) REFERENCES drug_master(id)
+        )
+        """
+    )
+    conn.execute(
+        """
+        INSERT INTO drug_pair_interaction_new (id, min_id, max_id, interaction_type, source_text)
+        SELECT id, MIN(drug_a_id, drug_b_id), MAX(drug_a_id, drug_b_id), interaction_type, source_text
+        FROM drug_pair_interaction
+        """
+    )
+    conn.execute("DROP TABLE drug_pair_interaction")
+    conn.execute("ALTER TABLE drug_pair_interaction_new RENAME TO drug_pair_interaction")
+    conn.execute("DROP INDEX IF EXISTS idx_pair_a")
+    conn.execute("DROP INDEX IF EXISTS idx_pair_b")
+    conn.execute("CREATE INDEX IF NOT EXISTS idx_pair_min ON drug_pair_interaction(min_id)")
+    conn.execute("CREATE INDEX IF NOT EXISTS idx_pair_max ON drug_pair_interaction(max_id)")
+    conn.commit()
+    print(
+        "[移行] drug_pair_interactionをdrug_a_id/drug_b_id -> min_id/max_id形式へ変換しました",
+        file=sys.stderr,
+    )
 
 
 def load_formulary(path: Path):
@@ -455,6 +517,61 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
     print(f"自動突合した相互作用ペア: {matched} 件")
 
 
+def _build_alias_lookup(drugs):
+    """
+    全薬剤の一般名・商品名・drug_alias.pyのエイリアス展開結果を集約し、
+    「候補文字列 -> それを名乗りうる薬剤idの集合」の辞書と、
+    それら候補文字列すべてを1本にまとめた事前コンパイル済み正規表現を作る。
+
+    drugsは (id, brand_name, generic_name) のタプルのリスト。
+    候補文字列が1つも無い場合はpatternにNoneを返す。
+    """
+    name_to_drug_ids = {}
+    for drug_id, brand_name, generic_name in drugs:
+        candidates = expand_aliases(generic_name)
+        if brand_name:
+            candidates |= expand_aliases(brand_name)
+        for name in candidates:
+            if not name:
+                continue
+            name_to_drug_ids.setdefault(name, set()).add(drug_id)
+
+    if not name_to_drug_ids:
+        return None, name_to_drug_ids
+
+    # 【重要】候補文字列どうしが「同じ開始位置」で競合するケースへの対処。
+    # 例：「フェキソフェナジン塩酸塩」（単剤）と「フェキソフェナジン塩酸塩・塩酸
+    # プソイドエフェドリン」（合剤）は本文中で同じ文字位置から始まりうる。
+    # 正規表現の選択（|）は最初にマッチした選択肢しか採用しないため、単純に
+    # 「1文字ずつ位置をずらして毎回1つだけ拾う」実装だと、同じ開始位置にある
+    # 短い候補（単剤側）が長い候補（合剤側）に完全に隠れて検出漏れになる。
+    # テキスト中の同じ開始位置に2つの候補文字列が両方とも一致しうるのは、
+    # 数学的に「短い方が長い方の接頭辞である場合」に限られる。そこで、
+    # 各候補文字列について「それ自身も候補集合に含まれる真の接頭辞」を
+    # あらかじめ全列挙しておき、長い候補がマッチした時点で、接頭辞側の
+    # 薬剤idもまとめて拾えるようにする。
+    prefix_drug_ids = {}
+    for name in name_to_drug_ids:
+        extra = set()
+        for k in range(1, len(name)):
+            prefix = name[:k]
+            if prefix in name_to_drug_ids:
+                extra |= name_to_drug_ids[prefix]
+        if extra:
+            prefix_drug_ids[name] = extra
+
+    # 長い候補文字列を先に試すことで、同じ開始位置で複数の候補が一致しうる
+    # ときに、より長い（＝より具体的な）候補を正規表現に拾わせる。
+    # 短い候補（接頭辞）側の薬剤idはprefix_drug_idsで別途補完する。
+    ordered_names = sorted(name_to_drug_ids.keys(), key=len, reverse=True)
+    alternation = "|".join(re.escape(name) for name in ordered_names)
+    # ゼロ幅の先読みにすることで、マッチした文字列の内側の別位置から始まる
+    # 別候補（例：合剤名の途中から始まる他の薬剤名）も取りこぼさずに検出できる
+    # ようにする（finditerは1文字ずつ開始位置をずらしながら全位置を走査する）。
+    pattern = re.compile(f"(?=({alternation}))")
+    return pattern, name_to_drug_ids, prefix_drug_ids
+
+
 def auto_match_pair_interactions(conn):
     """
     drug_interaction（各薬が持つ「相手薬剤名・分類名」のテキスト）を、
@@ -465,6 +582,15 @@ def auto_match_pair_interactions(conn):
     薬効分類名表記（例:「ジギタリス製剤」）は drug_alias.ALIAS_MAP で
     代表的な一般名に展開してから照合する。
 
+    【2026-09-12修正】以前は「相互作用記載1件 × 全薬剤」の二重ループで、
+    薬剤ごとに毎回 interaction_text_mentions() を呼んでいたため、
+    薬剤数×相互作用記載数（数万×1万＝数億回）の文字列検索が発生し重かった。
+    全薬剤の候補文字列（一般名・商品名・エイリアス展開結果）を事前に1つの
+    正規表現へコンパイルしておき（_build_alias_lookup）、相互作用記載1件につき
+    その正規表現を1回走らせるだけで該当する全薬剤idを取得する方式に変更した。
+    突合結果（drug_pair_interactionの内容）は変更前と同一になることを、
+    既存データでの再実行・件数比較で確認済み。
+
     【2026-09-11修正】drug_pair_interaction.source_text には、突合に使った
     drug_name_or_class（相手薬剤名・分類名の表記そのもの）ではなく、
     clinical_symptom_action（臨床症状・措置方法＝「なぜ危険か」の説明文）を
@@ -472,6 +598,8 @@ def auto_match_pair_interactions(conn):
     「利尿剤カリウム排泄型利尿剤...等」のような分類名の羅列だけが表示され、
     肝心の危険性の説明文が表示されない不具合があった。
     """
+    migrate_pair_interaction_schema(conn)
+
     cur = conn.cursor()
     cur.execute("DELETE FROM drug_pair_interaction")
 
@@ -484,26 +612,40 @@ def auto_match_pair_interactions(conn):
            FROM drug_interaction"""
     ).fetchall()
 
+    pattern, name_to_drug_ids, prefix_drug_ids = _build_alias_lookup(drugs)
+
     matched = 0
+    if pattern is None:
+        return matched
+
     seen_pairs = set()
 
     for owner_id, itype, mention_text, clinical_text in interactions:
-        for other_id, other_brand, other_generic in drugs:
-            if other_id == owner_id:
+        text = (mention_text or "").strip()
+        if not text:
+            continue
+
+        other_ids = set()
+        for m in pattern.finditer(text):
+            matched_name = m.group(1)
+            other_ids |= name_to_drug_ids.get(matched_name, set())
+            # 同じ開始位置にある、より短い接頭辞候補（例：合剤名の中の単剤名）を補完する。
+            other_ids |= prefix_drug_ids.get(matched_name, set())
+        other_ids.discard(owner_id)
+
+        for other_id in other_ids:
+            pair_key = tuple(sorted((owner_id, other_id))) + (itype,)
+            if pair_key in seen_pairs:
                 continue
-            if interaction_text_mentions(mention_text, other_generic, other_brand):
-                pair_key = tuple(sorted((owner_id, other_id))) + (itype,)
-                if pair_key in seen_pairs:
-                    continue
-                seen_pairs.add(pair_key)
-                a_id, b_id = sorted((owner_id, other_id))
-                cur.execute(
-                    """INSERT INTO drug_pair_interaction
-                       (drug_a_id, drug_b_id, interaction_type, source_text)
-                       VALUES (?, ?, ?, ?)""",
-                    (a_id, b_id, itype, clinical_text or mention_text),
-                )
-                matched += 1
+            seen_pairs.add(pair_key)
+            min_id, max_id = sorted((owner_id, other_id))
+            cur.execute(
+                """INSERT INTO drug_pair_interaction
+                   (min_id, max_id, interaction_type, source_text)
+                   VALUES (?, ?, ?, ?)""",
+                (min_id, max_id, itype, clinical_text or mention_text),
+            )
+            matched += 1
     return matched
 
 

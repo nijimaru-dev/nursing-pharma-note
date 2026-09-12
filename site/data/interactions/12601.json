@@ -1,92 +1,62 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "other_id": 16688,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "相互に作用を増強することがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が持続、増強されるおそれがある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が持続、増強されるおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が持続、増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2269,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 253,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が持続、増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が持続、増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 585,
-    "other_brand": "アトロピン注0.05%シリンジ「テルモ」",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 586,
-    "other_brand": "アトロピン硫酸塩水和物「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11579,
-    "other_brand": "ブチルスコポラミン臭化物注射液20mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "抗コリン作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

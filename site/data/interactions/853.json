@@ -1,236 +1,158 @@
 [
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "エリスロマイシン及びジルチアゼムとの併用により、本剤の血中濃度が上昇したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5793,
-    "other_brand": "シンバスタチン錠10mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "シンバスタチン80mg（国内未承認の高用量）との併用により、シンバスタチンのAUCが77%上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5795,
-    "other_brand": "シンバスタチン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "シンバスタチン80mg（国内未承認の高用量）との併用により、シンバスタチンのAUCが77%上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5797,
-    "other_brand": "シンバスタチン錠5mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "シンバスタチン80mg（国内未承認の高用量）との併用により、シンバスタチンのAUCが77%上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5798,
-    "other_brand": "シンバスタチン錠5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "シンバスタチン80mg（国内未承認の高用量）との併用により、シンバスタチンのAUCが77%上昇したとの報告がある。"
-  },
-  {
-    "other_id": 5805,
-    "other_brand": "シンバスタチン錠5mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "シンバスタチン80mg（国内未承認の高用量）との併用により、シンバスタチンのAUCが77%上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14972,
-    "other_brand": "リポバス錠5",
-    "interaction_type": "caution",
-    "source_text": "シンバスタチン80mg（国内未承認の高用量）との併用により、シンバスタチンのAUCが77%上昇したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5805,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1933,
-    "other_brand": "インフリーカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "Ca拮抗剤の作用が減弱されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3254,
-    "other_brand": "オラビ錠口腔用50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5096,
-    "other_brand": "ゲンボイヤ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，患者の状態を注意して観察することが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5843,
-    "other_brand": "ジアゾキシドカプセル25mg「OP」",
-    "interaction_type": "caution",
-    "source_text": "降圧剤の降圧作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5851,
-    "other_brand": "ジェニナック錠200mg",
-    "interaction_type": "caution",
-    "source_text": "併用により降圧作用を増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6103,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6112,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12242,
-    "other_brand": "ヘルベッサー注射用250",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12241,
-    "other_brand": "ヘルベッサー注射用10",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12244,
-    "other_brand": "ヘルベッサー錠30",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12246,
-    "other_brand": "ヘルベッサーRカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "ジヒドロピリジン系Ca拮抗剤の血中濃度上昇による症状（降圧作用の増強等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   }
 ]

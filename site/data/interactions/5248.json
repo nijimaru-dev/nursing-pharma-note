@@ -1,326 +1,218 @@
 [
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
     "other_id": 5880,
-    "other_brand": "ジカディア錠150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の徐脈があらわれることがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
-  },
-  {
-    "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "過度の徐脈があらわれることがあるため、安静時心拍数を十分に観察すること。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11393,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11394,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11402,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11403,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "心拍数減少作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数減少作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数減少作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "心拍数減少作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長が増強し、高度な不整脈があらわれることがあるため、本剤の適応の可否を慎重に判断し、やむを得ず併用する場合には、心電図検査を行うなど観察を十分に行うこと。"
+    "interaction_type": "caution"
   }
 ]

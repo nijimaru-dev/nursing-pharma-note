@@ -1,26 +1,18 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "ヨウ化水銀の毒性（腹痛、嘔吐、下痢、皮膚の炎症等）があらわれるおそれがある。"
-  },
-  {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ヨウ化水銀の毒性（腹痛、嘔吐、下痢、皮膚の炎症等）があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ヨウ化水銀の毒性（腹痛、嘔吐、下痢、皮膚の炎症等）があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "ヨウ化水銀の毒性（腹痛、嘔吐、下痢、皮膚の炎症等）があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   }
 ]

@@ -1,86 +1,58 @@
 [
   {
     "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により作用が強くあらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により作用が強くあらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により作用が強くあらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により作用が強くあらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11486,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により作用が強くあらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により作用が強くあらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の最高血中濃度、AUCが顕著に上昇するとの報告があり、併用により作用が強くあらわれるおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が強くあらわれるおそれがある\n。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が強くあらわれるおそれがある\n。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が強くあらわれるおそれがある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が強くあらわれるおそれがある\n。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用が強くあらわれるおそれがある\n。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、作用が強くあらわれるおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇し、作用が強くあらわれるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   }
 ]

@@ -1,278 +1,186 @@
 [
   {
     "other_id": 133,
-    "other_brand": "アクロマイシン末",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用によりアトバコンの血漿中濃度が約40%低下した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 135,
-    "other_brand": "アクロマイシンVカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用によりアトバコンの血漿中濃度が約40%低下した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5292,
-    "other_brand": "コンビビル配合錠",
-    "interaction_type": "caution",
-    "source_text": "ジドブジンのAUCが33%上昇し、グルクロン酸抱合体の最高血中濃度が19%低下した。ジドブジン500又は600mg/日を3週間投与した場合では、ジドブジンの血中濃度の上昇により、副作用の発現頻度が上昇する可能性は低いと考えられるが、アトバコンをより長期に投与する場合には、十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤の血漿中濃度が約53%低下し、t\n1/2\nは約33時間短縮した。また、リファブチンとの併用により本剤の血漿中濃度が約34%低下し、t\n1/2\nは約14時間短縮した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "リファンピシンとの併用により本剤の血漿中濃度が約53%低下し、t\n1/2\nは約33時間短縮した。また、リファブチンとの併用により本剤の血漿中濃度が約34%低下し、t\n1/2\nは約14時間短縮した。"
-  },
-  {
-    "other_id": 11861,
-    "other_brand": "プリンペランシロップ0.1%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
-  },
-  {
-    "other_id": 11862,
-    "other_brand": "プリンペラン注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
-  },
-  {
-    "other_id": 11863,
-    "other_brand": "プリンペラン細粒2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
-  },
-  {
-    "other_id": 11864,
-    "other_brand": "プリンペラン錠5",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
-  },
-  {
-    "other_id": 13663,
-    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13664,
-    "other_brand": "メトクロプラミド錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13665,
-    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中濃度はテトラサイクリンの併用で約40%低下した。また、メトクロプラミドの併用で本剤の血漿中濃度は約58%低下した。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 156,
-    "other_brand": "アシクロビル軟膏5%「ラクール」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "other_id": 11861,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 157,
-    "other_brand": "アシクロビルシロップ8%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "other_id": 11862,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 158,
-    "other_brand": "アシクロビル内服ゼリー200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "other_id": 11863,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 159,
-    "other_brand": "アシクロビル内服ゼリー800mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "other_id": 11864,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 161,
-    "other_brand": "アシクロビル点滴静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 162,
-    "other_brand": "アシクロビル点滴静注液250mgバッグ100mL「アイロム」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 163,
-    "other_brand": "アシクロビル点滴静注用250mg「アイロム」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 164,
-    "other_brand": "アシクロビル点滴静注用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 170,
-    "other_brand": "アシクロビル錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 174,
-    "other_brand": "アシクロビル顆粒40％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 175,
-    "other_brand": "アシクロビル顆粒40％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 177,
-    "other_brand": "アシクロビルDS80％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 178,
-    "other_brand": "アシクロビルDS80%「NK」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 335,
-    "other_brand": "アセトアミノフェン〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 337,
-    "other_brand": "アセトアミノフェン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 338,
-    "other_brand": "アセトアミノフェン「JG」原末",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 339,
-    "other_brand": "アセトアミノフェン「VTRS」原末",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 342,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 343,
-    "other_brand": "アセトアミノフェン坐剤小児用50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 359,
-    "other_brand": "アセトアミノフェン錠200mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 367,
-    "other_brand": "アセトアミノフェンDS小児用20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 375,
-    "other_brand": "アセリオ静注液1000mgバッグ",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 1382,
-    "other_brand": "アンヒバ坐剤小児用50mg",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
-  },
-  {
-    "other_id": 3946,
-    "other_brand": "カロナール原末",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "other_id": 13663,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6984,
-    "other_brand": "ゾビラックスクリーム5%",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6985,
-    "other_brand": "ゾビラックス点滴静注用250",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6988,
-    "other_brand": "ゾビラックス軟膏5%",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6989,
-    "other_brand": "ゾビラックス錠200",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6991,
-    "other_brand": "ゾビラックス顆粒40%",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "other_id": 335,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10896,
-    "other_brand": "ピレチノール",
-    "interaction_type": "caution",
-    "source_text": "臨床試験において本剤の血漿中濃度のわずかな減少（平均3.8μg/mL以下）が報告されているが、因果関係は不明である。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 337,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 338,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 342,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 343,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 156,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 157,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 158,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 159,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 161,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 162,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 163,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 164,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1382,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 359,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 170,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 174,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 367,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 175,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 177,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 178,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 375,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "アトバコンとの併用により、アトバコンの血中濃度が約53%低下し、t\n1/2\nは約33時間短縮したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15215,
-    "other_brand": "レトロビルカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが33%上昇し、グルクロン酸抱合体の最高血中濃度が19%低下した。ジドブジン500又は600mg/日を3週間投与した場合では、本剤の血中濃度の上昇により、副作用の発現頻度が上昇する可能性は低いと考えられるが、アトバコンをより長期に投与する場合には、十分注意すること。"
+    "interaction_type": "caution"
   }
 ]

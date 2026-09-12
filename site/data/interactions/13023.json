@@ -1,122 +1,82 @@
 [
   {
-    "other_id": 1190,
-    "other_brand": "アルファカルシドールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1192,
-    "other_brand": "アルファカルシドールカプセル0.25μg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 1215,
-    "other_brand": "アルファカルシドール錠0.25μg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "other_id": 15552,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1218,
-    "other_brand": "アルファロールカプセル0.25μg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1221,
-    "other_brand": "アルファロールカプセル3μg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1222,
-    "other_brand": "アルファロール内用液0.5μg／mL",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1223,
-    "other_brand": "アルファロール散1μg／g",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3763,
-    "other_brand": "カルシトリオールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3764,
-    "other_brand": "カルシトリオールカプセル0.25μg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 3773,
-    "other_brand": "カルシトリオール静注液0.5μg「F」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1190,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1192,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13167,
-    "other_brand": "マキサカルシトール軟膏25μg／g「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13168,
-    "other_brand": "マキサカルシトール軟膏25μg/g「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 13176,
-    "other_brand": "マキサカルシトール静注透析用2.5μg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 15550,
-    "other_brand": "ロカルトロールカプセル0.25",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
-  },
-  {
-    "other_id": 15552,
-    "other_brand": "ロカルトロール注0.5",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15985,
-    "other_brand": "ワンアルファ錠0.25μg",
-    "interaction_type": "caution",
-    "source_text": "血清カルシウム値が上昇する可能性がある。その場合には直ちに本剤及び併用薬の使用を中止し、経過を観察すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3763,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3764,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13176,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3773,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1215,
+    "interaction_type": "caution"
   }
 ]

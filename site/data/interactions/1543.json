@@ -1,236 +1,158 @@
 [
   {
+    "other_id": 13764,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 5329,
-    "other_brand": "サイトテック錠100",
-    "interaction_type": "contraindicated",
-    "source_text": "ミフェプリストン・ミソプロストールによる子宮出血の程度が悪化するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "ミフェプリストン・ミソプロストールによる子宮出血の程度が悪化するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ミフェプリストン・ミソプロストールによる子宮出血の程度が悪化するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "ミフェプリストン・ミソプロストールによる子宮出血の程度が悪化するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "ミフェプリストン・ミソプロストールによる子宮出血の程度が悪化するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 13764,
-    "other_brand": "メフィーゴパック",
-    "interaction_type": "contraindicated",
-    "source_text": "ミフェプリストン・ミソプロストールによる子宮出血の程度が悪化するおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 5707,
-    "other_brand": "シロスタゾール錠50mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 5709,
-    "other_brand": "シロスタゾール錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 5713,
-    "other_brand": "シロスタゾール錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 5725,
-    "other_brand": "シロスタゾールOD錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 5729,
-    "other_brand": "シロスタゾールOD錠50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 5730,
-    "other_brand": "シロスタゾールOD錠50mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 7542,
-    "other_brand": "チクロピジン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 7543,
-    "other_brand": "チクロピジン塩酸塩錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 10157,
-    "other_brand": "パナルジン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 11964,
-    "other_brand": "プレタール散20％",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 11965,
-    "other_brand": "プレタールOD錠50mg",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
-  },
-  {
-    "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1922,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1924,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5707,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5709,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5713,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5725,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5729,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 290,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9890,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 294,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5730,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15976,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10157,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "出血傾向をきたすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7542,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7543,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11964,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11965,
+    "interaction_type": "caution"
   }
 ]

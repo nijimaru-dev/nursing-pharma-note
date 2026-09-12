@@ -1,332 +1,222 @@
 [
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1282,
-    "other_brand": "アレビアチン注250mg",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1672,
-    "other_brand": "イノベロン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の代謝を促進し、作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある。また、本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある。また、本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6715,
-    "other_brand": "セレニカR顆粒40%",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下することがある。また、本剤の血中濃度が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8293,
-    "other_brand": "デパケンシロップ5%",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8294,
-    "other_brand": "デパケン細粒20%",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8296,
-    "other_brand": "デパケン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8298,
-    "other_brand": "デパケンR錠100mg",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8763,
-    "other_brand": "トランコロンP配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤中のフェノバルビタールの血中濃度が上昇することがある。\nクロバザムの血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9145,
-    "other_brand": "ドルミカムシロップ2mg/mL",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9146,
-    "other_brand": "ドルミカム注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9762,
-    "other_brand": "ノーベルバール静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "（1）本剤の血中濃度が上昇することがある。（2）クロバザムの血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10082,
-    "other_brand": "バルプロ酸ナトリウムシロップ5%「日医工」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10083,
-    "other_brand": "バルプロ酸ナトリウムシロップ5％「DSP」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10084,
-    "other_brand": "バルプロ酸ナトリウム徐放錠A100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10086,
-    "other_brand": "バルプロ酸ナトリウム細粒20%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10088,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10089,
-    "other_brand": "バルプロ酸ナトリウム錠100mg「DSP」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10092,
-    "other_brand": "バルプロ酸ナトリウムSR錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10095,
-    "other_brand": "バルプロ酸Na徐放顆粒40％「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10094,
-    "other_brand": "バルプロ酸Na錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "バルプロ酸の作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10381,
-    "other_brand": "ヒダントールD配合錠",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトイン、フェノバルビタールの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "（1）本剤の血中濃度が上昇することがある。（2）クロバザムの血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "（1）本剤の血中濃度が上昇することがある。（2）クロバザムの血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "（1）本剤の血中濃度が上昇することがある。（2）クロバザムの血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11569,
-    "other_brand": "ブコラム口腔用液2.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12693,
-    "other_brand": "ホストイン静注750mg",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトインの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "相互に作用が増強されることがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用が増強されることがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "相互に作用が増強されることがあるので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "相互に作用が増強されることがあるので、減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度の上昇がみられ、相互に作用が増強したとの報告がある。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度の上昇がみられ、相互に作用が増強したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度の上昇がみられ、相互に作用が増強したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "本剤及び活性代謝物の血中濃度が上昇することがある。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中消失半減期が遅延し、AUCが増大することがある。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中消失半減期が遅延し、AUCが増大することがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中消失半減期が遅延し、AUCが増大することがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中消失半減期が遅延し、AUCが増大することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中消失半減期が遅延し、AUCが増大することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇することが予測される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3224,
-    "other_brand": "オメプラゾール錠10「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物の血中濃度が上昇することが予測される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3225,
-    "other_brand": "オメプラゾール錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物の血中濃度が上昇することが予測される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3226,
-    "other_brand": "オメプラゾール錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物の血中濃度が上昇することが予測される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13341,
-    "other_brand": "ミダゾラム注射液10mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13342,
-    "other_brand": "ミダゾラム注10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13343,
-    "other_brand": "ミダフレッサ静注0.1％",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15088,
-    "other_brand": "ルピアール坐剤25",
-    "interaction_type": "caution",
-    "source_text": "（1）本剤の血中濃度が上昇することがある。（2）クロバザムの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15965,
-    "other_brand": "ワコビタール坐剤15",
-    "interaction_type": "caution",
-    "source_text": "⑴本剤の血中濃度が上昇することがある。⑵クロバザムの血中濃度が低下することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17184,
-    "other_brand": "複合アレビアチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "（1）フェニトイン、フェノバルビタールの血中濃度が上昇することがある\n。（2）これらの薬剤の血中濃度が低下することがある\n。"
+    "interaction_type": "caution"
   }
 ]

@@ -1,722 +1,482 @@
 [
   {
     "other_id": 718,
-    "other_brand": "アマリール0.5mg錠",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2934,
-    "other_brand": "エンペラシン配合錠",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2944,
-    "other_brand": "オイグルコン錠1.25mg",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
-  },
-  {
-    "other_id": 616,
-    "other_brand": "アドフィードパップ40mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11520,
-    "other_brand": "フルルビプロフェンテープ20mg「QQ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
-  },
-  {
-    "other_id": 11549,
-    "other_brand": "フロベン錠40",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16552,
-    "other_brand": "氷酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 616,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17262,
-    "other_brand": "酢酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17264,
-    "other_brand": "酢酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17265,
-    "other_brand": "酢酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17266,
-    "other_brand": "酢酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17269,
-    "other_brand": "酢酸「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17270,
-    "other_brand": "酢酸「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1529,
-    "other_brand": "イグザレルトドライシロップ小児用51.7mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
-  },
-  {
-    "other_id": 1531,
-    "other_brand": "イグザレルト細粒分包10mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
-  },
-  {
-    "other_id": 1533,
-    "other_brand": "イグザレルト錠10mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
-  },
-  {
-    "other_id": 1535,
-    "other_brand": "イグザレルト錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
+    "other_id": 11549,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1536,
-    "other_brand": "イグザレルトOD錠10mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
-  },
-  {
-    "other_id": 2823,
-    "other_brand": "エリキュース錠2.5mg",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
-  },
-  {
-    "other_id": 14906,
-    "other_brand": "リバーロキサバン錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
-  },
-  {
-    "other_id": 14907,
-    "other_brand": "リバーロキサバン錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
-  },
-  {
-    "other_id": 14910,
-    "other_brand": "リバーロキサバンOD錠10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14913,
-    "other_brand": "リバーロキサバンOD錠10mg「バイエル」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14914,
-    "other_brand": "リバーロキサバンOD錠10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ワルファリンの作用を増強し、プロトロンビン時間の延長が認められたとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5299,
-    "other_brand": "コートリル錠10mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 2823,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 14907,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 1529,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 14906,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "other_id": 1531,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1533,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14910,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1535,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5299,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4832,
-    "other_brand": "グリベンクラミド錠1.25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4833,
-    "other_brand": "グリベンクラミド錠1.25mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4834,
-    "other_brand": "グリベンクラミド錠1.25mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4835,
-    "other_brand": "グリベンクラミド錠1.25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "血糖降下作用の増強による低血糖症状が起こることがある。併用する場合には、血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4843,
-    "other_brand": "グリメピリド錠0.5mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4846,
-    "other_brand": "グリメピリド錠0.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4848,
-    "other_brand": "グリメピリド錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4849,
-    "other_brand": "グリメピリド錠0.5mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4850,
-    "other_brand": "グリメピリド錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4851,
-    "other_brand": "グリメピリド錠0.5mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4852,
-    "other_brand": "グリメピリド錠0.5mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4853,
-    "other_brand": "グリメピリド錠0.5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4854,
-    "other_brand": "グリメピリド錠0.5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4855,
-    "other_brand": "グリメピリド錠0.5mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4856,
-    "other_brand": "グリメピリド錠0.5mg「AA」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4857,
-    "other_brand": "グリメピリド錠0.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4858,
-    "other_brand": "グリメピリド錠0.5mg「Me」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4859,
-    "other_brand": "グリメピリド錠0.5mg「NC」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4860,
-    "other_brand": "グリメピリド錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4861,
-    "other_brand": "グリメピリド錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4862,
-    "other_brand": "グリメピリド錠0.5mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4863,
-    "other_brand": "グリメピリド錠0.5mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4864,
-    "other_brand": "グリメピリド錠0.5mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4865,
-    "other_brand": "グリメピリド錠0.5mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4912,
-    "other_brand": "グリメピリドOD錠0.5mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4913,
-    "other_brand": "グリメピリドOD錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4914,
-    "other_brand": "グリメピリドOD錠0.5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "低血糖症状が起こることがある。血糖値その他患者の状態を十分観察し、必要に応じて本剤又は併用薬剤の投与量を調節するなど慎重に投与すること。特にβ-遮断剤と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5043,
-    "other_brand": "ケトプロフェン筋注50mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5345,
-    "other_brand": "サクコルチン配合錠",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6710,
-    "other_brand": "セレスタミン配合錠",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6825,
-    "other_brand": "ソニアス配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "低血糖を発現するおそれがあるので、血糖値等の患者の状態を十分に観察しながら、低用量から投与を開始するなど慎重に投与すること。特にβ-遮断薬と併用する場合にはプロプラノロール等の非選択性薬剤は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8412,
-    "other_brand": "デルティバ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "リスクとベネフィットを考慮して本剤投与の適応を慎重に判断すること。QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11222,
-    "other_brand": "フェリセルツ散20%",
-    "interaction_type": "caution",
-    "source_text": "左記医薬品の作用が減弱するおそれがあるので、造影終了後3時間程度服用時間をあける等注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11766,
-    "other_brand": "プラデスミン配合錠",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11852,
-    "other_brand": "プリマキン錠15mg「サノフィ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11974,
-    "other_brand": "プレドニゾロン錠「タケダ」5mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11980,
-    "other_brand": "プレドニゾロン錠5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11979,
-    "other_brand": "プレドニゾロン錠2.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12312,
-    "other_brand": "ベタセレミン配合錠",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12343,
-    "other_brand": "ベタメタゾン散0.1%「フソー」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12354,
-    "other_brand": "ベタメタゾン錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12718,
-    "other_brand": "ホスレノールチュアブル錠250mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12720,
-    "other_brand": "ホスレノール顆粒分包250mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12722,
-    "other_brand": "ホスレノールOD錠250mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13033,
-    "other_brand": "ボースデル内用液10",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の作用が減弱するおそれがあるので、造影終了後3時間程度服用時間をあける等注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14836,
-    "other_brand": "リノロサール注射液2mg（0.4％）",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15036,
-    "other_brand": "リンデロン懸濁注",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15039,
-    "other_brand": "リンデロン注20mg（0.4%）",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15038,
-    "other_brand": "リンデロン注20mg（2%）",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15041,
-    "other_brand": "リンデロン注2mg（0.4%）",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15033,
-    "other_brand": "リンデロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15563,
-    "other_brand": "ロキソニン錠60mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15575,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「クニヒロ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15576,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15577,
-    "other_brand": "ロキソプロフェンナトリウム錠60mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15578,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15579,
-    "other_brand": "ロキソプロフェン錠60mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15630,
-    "other_brand": "ロキソプロフェンNa錠60mg「あすか」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15631,
-    "other_brand": "ロキソプロフェンNa錠60mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15629,
-    "other_brand": "ロキソプロフェンNa錠60mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15633,
-    "other_brand": "ロキソプロフェンNa錠60mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15634,
-    "other_brand": "ロキソプロフェンNa錠60mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15636,
-    "other_brand": "ロキソプロフェンNa錠60mg「三和」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15637,
-    "other_brand": "ロキソプロフェンNa錠60mg「三恵」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15638,
-    "other_brand": "ロキソプロフェンNa錠60mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15639,
-    "other_brand": "ロキソプロフェンNa錠60mg「武田テバ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15640,
-    "other_brand": "ロキソプロフェンNa錠60mg「KO」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15641,
-    "other_brand": "ロキソプロフェンNa錠60mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15642,
-    "other_brand": "ロキソプロフェンNa錠60mg「OHA」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15644,
-    "other_brand": "ロキソプロフェンNa錠60mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15646,
-    "other_brand": "ロキソプロフェンNa錠60mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "痙攣誘発作用を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16543,
-    "other_brand": "水溶性プレドニン10mg",
-    "interaction_type": "caution",
-    "source_text": "腱障害のリスクを増加させるとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16731,
-    "other_brand": "炭酸ランタン顆粒分包250mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16733,
-    "other_brand": "炭酸ランタン顆粒分包250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16734,
-    "other_brand": "炭酸ランタン顆粒分包250mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16735,
-    "other_brand": "炭酸ランタン顆粒分包250mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16736,
-    "other_brand": "炭酸ランタン顆粒分包250mg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16737,
-    "other_brand": "炭酸ランタン顆粒分包250mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16738,
-    "other_brand": "炭酸ランタン顆粒分包250mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16747,
-    "other_brand": "炭酸ランタンOD錠250mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16748,
-    "other_brand": "炭酸ランタンOD錠250mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16749,
-    "other_brand": "炭酸ランタンOD錠250mg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16750,
-    "other_brand": "炭酸ランタンOD錠250mg「FCI」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16751,
-    "other_brand": "炭酸ランタンOD錠250mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけて投与すること。"
+    "interaction_type": "caution"
   }
 ]

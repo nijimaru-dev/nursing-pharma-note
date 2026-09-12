@@ -138,9 +138,16 @@ KarteNoとは接続する方針（データパイプラインは共有、機能�
 - PMDA差分検知の実装方法（上記「未解決・要検証」参照）
 - 誤り報告フォームの要否・実装方法
 - 観察項目データの持たせ方（上記5.1参照、v1は簡易対応でよい）
-- `site/data/interactions/`配下の重複排除（現状は薬剤ペアをA視点・B視点で二重に
-  持っており全件展開時418MBになる。`interactions/{min_id}_{max_id}.json`のような
-  ペア単位1ファイルに統合し、二重持ちをやめるのは将来の最適化課題）
+- ~~`site/data/interactions/`配下の重複排除~~ → 2026-09-12、解決済み。
+  `drug_pair_interaction`テーブルを`drug_a_id`/`drug_b_id`から`min_id`/`max_id`形式へ
+  改称するマイグレーションを実装し（`pmda_tenpu_parser.py`の
+  `migrate_pair_interaction_schema`、既存DBは自動移行）、`export_db_to_json.py`の
+  書き出しを「薬品ごとの軽量な索引（`interactions/{id}.json`＝相手id・注意種別のみ）」＋
+  「ペア単位1ファイルの本文（`interactions/pairs/{min}_{max}.json`）」に分離した。
+  `site/js/data.js`（`loadDrugInteractionIndex`/`loadPairInteraction`）と
+  `site/check.html`も新形式に合わせて2段階フェッチに変更済み。全件展開時のサイズは
+  `site/data/interactions/`配下で287MB→160MB（`site/data`全体では374MB→224MB）に縮小、
+  DB側の突合結果（450,231件）は変更前とハッシュ一致で内容が変わっていないことを確認済み。
 
 ## 8. 【将来検討】PWA化・機能拡張の方向性（2026-09-11追加、課金境界線は当面なし）
 

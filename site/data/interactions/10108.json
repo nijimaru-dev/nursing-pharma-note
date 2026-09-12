@@ -1,140 +1,94 @@
 [
   {
     "other_id": 123,
-    "other_brand": "アクプラ静注用10mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が増強されることがあるので、異常が認められた場合には休薬するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 773,
-    "other_brand": "アミカシン硫酸塩注射液100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 774,
-    "other_brand": "アミカシン硫酸塩注射液100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 775,
-    "other_brand": "アミカシン硫酸塩注射液100mg「F」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 776,
-    "other_brand": "アミカシン硫酸塩注射液100mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 781,
-    "other_brand": "アミカシン硫酸塩注100mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1250,
-    "other_brand": "アルベカシン硫酸塩注射液25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1251,
-    "other_brand": "アルベカシン硫酸塩注射液25mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2256,
-    "other_brand": "エクサシン注射液200",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3373,
-    "other_brand": "オルドレブ点滴静注用150mg",
-    "interaction_type": "caution",
-    "source_text": "腎機能障害があらわれることがあるので、併用の必要性については十分に検討すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3690,
-    "other_brand": "カナマイシン硫酸塩注射液1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4294,
-    "other_brand": "クエストラン粉末44.4%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。これらの薬剤の吸収阻害を避けるために、本剤投与前4時間若しくは投与後4～6時間以上、又は可能な限り間隔をあけて慎重に投与する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5080,
-    "other_brand": "ゲンタシン注10",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5085,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5086,
-    "other_brand": "ゲンタマイシン硫酸塩注射液10mg「F」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6287,
-    "other_brand": "ストレプトマイシン硫酸塩注射用1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9834,
-    "other_brand": "ハベカシン注射液25mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10159,
-    "other_brand": "パニマイシン注射液50mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10403,
-    "other_brand": "ヒブサーゴ皮下注150mgシリンジ",
-    "interaction_type": "caution",
-    "source_text": "腎機能障害を起こすおそれがあるため、腎機能を十分に観察すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16587,
-    "other_brand": "注射用パニマイシン100mg",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16783,
-    "other_brand": "点滴静注用ホスカビル注24mg/mL",
-    "interaction_type": "caution",
-    "source_text": "腎障害を増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16979,
-    "other_brand": "硫酸カナマイシン注射液1000mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16980,
-    "other_brand": "硫酸ストレプトマイシン注射用1g「明治」",
-    "interaction_type": "caution",
-    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+    "interaction_type": "caution"
   }
 ]

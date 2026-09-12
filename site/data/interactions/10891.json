@@ -1,68 +1,46 @@
 [
   {
     "other_id": 6046,
-    "other_brand": "ジャスケイド錠9mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。ピルフェニドンを併用する場合は、本剤の投与量を1回9mg1日2回に減量しないこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7248,
-    "other_brand": "タブレクタ錠150mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 8311,
-    "other_brand": "デプロメール錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約4倍増加したとの報告がある。"
-  },
-  {
-    "other_id": 11483,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約4倍増加したとの報告がある。"
-  },
-  {
-    "other_id": 11484,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約4倍増加したとの報告がある。"
-  },
-  {
-    "other_id": 11485,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約4倍増加したとの報告がある。"
-  },
-  {
-    "other_id": 11487,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約4倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11488,
-    "other_brand": "フルボキサミンマレイン酸塩錠25mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約4倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15094,
-    "other_brand": "ルボックス錠25",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約4倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約1.8倍増加したとの報告がある。"
+    "other_id": 8311,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11483,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11484,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11485,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11487,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "本剤のAUCが約1.8倍増加したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   }
 ]

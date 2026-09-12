@@ -1,116 +1,78 @@
 [
   {
     "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "糖尿病用薬の使用上の注意に記載の相互作用に留意するとともに、本剤の糖質吸収遅延作用が加わることによる影響に十分注意すること。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "糖尿病用薬の使用上の注意に記載の相互作用に留意するとともに、本剤の糖質吸収遅延作用が加わることによる影響に十分注意すること。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "糖尿病用薬の使用上の注意に記載の相互作用に留意するとともに、本剤の糖質吸収遅延作用が加わることによる影響に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "糖尿病用薬の使用上の注意に記載の相互作用に留意するとともに、本剤の糖質吸収遅延作用が加わることによる影響に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの血中濃度が低下することがある。また、少数例で血中濃度の上昇も認められている。ジゴキシンの血中濃度が変動した場合には、ジゴキシンの投与量を調節するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの血中濃度が低下することがある。また、少数例で血中濃度の上昇も認められている。ジゴキシンの血中濃度が変動した場合には、ジゴキシンの投与量を調節するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの血中濃度が低下することがある。また、少数例で血中濃度の上昇も認められている。ジゴキシンの血中濃度が変動した場合には、ジゴキシンの投与量を調節するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの血中濃度が低下することがある。また、少数例で血中濃度の上昇も認められている。ジゴキシンの血中濃度が変動した場合には、ジゴキシンの投与量を調節するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "ジゴキシンの血中濃度が低下することがある。また、少数例で血中濃度の上昇も認められている。ジゴキシンの血中濃度が変動した場合には、ジゴキシンの投与量を調節するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "消化器系の副作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "消化器系の副作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "消化器系の副作用が増強される可能性がある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "消化器系の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13991,
-    "other_brand": "モニラック・シロップ65%",
-    "interaction_type": "caution",
-    "source_text": "消化器系の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14298,
-    "other_brand": "ラクツロースシロップ65％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "消化器系の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14300,
-    "other_brand": "ラクツロース・シロップ60％「コーワ」",
-    "interaction_type": "caution",
-    "source_text": "消化器系の副作用が増強される可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5827,
-    "other_brand": "ジアスターゼ「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "両剤の薬効に影響を及ぼす可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5828,
-    "other_brand": "ジアスターゼ シオエ",
-    "interaction_type": "caution",
-    "source_text": "両剤の薬効に影響を及ぼす可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5830,
-    "other_brand": "ジアスターゼ「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "両剤の薬効に影響を及ぼす可能性がある。"
+    "interaction_type": "caution"
   }
 ]

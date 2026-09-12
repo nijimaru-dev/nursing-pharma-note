@@ -1,380 +1,254 @@
 [
   {
-    "other_id": 753,
-    "other_brand": "アマンタジン塩酸塩錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 754,
-    "other_brand": "アマンタジン塩酸塩錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 757,
-    "other_brand": "アマンタジン塩酸塩錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 758,
-    "other_brand": "アマンタジン塩酸塩錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 759,
-    "other_brand": "アマンタジン塩酸塩錠50mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
-  },
-  {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚等の副作用が増強することがある。このような場合には、本剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "作用が増強するおそれがある。"
+    "other_id": 753,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "作用が増強するおそれがある。"
+    "other_id": 754,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "作用が増強するおそれがある。"
+    "other_id": 757,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "作用が増強するおそれがある。"
+    "other_id": 758,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "作用が増強するおそれがある。"
+    "other_id": 759,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "作用が増強するおそれがある。"
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "作用が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9161,
-    "other_brand": "ドンペリドン坐剤10mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9162,
-    "other_brand": "ドンペリドン坐剤10mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9163,
-    "other_brand": "ドンペリドン坐剤10mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9167,
-    "other_brand": "ドンペリドン錠5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9168,
-    "other_brand": "ドンペリドン錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9170,
-    "other_brand": "ドンペリドン錠5mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9171,
-    "other_brand": "ドンペリドン錠5mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9172,
-    "other_brand": "ドンペリドン錠5mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9173,
-    "other_brand": "ドンペリドン錠5mg「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9174,
-    "other_brand": "ドンペリドン錠5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9187,
-    "other_brand": "ドンペリドンDS小児用1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9190,
-    "other_brand": "ナウゼリンドライシロップ1%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9191,
-    "other_brand": "ナウゼリン坐剤10",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9194,
-    "other_brand": "ナウゼリン錠5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9196,
-    "other_brand": "ナウゼリンOD錠5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11861,
-    "other_brand": "プリンペランシロップ0.1%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11862,
-    "other_brand": "プリンペラン注射液10mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11863,
-    "other_brand": "プリンペラン細粒2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11864,
-    "other_brand": "プリンペラン錠5",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9173,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9174,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13663,
-    "other_brand": "メトクロプラミド細粒2%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13664,
-    "other_brand": "メトクロプラミド錠5mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13665,
-    "other_brand": "メトクロプラミド錠5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2263,
-    "other_brand": "エクセグラン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "other_id": 9187,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2910,
-    "other_brand": "エンタカポン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "other_id": 9190,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2911,
-    "other_brand": "エンタカポン錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "other_id": 9191,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5244,
-    "other_brand": "コムタン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "other_id": 9194,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6951,
-    "other_brand": "ゾニサミド錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6953,
-    "other_brand": "ゾニサミド錠100mgEX「KO」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6954,
-    "other_brand": "ゾニサミドOD錠25mgTRE「アメル」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6956,
-    "other_brand": "ゾニサミドOD錠25mgTRE「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6958,
-    "other_brand": "ゾニサミドOD錠25mgTRE「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6961,
-    "other_brand": "ゾニサミドOD錠25mgTRE「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6962,
-    "other_brand": "ゾニサミドOD錠25mgTRE「日医工」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6963,
-    "other_brand": "ゾニサミドOD錠25mgTRE「日新」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6966,
-    "other_brand": "ゾニサミドOD錠25mgTRE「KO」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 6967,
-    "other_brand": "ゾニサミドOD錠25mgTRE「SMPP」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "other_id": 9196,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6968,
-    "other_brand": "ゾニサミドOD錠25mgTRE「ZE」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8877,
-    "other_brand": "トレリーフOD錠25mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 9097,
-    "other_brand": "ドパストンカプセル250mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 9099,
-    "other_brand": "ドパストン静注25mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 9101,
-    "other_brand": "ドパゾール錠200mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
-  },
-  {
-    "other_id": 9131,
-    "other_brand": "ドプスOD錠100mg",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "other_id": 6661,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9158,
-    "other_brand": "ドロキシドパカプセル100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "ジスキネジア、幻覚、錯乱等の副作用が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9097,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9099,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9101,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2263,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2910,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2911,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6951,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6953,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6954,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9131,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6956,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6967,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6958,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8877,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6961,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6962,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6963,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6966,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5244,
+    "interaction_type": "caution"
   }
 ]

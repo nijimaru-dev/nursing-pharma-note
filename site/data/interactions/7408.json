@@ -1,206 +1,138 @@
 [
   {
     "other_id": 4218,
-    "other_brand": "キャベジンUコーワ配合散",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8222,
-    "other_brand": "ディクアノン懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13205,
-    "other_brand": "マグミット細粒83%",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13208,
-    "other_brand": "マグミット錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13265,
-    "other_brand": "マルファ懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13289,
-    "other_brand": "マーレッジ懸濁用配合DS",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13522,
-    "other_brand": "ミルマグ内用懸濁液7．2％",
-    "interaction_type": "caution",
-    "source_text": "併用薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13523,
-    "other_brand": "ミルマグ錠350mg",
-    "interaction_type": "caution",
-    "source_text": "併用薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14765,
-    "other_brand": "リタロクス懸濁用配合顆粒",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16217,
-    "other_brand": "塩化カルシウム「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16556,
-    "other_brand": "沈降炭酸カルシウム「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16558,
-    "other_brand": "沈降炭酸カルシウム「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16559,
-    "other_brand": "沈降炭酸カルシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16561,
-    "other_brand": "沈降炭酸カルシウム恵美須",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16730,
-    "other_brand": "炭酸マグネシウム「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16985,
-    "other_brand": "硫酸マグネシウム「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16987,
-    "other_brand": "硫酸マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがあるので、投与間隔をできるだけあけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17280,
-    "other_brand": "酸化マグネシウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17282,
-    "other_brand": "酸化マグネシウム「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17283,
-    "other_brand": "酸化マグネシウム「NP」原末",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17285,
-    "other_brand": "酸化マグネシウム原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17286,
-    "other_brand": "酸化マグネシウム細粒83%〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17287,
-    "other_brand": "酸化マグネシウム細粒83％「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17288,
-    "other_brand": "酸化マグネシウム細粒83％「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17292,
-    "other_brand": "酸化マグネシウム錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17295,
-    "other_brand": "酸化マグネシウム錠250mg「TX」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17290,
-    "other_brand": "酸化マグネシウム錠250mg「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17289,
-    "other_brand": "酸化マグネシウム錠200mg「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17293,
-    "other_brand": "酸化マグネシウム錠250mg「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17316,
-    "other_brand": "重カマ「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17322,
-    "other_brand": "重質酸化マグネシウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17323,
-    "other_brand": "重質酸化マグネシウム「ケンエー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17324,
-    "other_brand": "重質酸化マグネシウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17327,
-    "other_brand": "重質酸化マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の吸収が低下し、効果が減弱するおそれがあるので、同時に服用させないなど注意すること。"
+    "interaction_type": "caution"
   }
 ]

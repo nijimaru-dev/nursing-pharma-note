@@ -1,212 +1,142 @@
 [
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14375,
-    "other_brand": "ラジレス錠150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "非致死性脳卒中、腎機能障害、高カリウム血症及び低血圧のリスク増加が報告されている。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 1173,
-    "other_brand": "アルダクトンA細粒10％",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 2778,
-    "other_brand": "エプレレノン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 6313,
-    "other_brand": "スピロノラクトン錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6315,
-    "other_brand": "スピロノラクトン錠25mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6316,
-    "other_brand": "スピロノラクトン錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6317,
-    "other_brand": "スピロノラクトン錠25mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
-  },
-  {
-    "other_id": 6606,
-    "other_brand": "セララ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
+    "other_id": 11991,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8800,
-    "other_brand": "トリテレン・カプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "血清カリウム値が上昇することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8791,
-    "other_brand": "トリクロルメチアジド錠2mg「イセイ」",
-    "interaction_type": "caution",
-    "source_text": "利尿剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
+    "other_id": 1173,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 8792,
-    "other_brand": "トリクロルメチアジド錠2mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "利尿剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
+    "other_id": 6313,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 11358,
-    "other_brand": "フルイトラン錠1mg",
-    "interaction_type": "caution",
-    "source_text": "利尿剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
+    "other_id": 2778,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6315,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6316,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6317,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6606,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "利尿剤で治療を受けている患者に本剤を初めて投与する場合、降圧作用が増強するおそれがあるので、少量から開始するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14375,
-    "other_brand": "ラジレス錠150mg",
-    "interaction_type": "caution",
-    "source_text": "腎機能障害、高カリウム血症及び低血圧を起こすおそれがある。eGFRが60mL/min/1.73m\n2\n未満の腎機能障害のある患者へのアリスキレンフマル酸塩との併用については、治療上やむを得ないと判断される場合を除き避けること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "慢性心不全の臨床試験では、左記の併用に加え更に本剤を併用すると、立ちくらみ、ふらつき及び低血圧の発現頻度が高く、かつ程度が高い。腎機能低下あるいは貧血を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "慢性心不全の臨床試験では、左記の併用に加え更に本剤を併用すると、立ちくらみ、ふらつき及び低血圧の発現頻度が高く、かつ程度が高い。腎機能低下あるいは貧血を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "慢性心不全の臨床試験では、左記の併用に加え更に本剤を併用すると、立ちくらみ、ふらつき及び低血圧の発現頻度が高く、かつ程度が高い。腎機能低下あるいは貧血を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "慢性心不全の臨床試験では、左記の併用に加え更に本剤を併用すると、立ちくらみ、ふらつき及び低血圧の発現頻度が高く、かつ程度が高い。腎機能低下あるいは貧血を起こすおそれがある。"
-  },
-  {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6668,
-    "other_brand": "セレコキシブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6670,
-    "other_brand": "セレコキシブ錠100mg「ダイト」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6675,
-    "other_brand": "セレコキシブ錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6676,
-    "other_brand": "セレコキシブ錠100mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6677,
-    "other_brand": "セレコキシブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6678,
-    "other_brand": "セレコキシブ錠100mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
-  },
-  {
-    "other_id": 6683,
-    "other_brand": "セレコキシブ錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "降圧作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6668,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6675,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6676,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6677,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution"
   }
 ]

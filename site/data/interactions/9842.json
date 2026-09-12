@@ -1,1208 +1,806 @@
 [
   {
     "other_id": 383,
-    "other_brand": "アゼルニジピン錠8mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 385,
-    "other_brand": "アゼルニジピン錠8mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 386,
-    "other_brand": "アゼルニジピン錠8mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 387,
-    "other_brand": "アゼルニジピン錠8mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 388,
-    "other_brand": "アゼルニジピン錠8mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 390,
-    "other_brand": "アゼルニジピン錠8mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 391,
-    "other_brand": "アゼルニジピン錠8mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 392,
-    "other_brand": "アゼルニジピン錠8mg「YD」",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 767,
-    "other_brand": "アミオダロン塩酸塩速崩錠50mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 769,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 770,
-    "other_brand": "アミオダロン塩酸塩錠100mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 771,
-    "other_brand": "アミオダロン塩酸塩錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 772,
-    "other_brand": "アミオダロン塩酸塩静注150mg「TE」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1370,
-    "other_brand": "アンカロン注150",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1371,
-    "other_brand": "アンカロン錠100",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度を上昇させるとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの血中濃度上昇、作用の増強、作用時間の延長があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの血中濃度上昇、作用の増強、作用時間の延長があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの血中濃度上昇、作用の増強、作用時間の延長があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの血中濃度上昇、作用の増強、作用時間の延長があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの血中濃度上昇、作用の増強、作用時間の延長があらわれることがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1672,
-    "other_brand": "イノベロン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "相手薬剤の代謝を促進し、作用を減弱させるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1709,
-    "other_brand": "イマチニブ錠100mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1710,
-    "other_brand": "イマチニブ錠100mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1712,
-    "other_brand": "イマチニブ錠100mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1717,
-    "other_brand": "イマチニブ錠100mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1718,
-    "other_brand": "イマチニブ錠100mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1719,
-    "other_brand": "イマチニブ錠100mg「KMP」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1720,
-    "other_brand": "イマチニブ錠100mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1721,
-    "other_brand": "イマチニブ錠100mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1711,
-    "other_brand": "イマチニブ錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1713,
-    "other_brand": "イマチニブ錠100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1714,
-    "other_brand": "イマチニブ錠100mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1715,
-    "other_brand": "イマチニブ錠100mg「ヤクルト」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1716,
-    "other_brand": "イマチニブ錠100mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1941,
-    "other_brand": "インレビックカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2829,
-    "other_brand": "エリスロシン点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用の増強が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2830,
-    "other_brand": "エリスロシン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用の増強が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2827,
-    "other_brand": "エリスロシンドライシロップ10％",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用の増強が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "鎮静作用の増強が報告されているので、減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3254,
-    "other_brand": "オラビ錠口腔用50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長があらわれるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3657,
-    "other_brand": "カイロック細粒40%",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3660,
-    "other_brand": "カソデックス錠80mg",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3841,
-    "other_brand": "カルブロック錠8mg",
-    "interaction_type": "caution",
-    "source_text": "本剤又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3941,
-    "other_brand": "カレトラ配合内用液",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 3942,
-    "other_brand": "カレトラ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4446,
-    "other_brand": "クラリスロマイシン錠小児用50mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4449,
-    "other_brand": "クラリスロマイシン錠200mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4454,
-    "other_brand": "クラリスロマイシン錠200mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4456,
-    "other_brand": "クラリスロマイシン錠200mg「TCK」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4445,
-    "other_brand": "クラリスロマイシン錠小児用50mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4831,
-    "other_brand": "グリベック錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が上昇することがある。本剤とシンバスタチンの併用により、シンバスタチンのCmax及びAUCは平均でそれぞれ2及び3倍の増加を示した。また、この相互作用には大きな個体差がみられ、Cmax及びAUCにおける比（併用/単独）の個別値はそれぞれ0.54～17.6及び0.75～15.7（最小値～最大値）の範囲であった。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5096,
-    "other_brand": "ゲンボイヤ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これら薬剤の血中濃度が上昇し，重篤な又は生命に危険を及ぼすような事象（鎮静作用の延長や増強又は呼吸抑制等）が起こる可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5651,
-    "other_brand": "シムツーザ配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5657,
-    "other_brand": "シメチジン注200mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5659,
-    "other_brand": "シメチジン錠200mg「クニヒロ」",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5670,
-    "other_brand": "シュンレンカ皮下注463.5mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血漿中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5671,
-    "other_brand": "シュンレンカ錠300mg",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血漿中濃度が上昇する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5880,
-    "other_brand": "ジカディア錠150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5999,
-    "other_brand": "ジフルカンカプセル50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの代謝遅滞による血中濃度の上昇、作用の増強及び作用時間延長の報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6001,
-    "other_brand": "ジフルカンドライシロップ350mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの代謝遅滞による血中濃度の上昇、作用の増強及び作用時間延長の報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6003,
-    "other_brand": "ジフルカン静注液50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの代謝遅滞による血中濃度の上昇、作用の増強及び作用時間延長の報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6037,
-    "other_brand": "ジャイパーカ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6042,
-    "other_brand": "ジャクスタピッドカプセル5mg",
-    "interaction_type": "caution",
-    "source_text": "CYP3Aの基質の血中濃度が上昇するおそれがあるので、本剤と併用する場合には必要に応じてこれらの薬剤の減量を考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6103,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6112,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの血中濃度上昇により、過度の鎮静や呼吸抑制が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの血中濃度上昇により、過度の鎮静や呼吸抑制が発現するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの医薬品の血中濃度を高めることが報告されているので、これらの医薬品を減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7160,
-    "other_brand": "タズベリク錠200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7617,
-    "other_brand": "ツカイザ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8211,
-    "other_brand": "ディアコミットドライシロップ分包250mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度上昇や薬理学的相互作用により過度の鎮静が起こることがある。併用する場合にはこれらの薬剤を減量するなど、注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9699,
-    "other_brand": "ノクサフィル点滴静注300mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9700,
-    "other_brand": "ノクサフィル錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの作用の増強及び作用時間の延長を起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等が起こるおそれがあるので併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 9795,
-    "other_brand": "ハイツエキシン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11390,
-    "other_brand": "フルコナゾールカプセル50mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11391,
-    "other_brand": "フルコナゾールカプセル50mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11393,
-    "other_brand": "フルコナゾールカプセル50mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11394,
-    "other_brand": "フルコナゾールカプセル50mg「F」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11402,
-    "other_brand": "フルコナゾール静注液50mg「サワイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11403,
-    "other_brand": "フルコナゾール静注液50mg「F」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12024,
-    "other_brand": "プロジフ静注液100",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2456,
-    "other_brand": "エタノール「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2457,
-    "other_brand": "エタノール「ヤマゼン」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2458,
-    "other_brand": "エタノール（カネイチ）Ⓜ",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2459,
-    "other_brand": "エタノール シオエ",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2460,
-    "other_brand": "エタノール「イマヅ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2462,
-    "other_brand": "エタノール「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2464,
-    "other_brand": "エタノール「タカスギ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2465,
-    "other_brand": "エタノール「ニッコー」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2467,
-    "other_brand": "エタノール「マルイシ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2469,
-    "other_brand": "エタノール「ヤクハン」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2471,
-    "other_brand": "エタノール「ヨシダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2473,
-    "other_brand": "エタノール「東海」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 2476,
-    "other_brand": "エタノール（ミツマル）",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 9646,
-    "other_brand": "ネオ消アル「ニッコー」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 11845,
-    "other_brand": "プリジスタ錠600mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16649,
-    "other_brand": "消毒用エタノール「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16666,
-    "other_brand": "消毒用エタノール「東海」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16673,
-    "other_brand": "消毒用エタノール（ミツマル）",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16789,
-    "other_brand": "無水エタノール「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16790,
-    "other_brand": "無水エタノール「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16798,
-    "other_brand": "無水エタノール「東海」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16801,
-    "other_brand": "無水エタノール注「フソー」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 16803,
-    "other_brand": "無水エタノール（ミツマル）",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血中濃度が上昇し、作用の増強及び作用時間の延長が起こるおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "精神神経系等の副作用があらわれるおそれがある。なお、できるだけ飲酒は避けさせること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "精神神経系等の副作用があらわれるおそれがある。なお、できるだけ飲酒は避けさせること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "精神神経系等の副作用があらわれるおそれがある。なお、できるだけ飲酒は避けさせること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "精神神経系等の副作用があらわれるおそれがある。なお、できるだけ飲酒は避けさせること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "精神神経系等の副作用があらわれるおそれがある。なお、できるだけ飲酒は避けさせること。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "精神神経系等の副作用があらわれるおそれがある。なお、できるだけ飲酒は避けさせること。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11555,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11559,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11562,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11563,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11565,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12973,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12976,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12978,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 12987,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 11845,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16649,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16789,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16790,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2456,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2457,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16666,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2458,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2459,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2460,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2462,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16798,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2464,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2465,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16673,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2467,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16801,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2469,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 16803,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2471,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2473,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 2476,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9646,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "精神神経系等の副作用があらわれるおそれがある。なお、できるだけ飲酒は避けさせること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が低下するおそれがある。"
+    "other_id": 16433,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が低下するおそれがある。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が低下するおそれがある。"
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が低下するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等が起こるおそれがあるので併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "contraindicated",
-    "source_text": "過度の鎮静や呼吸抑制等が起こるおそれがあるので併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 10481,
-    "other_brand": "ビカルタミド錠80mg「オーハラ」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10483,
-    "other_brand": "ビカルタミド錠80mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10485,
-    "other_brand": "ビカルタミド錠80mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10487,
-    "other_brand": "ビカルタミド錠80mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10490,
-    "other_brand": "ビカルタミド錠80mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10492,
-    "other_brand": "ビカルタミド錠80mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10493,
-    "other_brand": "ビカルタミドOD錠80mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10484,
-    "other_brand": "ビカルタミド錠80mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10486,
-    "other_brand": "ビカルタミド錠80mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10496,
-    "other_brand": "ビカルタミドOD錠80mg「ニプロ」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10488,
-    "other_brand": "ビカルタミド錠80mg「日医工」（旧製品）",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10489,
-    "other_brand": "ビカルタミド錠80mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10491,
-    "other_brand": "ビカルタミド錠80mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "主にCYP3A4によって代謝される薬物の作用を増強するおそれがある。但し、相互作用に関する報告症例はない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10652,
-    "other_brand": "ビラフトビカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "CYP3Aの基質となる薬剤と併用する場合は、これらの薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10654,
-    "other_brand": "ビラミューン錠200",
-    "interaction_type": "caution",
-    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11392,
-    "other_brand": "フルコナゾールカプセル50mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの代謝遅滞による血中濃度の上昇、作用の増強及び作用時間延長の報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11395,
-    "other_brand": "フルコナゾールカプセル50mg「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの代謝遅滞による血中濃度の上昇、作用の増強及び作用時間延長の報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11408,
-    "other_brand": "フルコナゾール静注50mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの代謝遅滞による血中濃度の上昇、作用の増強及び作用時間延長の報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11409,
-    "other_brand": "フルコナゾール静注50mg「NP」",
-    "interaction_type": "contraindicated",
-    "source_text": "トリアゾラムの代謝遅滞による血中濃度の上昇、作用の増強及び作用時間延長の報告がある\n。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11653,
-    "other_brand": "ブルキンザカプセル80mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11961,
-    "other_brand": "プレジコビックス配合錠",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度上昇により、過度の鎮静や呼吸抑制等の重篤な又は生命に危険を及ぼすような事象が起こる可能性がある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12242,
-    "other_brand": "ヘルベッサー注射用250",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12241,
-    "other_brand": "ヘルベッサー注射用10",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12244,
-    "other_brand": "ヘルベッサー錠30",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12246,
-    "other_brand": "ヘルベッサーRカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "トリアゾラムの血中濃度上昇による症状（睡眠時間の延長等）があらわれることがある。定期的に臨床症状を観察し、異常が認められた場合には減量若しくは投与を中止する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12657,
-    "other_brand": "ペロスピロン塩酸塩錠4mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "CYP3A4によって代謝される薬剤及び本剤による副作用が強くあらわれる可能性があるので、観察を十分に行い、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12964,
-    "other_brand": "ボノサップパック400",
-    "interaction_type": "caution",
-    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、クラリスロマイシンとの併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12977,
-    "other_brand": "ボリコナゾール錠50mg「トーワ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤との併用により、トリアゾラムの血中濃度が増加し、作用の増強や作用時間延長を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12974,
-    "other_brand": "ボリコナゾール錠50mg「JG」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤との併用により、トリアゾラムの血中濃度が増加し、作用の増強や作用時間延長を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 12980,
-    "other_brand": "ボリコナゾール錠50mg「NIG」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤との併用により、トリアゾラムの血中濃度が増加し、作用の増強や作用時間延長を引き起こすおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13764,
-    "other_brand": "メフィーゴパック",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13989,
-    "other_brand": "モディオダール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度が低下するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15097,
-    "other_brand": "ルマケラス錠120mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15117,
-    "other_brand": "ルーラン錠4mg",
-    "interaction_type": "caution",
-    "source_text": "CYP3A4によって代謝される薬剤及び本剤による副作用が強くあらわれる可能性があるので、観察を十分に行い、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15178,
-    "other_brand": "レザルタス配合錠LD",
-    "interaction_type": "caution",
-    "source_text": "アゼルニジピン又はこれらの薬剤の作用が増強されるおそれがある。必要があれば本剤の成分であるアゼルニジピンを減量した処方に切り替えること、又はこれらの薬剤を減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15199,
-    "other_brand": "レットヴィモカプセル40mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15201,
-    "other_brand": "レットヴィモ錠40mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15832,
-    "other_brand": "ロゼウス静注液10mg",
-    "interaction_type": "caution",
-    "source_text": "他のビンカアルカロイド系抗悪性腫瘍剤との併用で筋神経系の副作用の増強が報告されている。"
+    "interaction_type": "caution"
   }
 ]

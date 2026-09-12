@@ -1,458 +1,306 @@
 [
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "・トルバプタンとの併用が避けられない場合は、トルバプタンの減量あるいは、低用量から開始するなど用量に注意すること。・本剤とイミダフェナシンの併用により、イミダフェナシンのC\nmax\n及びAUCがそれぞれ1.32倍及び1.78倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "トルバプタンとの併用が避けられない場合は、トルバプタンの減量あるいは、低用量から開始するなど用量に注意すること。\n本剤とイミダフェナシンの併用により、イミダフェナシンのC\nmax\n及びAUCがそれぞれ1.32倍及び1.78倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "・トルバプタンとの併用が避けられない場合は、トルバプタンの減量あるいは、低用量から開始するなど用量に注意すること。・本剤とイミダフェナシンの併用により、イミダフェナシンのC\nmax\n及びAUCがそれぞれ1.32倍及び1.78倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "・トルバプタンとの併用が避けられない場合は、トルバプタンの減量あるいは、低用量から開始するなど用量に注意すること。・本剤とイミダフェナシンの併用により、イミダフェナシンのC\nmax\n及びAUCがそれぞれ1.32倍及び1.78倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "・トルバプタンとの併用が避けられない場合は、トルバプタンの減量あるいは、低用量から開始するなど用量に注意すること。・本剤とイミダフェナシンの併用により、イミダフェナシンのC\nmax\n及びAUCがそれぞれ1.32倍及び1.78倍増加したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3941,
-    "other_brand": "カレトラ配合内用液",
-    "interaction_type": "caution",
-    "source_text": "マラビロクの血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3942,
-    "other_brand": "カレトラ配合錠",
-    "interaction_type": "caution",
-    "source_text": "マラビロクの血中濃度が上昇するおそれがある。"
-  },
-  {
-    "other_id": 2456,
-    "other_brand": "エタノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2457,
-    "other_brand": "エタノール「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2458,
-    "other_brand": "エタノール（カネイチ）Ⓜ",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2459,
-    "other_brand": "エタノール シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2460,
-    "other_brand": "エタノール「イマヅ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2462,
-    "other_brand": "エタノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2464,
-    "other_brand": "エタノール「タカスギ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2465,
-    "other_brand": "エタノール「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2467,
-    "other_brand": "エタノール「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2469,
-    "other_brand": "エタノール「ヤクハン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2471,
-    "other_brand": "エタノール「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2473,
-    "other_brand": "エタノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 2476,
-    "other_brand": "エタノール（ミツマル）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 9646,
-    "other_brand": "ネオ消アル「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16649,
-    "other_brand": "消毒用エタノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 16666,
-    "other_brand": "消毒用エタノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 16673,
-    "other_brand": "消毒用エタノール（ミツマル）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16789,
-    "other_brand": "無水エタノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16790,
-    "other_brand": "無水エタノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2456,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2457,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16666,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2459,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2462,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16798,
-    "other_brand": "無水エタノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2464,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2465,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16673,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2467,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16801,
-    "other_brand": "無水エタノール注「フソー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2469,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16803,
-    "other_brand": "無水エタノール（ミツマル）",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2471,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2473,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2476,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9646,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が上昇するおそれがあるので、本剤の用量を150mg1日2回に減量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
-  },
-  {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血中濃度が低下するおそれがあるので、強力なCYP3A4阻害剤を併用せずにこれらの薬剤を併用投与する場合、本剤の用量を600mg1日2回に増量すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8040,
-    "other_brand": "テポックスカプセル200㎎",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血漿中濃度が低下し、効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10126,
-    "other_brand": "パキロビッドパック600",
-    "interaction_type": "caution",
-    "source_text": "マラビロクの血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10127,
-    "other_brand": "パキロビッドパック600（旧製品：リトナビル 識別コードNK）",
-    "interaction_type": "caution",
-    "source_text": "マラビロクの血中濃度が上昇するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11845,
-    "other_brand": "プリジスタ錠600mg",
-    "interaction_type": "caution",
-    "source_text": "本剤/リトナビル600/100 mg 1日2回とマラビロク150 mg 1日2回を併用したとき、マラビロクのAUCが305%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11961,
-    "other_brand": "プレジコビックス配合錠",
-    "interaction_type": "caution",
-    "source_text": "マラビロクの血中濃度を上昇させる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   }
 ]

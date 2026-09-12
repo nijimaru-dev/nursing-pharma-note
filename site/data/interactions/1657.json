@@ -1,146 +1,98 @@
 [
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 1449,
-    "other_brand": "アーリーダ錠60mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3183,
-    "other_brand": "オペプリム",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7937,
-    "other_brand": "ティブソボ錠250mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "other_id": 1283,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11145,
-    "other_brand": "フェノバルビタール「ホエイ」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11147,
-    "other_brand": "フェノバール原末",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11150,
-    "other_brand": "フェノバール注射液100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1449,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 3183,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6785,
-    "other_brand": "ゼフィックス錠100",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤のイスラトラビルの活性体であるイスラトラビル三リン酸の細胞内濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の血漿中ドラビリン濃度が低下し、治療効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2796,
-    "other_brand": "エボルトラ点滴静注20mg",
-    "interaction_type": "caution",
-    "source_text": "本剤のイスラトラビルの活性体であるイスラトラビル三リン酸の細胞内濃度が低下し、治療効果が減弱するおそれがあるため、本剤との併用は推奨しない。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10652,
-    "other_brand": "ビラフトビカプセル50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の血中濃度が低下するため、作用が減弱し、これらの薬剤に対する耐性出現のおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 14938,
-    "other_brand": "リファンピシンカプセル150mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "ドラビリンの作用が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15088,
-    "other_brand": "ルピアール坐剤25",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 15965,
-    "other_brand": "ワコビタール坐剤15",
-    "interaction_type": "contraindicated",
-    "source_text": "これらの薬剤の代謝が促進され、血中濃度が低下するおそれがある。"
+    "interaction_type": "contraindicated"
   }
 ]

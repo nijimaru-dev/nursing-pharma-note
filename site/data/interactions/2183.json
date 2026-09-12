@@ -1,80 +1,54 @@
 [
   {
-    "other_id": 6277,
-    "other_brand": "ステロネマ注腸3mg",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
+    "other_id": 15041,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12354,
-    "other_brand": "ベタメタゾン錠0.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
-  },
-  {
-    "other_id": 14836,
-    "other_brand": "リノロサール注射液2mg（0.4％）",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
-  },
-  {
-    "other_id": 14839,
-    "other_brand": "リノロサール眼科耳鼻科用液0.1％",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
-  },
-  {
-    "other_id": 15033,
-    "other_brand": "リンデロン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
-  },
-  {
-    "other_id": 15034,
-    "other_brand": "リンデロン坐剤0.5mg",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
-  },
-  {
-    "other_id": 15038,
-    "other_brand": "リンデロン注20mg（2%）",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
-  },
-  {
-    "other_id": 15039,
-    "other_brand": "リンデロン注20mg（0.4%）",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
-  },
-  {
-    "other_id": 15041,
-    "other_brand": "リンデロン注2mg（0.4%）",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15043,
-    "other_brand": "リンデロン点眼・点耳・点鼻液0.1%",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15044,
-    "other_brand": "リンデロン点眼液0.01%",
-    "interaction_type": "caution",
-    "source_text": "併用により肺水腫を発生することがあるとの報告がある。水分の過負荷を避け、十分な観察を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6277,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14836,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14839,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15033,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15034,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15038,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15039,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16985,
-    "other_brand": "硫酸マグネシウム「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "CK上昇、呼吸抑制、循環器関連の副作用(胸痛、心筋虚血)があらわれることがある\n。また、出生した早産児の高カリウム血症のリスクが高いことが報告されている\n。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16987,
-    "other_brand": "硫酸マグネシウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "CK上昇、呼吸抑制、循環器関連の副作用(胸痛、心筋虚血)があらわれることがある\n。また、出生した早産児の高カリウム血症のリスクが高いことが報告されている\n。"
+    "interaction_type": "caution"
   }
 ]

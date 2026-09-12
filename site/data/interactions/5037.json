@@ -1,110 +1,74 @@
 [
   {
     "other_id": 4949,
-    "other_brand": "グレースビット錠50mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5620,
-    "other_brand": "シタフロキサシン錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすことがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5633,
-    "other_brand": "シプロキサン錠100mg",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5633,
-    "other_brand": "シプロキサン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5635,
-    "other_brand": "シプロフロキサシン点滴静注液200mg「NP」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5635,
-    "other_brand": "シプロフロキサシン点滴静注液200mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "contraindicated",
-    "source_text": "痙攣を起こすことがあるので、併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6163,
-    "other_brand": "スオード錠100",
-    "interaction_type": "caution",
-    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15184,
-    "other_brand": "レスピア静注・経口液60mg",
-    "interaction_type": "caution",
-    "source_text": "ケトプロフェンの血中濃度が増加する。尿量が減少する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15977,
-    "other_brand": "ワルファリンK錠0.5mg「トーワ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15976,
-    "other_brand": "ワルファリンK錠1mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15982,
-    "other_brand": "ワルファリンK錠1mg「F」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15978,
-    "other_brand": "ワルファリンK錠0.5mg「NIG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15979,
-    "other_brand": "ワルファリンK錠0.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16001,
-    "other_brand": "ワーファリン錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用を増強することがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+    "interaction_type": "caution"
   }
 ]

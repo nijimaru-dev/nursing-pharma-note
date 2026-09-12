@@ -1,254 +1,170 @@
 [
   {
     "other_id": 481,
-    "other_brand": "アデノシン負荷用静注60mgシリンジ「FRI」",
-    "interaction_type": "contraindicated",
-    "source_text": "メチルキサンチン類によりアデノシンによる冠血流速度の増加及び冠血管抵抗の減少を抑制し、虚血診断に影響を及ぼすことがある。本剤を投与する場合は12時間以上の間隔をあけること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 482,
-    "other_brand": "アデノスキャン注60mg",
-    "interaction_type": "contraindicated",
-    "source_text": "メチルキサンチン類によりアデノシンによる冠血流速度の増加及び冠血管抵抗の減少を抑制し、虚血診断に影響を及ぼすことがある。本剤を投与する場合は12時間以上の間隔をあけること。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 646,
-    "other_brand": "アニスーマ坐剤",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には、減量又は投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 693,
-    "other_brand": "アプニション静注15mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 794,
-    "other_brand": "アミノフィリン注250mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 795,
-    "other_brand": "アミノフィリン静注液250mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 796,
-    "other_brand": "アミノフィリン静注液250mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 798,
-    "other_brand": "アミノフィリン静注250mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 6025,
-    "other_brand": "ジプロフィリン注300mg「エーザイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 6026,
-    "other_brand": "ジプロフィリン注300mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7700,
-    "other_brand": "ツムラの生薬マオウ",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7956,
-    "other_brand": "テオフィリンドライシロップ20％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7960,
-    "other_brand": "テオフィリン徐放ドライシロップ小児用20％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7961,
-    "other_brand": "テオフィリン徐放錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7962,
-    "other_brand": "テオフィリン徐放錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7965,
-    "other_brand": "テオフィリン徐放錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7966,
-    "other_brand": "テオフィリン徐放錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7971,
-    "other_brand": "テオロング錠50mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 8657,
-    "other_brand": "トチモトのマオウ",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 9305,
-    "other_brand": "ナカジマ　マオウ",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 9628,
-    "other_brand": "ネオフィリン原末",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 9629,
-    "other_brand": "ネオフィリン注点滴用バッグ250mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 9630,
-    "other_brand": "ネオフィリン注250mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 9632,
-    "other_brand": "ネオフィリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 12860,
-    "other_brand": "ホリエ　マオウK",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 13166,
-    "other_brand": "マオウダイコーM",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 16005,
-    "other_brand": "ヱフェドリン「ナガヰ」注射液40mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 16418,
-    "other_brand": "小島麻黄M",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 17165,
-    "other_brand": "花扇マオウK",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17472,
-    "other_brand": "高砂マオウM",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "caution",
-    "source_text": "頻脈、血圧上昇等が現れることがある。"
+    "other_id": 16005,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "頻脈、血圧上昇等が現れることがある。"
+    "other_id": 6025,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6026,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 17165,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8657,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7956,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7700,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7960,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7961,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7962,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 794,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9628,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7965,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9630,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7966,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9632,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 795,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 796,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7971,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9629,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 798,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16418,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9305,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13166,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 693,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12860,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "頻脈、血圧上昇等が現れることがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
+    "other_id": 2269,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
+    "other_id": 253,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "過度の中枢神経刺激作用が現れることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8750,
-    "other_brand": "トラベルミン注",
-    "interaction_type": "caution",
-    "source_text": "本剤はジプロフィリンを含有しているため、過度の中枢神経刺激作用があらわれることがある。副作用の発現に注意し、異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8751,
-    "other_brand": "トラベルミン配合錠",
-    "interaction_type": "caution",
-    "source_text": "本剤はジプロフィリンを含有しているため、過度の中枢神経刺激作用があらわれることがある。異常が認められた場合には減量又は投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   }
 ]

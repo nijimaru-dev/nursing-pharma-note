@@ -1,38 +1,26 @@
 [
   {
-    "other_id": 2537,
-    "other_brand": "エトキシスクレロール1%注射液",
-    "interaction_type": "caution",
-    "source_text": "同時投与を避けることが望ましい。1内視鏡治療で同時に使用すると、食道潰瘍、食道狭窄、胸水貯留の発現率が高くなることが報告されている。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "同時投与を避けることが望ましい。1内視鏡治療で同時に使用すると、食道潰瘍、食道狭窄、胸水貯留の発現率が高くなることが報告されている。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "同時投与を避けることが望ましい。1内視鏡治療で同時に使用すると、食道潰瘍、食道狭窄、胸水貯留の発現率が高くなることが報告されている。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "同時投与を避けることが望ましい。1内視鏡治療で同時に使用すると、食道潰瘍、食道狭窄、胸水貯留の発現率が高くなることが報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "同時投与を避けることが望ましい。1内視鏡治療で同時に使用すると、食道潰瘍、食道狭窄、胸水貯留の発現率が高くなることが報告されている。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2537,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13130,
-    "other_brand": "ポリドカスクレロール0.5%注2mL",
-    "interaction_type": "caution",
-    "source_text": "同時投与を避けることが望ましい。1内視鏡治療で同時に使用すると、食道潰瘍、食道狭窄、胸水貯留の発現率が高くなることが報告されている。"
+    "interaction_type": "caution"
   }
 ]

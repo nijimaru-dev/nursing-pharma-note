@@ -7,16 +7,28 @@ karteno_drugs.db（pmda_tenpu_parser.pyが作るSQLite）を、
 全薬剤分を1ファイルにまとめると、全薬剤展開時（約1万2000件）に
 クライアント側の初期読み込みが重くなりすぎるため、以下のように分離する：
 
-- index.json              : 検索用の軽量インデックス（id・薬品名・一般名のみ）
-- drugs/{id}.json         : 薬品ごとの詳細情報（クリック時に遅延読み込み）
-- interactions/{id}.json  : その薬品が関わる相互作用ペアのみ（相手薬のid・ブランド名・
-                             注意種別・記載テキスト）。複数薬チェック画面は選択した
-                             薬のIDの分だけ都度フェッチする。
+- index.json                        : 検索用の軽量インデックス（id・薬品名・一般名のみ）
+- drugs/{id}.json                   : 薬品ごとの詳細情報（クリック時に遅延読み込み）
+- interactions/{id}.json            : その薬品が関わる相互作用ペアの「索引」のみ
+                                       （相手薬のid・注意種別だけ。本文は含まない）
+- interactions/pairs/{min}_{max}.json : ペア単位の本文（注意種別・記載テキスト）。
+                                       min/maxは薬品idを小さい順に並べたもの。
 
-【変更履歴】当初はinteractions.jsonを1ファイルにまとめていたが、実データ全件
+複数薬チェック画面は、選択した薬のIDの分だけ索引ファイルを取得し、選択中の
+組み合わせに絞り込んでから、実際に表示が必要なペアのpairsファイルだけを
+取得する（無関係なペアの本文はダウンロードしない）。
+
+【変更履歴・その1】当初はinteractions.jsonを1ファイルにまとめていたが、実データ全件
 （約1万件の薬剤・45万件の突合ペア）で書き出したところ195MBの単一ファイルになり、
 GitHubの1ファイル100MB上限に抵触して運用不可能と判明したため、薬品ごとに分割する
 方式に変更した。
+
+【変更履歴・その2、2026-09-12】薬品ごとの分割（interactions/{id}.json）は、
+1つのペアの本文（source_text等）を関係する両方の薬品のファイルに複製して
+持たせていたため、全件展開時に287MB（本文が正味の2倍近く）になっていた。
+ペアの本文はmin_id/max_idで決まる1ファイルにのみ持たせ（interactions/pairs/）、
+薬品ごとのファイルは「どのペアを見に行けばよいか」を示す軽量な索引だけに
+変更し、本文の二重持ちを解消した（HANDOFF.md 7章の懸案事項に対応）。
 
 分割単位（頭文字別・薬効分類別等）は未実装。全薬剤展開時にindex.jsonのサイズが
 問題になる場合は、ここを分割する対応が必要（Claude Code側での検証待ち）。
@@ -74,34 +86,38 @@ def derive_observation_points(other_adverse_events):
     return points
 
 
-def build_interactions_by_drug(conn):
+def build_pair_interactions(conn):
     """
-    drug_pair_interactionを、薬品idごとの「相手薬との相互作用リスト」に変換する。
-    ペアは両方向（A視点・B視点）で該当薬のリストに含める。
+    drug_pair_interaction（min_id/max_id形式）から、書き出し用の2種類の構造を作る。
+
+    - index_by_drug : 薬品idごとの「索引」（相手薬のid・注意種別だけ。本文は含まない）。
+                       interactions/{id}.json として書き出す。
+    - pairs_content : (min_id, max_id) -> 本文（注意種別・記載テキスト）のリスト。
+                       同じペアにcontraindicated/cautionが両方記載されているケースに
+                       対応するためリストにしている。interactions/pairs/{min}_{max}.json
+                       として、ペアにつき1ファイルだけ書き出す（本文の二重持ちをしない）。
     """
     pairs = conn.execute(
-        """SELECT dp.drug_a_id, dp.drug_b_id, dp.interaction_type, dp.source_text,
-                  a.brand_name AS a_brand, b.brand_name AS b_brand
-           FROM drug_pair_interaction dp
-           JOIN drug_master a ON a.id = dp.drug_a_id
-           JOIN drug_master b ON b.id = dp.drug_b_id"""
+        "SELECT min_id, max_id, interaction_type, source_text FROM drug_pair_interaction"
     ).fetchall()
 
-    by_drug = {}
+    index_by_drug = {}
+    pairs_content = {}
     for p in pairs:
-        by_drug.setdefault(p["drug_a_id"], []).append({
-            "other_id": p["drug_b_id"],
-            "other_brand": p["b_brand"],
+        min_id, max_id = p["min_id"], p["max_id"]
+        index_by_drug.setdefault(min_id, []).append({
+            "other_id": max_id,
+            "interaction_type": p["interaction_type"],
+        })
+        index_by_drug.setdefault(max_id, []).append({
+            "other_id": min_id,
+            "interaction_type": p["interaction_type"],
+        })
+        pairs_content.setdefault((min_id, max_id), []).append({
             "interaction_type": p["interaction_type"],
             "source_text": p["source_text"],
         })
-        by_drug.setdefault(p["drug_b_id"], []).append({
-            "other_id": p["drug_a_id"],
-            "other_brand": p["a_brand"],
-            "interaction_type": p["interaction_type"],
-            "source_text": p["source_text"],
-        })
-    return by_drug, len(pairs)
+    return index_by_drug, pairs_content, len(pairs)
 
 
 def export(db_path: Path, out_dir: Path):
@@ -112,9 +128,11 @@ def export(db_path: Path, out_dir: Path):
     drugs_dir.mkdir(parents=True, exist_ok=True)
     interactions_dir = out_dir / "interactions"
     interactions_dir.mkdir(parents=True, exist_ok=True)
+    pairs_dir = interactions_dir / "pairs"
+    pairs_dir.mkdir(parents=True, exist_ok=True)
 
     drugs = conn.execute("SELECT * FROM drug_master").fetchall()
-    interactions_by_drug, pair_count = build_interactions_by_drug(conn)
+    index_by_drug, pairs_content, pair_count = build_pair_interactions(conn)
 
     index = []
     for d in drugs:
@@ -154,18 +172,25 @@ def export(db_path: Path, out_dir: Path):
         with open(drugs_dir / f"{d['id']}.json", "w", encoding="utf-8") as f:
             json.dump(detail, f, ensure_ascii=False, indent=2)
 
-        drug_pairs = interactions_by_drug.get(d["id"])
-        if drug_pairs:
+        drug_pair_index = index_by_drug.get(d["id"])
+        if drug_pair_index:
             with open(interactions_dir / f"{d['id']}.json", "w", encoding="utf-8") as f:
-                json.dump(drug_pairs, f, ensure_ascii=False, indent=2)
+                json.dump(drug_pair_index, f, ensure_ascii=False, indent=2)
         # 相互作用ペアが無い薬品はファイル自体を作らない
         # （クライアント側は404を「相互作用の記載なし」として扱う）
+
+    for (min_id, max_id), content in pairs_content.items():
+        with open(pairs_dir / f"{min_id}_{max_id}.json", "w", encoding="utf-8") as f:
+            json.dump(content, f, ensure_ascii=False, indent=2)
 
     with open(out_dir / "index.json", "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
 
     conn.close()
-    print(f"書き出し完了: 薬品 {len(index)} 件、相互作用ペア {pair_count} 件 -> {out_dir}")
+    print(
+        f"書き出し完了: 薬品 {len(index)} 件、相互作用ペア {pair_count} 件"
+        f"（ペア本文ファイル {len(pairs_content)} 件） -> {out_dir}"
+    )
 
 
 def main():

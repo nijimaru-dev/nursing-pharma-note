@@ -1,338 +1,226 @@
 [
   {
-    "other_id": 287,
-    "other_brand": "アスピリン「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 290,
-    "other_brand": "アスピリン「ホエイ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 291,
-    "other_brand": "アスピリン「ヨシダ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 292,
-    "other_brand": "アスピリン原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 294,
-    "other_brand": "アスピリン腸溶錠100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 296,
-    "other_brand": "アスピリン腸溶錠100mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 297,
-    "other_brand": "アスピリン腸溶錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 1235,
-    "other_brand": "アルプロスタジル注5μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 1236,
-    "other_brand": "アルプロスタジル注5μg「F」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
     "other_id": 1240,
-    "other_brand": "アルプロスタジル注5μgシリンジ「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 1241,
-    "other_brand": "アルプロスタジル注10μgシリンジ「日医工」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 1248,
-    "other_brand": "アルプロスタジル注5μgシリンジ「日医工」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 2228,
-    "other_brand": "ウロナーゼ冠動注用12万単位",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 2229,
-    "other_brand": "ウロナーゼ静注用6万単位",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4563,
-    "other_brand": "クロピドグレル錠25mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1235,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4565,
-    "other_brand": "クロピドグレル錠25mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1236,
+    "interaction_type": "caution"
   },
   {
     "other_id": 4567,
-    "other_brand": "クロピドグレル錠25mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 4570,
-    "other_brand": "クロピドグレル錠25mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 4572,
-    "other_brand": "クロピドグレル錠25mg「日新」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 4573,
-    "other_brand": "クロピドグレル錠25mg「明治」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 4574,
-    "other_brand": "クロピドグレル錠25mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 4575,
-    "other_brand": "クロピドグレル錠25mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 4581,
-    "other_brand": "クロピドグレル錠25mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 7542,
-    "other_brand": "チクロピジン塩酸塩錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 7543,
-    "other_brand": "チクロピジン塩酸塩錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9890,
-    "other_brand": "バイアスピリン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
-  },
-  {
-    "other_id": 10157,
-    "other_brand": "パナルジン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "other_id": 4570,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4572,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4573,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4574,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4575,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1248,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 290,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 291,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 292,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9890,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 294,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4581,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 296,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1241,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10157,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "出血した時、それを助長するおそれがある。併用時には出血等の副作用を予知するため、血液凝固能検査等を十分に行う。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "other_id": 2228,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "other_id": 2229,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "other_id": 7542,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "other_id": 7543,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11555,
-    "other_brand": "フロリードゲル経口用2%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6116,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11559,
-    "other_brand": "フロリードF注200mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。また、グレープフルーツジュースとの同時服用をしないように注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3224,
-    "other_brand": "オメプラゾール錠10「SW」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3225,
-    "other_brand": "オメプラゾール錠10mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3226,
-    "other_brand": "オメプラゾール錠10mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強するおそれがある。併用する場合は減量あるいは低用量から開始するなど注意すること。"
+    "interaction_type": "caution"
   }
 ]

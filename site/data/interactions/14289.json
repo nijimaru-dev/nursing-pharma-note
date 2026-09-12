@@ -1,26 +1,18 @@
 [
   {
     "other_id": 3025,
-    "other_brand": "オキシドール「ヤマゼン」M",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤が分解する。"
-  },
-  {
-    "other_id": 3039,
-    "other_brand": "オキシドール「東海」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤が分解する。"
-  },
-  {
-    "other_id": 3042,
-    "other_brand": "オキシドール消毒用液「マルイシ」",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤が分解する。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16978,
-    "other_brand": "硝酸銀「VTRS」原末",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤が分解する。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 3042,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 3039,
+    "interaction_type": "contraindicated"
   }
 ]

@@ -1,494 +1,330 @@
 [
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
-  },
-  {
     "other_id": 10119,
-    "other_brand": "パオスクレー内痔核内注射用250mg",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11154,
-    "other_brand": "フェノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11155,
-    "other_brand": "フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11156,
-    "other_brand": "フェノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16703,
-    "other_brand": "液状フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ミコフェノール酸 モフェチルの作用が減弱するおそれがある。"
-  },
-  {
-    "other_id": 183,
-    "other_brand": "アジスロマイシン小児用細粒10％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
-  },
-  {
-    "other_id": 186,
-    "other_brand": "アジスロマイシン錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
-  },
-  {
-    "other_id": 187,
-    "other_brand": "アジスロマイシン錠250mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
-  },
-  {
-    "other_id": 189,
-    "other_brand": "アジスロマイシン錠250mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
-  },
-  {
-    "other_id": 191,
-    "other_brand": "アジマイシン点眼液1%",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5954,
-    "other_brand": "ジスロマックカプセル小児用100mg",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5955,
-    "other_brand": "ジスロマック点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5956,
-    "other_brand": "ジスロマック細粒小児用10％",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5957,
-    "other_brand": "ジスロマック錠250mg",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5958,
-    "other_brand": "ジスロマック錠600mg",
-    "interaction_type": "caution",
-    "source_text": "アジスロマイシン水和物の最高血中濃度低下の報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 183,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 186,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9752,
-    "other_brand": "ノルフロキサシン点眼液0.3％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 187,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9753,
-    "other_brand": "ノルフロキサシン点眼液0.3%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 189,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9754,
-    "other_brand": "ノルフロキサシン点眼液0.3％「日新」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9755,
-    "other_brand": "ノルフロキサシン点眼液0.3%「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9756,
-    "other_brand": "ノルフロキサシン錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 9757,
-    "other_brand": "ノルフロキサシン錠100mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 191,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5637,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15430,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9752,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9753,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9754,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9755,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9756,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9757,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7408,
-    "other_brand": "ダイドロネル錠200",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7594,
-    "other_brand": "チラーヂンS散0.01％",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 5946,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7595,
-    "other_brand": "チラーヂンS錠12.5μg",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 7600,
-    "other_brand": "チラーヂンS静注液200μg",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7594,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7595,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2208,
-    "other_brand": "ウルソデオキシコール酸錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2212,
-    "other_brand": "ウルソデオキシコール酸錠100mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
-  },
-  {
-    "other_id": 6543,
-    "other_brand": "セフジニルカプセル50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6544,
-    "other_brand": "セフジニルカプセル50mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6548,
-    "other_brand": "セフジニル細粒小児用10%「JG」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6549,
-    "other_brand": "セフジニル細粒小児用10％「SW」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6550,
-    "other_brand": "セフジニル錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "これらの併用薬剤の効果を減弱させることがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1190,
-    "other_brand": "アルファカルシドールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 1192,
-    "other_brand": "アルファカルシドールカプセル0.25μg「フソー」",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 1215,
-    "other_brand": "アルファカルシドール錠0.25μg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 1218,
-    "other_brand": "アルファロールカプセル0.25μg",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 1221,
-    "other_brand": "アルファロールカプセル3μg",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 1222,
-    "other_brand": "アルファロール内用液0.5μg／mL",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 1223,
-    "other_brand": "アルファロール散1μg／g",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 3763,
-    "other_brand": "カルシトリオールカプセル0.25μg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 3764,
-    "other_brand": "カルシトリオールカプセル0.25μg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 3773,
-    "other_brand": "カルシトリオール静注液0.5μg「F」",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
-  },
-  {
-    "other_id": 15550,
-    "other_brand": "ロカルトロールカプセル0.25",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
+    "other_id": 6543,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15552,
-    "other_brand": "ロカルトロール注0.5",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1218,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1221,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1222,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1223,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1190,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1192,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15985,
-    "other_brand": "ワンアルファ錠0.25μg",
-    "interaction_type": "caution",
-    "source_text": "高マグネシウム血症を起こすことがあるので、慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4339,
-    "other_brand": "クエン酸「ヤマゼン」",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 3763,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4341,
-    "other_brand": "クエン酸ナトリウム水和物「コザカイ」原末",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 3764,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4342,
-    "other_brand": "クエン酸ナトリウム水和物原末「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 3773,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 7554,
-    "other_brand": "チトラミン液「フソー」−4%",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること。"
+    "other_id": 15550,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1215,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17249,
-    "other_brand": "輸血用チトラミン「フソー」",
-    "interaction_type": "caution",
-    "source_text": "血中アルミニウム濃度が上昇することがあるので、同時に服用させないなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7554,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4339,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4341,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4342,
+    "interaction_type": "caution"
   },
   {
     "other_id": 3746,
-    "other_brand": "カリエード散",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 3751,
-    "other_brand": "カリメートドライシロップ92.59%",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 3752,
-    "other_brand": "カリメート散",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
-  },
-  {
-    "other_id": 3753,
-    "other_brand": "カリメート経口液20%",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4963,
-    "other_brand": "ケイキサレートドライシロップ 76%",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4964,
-    "other_brand": "ケイキサレート散",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13125,
-    "other_brand": "ポリスチレンスルホン酸Ca「フソー」原末",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13126,
-    "other_brand": "ポリスチレンスルホン酸Ca散96.7％分包5.17g〈ハチ〉",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3751,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3752,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 3753,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13129,
-    "other_brand": "ポリスチレンスルホン酸Na「フソー」原末",
-    "interaction_type": "caution",
-    "source_text": "アルカローシスがあらわれることがある。観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8024,
-    "other_brand": "テビケイ錠50mg",
-    "interaction_type": "caution",
-    "source_text": "ドルテグラビルの血漿中濃度をC\nmax\nで72%、C\n24\nで74%低下させる。ドルテグラビルナトリウムは本剤投与2時間前又は6時間後の投与が推奨される。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7417,
-    "other_brand": "ダサチニブ錠20mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤との同時投与は避けること。本剤の投与が必要な場合には、ダサチニブ投与の少なくとも2時間前又は2時間後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4117,
-    "other_brand": "ガバペンシロップ5％",
-    "interaction_type": "caution",
-    "source_text": "同時に投与することにより、ガバペンチンの最高血漿中濃度（C\nmax\n）が17%及び血漿中濃度−時間曲線下面積（AUC）が20%低下した。本剤の投与後少なくとも2時間以降にガバペンチンを服用することが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4118,
-    "other_brand": "ガバペン錠200mg",
-    "interaction_type": "caution",
-    "source_text": "同時に投与することにより、ガバペンチンの最高血漿中濃度（C\nmax\n）が17%及び血漿中濃度−時間曲線下面積（AUC）が20%低下した。本剤の投与後少なくとも2時間以降にガバペンチンを服用することが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15497,
-    "other_brand": "レボレード錠12.5mg",
-    "interaction_type": "caution",
-    "source_text": "同時に服用するとエルトロンボパグ オラミンの吸収が著しく妨げられることがあるので、投与前4時間及び後2時間は本剤の投与を避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 490,
-    "other_brand": "アデムパス錠0.5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤投与はリオシグアト投与後1時間以上経過してからとすること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13127,
-    "other_brand": "ポリスチレンスルホン酸Ca経口ゼリー20%分包25g「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13128,
-    "other_brand": "ポリスチレンスルホン酸Ca顆粒89.29%分包5.6g「三和」",
-    "interaction_type": "caution",
-    "source_text": "本剤の効果が減弱するおそれがある。"
+    "interaction_type": "caution"
   }
 ]

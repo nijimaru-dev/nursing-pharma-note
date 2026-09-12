@@ -1,182 +1,122 @@
 [
   {
     "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 753,
-    "other_brand": "アマンタジン塩酸塩錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "幻覚、睡眠障害等の副作用が増強されることがあるので用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 754,
-    "other_brand": "アマンタジン塩酸塩錠50mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "幻覚、睡眠障害等の副作用が増強されることがあるので用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 757,
-    "other_brand": "アマンタジン塩酸塩錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "幻覚、睡眠障害等の副作用が増強されることがあるので用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 758,
-    "other_brand": "アマンタジン塩酸塩錠50mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "幻覚、睡眠障害等の副作用が増強されることがあるので用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 759,
-    "other_brand": "アマンタジン塩酸塩錠50mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "幻覚、睡眠障害等の副作用が増強されることがあるので用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼを起こすことがあるので、MAO阻害剤投与中又はMAO阻害剤投与中止後2週間は、本剤を投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼを起こすことがあるので、MAO阻害剤投与中又はMAO阻害剤投与中止後2週間は、本剤を投与しないこと。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼを起こすことがあるので、MAO阻害剤投与中又はMAO阻害剤投与中止後2週間は、本剤を投与しないこと。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼを起こすことがあるので、MAO阻害剤投与中又はMAO阻害剤投与中止後2週間は、本剤を投与しないこと。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼを起こすことがあるので、MAO阻害剤投与中又はMAO阻害剤投与中止後2週間は、本剤を投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼを起こすことがあるので、MAO阻害剤投与中又はMAO阻害剤投与中止後2週間は、本剤を投与しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼを起こすことがあるので、MAO阻害剤投与中又はMAO阻害剤投与中止後2週間は、本剤を投与しないこと。"
-  },
-  {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を増強することがあるので、観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を増強することがあるので、観察を十分に行うこと。"
-  },
-  {
-    "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を増強することがあるので、観察を十分に行うこと。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を増強することがあるので、観察を十分に行うこと。"
-  },
-  {
-    "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "昇圧アミンの作用を増強することがあるので、観察を十分に行うこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の副作用が増強されるおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の副作用が増強されるおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の副作用が増強されるおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9737,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "めまい、眠気等の副作用が増強されるおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5816,
-    "other_brand": "シンメトレル錠50mg",
-    "interaction_type": "caution",
-    "source_text": "幻覚、睡眠障害等の副作用が増強されることがあるので用量に注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 7427,
-    "other_brand": "ダットスキャン静注",
-    "interaction_type": "caution",
-    "source_text": "線条体における本剤の集積低下の原因となる可能性がある。画像を評価する際に留意すること。"
+    "interaction_type": "caution"
   }
 ]

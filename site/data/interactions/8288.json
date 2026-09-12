@@ -1,218 +1,146 @@
 [
   {
-    "other_id": 623,
-    "other_brand": "アドリアシン注用10",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "other_id": 3549,
+    "interaction_type": "caution"
   },
   {
     "other_id": 827,
-    "other_brand": "アムビゾーム点滴静注用50mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 1372,
-    "other_brand": "アンコチル錠500mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 2258,
-    "other_brand": "エクザール注射用10mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 3549,
-    "other_brand": "オンコビン注射用1mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 8955,
-    "other_brand": "ドキソルビシン塩酸塩注射液10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 8957,
-    "other_brand": "ドキソルビシン塩酸塩注射用10mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9798,
-    "other_brand": "ハイドレアカプセル500mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 9841,
-    "other_brand": "ハリゾンシロップ100mg/mL",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 11028,
-    "other_brand": "ファンギゾンシロップ100mg/mL",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 11029,
-    "other_brand": "ファンギゾン注射用50mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
-  },
-  {
-    "other_id": 12365,
-    "other_brand": "ベナンバックス注用300mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "トリメトプリムの併用により、ガンシクロビルの腎クリアランスが16%低下し、血漿中消失半減期が15%延長したとの報告がある。しかし、ガンシクロビルのAUC及びC\nmax\nに影響はなく臨床的に有意な変化とは考えられなかった。また、トリメトプリムのC\nmin\nが12%上昇したとの報告がある。"
+    "other_id": 623,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "トリメトプリムの併用により、ガンシクロビルの腎クリアランスが16%低下し、血漿中消失半減期が15%延長したとの報告がある。しかし、ガンシクロビルのAUC及びC\nmax\nに影響はなく臨床的に有意な変化とは考えられなかった。また、トリメトプリムのC\nmin\nが12%上昇したとの報告がある。"
+    "other_id": 12365,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "トリメトプリムの併用により、ガンシクロビルの腎クリアランスが16%低下し、血漿中消失半減期が15%延長したとの報告がある。しかし、ガンシクロビルのAUC及びC\nmax\nに影響はなく臨床的に有意な変化とは考えられなかった。また、トリメトプリムのC\nmin\nが12%上昇したとの報告がある。"
+    "other_id": 9841,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2258,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11028,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11029,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8955,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1372,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8957,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9904,
-    "other_brand": "バクタ配合錠",
-    "interaction_type": "caution",
-    "source_text": "トリメトプリムの併用により、ガンシクロビルの腎クリアランスが16%低下し、血漿中消失半減期が15%延長したとの報告がある。しかし、ガンシクロビルのAUC及びC\nmax\nに影響はなく臨床的に有意な変化とは考えられなかった。また、トリメトプリムのC\nmin\nが12%上昇したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "トリメトプリムの併用により、ガンシクロビルの腎クリアランスが16%低下し、血漿中消失半減期が15%延長したとの報告がある。しかし、ガンシクロビルのAUC及びC\nmax\nに影響はなく臨床的に有意な変化とは考えられなかった。また、トリメトプリムのC\nmin\nが12%上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの薬物動態に影響を与えたとの報告はないが、血清クレアチニン濃度が上昇するとの報告がある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの薬物動態に影響を与えたとの報告はないが、血清クレアチニン濃度が上昇するとの報告がある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの薬物動態に影響を与えたとの報告はないが、血清クレアチニン濃度が上昇するとの報告がある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの薬物動態に影響を与えたとの報告はないが、血清クレアチニン濃度が上昇するとの報告がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの薬物動態に影響を与えたとの報告はないが、血清クレアチニン濃度が上昇するとの報告がある。"
+    "other_id": 5556,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "caution",
-    "source_text": "シクロスポリンの薬物動態に影響を与えたとの報告はないが、血清クレアチニン濃度が上昇するとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12408,
-    "other_brand": "ベネシッド錠250mg",
-    "interaction_type": "caution",
-    "source_text": "ガンシクロビルの腎クリアランスが20%低下し、その結果、曝露量が40%上昇したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10119,
-    "other_brand": "パオスクレー内痔核内注射用250mg",
-    "interaction_type": "caution",
-    "source_text": "ガンシクロビル及びミコフェノール酸 モフェチルの代謝物であるグルクロン酸抱合体の血漿中濃度が上昇するおそれがあるが、ミコフェノール酸 モフェチルの活性代謝物の薬物動態に実質的な変化はないと考えられる。腎機能障害患者に、ミコフェノール酸 モフェチルと本剤（腎機能障害患者への推奨量）を併用する場合は、患者の症状に注意し慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11154,
-    "other_brand": "フェノール「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "ガンシクロビル及びミコフェノール酸 モフェチルの代謝物であるグルクロン酸抱合体の血漿中濃度が上昇するおそれがあるが、ミコフェノール酸 モフェチルの活性代謝物の薬物動態に実質的な変化はないと考えられる。腎機能障害患者に、ミコフェノール酸 モフェチルと本剤（腎機能障害患者への推奨量）を併用する場合は、患者の症状に注意し慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11155,
-    "other_brand": "フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ガンシクロビル及びミコフェノール酸 モフェチルの代謝物であるグルクロン酸抱合体の血漿中濃度が上昇するおそれがあるが、ミコフェノール酸 モフェチルの活性代謝物の薬物動態に実質的な変化はないと考えられる。腎機能障害患者に、ミコフェノール酸 モフェチルと本剤（腎機能障害患者への推奨量）を併用する場合は、患者の症状に注意し慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11156,
-    "other_brand": "フェノール「東海」",
-    "interaction_type": "caution",
-    "source_text": "ガンシクロビル及びミコフェノール酸 モフェチルの代謝物であるグルクロン酸抱合体の血漿中濃度が上昇するおそれがあるが、ミコフェノール酸 モフェチルの活性代謝物の薬物動態に実質的な変化はないと考えられる。腎機能障害患者に、ミコフェノール酸 モフェチルと本剤（腎機能障害患者への推奨量）を併用する場合は、患者の症状に注意し慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16703,
-    "other_brand": "液状フェノール「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "ガンシクロビル及びミコフェノール酸 モフェチルの代謝物であるグルクロン酸抱合体の血漿中濃度が上昇するおそれがあるが、ミコフェノール酸 モフェチルの活性代謝物の薬物動態に実質的な変化はないと考えられる。腎機能障害患者に、ミコフェノール酸 モフェチルと本剤（腎機能障害患者への推奨量）を併用する場合は、患者の症状に注意し慎重に投与すること。"
-  },
-  {
-    "other_id": 11975,
-    "other_brand": "プレドニゾロン軟膏0.5%「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、重篤な血小板減少が報告されている。"
-  },
-  {
-    "other_id": 11977,
-    "other_brand": "プレドニゾロン錠1mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、重篤な血小板減少が報告されている。"
-  },
-  {
-    "other_id": 11978,
-    "other_brand": "プレドニゾロン錠1mg（旭化成）",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、重篤な血小板減少が報告されている。"
-  },
-  {
-    "other_id": 11981,
-    "other_brand": "プレドニゾロン錠5mg「ミタ」",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、重篤な血小板減少が報告されている。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11986,
-    "other_brand": "プレドニン錠5mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との併用により、重篤な血小板減少が報告されている。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution"
   }
 ]

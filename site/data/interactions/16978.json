@@ -1,14 +1,10 @@
 [
   {
     "other_id": 9653,
-    "other_brand": "ネキソブリッド外用ゲル5g",
-    "interaction_type": "caution",
-    "source_text": "本剤の壊死組織除去作用が減弱するとの報告があるため、本剤塗布前にこれらを使用した場合は、これらを除去してから本剤を塗布すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14289,
-    "other_brand": "ヨードホルム",
-    "interaction_type": "contraindicated",
-    "source_text": "本剤が分解する。"
+    "interaction_type": "contraindicated"
   }
 ]

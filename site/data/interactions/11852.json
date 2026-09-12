@@ -1,344 +1,230 @@
 [
   {
-    "other_id": 1704,
-    "other_brand": "イブプロフェン顆粒20%「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "併用により溶血性貧血の危険性が高まる可能性がある。"
-  },
-  {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "併用により溶血性貧血の危険性が高まる可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用により溶血性貧血の危険性が高まる可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "併用により溶血性貧血の危険性が高まる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11654,
-    "other_brand": "ブルフェン錠100",
-    "interaction_type": "caution",
-    "source_text": "併用により溶血性貧血の危険性が高まる可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "併用により溶血性貧血の危険性が高まる可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 712,
-    "other_brand": "アベロックス錠400mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "other_id": 1704,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 4430,
-    "other_brand": "クラビット点滴静注バッグ500mg/100mL",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 4434,
-    "other_brand": "クラビット錠250mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 5245,
-    "other_brand": "コムレクス耳科用液1.5％",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6362,
-    "other_brand": "スルピリド錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6363,
-    "other_brand": "スルピリド錠100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6368,
-    "other_brand": "スルピリド錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6369,
-    "other_brand": "スルピリド錠50mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6370,
-    "other_brand": "スルピリド錠50mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6718,
-    "other_brand": "セレネース内服液0.2％",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6719,
-    "other_brand": "セレネース注5mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6720,
-    "other_brand": "セレネース錠0.75mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6865,
-    "other_brand": "ソリフェナシンコハク酸塩錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 6877,
-    "other_brand": "ソリフェナシンコハク酸塩OD錠2.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
-  },
-  {
-    "other_id": 8959,
-    "other_brand": "ドグマチールカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "other_id": 9816,
+    "interaction_type": "caution"
   },
   {
     "other_id": 8960,
-    "other_brand": "ドグマチール筋注100mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8961,
-    "other_brand": "ドグマチール筋注50mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8962,
-    "other_brand": "ドグマチール細粒10％",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8964,
-    "other_brand": "ドグマチール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9860,
-    "other_brand": "ハロペリドール錠0.75mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9861,
-    "other_brand": "ハロペリドール細粒1%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9862,
-    "other_brand": "ハロペリドール錠1.5mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 13939,
-    "other_brand": "モキシフロキサシン点眼液0.5%「サンド」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "other_id": 6363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2833,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6877,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15419,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg「HK」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15420,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg「KCC」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15421,
-    "other_brand": "レボフロキサシン点滴静注バッグ500mg/100mL「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6718,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15423,
-    "other_brand": "レボフロキサシン点眼液0.5％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15424,
-    "other_brand": "レボフロキサシン点眼液0.5％「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6720,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15428,
-    "other_brand": "レボフロキサシン点眼液0.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15430,
-    "other_brand": "レボフロキサシン点眼液0.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15431,
-    "other_brand": "レボフロキサシン点眼液0.5％「科研」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 712,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15432,
-    "other_brand": "レボフロキサシン点眼液0.5％「FFP」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15435,
-    "other_brand": "レボフロキサシン点眼液0.5％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15436,
-    "other_brand": "レボフロキサシン点眼液1.5％「わかもと」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15437,
-    "other_brand": "レボフロキサシン点眼液1.5%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4430,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15441,
-    "other_brand": "レボフロキサシン点眼液1.5％「日新」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4434,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15443,
-    "other_brand": "レボフロキサシン点眼液1.5％「杏林」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6865,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15445,
-    "other_brand": "レボフロキサシン点眼液1.5％「科研」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15449,
-    "other_brand": "レボフロキサシン点眼液1.5％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15450,
-    "other_brand": "レボフロキサシン粒状錠250mg「モチダ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15452,
-    "other_brand": "レボフロキサシン錠250mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15453,
-    "other_brand": "レボフロキサシン錠250mg「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6362,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15455,
-    "other_brand": "レボフロキサシン錠250mg「ケミファ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15456,
-    "other_brand": "レボフロキサシン錠250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15457,
-    "other_brand": "レボフロキサシン錠250mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6368,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15459,
-    "other_brand": "レボフロキサシン錠250mg「杏林」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6369,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15461,
-    "other_brand": "レボフロキサシン錠250mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6370,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15465,
-    "other_brand": "レボフロキサシン錠250mg「ZE」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "QT延長を起こすおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 13939,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5245,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 8959,
+    "interaction_type": "caution"
   }
 ]

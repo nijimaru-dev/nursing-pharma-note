@@ -1,350 +1,234 @@
 [
   {
     "other_id": 1651,
-    "other_brand": "イトラコナゾールカプセル50mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1652,
-    "other_brand": "イトラコナゾール内用液1％「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1653,
-    "other_brand": "イトラコナゾール錠50mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1655,
-    "other_brand": "イトラコナゾール錠50mg「科研」",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1656,
-    "other_brand": "イトリゾールカプセル50",
-    "interaction_type": "caution",
-    "source_text": "・クリゾチニブ反復投与時に本剤を併用投与したとき、クリゾチニブの定常状態におけるAUC\ntau\n及びC\nmax\nは単独投与と比べそれぞれ57%及び33%増加した。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3830,
-    "other_brand": "カルバマゼピン錠100mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 3831,
-    "other_brand": "カルバマゼピン錠100mg「フジナガ」",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5096,
-    "other_brand": "ゲンボイヤ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これら薬剤の血中濃度が上昇する可能性がある。本剤と併用する場合は，これら薬剤の血中濃度をモニタリングすることが望ましい。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5651,
-    "other_brand": "シムツーザ配合錠",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6937,
-    "other_brand": "ゾキンヴィカプセル50mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6939,
-    "other_brand": "ゾコーバ錠25mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7996,
-    "other_brand": "テグレトール錠100mg",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の作用を減弱することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16120,
-    "other_brand": "乾燥弱毒生風しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16121,
-    "other_brand": "乾燥弱毒生麻しんワクチン「タケダ」",
-    "interaction_type": "contraindicated",
-    "source_text": "免疫抑制下で生ワクチンを接種すると発症するおそれがあるので併用しないこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 1281,
-    "other_brand": "アレビアチン散10％",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 1283,
-    "other_brand": "アレビアチン錠25mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
-  },
-  {
-    "other_id": 10379,
-    "other_brand": "ヒダントール錠25mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution"
   },
   {
     "other_id": 13336,
-    "other_brand": "ミコブティンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14937,
-    "other_brand": "リファジンカプセル150mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が低下し、本剤の有効性が減弱する可能性がある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 699,
-    "other_brand": "アプレピタントカプセル125mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "other_id": 5363,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 700,
-    "other_brand": "アプレピタントカプセル80mg「NK」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2833,
-    "other_brand": "エリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4439,
-    "other_brand": "クラリシッド錠200mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4440,
-    "other_brand": "クラリシッド錠50mg小児用",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4441,
-    "other_brand": "クラリス錠50小児用",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4442,
-    "other_brand": "クラリスロマイシン錠50㎎小児用「大正」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4443,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NIG」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4444,
-    "other_brand": "クラリスロマイシン錠小児用50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4447,
-    "other_brand": "クラリスロマイシン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4448,
-    "other_brand": "クラリスロマイシン錠200mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4450,
-    "other_brand": "クラリスロマイシン錠200mg「フェルゼン」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4451,
-    "other_brand": "クラリスロマイシン錠200㎎「大正」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4452,
-    "other_brand": "クラリスロマイシン錠200mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4453,
-    "other_brand": "クラリスロマイシン錠200mg「CH」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4455,
-    "other_brand": "クラリスロマイシン錠200mg「NPI」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4458,
-    "other_brand": "クラリスロマイシン錠50mg小児用「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4460,
-    "other_brand": "クラリスロマイシン錠50mg小児用「日医工」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4461,
-    "other_brand": "クラリスロマイシン錠50mg小児用「CH」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4463,
-    "other_brand": "クラリスロマイシン錠50mg小児用「NPI」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4467,
-    "other_brand": "クラリス錠200",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4980,
-    "other_brand": "ケトコナゾールクリーム2％「イワキ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4982,
-    "other_brand": "ケトコナゾールクリーム2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 4985,
-    "other_brand": "ケトコナゾールローション2％「MYK」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 9469,
-    "other_brand": "ニゾラールクリーム2%",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
-  },
-  {
-    "other_id": 9470,
-    "other_brand": "ニゾラールローション2％",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9761,
-    "other_brand": "ノービア錠100mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11562,
-    "other_brand": "ブイフェンドドライシロップ2800mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11563,
-    "other_brand": "ブイフェンド錠50mg",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11565,
-    "other_brand": "ブイフェンド200mg静注用",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12973,
-    "other_brand": "ボリコナゾール錠50mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12976,
-    "other_brand": "ボリコナゾール錠50mg「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12978,
-    "other_brand": "ボリコナゾール錠50mg「DSEP」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12987,
-    "other_brand": "ボリコナゾール顆粒20%「タカタ」",
-    "interaction_type": "caution",
-    "source_text": "テムシロリムス及びその代謝物であるシロリムスの血中濃度が上昇する可能性があるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 699,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 700,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "caution"
   },
   {
     "other_id": 11961,
-    "other_brand": "プレジコビックス配合錠",
-    "interaction_type": "caution",
-    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
+    "interaction_type": "caution"
   }
 ]

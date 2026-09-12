@@ -1,74 +1,50 @@
 [
   {
-    "other_id": 152,
-    "other_brand": "アザニン錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 1785,
-    "other_brand": "イムラン錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
+    "other_id": 9639,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 5448,
-    "other_brand": "サンディミュン点滴静注用250mg",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5556,
-    "other_brand": "シクロスポリンカプセル10mg「サンド」",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5558,
-    "other_brand": "シクロスポリンカプセル10mg「日医工」",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5559,
-    "other_brand": "シクロスポリンカプセル10mg「BMD」",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 5564,
-    "other_brand": "シクロスポリンカプセル10mg「VTRS」",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9639,
-    "other_brand": "ネオーラル内用液10％",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "播種性BCG感染を招くおそれがある。本剤の効果が減弱するおそれがある。"
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5556,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 1785,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 152,
+    "interaction_type": "contraindicated"
   }
 ]

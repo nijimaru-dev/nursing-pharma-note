@@ -1,92 +1,62 @@
 [
   {
     "other_id": 691,
-    "other_brand": "アブラキサン点滴静注用100mg",
-    "interaction_type": "caution",
-    "source_text": "パクリタキセルをドキソルビシンの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をドキソルビシンの後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2922,
-    "other_brand": "エンドキサン錠50mg",
-    "interaction_type": "caution",
-    "source_text": "心筋障害が増強されるおそれがある。また、これらの薬剤との併用療法終了後に遅発性心毒性が発現したとの報告があるため、治療終了後も長期間経過を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 4158,
-    "other_brand": "ガンシクロビル点滴静注用500mg「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5292,
-    "other_brand": "コンビビル配合錠",
-    "interaction_type": "caution",
-    "source_text": "ジドブジンの毒性作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5434,
-    "other_brand": "サレドカプセル25",
-    "interaction_type": "caution",
-    "source_text": "血栓症と血栓塞栓症のリスクを高める危険性がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7107,
-    "other_brand": "タキソール注射液30mg",
-    "interaction_type": "caution",
-    "source_text": "本剤をドキソルビシンの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をドキソルビシンの後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 8288,
-    "other_brand": "デノシン点滴静注用500mg",
-    "interaction_type": "caution",
-    "source_text": "毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10130,
-    "other_brand": "パクリタキセル注射液30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前にパクリタキセルを投与すると、骨髄抑制等の副作用が増強されるおそれがあるので、併用する場合は、パクリタキセルの前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10135,
-    "other_brand": "パクリタキセル注30mg/5mL「NK」",
-    "interaction_type": "caution",
-    "source_text": "本剤投与前にパクリタキセルを投与すると、骨髄抑制等の副作用が増強されるおそれがあるので、併用する場合は、パクリタキセルの前に本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 9967,
-    "other_brand": "バリキサ錠450mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の活性代謝物のガンシクロビルとの併用により、毒性が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10131,
-    "other_brand": "パクリタキセル注射液30mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "本剤をドキソルビシンの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をドキソルビシンの後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 10137,
-    "other_brand": "パクリタキセル点滴静注液30mg/5mL「ホスピーラ」",
-    "interaction_type": "caution",
-    "source_text": "本剤をドキソルビシンの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をドキソルビシンの後に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15215,
-    "other_brand": "レトロビルカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の毒性作用が増強されることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16582,
-    "other_brand": "注射用エンドキサン100mg",
-    "interaction_type": "caution",
-    "source_text": "心筋障害が増強されるおそれがある。また、これらの薬剤との併用療法終了後に遅発性心毒性が発現したとの報告があるため、治療終了後も長期間経過を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17024,
-    "other_brand": "経口用エンドキサン原末100mg",
-    "interaction_type": "caution",
-    "source_text": "心筋障害が増強されるおそれがある。また、これらの薬剤との併用療法終了後に遅発性心毒性が発現したとの報告があるため、治療終了後も長期間経過を観察するなど十分注意すること。"
+    "interaction_type": "caution"
   }
 ]

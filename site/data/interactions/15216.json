@@ -1,68 +1,46 @@
 [
   {
     "other_id": 2594,
-    "other_brand": "エナロイ錠2mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と併用した場合，本剤の作用が減弱するおそれがあるため，併用する場合は，投与後3時間又は投与前1時間以上間隔をあけて本剤を投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 2781,
-    "other_brand": "エベレンゾ錠20mg",
-    "interaction_type": "caution",
-    "source_text": "本剤と併用した場合、本剤の作用が減弱するおそれがあるため、併用する場合は、前後1時間以上間隔をあけて本剤を服用すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5633,
-    "other_brand": "シプロキサン錠100mg",
-    "interaction_type": "caution",
-    "source_text": "本剤の吸収が低下し、効果が減弱されるおそれがあるので、本剤服用後2時間以上あけるなど注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7594,
-    "other_brand": "チラーヂンS散0.01％",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7595,
-    "other_brand": "チラーヂンS錠12.5μg",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7600,
-    "other_brand": "チラーヂンS静注液200μg",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7601,
-    "other_brand": "チロナミン錠5μg",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少するおそれがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5631,
-    "other_brand": "シプロキサン注200mg",
-    "interaction_type": "caution",
-    "source_text": "健康成人における本剤とシプロフロキサシンの同時経口投与試験の結果、シプロフロキサシンのバイオアベイラビリティが低下したとの報告がある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5637,
-    "other_brand": "シプロフロキサシン点滴静注200mg/100mL「明治」",
-    "interaction_type": "caution",
-    "source_text": "健康成人における本剤とシプロフロキサシンの同時経口投与試験の結果、シプロフロキサシンのバイオアベイラビリティが低下したとの報告がある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5631,
+    "interaction_type": "caution"
   },
   {
     "other_id": 15405,
-    "other_brand": "レボチロキシンNa錠25μg「サンド」",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少することがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17542,
-    "other_brand": "5mcgチロナミン錠",
-    "interaction_type": "caution",
-    "source_text": "同時投与により本剤の吸収が遅延又は減少するおそれがあるので、併用する場合には本剤との投与間隔をできる限りあけるなど慎重に投与すること。"
+    "interaction_type": "caution"
   }
 ]

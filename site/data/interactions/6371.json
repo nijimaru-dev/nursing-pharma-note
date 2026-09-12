@@ -1,50 +1,34 @@
 [
   {
     "other_id": 11536,
-    "other_brand": "フロセミド細粒4%「EMEC」",
-    "interaction_type": "caution",
-    "source_text": "類似化合物（他のセフェム系薬剤）との併用により腎障害増強作用が報告されているので、併用する場合には腎機能に注意すること。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "ジスルフィラム様作用（潮紅、悪心、頻脈、多汗、頭痛等）があらわれることがあるので、投与期間中及び投与後少なくとも1週間はアルコールの摂取を避けること。"
-  },
-  {
-    "other_id": 9645,
-    "other_brand": "ネオ消アル",
-    "interaction_type": "caution",
-    "source_text": "ジスルフィラム様作用（潮紅、悪心、頻脈、多汗、頭痛等）があらわれることがあるので、投与期間中及び投与後少なくとも1週間はアルコールの摂取を避けること。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "ジスルフィラム様作用（潮紅、悪心、頻脈、多汗、頭痛等）があらわれることがあるので、投与期間中及び投与後少なくとも1週間はアルコールの摂取を避けること。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "ジスルフィラム様作用（潮紅、悪心、頻脈、多汗、頭痛等）があらわれることがあるので、投与期間中及び投与後少なくとも1週間はアルコールの摂取を避けること。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "ジスルフィラム様作用（潮紅、悪心、頻脈、多汗、頭痛等）があらわれることがあるので、投与期間中及び投与後少なくとも1週間はアルコールの摂取を避けること。"
-  },
-  {
-    "other_id": 16433,
-    "other_brand": "山善消アル",
-    "interaction_type": "caution",
-    "source_text": "ジスルフィラム様作用（潮紅、悪心、頻脈、多汗、頭痛等）があらわれることがあるので、投与期間中及び投与後少なくとも1週間はアルコールの摂取を避けること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
-    "other_brand": "消毒用マルオアルコール",
-    "interaction_type": "caution",
-    "source_text": "ジスルフィラム様作用（潮紅、悪心、頻脈、多汗、頭痛等）があらわれることがあるので、投与期間中及び投与後少なくとも1週間はアルコールの摂取を避けること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
   }
 ]

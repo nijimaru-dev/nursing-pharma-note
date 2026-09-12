@@ -1,254 +1,170 @@
 [
   {
     "other_id": 253,
-    "other_brand": "アジレクト錠1mg",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2269,
-    "other_brand": "エクフィナ錠50mg",
-    "interaction_type": "contraindicated",
-    "source_text": "高血圧クリーゼ等の重篤な副作用発現のおそれがある。本剤の投与を中止してから左記薬剤の投与を開始するまでに、少なくとも14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 2763,
-    "other_brand": "エフピーOD錠2.5",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6661,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「アメル」",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 6662,
-    "other_brand": "セレギリン塩酸塩錠2.5mg「タイヨー」",
-    "interaction_type": "contraindicated",
-    "source_text": "両薬剤の作用が増強される可能性があるので、本剤の投与を中止してから選択的セロトニン再取り込み阻害剤、セロトニン再取り込み阻害・セロトニン受容体調節剤、ノルアドレナリン・セロトニン作動性抗うつ剤、セロトニン・ノルアドレナリン再取り込み阻害剤、選択的ノルアドレナリン再取り込み阻害剤、マジンドール、メタンフェタミン塩酸塩及びリスデキサンフェタミンメシル酸塩の投与を開始するには少なくとも14日間の間隔を置くこと。また本剤に切り換える場合にはミルナシプラン塩酸塩は2～3日間、デュロキセチン塩酸塩は5日間、フルボキサミンマレイン酸塩及びベンラファキシン塩酸塩は7日間、パロキセチン塩酸塩水和物、セルトラリン塩酸塩、ボルチオキセチン臭化水素酸塩、アトモキセチン塩酸塩、ミルタザピン及びエスシタロプラムシュウ酸塩は14日間の間隔を置くこと。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 8863,
-    "other_brand": "トレドミン錠12.5mg",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群があらわれるおそれがある。"
-  },
-  {
-    "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には本剤を投与しないこと。高血圧クリーゼが起こるおそれがある。また、死亡に至るおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には本剤を投与しないこと。高血圧クリーゼが起こるおそれがある。また、死亡に至るおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には本剤を投与しないこと。高血圧クリーゼが起こるおそれがある。また、死亡に至るおそれがある。"
-  },
-  {
-    "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には本剤を投与しないこと。高血圧クリーゼが起こるおそれがある。また、死亡に至るおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には本剤を投与しないこと。高血圧クリーゼが起こるおそれがある。また、死亡に至るおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "contraindicated",
-    "source_text": "MAO阻害剤を投与中あるいは投与中止後2週間以内の患者には本剤を投与しないこと。高血圧クリーゼが起こるおそれがある。また、死亡に至るおそれがある。"
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9897,
-    "other_brand": "バイフィル専用炭酸水素ナトリウム補充液1.39%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "other_id": 5363,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16761,
-    "other_brand": "炭酸水素ナトリウム「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "other_id": 11991,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16762,
-    "other_brand": "炭酸水素ナトリウム「ヤマゼン」M",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "other_id": 9816,
+    "interaction_type": "contraindicated"
   },
   {
-    "other_id": 16764,
-    "other_brand": "炭酸水素ナトリウム　シオエ",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
-  },
-  {
-    "other_id": 16766,
-    "other_brand": "炭酸水素ナトリウム「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "other_id": 9817,
+    "interaction_type": "contraindicated"
   },
   {
     "other_id": 16771,
-    "other_brand": "炭酸水素ナトリウム「フソー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16772,
-    "other_brand": "炭酸水素ナトリウム「昭和」（M）",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16773,
-    "other_brand": "炭酸水素ナトリウム「東海」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17317,
-    "other_brand": "重ソー注7%「CMX」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 17319,
-    "other_brand": "重ソー静注7％「NS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9897,
+    "interaction_type": "caution"
   },
   {
     "other_id": 17321,
-    "other_brand": "重ソー静注8.4％「NS」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が増強することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 258,
-    "other_brand": "アスコルビン酸「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "other_id": 16761,
+    "interaction_type": "caution"
   },
   {
-    "other_id": 260,
-    "other_brand": "アスコルビン酸原末「マルイシ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "other_id": 16762,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16764,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 16766,
+    "interaction_type": "caution"
   },
   {
     "other_id": 272,
-    "other_brand": "アスコルビン酸注500mgPB「日新」",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 258,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9779,
-    "other_brand": "ハイシー顆粒25%",
-    "interaction_type": "caution",
-    "source_text": "本剤の作用が減弱することがある。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "まれにセロトニン症候群が起こることがある。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "まれにセロトニン症候群が起こることがある。"
-  },
-  {
-    "other_id": 9737,
-    "other_brand": "ノルアドリナリン注1mg",
-    "interaction_type": "caution",
-    "source_text": "まれにセロトニン症候群が起こることがある。"
+    "other_id": 260,
+    "interaction_type": "caution"
   },
   {
     "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "まれにセロトニン症候群が起こることがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "まれにセロトニン症候群が起こることがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9737,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5363,
-    "other_brand": "サブラッド血液ろ過用補充液BSG（1,010mL）",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 9816,
-    "other_brand": "ハイ・プレアミン注−10%",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
-  },
-  {
-    "other_id": 9817,
-    "other_brand": "ハイ・プレアミンS注−10%",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 11991,
-    "other_brand": "プレビタS注射液",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14764,
-    "other_brand": "リタリン錠10mg",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "メチルフェニデート塩酸塩を投与中の患者には本剤の投与を避けることが望ましい。本剤の作用が増強するおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13510,
-    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「アメル」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13511,
-    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 13512,
-    "other_brand": "ミルナシプラン塩酸塩錠12.5mg「NP」",
-    "interaction_type": "caution",
-    "source_text": "セロトニン症候群があらわれるおそれがある。"
+    "interaction_type": "caution"
   }
 ]

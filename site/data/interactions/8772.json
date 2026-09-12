@@ -1,218 +1,146 @@
 [
   {
-    "other_id": 6599,
-    "other_brand": "セボフルラン吸入麻酔液「ニッコー」",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制をきたすおそれがあるので、減量するなど注意する。又は麻酔の導入前にアトロピンを静脈内投与しておくこと。"
-  },
-  {
     "other_id": 6600,
-    "other_brand": "セボフルラン吸入麻酔液「VTRS」",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制をきたすおそれがあるので、減量するなど注意する。又は麻酔の導入前にアトロピンを静脈内投与しておくこと。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 6601,
-    "other_brand": "セボフレン吸入麻酔液",
-    "interaction_type": "caution",
-    "source_text": "過剰の交感神経抑制をきたすおそれがあるので、減量するなど注意する。又は麻酔の導入前にアトロピンを静脈内投与しておくこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 6104,
-    "other_brand": "ジルチアゼム塩酸塩徐放カプセル100mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
-  },
-  {
-    "other_id": 6107,
-    "other_brand": "ジルチアゼム塩酸塩注射用10mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
-  },
-  {
-    "other_id": 6108,
-    "other_brand": "ジルチアゼム塩酸塩注射用250mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
-  },
-  {
-    "other_id": 6110,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
-  },
-  {
-    "other_id": 6111,
-    "other_brand": "ジルチアゼム塩酸塩錠30mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "other_id": 6599,
+    "interaction_type": "caution"
   },
   {
     "other_id": 6116,
-    "other_brand": "ジルチアゼム塩酸塩Rカプセル100mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
-  },
-  {
-    "other_id": 12458,
-    "other_brand": "ベラパミル塩酸塩錠40mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
-  },
-  {
-    "other_id": 12459,
-    "other_brand": "ベラパミル塩酸塩錠40mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15973,
-    "other_brand": "ワソラン錠40mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 15975,
-    "other_brand": "ワソラン静注5mg",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16237,
-    "other_brand": "塩酸「コザカイ・M」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 16238,
-    "other_brand": "塩酸「タイセイ」",
-    "interaction_type": "caution",
-    "source_text": "徐脈、房室ブロック等の伝導障害、うっ血性心不全があらわれることがある。併用する場合には、用量に注意する。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6104,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6107,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6108,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6110,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 6111,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14730,
-    "other_brand": "リスモダンカプセル100mg",
-    "interaction_type": "caution",
-    "source_text": "過度の心機能抑制があらわれることがあるので、減量するなど注意する。"
-  },
-  {
-    "other_id": 5656,
-    "other_brand": "シメチジン注射液200mg「SW」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇したとの報告があるので、併用する場合には減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5658,
-    "other_brand": "シメチジン錠200mg「ツルハラ」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇したとの報告があるので、併用する場合には減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 5660,
-    "other_brand": "シメチジン錠200mg「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇したとの報告があるので、併用する場合には減量するなど慎重に投与すること。"
-  },
-  {
-    "other_id": 7103,
-    "other_brand": "タガメット注射液200mg",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇したとの報告があるので、併用する場合には減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 7104,
-    "other_brand": "タガメット錠200mg",
-    "interaction_type": "caution",
-    "source_text": "併用により本剤の血中濃度が上昇したとの報告があるので、併用する場合には減量するなど慎重に投与すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution"
   },
   {
     "other_id": 5942,
-    "other_brand": "ジゴキシン錠0.0625「KYO」",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれることがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "other_brand": "ジゴキシン錠0.125mg「AFP」",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれることがあるので注意すること。"
-  },
-  {
-    "other_id": 5946,
-    "other_brand": "ジゴシンエリキシル0.05mg／mL",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれることがあるので注意すること。"
-  },
-  {
-    "other_id": 5947,
-    "other_brand": "ジゴシン錠0.125mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれることがあるので注意すること。"
-  },
-  {
-    "other_id": 5948,
-    "other_brand": "ジゴシン注0.25mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれることがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 14423,
-    "other_brand": "ラニラピッド錠0.05mg",
-    "interaction_type": "caution",
-    "source_text": "心刺激伝導障害（徐脈、房室ブロック等）があらわれることがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1658,
-    "other_brand": "イドメシンコーワゲル1％",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。併用する場合には、必要に応じて用量調整を行うこと。"
+    "other_id": 5946,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1920,
-    "other_brand": "インドメタシンクリーム1％「サワイ」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。併用する場合には、必要に応じて用量調整を行うこと。"
+    "interaction_type": "caution"
   },
   {
-    "other_id": 1922,
-    "other_brand": "インドメタシンパップ70mg「日医工」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。併用する場合には、必要に応じて用量調整を行うこと。"
+    "other_id": 1658,
+    "interaction_type": "caution"
   },
   {
     "other_id": 1924,
-    "other_brand": "インドメタシン坐剤12.5mg「JG」",
-    "interaction_type": "caution",
-    "source_text": "本剤の降圧作用が減弱するおそれがある。併用する場合には、必要に応じて用量調整を行うこと。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 1922,
+    "interaction_type": "caution"
   },
   {
     "other_id": 2744,
-    "other_brand": "エピペン注射液0.15mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との相互作用により高血圧症、徐脈が発現するおそれがあるので注意すること。"
-  },
-  {
-    "other_id": 9672,
-    "other_brand": "ネフィー点鼻液1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との相互作用により高血圧症、徐脈が発現するおそれがあるので注意すること。"
-  },
-  {
-    "other_id": 12944,
-    "other_brand": "ボスミン外用液0.1%",
-    "interaction_type": "caution",
-    "source_text": "本剤との相互作用により高血圧症、徐脈が発現するおそれがあるので注意すること。"
+    "interaction_type": "caution"
   },
   {
     "other_id": 12945,
-    "other_brand": "ボスミン注1mg",
-    "interaction_type": "caution",
-    "source_text": "本剤との相互作用により高血圧症、徐脈が発現するおそれがあるので注意すること。"
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution"
   },
   {
     "other_id": 14290,
-    "other_brand": "ライアットMIBG−I131静注",
-    "interaction_type": "caution",
-    "source_text": "本剤の有効性が減弱するおそれがあるので、併用を避けることが望ましい。"
+    "interaction_type": "caution"
   }
 ]
