@@ -177,6 +177,25 @@
     </div>
 
     <div class="demo-block">
+      <p class="demo-block__label">薬効分類タグ／剤形タグ（2026-09-13：Neutralに統一・確定）</p>
+      <p class="demo-section__note" style="margin-bottom:var(--np-space-3);">
+        当初は薬効分類タグにAccentを流用していたが、Accentの色相修正（Errorとの衝突解消）に伴い
+        Accent-tintとError-tint（併用禁忌バッジ背景）の色相がほぼ同一（20.8° vs 20.0°）になる
+        新たな衝突が判明したため、Accentの流用をやめてニュートラルグレーに変更した。
+        剤形タグはもともと色を使わない方針（アイコン＋テキストで区別）だったため、
+        結果的に両者は同じ配色になる。
+      </p>
+      <div class="demo-row">
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-drug-category-tint); border:1px solid var(--np-border-default);"></div><span class="demo-swatch__name">タグ背景（--np-drug-category-tint）</span><span class="demo-swatch__hex">#f3f0e9</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-drug-category)"></div><span class="demo-swatch__name">タグ文字（--np-drug-category）</span><span class="demo-swatch__hex">#565f73</span></div>
+      </div>
+      <div class="demo-row" style="margin-top:var(--np-space-3);">
+        <span class="np-badge np-badge--neutral">薬効分類の例：経口抗凝固剤</span>
+        <span class="np-badge np-badge--dosage-form">剤形の例：錠剤</span>
+      </div>
+    </div>
+
+    <div class="demo-block">
       <p class="demo-block__label">Base / Text / Border</p>
       <div class="demo-row">
         <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-bg-base); border-color: var(--np-border-strong);"></div><span class="demo-swatch__name">Background base</span></div>
@@ -191,7 +210,7 @@
         <span class="np-badge np-badge--contraindicated">併用禁忌 = Error</span>
         <span class="np-badge np-badge--caution">併用注意 = Warning</span>
         <span class="np-badge np-badge--none-found">記載なし = Success</span>
-        <span class="np-badge np-badge--accent">薬効分類（全分類共通1色） = Accent</span>
+        <span class="np-badge np-badge--neutral">薬効分類（全分類共通1色） = Neutral</span>
       </div>
     </div>
   </section>
@@ -416,30 +435,187 @@
   </section>
 
   <section class="demo-section">
-    <p class="demo-section__eyebrow">Components ／ Priority 1</p>
+    <p class="demo-section__eyebrow">Components ／ Priority 1 ／ Phase 1最終確認</p>
     <h2 class="demo-section__title">DrugRow（検索結果の主力・List型）</h2>
-    <p class="demo-section__note">カードを乱用せず、リスト＋軽い区切りを基本にする（16章）。メインテートのような「薬剤群」は規格バッジを隠さず並べる（メインテート2.5mg問題の再発防止）。</p>
+    <p class="demo-section__note">
+      カードを乱用せず、リスト＋軽い区切りを基本にする（16章）。メインテートのような「薬剤群」は
+      規格バッジを隠さず並べる（メインテート2.5mg問題の再発防止）。以下13件は
+      <code>karteno_drugs.db</code>から実際に抽出した薬品名・一般名・規格・剤形・相互作用記載の
+      有無をそのまま使用している（架空データではない）。ライト/ダーク切り替え・文字サイズ切り替え
+      （画面右上）でトークンの見え方を確認できる。
+    </p>
     <ul class="np-drug-list demo-boxed">
       <li>
         <div class="np-drug-row np-drug-row--group">
-          <span class="np-drug-row__group-label">薬剤群</span>
+          <span class="np-drug-row__group-label">薬剤群（同一成分・規格違い）</span>
           <span class="np-drug-row__brand">メインテート錠</span>
           <span class="np-drug-row__generic">ビソプロロールフマル酸塩</span>
           <div class="np-drug-row__strengths">
             <button type="button" class="np-badge np-badge--strength">0.625mg</button>
             <button type="button" class="np-badge np-badge--strength" aria-current="true">2.5mg</button>
             <button type="button" class="np-badge np-badge--strength">5mg</button>
-            <span class="np-badge np-badge--accent">β1遮断薬</span>
+            <span class="np-badge np-badge--neutral">選択的β1アンタゴニスト</span>
+            <span class="np-badge np-badge--interaction np-badge--caution">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+              併用注意あり
+            </span>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="np-drug-row np-drug-row--group">
+          <span class="np-drug-row__group-label">薬剤群（同一成分・規格違い）</span>
+          <span class="np-drug-row__brand">ワーファリン錠</span>
+          <span class="np-drug-row__generic">ワルファリンカリウム</span>
+          <div class="np-drug-row__strengths">
+            <button type="button" class="np-badge np-badge--strength">0.5mg</button>
+            <button type="button" class="np-badge np-badge--strength">1mg</button>
+            <button type="button" class="np-badge np-badge--strength">5mg</button>
+            <span class="np-badge np-badge--neutral">経口抗凝固剤</span>
+            <span class="np-badge np-badge--interaction np-badge--contraindicated">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>
+              併用禁忌あり
+            </span>
           </div>
         </div>
       </li>
       <li>
         <a class="np-drug-row" href="#">
-          <span class="np-drug-row__brand">カロナール錠500mg</span>
+          <span class="np-drug-row__brand">ワーファリン顆粒0.2％</span>
+          <span class="np-drug-row__generic">ワルファリンカリウム</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">顆粒剤</span>
+            <span class="np-badge np-badge--neutral">経口抗凝固剤</span>
+            <span class="np-badge np-badge--interaction np-badge--contraindicated">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>
+              併用禁忌あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">ジゴキシン錠0.125mg「AFP」</span>
+          <span class="np-drug-row__generic">ジゴキシン</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">錠剤</span>
+            <span class="np-badge np-badge--neutral">強心配糖体製剤</span>
+            <span class="np-badge np-badge--interaction np-badge--caution">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+              併用注意あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">セルシン錠5mg</span>
+          <span class="np-drug-row__generic">ジアゼパム</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">錠剤</span>
+            <span class="np-badge np-badge--neutral">マイナートランキライザー</span>
+            <span class="np-badge np-badge--interaction np-badge--contraindicated">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>
+              併用禁忌あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">フランドルテープ40mg</span>
+          <span class="np-drug-row__generic">硝酸イソソルビド</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">貼付剤</span>
+            <span class="np-badge np-badge--neutral">経皮吸収型・虚血性心疾患治療剤</span>
+            <span class="np-badge np-badge--interaction np-badge--contraindicated">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>
+              併用禁忌あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">ムコダインシロップ5%</span>
+          <span class="np-drug-row__generic">カルボシステイン</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">シロップ剤</span>
+            <span class="np-badge np-badge--neutral">気道粘液調整・粘膜正常化剤</span>
+            <span class="np-badge np-badge--interaction np-badge--none-found">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.5 2.5 5.5-6"/></svg>
+              記載なし
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">デパケンシロップ5%</span>
+          <span class="np-drug-row__generic">バルプロ酸ナトリウム</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">シロップ剤</span>
+            <span class="np-badge np-badge--neutral">抗てんかん剤</span>
+            <span class="np-badge np-badge--interaction np-badge--contraindicated">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>
+              併用禁忌あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">メマンチン塩酸塩OD錠10mg「YD」</span>
+          <span class="np-drug-row__generic">メマンチン塩酸塩</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">OD錠</span>
+            <span class="np-badge np-badge--neutral">NMDA受容体拮抗薬</span>
+            <span class="np-badge np-badge--interaction np-badge--caution">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+              併用注意あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">ジクロフェナクナトリウムテープ30mg「NP」</span>
+          <span class="np-drug-row__generic">ジクロフェナクナトリウム</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">貼付剤</span>
+            <span class="np-badge np-badge--neutral">経皮鎮痛消炎剤</span>
+            <span class="np-badge np-badge--interaction np-badge--caution">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+              併用注意あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">セフェピム塩酸塩静注用0.5g「サンド」</span>
+          <span class="np-drug-row__generic">セフェピム塩酸塩水和物</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--dosage-form">注射剤</span>
+            <span class="np-badge np-badge--neutral">セフェム系抗生物質製剤</span>
+            <span class="np-badge np-badge--interaction np-badge--caution">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+              併用注意あり
+            </span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">カロナール錠500</span>
           <span class="np-drug-row__generic">アセトアミノフェン</span>
           <div class="np-drug-row__meta">
-            <span class="np-badge np-badge--neutral">錠剤</span>
-            <span class="np-badge np-badge--accent">解熱鎮痛薬</span>
+            <span class="np-badge np-badge--dosage-form">錠剤</span>
+            <span class="np-badge np-badge--neutral">解熱鎮痛剤</span>
+            <span class="np-badge np-badge--interaction np-badge--caution">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+              併用注意あり
+            </span>
           </div>
         </a>
       </li>
@@ -448,13 +624,21 @@
           <span class="np-drug-row__brand">ロキソニン錠60mg</span>
           <span class="np-drug-row__generic">ロキソプロフェンナトリウム水和物</span>
           <div class="np-drug-row__meta">
-            <span class="np-badge np-badge--neutral">錠剤</span>
-            <span class="np-badge np-badge--accent">解熱鎮痛薬</span>
-            <span class="np-badge np-badge--formulary">施設採用薬</span>
+            <span class="np-badge np-badge--dosage-form">錠剤</span>
+            <span class="np-badge np-badge--neutral">鎮痛・抗炎症・解熱剤</span>
+            <span class="np-badge np-badge--interaction np-badge--caution">
+              <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+              併用注意あり
+            </span>
           </div>
         </a>
       </li>
     </ul>
+    <p class="demo-section__note">
+      確認ポイント：①カードではなくリスト＋区切り線（List基本方針）②規格は「代表1件」ではなく
+      全バッジを表示（メインテート／ワーファリンとも0.625mg〜5mgすべて見える）③商品名→一般名→
+      規格→剤形の順で視線誘導④禁忌・注意・記載なしが色だけでなくアイコン＋文字でも区別可能。
+    </p>
   </section>
 
   <section class="demo-section">
@@ -463,7 +647,7 @@
     <div class="demo-row">
       <span class="np-badge np-badge--neutral">錠剤</span>
       <span class="np-badge np-badge--brand">Brand</span>
-      <span class="np-badge np-badge--accent">循環器</span>
+      <span class="np-badge np-badge--neutral">循環器</span>
       <span class="np-badge np-badge--success">Success</span>
       <span class="np-badge np-badge--warning">Warning</span>
       <span class="np-badge np-badge--error">Error</span>
@@ -693,8 +877,8 @@
     <div class="np-pattern-drug-detail demo-boxed">
       <div class="np-drug-header">
         <div class="np-drug-header__tags">
-          <span class="np-badge np-badge--accent">循環器</span>
-          <span class="np-badge np-badge--accent">β1遮断薬</span>
+          <span class="np-badge np-badge--neutral">循環器</span>
+          <span class="np-badge np-badge--neutral">β1遮断薬</span>
         </div>
         <span class="np-text-drug-name">メインテート錠2.5mg</span>
         <span class="np-drug-header__generic">ビソプロロールフマル酸塩</span>

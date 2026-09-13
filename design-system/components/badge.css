@@ -23,7 +23,11 @@
 
 .np-badge--neutral { background: var(--np-bg-sunken); color: var(--np-text-secondary); }
 .np-badge--brand { background: var(--np-brand-primary-tint); color: var(--np-brand-primary-dark); }
-.np-badge--accent { background: var(--np-drug-category-tint); color: var(--np-brand-accent-dark); }
+/* 【2026-09-13】以前はこのAccentバッジを薬効分類タグにも流用していたが、
+   Accent-tintとError-tintの色相衝突が判明したため分離した。薬効分類タグは
+   np-badge--neutral（tokens/color.css の --np-drug-category 参照）を使う。
+   このAccentバッジ自体は「Accent色のバッジ見本」としてのみ残す。 */
+.np-badge--accent { background: var(--np-brand-accent-tint); color: var(--np-brand-accent-dark); }
 .np-badge--success { background: var(--np-success-tint); color: var(--np-success); }
 .np-badge--warning { background: var(--np-warning-tint); color: var(--np-warning); }
 .np-badge--error { background: var(--np-error-tint); color: var(--np-error); }

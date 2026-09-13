@@ -101,10 +101,19 @@
   --np-interaction-none-tint: var(--np-success-tint);
 
   /* 薬効分類：分類数（十数〜20種類）ぶん色相を増やすと「意味のない
-     色分け」（仕様書24章で禁止）になるため、分類チップはAccent 1色に
-     統一し、分類名・件数というテキスト情報だけで区別する。 */
-  --np-drug-category: var(--np-brand-accent);
-  --np-drug-category-tint: var(--np-brand-accent-tint);
+     色分け」（仕様書24章で禁止）になるため色は1色に統一し、分類名・件数
+     というテキスト情報だけで区別する。
+     【2026-09-13】当初はAccentを流用していたが、ErrorとのHue衝突を
+     解消するためAccentの色相を+12°ずらした結果、Accent-tintの色相が
+     Error-tint（併用禁忌バッジの背景、約20.0°）とほぼ同一（約20.8°）に
+     なってしまうことが判明した。安全上重要な意味を持つError/Warningの
+     色域に、中立的な情報である薬効分類が近づくこと自体を避けるため、
+     Accentの流用をやめ、剤形タグ（.np-badge--dosage-form）と同じ
+     ニュートラルグレー（--np-text-secondary / --np-bg-sunken）に
+     変更した。剤形タグと同色になるが、両者ともテキスト内容自体が
+     自己説明的（「経口抗凝固剤」「錠剤」等）なため区別には支障がない。 */
+  --np-drug-category: var(--np-text-secondary);
+  --np-drug-category-tint: var(--np-bg-sunken);
 
   /* 剤形（錠剤・カプセル・注射剤等）は色ではなくアイコン形状で区別する
      方針のため、色トークンは持たない（components/badge.css参照）。 */
