@@ -4,6 +4,7 @@
   "generic_name": "日局　乳酸カルシウム水和物",
   "therapeutic_classification": "カルシウム剤",
   "indications": "低カルシウム血症に起因する下記症候の改善　テタニー\n下記代謝性骨疾患におけるカルシウム補給　妊婦・産婦の骨軟化症\n発育期におけるカルシウム補給",
+  "indications_table": null,
   "dose_admin": "乳酸カルシウム水和物として、通常成人1回1gを1日2～5回経口投与する。なお、年齢、症状により適宜増減する。",
   "contraindications": "高カルシウム血症の患者［症状を悪化させることがある。］\n,\n腎結石のある患者［症状を悪化させることがある。］\n重篤な腎不全のある患者",
   "application_precautions": "",
@@ -12,7 +13,7 @@
   "observation_points": [
     "消化器：便秘",
     "その他：高カルシウム血症",
-    "、結石症"
+    "結石症"
   ],
   "revision_date": "2023-08",
   "is_in_formulary": false,

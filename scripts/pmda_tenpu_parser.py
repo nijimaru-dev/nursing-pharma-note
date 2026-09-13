@@ -28,6 +28,7 @@ formulary.txt を渡すと、院内処方リストに載っている薬剤名（
 """
 
 import argparse
+import json
 import re
 import sqlite3
 import sys
@@ -213,6 +214,72 @@ def parse_revision_date(root):
     return ""
 
 
+def parse_indications(root):
+    """
+    「効能又は効果」を抽出する。
+
+    通常は箇条書き（UnorderedList/Item/Detail）のみだが、一部の薬剤
+    （規格・適応症の組み合わせが複雑な薬。例：メインテート錠の
+    0.625mg/2.5mg/5mgで適応症が異なる）では、箇条書きの後ろに
+    「規格×適応症」の参考表（TblBlock/SimpleTable、○＝効能あり／－＝
+    効能なしの記号表）が続く。
+
+    【不具合修正・2026-09-13】従来はIndicationsOrEfficacy配下を
+    _text_all()で単純に全文連結していたため、この参考表のセル内容
+    （見出し行・記号）まで箇条書きの地の文と同じ1本のテキストへ
+    フラットに混ざり込み、「どの○がどの規格に対応するか」が失われて
+    表示が壊れていた。箇条書き部分（prose）と参考表部分（table、行・列
+    構造を保った辞書）を分離して返すことで、表側はdrug.htmlで実際の
+    <table>として再構築できるようにする。
+
+    戻り値: (prose_text, table_dict_or_None)
+    table_dict は {"caption": str, "header": [str,...],
+    "rows": [{"label": str, "values": [str,...]}, ...], "footnote": str}。
+    このテーブル構造を持つ薬剤は全体のごく一部（実データ抽出で約0.2%）。
+    構造が想定と異なる場合はNoneを返し、prose側の抽出（フォールバック込み）
+    には影響しない。
+    """
+    indications_root = root.find(f".//{TAG['indications']}")
+    if indications_root is None:
+        return "", None
+
+    list_root = indications_root.find("UnorderedList")
+    if list_root is not None:
+        prose = _text_all(list_root)
+    else:
+        # UnorderedListが無い（＝旧来のフラットな構造の）ファイル向け
+        # フォールバック。TblBlockだけは地の文に混ぜない。
+        parts = [_text_all(c) for c in indications_root if c.tag != "TblBlock"]
+        prose = "\n".join(p for p in parts if p)
+
+    table = None
+    tbl_block = indications_root.find("TblBlock")
+    if tbl_block is not None:
+        simple_table = tbl_block.find("SimpleTable")
+        if simple_table is not None:
+            rows = []
+            for row in simple_table.findall("SimpTblRow"):
+                cells = [_text_all(cell).strip() for cell in row.findall("SimpTblCell")]
+                if any(cells):
+                    rows.append(cells)
+            # 1行目を見出し行、2行目以降を「適応症名＋各規格の○/－」として扱う。
+            # 見出し行が無い（1行も取れない）場合はテーブル化を諦める。
+            if len(rows) >= 2:
+                caption_elem = tbl_block.find("TblCaption")
+                foot_elem = tbl_block.find(".//SimpTblFoot")
+                table = {
+                    "caption": _text_all(caption_elem).strip() if caption_elem is not None else "",
+                    "header": rows[0],
+                    "rows": [
+                        {"label": r[0], "values": r[1:]}
+                        for r in rows[1:] if r and r[0]
+                    ],
+                    "footnote": _text_all(foot_elem).strip() if foot_elem is not None else "",
+                }
+
+    return prose, table
+
+
 def parse_tenpu_file(filepath: Path):
     """
     1つの添付文書XMLファイルをパースし、
@@ -229,7 +296,7 @@ def parse_tenpu_file(filepath: Path):
 
     generic_name = _text_all(root.find(f".//{TAG['generic_name']}"))
     therapeutic_classification = _text_all(root.find(f".//{TAG['therapeutic_classification']}"))
-    indications = _text_all(root.find(f".//{TAG['indications']}"))
+    indications, indications_table = parse_indications(root)
     dose_admin = _text_all(root.find(f".//{TAG['dose_admin']}"))
     contraindications = _text_all(root.find(f".//{TAG['contraindications']}"))
     application_precautions = _text_all(root.find(f".//{TAG['application_precautions']}"))
@@ -292,6 +359,7 @@ def parse_tenpu_file(filepath: Path):
         "generic_name": generic_name,
         "therapeutic_classification": therapeutic_classification,
         "indications": indications,
+        "indications_table": json.dumps(indications_table, ensure_ascii=False) if indications_table else None,
         "dose_admin": dose_admin,
         "contraindications": contraindications,
         "application_precautions": application_precautions,
@@ -316,6 +384,11 @@ CREATE TABLE IF NOT EXISTS drug_master (
     generic_name TEXT,
     therapeutic_classification TEXT,
     indications TEXT,
+    -- 【2026-09-13追加】規格×適応症の参考表（一部薬剤のみ）をJSON文字列で
+    -- 保持する列。{"caption","header":[...],"rows":[{"label","values":[...]}],
+    -- "footnote"} 形式。テーブルを持たない薬剤はNULL（pmda_tenpu_parser.py
+    -- のparse_indications参照）。
+    indications_table TEXT,
     dose_admin TEXT,
     contraindications TEXT,
     application_precautions TEXT,
@@ -449,6 +522,7 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
     conn.executescript(SCHEMA)
     ensure_column(conn, "drug_master", "other_adverse_events")
     ensure_column(conn, "drug_master", "revision_date")
+    ensure_column(conn, "drug_master", "indications_table")
     cur = conn.cursor()
 
     formulary_names = load_formulary(formulary_path)
@@ -478,14 +552,16 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
             cur.execute(
                 """
                 INSERT INTO drug_master
-                    (brand_name, yj_code, generic_name, therapeutic_classification, indications, dose_admin,
+                    (brand_name, yj_code, generic_name, therapeutic_classification, indications,
+                     indications_table, dose_admin,
                      contraindications, application_precautions, serious_adverse_events, other_adverse_events,
                      revision_date, source_file, is_in_formulary)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(yj_code, brand_name) DO UPDATE SET
                     generic_name=excluded.generic_name,
                     therapeutic_classification=excluded.therapeutic_classification,
                     indications=excluded.indications,
+                    indications_table=excluded.indications_table,
                     dose_admin=excluded.dose_admin,
                     contraindications=excluded.contraindications,
                     application_precautions=excluded.application_precautions,
@@ -497,7 +573,8 @@ def ingest(input_dir: Path, db_path: Path, formulary_path: Path = None):
                 """,
                 (
                     brand["brand_name"], brand["yj_code"], common["generic_name"],
-                    common["therapeutic_classification"], common["indications"], common["dose_admin"],
+                    common["therapeutic_classification"], common["indications"],
+                    common["indications_table"], common["dose_admin"],
                     common["contraindications"], common["application_precautions"],
                     common["serious_adverse_events"], common["other_adverse_events"],
                     common["revision_date"], common["source_file"], in_formulary,

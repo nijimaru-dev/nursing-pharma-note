@@ -4,6 +4,7 @@
   "generic_name": "球形吸着炭",
   "therapeutic_classification": "慢性腎不全用剤",
   "indications": "下記の疾患における尿毒症症状の改善及び透析導入の遅延慢性腎不全（進行性）",
+  "indications_table": null,
   "dose_admin": "通常、成人にクレメジン原体として1日6gを3回に分割し、経口投与する。",
   "contraindications": "消化管に通過障害を有する患者［排泄に支障をきたすおそれがある。］",
   "application_precautions": "薬剤交付時の注意\n本剤は吸湿性が強いのでSPシートの状態で保存するよう指導すること。\n本剤は口の中に入れ、水で崩壊させてから飲み込むこと。",
@@ -11,8 +12,7 @@
   "other_adverse_events": "皮膚：そう痒感皮疹\n消化器：便秘食欲不振悪心・嘔吐\n消化器：腹部膨満感胃重感腹痛下痢",
   "observation_points": [
     "皮膚：そう痒感皮疹",
-    "消化器：便秘食欲不振悪心・嘔吐",
-    "消化器：腹部膨満感胃重感腹痛下痢"
+    "消化器：便秘食欲不振悪心・嘔吐、腹部膨満感胃重感腹痛下痢"
   ],
   "revision_date": "2025-12",
   "is_in_formulary": false,

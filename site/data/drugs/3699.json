@@ -4,6 +4,7 @@
   "generic_name": "カフェイン水和物",
   "therapeutic_classification": "中枢興奮・鎮痛剤",
   "indications": "ねむけ、倦怠感\n血管拡張性及び脳圧亢進性頭痛（片頭痛、高血圧性頭痛、カフェイン禁断性頭痛など）",
+  "indications_table": null,
   "dose_admin": "カフェイン水和物として、通常成人1回0.1～0.3gを1日2～3回経口投与する。なお、年齢、症状により適宜増減する。",
   "contraindications": "",
   "application_precautions": "",
@@ -11,11 +12,8 @@
   "other_adverse_events": "循環器：不整脈\n注）\n精神神経系：振戦\n注）\n、めまい\n注）\n、不眠\n注）\n、不安\n注）\n感覚器：瞳孔散大\n注）\nその他：虚脱\n注）",
   "observation_points": [
     "循環器：不整脈",
-    "注）",
+    "注）、めまい、不眠、不安",
     "精神神経系：振戦",
-    "、めまい",
-    "、不眠",
-    "、不安",
     "感覚器：瞳孔散大",
     "その他：虚脱"
   ],

@@ -4,17 +4,16 @@
   "generic_name": "角化症治療剤（10％尿素ローション）",
   "therapeutic_classification": "角化症治療剤（10％尿素ローション）",
   "indications": "魚鱗癬\n老人性乾皮症\nアトピー皮膚\n進行性指掌角皮症（主婦湿疹の乾燥型）\n足蹠部皸裂性皮膚炎\n掌蹠角化症\n毛孔性苔癬\n頭部粃糠疹",
+  "indications_table": null,
   "dose_admin": "1日2～3回、患部を清浄にしたのち塗布し、よくすり込む。なお、症状により適宜増減する。",
   "contraindications": "",
   "application_precautions": "薬剤調製時の注意\n本剤にステンレスヘラを長時間接触させたままで放置すると、錆びることがあるので注意すること。",
   "serious_adverse_events": "",
   "other_adverse_events": "刺激症状：疼痛、熱感\n刺激症状：潮紅、そう痒感\n過敏症：過敏症状\n皮膚：湿疹化、亀裂、丘疹\n皮膚：腫脹、乾燥化",
   "observation_points": [
-    "刺激症状：疼痛、熱感",
-    "刺激症状：潮紅、そう痒感",
+    "刺激症状：疼痛、熱感、潮紅、そう痒感",
     "過敏症：過敏症状",
-    "皮膚：湿疹化、亀裂、丘疹",
-    "皮膚：腫脹、乾燥化"
+    "皮膚：湿疹化、亀裂、丘疹、腫脹、乾燥化"
   ],
   "revision_date": "2024-01",
   "is_in_formulary": false,

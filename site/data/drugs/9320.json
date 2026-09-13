@@ -4,14 +4,14 @@
   "generic_name": "ナジフロキサシンローション",
   "therapeutic_classification": "ニューキノロン系外用抗菌剤",
   "indications": "〈適応菌種〉\n本剤に感性のブドウ球菌属、アクネ菌\n〈適応症〉\nざ瘡（化膿性炎症を伴うもの）",
+  "indications_table": null,
   "dose_admin": "本品の適量を1日2回、洗顔後、患部に塗布する。",
   "contraindications": "",
   "application_precautions": "薬剤投与時の注意\n皮膚のみに使用し、眼科用として角膜、結膜には使用しないこと。誤って眼に入った場合は速やかに水でよく洗い流すこと。",
   "serious_adverse_events": "",
   "other_adverse_events": "皮膚：刺激感（10.6％）\n皮膚：そう痒感、発赤、潮紅、丘疹、顔面の熱感、接触皮膚炎、皮膚乾燥、ほてり感",
   "observation_points": [
-    "皮膚：刺激感（10.6％）",
-    "皮膚：そう痒感、発赤、潮紅、丘疹、顔面の熱感、接触皮膚炎、皮膚乾燥、ほてり感"
+    "皮膚：刺激感（10.6％）、そう痒感、発赤、潮紅、丘疹、顔面の熱感、接触皮膚炎、皮膚乾燥、ほてり感"
   ],
   "revision_date": "2024-09",
   "is_in_formulary": false,

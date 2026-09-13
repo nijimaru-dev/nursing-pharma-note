@@ -72,28 +72,77 @@ import sqlite3
 from pathlib import Path
 
 
+_PERCENT_SUFFIX_RE = re.compile(r"[（(]\s*[\d.]+\s*%\s*[）)]$")
+
+
+def _symptom_dedup_key(token):
+    """重複判定用のキー。「めまい」と「めまい（16.0%）」を同一とみなすため、
+    末尾の（NN.N%）表記だけを取り除く（それ以外の表記ゆれは意味解析しない）。"""
+    return _PERCENT_SUFFIX_RE.sub("", token).strip()
+
+
 def derive_observation_points(other_adverse_events):
     """
-    v1の簡易実装：その他の副作用（重大に至らない一般的な副作用）テキストを
-    行単位に分割し、観察項目の候補リストとして返す。
+    その他の副作用（重大に至らない一般的な副作用）テキストから、
+    「器官別分類（循環器・精神神経系等）ごとに1行」の観察項目リストを作る。
+
+    【不具合修正・2026-09-13】pmda_tenpu_parser.pyのparse_other_adverse_events()
+    は、適応症・試験ごとに分かれた複数の<OtherAdverse>表を単純に連結するため、
+    実データでは同一カテゴリ（例：循環器）が複数の完全に別々の行として
+    重複出現していた（drug.htmlで「循環器：xxx」ブロックが2〜3回表示される
+    不具合）。ここでカテゴリをキーに全記載をマージし、「、」区切りの語句単位で
+    重複を除去してから1カテゴリ1行に整形する。
+
+    重複判定は語句の完全一致（％表記の有無だけを無視）でのみ行う。
+    「AST、ALT、ビリルビンの上昇」のように末尾の動詞句が複数語へ分配で
+    係る構文までは意味解析しないため、このケースに限り重複が完全には
+    解消しないことがある（既知の制約。誤って「ビリルビン」のような
+    語だけを機械的に「ビリルビンの上昇」と決めつけて医学的に不正確な
+    文言を自動生成するリスクを避けるため、あえて分配の推測はしない）。
+
     重大な副作用（serious_adverse_events）は「重要」バナー専用のため含めない。
     飲み合わせ（併用注意）由来のテキストも「飲み合わせ注意」セクションと
     重複するため含めない。
     看護知識による個別の精査は行っていないため、あくまで叩き台。
     """
+    if not other_adverse_events:
+        return []
+
+    category_order = []
+    # category -> {dedup_key: 表示用の実際の語句（％表記があればそちらを優先）}
+    category_tokens = {}
+
+    for line in other_adverse_events.split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        if "：" in line:
+            category, rest = line.split("：", 1)
+        else:
+            category, rest = "", line
+
+        if category not in category_tokens:
+            category_tokens[category] = {}
+            category_order.append(category)
+        bucket = category_tokens[category]
+
+        for token in rest.split("、"):
+            token = token.strip()
+            if not token:
+                continue
+            key = _symptom_dedup_key(token)
+            existing = bucket.get(key)
+            has_percent = bool(_PERCENT_SUFFIX_RE.search(token))
+            if existing is None or (has_percent and not _PERCENT_SUFFIX_RE.search(existing)):
+                bucket[key] = token
+
     points = []
-    seen = set()
-
-    def add_lines(text):
-        if not text:
-            return
-        for line in re.split(r"[\n。]", text):
-            line = line.strip()
-            if line and line not in seen:
-                seen.add(line)
-                points.append(line)
-
-    add_lines(other_adverse_events)
+    for category in category_order:
+        tokens = list(category_tokens[category].values())
+        if not tokens:
+            continue
+        merged = "、".join(tokens)
+        points.append(f"{category}：{merged}" if category else merged)
 
     return points
 
@@ -176,6 +225,9 @@ def export(db_path: Path, out_dir: Path):
             "generic_name": d["generic_name"],
             "therapeutic_classification": d["therapeutic_classification"],
             "indications": d["indications"],
+            # 規格×適応症の参考表（一部薬剤のみ。pmda_tenpu_parser.pyの
+            # parse_indications参照）。無い薬剤はNULLなのでNoneのまま出力する。
+            "indications_table": json.loads(d["indications_table"]) if d["indications_table"] else None,
             "dose_admin": d["dose_admin"],
             "contraindications": d["contraindications"],
             "application_precautions": d["application_precautions"],

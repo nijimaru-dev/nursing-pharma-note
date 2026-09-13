@@ -4,14 +4,14 @@
   "generic_name": "スクラルファート水和物液",
   "therapeutic_classification": "胃炎・消化性潰瘍治療剤",
   "indications": "〇胃潰瘍、十二指腸潰瘍〇下記疾患の胃粘膜病変（びらん、出血、発赤、浮腫）の改善　 急性胃炎、慢性胃炎の急性増悪期",
+  "indications_table": null,
   "dose_admin": "通常、成人1回10mLを1日3回経口投与する。なお、年齢、症状により適宜増減する。",
   "contraindications": "透析療法を受けている患者",
   "application_precautions": "",
   "serious_adverse_events": "",
   "other_adverse_events": "消化器：便秘、嘔気\n消化器：口渇、悪心等\n皮膚：発疹、蕁麻疹等\n過敏症：アナフィラキシー反応",
   "observation_points": [
-    "消化器：便秘、嘔気",
-    "消化器：口渇、悪心等",
+    "消化器：便秘、嘔気、口渇、悪心等",
     "皮膚：発疹、蕁麻疹等",
     "過敏症：アナフィラキシー反応"
   ],

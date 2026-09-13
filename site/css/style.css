@@ -737,6 +737,48 @@ main:focus-visible { outline: none; }
 }
 .tab-panel__body { color: var(--ink); white-space: pre-line; line-height: 1.9; }
 
+/* --- 効能・効果の規格×適応症 参考表（indications_table）---
+   【不具合修正・2026-09-13】以前は表のセル内容が地の文にフラットに
+   混ざり込み、どの○/－がどの規格の列か分からなくなっていた。
+   実際の<table>として描画し、スマホ幅では横スクロールさせる。 */
+.table-scroll { overflow-x: auto; margin: 14px 0 4px; -webkit-overflow-scrolling: touch; }
+.indications-table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 420px;
+  font-size: 0.92rem;
+  white-space: normal;
+}
+.indications-table caption {
+  caption-side: top;
+  text-align: left;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+  padding-bottom: 6px;
+}
+.indications-table th,
+.indications-table td {
+  border: 1px solid var(--line-strong);
+  padding: 8px 10px;
+}
+.indications-table thead th {
+  background: var(--teal-tint);
+  color: var(--teal-dark);
+  font-weight: 700;
+  white-space: nowrap;
+}
+.indications-table tbody th {
+  text-align: left;
+  font-weight: 500;
+  color: var(--ink);
+}
+.indications-table tbody td {
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+.indications-table__footnote { font-size: 0.8rem; color: var(--ink-soft); margin-top: 6px; }
+
 /* --- 相互作用行（通知型ボックス、important-banner参照） --- */
 .interaction-row {
   border-radius: var(--radius-notice);

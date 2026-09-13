@@ -4,16 +4,15 @@
   "generic_name": "ポリエンホスファチジルコリン",
   "therapeutic_classification": "肝臓疾患用剤\n高脂質血症改善剤",
   "indications": "慢性肝疾患における肝機能の改善、脂肪肝、高脂質血症",
+  "indications_table": null,
   "dose_admin": "ポリエンホスファチジルコリンとして、通常成人1回500mgを1日3回経口投与する。なお、年齢、症状により適宜増減する。",
   "contraindications": "本剤の成分に対し過敏症の既往歴のある患者",
   "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
   "serious_adverse_events": "",
   "other_adverse_events": "過敏症：-\n過敏症：発疹等\n消化器：下痢、胃部不快感、腹部膨満感、悪心等\n消化器：-",
   "observation_points": [
-    "過敏症：-",
-    "過敏症：発疹等",
-    "消化器：下痢、胃部不快感、腹部膨満感、悪心等",
-    "消化器：-"
+    "過敏症：-、発疹等",
+    "消化器：下痢、胃部不快感、腹部膨満感、悪心等、-"
   ],
   "revision_date": "2023-06",
   "is_in_formulary": false,

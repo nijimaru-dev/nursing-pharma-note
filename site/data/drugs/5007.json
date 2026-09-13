@@ -4,16 +4,15 @@
   "generic_name": "ケトチフェンフマル酸塩",
   "therapeutic_classification": "アレルギー性鼻炎治療剤",
   "indications": "アレルギー性鼻炎",
+  "indications_table": null,
   "dose_admin": "通常、1日4回（朝、昼、タ方及び就寝前）、1回各鼻腔に1噴霧（ケトチフェンとして0.05mg）ずつ、鼻用定量噴霧器を用いて噴霧吸入する。",
   "contraindications": "",
   "application_precautions": "薬剤交付時の注意\n本剤に添付された「鼻用定量噴霧器の使い方」にしたがって正しく噴霧吸入するよう患者を指導すること。",
   "serious_adverse_events": "",
   "other_adverse_events": "鼻腔：鼻乾燥感、鼻刺激感\n鼻腔：－\n精神神経系：眠気、脱力感\n精神神経系：頭痛",
   "observation_points": [
-    "鼻腔：鼻乾燥感、鼻刺激感",
-    "鼻腔：－",
-    "精神神経系：眠気、脱力感",
-    "精神神経系：頭痛"
+    "鼻腔：鼻乾燥感、鼻刺激感、－",
+    "精神神経系：眠気、脱力感、頭痛"
   ],
   "revision_date": "2024-09",
   "is_in_formulary": false,

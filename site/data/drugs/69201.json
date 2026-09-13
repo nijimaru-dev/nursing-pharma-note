@@ -4,15 +4,15 @@
   "generic_name": "ラクツロース",
   "therapeutic_classification": "経口用二糖類製剤",
   "indications": "高アンモニア血症に伴う下記症候の改善\n精神神経障害、脳波異常、手指振戦",
+  "indications_table": null,
   "dose_admin": "通常成人1日量30～60mLを2～3回に分けて経口投与する。症状により適宜増減する。なお、本剤の投与により、下痢が惹起されることがあるので少量より投与を開始して漸増し、1日2～3回の軟便がみられる量を投与する。",
   "contraindications": "ガラクトース血症の患者［本剤はガラクトース（13w/v%以下）及び乳糖（7w/v%以下）を含有する。］",
   "application_precautions": "薬剤交付時の注意\n分包品は服用直前まで開封しないこと。服用後の残液は廃棄し、保存しないこと。",
   "serious_adverse_events": "",
   "other_adverse_events": "消化器：下痢\n注2）\n消化器：腹鳴、鼓腸、腹痛、食欲不振、嘔気",
   "observation_points": [
-    "消化器：下痢",
-    "注2）",
-    "消化器：腹鳴、鼓腸、腹痛、食欲不振、嘔気"
+    "消化器：下痢、腹鳴、鼓腸、腹痛、食欲不振、嘔気",
+    "注2）"
   ],
   "revision_date": "2023-11",
   "is_in_formulary": false,

@@ -117,6 +117,45 @@ function cleanRawText(text) {
     .join("\n");
 }
 
+/**
+ * 「効能又は効果」の規格×適応症の参考表（indications_table。一部薬剤のみ、
+ * 無ければnull）を、実際の<table>として描画する。
+ * 【不具合修正・2026-09-13】以前はこの表のセル内容が地の文（indications）
+ * へフラットに混ざり込み、「どの○がどの規格に対応するか」が分からなく
+ * なっていた。export_db_to_json.py側で行・列構造を保ったJSONとして
+ * 分離済みのため、ここでヘッダー行＝規格名、各行＝適応症＋○/－の
+ * 実テーブルに再構築する。スマホ幅では.table-scrollで横スクロールさせる。
+ */
+function renderIndicationsTable(table) {
+  if (!table || !table.rows || !table.rows.length) return "";
+  const [firstCol, ...strengthCols] = table.header;
+  return `
+    <div class="table-scroll">
+      <table class="indications-table">
+        ${table.caption ? `<caption>${escapeHTML(table.caption)}</caption>` : ""}
+        <thead>
+          <tr>
+            <th scope="col">${escapeHTML(firstCol || "")}</th>
+            ${strengthCols.map((h) => `<th scope="col">${wrapUnits(escapeHTML(h))}</th>`).join("")}
+          </tr>
+        </thead>
+        <tbody>
+          ${table.rows
+            .map(
+              (r) => `
+          <tr>
+            <th scope="row">${escapeHTML(r.label)}</th>
+            ${r.values.map((v) => `<td>${escapeHTML(v)}</td>`).join("")}
+          </tr>`
+            )
+            .join("")}
+        </tbody>
+      </table>
+    </div>
+    ${table.footnote ? `<p class="indications-table__footnote">${escapeHTML(table.footnote)}</p>` : ""}
+  `;
+}
+
 /** "2026-07" 形式の改訂年月を「2026年07月」表記に変換する。 */
 function formatRevisionDate(text) {
   if (!text) return "";
@@ -307,6 +346,7 @@ function renderDrug(drug) {
         ${tabs.map((t, i) => {
           let body = escapeHTML(cleanRawText(t.body) || "記載なし");
           if (t.id === "dose") body = wrapUnits(body);
+          if (t.id === "indications") body += renderIndicationsTable(drug.indications_table);
           return `<div class="tab-panel__body" id="panel-${t.id}" role="tabpanel" aria-labelledby="tab-${t.id}" ${i === 0 ? "" : "hidden"}>${body}</div>`;
         }).join("")}
       </div>

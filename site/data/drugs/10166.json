@@ -4,17 +4,16 @@
   "generic_name": "プラリドキシムヨウ化物",
   "therapeutic_classification": "有機リン剤中毒解毒剤",
   "indications": "有機リン剤の中毒",
+  "indications_table": null,
   "dose_admin": "プラリドキシムヨウ化物として通常成人1回1gを静脈内に徐々に注射する。なお、年齢、症状により適宜増減する。",
   "contraindications": "",
   "application_precautions": "",
   "serious_adverse_events": "",
   "other_adverse_events": "消化器：嘔気\n消化器：口内苦味感\n循環器：胸内苦悶、不整脈\nその他：軽度不快感\nその他：下顎疲労感、ヨード過剰症状（鼻咽頭灼熱感、耳下腺痛）",
   "observation_points": [
-    "消化器：嘔気",
-    "消化器：口内苦味感",
+    "消化器：嘔気、口内苦味感",
     "循環器：胸内苦悶、不整脈",
-    "その他：軽度不快感",
-    "その他：下顎疲労感、ヨード過剰症状（鼻咽頭灼熱感、耳下腺痛）"
+    "その他：軽度不快感、下顎疲労感、ヨード過剰症状（鼻咽頭灼熱感、耳下腺痛）"
   ],
   "revision_date": "2024-02",
   "is_in_formulary": false,
