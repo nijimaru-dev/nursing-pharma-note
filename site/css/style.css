@@ -4,12 +4,13 @@
    検索を主役に、情報は静かな余白と極薄の罫線で整理する。背景はごくわずかに
    温かみのある白、文字は濃いネイビー、アクセントは深い青緑。警告色（赤系）は
    「重要」セクションなど本当に必要な箇所だけに使う。
-   見出しは明朝体、本文はゴシック体（游明朝/游ゴシック・Noto Serif/Sans JPを
-   フォールバックに含め、Webフォント未読込時もブラウザ標準フォントに
-   落ちないようにする）。
+   【2026-09-14】以前は見出し＝明朝体／本文＝ゴシック体の2書体構成だったが、
+   全面的にZen Kaku Gothic New（ゴシック体）単一書体に統一した（Shippori
+   Minchoは廃止）。游ゴシック・Noto Sans JPはフォールバックに含め、Webフォント
+   未読込時もブラウザ標準フォントに落ちないようにする。
    ========================================================================== */
 
-@import url("https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap");
 
 :root {
   /* --- 色：ごくわずかに温かみのある白 × 濃いネイビー × 深い青緑 --- */
@@ -66,8 +67,10 @@
      同じ変数を参照することで、幅を揃えたまま一括で調整できるようにする。 */
   --content-width: 760px;
 
-  /* 游明朝体・Noto Serif JP等を明示的にフォールバックへ含める（8章参照） */
-  --font-display: "Shippori Mincho", "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
+  /* 【2026-09-14】明朝体（Shippori Mincho）を全廃し、ゴシック体単一書体に統一。
+     --font-displayは既存の参照箇所（h1〜h4等）を変更せずに済むよう変数名は
+     残し、値だけ--font-bodyと同じゴシック体スタックにしている（8章参照）。 */
+  --font-display: "Zen Kaku Gothic New", "Yu Gothic", "YuGothic", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Hiragino Sans", sans-serif;
   --font-body: "Zen Kaku Gothic New", "Yu Gothic", "YuGothic", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Hiragino Sans", sans-serif;
   --font-mono: "SFMono-Regular", "Consolas", "Menlo", "Cascadia Mono", monospace;
 
@@ -909,7 +912,6 @@ main:focus-visible { outline: none; }
 .result-card--caution { border-left-color: var(--warning); background: var(--warning-tint); }
 .result-card--none { border-left-color: var(--safe); background: var(--safe-tint); }
 
-.result-card .pair-name { font-weight: 700; font-family: var(--font-display); font-size: 1.05rem; margin-bottom: 6px; }
 .result-card .pair-type {
   display: flex;
   align-items: center;
