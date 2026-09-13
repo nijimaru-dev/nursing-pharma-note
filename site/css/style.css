@@ -1085,6 +1085,13 @@ main:focus-visible { outline: none; }
   padding: 60px 0;
   text-align: center;
   color: var(--ink-soft);
+  /* 【不具合修正・2026-09-14】.drug-grid等のCSS Grid内に単独の子要素として
+     挿入されるケースがあり、grid-column指定がないとグリッドの1カラム分の
+     幅（PC幅で1/2〜1/3）に押し込められ、text-align:centerと相まって
+     「詳細」等の単語途中で改行され、2行目が不自然にインデントして見える
+     不具合が発生していた。グリッドの有無に関わらず常に全幅を使うよう
+     明示する（grid以外のコンテナでは無害）。 */
+  grid-column: 1 / -1;
 }
 
 /* --- 薬効分類ピッカー（トップページ） --- */
