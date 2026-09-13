@@ -1,0 +1,104 @@
+{
+  "id": 65263,
+  "brand_name": "ペルジピンLAカプセル40mg",
+  "generic_name": "日局 ニカルジピン塩酸塩",
+  "therapeutic_classification": "持続性Ca拮抗剤",
+  "indications": "本態性高血圧症",
+  "dose_admin": "通常成人には、本剤を1回ニカルジピン塩酸塩として20～40mg1日2回経口投与する。",
+  "contraindications": "頭蓋内出血で止血が完成していないと推定される患者［出血が促進する可能性がある。］\n脳卒中急性期で頭蓋内圧が亢進している患者［頭蓋内圧が高まるおそれがある。］\n妊婦又は妊娠している可能性のある女性",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "血小板減少（頻度不明）\n肝機能障害、黄疸（いずれも頻度不明）\nAST・ALT・γ-GTPの上昇等を伴う肝機能障害や黄疸があらわれることがある。",
+  "other_adverse_events": "肝臓：AST上昇、ALT上昇、γ-GTP上昇\n肝臓：ビリルビン上昇、Al-P上昇、LDH上昇、血清コレステロール上昇\n腎臓：BUN上昇、クレアチニン上昇\n血液：顆粒球減少\n消化器：便秘、腹痛\n消化器：食欲不振、胸やけ、口渇、下痢、悪心・嘔吐、胃部不快感\n循環器：顔面潮紅、動悸、脱力・倦怠感、のぼせ\n循環器：立ちくらみ、頻脈、熱感、血圧低下、浮腫\n過敏症：発疹、そう痒感\n過敏症：光線過敏症\n口腔：歯肉肥厚\nその他：頭痛・頭重、めまい\nその他：耳鳴、眠気、しびれ感、不眠、胸部不快感、流涎、発赤、頻尿、ふらふら感",
+  "observation_points": [
+    "肝臓：AST上昇、ALT上昇、γ-GTP上昇",
+    "肝臓：ビリルビン上昇、Al-P上昇、LDH上昇、血清コレステロール上昇",
+    "腎臓：BUN上昇、クレアチニン上昇",
+    "血液：顆粒球減少",
+    "消化器：便秘、腹痛",
+    "消化器：食欲不振、胸やけ、口渇、下痢、悪心・嘔吐、胃部不快感",
+    "循環器：顔面潮紅、動悸、脱力・倦怠感、のぼせ",
+    "循環器：立ちくらみ、頻脈、熱感、血圧低下、浮腫",
+    "過敏症：発疹、そう痒感",
+    "過敏症：光線過敏症",
+    "口腔：歯肉肥厚",
+    "その他：頭痛・頭重、めまい",
+    "その他：耳鳴、眠気、しびれ感、不眠、胸部不快感、流涎、発赤、頻尿、ふらふら感"
+  ],
+  "revision_date": "2022-12",
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "他の血圧降下剤",
+      "clinical_symptom_action": "血圧降下作用が増強されることがある。",
+      "mechanism_risk_factor": "両剤の薬理学的な相加作用等による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β-遮断剤\nプロプラノロール　等",
+      "clinical_symptom_action": "うっ血性心不全患者では、過度の血圧低下、心機能の低下があらわれることがある。必要に応じどちらかを減量又は投与を中止する。",
+      "mechanism_risk_factor": "両剤の薬理学的な相加作用による。（1）血圧降下作用の増強（2）陰性変力作用の増強"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジゴキシンの作用を増強し、中毒症状（嘔気、嘔吐、めまい、徐脈、不整脈等）があらわれることがある。必要に応じジゴキシンを減量する。",
+      "mechanism_risk_factor": "本剤が、主に腎でのクリアランスを減少させ、ジゴキシンの血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ダントロレンナトリウム水和物",
+      "clinical_symptom_action": "他のCa拮抗剤（ベラパミル等）の動物実験で心室細動、循環虚脱がみられたとの報告がある。",
+      "mechanism_risk_factor": "高カリウム血症を来すと考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "タンドスピロンクエン酸塩",
+      "clinical_symptom_action": "動物実験で血圧降下作用が増強されたとの報告がある。",
+      "mechanism_risk_factor": "タンドスピロンクエン酸塩は中枢性の血圧降下作用を有し、相加的な降圧作用を示す。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ニトログリセリン",
+      "clinical_symptom_action": "動物実験で房室ブロックを起こしたとの報告がある。",
+      "mechanism_risk_factor": "機序不明"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "免疫抑制剤\nシクロスポリン\nタクロリムス水和物　等",
+      "clinical_symptom_action": "免疫抑制剤の作用を増強し、中毒症状（特に腎機能異常）があらわれることがある。また、本剤の作用を増強し、血圧低下、頻脈等があらわれることがある。必要に応じ免疫抑制剤及び本剤を減量する。",
+      "mechanism_risk_factor": "本剤あるいは免疫抑制剤によりCYP3A4が阻害され、免疫抑制剤あるいは本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "フェニトイン",
+      "clinical_symptom_action": "（1）フェニトインの作用を増強し、中毒症状（神経的）があらわれることがある。必要に応じフェニトインを減量する。（2）本剤の作用が減弱されることがある。必要に応じ本剤を増量する。",
+      "mechanism_risk_factor": "（1）本剤の蛋白結合率が高いため、血漿蛋白結合競合により、遊離型フェニトインが上昇する。（2）CYP3A4が誘導され、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "リファンピシン",
+      "clinical_symptom_action": "本剤の作用が減弱されることがある。必要に応じ本剤を増量する。",
+      "mechanism_risk_factor": "CYP3A4が誘導され、本剤の代謝が促進される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "シメチジン",
+      "clinical_symptom_action": "本剤の作用が増強され、血圧低下、頻脈等があらわれることがある。必要に応じ本剤を減量する。",
+      "mechanism_risk_factor": "これらの薬剤によりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "HIVプロテアーゼ阻害剤\nサキナビル\nリトナビル　等",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "これらの薬剤によりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "グレープフルーツジュース",
+      "clinical_symptom_action": "本剤の作用が増強されるおそれがある。",
+      "mechanism_risk_factor": "グレープフルーツジュースによりCYP3A4が阻害され、本剤の血中濃度が上昇する。"
+    }
+  ],
+  "facility_notes": ""
+}

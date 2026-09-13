@@ -1,0 +1,68 @@
+{
+  "id": 42261,
+  "brand_name": "エルデカルシトールカプセル0.75μg「サワイ」",
+  "generic_name": "エルデカルシトール",
+  "therapeutic_classification": "骨粗鬆症治療剤（活性型ビタミンD\n3\n製剤）",
+  "indications": "骨粗鬆症",
+  "dose_admin": "通常、成人にはエルデカルシトールとして1日1回0.75μgを経口投与する。ただし、症状により適宜1日1回0.5μgに減量する。",
+  "contraindications": "妊婦、妊娠している可能性のある女性又は授乳婦\n,\n本剤の成分に対し過敏症の既往のある患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することがある。\n瓶入り包装品を分包する場合、服用時以外薬袋から薬を出さないよう、及び直接光の当たる場所に薬を置かないよう指導すること。",
+  "serious_adverse_events": "高カルシウム血症（1.5%\n注1）\n）\n,\n,\n,\n,\n,\n急性腎障害（頻度不明）\n血清カルシウム上昇を伴った急性腎障害があらわれることがある。\n尿路結石（0.9%）\n,",
+  "other_adverse_events": "消化器：便秘、胃不快感、口渇、胃炎\n消化器：嘔気、下痢、腹痛\n精神神経系：浮動性めまい、味覚異常\n肝臓：γ-GTP上昇、AST上昇、ALT上昇、LDH上昇\n腎臓：クレアチニン上昇、BUN上昇、尿中血陽性、尿中蛋白陽性\n代謝：尿中カルシウム増加（20.3%）、血中カルシウム増加（15.0%\n注2）\n）\n代謝：血中尿酸増加、Al-P上昇\n血液：ヘモグロビン減少、白血球数減少、貧血、ヘマトクリット減少、赤血球数減少\n皮膚：発疹、そう痒症\nその他：耳鳴\nその他：浮腫",
+  "observation_points": [
+    "消化器：便秘、胃不快感、口渇、胃炎",
+    "消化器：嘔気、下痢、腹痛",
+    "精神神経系：浮動性めまい、味覚異常",
+    "肝臓：γ-GTP上昇、AST上昇、ALT上昇、LDH上昇",
+    "腎臓：クレアチニン上昇、BUN上昇、尿中血陽性、尿中蛋白陽性",
+    "代謝：尿中カルシウム増加（20.3%）、血中カルシウム増加（15.0%",
+    "注2）",
+    "）",
+    "代謝：血中尿酸増加、Al-P上昇",
+    "血液：ヘモグロビン減少、白血球数減少、貧血、ヘマトクリット減少、赤血球数減少",
+    "皮膚：発疹、そう痒症",
+    "その他：耳鳴",
+    "その他：浮腫"
+  ],
+  "revision_date": "2026-03",
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジギタリス製剤\nジゴキシン　等",
+      "clinical_symptom_action": "高カルシウム血症に伴う不整脈があらわれるおそれがある。",
+      "mechanism_risk_factor": "高カルシウム血症が発症した場合、ジギタリス製剤の作用が増強される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "カルシウム製剤\n乳酸カルシウム炭酸カルシウム　等\n,\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "本剤は腸管でのカルシウムの吸収を促進させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ビタミンD及びその誘導体\nアルファカルシドールカルシトリオール　等\n,\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "PTH製剤\nテリパラチド　等\nPTHrP製剤\nアバロパラチド酢酸塩\n,\n,\n,\n,\n,",
+      "clinical_symptom_action": "高カルシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "相加作用による。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム炭酸マグネシウム　等",
+      "clinical_symptom_action": "高マグネシウム血症があらわれるおそれがある。",
+      "mechanism_risk_factor": "他のビタミンD誘導体と同様に腸管でのマグネシウムの吸収を促進させると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "マグネシウムを含有する製剤\n酸化マグネシウム\n炭酸マグネシウム　等",
+      "clinical_symptom_action": "ミルク・アルカリ症候群（高カルシウム血症、高窒素血症、アルカローシス等）があらわれるおそれがある。",
+      "mechanism_risk_factor": "血中マグネシウムの増加により代謝性アルカローシスが持続するため、尿細管でのカルシウム再吸収が増加する。"
+    }
+  ],
+  "facility_notes": ""
+}

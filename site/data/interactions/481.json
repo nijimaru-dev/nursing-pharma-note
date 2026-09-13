@@ -8,11 +8,15 @@
     "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5363,
+    "other_id": 5989,
     "interaction_type": "contraindicated"
   },
   {
-    "other_id": 5989,
+    "other_id": 48174,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
     "interaction_type": "contraindicated"
   },
   {
@@ -33,6 +37,14 @@
   },
   {
     "other_id": 7956,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 54420,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 54422,
     "interaction_type": "contraindicated"
   },
   {
@@ -92,11 +104,27 @@
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 54440,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 54441,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 37225,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 3699,
     "interaction_type": "contraindicated"
   },
   {
     "other_id": 3700,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 57843,
     "interaction_type": "contraindicated"
   },
   {
@@ -113,6 +141,10 @@
   },
   {
     "other_id": 4483,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 46434,
     "interaction_type": "contraindicated"
   },
   {
@@ -148,6 +180,14 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 49574,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 49574,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 5989,
     "interaction_type": "caution"
   },
@@ -180,11 +220,23 @@
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 54405,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 7954,
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 54409,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 7957,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 54414,
     "interaction_type": "contraindicated"
   },
   {
@@ -197,6 +249,14 @@
   },
   {
     "other_id": 7968,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 54431,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 54432,
     "interaction_type": "contraindicated"
   },
   {
@@ -225,6 +285,14 @@
   },
   {
     "other_id": 14201,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 69002,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 69003,
     "interaction_type": "contraindicated"
   }
 ]

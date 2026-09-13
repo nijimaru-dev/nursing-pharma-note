@@ -44,38 +44,37 @@
   修正版ロジック: {'錠': 5672, '(不明)': 3075, '注射剤': 3017, 'OD錠': 1109, '液剤': 972, 'カプセル': 657, '顆粒': 401, '点眼剤': 388, '貼付剤': 301, '散剤': 232, '軟膏': 203, 'クリーム': 150, '坐剤': 96, 'シロップ': 95, 'ドライシロップ': 76, '点鼻剤': 69, 'ローション': 67, '吸入剤': 60, 'トローチ': 6}
 
 [Stage7] 検索インデックス件数（現行DB・現行index.json＝現在サイトに出ている実データ）
-  karteno_drugs.db drug_master件数: 10503
-  ユニーク(yj_code, brand_name)件数: 10503
+  karteno_drugs.db drug_master件数: 16646
+  ユニーク(yj_code, brand_name)件数: 16646
   site/data/index.json 件数: 10503
-  drug_master件数との差: 0
+  drug_master件数との差: -6143
 
 [検証] 現行DBは「現行ロジックで生データ全件を再パースした場合」の想定件数と一致するか
   現行ロジック再パース想定件数: 10503
-  現行DBの実件数: 10503
-  → 件数は一致。ただし中身（どのレコードか）は別途Master-Index比較で検証する
+  現行DBの実件数: 16646
+  → 不一致。現行DBは今回の生データ一式そのものから構築されたのではない可能性がある
+    （別バージョンのコード／別バージョンの生データで構築された可能性を含め、要調査）
 
 ======================================================================
 規格欠落・孤立レコードの抽出
 ======================================================================
 
-[Master→Index] 修正版ロジックでは存在するはずなのに、現行DBに無いレコード: 6143 件
+[Master→Index] 修正版ロジックでは存在するはずなのに、現行DBに無いレコード: 0 件
 [Index→Master] 現行DBにあるが、修正版ロジックの再パース結果に無いレコード（孤立候補）: 0 件
 
-[個別検証] メインテートの欠落レコード検出数: 2 件
-    - メインテート錠5mg (YJ:2123016F2189)
-    - メインテート錠2.5mg (YJ:2123016F1107)
-  → 監査ロジックは既知の不具合（メインテート2.5mg/5mg欠落）を正しく検出できている
+[個別検証] メインテートの欠落レコード検出数: 0 件
+  → [注意] メインテートの既知の欠落を検出できていない。監査ロジックを見直す必要がある
 
-[集計] 「一部の規格だけ検索インデックスに存在しない」薬剤ファミリー数: 2990
-[集計] 「ファミリー全体が検索インデックスに存在しない」薬剤ファミリー数: 1303
+[集計] 「一部の規格だけ検索インデックスに存在しない」薬剤ファミリー数: 0
+[集計] 「ファミリー全体が検索インデックスに存在しない」薬剤ファミリー数: 0
   （後者はDetailBrandNameバグとは別原因＝パースエラー・未収載等の可能性。個別確認が必要）
 
 [重複候補] 現行DBで、同一(brand_name, generic_name)がyj_code違いで複数存在するもの
-  該当件数: 25
+  該当件数: 124
 
-[出力] C:\Users\Lenovo\Downloads\nursing-pharma-note\audit\missing-index-strengths.csv (6143件)
+[出力] C:\Users\Lenovo\Downloads\nursing-pharma-note\audit\missing-index-strengths.csv (0件)
 [出力] C:\Users\Lenovo\Downloads\nursing-pharma-note\audit\orphan-index-records.csv (0件)
-[出力] C:\Users\Lenovo\Downloads\nursing-pharma-note\audit\duplicate-candidates.csv (25件)
+[出力] C:\Users\Lenovo\Downloads\nursing-pharma-note\audit\duplicate-candidates.csv (124件)
 
 [出力] C:\Users\Lenovo\Downloads\nursing-pharma-note\audit\search-completeness-audit.md
 

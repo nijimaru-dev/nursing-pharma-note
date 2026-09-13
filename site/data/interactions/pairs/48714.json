@@ -1,0 +1,602 @@
+[
+  {
+    "other_id": 403,
+    "interaction_type": "caution",
+    "source_text": "シスプラチンの聴覚障害を増強するおそれがある。"
+  },
+  {
+    "other_id": 36204,
+    "interaction_type": "caution",
+    "source_text": "シスプラチンの聴覚障害を増強するおそれがある。"
+  },
+  {
+    "other_id": 404,
+    "interaction_type": "caution",
+    "source_text": "シスプラチンの聴覚障害を増強するおそれがある。"
+  },
+  {
+    "other_id": 36206,
+    "interaction_type": "caution",
+    "source_text": "シスプラチンの聴覚障害を増強するおそれがある。"
+  },
+  {
+    "other_id": 691,
+    "interaction_type": "caution",
+    "source_text": "パクリタキセルをシスプラチンの後に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をシスプラチンの前に投与すること。"
+  },
+  {
+    "other_id": 773,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 37182,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 774,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 37184,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 775,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 37186,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 776,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 37188,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 781,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 37198,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 827,
+    "interaction_type": "caution",
+    "source_text": "腎障害が発現、悪化するおそれがあるので、頻回に腎機能検査（クレアチニン、BUN等）を行うなど、患者の状態を十分に観察すること。"
+  },
+  {
+    "other_id": 1039,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 1250,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 38724,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 38725,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 38726,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 1251,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 38728,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 38729,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 38730,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 1281,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 1282,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 1283,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 38797,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 2256,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 40934,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 3690,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 5080,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 47716,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 47717,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 5085,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 47728,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 47729,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 5086,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 47731,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 47732,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 52129,
+    "interaction_type": "caution",
+    "source_text": "本剤をパクリタキセルの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。本剤をパクリタキセルの後に投与すること。"
+  },
+  {
+    "other_id": 10130,
+    "interaction_type": "caution",
+    "source_text": "本剤をパクリタキセルの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。本剤をパクリタキセルの後に投与すること。"
+  },
+  {
+    "other_id": 7107,
+    "interaction_type": "caution",
+    "source_text": "本剤をパクリタキセルの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。本剤をパクリタキセルの後に投与すること。"
+  },
+  {
+    "other_id": 59108,
+    "interaction_type": "caution",
+    "source_text": "本剤をパクリタキセルの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。本剤をパクリタキセルの後に投与すること。"
+  },
+  {
+    "other_id": 10135,
+    "interaction_type": "caution",
+    "source_text": "本剤をパクリタキセルの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。本剤をパクリタキセルの後に投与すること。"
+  },
+  {
+    "other_id": 59096,
+    "interaction_type": "caution",
+    "source_text": "本剤をパクリタキセルの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。本剤をパクリタキセルの後に投与すること。"
+  },
+  {
+    "other_id": 59095,
+    "interaction_type": "caution",
+    "source_text": "本剤をパクリタキセルの前に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。本剤をパクリタキセルの後に投与すること。"
+  },
+  {
+    "other_id": 11536,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が増強されることがある。"
+  },
+  {
+    "other_id": 8506,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が増強されることがある。"
+  },
+  {
+    "other_id": 9841,
+    "interaction_type": "caution",
+    "source_text": "腎障害が増強されることがある。"
+  },
+  {
+    "other_id": 11028,
+    "interaction_type": "caution",
+    "source_text": "腎障害が増強されることがある。"
+  },
+  {
+    "other_id": 11029,
+    "interaction_type": "caution",
+    "source_text": "腎障害が増強されることがある。"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血漿中濃度が低下したとの報告がある。"
+  },
+  {
+    "other_id": 59758,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血漿中濃度が低下したとの報告がある。"
+  },
+  {
+    "other_id": 6287,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 7397,
+    "interaction_type": "caution",
+    "source_text": "シスプラチンの聴覚障害を増強するおそれがある。"
+  },
+  {
+    "other_id": 53356,
+    "interaction_type": "caution",
+    "source_text": "シスプラチンの聴覚障害を増強するおそれがある。"
+  },
+  {
+    "other_id": 7944,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 7948,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 7945,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 54392,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 7946,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 54394,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 7947,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 54396,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 8694,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 55728,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 55729,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 8900,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現又は悪化するおそれがある。"
+  },
+  {
+    "other_id": 9768,
+    "interaction_type": "caution",
+    "source_text": "骨髄抑制等が増強するおそれがある。併用療法を行う場合には患者の状態を観察しながら減量するなど適切な措置を行うこと。"
+  },
+  {
+    "other_id": 9769,
+    "interaction_type": "caution",
+    "source_text": "骨髄抑制等が増強するおそれがある。併用療法を行う場合には患者の状態を観察しながら減量するなど適切な措置を行うこと。"
+  },
+  {
+    "other_id": 9834,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 58351,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 58352,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 58353,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、減量するなど慎重に投与すること。\nただし、小児（特に低出生体重児・新生児）では、バンコマイシンは原則併用しないこと。"
+  },
+  {
+    "other_id": 10111,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 10113,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 10112,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 59057,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 10114,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 59060,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 10117,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 10131,
+    "interaction_type": "caution",
+    "source_text": "本剤をシスプラチンの後に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をシスプラチンの前に投与すること。"
+  },
+  {
+    "other_id": 59098,
+    "interaction_type": "caution",
+    "source_text": "本剤をシスプラチンの後に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をシスプラチンの前に投与すること。"
+  },
+  {
+    "other_id": 10137,
+    "interaction_type": "caution",
+    "source_text": "本剤をシスプラチンの後に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をシスプラチンの前に投与すること。"
+  },
+  {
+    "other_id": 59112,
+    "interaction_type": "caution",
+    "source_text": "本剤をシスプラチンの後に投与した場合、逆の順序で投与した場合より骨髄抑制が増強するおそれがある。併用療法を行う場合には、本剤をシスプラチンの前に投与すること。"
+  },
+  {
+    "other_id": 10159,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 59176,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 10317,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがあるため、併用する場合は患者の状態を慎重に観察すること。"
+  },
+  {
+    "other_id": 10381,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 59762,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 59763,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 11534,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 11535,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 11544,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 11540,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 62394,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 11537,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 62385,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 62386,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 11538,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 62388,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 62389,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 11539,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 62391,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 62392,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 12693,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  },
+  {
+    "other_id": 14367,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 14368,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 14369,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 69340,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 69341,
+    "interaction_type": "caution",
+    "source_text": "聴覚障害が増強するおそれがある。"
+  },
+  {
+    "other_id": 16240,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害が発現、悪化するおそれがあるので、併用は避けること。やむを得ず併用する場合は、慎重に投与すること。"
+  },
+  {
+    "other_id": 16586,
+    "interaction_type": "caution",
+    "source_text": "腎障害、聴覚障害を増強するおそれがあるので併用は避けることが望ましいが、やむを得ず併用する場合は、血中濃度をモニタリングするなど安全性の確保に配慮し、慎重に投与すること。"
+  },
+  {
+    "other_id": 16587,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 16783,
+    "interaction_type": "caution",
+    "source_text": "腎障害を増強することがある。"
+  },
+  {
+    "other_id": 16979,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 16980,
+    "interaction_type": "caution",
+    "source_text": "腎障害及び聴器障害が発現、悪化するおそれがあるので、併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 17184,
+    "interaction_type": "caution",
+    "source_text": "フェニトインの血中濃度が低下することがある\n。"
+  }
+]

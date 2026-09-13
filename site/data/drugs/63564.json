@@ -1,0 +1,91 @@
+{
+  "id": 63564,
+  "brand_name": "プロパフェノン塩酸塩錠150mg「オーハラ」",
+  "generic_name": "プロパフェノン塩酸塩",
+  "therapeutic_classification": "不整脈治療剤",
+  "indications": "下記の状態で他の抗不整脈薬が使用できないか又は無効の場合\n頻脈性不整脈",
+  "dose_admin": "通常、成人にはプロパフェノン塩酸塩として1回150mgを1日3回経口投与する。なお、年齢、症状により適宜増減する。",
+  "contraindications": "うっ血性心不全のある患者［本剤は心機能抑制作用があるため、心不全を悪化させる可能性がある。］\n高度の房室ブロック、高度の洞房ブロックのある患者［刺激伝導障害を悪化させ、完全房室ブロックや高度の徐脈に陥る可能性がある。］\nリトナビル、ミラベグロン、テラプレビル又はアスナプレビルを投与中の患者",
+  "application_precautions": "薬剤交付時の注意\nPTP包装の薬剤はPTPシートから取り出して服用するよう指導すること。PTPシートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔をおこして縦隔洞炎等の重篤な合併症を併発することがある。",
+  "serious_adverse_events": "心室頻拍（Torsades de Pointesを含む）、心室細動、洞房ブロック、房室ブロック、失神（いずれも頻度不明）、洞停止、徐脈（いずれも1%未満）\n肝機能障害（2%未満）、黄疸（頻度不明）\nAST、ALT、Al-P、ビリルビン、γ-GTP等の上昇を伴う肝機能障害、黄疸があらわれることがある。",
+  "other_adverse_events": "循環器：動悸\n循環器：胸痛、脚ブロック\n肝臓：AST上昇、ALT上昇、Al-P上昇、γ-GTP上昇\n腎臓：BUN上昇\n血液：好酸球増多\n精神\n神経系：めまい・ふらつき、頭痛・頭重\n消化器：嘔気・嘔吐、食欲不振、腹痛、軟便・下痢、腹部膨満感\n消化器：便秘\n過敏症：発疹、そう痒\nその他：倦怠感、筋肉痛、中性脂肪の上昇、尿酸の上昇\nその他：浮腫、味覚倒錯、ほてり",
+  "observation_points": [
+    "循環器：動悸",
+    "循環器：胸痛、脚ブロック",
+    "肝臓：AST上昇、ALT上昇、Al-P上昇、γ-GTP上昇",
+    "腎臓：BUN上昇",
+    "血液：好酸球増多",
+    "精神",
+    "神経系：めまい・ふらつき、頭痛・頭重",
+    "消化器：嘔気・嘔吐、食欲不振、腹痛、軟便・下痢、腹部膨満感",
+    "消化器：便秘",
+    "過敏症：発疹、そう痒",
+    "その他：倦怠感、筋肉痛、中性脂肪の上昇、尿酸の上昇",
+    "その他：浮腫、味覚倒錯、ほてり"
+  ],
+  "revision_date": "2023-09",
+  "is_in_formulary": false,
+  "interactions": [
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "リトナビル\n（ノービア）",
+      "clinical_symptom_action": "本剤の血中濃度が大幅に上昇し、不整脈、血液障害、痙攣等の重篤な副作用を起こすおそれがある。",
+      "mechanism_risk_factor": "リトナビルのチトクロームP450に対する競合的阻害作用によると考えられている。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "ミラベグロン\n（ベタニス）",
+      "clinical_symptom_action": "QT延長、心室性不整脈（Torsades de Pointesを含む）等を起こすおそれがある。",
+      "mechanism_risk_factor": "ともに催不整脈作用があり、またミラベグロンのCYP2D6阻害作用により、本剤の血中濃度が上昇する可能性がある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "テラプレビル\n（テラビック）",
+      "clinical_symptom_action": "重篤な又は生命に危険を及ぼすような事象（不整脈、血液障害、血管攣縮等）が起こるおそれがある。",
+      "mechanism_risk_factor": "テラプレビルのチトクロームP450に対する阻害作用により、本剤の代謝が阻害され血中濃度が上昇し、作用の増強や相加的なQT延長を起こすおそれがある。"
+    },
+    {
+      "interaction_type": "contraindicated",
+      "drug_name_or_class": "アスナプレビル\n（スンベプラ）",
+      "clinical_symptom_action": "本剤の血中濃度が上昇し、不整脈が起こるおそれがある。",
+      "mechanism_risk_factor": "アスナプレビルのCYP2D6阻害作用により、本剤の代謝が阻害される。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ベラパミル",
+      "clinical_symptom_action": "動物実験において、本剤の心臓に対する作用が増強するとの報告がある。",
+      "mechanism_risk_factor": "薬理学的な相加作用によると考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "β遮断剤\nメトプロロール\nプロプラノロール",
+      "clinical_symptom_action": "心収縮力低下、血圧低下、めまい、ふらつき等の症状があらわれることがある。",
+      "mechanism_risk_factor": "肝での代謝を抑制し、β遮断剤の血中濃度が上昇するためと考えられている。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ワルファリン",
+      "clinical_symptom_action": "ワルファリンの作用を増強することがある。",
+      "mechanism_risk_factor": "本剤がワルファリンの代謝を阻害することがある。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "ジゴキシン",
+      "clinical_symptom_action": "ジゴキシンの作用を増強し、ジゴキシンの中毒症状があらわれることがある。",
+      "mechanism_risk_factor": "本剤がジゴキシンの腎排泄を抑制し、血中ジゴキシン濃度を上昇させる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "アミノフィリン\nコリンテオフィリン\nテオフィリン",
+      "clinical_symptom_action": "本剤がこれらの薬剤の作用を増強することがある。",
+      "mechanism_risk_factor": "肝薬物代謝酵素が阻害され、これらの薬剤のクリアランスが低下するため、血中濃度が上昇すると考えられる。"
+    },
+    {
+      "interaction_type": "caution",
+      "drug_name_or_class": "セイヨウオトギリソウ（St. John's Wort, セント・ジョーンズ・ワート）含有食品",
+      "clinical_symptom_action": "本剤の代謝が促進され血中濃度が低下するおそれがあるので、本剤投与時はセイヨウオトギリソウ含有食品を摂取しないよう注意すること。",
+      "mechanism_risk_factor": "セイヨウオトギリソウにより誘導されたチトクロームP450が本剤の代謝を促進し、クリアランスを上昇させるためと考えられる。"
+    }
+  ],
+  "facility_notes": ""
+}

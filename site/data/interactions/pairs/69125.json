@@ -1,0 +1,917 @@
+[
+  {
+    "other_id": 2778,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 2778,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 42130,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 42130,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 42131,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 42131,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 6606,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 6606,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 51005,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 51005,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 51006,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 51006,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 13409,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 13409,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+  },
+  {
+    "other_id": 67108,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 67108,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+  },
+  {
+    "other_id": 67109,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 67109,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+  },
+  {
+    "other_id": 67110,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 67110,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+  },
+  {
+    "other_id": 67111,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 67111,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+  },
+  {
+    "other_id": 67112,
+    "interaction_type": "contraindicated",
+    "source_text": "血清カリウム値が上昇するおそれがある。"
+  },
+  {
+    "other_id": 67112,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇するおそれがあるので、血清カリウム値をより頻回に測定するなど十分に注意すること。"
+  },
+  {
+    "other_id": 47681,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 5058,
+    "interaction_type": "caution",
+    "source_text": "血清カリウム値が上昇する可能性があるので、血清カリウム値を定期的に観察するなど十分に注意すること。"
+  },
+  {
+    "other_id": 8800,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 6313,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 6315,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 6316,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 6317,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 38547,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 38548,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 16214,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 16215,
+    "interaction_type": "caution",
+    "source_text": "高カリウム血症を起こすことがあるので、血清カリウム濃度を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 74641,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下作用、甲状腺腫発症作用を増大させることがあるので、脳下垂体−甲状腺反応の変化、甲状腺機能を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 16757,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下作用、甲状腺腫発症作用を増大させることがあるので、脳下垂体−甲状腺反応の変化、甲状腺機能を測定するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 12065,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 13892,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 13893,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 68436,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution",
+    "source_text": "甲状腺機能低下と甲状腺腫生成作用を増強させることがある。このため定期的に甲状腺−脳下垂体反応の変化を調べ基準になる甲状腺機能を測定すること。"
+  },
+  {
+    "other_id": 2560,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72448,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72449,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9984,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9985,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9986,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9988,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9989,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9990,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9991,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9992,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9993,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9995,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2576,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 8214,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 8218,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58651,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58652,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58653,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58659,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58660,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58661,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9980,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 14375,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15658,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15659,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58667,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15661,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15662,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15663,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15664,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 14641,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58668,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58669,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58671,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15669,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58672,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58673,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58675,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58676,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58677,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58683,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58684,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58685,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15934,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58687,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58688,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58689,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58691,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58692,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58693,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58695,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58696,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58697,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 55018,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72523,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72524,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58699,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15694,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58700,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58701,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58703,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15698,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15699,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15700,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15701,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15702,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72535,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72536,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58704,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 57690,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 57691,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72538,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72539,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72541,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72542,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72544,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72545,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58713,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72547,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9572,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72548,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41582,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41584,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41585,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41590,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41591,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41593,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41594,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 15229,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41602,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41603,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41608,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41609,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41611,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41612,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41617,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41618,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41620,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 41621,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 71588,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 71589,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 73127,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 73128,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58705,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 55000,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 55001,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 55002,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58711,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72415,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72416,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72418,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72419,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 58712,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72424,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72425,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 55016,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72427,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72428,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 55017,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 69870,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 69871,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72430,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72431,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2546,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2547,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2548,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72433,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2550,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2551,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 72434,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2554,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2556,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2557,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 9982,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  },
+  {
+    "other_id": 2559,
+    "interaction_type": "caution",
+    "source_text": "結果的に高カリウム血症を生じることがある。このため血清カリウム濃度をモニタリングすること。"
+  }
+]

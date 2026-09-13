@@ -1,10 +1,22 @@
 [
   {
-    "other_id": 5363,
+    "other_id": 48836,
     "interaction_type": "contraindicated"
   },
   {
     "other_id": 5637,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 48824,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 5363,
     "interaction_type": "contraindicated"
   },
   {
@@ -22,6 +34,14 @@
   {
     "other_id": 5631,
     "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "caution"
   },
   {
     "other_id": 16688,
@@ -48,11 +68,11 @@
     "interaction_type": "caution"
   },
   {
-    "other_id": 9645,
+    "other_id": 7104,
     "interaction_type": "caution"
   },
   {
-    "other_id": 7104,
+    "other_id": 48836,
     "interaction_type": "caution"
   },
   {
@@ -64,11 +84,23 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 58193,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 15443,
     "interaction_type": "caution"
   },
   {
+    "other_id": 58195,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 5656,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7103,
     "interaction_type": "caution"
   },
   {
@@ -77,10 +109,6 @@
   },
   {
     "other_id": 5660,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 7103,
     "interaction_type": "caution"
   },
   {
@@ -112,7 +140,31 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 48869,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48870,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 59170,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48874,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 10157,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48824,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 71993,
     "interaction_type": "caution"
   },
   {

@@ -9,6 +9,7 @@ const DrugData = (() => {
   let indexPromise = null;
   const detailCache = new Map();
   const interactionIndexCache = new Map();
+  const pairContentCache = new Map();
   const pairInteractionCache = new Map();
 
   function fetchJSON(path) {
@@ -44,8 +45,31 @@ const DrugData = (() => {
   }
 
   /**
+   * 指定した薬品idが関わる全ペアの本文（相手薬id・注意種別・記載テキスト）を
+   * まとめて取得する。ファイルは薬品ごとに1つ（pairs/{id}.json）。
+   *
+   * 【2026-09-13 設計変更】以前はペアごとに1ファイル（pairs/{min}_{max}.json）
+   * だったが、DetailBrandName欠落バグ修正でペア数が45万→150万件に増え、
+   * ファイル数が非現実的な規模になったため、「1薬品=その薬品の全ペアをまとめた
+   * 1ファイル」に変更した。1つのペアの本文は関係する両方の薬品のファイルに
+   * 重複して持つ（ファイル数の実用性を優先した判断）。
+   */
+  function loadDrugPairContent(id) {
+    if (!pairContentCache.has(id)) {
+      const promise = fetch(`${DATA_ROOT}/interactions/pairs/${id}.json`).then((res) => {
+        if (res.status === 404) return [];
+        if (!res.ok) throw new Error(`相互作用本文の取得に失敗しました: id=${id}`);
+        return res.json();
+      });
+      pairContentCache.set(id, promise);
+    }
+    return pairContentCache.get(id);
+  }
+
+  /**
    * 薬品ペア（idA, idB。順不同でよい）の相互作用本文を取得する。
-   * ファイル名は薬品idを小さい順に並べた min_max.json（pairs/{min}_{max}.json）。
+   * 内部的には idA 側（正確にはmin側、キャッシュ再利用のため）の
+   * 全ペア本文ファイルを取得し、相手がidBのものだけに絞り込む。
    * 同じペアにcontraindicated/cautionが両方記載されていることがあるため配列で返す。
    */
   function loadPairInteraction(idA, idB) {
@@ -53,11 +77,11 @@ const DrugData = (() => {
     const maxId = Math.max(idA, idB);
     const key = `${minId}_${maxId}`;
     if (!pairInteractionCache.has(key)) {
-      const promise = fetch(`${DATA_ROOT}/interactions/pairs/${key}.json`).then((res) => {
-        if (res.status === 404) return [];
-        if (!res.ok) throw new Error(`相互作用本文の取得に失敗しました: pair=${key}`);
-        return res.json();
-      });
+      const promise = loadDrugPairContent(minId).then((list) =>
+        list
+          .filter((entry) => entry.other_id === maxId)
+          .map(({ interaction_type, source_text }) => ({ interaction_type, source_text }))
+      );
       pairInteractionCache.set(key, promise);
     }
     return pairInteractionCache.get(key);

@@ -1,0 +1,817 @@
+[
+  {
+    "other_id": 625,
+    "interaction_type": "caution",
+    "source_text": "（1）相互の薬剤の効果が減弱する。\n（2）血圧上昇、徐脈があらわれることがある。"
+  },
+  {
+    "other_id": 783,
+    "interaction_type": "caution",
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+  },
+  {
+    "other_id": 37202,
+    "interaction_type": "caution",
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+  },
+  {
+    "other_id": 785,
+    "interaction_type": "caution",
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+  },
+  {
+    "other_id": 37206,
+    "interaction_type": "caution",
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+  },
+  {
+    "other_id": 15973,
+    "interaction_type": "caution",
+    "source_text": "心不全や低血圧を引き起こすことがある。"
+  },
+  {
+    "other_id": 15975,
+    "interaction_type": "caution",
+    "source_text": "心不全や低血圧を引き起こすことがある。"
+  },
+  {
+    "other_id": 12458,
+    "interaction_type": "caution",
+    "source_text": "心不全や低血圧を引き起こすことがある。"
+  },
+  {
+    "other_id": 12459,
+    "interaction_type": "caution",
+    "source_text": "心不全や低血圧を引き起こすことがある。"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution",
+    "source_text": "心不全や低血圧を引き起こすことがある。"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution",
+    "source_text": "心不全や低血圧を引き起こすことがある。"
+  },
+  {
+    "other_id": 36966,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 696,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 697,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 14730,
+    "interaction_type": "caution",
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+  },
+  {
+    "other_id": 70205,
+    "interaction_type": "caution",
+    "source_text": "過度の心機能抑制作用があらわれることがある。用量を調節する。"
+  },
+  {
+    "other_id": 769,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
+  },
+  {
+    "other_id": 770,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
+  },
+  {
+    "other_id": 37174,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
+  },
+  {
+    "other_id": 1370,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
+  },
+  {
+    "other_id": 1371,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
+  },
+  {
+    "other_id": 767,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、心停止等）があらわれるおそれがある。定期的な心電図モニターを実施する。"
+  },
+  {
+    "other_id": 57856,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 5448,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48585,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48586,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48591,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48592,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48594,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48595,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48609,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48610,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 48611,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 9639,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 5556,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 5558,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 5559,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 5564,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 57854,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 57855,
+    "interaction_type": "caution",
+    "source_text": "シクロスポリンの血中濃度が上昇するおそれがある。用量を調節する。"
+  },
+  {
+    "other_id": 14937,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱されるおそれがある。"
+  },
+  {
+    "other_id": 7104,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 48869,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 48870,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 48874,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 14423,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 49501,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 49502,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 49504,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 49512,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 49513,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 5942,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 5943,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 5946,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 5947,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 5948,
+    "interaction_type": "caution",
+    "source_text": "心刺激伝導抑制障害（徐脈、房室ブロック等）があらわれるおそれがある。ジギタリスの濃度が上昇し、中毒症状が発現する可能性もある。用量を調節する。"
+  },
+  {
+    "other_id": 61986,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 6313,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 6315,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 6316,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 6317,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 11536,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 38547,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 38548,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 1173,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution",
+    "source_text": "降圧作用が増強することがある。併用する場合は用量に注意する。"
+  },
+  {
+    "other_id": 42064,
+    "interaction_type": "caution",
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "caution",
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution",
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution",
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
+  },
+  {
+    "other_id": 57981,
+    "interaction_type": "caution",
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution",
+    "source_text": "（1）相互の薬剤の効果が減弱する。（2）血圧上昇、徐脈があらわれることがある。"
+  },
+  {
+    "other_id": 62592,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 62593,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 1920,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 39810,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 1922,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 1924,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 11654,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 39811,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 40386,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 51209,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 40387,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 51211,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 6668,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 51213,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 51215,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 6675,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 6676,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 6677,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 51225,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 287,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 290,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 291,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 292,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 9890,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 294,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 296,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 297,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 1658,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 51195,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 51199,
+    "interaction_type": "caution",
+    "source_text": "本剤の降圧作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 2287,
+    "interaction_type": "caution",
+    "source_text": "本剤の副作用が増強されるおそれがあるので、本剤を減量するとともに、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+  },
+  {
+    "other_id": 40993,
+    "interaction_type": "caution",
+    "source_text": "本剤の副作用が増強されるおそれがあるので、本剤を減量するとともに、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+  },
+  {
+    "other_id": 4126,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45715,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45716,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 4127,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45718,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45719,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 4128,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45721,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45722,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 4131,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45730,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45731,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 4132,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45733,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45734,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 4133,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45736,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45737,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 4134,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45739,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45740,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 4135,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45742,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 45743,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 5557,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
+  },
+  {
+    "other_id": 48588,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
+  },
+  {
+    "other_id": 48589,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
+  },
+  {
+    "other_id": 5563,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
+  },
+  {
+    "other_id": 48606,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
+  },
+  {
+    "other_id": 48607,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が上昇することがあるので、併用する場合には血中濃度を参考に投与量を調節すること。また、本剤の血中濃度が高い場合、腎障害等の副作用があらわれやすくなるので、患者の状態を十分に観察すること。"
+  },
+  {
+    "other_id": 5651,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 5881,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を増強するおそれがある。ジギタリス中毒の症状（嘔気、嘔吐、不整脈等）があらわれるおそれがある。消化器・神経系自覚症状、心電図、血中濃度測定等必要に応じ観察するとともに腎機能、血清電解質（カリウム、マグネシウム、カルシウム）、甲状腺機能等の誘因に注意すること。"
+  },
+  {
+    "other_id": 6937,
+    "interaction_type": "caution",
+    "source_text": "本薬の血中濃度が上昇するおそれがあるので、副作用の発現に注意すること。"
+  },
+  {
+    "other_id": 51788,
+    "interaction_type": "caution",
+    "source_text": "本薬の血中濃度が上昇するおそれがあるので、副作用の発現に注意すること。"
+  },
+  {
+    "other_id": 8211,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。併用する場合には、これらの薬剤を減量するなど、注意して投与すること。"
+  },
+  {
+    "other_id": 54991,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。併用する場合には、これらの薬剤を減量するなど、注意して投与すること。"
+  },
+  {
+    "other_id": 54992,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇するおそれがある。併用する場合には、これらの薬剤を減量するなど、注意して投与すること。"
+  },
+  {
+    "other_id": 9903,
+    "interaction_type": "caution",
+    "source_text": "脈拍数の一時的な増加及び血圧の一時的な上昇が起こることがある。"
+  },
+  {
+    "other_id": 11961,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 13654,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+  },
+  {
+    "other_id": 67627,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を増強することがある。ジギタリス中毒の症状（悪心・嘔吐、不整脈等）があらわれることがある。"
+  },
+  {
+    "other_id": 14938,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の作用が減弱することがある。"
+  },
+  {
+    "other_id": 15505,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 72082,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 72083,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 72084,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 72085,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 72086,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  },
+  {
+    "other_id": 72087,
+    "interaction_type": "caution",
+    "source_text": "著しい心拍数の低下等がおこる可能性がある。"
+  }
+]

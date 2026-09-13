@@ -1,5 +1,9 @@
 [
   {
+    "other_id": 61954,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 12035,
     "interaction_type": "caution"
   },
@@ -20,7 +24,15 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 48174,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 11345,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 71025,
     "interaction_type": "caution"
   },
   {
@@ -41,6 +53,10 @@
   },
   {
     "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 61948,
     "interaction_type": "caution"
   }
 ]

@@ -64,7 +64,19 @@
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 52129,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 10130,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 59095,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 59096,
     "interaction_type": "contraindicated"
   },
   {
@@ -72,7 +84,15 @@
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 59098,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 10135,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 59108,
     "interaction_type": "contraindicated"
   },
   {
@@ -80,11 +100,35 @@
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 59112,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 11147,
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 61362,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 61363,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 61364,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 11621,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "contraindicated"
+  },
+  {
+    "other_id": 48174,
     "interaction_type": "contraindicated"
   },
   {
@@ -112,8 +156,12 @@
     "interaction_type": "contraindicated"
   },
   {
-    "other_id": 9645,
-    "interaction_type": "contraindicated"
+    "other_id": 5363,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
   },
   {
     "other_id": 9816,
@@ -124,11 +172,7 @@
     "interaction_type": "caution"
   },
   {
-    "other_id": 5363,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 11991,
+    "other_id": 48174,
     "interaction_type": "caution"
   },
   {

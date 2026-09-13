@@ -372,15 +372,26 @@ def main():
     orphan_keys = db_keys - correct_keys
     p(f"[Index→Master] 現行DBにあるが、修正版ロジックの再パース結果に無いレコード（孤立候補）: {len(orphan_keys)} 件")
 
-    # メインテート個別検証（監査ロジックが実際に検出できるかの確認）
+    # メインテート個別検証：
+    # 【2026-09-13】pmda_tenpu_parser.pyのDetailBrandName欠落バグを修正済みのため、
+    # 修正後は「欠落レコードが0件」であることが正しい結果になる（現行DBに
+    # 0.625mg/2.5mg/5mgの3規格が既に揃っているため、Master→Indexの差分は生じない）。
+    # このスクリプト自体は「バグが存在した当時、監査ロジックが実際にそれを検出できるか」の
+    # 検証用に書かれたため、以下は0件/2件以上のどちらでも意味を持つよう両対応にしてある。
     maintate_check = [k for k in missing_keys if "メインテート" in correct_upserted[k][1]]
     p(f"\n[個別検証] メインテートの欠落レコード検出数: {len(maintate_check)} 件")
     for k in maintate_check:
         p(f"    - {correct_upserted[k][1]} (YJ:{k[0]})")
+    maintate_in_db = [
+        (yj, brand) for (yj, brand) in db_keys if "メインテート" in (brand or "")
+    ]
     if len(maintate_check) >= 2:
         p("  → 監査ロジックは既知の不具合（メインテート2.5mg/5mg欠落）を正しく検出できている")
+    elif len(maintate_check) == 0 and len(maintate_in_db) >= 3:
+        p(f"  → 修正版パーサーの反映後のため0件が正しい結果。現行DBには既に{len(maintate_in_db)}規格"
+          "（0.625mg/2.5mg/5mg）が存在することを確認済み（不具合は解消）")
     else:
-        p("  → [注意] メインテートの既知の欠落を検出できていない。監査ロジックを見直す必要がある")
+        p("  → [注意] メインテートの欠落確認結果が想定と異なる。監査ロジック・DB状態を見直す必要がある")
 
     # 欠落を「同一ファミリーで一部規格だけ欠落」の形に整理
     family_missing = defaultdict(lambda: {"present": set(), "missing": set(), "generic": ""})
@@ -452,18 +463,25 @@ def main():
     md_path = OUT_DIR / "search-completeness-audit.md"
     with open(md_path, "w", encoding="utf-8") as f:
         f.write("# 検索データ完全性監査レポート\n\n")
-        f.write("読み取り専用の監査。修正は未実施。データ・コードは一切変更していない。\n\n")
-        f.write("## 根本原因（メインテートの個別検証で確認済み）\n\n")
+        f.write(
+            "読み取り専用の監査スクリプト。このレポート自体は毎回自動生成（上書き）される。"
+            "2026-09-13にpmda_tenpu_parser.py側の根本原因を修正済みのため、"
+            "以下の各段階の数値は「修正後」の状態を表す（修正前の記録は本ファイル末尾の"
+            "「2026-09-13 修正内容と再監査結果」セクション、および過去のgit履歴を参照）。\n\n"
+        )
+        f.write("## 根本原因（メインテートの個別検証で確認・2026-09-13に修正済み）\n\n")
         f.write(
             "`pmda_tenpu_parser.py` の `parse_tenpu_file()` は `ApprovalEtc` 要素単位で "
-            "`.find()`（単数形）により `ApprovalBrandName`/`YJCode` を1個だけ取得している。"
+            "`.find()`（単数形）により `ApprovalBrandName`/`YJCode` を1個だけ取得していた。"
             "しかし実データでは1つの `ApprovalEtc` の中に、規格違いの製品ごとの "
             "`DetailBrandName` 要素（例：`id=\"BRD_Drug1\"`, `\"BRD_Drug2\"`, `\"BRD_Drug3\"`）が"
-            "複数並んでおり、2番目以降が構造化の時点で欠落する。\n\n"
+            "複数並んでおり、2番目以降が構造化の時点で欠落していた。\n\n"
             "メインテートの場合、`メインテート錠０．６２５ｍｇ`／`メインテート錠２．５ｍｇ`／"
             "`メインテート錠５ｍｇ` の3フォルダは同一の添付文書XML（SHA256一致・byte単位で同一）を"
             "共有しており、この1ファイルの中に3規格分の `DetailBrandName` が入っている。"
-            "現行ロジックはこのうち最初の1件（0.625mg）しか抽出できていない。\n\n"
+            "旧ロジックはこのうち最初の1件（0.625mg）しか抽出できていなかった。"
+            "2026-09-13に `parse_tenpu_file()` を `DetailBrandName` 単位で反復するよう修正済み"
+            "（`extract_brands_correct()` と同等のロジックを本番コードに反映）。\n\n"
         )
         f.write("## 各段階の件数\n\n")
         f.write("| 段階 | 件数 | 備考 |\n|---|---|---|\n")
@@ -503,18 +521,20 @@ def main():
         for fam, v in list(partial_families.items())[:20]:
             f.write(f"| {v['generic']} | {fam[1]} | {', '.join(sorted(v['present']))} | {', '.join(sorted(v['missing']))} |\n")
         f.write("\n")
-        f.write("## 修正方針の候補（未実装・次フェーズ）\n\n")
+        f.write("## 修正内容（2026-09-13・実施済み）\n\n")
         f.write(
-            "`parse_tenpu_file()` の販売名抽出ループを、`ApprovalEtc` 単位ではなく "
-            "`ApprovalEtc` 配下の `DetailBrandName` 単位で反復するように変更する必要がある "
-            "（`approval.findall(\"DetailBrandName\")` が空の場合は現行の `ApprovalEtc` 直下探索に "
-            "フォールバックする形にすれば、旧構造のファイルへの後方互換も保てる）。"
-            "このスクリプト内の `extract_brands_correct()` が実装例。\n"
+            "`parse_tenpu_file()` の販売名抽出ループを、`ApprovalEtc` 単位の `.find()` から "
+            "`ApprovalEtc` 配下の `DetailBrandName` 単位で反復する形に変更した "
+            "（`approval.findall(\"DetailBrandName\")` が空の場合は従来の `ApprovalEtc` 直下探索に "
+            "フォールバックし、旧構造のファイルへの後方互換も維持）。"
+            "このスクリプト内の `extract_brands_correct()` と同等のロジックを本番コードに反映済み。"
+            "修正後、全17,728ファイルを再構造化し、`auto_match_pair_interactions()` による"
+            "飲み合わせ突合も再実行した（詳細は本ファイル末尾のセクション参照）。\n"
         )
     p(f"\n[出力] {md_path}")
 
     p(f"\n{'='*70}")
-    p("監査完了。修正は未実施。")
+    p("監査完了。")
     p("=" * 70)
 
     # ログをテキストとしても保存

@@ -1,0 +1,552 @@
+[
+  {
+    "other_id": 3183,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤の睡眠作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 16688,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。定期的に臨床症状を観察し、異常があれば本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 15182,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 6720,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 9860,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 9861,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 9862,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 51302,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 51303,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 51304,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 51305,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58417,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58418,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58419,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58420,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58421,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58423,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58424,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58426,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 6718,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 6719,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 8788,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 58126,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 790,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 9735,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 37215,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49282,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49283,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 9478,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49288,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5833,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5834,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49290,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5836,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5837,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 12491,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 57996,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 57997,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 9679,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 50390,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 50391,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 6303,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 64485,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 64486,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 64487,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 57468,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 62592,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 62593,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49408,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49410,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5891,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49411,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 11654,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5896,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5897,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 10896,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 36121,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5922,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5924,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5933,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5934,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5935,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 38964,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 5941,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 38965,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49468,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 12995,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 13001,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 335,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 337,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 338,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 339,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 342,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 343,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 1382,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 359,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 3946,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 36077,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 65774,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 65775,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 36078,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 367,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 36080,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 36081,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49397,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 375,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 49407,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用（催眠、鎮静、昏睡等）が増強することがある。併用する場合には定期的に臨床症状を観察し、用量に注意する。"
+  },
+  {
+    "other_id": 8792,
+    "interaction_type": "caution",
+    "source_text": "起立性低血圧があらわれることがある。異常が認められた場合には、本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 61986,
+    "interaction_type": "caution",
+    "source_text": "起立性低血圧があらわれることがある。異常が認められた場合には、本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 11358,
+    "interaction_type": "caution",
+    "source_text": "起立性低血圧があらわれることがある。異常が認められた場合には、本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 8791,
+    "interaction_type": "caution",
+    "source_text": "起立性低血圧があらわれることがある。異常が認められた場合には、本剤を減量するなど適切な処置を行う。"
+  },
+  {
+    "other_id": 16001,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 73217,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 73286,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 73287,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 15976,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 73288,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  },
+  {
+    "other_id": 73213,
+    "interaction_type": "caution",
+    "source_text": "抗凝血作用が減弱することがある。頻回にプロトロンビン値の測定を行い、ワルファリンカリウムの用量を調節する。"
+  }
+]

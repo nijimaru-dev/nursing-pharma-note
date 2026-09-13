@@ -11,12 +11,12 @@ karteno_drugs.db（pmda_tenpu_parser.pyが作るSQLite）を、
 - drugs/{id}.json                   : 薬品ごとの詳細情報（クリック時に遅延読み込み）
 - interactions/{id}.json            : その薬品が関わる相互作用ペアの「索引」のみ
                                        （相手薬のid・注意種別だけ。本文は含まない）
-- interactions/pairs/{min}_{max}.json : ペア単位の本文（注意種別・記載テキスト）。
-                                       min/maxは薬品idを小さい順に並べたもの。
+- interactions/pairs/{id}.json      : その薬品が関わる全ペアの本文（相手薬id・
+                                       注意種別・記載テキスト）をまとめた1ファイル。
 
 複数薬チェック画面は、選択した薬のIDの分だけ索引ファイルを取得し、選択中の
-組み合わせに絞り込んでから、実際に表示が必要なペアのpairsファイルだけを
-取得する（無関係なペアの本文はダウンロードしない）。
+組み合わせに絞り込んでから、実際に表示が必要な相手側の薬品idのpairsファイル
+だけを取得する（無関係な薬品の本文はダウンロードしない）。
 
 【変更履歴・その1】当初はinteractions.jsonを1ファイルにまとめていたが、実データ全件
 （約1万件の薬剤・45万件の突合ペア）で書き出したところ195MBの単一ファイルになり、
@@ -32,6 +32,18 @@ GitHubの1ファイル100MB上限に抵触して運用不可能と判明した�
 
 分割単位（頭文字別・薬効分類別等）は未実装。全薬剤展開時にindex.jsonのサイズが
 問題になる場合は、ここを分割する対応が必要（Claude Code側での検証待ち）。
+
+【変更履歴・その3、2026-09-13】pmda_tenpu_parser.pyのDetailBrandName欠落バグ
+修正により、drug_pair_interactionの件数が45万→150万件に急増した。「1ペア=1
+ファイル」（interactions/pairs/{min}_{max}.json）のままだと、pairsディレクトリ
+だけで約150万個の個別ファイルになり、git（1コミットでの追跡・push）にも
+NTFS等のファイルシステムにも非現実的な規模になったため運用不能と判断した。
+「1薬品=その薬品が関わる全ペアをまとめた1ファイル」（interactions/pairs/{id}.json）
+に変更し、ファイル数を薬品数（相互作用を持つ薬品の数）程度に戻した。1つの
+ペアの本文は関係する両方の薬品のファイルに重複して持つことになる
+（2026-09-12時点で一度解消した「本文の二重持ち」が復活するが、内容量の重複より
+ファイル数の実用性を優先した）。薬品ごとの軽量索引（interactions/{id}.json）は
+変更していない。
 
 観察項目（KarteNo連携用、HANDOFF.md 5.1参照）：
 v1は`serious_adverse_events`のテキストをそのまま「観察項目」候補として流用する
@@ -86,38 +98,46 @@ def derive_observation_points(other_adverse_events):
     return points
 
 
-def build_pair_interactions(conn):
+def build_pair_data(conn):
     """
-    drug_pair_interaction（min_id/max_id形式）から、書き出し用の2種類の構造を作る。
+    drug_pair_interaction（min_id/max_id形式）を1回走査し、薬品idごとの
+    (1) 軽量索引（相手薬id・注意種別のみ。interactions/{id}.json用）と
+    (2) 全ペア本文（相手薬id・注意種別・記載テキスト。interactions/pairs/{id}.json用）
+    の両方を組み立てる。
 
-    - index_by_drug : 薬品idごとの「索引」（相手薬のid・注意種別だけ。本文は含まない）。
-                       interactions/{id}.json として書き出す。
-    - pairs_content : (min_id, max_id) -> 本文（注意種別・記載テキスト）のリスト。
-                       同じペアにcontraindicated/cautionが両方記載されているケースに
-                       対応するためリストにしている。interactions/pairs/{min}_{max}.json
-                       として、ペアにつき1ファイルだけ書き出す（本文の二重持ちをしない）。
+    【2026-09-13】DetailBrandName欠落バグ修正で全体のペア数が約3.4倍
+    （45万→150万件）に増えたが、薬品数自体は約1.6倍（1.05万→1.66万件）
+    にしか増えていない。ペア本文を薬品単位（最大でも薬品数程度のファイル数）に
+    まとめれば、ファイル数の増加を実用的な範囲に抑えられる
+    （詳細はモジュールdocstringの変更履歴・その3を参照）。
     """
-    pairs = conn.execute(
-        "SELECT min_id, max_id, interaction_type, source_text FROM drug_pair_interaction"
-    ).fetchall()
-
     index_by_drug = {}
-    pairs_content = {}
-    for p in pairs:
-        min_id, max_id = p["min_id"], p["max_id"]
+    content_by_drug = {}
+    pair_count = 0
+    cur = conn.execute(
+        "SELECT min_id, max_id, interaction_type, source_text FROM drug_pair_interaction"
+    )
+    for min_id, max_id, interaction_type, source_text in cur:
         index_by_drug.setdefault(min_id, []).append({
             "other_id": max_id,
-            "interaction_type": p["interaction_type"],
+            "interaction_type": interaction_type,
         })
         index_by_drug.setdefault(max_id, []).append({
             "other_id": min_id,
-            "interaction_type": p["interaction_type"],
+            "interaction_type": interaction_type,
         })
-        pairs_content.setdefault((min_id, max_id), []).append({
-            "interaction_type": p["interaction_type"],
-            "source_text": p["source_text"],
+        content_by_drug.setdefault(min_id, []).append({
+            "other_id": max_id,
+            "interaction_type": interaction_type,
+            "source_text": source_text,
         })
-    return index_by_drug, pairs_content, len(pairs)
+        content_by_drug.setdefault(max_id, []).append({
+            "other_id": min_id,
+            "interaction_type": interaction_type,
+            "source_text": source_text,
+        })
+        pair_count += 1
+    return index_by_drug, content_by_drug, pair_count
 
 
 def export(db_path: Path, out_dir: Path):
@@ -132,7 +152,7 @@ def export(db_path: Path, out_dir: Path):
     pairs_dir.mkdir(parents=True, exist_ok=True)
 
     drugs = conn.execute("SELECT * FROM drug_master").fetchall()
-    index_by_drug, pairs_content, pair_count = build_pair_interactions(conn)
+    index_by_drug, content_by_drug, pair_count = build_pair_data(conn)
 
     index = []
     for d in drugs:
@@ -179,9 +199,12 @@ def export(db_path: Path, out_dir: Path):
         # 相互作用ペアが無い薬品はファイル自体を作らない
         # （クライアント側は404を「相互作用の記載なし」として扱う）
 
-    for (min_id, max_id), content in pairs_content.items():
-        with open(pairs_dir / f"{min_id}_{max_id}.json", "w", encoding="utf-8") as f:
-            json.dump(content, f, ensure_ascii=False, indent=2)
+        drug_pair_content = content_by_drug.get(d["id"])
+        if drug_pair_content:
+            with open(pairs_dir / f"{d['id']}.json", "w", encoding="utf-8") as f:
+                json.dump(drug_pair_content, f, ensure_ascii=False, indent=2)
+
+    pairs_file_count = sum(1 for _ in content_by_drug)
 
     with open(out_dir / "index.json", "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
@@ -189,7 +212,7 @@ def export(db_path: Path, out_dir: Path):
     conn.close()
     print(
         f"書き出し完了: 薬品 {len(index)} 件、相互作用ペア {pair_count} 件"
-        f"（ペア本文ファイル {len(pairs_content)} 件） -> {out_dir}"
+        f"（ペア本文ファイル {pairs_file_count} 件） -> {out_dir}"
     )
 
 

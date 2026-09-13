@@ -4,6 +4,10 @@
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 48174,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 5329,
     "interaction_type": "contraindicated"
   },
@@ -24,11 +28,23 @@
     "interaction_type": "contraindicated"
   },
   {
+    "other_id": 48122,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 1920,
     "interaction_type": "caution"
   },
   {
     "other_id": 16001,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 73217,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 39810,
     "interaction_type": "caution"
   },
   {
@@ -40,39 +56,15 @@
     "interaction_type": "caution"
   },
   {
-    "other_id": 5707,
+    "other_id": 39811,
     "interaction_type": "caution"
   },
   {
-    "other_id": 5709,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 5713,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 11991,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 9816,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 9817,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 5725,
+    "other_id": 63385,
     "interaction_type": "caution"
   },
   {
     "other_id": 287,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 5729,
     "interaction_type": "caution"
   },
   {
@@ -96,19 +88,11 @@
     "interaction_type": "caution"
   },
   {
-    "other_id": 5730,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 15976,
+    "other_id": 59170,
     "interaction_type": "caution"
   },
   {
     "other_id": 296,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 15978,
     "interaction_type": "caution"
   },
   {
@@ -120,7 +104,99 @@
     "interaction_type": "caution"
   },
   {
-    "other_id": 15982,
+    "other_id": 48174,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11964,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11965,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 40386,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 40387,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48964,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 73286,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 73287,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 73288,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48968,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48969,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48970,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5707,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5709,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5713,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 48980,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5725,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5729,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5730,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15976,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15978,
     "interaction_type": "caution"
   },
   {
@@ -128,7 +204,19 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 15982,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 16238,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 49021,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 49009,
     "interaction_type": "caution"
   },
   {
@@ -148,11 +236,11 @@
     "interaction_type": "caution"
   },
   {
-    "other_id": 11964,
+    "other_id": 49019,
     "interaction_type": "caution"
   },
   {
-    "other_id": 11965,
+    "other_id": 73213,
     "interaction_type": "caution"
   }
 ]

@@ -234,13 +234,29 @@ def parse_tenpu_file(filepath: Path):
     contraindications = _text_all(root.find(f".//{TAG['contraindications']}"))
     application_precautions = _text_all(root.find(f".//{TAG['application_precautions']}"))
 
-    # 販売名・YJコードは ApprovalEtc 配下に複数存在しうる
+    # 販売名・YJコードは ApprovalEtc 配下に複数存在しうる。
+    # 【2026-09-13修正】規格違いの製品ごとに ApprovalEtc 配下へ複数の
+    # DetailBrandName（id="BRD_Drug1", "BRD_Drug2", ...）が並ぶ構造の場合、
+    # 従来は ApprovalEtc 単位で .find()（単数形）していたため、DetailBrandName
+    # 1個目（＝規格1つ）しか拾えず、2番目以降の規格が構造化の時点で欠落していた
+    # （例：メインテート錠0.625mg/2.5mg/5mgが同一XMLを共有し、3規格分の
+    # DetailBrandNameが1つのApprovalEtcに並ぶが、旧ロジックは0.625mgしか
+    # 拾えていなかった）。DetailBrandNameがあればそれを findall 相当で全件反復し、
+    # 無い（旧構造の）ファイルは従来通りApprovalEtc直下から1件取得する。
     brands = []
     for approval in _find_all(root, TAG["approval_etc"]):
-        name = _text_all(approval.find(f".//{TAG['brand_name']}"))
-        yj = _text_all(approval.find(f".//{TAG['yj_code']}"))
-        if name or yj:
-            brands.append({"brand_name": name, "yj_code": yj})
+        details = approval.findall("DetailBrandName")
+        if details:
+            for detail in details:
+                name = _text_all(detail.find(f".//{TAG['brand_name']}"))
+                yj = _text_all(detail.find(f".//{TAG['yj_code']}"))
+                if name or yj:
+                    brands.append({"brand_name": name, "yj_code": yj})
+        else:
+            name = _text_all(approval.find(f".//{TAG['brand_name']}"))
+            yj = _text_all(approval.find(f".//{TAG['yj_code']}"))
+            if name or yj:
+                brands.append({"brand_name": name, "yj_code": yj})
     if not brands:
         # ApprovalEtc構造が想定と異なる場合のフォールバック
         name = _text_all(root.find(f".//{TAG['brand_name']}"))
@@ -339,6 +355,12 @@ CREATE TABLE IF NOT EXISTS drug_pair_interaction (
 
 CREATE INDEX IF NOT EXISTS idx_pair_min ON drug_pair_interaction(min_id);
 CREATE INDEX IF NOT EXISTS idx_pair_max ON drug_pair_interaction(max_id);
+-- 【2026-09-13追加】export_db_to_json.pyがペア本文をmin_id, max_id順に
+-- 逐次書き出す（メモリに全件を載せないため）際、この複合インデックスが無いと
+-- SQLite側でORDER BYのために全件分の一時ソート（テキスト列込み）が走り、
+-- 大規模データ（150万件超）でメモリ不足の原因になっていた。
+-- このインデックスがあればソート無しのインデックススキャンで済む。
+CREATE INDEX IF NOT EXISTS idx_pair_min_max ON drug_pair_interaction(min_id, max_id);
 CREATE INDEX IF NOT EXISTS idx_drug_master_brand ON drug_master(brand_name);
 CREATE INDEX IF NOT EXISTS idx_drug_master_generic ON drug_master(generic_name);
 CREATE INDEX IF NOT EXISTS idx_interaction_drug ON drug_interaction(drug_master_id);

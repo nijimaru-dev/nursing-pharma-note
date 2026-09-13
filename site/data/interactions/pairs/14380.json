@@ -1,0 +1,437 @@
+[
+  {
+    "other_id": 48174,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤を併用した場合、相加的なQT延長がみられるおそれがあり、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution",
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution",
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution",
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution",
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "caution",
+    "source_text": "低カリウム血症のある患者に本剤を投与した場合、心室頻拍（Torsade de pointesを含む）、QT延長を起こすことがある。"
+  },
+  {
+    "other_id": 62592,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 62593,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 11520,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 11654,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 51209,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 51211,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 6668,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 51213,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 6670,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 51215,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 62417,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 6675,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 6676,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 6677,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 6678,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 62358,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 51225,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 6683,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 11549,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 16552,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 1704,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 616,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 17262,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 17264,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 17265,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 17266,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 17269,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 17270,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 51195,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 51199,
+    "interaction_type": "caution",
+    "source_text": "痙攣を起こすおそれがある。症状が認められた場合、両剤の投与を中止するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 54496,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 1281,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 1283,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 44727,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 38797,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 59758,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 44729,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 44726,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 14937,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 44730,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 54495,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱する可能性がある。"
+  },
+  {
+    "other_id": 7956,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 54420,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 54422,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 7960,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 7961,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 7962,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 794,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 9628,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 7965,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 7966,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 9630,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 9632,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 795,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 796,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 7971,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 9629,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 798,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 54440,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 54441,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 37225,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 57843,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 693,
+    "interaction_type": "caution",
+    "source_text": "テオフィリンの作用を増強させるおそれがあるので、併用する場合にはテオフィリンを減量するなど適切な処置を行うこと。"
+  },
+  {
+    "other_id": 15264,
+    "interaction_type": "caution",
+    "source_text": "レパグリニドの血中濃度が上昇し、レパグリニドの副作用が発現するおそれがある。"
+  },
+  {
+    "other_id": 71641,
+    "interaction_type": "caution",
+    "source_text": "レパグリニドの血中濃度が上昇し、レパグリニドの副作用が発現するおそれがある。"
+  },
+  {
+    "other_id": 11986,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  },
+  {
+    "other_id": 5299,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  },
+  {
+    "other_id": 11975,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  },
+  {
+    "other_id": 11977,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  },
+  {
+    "other_id": 11978,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  },
+  {
+    "other_id": 63407,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  },
+  {
+    "other_id": 11981,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  },
+  {
+    "other_id": 63405,
+    "interaction_type": "caution",
+    "source_text": "腱障害のリスクが増大するとの報告がある。これらの薬剤との併用は、治療上の有益性が危険性を上回る場合のみとすること。"
+  }
+]

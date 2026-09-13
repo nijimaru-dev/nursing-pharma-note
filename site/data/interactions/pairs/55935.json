@@ -1,0 +1,1042 @@
+[
+  {
+    "other_id": 1941,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+  },
+  {
+    "other_id": 3701,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧及び顕著な鎮静又は昏睡が起こるおそれがある。"
+  },
+  {
+    "other_id": 5096,
+    "interaction_type": "caution",
+    "source_text": "これら薬剤の血中濃度が上昇する可能性がある。これら薬剤と併用する場合は，患者の状態を注意して観察し，減量等の措置を考慮すること。"
+  },
+  {
+    "other_id": 5341,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 48146,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 5651,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8318,
+    "interaction_type": "caution",
+    "source_text": "錐体外路障害を増強するおそれがある。"
+  },
+  {
+    "other_id": 8365,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55273,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8366,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55275,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8368,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55279,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8369,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55281,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8370,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55283,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8371,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55285,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8372,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55287,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8373,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55289,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8374,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55291,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8375,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55293,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8377,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55299,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8378,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55301,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8379,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55303,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8380,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55305,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8381,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55307,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8399,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55345,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8400,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55347,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8403,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55353,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 8376,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55295,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55296,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 55297,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇することがあるので、これらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 42064,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 57981,
+    "interaction_type": "contraindicated",
+    "source_text": "アドレナリンの作用を逆転させ、重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution",
+    "source_text": "睡眠（催眠）・精神機能抑制の増強、麻酔効果の増強・延長、血圧低下等を起こすことがあるので、減量するなど慎重に投与すること。なお、バルビツール酸誘導体等の抗痙攣作用は、フェノチアジン系薬剤との併用によっても増強されることはないので、この場合抗痙攣剤は減量してはならない。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution",
+    "source_text": "睡眠（催眠）・精神機能抑制の増強、麻酔効果の増強・延長、血圧低下等を起こすことがあるので、減量するなど慎重に投与すること。なお、バルビツール酸誘導体等の抗痙攣作用は、フェノチアジン系薬剤との併用によっても増強されることはないので、この場合抗痙攣剤は減量してはならない。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution",
+    "source_text": "睡眠（催眠）・精神機能抑制の増強、麻酔効果の増強・延長、血圧低下等を起こすことがあるので、減量するなど慎重に投与すること。なお、バルビツール酸誘導体等の抗痙攣作用は、フェノチアジン系薬剤との併用によっても増強されることはないので、この場合抗痙攣剤は減量してはならない。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution",
+    "source_text": "睡眠（催眠）・精神機能抑制の増強、麻酔効果の増強・延長、血圧低下等を起こすことがあるので、減量するなど慎重に投与すること。なお、バルビツール酸誘導体等の抗痙攣作用は、フェノチアジン系薬剤との併用によっても増強されることはないので、この場合抗痙攣剤は減量してはならない。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "caution",
+    "source_text": "睡眠（催眠）・精神機能抑制の増強、麻酔効果の増強・延長、血圧低下等を起こすことがあるので、減量するなど慎重に投与すること。なお、バルビツール酸誘導体等の抗痙攣作用は、フェノチアジン系薬剤との併用によっても増強されることはないので、この場合抗痙攣剤は減量してはならない。"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution",
+    "source_text": "眠気、精神運動機能低下等を起こすことがある。"
+  },
+  {
+    "other_id": 16688,
+    "interaction_type": "caution",
+    "source_text": "眠気、精神運動機能低下等を起こすことがある。"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution",
+    "source_text": "眠気、精神運動機能低下等を起こすことがある。"
+  },
+  {
+    "other_id": 56960,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56903,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9161,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9162,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9163,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56905,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56909,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9167,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9168,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56911,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9170,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9171,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9172,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9173,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9174,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56913,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56915,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56917,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 11861,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 11862,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 11863,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 11864,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 13663,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 13664,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 13665,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9187,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9190,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9191,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9194,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 9196,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56947,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56948,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56891,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56956,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56893,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 56895,
+    "interaction_type": "caution",
+    "source_text": "内分泌機能調節異常又は錐体外路症状が発現するおそれがある。"
+  },
+  {
+    "other_id": 11744,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 56787,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 56791,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 9097,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 9099,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10316,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 9101,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 11743,
+    "interaction_type": "caution",
+    "source_text": "相互に作用を減弱させることがあるので、投与量を調節するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59264,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59266,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59267,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10120,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10123,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59275,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59276,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59278,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59279,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59281,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59282,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59284,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59285,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59287,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59288,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59290,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59291,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59293,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59294,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59302,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59303,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59305,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59306,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59311,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59312,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59314,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59315,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59069,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59070,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59078,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59079,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10197,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10198,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10199,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10201,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10202,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10204,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10205,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10206,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10207,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10208,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10209,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10210,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10213,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10214,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10216,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 10217,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59252,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59257,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59258,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 59263,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が増強され、過鎮静及び錐体外路症状が発現したとの報告があるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 14784,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 14788,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70278,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 14791,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70279,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70280,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70281,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70282,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 14797,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 42064,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 4181,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 16535,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 14809,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 14810,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70314,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70315,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70316,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70317,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 70318,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 57981,
+    "interaction_type": "caution",
+    "source_text": "重篤な血圧低下を起こすことがある。"
+  },
+  {
+    "other_id": 10211,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59296,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59297,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 10212,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59299,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59300,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 10215,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59308,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59309,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 10218,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59317,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59318,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 10203,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59269,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59270,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59271,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59272,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 59273,
+    "interaction_type": "caution",
+    "source_text": "これらの抗精神病剤との併用により悪性症候群があらわれるおそれがある。\nこれらの薬剤の作用が増強され、過鎮静、錐体外路症状等の発現が報告されている。"
+  },
+  {
+    "other_id": 11961,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること 。"
+  },
+  {
+    "other_id": 12316,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の作用を増強するおそれがある。"
+  },
+  {
+    "other_id": 64074,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の作用を増強するおそれがある。"
+  }
+]

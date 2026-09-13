@@ -1,5 +1,9 @@
 [
   {
+    "other_id": 69826,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 2290,
     "interaction_type": "contraindicated"
   },
@@ -56,7 +60,15 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 46372,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 4452,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 46374,
     "interaction_type": "caution"
   },
   {
@@ -64,7 +76,15 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 46376,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 4455,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 46378,
     "interaction_type": "caution"
   },
   {
@@ -88,15 +108,39 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 46394,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 14423,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 49501,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 49502,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 49504,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 49512,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 49513,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 5942,
     "interaction_type": "caution"
   },
   {
     "other_id": 5943,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 14423,
     "interaction_type": "caution"
   },
   {
@@ -136,6 +180,10 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 48174,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 1651,
     "interaction_type": "caution"
   },
@@ -164,7 +212,23 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 39803,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 11569,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 62443,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 62444,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 62445,
     "interaction_type": "caution"
   },
   {

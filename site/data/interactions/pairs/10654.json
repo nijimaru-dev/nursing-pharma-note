@@ -1,0 +1,802 @@
+[
+  {
+    "other_id": 675,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下するおそれがある。併用する場合には、本剤の有効性が減弱する可能性があることを考慮すること。"
+  },
+  {
+    "other_id": 36932,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下するおそれがある。併用する場合には、本剤の有効性が減弱する可能性があることを考慮すること。"
+  },
+  {
+    "other_id": 677,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下するおそれがある。併用する場合には、本剤の有効性が減弱する可能性があることを考慮すること。"
+  },
+  {
+    "other_id": 36936,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下するおそれがある。併用する場合には、本剤の有効性が減弱する可能性があることを考慮すること。"
+  },
+  {
+    "other_id": 1374,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 1376,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下することがある。本剤とネビラピンの併用により、本剤のC\nmax\n、AUC及びt\n1/2\nがそれぞれ38%、61%及び31%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下することがある。本剤とネビラピンの併用により、本剤のC\nmax\n、AUC及びt\n1/2\nがそれぞれ38%、61%及び31%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下することがある。本剤とネビラピンの併用により、本剤のC\nmax\n、AUC及びt\n1/2\nがそれぞれ38%、61%及び31%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+  },
+  {
+    "other_id": 39803,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下することがある。本剤とネビラピンの併用により、本剤のC\nmax\n、AUC及びt\n1/2\nがそれぞれ38%、61%及び31%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下することがある。本剤とネビラピンの併用により、本剤のC\nmax\n、AUC及びt\n1/2\nがそれぞれ38%、61%及び31%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下することがある。本剤とネビラピンの併用により、本剤のC\nmax\n、AUC及びt\n1/2\nがそれぞれ38%、61%及び31%減少したとの報告がある。必要に応じて本剤の投与量、両剤の投与間隔を調節するなど注意すること。"
+  },
+  {
+    "other_id": 1962,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少し、作用が減弱されるおそれがある。"
+  },
+  {
+    "other_id": 2381,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少し、作用が減弱されるおそれがある。"
+  },
+  {
+    "other_id": 2536,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+  },
+  {
+    "other_id": 3941,
+    "interaction_type": "caution",
+    "source_text": "ロピナビルの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 3942,
+    "interaction_type": "caution",
+    "source_text": "ロピナビルの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 3956,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤と本剤の併用により、臨床的に有意な本剤の血中濃度の低下が生じるおそれがある。"
+  },
+  {
+    "other_id": 45121,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤と本剤の併用により、臨床的に有意な本剤の血中濃度の低下が生じるおそれがある。"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4446,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4449,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4454,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4456,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 46374,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 46376,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 46378,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4445,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 46380,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 46394,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 46372,
+    "interaction_type": "caution",
+    "source_text": "本剤の未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。本剤の作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 5482,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下するおそれがあるので、併用する場合には血中濃度を参考に投与量を調節すること。"
+  },
+  {
+    "other_id": 48473,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下するおそれがあるので、併用する場合には血中濃度を参考に投与量を調節すること。"
+  },
+  {
+    "other_id": 48474,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下するおそれがあるので、併用する場合には血中濃度を参考に投与量を調節すること。"
+  },
+  {
+    "other_id": 5670,
+    "interaction_type": "caution",
+    "source_text": "レナカパビルの血漿中濃度が低下する可能性があり、本剤の効果が減弱し、本剤に対する耐性が発現する可能性がある。これら薬剤と本剤の併用は推奨されない。"
+  },
+  {
+    "other_id": 5671,
+    "interaction_type": "caution",
+    "source_text": "レナカパビルの血漿中濃度が低下する可能性があり、本剤の効果が減弱し、本剤に対する耐性が発現する可能性がある。これら薬剤と本剤の併用は推奨されない。"
+  },
+  {
+    "other_id": 5813,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールのAUCが低下する。"
+  },
+  {
+    "other_id": 5857,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 6058,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少し、作用が減弱されるおそれがある。"
+  },
+  {
+    "other_id": 6356,
+    "interaction_type": "caution",
+    "source_text": "本剤の効果の減弱化及び不正性器出血の発現率が増大するおそれがある。"
+  },
+  {
+    "other_id": 8024,
+    "interaction_type": "caution",
+    "source_text": "本剤の血漿中濃度を低下させる可能性がある。"
+  },
+  {
+    "other_id": 8227,
+    "interaction_type": "caution",
+    "source_text": "本剤の代謝が促進され、血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 8787,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 9154,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 9155,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 9156,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 9157,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少するおそれがある。"
+  },
+  {
+    "other_id": 10126,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少するおそれがある。"
+  },
+  {
+    "other_id": 59087,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少するおそれがある。"
+  },
+  {
+    "other_id": 10127,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少するおそれがある。"
+  },
+  {
+    "other_id": 59089,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が減少するおそれがある。"
+  },
+  {
+    "other_id": 10181,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下し、効果が減弱するおそれがある。"
+  },
+  {
+    "other_id": 10182,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下し、効果が減弱するおそれがある。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 4980,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 4982,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 4985,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 9469,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 9470,
+    "interaction_type": "contraindicated",
+    "source_text": "併用によりケトコナゾールの血中濃度が低下し（AUCの低下：63%、C\nmax\nの低下：40%）、また本剤の血中濃度が上昇（15～28%）したとの報告がある。"
+  },
+  {
+    "other_id": 61954,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 12035,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 2381,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 11342,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 11345,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 9682,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 15080,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 6058,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 71025,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 61948,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤が経口避妊薬の血中濃度を低下させることがある。（併用により、エチニルエストラジオールのAUCが20%、C\nmax\nが6%それぞれ低下、また、ノルエチステロンのAUCが19%、C\nmax\nが16%それぞれ低下したとの報告がある。）"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が低下した（AUCの低下：インジナビル28%、サキナビル24%、リトナビル10%、C\nmax\nの低下：インジナビル11%、サキナビル28%、リトナビル10%、C\nmin\nの低下：インジナビル38%、リトナビル9%）との報告があるので、患者の状態を十分に観察するなど注意すること。また、本剤200mg1日2回とホスアンプレナビル1400mg1日2回を併用した場合、ホスアンプレナビルについては、活性代謝物であるアンプレナビルの血中濃度が低下し（AUC33%、C\nmax\n25%、C\nmin\n35%）、本剤の血中濃度が上昇した（AUC29%、C\nmax\n25%、C\nmin\n34%）との報告があるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が低下した（AUCの低下：インジナビル28%、サキナビル24%、リトナビル10%、C\nmax\nの低下：インジナビル11%、サキナビル28%、リトナビル10%、C\nmin\nの低下：インジナビル38%、リトナビル9%）との報告があるので、患者の状態を十分に観察するなど注意すること。また、本剤200mg1日2回とホスアンプレナビル1400mg1日2回を併用した場合、ホスアンプレナビルについては、活性代謝物であるアンプレナビルの血中濃度が低下し（AUC33%、C\nmax\n25%、C\nmin\n35%）、本剤の血中濃度が上昇した（AUC29%、C\nmax\n25%、C\nmin\n34%）との報告があるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が低下した（AUCの低下：インジナビル28%、サキナビル24%、リトナビル10%、C\nmax\nの低下：インジナビル11%、サキナビル28%、リトナビル10%、C\nmin\nの低下：インジナビル38%、リトナビル9%）との報告があるので、患者の状態を十分に観察するなど注意すること。また、本剤200mg1日2回とホスアンプレナビル1400mg1日2回を併用した場合、ホスアンプレナビルについては、活性代謝物であるアンプレナビルの血中濃度が低下し（AUC33%、C\nmax\n25%、C\nmin\n35%）、本剤の血中濃度が上昇した（AUC29%、C\nmax\n25%、C\nmin\n34%）との報告があるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が低下した（AUCの低下：インジナビル28%、サキナビル24%、リトナビル10%、C\nmax\nの低下：インジナビル11%、サキナビル28%、リトナビル10%、C\nmin\nの低下：インジナビル38%、リトナビル9%）との報告があるので、患者の状態を十分に観察するなど注意すること。また、本剤200mg1日2回とホスアンプレナビル1400mg1日2回を併用した場合、ホスアンプレナビルについては、活性代謝物であるアンプレナビルの血中濃度が低下し（AUC33%、C\nmax\n25%、C\nmin\n35%）、本剤の血中濃度が上昇した（AUC29%、C\nmax\n25%、C\nmin\n34%）との報告があるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が低下した（AUCの低下：インジナビル28%、サキナビル24%、リトナビル10%、C\nmax\nの低下：インジナビル11%、サキナビル28%、リトナビル10%、C\nmin\nの低下：インジナビル38%、リトナビル9%）との報告があるので、患者の状態を十分に観察するなど注意すること。また、本剤200mg1日2回とホスアンプレナビル1400mg1日2回を併用した場合、ホスアンプレナビルについては、活性代謝物であるアンプレナビルの血中濃度が低下し（AUC33%、C\nmax\n25%、C\nmin\n35%）、本剤の血中濃度が上昇した（AUC29%、C\nmax\n25%、C\nmin\n34%）との報告があるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 7104,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 5656,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 5658,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 5660,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 48869,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 48870,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 48874,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 7103,
+    "interaction_type": "caution",
+    "source_text": "本剤の定常状態におけるC\nmin\nが上昇したとの報告（シメチジンとの併用：7%、マクロライド系抗生物質との併用：12%、イトラコナゾールとの併用：17%）があるので、併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 13336,
+    "interaction_type": "caution",
+    "source_text": "リファンピシンとの併用において定常状態における本剤のAUCが58%、C\nmax\nが50%、C\nmin\nが68%低下したとの報告がある。またリファブチンとの併用において有意ではないが定常状態におけるリファブチンのAUCが12%増加し、C\nmin\nは3%低下し、C\nmax\nは有意に20%増加したとの報告がある。リファブチンの活性代謝物濃度に変化は見られなかった。また、本剤の全身クリアランスが9%増加した。以上のことから併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 14937,
+    "interaction_type": "caution",
+    "source_text": "リファンピシンとの併用において定常状態における本剤のAUCが58%、C\nmax\nが50%、C\nmin\nが68%低下したとの報告がある。またリファブチンとの併用において有意ではないが定常状態におけるリファブチンのAUCが12%増加し、C\nmin\nは3%低下し、C\nmax\nは有意に20%増加したとの報告がある。リファブチンの活性代謝物濃度に変化は見られなかった。また、本剤の全身クリアランスが9%増加した。以上のことから併用の開始、用量の変更並びに中止時には、副作用の発現に注意し、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 55872,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 55874,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 58371,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 8776,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 8777,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 8778,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 9842,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 55870,
+    "interaction_type": "caution",
+    "source_text": "併用薬剤の血中濃度又は本剤の血中濃度が変動するおそれがあるので、患者の状態を十分に観察するなど注意すること。"
+  },
+  {
+    "other_id": 10928,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 10930,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 11342,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 61948,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 11343,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 61950,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 11344,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 61952,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 11345,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 61954,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 11767,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 11845,
+    "interaction_type": "caution",
+    "source_text": "ダルナビル/リトナビル400/100 mg 1日2回とネビラピン200 mg 1日2回を併用したとき、ネビラピンのAUCが27%増加した。本剤/リトナビルと併用する場合には、用量を調節する必要はない。"
+  },
+  {
+    "other_id": 11961,
+    "interaction_type": "caution",
+    "source_text": "ダルナビル及び/又はコビシスタットの血中濃度が低下する可能性がある。本剤とこれらの薬剤との併用は避けることが望ましい。"
+  },
+  {
+    "other_id": 12035,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 12964,
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンの未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。クラリスロマイシンの作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 65707,
+    "interaction_type": "caution",
+    "source_text": "クラリスロマイシンの未変化体の血中濃度が低下し、活性代謝物の血中濃度が上昇する可能性がある。クラリスロマイシンの作用が減弱する可能性があるので、投与量の調節や中止等の適切な処置を行うこと。"
+  },
+  {
+    "other_id": 13259,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 13287,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 66412,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 13605,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+  },
+  {
+    "other_id": 67548,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下したとの報告がある\n。"
+  },
+  {
+    "other_id": 13650,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下し、効果が減弱するおそれがある。"
+  },
+  {
+    "other_id": 13651,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下し、効果が減弱するおそれがある。"
+  },
+  {
+    "other_id": 13652,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下し、効果が減弱するおそれがある。"
+  },
+  {
+    "other_id": 13653,
+    "interaction_type": "caution",
+    "source_text": "本剤の血中濃度が低下し、効果が減弱するおそれがある。"
+  },
+  {
+    "other_id": 13740,
+    "interaction_type": "caution",
+    "source_text": "本剤の代謝が促進されることによって効果が減弱する可能性がある。"
+  },
+  {
+    "other_id": 14188,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 14189,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 14519,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 14520,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用が減弱するおそれがある。"
+  },
+  {
+    "other_id": 14938,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の作用が減弱することがある。"
+  },
+  {
+    "other_id": 15080,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 71025,
+    "interaction_type": "caution",
+    "source_text": "エチニルエストラジオールの血中濃度が低下するおそれがある。"
+  },
+  {
+    "other_id": 15977,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 73215,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 15976,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 73213,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 15982,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 15978,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 73217,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 15979,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 73219,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 16001,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 73286,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 73287,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  },
+  {
+    "other_id": 73288,
+    "interaction_type": "caution",
+    "source_text": "本剤の作用を変化させることがあるので、併用する場合には血液凝固能の変動に十分注意しながら投与すること。"
+  }
+]

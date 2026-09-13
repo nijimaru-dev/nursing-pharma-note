@@ -1,5 +1,9 @@
 [
   {
+    "other_id": 48174,
+    "interaction_type": "contraindicated"
+  },
+  {
     "other_id": 5363,
     "interaction_type": "contraindicated"
   },
@@ -17,14 +21,6 @@
   },
   {
     "other_id": 12354,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 7971,
-    "interaction_type": "caution"
-  },
-  {
-    "other_id": 15034,
     "interaction_type": "caution"
   },
   {
@@ -52,15 +48,19 @@
     "interaction_type": "caution"
   },
   {
-    "other_id": 15033,
-    "interaction_type": "caution"
-  },
-  {
     "other_id": 7956,
     "interaction_type": "caution"
   },
   {
-    "other_id": 5299,
+    "other_id": 54420,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 54422,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 70932,
     "interaction_type": "caution"
   },
   {
@@ -76,11 +76,51 @@
     "interaction_type": "caution"
   },
   {
+    "other_id": 70933,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 70935,
+    "interaction_type": "caution"
+  },
+  {
     "other_id": 7965,
     "interaction_type": "caution"
   },
   {
     "other_id": 7966,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 7971,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 54440,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 54441,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 63405,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 63407,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 5299,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15033,
+    "interaction_type": "caution"
+  },
+  {
+    "other_id": 15034,
     "interaction_type": "caution"
   }
 ]

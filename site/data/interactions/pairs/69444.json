@@ -1,0 +1,1662 @@
+[
+  {
+    "other_id": 652,
+    "interaction_type": "caution",
+    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 36893,
+    "interaction_type": "caution",
+    "source_text": "血圧低下や覚醒遅延を起こすおそれがある。併用する場合には、投与速度を減速又は投与量を減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 767,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 37174,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 769,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 770,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 771,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 772,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 1370,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 1371,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、徐脈を発現したとの報告がある。"
+  },
+  {
+    "other_id": 1651,
+    "interaction_type": "caution",
+    "source_text": "・本剤とオキシコドンの併用により、オキシコドンのクリアランスが32%減少し、AUCが51%増加したとの報告がある（オキシコドン注射剤）。また、オキシコドンのAUCが144%上昇したとの報告がある（オキシコドン経口剤）。"
+  },
+  {
+    "other_id": 1652,
+    "interaction_type": "caution",
+    "source_text": "本剤とオキシコドンの併用により、オキシコドンのクリアランスが32%減少し、AUCが51%増加したとの報告がある（オキシコドン注射剤）。また、オキシコドンのAUCが144%上昇したとの報告がある（オキシコドン経口剤）。"
+  },
+  {
+    "other_id": 1653,
+    "interaction_type": "caution",
+    "source_text": "・本剤とオキシコドンの併用により、オキシコドンのクリアランスが32%減少し、AUCが51%増加したとの報告がある（オキシコドン注射剤）。また、オキシコドンのAUCが144%上昇したとの報告がある（オキシコドン経口剤）。"
+  },
+  {
+    "other_id": 39803,
+    "interaction_type": "caution",
+    "source_text": "・本剤とオキシコドンの併用により、オキシコドンのクリアランスが32%減少し、AUCが51%増加したとの報告がある（オキシコドン注射剤）。また、オキシコドンのAUCが144%上昇したとの報告がある（オキシコドン経口剤）。"
+  },
+  {
+    "other_id": 1655,
+    "interaction_type": "caution",
+    "source_text": "・本剤とオキシコドンの併用により、オキシコドンのクリアランスが32%減少し、AUCが51%増加したとの報告がある（オキシコドン注射剤）。また、オキシコドンのAUCが144%上昇したとの報告がある（オキシコドン経口剤）。"
+  },
+  {
+    "other_id": 1656,
+    "interaction_type": "caution",
+    "source_text": "・本剤とオキシコドンの併用により、オキシコドンのクリアランスが32%減少し、AUCが51%増加したとの報告がある（オキシコドン注射剤）。また、オキシコドンのAUCが144%上昇したとの報告がある（オキシコドン経口剤）。"
+  },
+  {
+    "other_id": 1682,
+    "interaction_type": "caution",
+    "source_text": "相互にセロトニン作用を増強することにより、セロトニン症候群等があらわれるおそれがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 39848,
+    "interaction_type": "caution",
+    "source_text": "相互にセロトニン作用を増強することにより、セロトニン症候群等があらわれるおそれがあるので、本剤及びこれらの薬剤の用量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 1705,
+    "interaction_type": "caution",
+    "source_text": "CYP3Aにより代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+  },
+  {
+    "other_id": 39891,
+    "interaction_type": "caution",
+    "source_text": "CYP3Aにより代謝される薬剤と併用する場合は、これらの薬剤の血中濃度が上昇する可能性がある。"
+  },
+  {
+    "other_id": 1941,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+  },
+  {
+    "other_id": 1961,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の有効性が減弱するおそれがある。"
+  },
+  {
+    "other_id": 2536,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがあるため、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+  },
+  {
+    "other_id": 3128,
+    "interaction_type": "caution",
+    "source_text": "徐拍作用を増強するおそれがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 42861,
+    "interaction_type": "caution",
+    "source_text": "徐拍作用を増強するおそれがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 3941,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度が上昇し、副作用が発現しやすくなるおそれがある。副作用（呼吸抑制等）に対する十分なモニタリングを行うことが望ましい。"
+  },
+  {
+    "other_id": 3942,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度が上昇し、副作用が発現しやすくなるおそれがある。副作用（呼吸抑制等）に対する十分なモニタリングを行うことが望ましい。"
+  },
+  {
+    "other_id": 4439,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4440,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4446,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4447,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4448,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4449,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4450,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4451,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4452,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4453,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4454,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4455,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4456,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4442,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 46374,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4460,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4461,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4443,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 46376,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4463,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4444,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 46378,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4445,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 46380,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4458,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 46394,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4467,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4441,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 46372,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、本剤との併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 4515,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇し作用が増強するおそれがあるため、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+  },
+  {
+    "other_id": 46520,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇し作用が増強するおそれがあるため、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+  },
+  {
+    "other_id": 4517,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が上昇し作用が増強するおそれがあるため、併用する場合はこれらの薬剤の副作用発現に十分に注意すること。"
+  },
+  {
+    "other_id": 5056,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 47677,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 5492,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 5493,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 5639,
+    "interaction_type": "caution",
+    "source_text": "併用投与により、セロトニン症候群が発現したとの報告がある。セロトニン症候群の徴候又は症状（不安、激越、落ち着きのなさ、頻脈、高血圧、高体温症、振戦、筋緊張亢進、筋固縮等）が認められた場合には、本剤とセロトニン作動薬の両方あるいはいずれか一方の投与中止を検討すること。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 5640,
+    "interaction_type": "caution",
+    "source_text": "併用投与により、セロトニン症候群が発現したとの報告がある。セロトニン症候群の徴候又は症状（不安、激越、落ち着きのなさ、頻脈、高血圧、高体温症、振戦、筋緊張亢進、筋固縮等）が認められた場合には、本剤とセロトニン作動薬の両方あるいはいずれか一方の投与中止を検討すること。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 5651,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること。"
+  },
+  {
+    "other_id": 5844,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 49305,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 49306,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 49307,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 49308,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 49309,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 5880,
+    "interaction_type": "caution",
+    "source_text": "副作用の発現頻度及び重症度が増加するおそれがあるので、これらの薬剤と併用する際には、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+  },
+  {
+    "other_id": 5999,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 49594,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 6001,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 49598,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 6003,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 49602,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 49603,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 6599,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用が増強されるおそれがあるので、注意すること。"
+  },
+  {
+    "other_id": 6600,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用が増強されるおそれがあるので、注意すること。"
+  },
+  {
+    "other_id": 6601,
+    "interaction_type": "caution",
+    "source_text": "中枢神経抑制作用が増強されるおそれがあるので、注意すること。"
+  },
+  {
+    "other_id": 6611,
+    "interaction_type": "contraindicated",
+    "source_text": "本剤によりオピオイド受容体作動薬の離脱症状を起こすおそれがある。また、本剤によりオピオイド受容体作動薬の鎮痛作用を減弱させるため、効果を得るために必要な用量が通常用量より多くなるおそれがある。緊急の手術等によりやむを得ずオピオイド系薬剤を投与する場合、患者毎にオピオイド用量を漸増し、呼吸抑制等の中枢神経抑制症状を注意深く観察すること。また、手術等においてオピオイド系薬剤を投与することが事前にわかる場合には、少なくとも1週間前に本剤の投与を中断すること。本剤を処方する際には、事前に本剤を服用している旨を医療従事者へ伝える必要があることを患者に説明すること。"
+  },
+  {
+    "other_id": 6619,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51037,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51038,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6620,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51040,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51041,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6622,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51049,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51050,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6623,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51052,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51053,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6624,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51055,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51056,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6625,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51058,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51059,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6626,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51061,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51062,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51065,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6627,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51064,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6628,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51067,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51068,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6618,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51032,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51033,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51034,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51035,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6621,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51043,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51044,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51045,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51046,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 51047,
+    "interaction_type": "caution",
+    "source_text": "セロトニン作用が増強されるおそれがある。"
+  },
+  {
+    "other_id": 6937,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+  },
+  {
+    "other_id": 51788,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+  },
+  {
+    "other_id": 51794,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+  },
+  {
+    "other_id": 6939,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+  },
+  {
+    "other_id": 51792,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させ、これらの薬剤の副作用が発現しやすくなるおそれがある。"
+  },
+  {
+    "other_id": 7248,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+  },
+  {
+    "other_id": 52425,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用が増強されるおそれがあるので、患者の状態を慎重に観察し、副作用発現に十分注意すること。"
+  },
+  {
+    "other_id": 7617,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用の発現頻度及び重症度が増加するおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+  },
+  {
+    "other_id": 53964,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の副作用の発現頻度及び重症度が増加するおそれがあるので、患者の状態を慎重に観察し、副作用の発現に十分注意すること。"
+  },
+  {
+    "other_id": 8263,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+  },
+  {
+    "other_id": 8264,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+  },
+  {
+    "other_id": 55112,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+  },
+  {
+    "other_id": 8269,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群を起こすおそれがある。"
+  },
+  {
+    "other_id": 55121,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群を起こすおそれがある。"
+  },
+  {
+    "other_id": 8722,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群を起こすおそれがある。"
+  },
+  {
+    "other_id": 55778,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群を起こすおそれがある。"
+  },
+  {
+    "other_id": 8822,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれるおそれがあるので、観察を十分に行うこと。"
+  },
+  {
+    "other_id": 55950,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれるおそれがあるので、観察を十分に行うこと。"
+  },
+  {
+    "other_id": 9761,
+    "interaction_type": "caution",
+    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+  },
+  {
+    "other_id": 9763,
+    "interaction_type": "caution",
+    "source_text": "本剤の投与により併用薬剤の代謝が亢進し、血中濃度が低下する可能性がある。"
+  },
+  {
+    "other_id": 10120,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59069,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59070,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10123,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59078,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59079,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10126,
+    "interaction_type": "caution",
+    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+  },
+  {
+    "other_id": 59087,
+    "interaction_type": "caution",
+    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+  },
+  {
+    "other_id": 10127,
+    "interaction_type": "caution",
+    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+  },
+  {
+    "other_id": 59089,
+    "interaction_type": "caution",
+    "source_text": "これら薬剤の血中濃度が上昇するおそれがある。これら薬剤の副作用が発現しやすくなるおそれがあるため、充分な観察を行いながら慎重に投与し、必要に応じて減量や休薬等の適切な措置を講ずること。"
+  },
+  {
+    "other_id": 10198,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10197,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59252,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10199,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59257,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59258,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10201,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59263,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59264,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10202,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59266,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59267,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10204,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59275,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59276,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10205,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59278,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59279,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10206,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59281,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59282,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10207,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59284,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59285,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10208,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59287,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59288,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10209,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59290,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59291,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10210,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59293,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59294,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10211,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59296,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59297,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10212,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59299,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59300,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10213,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59302,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59303,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10214,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59305,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59306,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10215,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59308,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59309,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10216,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59311,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59312,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10217,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59314,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59315,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10218,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59317,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59318,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 10203,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59269,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59270,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59271,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59272,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 59273,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群等のセロトニン作用による症状があらわれることがある。これらの薬物を併用する際には観察を十分に行うこと。"
+  },
+  {
+    "other_id": 11390,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62064,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11391,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62066,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11392,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62068,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11393,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62070,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11394,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62072,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11395,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62074,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11402,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62088,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62089,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11403,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62091,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62092,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11408,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62106,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62107,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11409,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62109,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 62110,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 11562,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 11563,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 62435,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 11565,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 11664,
+    "interaction_type": "caution",
+    "source_text": "過剰の交感神経抑制を来すおそれがあるので、注意すること。"
+  },
+  {
+    "other_id": 11961,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度を上昇させる可能性がある。併用する場合には必要に応じてこれらの薬剤の投与量を減量するなど注意して投与すること 。"
+  },
+  {
+    "other_id": 11962,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+  },
+  {
+    "other_id": 63380,
+    "interaction_type": "caution",
+    "source_text": "血圧低下、心拍数低下、呼吸数低下等の症状があらわれるおそれがあるので、併用する場合には本剤の投与速度を減速する、本剤あるいは他の鎮静薬、鎮痛薬の投与量を減量する等、慎重に投与すること。"
+  },
+  {
+    "other_id": 11987,
+    "interaction_type": "caution",
+    "source_text": "併用により、これらの薬剤の血漿中濃度が上昇するおそれがある。"
+  },
+  {
+    "other_id": 11988,
+    "interaction_type": "caution",
+    "source_text": "併用により、これらの薬剤の血漿中濃度が上昇するおそれがある。"
+  },
+  {
+    "other_id": 63422,
+    "interaction_type": "caution",
+    "source_text": "併用により、これらの薬剤の血漿中濃度が上昇するおそれがある。"
+  },
+  {
+    "other_id": 63423,
+    "interaction_type": "caution",
+    "source_text": "併用により、これらの薬剤の血漿中濃度が上昇するおそれがある。"
+  },
+  {
+    "other_id": 12024,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 63478,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 63479,
+    "interaction_type": "caution",
+    "source_text": "フェンタニルの血中濃度上昇のおそれがある\n。"
+  },
+  {
+    "other_id": 12305,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 64051,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 12306,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 64053,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 12307,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 64055,
+    "interaction_type": "caution",
+    "source_text": "徐脈、血圧低下等の作用が増強することがあるので、減量するなど注意すること。"
+  },
+  {
+    "other_id": 12647,
+    "interaction_type": "caution",
+    "source_text": "フェンタニル麻酔時、β-遮断剤と本剤の併用で血圧低下がみられることがある\n。必要に応じどちらかを減量又は投与を中止する。"
+  },
+  {
+    "other_id": 65248,
+    "interaction_type": "caution",
+    "source_text": "フェンタニル麻酔時、β-遮断剤と本剤の併用で血圧低下がみられることがある\n。必要に応じどちらかを減量又は投与を中止する。"
+  },
+  {
+    "other_id": 65249,
+    "interaction_type": "caution",
+    "source_text": "フェンタニル麻酔時、β-遮断剤と本剤の併用で血圧低下がみられることがある\n。必要に応じどちらかを減量又は投与を中止する。"
+  },
+  {
+    "other_id": 12964,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、クラリスロマイシンとの併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 65707,
+    "interaction_type": "caution",
+    "source_text": "左記薬剤の血中濃度上昇に伴う作用の増強等の可能性があるので、異常が認められた場合には、投与量の調節や中止等の適切な処置を行うこと。なお、トルバプタンにおいては、クラリスロマイシンとの併用は避けることが望ましいとされており、やむを得ず併用する場合においては、トルバプタンの用量調節を特に考慮すること。"
+  },
+  {
+    "other_id": 12973,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65720,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65721,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 12976,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65729,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 12977,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65731,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 12978,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65733,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 12974,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65723,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65724,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 12980,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 65738,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 12987,
+    "interaction_type": "caution",
+    "source_text": "本剤との併用により、フェンタニルのAUCが増加した\n。"
+  },
+  {
+    "other_id": 16237,
+    "interaction_type": "contraindicated",
+    "source_text": "離脱症状を起こすおそれがある。また、鎮痛作用が減弱するおそれがある。ナルメフェン塩酸塩水和物を投与中の患者又は投与中止後1週間以内の患者には投与しないこと。"
+  },
+  {
+    "other_id": 16238,
+    "interaction_type": "contraindicated",
+    "source_text": "離脱症状を起こすおそれがある。また、鎮痛作用が減弱するおそれがある。ナルメフェン塩酸塩水和物を投与中の患者又は投与中止後1週間以内の患者には投与しないこと。"
+  },
+  {
+    "other_id": 9645,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 48174,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 16688,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 16433,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 5363,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 11991,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 9816,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 9817,
+    "interaction_type": "caution",
+    "source_text": "呼吸抑制、低血圧、めまい、口渇及び顕著な鎮静又は昏睡が起こることがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 42064,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+  },
+  {
+    "other_id": 12945,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+  },
+  {
+    "other_id": 12944,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+  },
+  {
+    "other_id": 9672,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+  },
+  {
+    "other_id": 9737,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+  },
+  {
+    "other_id": 57981,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+  },
+  {
+    "other_id": 2744,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群（不安、焦燥、興奮、錯乱、発熱、発汗、頻脈、振戦、ミオクローヌス等）があらわれるおそれがある。"
+  },
+  {
+    "other_id": 1281,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 1283,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 11145,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 11147,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 3831,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 10379,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 11150,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 38797,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 14937,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 54495,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 54496,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 61358,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 59758,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 61362,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 61363,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 61364,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 44726,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 44727,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 3830,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 44729,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 44730,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 7996,
+    "interaction_type": "caution",
+    "source_text": "本剤の有効成分の血中濃度が低下し、治療効果が減弱するおそれがある。必要に応じて本剤の用量調整を行うこと。CYP3A4誘導作用を有する薬剤の中止後、本剤の有効成分の血中濃度が上昇し、重篤な呼吸抑制等の副作用が発現するおそれがあるので、観察を十分に行い、慎重に投与すること。"
+  },
+  {
+    "other_id": 14572,
+    "interaction_type": "caution",
+    "source_text": "徐拍作用を増強するおそれがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 69727,
+    "interaction_type": "caution",
+    "source_text": "徐拍作用を増強するおそれがあるので、減量するなど慎重に投与すること。"
+  },
+  {
+    "other_id": 14829,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 14830,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 14831,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 14832,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 14833,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 14834,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 14835,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群の徴候及び症状（錯乱、せん妄、情緒不安、振戦、潮紅、発汗、超高熱）があらわれるおそれがあるので、十分に注意すること。これらの徴候や症状が認められた場合には、本剤と併用薬の両方あるいはいずれか一方の投与を中止するなど適切な処置を行うこと。なお、セロトニン作動薬の急激な減量又は投与中止により離脱症状があらわれることがあるので注意すること。"
+  },
+  {
+    "other_id": 15191,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群を起こすおそれがある。"
+  },
+  {
+    "other_id": 71530,
+    "interaction_type": "caution",
+    "source_text": "セロトニン症候群を起こすおそれがある。"
+  },
+  {
+    "other_id": 15949,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が低下し、有効性が減弱する可能性がある。"
+  },
+  {
+    "other_id": 73156,
+    "interaction_type": "caution",
+    "source_text": "これらの薬剤の血中濃度が低下し、有効性が減弱する可能性がある。"
+  }
+]
