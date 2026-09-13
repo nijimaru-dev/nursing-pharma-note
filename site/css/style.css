@@ -408,7 +408,11 @@ main:focus-visible { outline: none; }
 
 .hero p.lede {
   color: var(--ink-soft);
-  max-width: 46ch;
+  /* 【不具合修正・2026-09-13】ch単位は半角基準のため、CJKフォント（全角）では
+     文字数と一致せず、実際の見た目上の折り返し位置と食い違って「飲み合わ」
+     「せを」のような不自然な位置で改行されていた。h1と同じ考え方（上記コメント
+     参照）で、max-widthによる折り返し制御をやめ、折り返し位置はブラウザに
+     任せる（コンテナ幅いっぱいまで使う）。 */
   margin: 0 0 16px;
 }
 
@@ -481,6 +485,12 @@ main:focus-visible { outline: none; }
 
 .search-result {
   display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
   padding: 13px 16px;
   min-height: 44px;
   box-sizing: border-box;
@@ -921,7 +931,14 @@ main:focus-visible { outline: none; }
   font-family: var(--font-display);
   font-size: 1rem;
   line-height: 1.4;
+  /* 薬品詳細ページへのリンクにしているため、色・下線はリンクの既定値を
+     打ち消し、ホバー・フォーカス時のみ下線で分かるようにする
+     （不具合修正・2026-09-13：結果からdrug.htmlへ遷移できなかった不具合）。 */
+  color: inherit;
+  text-decoration: none;
 }
+.pair-vs__name:hover,
+.pair-vs__name:focus-visible { text-decoration: underline; color: var(--teal-dark); }
 .pair-vs__name--a { text-align: right; }
 .pair-vs__name--b { text-align: left; }
 .pair-vs__x {
@@ -1247,8 +1264,18 @@ main:focus-visible { outline: none; }
   font-variant-numeric: tabular-nums;
 }
 
-/* --- フッター：免責事項のアコーディオン化（スマホでの初期スクロール量を削減） --- */
-.disclaimer-accordion { border: none; }
+/* --- フッター：免責事項のアコーディオン化（スマホでの初期スクロール量を削減） ---
+   【不具合修正・2026-09-13】以前は<details>本体に幅指定が無く、summary
+   （「免責事項・データ出典」トグル）がフッター内の他要素（.site-footer__links
+   等、max-width: var(--content-width)で中央寄せ）と横位置が揃わず、
+   ビューポート左端に張り付いていた。.site-footer__linksと同じ幅・余白を
+   .disclaimer-accordion自体に適用し、揃える。 */
+.disclaimer-accordion {
+  border: none;
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
 .disclaimer-accordion summary {
   cursor: pointer;
   list-style: none;

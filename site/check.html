@@ -327,9 +327,9 @@ function renderCheck() {
         <div class="result-card ${p.interaction_type === "caution" ? "result-card--caution" : ""}">
           <div class="pair-type">${interactionTypeIcon(p.interaction_type)}<span class="pair-type__label">${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}</span><button type="button" class="term-help" tabindex="0" aria-label="用語の説明" data-tip="${p.interaction_type === "contraindicated" ? "併用禁忌：一緒に使ってはいけない組み合わせ。" : "併用注意：一緒に使う場合は注意深い観察が必要な組み合わせ。"}">?</button></div>
           <div class="pair-vs">
-            <span class="pair-vs__name pair-vs__name--a">${escapeHTML(p.aBrand)}</span>
+            <a class="pair-vs__name pair-vs__name--a" href="/drug.html?id=${p.aId}" target="_blank" rel="noopener">${escapeHTML(p.aBrand)}</a>
             <span class="pair-vs__x" aria-hidden="true">×</span>
-            <span class="pair-vs__name pair-vs__name--b">${escapeHTML(p.bBrand)}</span>
+            <a class="pair-vs__name pair-vs__name--b" href="/drug.html?id=${p.bId}" target="_blank" rel="noopener">${escapeHTML(p.bBrand)}</a>
           </div>
           <div class="pair-detail">${escapeHTML(p.source_text)}</div>
           <div class="pair-action">使用する場合は医師・薬剤師に相談しましょう。</div>
@@ -341,9 +341,9 @@ function renderCheck() {
         <div class="result-card result-card--none">
           <div class="pair-type">${interactionTypeIcon("none")}<span class="pair-type__label">記載なし</span></div>
           <div class="pair-vs">
-            <span class="pair-vs__name pair-vs__name--a">${escapeHTML(a.brand_name)}</span>
+            <a class="pair-vs__name pair-vs__name--a" href="/drug.html?id=${a.id}" target="_blank" rel="noopener">${escapeHTML(a.brand_name)}</a>
             <span class="pair-vs__x" aria-hidden="true">×</span>
-            <span class="pair-vs__name pair-vs__name--b">${escapeHTML(b.brand_name)}</span>
+            <a class="pair-vs__name pair-vs__name--b" href="/drug.html?id=${b.id}" target="_blank" rel="noopener">${escapeHTML(b.brand_name)}</a>
           </div>
           <div class="pair-detail">記載されている相互作用は見つかりませんでした。データベースに記載がないだけで、安全という意味ではありません。</div>
           <div class="pair-action">気になる場合は医師・薬剤師に相談しましょう。</div>
