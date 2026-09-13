@@ -1,0 +1,129 @@
+/* ==========================================================================
+   design-system/components/button.css
+   Button（Priority 1）
+
+   PayPay Style Guideの「ButtonをComponentとして状態まで定義する」
+   考え方を採用：default/hover/active/focus-visible/disabled/loadingを
+   明示的に定義する。スマホ中心のサイトのため、hoverはPC利用時の補助的な
+   フィードバックに留め、active（タップ時の押下フィードバック）を
+   主役にする（hover前提のUIにしない、という藤丸さんの指示に対応）。
+
+   角丸はradius.cssの--np-radius-md-rect（12px、「ボタン＝中程度」＝
+   仕様書27章）を使い、カード用の値とは意図的に分けている。
+   文言は「何をするとどうなるか」が明確な動詞にする（仕様書33章。
+   例：「薬の詳細を見る」「マイ薬箱に追加」。「詳細」「確認」等の
+   単語だけは避ける——これは各画面組み立て時（Phase 2以降）の責務）。
+   ========================================================================== */
+
+.np-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--np-space-2);
+  min-height: var(--np-tap-target-min);
+  padding: var(--np-space-3) var(--np-space-5);
+  border-radius: var(--np-radius-md-rect);
+  border: 1px solid transparent;
+  font-family: var(--np-font-body);
+  font-size: var(--np-text-md);
+  font-weight: var(--np-weight-bold);
+  line-height: var(--np-leading-tight);
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background-color var(--np-duration-fast) var(--np-easing-standard),
+    border-color var(--np-duration-fast) var(--np-easing-standard),
+    transform var(--np-duration-instant) var(--np-easing-standard);
+}
+
+/* --- Primary：主要な操作（1画面に1つが基本） --- */
+.np-btn--primary {
+  background: var(--np-brand-primary);
+  border-color: var(--np-brand-primary);
+  color: var(--np-text-inverse);
+}
+.np-btn--primary:hover { background: var(--np-brand-primary-dark); border-color: var(--np-brand-primary-dark); }
+.np-btn--primary:active { background: var(--np-brand-primary-dark); transform: scale(0.97); }
+
+/* --- Secondary：主要ではないが明確な操作 --- */
+.np-btn--secondary {
+  background: transparent;
+  border-color: var(--np-brand-primary);
+  color: var(--np-brand-primary-dark);
+}
+.np-btn--secondary:hover { background: var(--np-brand-primary-tint); }
+.np-btn--secondary:active { background: var(--np-brand-primary-tint); transform: scale(0.97); }
+
+/* --- Ghost：控えめな操作（一括リセット等、頻度の低い操作） --- */
+.np-btn--ghost {
+  background: transparent;
+  border-color: var(--np-border-strong);
+  color: var(--np-text-secondary);
+}
+.np-btn--ghost:hover { border-color: var(--np-brand-primary); color: var(--np-brand-primary-dark); }
+.np-btn--ghost:active { background: var(--np-bg-sunken); transform: scale(0.97); }
+
+/* --- Accent：ここぞという強調操作（複数薬チェックの起点等、多用しない） --- */
+.np-btn--accent {
+  background: var(--np-brand-accent);
+  border-color: var(--np-brand-accent);
+  color: var(--np-text-inverse);
+}
+.np-btn--accent:hover { background: var(--np-brand-accent-dark); border-color: var(--np-brand-accent-dark); }
+.np-btn--accent:active { background: var(--np-brand-accent-dark); transform: scale(0.97); }
+
+/* --- サイズ --- */
+.np-btn--sm { min-height: 36px; padding: var(--np-space-2) var(--np-space-4); font-size: var(--np-text-sm); }
+.np-btn--lg { min-height: 52px; padding: var(--np-space-4) var(--np-space-6); font-size: var(--np-text-lg); }
+
+/* --- 状態：disabled --- */
+.np-btn:disabled,
+.np-btn[aria-disabled="true"] {
+  cursor: not-allowed;
+  opacity: 0.5;
+  transform: none !important;
+}
+
+/* --- 状態：loading（「保存しています…」等、文言は呼び出し側で差し替え） --- */
+.np-btn--loading {
+  position: relative;
+  color: transparent !important;
+  pointer-events: none;
+}
+.np-btn--loading::after {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  color: inherit;
+  animation: np-btn-spin 700ms linear infinite;
+}
+.np-btn--primary.np-btn--loading::after,
+.np-btn--accent.np-btn--loading::after { color: #fff; }
+.np-btn--secondary.np-btn--loading::after,
+.np-btn--ghost.np-btn--loading::after { color: var(--np-brand-primary); }
+
+@keyframes np-btn-spin {
+  to { transform: rotate(360deg); }
+}
+
+.np-btn:focus-visible {
+  outline: 2px solid var(--np-brand-primary);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .np-btn { transition: none; }
+  .np-btn--loading::after { animation: none; border-top-color: currentColor; opacity: 0.6; }
+}
+
+/* アイコンのみのボタン（アイコンボタン）は正方形の角丸を使う */
+.np-btn--icon {
+  padding: 0;
+  width: var(--np-tap-target-min);
+  height: var(--np-tap-target-min);
+  border-radius: var(--np-radius-full);
+}

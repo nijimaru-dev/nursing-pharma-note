@@ -1,0 +1,74 @@
+/* ==========================================================================
+   design-system/patterns/interaction-check.css
+   Pattern: InteractionCheck
+
+   仕様書42〜44章：「薬を組み合わせて確認」という親しみやすい言い回しの
+   画面。選択中の薬をBadge（削除可能なチップ）で表示し、結果は
+   「何が問題なのか」を最初に出す（Alert中心の結果表示）。
+   ========================================================================== */
+
+.np-pattern-interaction-check {
+  display: flex;
+  flex-direction: column;
+  gap: var(--np-space-5);
+}
+
+.np-selected-drugs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--np-space-2);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* 選択済みの薬（[カロナール500mg]× のようなチップ）。
+   Badgeコンポーネントを土台に、削除ボタンを内包する。 */
+.np-selected-drug-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--np-space-2);
+  padding: 6px 6px 6px var(--np-space-4);
+  border-radius: var(--np-radius-pill);
+  background: var(--np-brand-primary-tint);
+  color: var(--np-brand-primary-dark);
+  font-size: var(--np-text-sm);
+  font-weight: var(--np-weight-medium);
+}
+.np-selected-drug-chip__remove {
+  position: relative;
+  width: 26px;
+  height: 26px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(12, 95, 87, 0.16);
+  color: inherit;
+  cursor: pointer;
+}
+.np-selected-drug-chip__remove::before {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: var(--np-tap-target-min);
+  height: var(--np-tap-target-min);
+  transform: translate(-50%, -50%);
+}
+
+.np-pattern-interaction-check__results {
+  display: flex;
+  flex-direction: column;
+  gap: var(--np-space-3);
+}
+
+/* 結果1件＝Alertを土台に、薬剤ペアの見出しを追加した構造。
+   「問題なし」を単なる緑色だけにせず、テキストで明示する（仕様書44章）。 */
+.np-interaction-result__pair {
+  display: flex;
+  align-items: center;
+  gap: var(--np-space-2);
+  font-family: var(--np-font-display);
+  font-weight: var(--np-weight-bold);
+  font-size: var(--np-text-md);
+  margin: var(--np-space-1) 0 var(--np-space-2);
+}
+.np-interaction-result__x { color: var(--np-text-disabled); }

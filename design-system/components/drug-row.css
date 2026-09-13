@@ -1,0 +1,89 @@
+/* ==========================================================================
+   design-system/components/drug-row.css
+   DrugRow（Priority 1・検索結果の主力コンポーネント）
+
+   仕様書16章「カードを乱用しない。薬剤検索結果には、一覧として見やすい
+   リスト＋軽い区切りを採用する」、13〜15章「規格違いを隠さず全て表示する」
+   「商品名→一般名→規格→剤形の順で理解できる構造」「薬剤群と薬剤レコードを
+   視覚的に区別する」を実体化した、Card型ではなくList型のコンポーネント。
+
+   GPT統合セクションの結論と同一：
+   「17,000件超の薬剤データでは、カードを大量に並べると情報密度が落ちる。
+   薬剤名・一般名・規格・剤形・メーカー等を横方向に整理したList型UIを
+   基本とし、詳細情報だけCard的なまとまりを使用する」。
+
+   .np-drug-row       : 個別の薬剤レコード1件（規格・剤形が確定した1行）
+   .np-drug-row--group: 薬剤群（同一商品名・同一成分で複数規格をまとめる）。
+                        メインテート2.5mg問題の再発防止のため、規格は
+                        「隠す・代表1件だけ出す」のではなく全バッジを並べる。
+   ========================================================================== */
+
+.np-drug-list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.np-drug-row {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: var(--np-space-4) var(--np-space-2);
+  border-bottom: 1px solid var(--np-border-default);
+  text-decoration: none;
+  color: var(--np-text-primary);
+  min-height: var(--np-tap-target-min);
+  justify-content: center;
+}
+.np-drug-list > :last-child .np-drug-row,
+.np-drug-row:last-child { border-bottom: none; }
+
+.np-drug-row:hover,
+.np-drug-row:focus-visible,
+.np-drug-row:active {
+  background: var(--np-brand-primary-tint);
+}
+
+/* 商品名→一般名→規格→剤形→メーカーの順（仕様書15章）。
+   商品名がLevel1、一般名以下はLevel2〜3として文字サイズを落とす。 */
+.np-drug-row__brand {
+  font-family: var(--np-font-display);
+  font-size: var(--np-text-lg);
+  font-weight: var(--np-weight-bold);
+  line-height: var(--np-leading-tight);
+}
+.np-drug-row__generic {
+  font-size: var(--np-text-sm);
+  color: var(--np-text-secondary);
+}
+.np-drug-row__meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--np-space-2);
+  margin-top: 2px;
+}
+
+/* --- 薬剤群表示：規格バッジをまとめて出す（規格を隠さない） --- */
+.np-drug-row--group .np-drug-row__strengths {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--np-space-2);
+  margin-top: var(--np-space-1);
+}
+
+/* 「薬剤群」であることを示す軽い視覚的手がかり（仕様書15章）。
+   カードにはせず、左の細いアクセント罫線＋ラベルだけで区別する。 */
+.np-drug-row--group {
+  border-left: 3px solid var(--np-brand-primary);
+  padding-left: calc(var(--np-space-2) - 3px + var(--np-space-1));
+}
+.np-drug-row--group .np-drug-row__group-label {
+  font-size: var(--np-text-2xs);
+  font-weight: var(--np-weight-bold);
+  letter-spacing: var(--np-tracking-wider);
+  color: var(--np-brand-primary-dark);
+  text-transform: uppercase;
+}

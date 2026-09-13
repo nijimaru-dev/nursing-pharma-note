@@ -1,0 +1,36 @@
+/* ==========================================================================
+   design-system/patterns/search-results.css
+   Pattern: SearchResults
+
+   SearchBox・SearchSuggestion・DrugRow（components/）を組み合わせて、
+   検索結果画面を構成するレイアウトルール。コンポーネント自体の見た目は
+   ここでは定義せず、並び方・余白・見出しの構造のみを扱う。
+   ========================================================================== */
+
+.np-pattern-search-results {
+  display: flex;
+  flex-direction: column;
+  gap: var(--np-space-2);
+}
+
+.np-pattern-search-results__summary {
+  font-size: var(--np-text-sm);
+  color: var(--np-text-secondary);
+  padding: var(--np-space-2) var(--np-space-2) var(--np-space-1);
+}
+/* 件数は誤読防止のため等幅フォントで強調する */
+.np-pattern-search-results__summary strong {
+  font-family: var(--np-font-mono);
+  color: var(--np-text-primary);
+}
+
+/* 「薬剤群」（同一商品名・同一成分をまとめた行）と「薬剤レコード」
+   （個別規格の行）が同じリスト内に混在しても視覚的に区別できるよう、
+   グループ間の余白をレコード間より広く取る（余白で関係性を示す＝
+   デジタル庁の考え方）。 */
+.np-pattern-search-results .np-drug-row--group {
+  margin-top: var(--np-space-group);
+}
+.np-pattern-search-results .np-drug-row--group:first-child {
+  margin-top: 0;
+}

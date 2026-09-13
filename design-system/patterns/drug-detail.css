@@ -1,0 +1,71 @@
+/* ==========================================================================
+   design-system/patterns/drug-detail.css
+   Pattern: DrugDetail
+
+   仕様書18章の「読む順番」をレイアウトとして固定する：
+   薬剤名／一般名／分類タグ ── この薬は？ ── 何に使う？ ── 用法・用量 ──
+   看護で見るところ ── 副作用 ── 禁忌・注意 ── 飲み合わせ ── 添付文書。
+   情報は「重要度」でLevel1〜5に階層化する（仕様書21章）。
+   ========================================================================== */
+
+.np-pattern-drug-detail {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Level1：薬剤名（最重要）。DrugHeaderとして独立させる。 */
+.np-drug-header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--np-space-2);
+  padding-bottom: var(--np-space-5);
+  border-bottom: 1px solid var(--np-border-default);
+  margin-bottom: var(--np-space-6);
+}
+.np-drug-header__tags { display: flex; flex-wrap: wrap; gap: var(--np-space-2); }
+.np-drug-header__name { /* typography.cssの.np-text-drug-nameを併用する */ }
+.np-drug-header__generic { font-size: var(--np-text-md); color: var(--np-text-secondary); }
+.np-drug-header__actions { display: flex; gap: var(--np-space-2); margin-top: var(--np-space-2); }
+
+/* 「この薬は何？」を最初に置く（仕様書20章）。Level2相当、
+   要約1〜2文だけを大きめの文字で見せ、詳細は下のセクションに譲る。 */
+.np-drug-summary {
+  font-size: var(--np-text-lg);
+  line-height: var(--np-leading-snug);
+  margin-bottom: var(--np-space-6);
+}
+
+/* Level3：看護師が頻繁に見るセクション（何に使う？／用法用量／
+   看護で見るところ）。区切りは罫線＋見出しのみ、カード化しない。 */
+.np-drug-section {
+  padding: var(--np-space-5) 0;
+  border-bottom: 1px solid var(--np-border-default);
+}
+.np-drug-section:last-of-type { border-bottom: none; }
+.np-drug-section__label {
+  font-family: var(--np-font-display);
+  font-size: var(--np-text-lg);
+  font-weight: var(--np-weight-bold);
+  margin-bottom: var(--np-space-3);
+}
+.np-drug-section__body { color: var(--np-text-primary); line-height: var(--np-leading-base); }
+
+/* 「看護で見るところ」は差別化ポイントのため独立性を視覚的に強調する
+   （仕様書19章）：Primary色の左罫線を付け、他のセクションと区別する。 */
+.np-drug-section--nursing-focus {
+  border-left: 3px solid var(--np-brand-primary);
+  padding-left: var(--np-space-4);
+  background: var(--np-brand-primary-tint);
+  border-radius: 0 var(--np-radius-md-rect) var(--np-radius-md-rect) 0;
+}
+
+/* Level4：詳細情報（適用上の注意・薬物動態等）はAccordionへ格納する
+   （patterns側では位置づけのみ規定し、実体はcomponents/accordion.css）。 */
+.np-drug-detail-more { margin-top: var(--np-space-6); }
+
+/* Level5：出典・免責・法的情報。最も控えめに、最下部へ。 */
+.np-drug-footer-info {
+  margin-top: var(--np-space-7);
+  padding-top: var(--np-space-5);
+  border-top: 1px solid var(--np-border-default);
+}

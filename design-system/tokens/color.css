@@ -1,0 +1,188 @@
+/* ==========================================================================
+   design-system/tokens/color.css
+   看護薬理ノート Design System v2.0 — カラートークン（Phase 1）
+
+   PayPay App Style Guideの3層構造（Brand / Global(Semantic) / Extended）を
+   採用する（デザイン定義書v2.0・GPT統合セクション参照）。ブランド色と
+   意味色を混在させない、という考え方をそのまま踏襲している。
+
+   「医療系だから青に逃げない」「色数は絞る。意味のない色分け禁止。」
+   （仕様書 24〜26章）を徹底するため、色相の種類そのものを増やしすぎない
+   ことを優先した。
+
+   命名は既存サイト（site/css/style.css）の --teal 等と衝突しないよう
+   np-（Nursing Pharma）プレフィックスを付けている。Phase 2以降で本番へ
+   統合する際は、このファイルのトークンをsite/css/側へ段階的に移す想定。
+   ========================================================================== */
+
+:root {
+  /* ============================================================
+     Brand（ブランドの人格を表す色）
+     LINE「ブランドカラーを画面全面に敷き詰めず、操作・強調に使う」の
+     考え方を採用。Primaryは既存サイトの確定値（teal #0c5f57）を継承。
+     Secondary/Accentは今回新規決定（藤丸さんの確認待ち・仮ドラフト）。
+     ============================================================ */
+  --np-brand-primary: #0c5f57;
+  --np-brand-primary-dark: #08443e;
+  --np-brand-primary-tint: #e6efed;
+
+  /* Secondary：温かみのあるマスタードゴールド。tealと反対色相寄りで
+     「親しみやすいが特定サービスのコピーに見えない」独自色として選定。
+     旧DESIGN.md v1.0で禁止した「#D97757近辺のテラコッタ」とは
+     明確に異なる色相・彩度にしている（要確認）。 */
+  --np-brand-secondary: #a8791f;
+  --np-brand-secondary-dark: #8a6318;
+  --np-brand-secondary-tint: #f3ead4;
+
+  /* Accent：珊瑚色に近い暖色。使用頻度を絞り、「複数薬チェック」の
+     入口や新着・強調バッジ等、ここぞという場面だけに使う（要確認）。 */
+  --np-brand-accent: #e8583f;
+  --np-brand-accent-dark: #c1432c;
+  --np-brand-accent-tint: #fbe6e1;
+
+  /* ============================================================
+     Global / Semantic（意味に紐づく色。ブランド色とは独立管理する）
+     ============================================================ */
+  --np-text-primary: #16213c;
+  --np-text-secondary: #565f73;
+  --np-text-disabled: #9aa2b3;
+  --np-text-inverse: #ffffff;
+  --np-text-link: #0c5f57;
+  --np-text-link-visited: #6b4fa0;
+
+  /* 完全な#FFFFFFではなく、ごくわずかに温かみのある白にする
+     （仕様書25章「Base：背景＝ごく薄い暖色系白」）。 */
+  --np-bg-base: #fdfbf6;
+  --np-bg-raised: #ffffff;
+  --np-bg-sunken: #f3f0e9;
+  --np-bg-overlay: rgba(20, 24, 31, 0.5);
+
+  --np-border-default: rgba(22, 33, 60, 0.09);
+  --np-border-strong: rgba(22, 33, 60, 0.18);
+
+  --np-success: #3e6f4f;
+  --np-success-dark: #2c5138;
+  --np-success-tint: #e7efe3;
+  --np-warning: #a8720c;
+  --np-warning-dark: #7d5609;
+  --np-warning-tint: #f7ecd4;
+  --np-error: #a3341c;
+  --np-error-dark: #7c2714;
+  --np-error-tint: #f6e6de;
+  --np-info: #2f5fa8;
+  --np-info-dark: #234880;
+  --np-info-tint: #e7edf6;
+
+  /* 常に濃色を保つ背景（トースト・ツールチップ等、テーマに関わらず
+     「濃い背景＋白文字」を保ちたい部品専用。ダークモードでも反転しない）。 */
+  --np-overlay-dark: #1c2333;
+
+  /* ============================================================
+     Extended（ドメイン固有の意味色。むやみに増やさない）
+     ============================================================ */
+  /* 相互作用：Semanticの色をそのままエイリアスする。禁忌・注意という
+     「危険度」はError/Warningと概念が同一のため、新しい色相は作らない。 */
+  --np-interaction-contraindicated: var(--np-error);
+  --np-interaction-contraindicated-tint: var(--np-error-tint);
+  --np-interaction-caution: var(--np-warning);
+  --np-interaction-caution-tint: var(--np-warning-tint);
+  --np-interaction-none: var(--np-success);
+  --np-interaction-none-tint: var(--np-success-tint);
+
+  /* 薬効分類：分類数（十数〜20種類）ぶん色相を増やすと「意味のない
+     色分け」（仕様書24章で禁止）になるため、分類チップはAccent 1色に
+     統一し、分類名・件数というテキスト情報だけで区別する。 */
+  --np-drug-category: var(--np-brand-accent);
+  --np-drug-category-tint: var(--np-brand-accent-tint);
+
+  /* 剤形（錠剤・カプセル・注射剤等）は色ではなくアイコン形状で区別する
+     方針のため、色トークンは持たない（components/badge.css参照）。 */
+}
+
+/* --- ダークモード：既存サイトと同じ2系統の切り替え方式を踏襲
+   （OS連動のprefers-color-scheme と、data-theme明示指定の両方）。 --- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --np-text-primary: #e9edf3;
+    --np-text-secondary: #a3adbd;
+    --np-text-disabled: #5c6577;
+    --np-text-inverse: #14181f;
+    --np-text-link: #5cc0b3;
+    --np-text-link-visited: #b79ce0;
+
+    --np-bg-base: #14181f;
+    --np-bg-raised: #1c222c;
+    --np-bg-sunken: #10131a;
+    --np-bg-overlay: rgba(0, 0, 0, 0.6);
+
+    --np-border-default: rgba(233, 237, 243, 0.1);
+    --np-border-strong: rgba(233, 237, 243, 0.22);
+
+    --np-brand-primary: #5cc0b3;
+    --np-brand-primary-dark: #8ad9cd;
+    --np-brand-primary-tint: rgba(92, 192, 179, 0.14);
+
+    --np-brand-secondary: #d9ac52;
+    --np-brand-secondary-dark: #e8c680;
+    --np-brand-secondary-tint: rgba(217, 172, 82, 0.16);
+
+    --np-brand-accent: #f0806a;
+    --np-brand-accent-dark: #f5a591;
+    --np-brand-accent-tint: rgba(240, 128, 106, 0.16);
+
+    --np-success: #6fbf85;
+    --np-success-dark: #8fd39f;
+    --np-success-tint: rgba(111, 191, 133, 0.16);
+    --np-warning: #d7a53e;
+    --np-warning-dark: #e6bd63;
+    --np-warning-tint: rgba(215, 165, 62, 0.16);
+    --np-error: #e2695a;
+    --np-error-dark: #eb8b7e;
+    --np-error-tint: rgba(226, 105, 90, 0.16);
+    --np-info: #6f97d1;
+    --np-info-dark: #93b3de;
+    --np-info-tint: rgba(111, 151, 209, 0.16);
+  }
+}
+
+:root[data-theme="dark"] {
+  --np-text-primary: #e9edf3;
+  --np-text-secondary: #a3adbd;
+  --np-text-disabled: #5c6577;
+  --np-text-inverse: #14181f;
+  --np-text-link: #5cc0b3;
+  --np-text-link-visited: #b79ce0;
+
+  --np-bg-base: #14181f;
+  --np-bg-raised: #1c222c;
+  --np-bg-sunken: #10131a;
+  --np-bg-overlay: rgba(0, 0, 0, 0.6);
+
+  --np-border-default: rgba(233, 237, 243, 0.1);
+  --np-border-strong: rgba(233, 237, 243, 0.22);
+
+  --np-brand-primary: #5cc0b3;
+  --np-brand-primary-dark: #8ad9cd;
+  --np-brand-primary-tint: rgba(92, 192, 179, 0.14);
+
+  --np-brand-secondary: #d9ac52;
+  --np-brand-secondary-dark: #e8c680;
+  --np-brand-secondary-tint: rgba(217, 172, 82, 0.16);
+
+  --np-brand-accent: #f0806a;
+  --np-brand-accent-dark: #f5a591;
+  --np-brand-accent-tint: rgba(240, 128, 106, 0.16);
+
+  --np-success: #6fbf85;
+  --np-success-dark: #8fd39f;
+  --np-success-tint: rgba(111, 191, 133, 0.16);
+  --np-warning: #d7a53e;
+  --np-warning-dark: #e6bd63;
+  --np-warning-tint: rgba(215, 165, 62, 0.16);
+  --np-error: #e2695a;
+  --np-error-dark: #eb8b7e;
+  --np-error-tint: rgba(226, 105, 90, 0.16);
+  --np-info: #6f97d1;
+  --np-info-dark: #93b3de;
+  --np-info-tint: rgba(111, 151, 209, 0.16);
+}

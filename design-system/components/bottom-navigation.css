@@ -1,0 +1,51 @@
+/* ==========================================================================
+   design-system/components/bottom-navigation.css
+   BottomNavigation（Priority 2）
+
+   仕様書35章「スマホアプリとしての利用を想定し、ホーム／検索／
+   複数薬チェック／マイ薬箱／その他を検討する。ただし機能が少ない段階では
+   5項目を無理に置かない」。Phase 1では雛形として最大5項目までの構造を
+   用意するが、実際の項目数・採否はPhase 2（Home刷新）で決める。
+   ホーム画面追加を前提にする（仕様書59章）ため、safe-area対応を
+   最初から入れておく。
+   ========================================================================== */
+
+.np-bottom-nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 40;
+  display: flex;
+  background: var(--np-bg-raised);
+  border-top: 1px solid var(--np-border-default);
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
+
+.np-bottom-nav__item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  min-height: 56px;
+  padding: var(--np-space-1) var(--np-space-1);
+  text-decoration: none;
+  color: var(--np-text-secondary);
+  font-size: var(--np-text-2xs);
+}
+.np-bottom-nav__item svg { width: 22px; height: 22px; }
+
+.np-bottom-nav__item[aria-current="page"] {
+  color: var(--np-brand-primary-dark);
+  font-weight: var(--np-weight-bold);
+}
+.np-bottom-nav__item:active { background: var(--np-brand-primary-tint); }
+
+/* 中央に強調ボタン（複数薬チェック等）を置く場合のバリエーション。
+   AccentではなくPrimaryを使い、画面下部でのブランド色の使いすぎを避ける。 */
+.np-bottom-nav__item--emphasis {
+  color: var(--np-brand-primary);
+}
+.np-bottom-nav__item--emphasis svg { color: var(--np-brand-primary); }

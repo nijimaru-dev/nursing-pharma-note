@@ -1,0 +1,60 @@
+/* ==========================================================================
+   design-system/components/modal-sheet.css
+   Modal / Sheet（Priority 2）
+
+   PayPayのHalf Sheetの考え方を採用：スマホでは画面下からせり上がる
+   ボトムシートを基本形とし、PC等の広い画面ではセンターモーダルに切り替える
+   （スマホファースト・仕様書58章）。画面上に「浮く」要素のため、
+   モーダル専用の最も強いシャドウ（--np-shadow-modal）を使う。
+   ========================================================================== */
+
+.np-sheet-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  background: var(--np-bg-overlay);
+}
+
+.np-sheet {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 91;
+  max-height: 85vh;
+  overflow-y: auto;
+  background: var(--np-bg-raised);
+  border-radius: var(--np-radius-lg-rect) var(--np-radius-lg-rect) 0 0;
+  box-shadow: var(--np-shadow-modal);
+  padding: var(--np-space-5);
+  padding-bottom: calc(var(--np-space-5) + env(safe-area-inset-bottom, 0));
+}
+
+.np-sheet__handle {
+  width: 40px;
+  height: 4px;
+  border-radius: var(--np-radius-pill);
+  background: var(--np-border-strong);
+  margin: 0 auto var(--np-space-4);
+}
+
+.np-sheet__title {
+  font-family: var(--np-font-display);
+  font-size: var(--np-text-xl);
+  font-weight: var(--np-weight-bold);
+  margin-bottom: var(--np-space-4);
+}
+
+/* PC・タブレット等、十分な幅がある場合はセンターモーダルに切り替える */
+@media (min-width: 720px) {
+  .np-sheet {
+    left: 50%;
+    right: auto;
+    bottom: 50%;
+    transform: translate(-50%, 50%);
+    width: min(480px, calc(100vw - 48px));
+    max-height: 80vh;
+    border-radius: var(--np-radius-lg-rect);
+  }
+  .np-sheet__handle { display: none; }
+}

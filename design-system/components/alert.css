@@ -1,0 +1,75 @@
+/* ==========================================================================
+   design-system/components/alert.css
+   Alert / Notice（Priority 1）
+
+   「重要」バナー、飲み合わせの結果表示、免責のコンパクト表示（仕様書22章：
+   「ⓘ医療行為・処方判断の代替ではありません、程度のコンパクトな表示」）を
+   すべてこのコンポーネントでまかなう。色付き背景＋左罫線で意味を伝える
+   「通知型ボックス」で、静置される要素のため既定では影を付けない
+   （tokens/shadow.css参照）。角丸はtokens/radius.cssの
+   --np-radius-md-rectを使い、カード（--np-radius-lg-rect）とは
+   意図的に区別する。
+   ========================================================================== */
+
+.np-alert {
+  display: flex;
+  gap: var(--np-space-3);
+  align-items: flex-start;
+  padding: var(--np-space-4);
+  border-radius: var(--np-radius-md-rect);
+  border-left: 4px solid transparent;
+}
+
+.np-alert__icon { width: 22px; height: 22px; flex-shrink: 0; margin-top: 1px; }
+.np-alert__title { font-weight: var(--np-weight-bold); font-size: var(--np-text-md); margin-bottom: var(--np-space-1); }
+.np-alert__body { font-size: var(--np-text-sm); line-height: var(--np-leading-base); }
+.np-alert__body :last-child { margin-bottom: 0; }
+
+.np-alert--error {
+  background: var(--np-error-tint);
+  border-left-color: var(--np-error);
+  color: var(--np-error-dark);
+}
+.np-alert--warning {
+  background: var(--np-warning-tint);
+  border-left-color: var(--np-warning);
+  color: var(--np-warning-dark);
+}
+.np-alert--success {
+  background: var(--np-success-tint);
+  border-left-color: var(--np-success);
+  color: var(--np-success-dark);
+}
+.np-alert--info {
+  background: var(--np-info-tint);
+  border-left-color: var(--np-info);
+  color: var(--np-info-dark);
+}
+
+/* --- コンパクト版：免責事項をトップの主役にしない（仕様書22章） --- */
+.np-alert--compact {
+  padding: var(--np-space-2) var(--np-space-3);
+  border-radius: var(--np-radius-pill);
+  border-left: none;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--np-space-1);
+  font-size: var(--np-text-xs);
+}
+.np-alert--compact .np-alert__icon { width: 14px; height: 14px; margin-top: 0; }
+
+/* --- SourceInfo：PMDA出典の見せ方（仕様書23章）。Alertの亜種として
+   Infoトーンをベースに、リンク付きの信頼情報エリアを構成する。 --- */
+.np-source-info {
+  display: flex;
+  flex-direction: column;
+  gap: var(--np-space-1);
+  padding: var(--np-space-4);
+  border-radius: var(--np-radius-md-rect);
+  background: var(--np-bg-sunken);
+  border: 1px solid var(--np-border-default);
+  font-size: var(--np-text-xs);
+  color: var(--np-text-secondary);
+}
+.np-source-info__label { font-weight: var(--np-weight-bold); color: var(--np-text-primary); }
+.np-source-info a { color: var(--np-text-link); }

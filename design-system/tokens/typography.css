@@ -1,0 +1,85 @@
+/* ==========================================================================
+   design-system/tokens/typography.css
+   看護薬理ノート Design System v2.0 — タイポグラフィトークン（Phase 1）
+
+   見出し：Shippori Mincho／本文：Zen Kaku Gothic New という既存の組み合わせは
+   確定済みのためそのまま維持する（藤丸さんの指示）。
+   日本語本文は15〜17px基準、薬剤名は大きく、というv2仕様書30章の指示を
+   タイプスケールとして数値化した。
+   ========================================================================== */
+
+:root {
+  /* ============================================================
+     フォントファミリー
+     ============================================================ */
+  --np-font-display: "Shippori Mincho", "Yu Mincho", "YuMincho",
+    "Hiragino Mincho ProN", "Noto Serif JP", serif;
+  --np-font-body: "Zen Kaku Gothic New", "Yu Gothic", "YuGothic",
+    "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Hiragino Sans", sans-serif;
+  --np-font-mono: "SFMono-Regular", "Consolas", "Menlo", "Cascadia Mono",
+    monospace;
+
+  /* ============================================================
+     タイプスケール（基準16px、日本語本文は仕様書30章の
+     「15〜17px基準」レンジ内。薬剤名（drug-nameクラス）は
+     この基準よりはっきり大きくする＝「薬剤名は特に大きく」）
+     ============================================================ */
+  --np-text-2xs: 0.75rem;  /* 12px：出典・免責等の最小文字 */
+  --np-text-xs: 0.8125rem; /* 13px：メタ情報・キャプション */
+  --np-text-sm: 0.875rem;  /* 14px：補助テキスト */
+  --np-text-base: 1rem;    /* 16px：本文の基準値 */
+  --np-text-md: 1.0625rem; /* 17px：本文（やや重要な文） */
+  --np-text-lg: 1.1875rem; /* 19px：小見出し・重要な数値 */
+  --np-text-xl: 1.375rem;  /* 22px：重要情報（Level3相当） */
+  --np-text-2xl: 1.625rem; /* 26px：セクション見出し */
+  --np-text-3xl: 2rem;     /* 32px：薬剤名（Level1） */
+  --np-text-4xl: 2.5rem;   /* 40px：将来のヒーロー等、限定利用 */
+
+  /* ============================================================
+     行間（日本語は英語UIより広めの行間が必要）
+     ============================================================ */
+  --np-leading-tight: 1.4;   /* 見出し */
+  --np-leading-snug: 1.6;    /* 短い強調テキスト */
+  --np-leading-base: 1.9;    /* 本文（既存サイトの行間を踏襲） */
+  --np-leading-relaxed: 2.0; /* 長文の添付文書引用等 */
+
+  /* ============================================================
+     字幅・字間
+     ============================================================ */
+  --np-tracking-tight: 0;
+  --np-tracking-wide: 0.02em;  /* 見出し */
+  --np-tracking-wider: 0.06em; /* ラベル・バッジ等の小さな全角文字 */
+
+  /* ============================================================
+     ウェイト
+     ============================================================ */
+  --np-weight-regular: 400;
+  --np-weight-medium: 500;
+  --np-weight-bold: 700;
+}
+
+/* 文字サイズ設定（小・中・大）：html要素にdata-fontsize属性を付け、
+   font-sizeを%で拡縮する。remベースのため、この1箇所の変更で
+   design-system全体に反映される（既存サイトの仕組みを踏襲）。 */
+html[data-fontsize="small"] { font-size: 87.5%; }
+html[data-fontsize="large"] { font-size: 112.5%; }
+
+/* ============================================================
+   ユーティリティクラス（デモ画面・コンポーネントの両方から使う）
+   「見出し内で1単語だけの強調（太字・斜体・色替え）は禁止」
+   （仕様書 v1.0/v2.0共通）という制約があるため、強調用の
+   インラインクラスはあえて用意していない。
+   ============================================================ */
+.np-font-display { font-family: var(--np-font-display); }
+.np-font-body { font-family: var(--np-font-body); }
+.np-font-mono { font-family: var(--np-font-mono); }
+
+.np-text-drug-name {
+  /* 「薬剤名は特に大きく」（仕様書30章）の実体化。DrugRow/DrugCard/
+     DrugDetailヘッダーで共通して使う。 */
+  font-family: var(--np-font-display);
+  font-size: var(--np-text-3xl);
+  font-weight: var(--np-weight-bold);
+  line-height: var(--np-leading-tight);
+  letter-spacing: var(--np-tracking-wide);
+}

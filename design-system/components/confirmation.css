@@ -1,0 +1,26 @@
+/* ==========================================================================
+   design-system/components/confirmation.css
+   Confirmation（Priority 3）
+
+   仕様書41章「マイ薬箱のUX：薬剤詳細画面：☆マイ薬箱に追加。追加後：
+   ✓マイ薬箱に追加済み、と状態を明確にする」。ボタンやアイコンの
+   「追加済み」状態を表す小さなインライン表示。Toast（一時的な通知）とは
+   別に、状態が変わったことを恒常的に示す用途に使う。
+   ========================================================================== */
+
+.np-confirmation {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--np-space-1);
+  font-size: var(--np-text-sm);
+  font-weight: var(--np-weight-bold);
+  color: var(--np-success);
+}
+.np-confirmation__icon { width: 16px; height: 16px; flex-shrink: 0; }
+
+/* トグル系ボタン（お気に入り等）の「追加済み」状態。
+   色だけに頼らずアイコンの塗り替え（fill: currentColor）も併用する。 */
+.np-toggle-added {
+  color: var(--np-brand-secondary);
+}
+.np-toggle-added svg { fill: currentColor; }

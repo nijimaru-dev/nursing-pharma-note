@@ -1,0 +1,81 @@
+/* ==========================================================================
+   design-system/components/form-input.css
+   Form / Input（Priority 1）
+
+   デジタル庁の「フォーカス・状態設計・タップ領域」の体系性を借りる。
+   ラベルは常時表示（placeholderだけに情報を持たせない）。
+   ========================================================================== */
+
+.np-field { display: flex; flex-direction: column; gap: var(--np-space-1); }
+
+.np-field__label {
+  font-size: var(--np-text-sm);
+  font-weight: var(--np-weight-bold);
+  color: var(--np-text-secondary);
+}
+
+.np-input {
+  min-height: var(--np-tap-target-min);
+  padding: var(--np-space-3) var(--np-space-4);
+  border-radius: var(--np-radius-md-rect);
+  border: 1px solid var(--np-border-strong);
+  background: var(--np-bg-raised);
+  color: var(--np-text-primary);
+  font-family: var(--np-font-body);
+  font-size: var(--np-text-md); /* 17px。日本語入力欄は本文よりやや大きく */
+  transition: border-color var(--np-duration-fast) var(--np-easing-standard),
+    box-shadow var(--np-duration-fast) var(--np-easing-standard);
+}
+.np-input::placeholder { color: var(--np-text-disabled); }
+.np-input:focus-visible {
+  outline: none;
+  border-color: var(--np-brand-primary);
+  box-shadow: 0 0 0 3px var(--np-brand-primary-tint);
+}
+.np-input:disabled { background: var(--np-bg-sunken); color: var(--np-text-disabled); cursor: not-allowed; }
+
+.np-field--error .np-input {
+  border-color: var(--np-error);
+}
+.np-field--error .np-input:focus-visible {
+  box-shadow: 0 0 0 3px var(--np-error-tint);
+}
+
+.np-field__helper {
+  font-size: var(--np-text-xs);
+  color: var(--np-text-secondary);
+}
+.np-field__helper--error {
+  color: var(--np-error);
+  font-weight: var(--np-weight-medium);
+}
+
+/* チェックボックス・ラジオ：タップ領域44px確保（見た目のサイズは変えない。
+   既存サイトの.pill button/.term-helpと同じ手法）。 */
+.np-checkbox,
+.np-radio {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--np-space-2);
+  cursor: pointer;
+  font-size: var(--np-text-base);
+}
+.np-checkbox input,
+.np-radio input {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  accent-color: var(--np-brand-primary);
+  flex-shrink: 0;
+}
+.np-checkbox input::before,
+.np-radio input::before {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: var(--np-tap-target-min);
+  height: var(--np-tap-target-min);
+  transform: translate(-50%, -50%);
+}

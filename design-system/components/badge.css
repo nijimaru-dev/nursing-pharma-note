@@ -1,0 +1,68 @@
+/* ==========================================================================
+   design-system/components/badge.css
+   Badge（Priority 1）
+
+   規格バッジ（[0.625mg][2.5mg][5mg]、仕様書14章）、薬効分類タグ、
+   剤形タグ、禁忌・注意・記載なしの状態バッジをすべてこのコンポーネントで
+   まかなう。色は原則tokens/color.cssのSemantic/Extendedを使い、
+   バッジごとに独自の色を発明しない。
+   ========================================================================== */
+
+.np-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--np-space-1);
+  padding: 3px var(--np-space-3);
+  border-radius: var(--np-radius-pill);
+  font-size: var(--np-text-xs);
+  font-weight: var(--np-weight-bold);
+  letter-spacing: var(--np-tracking-tight);
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.np-badge--neutral { background: var(--np-bg-sunken); color: var(--np-text-secondary); }
+.np-badge--brand { background: var(--np-brand-primary-tint); color: var(--np-brand-primary-dark); }
+.np-badge--accent { background: var(--np-drug-category-tint); color: var(--np-brand-accent-dark); }
+.np-badge--success { background: var(--np-success-tint); color: var(--np-success); }
+.np-badge--warning { background: var(--np-warning-tint); color: var(--np-warning); }
+.np-badge--error { background: var(--np-error-tint); color: var(--np-error); }
+.np-badge--info { background: var(--np-info-tint); color: var(--np-info); }
+
+/* --- 規格バッジ：数値は誤読防止のため等幅フォントで表示する
+   （既存サイトの.num-unitと同じ考え方）。タップで該当規格の詳細へ
+   遷移できるようbutton/a要素に適用することを想定。 --- */
+.np-badge--strength {
+  background: var(--np-bg-raised);
+  border: 1.5px solid var(--np-border-strong);
+  color: var(--np-text-primary);
+  font-family: var(--np-font-mono);
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+  min-height: 32px;
+  padding: 4px var(--np-space-3);
+}
+.np-badge--strength:hover,
+.np-badge--strength:focus-visible,
+.np-badge--strength[aria-current="true"] {
+  border-color: var(--np-brand-primary);
+  background: var(--np-brand-primary-tint);
+  color: var(--np-brand-primary-dark);
+}
+
+/* --- 禁忌・注意・記載なしバッジ：色だけに頼らずアイコン＋文字ラベルを
+   併記する（既存サイトの.itype/.pair-typeで確立済みの原則を継承）。 --- */
+.np-badge--interaction { padding: 4px var(--np-space-3); }
+.np-badge--interaction .np-badge__icon { width: 14px; height: 14px; flex-shrink: 0; }
+.np-badge--contraindicated { background: var(--np-interaction-contraindicated-tint); color: var(--np-interaction-contraindicated); }
+.np-badge--caution { background: var(--np-interaction-caution-tint); color: var(--np-interaction-caution); }
+.np-badge--none-found { background: var(--np-interaction-none-tint); color: var(--np-interaction-none); }
+
+/* --- 剤形バッジ：色ではなくアイコンで区別する方針
+   （tokens/color.css参照）。np-badge--neutralをベースに、アイコンで
+   剤形（錠剤／カプセル／散剤／注射剤等）を示す。 --- */
+.np-badge--dosage-form { background: var(--np-bg-sunken); color: var(--np-text-secondary); }
+.np-badge--dosage-form .np-badge__icon { width: 14px; height: 14px; flex-shrink: 0; }
+
+/* --- 施設採用薬・お気に入り済み等の状態バッジ --- */
+.np-badge--formulary { background: var(--np-success-tint); color: var(--np-success); }

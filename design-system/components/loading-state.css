@@ -1,0 +1,56 @@
+/* ==========================================================================
+   design-system/components/loading-state.css
+   LoadingState（Priority 3）
+
+   仕様書65章「単なる『Loading…』は禁止。『薬を調べています…』など、
+   ユーザーの文脈に合わせる」。文言は呼び出し側（各画面）で差し替える前提で、
+   ここでは器（スピナー＋文脈テキストのレイアウト）だけを定義する。
+   ========================================================================== */
+
+.np-loading-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--np-space-3);
+  padding: var(--np-space-7) var(--np-space-4);
+  color: var(--np-text-secondary);
+  font-size: var(--np-text-sm);
+}
+
+.np-loading-spinner {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 3px solid var(--np-brand-primary-tint);
+  border-top-color: var(--np-brand-primary);
+  animation: np-loading-spin 800ms linear infinite;
+}
+
+@keyframes np-loading-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* --- スケルトン（一覧の読み込み中プレースホルダー） --- */
+.np-skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--np-bg-sunken) 25%,
+    var(--np-border-default) 37%,
+    var(--np-bg-sunken) 63%
+  );
+  background-size: 400% 100%;
+  animation: np-skeleton-shimmer 1400ms ease infinite;
+  border-radius: var(--np-radius-sm);
+}
+.np-skeleton--text { height: 1em; margin: 4px 0; }
+.np-skeleton--row { height: 56px; border-radius: var(--np-radius-md-rect); }
+
+@keyframes np-skeleton-shimmer {
+  0% { background-position: 100% 50%; }
+  100% { background-position: 0 50%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .np-loading-spinner { animation-duration: 1600ms; }
+  .np-skeleton { animation: none; background: var(--np-bg-sunken); }
+}

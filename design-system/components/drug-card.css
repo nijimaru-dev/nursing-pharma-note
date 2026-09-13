@@ -1,0 +1,55 @@
+/* ==========================================================================
+   design-system/components/drug-card.css
+   DrugCard（検索結果一覧のList化に伴う補助コンポーネント）
+
+   仕様書17章「カードは、薬効分類／特徴的な情報／複数薬チェック／
+   マイ薬箱などのまとまりに限定する」の通り、検索結果の主役は
+   DrugRow（List）であり、DrugCardは「最近調べた薬」「よく使う薬」等の
+   “単一テーマをまとめるコンテナ”としてのみ使う（乱用しない）。
+
+   角丸はradius.cssの--np-radius-lg-rect（16px）。カード全体を浮かせる
+   影は既定では付けず、枠線のみで区切る（大量box-shadow禁止・仕様書28章）。
+   ========================================================================== */
+
+.np-drug-card {
+  display: block;
+  padding: var(--np-space-4);
+  border-radius: var(--np-radius-lg-rect);
+  border: 1px solid var(--np-border-default);
+  background: var(--np-bg-raised);
+  text-decoration: none;
+  color: var(--np-text-primary);
+  transition: border-color var(--np-duration-fast) var(--np-easing-standard),
+    background-color var(--np-duration-fast) var(--np-easing-standard);
+}
+.np-drug-card:hover,
+.np-drug-card:focus-visible,
+.np-drug-card:active {
+  border-color: var(--np-brand-primary);
+  background: var(--np-brand-primary-tint);
+}
+
+.np-drug-card__name {
+  font-family: var(--np-font-display);
+  font-weight: var(--np-weight-bold);
+  font-size: var(--np-text-lg);
+}
+.np-drug-card__generic {
+  font-size: var(--np-text-sm);
+  color: var(--np-text-secondary);
+}
+
+/* 横スクロールで並べる「最近調べた薬」「よく使う薬」用のレール。
+   カードを並べすぎない＝画面幅の1.5枚程度が見えるサイズに固定する。 */
+.np-drug-card-rail {
+  display: flex;
+  gap: var(--np-space-3);
+  overflow-x: auto;
+  padding-bottom: var(--np-space-1); /* スクロールバー分の余白 */
+  scrollbar-width: thin;
+}
+.np-drug-card-rail .np-drug-card {
+  flex: 0 0 auto;
+  min-width: 200px;
+  max-width: 240px;
+}

@@ -1,0 +1,60 @@
+/* ==========================================================================
+   design-system/components/error-state.css
+   ErrorState（Priority 3）
+
+   仕様書45章「検索して見つからなかった場合、『薬が見つかりませんでした』
+   だけにしない。次の行動の提案（商品名ではなく一般名で検索してみる／
+   一部の名前だけで検索する／規格を外して検索する 等）を提示する」。
+   ========================================================================== */
+
+.np-error-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: var(--np-space-3);
+  padding: var(--np-space-7) var(--np-space-4);
+}
+
+.np-error-state__icon {
+  width: 40px;
+  height: 40px;
+  color: var(--np-warning);
+}
+
+.np-error-state__title {
+  font-size: var(--np-text-md);
+  font-weight: var(--np-weight-bold);
+  color: var(--np-text-primary);
+}
+
+.np-error-state__suggestions {
+  text-align: left;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--np-space-2);
+  color: var(--np-text-secondary);
+  font-size: var(--np-text-sm);
+}
+/* liの中身は文章＋<span>の混在（規格を外した例文等）のため、liをflexに
+   すると文字とspanが別々のflexアイテムに分解されて表示が崩れる
+   （実機検証で発見）。position+::beforeの絶対配置で行頭記号を付ける、
+   既存サイトの.bullet-list li::beforeと同じ手法に統一した。 */
+.np-error-state__suggestions li {
+  position: relative;
+  padding-left: 1.2em;
+  line-height: var(--np-leading-base);
+}
+.np-error-state__suggestions li::before {
+  content: "・";
+  position: absolute;
+  left: 0;
+  color: var(--np-brand-primary);
+}
+.np-error-state__example {
+  font-family: var(--np-font-mono);
+  color: var(--np-text-primary);
+}

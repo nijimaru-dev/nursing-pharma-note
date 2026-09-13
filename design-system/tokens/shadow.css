@@ -1,0 +1,47 @@
+/* ==========================================================================
+   design-system/tokens/shadow.css
+   看護薬理ノート Design System v2.0 — シャドウトークン（Phase 1）
+
+   「大量のbox-shadowは禁止。重要な要素だけを視覚的に浮かせる」
+   （仕様書28章、PayPay等の現代的UIから学ぶべき点として明記）。
+   本当に画面上に「浮いている」要素（ドロップダウン・モーダル/シート・
+   トースト）にのみ影を使い、静置されたカード・通知ボックスには
+   既定では影を付けない（--np-shadow-noneが既定）。
+   ========================================================================== */
+
+:root {
+  --np-shadow-none: none;
+
+  /* raised：ごくわずかに持ち上げたい要素専用。多用しない
+     （例：フォーカス直後のSearchBox等、一時的な強調のみ）。 */
+  --np-shadow-raised: 0 1px 2px rgba(22, 33, 60, 0.04),
+    0 6px 18px -12px rgba(22, 33, 60, 0.12);
+
+  /* floating：本文の上に浮くポップオーバー（検索サジェスト・
+     ドロップダウンメニュー等）専用。 */
+  --np-shadow-floating: 0 10px 28px -8px rgba(22, 33, 60, 0.22),
+    0 4px 10px rgba(22, 33, 60, 0.10);
+
+  /* modal：モーダル・ボトムシート専用。画面上で最も強い影。 */
+  --np-shadow-modal: 0 20px 50px -12px rgba(22, 33, 60, 0.35);
+
+  /* toast：画面下部に浮くトースト通知専用。 */
+  --np-shadow-toast: 0 8px 24px -6px rgba(23, 33, 58, 0.4);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --np-shadow-raised: 0 1px 2px rgba(0, 0, 0, 0.4),
+      0 6px 18px -12px rgba(0, 0, 0, 0.6);
+    --np-shadow-floating: 0 10px 28px -8px rgba(0, 0, 0, 0.55),
+      0 4px 10px rgba(0, 0, 0, 0.35);
+    --np-shadow-modal: 0 20px 50px -12px rgba(0, 0, 0, 0.7);
+  }
+}
+:root[data-theme="dark"] {
+  --np-shadow-raised: 0 1px 2px rgba(0, 0, 0, 0.4),
+    0 6px 18px -12px rgba(0, 0, 0, 0.6);
+  --np-shadow-floating: 0 10px 28px -8px rgba(0, 0, 0, 0.55),
+    0 4px 10px rgba(0, 0, 0, 0.35);
+  --np-shadow-modal: 0 20px 50px -12px rgba(0, 0, 0, 0.7);
+}

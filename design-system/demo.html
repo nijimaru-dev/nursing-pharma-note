@@ -1,0 +1,762 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>看護薬理ノート Design System v2.0 — Demo（本番非公開）</title>
+<!--
+  design-system/demo.html
+  Design System Phase 1 の確認用デモ画面（Storybook相当）。
+  本番画面（site/配下）は一切変更していない。このファイルはdesign-system/
+  配下のトークン・コンポーネント・パターンCSSのみを読み込んで、
+  実際の見た目を確認するためだけに存在する。
+-->
+<link rel="stylesheet" href="tokens/color.css">
+<link rel="stylesheet" href="tokens/typography.css">
+<link rel="stylesheet" href="tokens/spacing.css">
+<link rel="stylesheet" href="tokens/radius.css">
+<link rel="stylesheet" href="tokens/shadow.css">
+<link rel="stylesheet" href="tokens/motion.css">
+
+<link rel="stylesheet" href="components/button.css">
+<link rel="stylesheet" href="components/form-input.css">
+<link rel="stylesheet" href="components/search-box.css">
+<link rel="stylesheet" href="components/drug-row.css">
+<link rel="stylesheet" href="components/drug-card.css">
+<link rel="stylesheet" href="components/badge.css">
+<link rel="stylesheet" href="components/alert.css">
+<link rel="stylesheet" href="components/tabs.css">
+<link rel="stylesheet" href="components/accordion.css">
+<link rel="stylesheet" href="components/toast.css">
+<link rel="stylesheet" href="components/bottom-navigation.css">
+<link rel="stylesheet" href="components/modal-sheet.css">
+<link rel="stylesheet" href="components/empty-state.css">
+<link rel="stylesheet" href="components/loading-state.css">
+<link rel="stylesheet" href="components/error-state.css">
+<link rel="stylesheet" href="components/confirmation.css">
+
+<link rel="stylesheet" href="patterns/search-results.css">
+<link rel="stylesheet" href="patterns/drug-detail.css">
+<link rel="stylesheet" href="patterns/interaction-check.css">
+<link rel="stylesheet" href="patterns/empty-state.css">
+
+<style>
+  /* ここから下はデモ画面専用のレイアウト（トークン・コンポーネントの
+     一部ではない）。本番実装時（Phase 2以降）には使わない。 */
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--np-bg-base);
+    color: var(--np-text-primary);
+    font-family: var(--np-font-body);
+    font-size: 1rem;
+    line-height: var(--np-leading-base);
+    padding-bottom: 80px; /* BottomNavigationの実プレビュー分の余白 */
+  }
+  h1, h2, h3 { font-family: var(--np-font-display); margin: 0; }
+  a { color: var(--np-text-link); }
+
+  .demo-shell { max-width: 860px; margin: 0 auto; padding: 0 20px 40px; }
+
+  .demo-topbar {
+    position: sticky; top: 0; z-index: 50;
+    display: flex; align-items: center; justify-content: space-between;
+    gap: var(--np-space-3);
+    padding: var(--np-space-3) 20px;
+    background: var(--np-bg-raised);
+    border-bottom: 1px solid var(--np-border-default);
+  }
+  .demo-topbar__title { font-size: var(--np-text-md); font-weight: var(--np-weight-bold); }
+  .demo-topbar__controls { display: flex; gap: var(--np-space-2); flex-wrap: wrap; }
+  .demo-topbar__controls button {
+    font-family: var(--np-font-body);
+    font-size: var(--np-text-2xs);
+    padding: 6px 10px;
+    border-radius: var(--np-radius-pill);
+    border: 1px solid var(--np-border-strong);
+    background: var(--np-bg-raised);
+    color: var(--np-text-secondary);
+    cursor: pointer;
+  }
+  .demo-topbar__controls button[aria-pressed="true"] {
+    background: var(--np-brand-primary);
+    border-color: var(--np-brand-primary);
+    color: #fff;
+  }
+
+  .demo-section { padding: var(--np-space-8) 0; border-bottom: 1px solid var(--np-border-default); }
+  .demo-section:last-child { border-bottom: none; }
+  .demo-section__eyebrow {
+    font-size: var(--np-text-2xs); font-weight: var(--np-weight-bold);
+    letter-spacing: var(--np-tracking-wider); text-transform: uppercase;
+    color: var(--np-brand-primary-dark); margin-bottom: var(--np-space-1);
+  }
+  .demo-section__title { font-size: var(--np-text-2xl); margin-bottom: var(--np-space-2); }
+  .demo-section__note {
+    font-size: var(--np-text-sm); color: var(--np-text-secondary);
+    max-width: 68ch; margin-bottom: var(--np-space-6); line-height: var(--np-leading-base);
+  }
+  .demo-block { margin-bottom: var(--np-space-6); }
+  .demo-block__label {
+    font-size: var(--np-text-xs); font-weight: var(--np-weight-bold);
+    color: var(--np-text-secondary); margin-bottom: var(--np-space-2);
+  }
+  .demo-row { display: flex; flex-wrap: wrap; gap: var(--np-space-3); align-items: center; }
+  .demo-boxed { border: 1px dashed var(--np-border-strong); border-radius: var(--np-radius-md-rect); padding: var(--np-space-4); }
+
+  /* --- 色スウォッチ --- */
+  .demo-swatch { display: flex; flex-direction: column; gap: 6px; width: 128px; }
+  .demo-swatch__chip { height: 56px; border-radius: var(--np-radius-sm); border: 1px solid var(--np-border-default); }
+  .demo-swatch__name { font-size: var(--np-text-2xs); font-weight: var(--np-weight-bold); }
+  .demo-swatch__hex { font-family: var(--np-font-mono); font-size: var(--np-text-2xs); color: var(--np-text-secondary); }
+
+  /* --- スペーシング --- */
+  .demo-space-bar { display: flex; align-items: center; gap: var(--np-space-3); margin-bottom: var(--np-space-2); }
+  .demo-space-bar__fill { height: 16px; background: var(--np-brand-primary); border-radius: 2px; }
+  .demo-space-bar__label { font-family: var(--np-font-mono); font-size: var(--np-text-xs); width: 90px; flex-shrink: 0; }
+
+  /* --- 角丸 --- */
+  .demo-radius-swatch { width: 88px; height: 88px; background: var(--np-brand-primary-tint); border: 1.5px solid var(--np-brand-primary); display: flex; align-items: center; justify-content: center; font-size: var(--np-text-2xs); color: var(--np-brand-primary-dark); text-align: center; }
+
+  /* --- 影 --- */
+  .demo-shadow-swatch { width: 140px; height: 88px; background: var(--np-bg-raised); border-radius: var(--np-radius-md-rect); display: flex; align-items: center; justify-content: center; font-size: var(--np-text-2xs); color: var(--np-text-secondary); }
+
+  /* --- タイプスケール --- */
+  .demo-type-row { display: flex; align-items: baseline; gap: var(--np-space-4); margin-bottom: var(--np-space-3); }
+  .demo-type-row__meta { font-family: var(--np-font-mono); font-size: var(--np-text-2xs); color: var(--np-text-secondary); width: 130px; flex-shrink: 0; }
+
+  /* BottomNavigationは position:fixed のプレビュー扱い */
+  .demo-bottom-nav-preview { position: relative; height: 56px; border: 1px dashed var(--np-border-strong); border-radius: var(--np-radius-md-rect); overflow: hidden; }
+  .demo-bottom-nav-preview .np-bottom-nav { position: absolute; }
+
+  .demo-sheet-trigger-area { position: relative; min-height: 60px; }
+</style>
+</head>
+<body>
+
+<div class="demo-topbar">
+  <span class="demo-topbar__title">💊 Design System v2.0 Demo</span>
+  <div class="demo-topbar__controls" role="group" aria-label="デモ表示設定">
+    <button type="button" data-theme-choice="system" aria-pressed="true">自動</button>
+    <button type="button" data-theme-choice="light" aria-pressed="false">ライト</button>
+    <button type="button" data-theme-choice="dark" aria-pressed="false">ダーク</button>
+    <button type="button" data-fontsize-choice="small" aria-pressed="false">文字小</button>
+    <button type="button" data-fontsize-choice="medium" aria-pressed="true">文字中</button>
+    <button type="button" data-fontsize-choice="large" aria-pressed="false">文字大</button>
+  </div>
+</div>
+
+<div class="demo-shell">
+
+  <!-- ============================================================
+       Tokens
+       ============================================================ -->
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Tokens</p>
+    <h2 class="demo-section__title">Color</h2>
+    <p class="demo-section__note">Brand（Primary/Secondary/Accent）／Global・Semantic（Text/Background/Border/Success/Warning/Error/Info）／Extendedの3層構造（PayPay App Style Guideの考え方）。</p>
+
+    <div class="demo-block">
+      <p class="demo-block__label">Brand</p>
+      <div class="demo-row">
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-primary)"></div><span class="demo-swatch__name">Primary（確定）</span><span class="demo-swatch__hex">#0c5f57</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-secondary)"></div><span class="demo-swatch__name">Secondary（要確認）</span><span class="demo-swatch__hex">#a8791f</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-accent)"></div><span class="demo-swatch__name">Accent（要確認）</span><span class="demo-swatch__hex">#e8583f</span></div>
+      </div>
+    </div>
+
+    <div class="demo-block">
+      <p class="demo-block__label">Semantic</p>
+      <div class="demo-row">
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-success)"></div><span class="demo-swatch__name">Success</span><span class="demo-swatch__hex">#3e6f4f</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-warning)"></div><span class="demo-swatch__name">Warning</span><span class="demo-swatch__hex">#a8720c</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-error)"></div><span class="demo-swatch__name">Error</span><span class="demo-swatch__hex">#a3341c</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-info)"></div><span class="demo-swatch__name">Info</span><span class="demo-swatch__hex">#2f5fa8</span></div>
+      </div>
+    </div>
+
+    <div class="demo-block">
+      <p class="demo-block__label">Base / Text / Border</p>
+      <div class="demo-row">
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-bg-base); border-color: var(--np-border-strong);"></div><span class="demo-swatch__name">Background base</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-text-primary)"></div><span class="demo-swatch__name">Text primary</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-text-secondary)"></div><span class="demo-swatch__name">Text secondary</span></div>
+      </div>
+    </div>
+
+    <div class="demo-block">
+      <p class="demo-block__label">Extended（意図的に色数を増やしていない）</p>
+      <div class="demo-row">
+        <span class="np-badge np-badge--contraindicated">併用禁忌 = Error</span>
+        <span class="np-badge np-badge--caution">併用注意 = Warning</span>
+        <span class="np-badge np-badge--none-found">記載なし = Success</span>
+        <span class="np-badge np-badge--accent">薬効分類（全分類共通1色） = Accent</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Tokens</p>
+    <h2 class="demo-section__title">Typography</h2>
+    <p class="demo-section__note">見出し：Shippori Mincho／本文：Zen Kaku Gothic New（確定・既存踏襲）。日本語本文15〜17px基準、薬剤名は特に大きく。</p>
+    <div class="demo-type-row"><span class="demo-type-row__meta">3xl / 32px 薬剤名</span><span class="np-text-drug-name">メインテート錠2.5mg</span></div>
+    <div class="demo-type-row"><span class="demo-type-row__meta">2xl / 26px 見出し</span><span style="font-family:var(--np-font-display); font-size:var(--np-text-2xl); font-weight:700;">看護で見るところ</span></div>
+    <div class="demo-type-row"><span class="demo-type-row__meta">xl / 22px 重要情報</span><span style="font-size:var(--np-text-xl); font-weight:700;">この薬は何？</span></div>
+    <div class="demo-type-row"><span class="demo-type-row__meta">md / 17px 本文(やや重要)</span><span style="font-size:var(--np-text-md);">β1受容体を選択的に遮断し、心拍数・血圧を下げる薬です。</span></div>
+    <div class="demo-type-row"><span class="demo-type-row__meta">base / 16px 本文</span><span style="font-size:var(--np-text-base);">高血圧症、狭心症、頻脈性心房細動に使用されます。</span></div>
+    <div class="demo-type-row"><span class="demo-type-row__meta">sm / 14px 補助</span><span style="font-size:var(--np-text-sm); color:var(--np-text-secondary);">一般名：ビソプロロールフマル酸塩</span></div>
+    <div class="demo-type-row"><span class="demo-type-row__meta">xs / 13px メタ</span><span style="font-size:var(--np-text-xs); color:var(--np-text-secondary);">情報源：PMDA添付文書情報</span></div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Tokens</p>
+    <h2 class="demo-section__title">Spacing</h2>
+    <p class="demo-section__note">デジタル庁の考え方：8px基準単位の倍数スケール。余白の大小で関連性・階層を表現する。</p>
+    <div class="demo-space-bar"><span class="demo-space-bar__label">space-1 / 4px</span><div class="demo-space-bar__fill" style="width:4px;"></div></div>
+    <div class="demo-space-bar"><span class="demo-space-bar__label">space-2 / 8px</span><div class="demo-space-bar__fill" style="width:8px;"></div></div>
+    <div class="demo-space-bar"><span class="demo-space-bar__label">space-4 / 16px</span><div class="demo-space-bar__fill" style="width:16px;"></div></div>
+    <div class="demo-space-bar"><span class="demo-space-bar__label">space-5 / 24px</span><div class="demo-space-bar__fill" style="width:24px;"></div></div>
+    <div class="demo-space-bar"><span class="demo-space-bar__label">space-7 / 48px</span><div class="demo-space-bar__fill" style="width:48px;"></div></div>
+    <div class="demo-space-bar"><span class="demo-space-bar__label">space-8 / 64px</span><div class="demo-space-bar__fill" style="width:64px;"></div></div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Tokens</p>
+    <h2 class="demo-section__title">Radius</h2>
+    <p class="demo-section__note">デジタル庁の5段階システム。正方形と長方形で値を分け、コンポーネントごとに個別調整する（全部同じ角丸の機械的適用はしない）。</p>
+    <div class="demo-row">
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-none);">none / 0</div>
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-sm);">sm / 8px</div>
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-md-square);">md-square<br>16px</div>
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-md-rect);">md-rect<br>12px</div>
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-lg-square);">lg-square<br>32px</div>
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-lg-rect);">lg-rect<br>16px</div>
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-full);">full<br>50%</div>
+      <div class="demo-radius-swatch" style="border-radius:var(--np-radius-pill);">pill</div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Tokens</p>
+    <h2 class="demo-section__title">Shadow</h2>
+    <p class="demo-section__note">大量のbox-shadowは禁止。本当に「浮いている」要素だけに使う。</p>
+    <div class="demo-row">
+      <div class="demo-shadow-swatch" style="box-shadow:var(--np-shadow-none);">none（既定）</div>
+      <div class="demo-shadow-swatch" style="box-shadow:var(--np-shadow-raised);">raised</div>
+      <div class="demo-shadow-swatch" style="box-shadow:var(--np-shadow-floating);">floating</div>
+      <div class="demo-shadow-swatch" style="box-shadow:var(--np-shadow-modal);">modal</div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       Components — Priority 1
+       ============================================================ -->
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 1</p>
+    <h2 class="demo-section__title">Button</h2>
+    <div class="demo-block">
+      <div class="demo-row">
+        <button type="button" class="np-btn np-btn--primary">薬の詳細を見る</button>
+        <button type="button" class="np-btn np-btn--secondary">添付文書を見る</button>
+        <button type="button" class="np-btn np-btn--ghost">一括リセット</button>
+        <button type="button" class="np-btn np-btn--accent">複数の薬を確認する</button>
+      </div>
+    </div>
+    <div class="demo-block">
+      <div class="demo-row">
+        <button type="button" class="np-btn np-btn--primary np-btn--sm">マイ薬箱に追加</button>
+        <button type="button" class="np-btn np-btn--primary np-btn--lg">薬を調べる</button>
+        <button type="button" class="np-btn np-btn--primary" disabled>選択してください</button>
+        <button type="button" class="np-btn np-btn--primary np-btn--loading">保存しています</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 1</p>
+    <h2 class="demo-section__title">Form / Input</h2>
+    <div class="demo-block" style="max-width:360px;">
+      <div class="np-field">
+        <label class="np-field__label" for="demo-input-1">院内処方リストの薬剤名</label>
+        <input class="np-input" id="demo-input-1" type="text" placeholder="例：メインテート">
+        <span class="np-field__helper">一般名でも検索できます。</span>
+      </div>
+    </div>
+    <div class="demo-block" style="max-width:360px;">
+      <div class="np-field np-field--error">
+        <label class="np-field__label" for="demo-input-2">薬剤名</label>
+        <input class="np-input" id="demo-input-2" type="text" value="メインテート2.5">
+        <span class="np-field__helper np-field__helper--error">該当する薬が見つかりません。規格を外して検索してみてください。</span>
+      </div>
+    </div>
+    <div class="demo-block demo-row">
+      <label class="np-checkbox"><input type="checkbox" checked> 施設採用薬のみ表示</label>
+      <label class="np-radio"><input type="radio" name="demo-radio" checked> 商品名で検索</label>
+      <label class="np-radio"><input type="radio" name="demo-radio"> 一般名で検索</label>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 1</p>
+    <h2 class="demo-section__title">SearchBox</h2>
+    <p class="demo-section__note">仕様書11章「検索欄を最重要UIにする」。サジェストは規格を隠さず全て表示する（12・13章）。</p>
+    <div class="demo-block" style="position:relative; max-width:420px;">
+      <div class="np-search-box">
+        <svg class="np-search-box__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.2" y2="16.2"/></svg>
+        <input class="np-search-box__input" type="search" value="メイン" placeholder="薬の名前・一般名を入力（例：メインテート）">
+        <button type="button" class="np-search-box__clear" aria-label="検索語をクリア">×</button>
+      </div>
+      <div class="np-search-suggestions" style="position:static; margin-top:6px; box-shadow:none; border-style:dashed;">
+        <a class="np-search-suggestion" href="#" data-active="true">
+          <span class="np-search-suggestion__name"><span class="np-search-suggestion__match">メイン</span>テート錠0.625mg</span>
+          <span class="np-search-suggestion__meta">ビソプロロールフマル酸塩・循環器</span>
+        </a>
+        <a class="np-search-suggestion" href="#">
+          <span class="np-search-suggestion__name"><span class="np-search-suggestion__match">メイン</span>テート錠2.5mg</span>
+          <span class="np-search-suggestion__meta">ビソプロロールフマル酸塩・循環器</span>
+        </a>
+        <a class="np-search-suggestion" href="#">
+          <span class="np-search-suggestion__name"><span class="np-search-suggestion__match">メイン</span>テート錠5mg</span>
+          <span class="np-search-suggestion__meta">ビソプロロールフマル酸塩・循環器</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 1</p>
+    <h2 class="demo-section__title">DrugRow（検索結果の主力・List型）</h2>
+    <p class="demo-section__note">カードを乱用せず、リスト＋軽い区切りを基本にする（16章）。メインテートのような「薬剤群」は規格バッジを隠さず並べる（メインテート2.5mg問題の再発防止）。</p>
+    <ul class="np-drug-list demo-boxed">
+      <li>
+        <div class="np-drug-row np-drug-row--group">
+          <span class="np-drug-row__group-label">薬剤群</span>
+          <span class="np-drug-row__brand">メインテート錠</span>
+          <span class="np-drug-row__generic">ビソプロロールフマル酸塩</span>
+          <div class="np-drug-row__strengths">
+            <button type="button" class="np-badge np-badge--strength">0.625mg</button>
+            <button type="button" class="np-badge np-badge--strength" aria-current="true">2.5mg</button>
+            <button type="button" class="np-badge np-badge--strength">5mg</button>
+            <span class="np-badge np-badge--accent">β1遮断薬</span>
+          </div>
+        </div>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">カロナール錠500mg</span>
+          <span class="np-drug-row__generic">アセトアミノフェン</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--neutral">錠剤</span>
+            <span class="np-badge np-badge--accent">解熱鎮痛薬</span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="np-drug-row" href="#">
+          <span class="np-drug-row__brand">ロキソニン錠60mg</span>
+          <span class="np-drug-row__generic">ロキソプロフェンナトリウム水和物</span>
+          <div class="np-drug-row__meta">
+            <span class="np-badge np-badge--neutral">錠剤</span>
+            <span class="np-badge np-badge--accent">解熱鎮痛薬</span>
+            <span class="np-badge np-badge--formulary">施設採用薬</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 1</p>
+    <h2 class="demo-section__title">Badge</h2>
+    <div class="demo-row">
+      <span class="np-badge np-badge--neutral">錠剤</span>
+      <span class="np-badge np-badge--brand">Brand</span>
+      <span class="np-badge np-badge--accent">循環器</span>
+      <span class="np-badge np-badge--success">Success</span>
+      <span class="np-badge np-badge--warning">Warning</span>
+      <span class="np-badge np-badge--error">Error</span>
+      <span class="np-badge np-badge--info">Info</span>
+      <span class="np-badge np-badge--formulary">施設採用薬</span>
+      <button type="button" class="np-badge np-badge--strength">2.5mg</button>
+      <span class="np-badge np-badge--interaction np-badge--contraindicated">
+        <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><line x1="5.6" y1="18.4" x2="18.4" y2="5.6"/></svg>
+        併用禁忌
+      </span>
+      <span class="np-badge np-badge--interaction np-badge--caution">
+        <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="13.5"/><circle cx="12" cy="16.3" r="0.9" fill="currentColor" stroke="none"/></svg>
+        併用注意
+      </span>
+      <span class="np-badge np-badge--interaction np-badge--none-found">
+        <svg class="np-badge__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.5 2.5 5.5-6"/></svg>
+        記載なし
+      </span>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 1</p>
+    <h2 class="demo-section__title">Alert / Notice / SourceInfo</h2>
+    <div class="demo-block">
+      <div class="np-alert np-alert--error">
+        <svg class="np-alert__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="14"/><circle cx="12" cy="17" r="0.8" fill="currentColor" stroke="none"/></svg>
+        <div>
+          <p class="np-alert__title">重要：注意すべき副作用</p>
+          <p class="np-alert__body">徐脈、房室ブロックがあらわれることがあります。</p>
+        </div>
+      </div>
+    </div>
+    <div class="demo-block">
+      <div class="np-alert np-alert--warning">
+        <svg class="np-alert__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="14"/><circle cx="12" cy="17" r="0.8" fill="currentColor" stroke="none"/></svg>
+        <div><p class="np-alert__title">併用注意</p><p class="np-alert__body">低カリウム血症によりジギタリス中毒が発現しやすくなります。</p></div>
+      </div>
+    </div>
+    <div class="demo-block">
+      <span class="np-alert np-alert--info np-alert--compact">ⓘ 医療行為・処方判断の代替ではありません</span>
+    </div>
+    <div class="demo-block" style="max-width:420px;">
+      <div class="np-source-info">
+        <span class="np-source-info__label">情報源</span>
+        <span>PMDA添付文書情報</span>
+        <span>最終確認：2026/09/12</span>
+        <a href="#">原文を見る →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components</p>
+    <h2 class="demo-section__title">DrugCard（限定利用）</h2>
+    <p class="demo-section__note">「最近調べた薬」「よく使う薬」等のまとまりだけに使う。検索結果には使わない。</p>
+    <div class="np-drug-card-rail">
+      <a class="np-drug-card" href="#"><span class="np-drug-card__name">カロナール500mg</span><br><span class="np-drug-card__generic">アセトアミノフェン</span></a>
+      <a class="np-drug-card" href="#"><span class="np-drug-card__name">ロキソニン60mg</span><br><span class="np-drug-card__generic">ロキソプロフェン</span></a>
+      <a class="np-drug-card" href="#"><span class="np-drug-card__name">メインテート2.5mg</span><br><span class="np-drug-card__generic">ビソプロロール</span></a>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       Components — Priority 2
+       ============================================================ -->
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 2</p>
+    <h2 class="demo-section__title">Tabs</h2>
+    <div class="np-tabs">
+      <div class="np-tab-list" role="tablist" aria-label="デモタブ">
+        <button type="button" class="np-tab" role="tab" aria-selected="true">効能・効果</button>
+        <button type="button" class="np-tab" role="tab" aria-selected="false">用法・用量</button>
+        <button type="button" class="np-tab" role="tab" aria-selected="false">禁忌</button>
+        <button type="button" class="np-tab" role="tab" aria-selected="false">施設の注意点</button>
+      </div>
+      <div class="np-tab-panel" role="tabpanel">高血圧症、狭心症、頻脈性心房細動における心拍数調節に用いられます。</div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 2</p>
+    <h2 class="demo-section__title">Accordion</h2>
+    <details class="np-accordion" open>
+      <summary class="np-accordion__summary">適用上の注意<svg class="np-accordion__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><polyline points="6 9 12 15 18 9"/></svg></summary>
+      <div class="np-accordion__body">脈拍数の変動に注意し、原則として1日1回投与する。</div>
+    </details>
+    <details class="np-accordion">
+      <summary class="np-accordion__summary">薬物動態<svg class="np-accordion__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><polyline points="6 9 12 15 18 9"/></svg></summary>
+      <div class="np-accordion__body">経口投与後速やかに吸収され、消失半減期は約9時間。</div>
+    </details>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 2</p>
+    <h2 class="demo-section__title">Toast</h2>
+    <div class="demo-row">
+      <button type="button" class="np-btn np-btn--secondary" id="demo-toast-trigger">トースト表示を試す</button>
+    </div>
+    <div class="np-toast-region" id="demo-toast-region" style="position:static; transform:none; margin-top:var(--np-space-4); align-items:flex-start;">
+      <div class="np-toast np-toast--visible" style="position:static;">
+        マイ薬箱に追加しました
+        <button type="button" class="np-toast__undo">元に戻す</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 2</p>
+    <h2 class="demo-section__title">Bottom Navigation</h2>
+    <p class="demo-section__note">スマホアプリとしての利用・ホーム画面追加を想定した雛形。採否・項目数はPhase 2（Home刷新）で決定する。</p>
+    <div class="demo-bottom-nav-preview">
+      <nav class="np-bottom-nav" aria-label="デモ用ボトムナビゲーション">
+        <a class="np-bottom-nav__item" href="#" aria-current="page">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/></svg>
+          ホーム
+        </a>
+        <a class="np-bottom-nav__item" href="#">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.2" y2="16.2"/></svg>
+          検索
+        </a>
+        <a class="np-bottom-nav__item np-bottom-nav__item--emphasis" href="#">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="7" height="7" rx="1"/><rect x="13" y="4" width="7" height="7" rx="1"/><path d="M4 15h16"/></svg>
+          チェック
+        </a>
+        <a class="np-bottom-nav__item" href="#">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2.5 15.09 8.76 22 9.77 17 14.64 18.18 21.52 12 18.27 5.82 21.52 7 14.64 2 9.77 8.91 8.76 12 2.5"/></svg>
+          マイ薬箱
+        </a>
+        <a class="np-bottom-nav__item" href="#">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><line x1="12" y1="16" x2="12" y2="12"/><circle cx="12" cy="8.2" r="0.6" fill="currentColor"/></svg>
+          その他
+        </a>
+      </nav>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 2</p>
+    <h2 class="demo-section__title">Modal / Sheet</h2>
+    <div class="demo-sheet-trigger-area">
+      <button type="button" class="np-btn np-btn--secondary" id="demo-sheet-trigger">ボトムシートを開く</button>
+    </div>
+    <div id="demo-sheet-overlay" class="np-sheet-overlay" hidden></div>
+    <div id="demo-sheet" class="np-sheet" hidden role="dialog" aria-modal="true" aria-labelledby="demo-sheet-title">
+      <div class="np-sheet__handle"></div>
+      <p class="np-sheet__title" id="demo-sheet-title">用語の説明</p>
+      <p>併用禁忌：一緒に使ってはいけない組み合わせです。</p>
+      <button type="button" class="np-btn np-btn--primary" id="demo-sheet-close" style="margin-top:var(--np-space-4);">閉じる</button>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       Components — Priority 3
+       ============================================================ -->
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Components ／ Priority 3</p>
+    <h2 class="demo-section__title">Empty State / Loading State / Error State / Confirmation</h2>
+
+    <div class="demo-block demo-boxed">
+      <div class="np-empty-state">
+        <svg class="np-empty-state__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.2" y2="16.2"/></svg>
+        <p class="np-empty-state__title">まだ調べた薬はありません</p>
+        <p class="np-empty-state__body">薬を検索すると、ここに最近調べた薬が表示されます。</p>
+      </div>
+    </div>
+
+    <div class="demo-block demo-boxed">
+      <div class="np-loading-state">
+        <div class="np-loading-spinner" role="status" aria-label="読み込み中"></div>
+        <span>薬を調べています…</span>
+      </div>
+      <div style="display:flex; flex-direction:column; gap:8px; margin-top:var(--np-space-3);">
+        <div class="np-skeleton np-skeleton--row"></div>
+        <div class="np-skeleton np-skeleton--row"></div>
+      </div>
+    </div>
+
+    <div class="demo-block demo-boxed">
+      <div class="np-error-state">
+        <svg class="np-error-state__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.2" y2="16.2"/></svg>
+        <p class="np-error-state__title">「メインテート2.5」に一致する薬が見つかりませんでした</p>
+        <ul class="np-error-state__suggestions">
+          <li>商品名ではなく一般名で検索してみる（例：ビソプロロール）</li>
+          <li>一部の名前だけで検索する（例：<span class="np-error-state__example">メインテート2.5</span> → <span class="np-error-state__example">メインテート</span>）</li>
+          <li>規格を外して検索する</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="demo-block demo-row">
+      <span class="np-confirmation">
+        <svg class="np-confirmation__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+        マイ薬箱に追加済み
+      </span>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       Patterns
+       ============================================================ -->
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Patterns</p>
+    <h2 class="demo-section__title">SearchResults</h2>
+    <div class="np-pattern-search-results demo-boxed">
+      <p class="np-pattern-search-results__summary">「メインテート」の検索結果：<strong>1</strong>件の薬剤群</p>
+      <ul class="np-drug-list">
+        <li>
+          <div class="np-drug-row np-drug-row--group">
+            <span class="np-drug-row__group-label">薬剤群</span>
+            <span class="np-drug-row__brand">メインテート錠</span>
+            <span class="np-drug-row__generic">ビソプロロールフマル酸塩・β1遮断薬</span>
+            <div class="np-drug-row__strengths">
+              <button type="button" class="np-badge np-badge--strength">0.625mg</button>
+              <button type="button" class="np-badge np-badge--strength">2.5mg</button>
+              <button type="button" class="np-badge np-badge--strength">5mg</button>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Patterns</p>
+    <h2 class="demo-section__title">DrugDetail</h2>
+    <div class="np-pattern-drug-detail demo-boxed">
+      <div class="np-drug-header">
+        <div class="np-drug-header__tags">
+          <span class="np-badge np-badge--accent">循環器</span>
+          <span class="np-badge np-badge--accent">β1遮断薬</span>
+        </div>
+        <span class="np-text-drug-name">メインテート錠2.5mg</span>
+        <span class="np-drug-header__generic">ビソプロロールフマル酸塩</span>
+        <div class="np-drug-header__actions">
+          <button type="button" class="np-btn np-btn--secondary np-btn--sm">☆ マイ薬箱に追加</button>
+        </div>
+      </div>
+
+      <p class="np-drug-summary">高血圧症・狭心症・頻脈性不整脈に使われる薬です。心臓の拍動を穏やかにします。</p>
+
+      <div class="np-drug-section">
+        <p class="np-drug-section__label">何に使う？</p>
+        <p class="np-drug-section__body">本態性高血圧症（軽症〜中等症）、狭心症、頻脈性心房細動に用いられます。</p>
+      </div>
+      <div class="np-drug-section">
+        <p class="np-drug-section__label">用法・用量</p>
+        <p class="np-drug-section__body">通常成人には1日1回0.625〜5mgを経口投与します。</p>
+      </div>
+      <div class="np-drug-section np-drug-section--nursing-focus">
+        <p class="np-drug-section__label">看護で見るところ</p>
+        <p class="np-drug-section__body">投与前後の脈拍・血圧、めまい・倦怠感の有無、自己判断中断の有無を確認します。</p>
+      </div>
+      <div class="np-drug-section">
+        <p class="np-drug-section__label">副作用</p>
+        <p class="np-drug-section__body">徐脈、めまい、倦怠感があらわれることがあります。</p>
+      </div>
+      <div class="np-drug-section">
+        <p class="np-drug-section__label">禁忌・注意</p>
+        <div class="np-alert np-alert--error" style="margin-top:var(--np-space-2);">
+          <div><p class="np-alert__body">高度の徐脈、房室ブロックのある患者には投与しないこと。</p></div>
+        </div>
+      </div>
+      <div class="np-drug-section">
+        <p class="np-drug-section__label">飲み合わせ</p>
+        <div class="np-alert np-alert--warning" style="margin-top:var(--np-space-2);">
+          <div><p class="np-alert__body">ベラパミル塩酸塩との併用で、房室伝導抑制が増強されることがあります。</p></div>
+        </div>
+      </div>
+
+      <div class="np-drug-footer-info">
+        <div class="np-source-info">
+          <span class="np-source-info__label">情報源</span>
+          <span>PMDA添付文書情報を基に編集・加工しています。</span>
+          <span>最終確認：2026/09/12</span>
+          <a href="#">添付文書を見る →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Patterns</p>
+    <h2 class="demo-section__title">InteractionCheck</h2>
+    <div class="np-pattern-interaction-check demo-boxed">
+      <ul class="np-selected-drugs">
+        <li class="np-selected-drug-chip">カロナール500mg<button type="button" class="np-selected-drug-chip__remove" aria-label="カロナール500mgを削除">×</button></li>
+        <li class="np-selected-drug-chip">ワーファリン<button type="button" class="np-selected-drug-chip__remove" aria-label="ワーファリンを削除">×</button></li>
+        <li class="np-selected-drug-chip">メインテート2.5mg<button type="button" class="np-selected-drug-chip__remove" aria-label="メインテート2.5mgを削除">×</button></li>
+      </ul>
+      <button type="button" class="np-btn np-btn--accent">組み合わせを確認</button>
+      <div class="np-pattern-interaction-check__results">
+        <div class="np-alert np-alert--warning">
+          <svg class="np-alert__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3l9-16z"/><line x1="12" y1="10" x2="12" y2="14"/><circle cx="12" cy="17" r="0.8" fill="currentColor" stroke="none"/></svg>
+          <div>
+            <p class="np-interaction-result__pair">カロナール <span class="np-interaction-result__x">×</span> ワーファリン</p>
+            <p class="np-alert__body">ワルファリンの作用が増強され、出血傾向が強まることがあります。</p>
+          </div>
+        </div>
+        <div class="np-alert np-alert--success">
+          <svg class="np-alert__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.5 2.5 5.5-6"/></svg>
+          <div>
+            <p class="np-interaction-result__pair">カロナール <span class="np-interaction-result__x">×</span> メインテート2.5mg</p>
+            <p class="np-alert__body">記載されている相互作用は見つかりませんでした。安全という意味ではありません。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Patterns</p>
+    <h2 class="demo-section__title">EmptyState（検索0件の文脈）</h2>
+    <div class="np-pattern-empty-state np-pattern-empty-state--search-zero demo-boxed">
+      <div class="np-empty-state">
+        <svg class="np-empty-state__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.2" y2="16.2"/></svg>
+        <p class="np-empty-state__title">見つかりませんでした</p>
+      </div>
+      <div class="np-error-state">
+        <ul class="np-error-state__suggestions">
+          <li>商品名ではなく一般名で検索してみる</li>
+          <li>一部の名前だけで検索する</li>
+          <li>規格を外して検索する（例：<span class="np-error-state__example">メインテート2.5</span> → <span class="np-error-state__example">メインテート</span>）</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+/* デモ画面専用の最小限のJS。site/js/settings.jsとは無関係で、
+   本番のテーマ・文字サイズ切替機能には一切影響しない。 */
+(function () {
+  document.querySelectorAll("[data-theme-choice]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var choice = btn.dataset.themeChoice;
+      if (choice === "system") delete document.documentElement.dataset.theme;
+      else document.documentElement.dataset.theme = choice;
+      document.querySelectorAll("[data-theme-choice]").forEach(function (b) {
+        b.setAttribute("aria-pressed", String(b === btn));
+      });
+    });
+  });
+  document.querySelectorAll("[data-fontsize-choice]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var choice = btn.dataset.fontsizeChoice;
+      if (choice === "medium") delete document.documentElement.dataset.fontsize;
+      else document.documentElement.dataset.fontsize = choice;
+      document.querySelectorAll("[data-fontsize-choice]").forEach(function (b) {
+        b.setAttribute("aria-pressed", String(b === btn));
+      });
+    });
+  });
+
+  // Tabs（roving tabindex簡易版）
+  var tabs = Array.from(document.querySelectorAll(".np-tab"));
+  tabs.forEach(function (tab) {
+    tab.addEventListener("click", function () {
+      tabs.forEach(function (t) { t.setAttribute("aria-selected", "false"); });
+      tab.setAttribute("aria-selected", "true");
+    });
+  });
+
+  // Toast（表示トグルのデモ）
+  var toastTrigger = document.getElementById("demo-toast-trigger");
+  var toastRegion = document.getElementById("demo-toast-region");
+  if (toastTrigger) {
+    toastTrigger.addEventListener("click", function () {
+      toastRegion.style.display = toastRegion.style.display === "none" ? "flex" : "none";
+    });
+  }
+
+  // Modal/Sheet（開閉のデモ）
+  var sheetTrigger = document.getElementById("demo-sheet-trigger");
+  var sheet = document.getElementById("demo-sheet");
+  var sheetOverlay = document.getElementById("demo-sheet-overlay");
+  var sheetClose = document.getElementById("demo-sheet-close");
+  function openSheet() { sheet.hidden = false; sheetOverlay.hidden = false; }
+  function closeSheet() { sheet.hidden = true; sheetOverlay.hidden = true; }
+  if (sheetTrigger) sheetTrigger.addEventListener("click", openSheet);
+  if (sheetClose) sheetClose.addEventListener("click", closeSheet);
+  if (sheetOverlay) sheetOverlay.addEventListener("click", closeSheet);
+})();
+</script>
+</body>
+</html>

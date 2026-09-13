@@ -1,0 +1,25 @@
+/* ==========================================================================
+   design-system/tokens/motion.css
+   看護薬理ノート Design System v2.0 — モーショントークン（Phase 1）
+
+   「速い／軽い／自然にする。『ふわーっ』と巨大カードが出てくる
+   AI SaaS風アニメーションは禁止」（仕様書55章）。
+   使うのは、検索結果表示／保存完了／タブ切り替え／展開・折りたたみ等、
+   状態変化を分かりやすくする目的に限定する（仕様書54章）。
+   ========================================================================== */
+
+:root {
+  --np-duration-instant: 80ms;  /* 押した瞬間のフィードバック（active等） */
+  --np-duration-fast: 120ms;    /* hover/focusの色変化等 */
+  --np-duration-base: 180ms;    /* タブ切り替え、トグル等の標準速度 */
+  --np-duration-slow: 240ms;    /* アコーディオンの展開・折りたたみ */
+
+  --np-easing-standard: cubic-bezier(0.4, 0, 0.2, 1);
+  --np-easing-decelerate: cubic-bezier(0, 0, 0.2, 1); /* 現れる動き */
+  --np-easing-accelerate: cubic-bezier(0.4, 0, 1, 1);  /* 消える動き */
+}
+
+/* prefers-reduced-motionへの対応は、各コンポーネント側で
+   transition/animationプロパティを個別にnoneへ上書きする
+   （motion.css側で一括無効化すると、状態変化の可視性そのものが
+   失われるコンポーネントがあるため、影響範囲はコンポーネント側で判断する）。 */

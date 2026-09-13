@@ -1,0 +1,118 @@
+/* ==========================================================================
+   design-system/components/search-box.css
+   SearchBox（Priority 1・最重要コンポーネント）
+
+   仕様書11章「検索欄を最重要UIにする。ただし巨大すぎる検索窓にはしない。
+   スマートフォンで、親指で入力しやすいサイズにする」を実体化。
+   仕様書27章「検索ボックス＝中程度の角丸」に従い、pill形状ではなく
+   --np-radius-md-rect（12px）を使う（旧v1.0では影響半分のみ対応していたが、
+   v2.0でPayPay/デジタル庁の「重要な要素だけ意味を持って目立たせる」
+   考え方に合わせて明確化した）。
+   ========================================================================== */
+
+.np-search-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--np-space-2);
+  width: 100%;
+  max-width: 640px; /* 検索欄自体が間延びした横長にならないようにする */
+  min-height: 52px; /* 通常の44pxタップ領域より少し大きく＝画面上で最も目立つ要素 */
+  padding: 0 var(--np-space-4);
+  background: var(--np-bg-raised);
+  border: 1.5px solid var(--np-border-strong);
+  border-radius: var(--np-radius-md-rect);
+  transition: border-color var(--np-duration-fast) var(--np-easing-standard),
+    box-shadow var(--np-duration-fast) var(--np-easing-standard);
+}
+
+.np-search-box:focus-within {
+  border-color: var(--np-brand-primary);
+  box-shadow: 0 0 0 3px var(--np-brand-primary-tint);
+}
+
+.np-search-box__icon {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  color: var(--np-text-secondary);
+}
+
+.np-search-box__input {
+  flex: 1;
+  min-width: 0;
+  border: none;
+  background: transparent;
+  padding: var(--np-space-3) 0;
+  font-family: var(--np-font-body);
+  font-size: var(--np-text-md); /* 17px。スマホで親指入力しやすいサイズ */
+  color: var(--np-text-primary);
+}
+.np-search-box__input::placeholder { color: var(--np-text-disabled); }
+.np-search-box__input:focus { outline: none; }
+
+.np-search-box__clear {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: var(--np-radius-full);
+  background: var(--np-bg-sunken);
+  color: var(--np-text-secondary);
+  cursor: pointer;
+  position: relative;
+}
+/* タップ領域44px確保（見た目は28pxのまま） */
+.np-search-box__clear::before {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: var(--np-tap-target-min);
+  height: var(--np-tap-target-min);
+  transform: translate(-50%, -50%);
+}
+
+/* --- SearchSuggestion：入力途中のサジェスト（仕様書12章）
+   本文の上に浮くポップオーバーのため、floating shadowを使う。 --- */
+.np-search-suggestions {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 30;
+  max-height: 360px;
+  overflow-y: auto;
+  background: var(--np-bg-raised);
+  border: 1px solid var(--np-border-strong);
+  border-radius: var(--np-radius-md-rect);
+  box-shadow: var(--np-shadow-floating);
+}
+.np-search-suggestions:empty { display: none; }
+
+.np-search-suggestion {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: var(--np-space-3) var(--np-space-4);
+  min-height: var(--np-tap-target-min);
+  justify-content: center;
+  text-decoration: none;
+  color: var(--np-text-primary);
+  border-bottom: 1px solid var(--np-border-default);
+  cursor: pointer;
+}
+.np-search-suggestion:last-child { border-bottom: none; }
+.np-search-suggestion:hover,
+.np-search-suggestion:focus-visible,
+.np-search-suggestion[data-active="true"] {
+  background: var(--np-brand-primary-tint);
+}
+.np-search-suggestion__name { font-weight: var(--np-weight-bold); }
+.np-search-suggestion__meta { font-size: var(--np-text-xs); color: var(--np-text-secondary); }
+
+/* サジェストの一致部分をハイライトする際に使う（太字ではなく色で強調し、
+   「見出し内で1単語だけ強調」規定とは別軸の入力一致表示として扱う）。 */
+.np-search-suggestion__match { color: var(--np-brand-primary-dark); }

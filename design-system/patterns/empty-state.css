@@ -1,0 +1,27 @@
+/* ==========================================================================
+   design-system/patterns/empty-state.css
+   Pattern: EmptyState（画面文脈ごとの空状態）
+
+   components/empty-state.cssの器を、実際の利用文脈（検索結果0件／
+   最近見た薬なし／マイ薬箱が空／複数薬チェック未選択）ごとに
+   どう文言・導線を組み合わせるかを規定する（レイアウトのみ。
+   文言そのものは画面実装時＝Phase 2以降に差し込む）。
+   ========================================================================== */
+
+.np-pattern-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* 検索0件時：EmptyStateの下にErrorState由来の提案リストを続ける
+   （仕様書45・47章：見つからない＝品質問題であり、次の行動を示す）。 */
+.np-pattern-empty-state--search-zero .np-empty-state {
+  padding-bottom: var(--np-space-3);
+}
+.np-pattern-empty-state--search-zero .np-error-state {
+  padding-top: 0;
+}
+
+/* 一覧系の空状態（最近見た薬／マイ薬箱）：CTAボタンを添える。 */
+.np-pattern-empty-state__cta { margin-top: var(--np-space-3); }

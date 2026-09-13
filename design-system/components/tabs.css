@@ -1,0 +1,46 @@
+/* ==========================================================================
+   design-system/components/tabs.css
+   Tabs（Priority 2）
+
+   既存サイトの.tab-btn（roving tabindex・矢印キー操作対応）で確立した
+   アクセシビリティ実装を踏襲しつつ、トークン参照に置き換えた。
+   タップ操作が前提のため、hoverは補助的な色変化のみに留める。
+   ========================================================================== */
+
+.np-tabs { margin-top: var(--np-space-6); }
+
+.np-tab-list {
+  display: flex;
+  gap: var(--np-space-1);
+  border-bottom: 1px solid var(--np-border-default);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.np-tab-list::-webkit-scrollbar { display: none; }
+
+.np-tab {
+  font-family: var(--np-font-body);
+  font-size: var(--np-text-sm);
+  font-weight: var(--np-weight-medium);
+  color: var(--np-text-secondary);
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: var(--np-space-3) var(--np-space-4);
+  min-height: var(--np-tap-target-min);
+  cursor: pointer;
+  white-space: nowrap;
+  flex-shrink: 0; /* 縮んで文字が重ならないようにする（既存サイトの既知課題対応） */
+}
+.np-tab[aria-selected="true"] {
+  color: var(--np-text-primary);
+  font-weight: var(--np-weight-bold);
+  border-bottom-color: var(--np-brand-primary);
+}
+.np-tab:focus-visible { outline: 2px solid var(--np-brand-primary); outline-offset: -2px; }
+
+.np-tab-panel {
+  padding-top: var(--np-space-5);
+  color: var(--np-text-primary);
+  line-height: var(--np-leading-base);
+}
