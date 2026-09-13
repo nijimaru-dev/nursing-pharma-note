@@ -161,8 +161,8 @@
       <p class="demo-block__label">Brand</p>
       <div class="demo-row">
         <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-primary)"></div><span class="demo-swatch__name">Primary（確定）</span><span class="demo-swatch__hex">#0c5f57</span></div>
-        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-secondary)"></div><span class="demo-swatch__name">Secondary（要確認）</span><span class="demo-swatch__hex">#a8791f</span></div>
-        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-accent)"></div><span class="demo-swatch__name">Accent（要確認）</span><span class="demo-swatch__hex">#e8583f</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-secondary)"></div><span class="demo-swatch__name">Secondary（確定）</span><span class="demo-swatch__hex">#b6a035</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:var(--np-brand-accent)"></div><span class="demo-swatch__name">Accent（確定）</span><span class="demo-swatch__hex">#e87a3f</span></div>
       </div>
     </div>
 
@@ -192,6 +192,97 @@
         <span class="np-badge np-badge--caution">併用注意 = Warning</span>
         <span class="np-badge np-badge--none-found">記載なし = Success</span>
         <span class="np-badge np-badge--accent">薬効分類（全分類共通1色） = Accent</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       Color Comparison（本番未反映・検討用のみ）
+       藤丸さんの依頼：ダークテーマのPrimary色とティファニーブルーの
+       見え方を比較したい、という確認用。tokens/color.cssの値は
+       変更していない（このセクションはハードコード値での見た目比較のみ）。
+       ============================================================ -->
+  <section class="demo-section">
+    <p class="demo-section__eyebrow">Comparison ／ 本番未反映・検討用</p>
+    <h2 class="demo-section__title">ブランドカラー比較</h2>
+    <p class="demo-section__note">Primary（確定：ライト#0c5f57／ダーク#5CC0B3）は参考としてティファニーブルーと並べる。Secondary・Accentはまだ未確定のため、単色・背景比較に加えて実際の使用イメージ（タグ・警告ボタン等）も確認できるようにしている。tokens/color.css自体はSecondary/Accentについて変更していない。</p>
+
+    <h3 class="np-font-display" style="font-size:var(--np-text-xl); margin:0 0 var(--np-space-1);">Primary（確定）とティファニーブルーの比較</h3>
+    <div class="demo-block">
+      <p class="demo-block__label">単色比較</p>
+      <div class="demo-row">
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:#5CC0B3;"></div><span class="demo-swatch__name">現行ダークPrimary</span><span class="demo-swatch__hex">#5CC0B3</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:#0ABAB5;"></div><span class="demo-swatch__name">ティファニーブルー</span><span class="demo-swatch__hex">#0ABAB5</span></div>
+      </div>
+    </div>
+
+    <div class="demo-block">
+      <p class="demo-block__label">ライト背景（#FDFBF6）に乗せた場合</p>
+      <div class="demo-row" style="background:#FDFBF6; padding:20px; border-radius:12px; border:1px solid rgba(22,33,60,0.09);">
+        <button type="button" style="background:#5CC0B3; color:#16213C; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">現行 #5CC0B3</button>
+        <button type="button" style="background:#0ABAB5; color:#16213C; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">Tiffany #0ABAB5</button>
+      </div>
+    </div>
+
+    <div class="demo-block">
+      <p class="demo-block__label">ダーク背景（#14181F）に乗せた場合</p>
+      <div class="demo-row" style="background:#14181F; padding:20px; border-radius:12px; border:1px solid rgba(233,237,243,0.1);">
+        <button type="button" style="background:#5CC0B3; color:#14181F; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">現行 #5CC0B3</button>
+        <button type="button" style="background:#0ABAB5; color:#14181F; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">Tiffany #0ABAB5</button>
+      </div>
+    </div>
+
+    <hr style="border:none; border-top:1px solid var(--np-border-default); margin: var(--np-space-7) 0 var(--np-space-5);">
+
+    <h3 class="np-font-display" style="font-size:var(--np-text-xl); margin:0 0 var(--np-space-1);">Secondary（未確定：マスタードゴールド #a8791f）</h3>
+    <p class="demo-section__note" style="margin-bottom:var(--np-space-4);">想定用途：タグ・ラベル類（例：施設限定表示等、Primaryと役割を分けたい補助的な強調）。</p>
+    <div class="demo-block">
+      <p class="demo-block__label">単色比較（ライト／ダーク）</p>
+      <div class="demo-row">
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:#a8791f;"></div><span class="demo-swatch__name">Secondary（ライト）</span><span class="demo-swatch__hex">#a8791f</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:#d9ac52;"></div><span class="demo-swatch__name">Secondary（ダーク）</span><span class="demo-swatch__hex">#d9ac52</span></div>
+      </div>
+    </div>
+    <div class="demo-block">
+      <p class="demo-block__label">ライト背景（#FDFBF6）に乗せた場合・使用イメージ（タグ）</p>
+      <div class="demo-row" style="background:#FDFBF6; padding:20px; border-radius:12px; border:1px solid rgba(22,33,60,0.09);">
+        <div class="demo-swatch" style="width:auto;"><div class="demo-swatch__chip" style="width:88px; height:56px; background:#a8791f;"></div></div>
+        <span style="display:inline-flex; align-items:center; padding:3px 12px; border-radius:999px; background:#f3ead4; color:#8a6318; font-weight:700; font-size:0.8125rem;">施設限定</span>
+        <button type="button" style="background:#a8791f; color:#fff; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">Secondaryボタン例</button>
+      </div>
+    </div>
+    <div class="demo-block">
+      <p class="demo-block__label">ダーク背景（#14181F）に乗せた場合・使用イメージ（タグ）</p>
+      <div class="demo-row" style="background:#14181F; padding:20px; border-radius:12px; border:1px solid rgba(233,237,243,0.1);">
+        <div class="demo-swatch" style="width:auto;"><div class="demo-swatch__chip" style="width:88px; height:56px; background:#d9ac52;"></div></div>
+        <span style="display:inline-flex; align-items:center; padding:3px 12px; border-radius:999px; background:rgba(217,172,82,0.16); color:#d9ac52; font-weight:700; font-size:0.8125rem;">施設限定</span>
+        <button type="button" style="background:#d9ac52; color:#14181F; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">Secondaryボタン例</button>
+      </div>
+    </div>
+
+    <hr style="border:none; border-top:1px solid var(--np-border-default); margin: var(--np-space-7) 0 var(--np-space-5);">
+
+    <h3 class="np-font-display" style="font-size:var(--np-text-xl); margin:0 0 var(--np-space-1);">Accent（未確定：珊瑚色 #e8583f）</h3>
+    <p class="demo-section__note" style="margin-bottom:var(--np-space-4);">想定用途：警告・強調ボタン（例：複数薬チェックの起点）、新着・強調バッジ。使用頻度を絞ることが前提。</p>
+    <div class="demo-block">
+      <p class="demo-block__label">単色比較（ライト／ダーク）</p>
+      <div class="demo-row">
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:#e8583f;"></div><span class="demo-swatch__name">Accent（ライト）</span><span class="demo-swatch__hex">#e8583f</span></div>
+        <div class="demo-swatch"><div class="demo-swatch__chip" style="background:#f0806a;"></div><span class="demo-swatch__name">Accent（ダーク）</span><span class="demo-swatch__hex">#f0806a</span></div>
+      </div>
+    </div>
+    <div class="demo-block">
+      <p class="demo-block__label">ライト背景（#FDFBF6）に乗せた場合・使用イメージ（強調ボタン／バッジ）</p>
+      <div class="demo-row" style="background:#FDFBF6; padding:20px; border-radius:12px; border:1px solid rgba(22,33,60,0.09);">
+        <button type="button" style="background:#e8583f; color:#fff; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">複数の薬を確認する</button>
+        <span style="display:inline-flex; align-items:center; padding:3px 12px; border-radius:999px; background:#fbe6e1; color:#c1432c; font-weight:700; font-size:0.8125rem;">NEW</span>
+      </div>
+    </div>
+    <div class="demo-block">
+      <p class="demo-block__label">ダーク背景（#14181F）に乗せた場合・使用イメージ（強調ボタン／バッジ）</p>
+      <div class="demo-row" style="background:#14181F; padding:20px; border-radius:12px; border:1px solid rgba(233,237,243,0.1);">
+        <button type="button" style="background:#f0806a; color:#14181F; border:none; padding:10px 18px; border-radius:12px; font-weight:700; font-family:inherit; cursor:default;">複数の薬を確認する</button>
+        <span style="display:inline-flex; align-items:center; padding:3px 12px; border-radius:999px; background:rgba(240,128,106,0.16); color:#f0806a; font-weight:700; font-size:0.8125rem;">NEW</span>
       </div>
     </div>
   </section>

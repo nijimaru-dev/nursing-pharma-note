@@ -19,8 +19,13 @@
   /* ============================================================
      Brand（ブランドの人格を表す色）
      LINE「ブランドカラーを画面全面に敷き詰めず、操作・強調に使う」の
-     考え方を採用。Primaryは既存サイトの確定値（teal #0c5f57）を継承。
-     Secondary/Accentは今回新規決定（藤丸さんの確認待ち・仮ドラフト）。
+     考え方を採用。Primaryはライト#0c5f57／ダーク#5CC0B3で確定
+     （既存サイトの確定値を継承。ダーク側もティファニーブルーとの比較検討
+     を経て2026-09-13に藤丸さんが確認済み）。
+     Secondary/Accentも2026-09-13に藤丸さんが確認済み・確定。
+     いずれも当初案からErrorおよびWarning（Semantic）との色相衝突を
+     解消するための色相調整を経ている（demo.htmlのComparisonセクションに
+     検討過程・確認用スウォッチを引き続き残している）。
      ============================================================ */
   --np-brand-primary: #0c5f57;
   --np-brand-primary-dark: #08443e;
@@ -29,16 +34,22 @@
   /* Secondary：温かみのあるマスタードゴールド。tealと反対色相寄りで
      「親しみやすいが特定サービスのコピーに見えない」独自色として選定。
      旧DESIGN.md v1.0で禁止した「#D97757近辺のテラコッタ」とは
-     明確に異なる色相・彩度にしている（要確認）。 */
-  --np-brand-secondary: #a8791f;
-  --np-brand-secondary-dark: #8a6318;
-  --np-brand-secondary-tint: #f3ead4;
+     明確に異なる色相・彩度にしている。
+     当初案(#a8791f)はWarning(#a8720c)と色相・彩度・明度がほぼ同一で
+     視覚的に区別できなかったため、2026-09-13に色相+10.6°／彩度-14pt／
+     明度+7ptのオフセットで確定（-dark/-tintも同じ考え方で追従）。 */
+  --np-brand-secondary: #b6a035;
+  --np-brand-secondary-dark: #9b882b;
+  --np-brand-secondary-tint: #f3efd4;
 
   /* Accent：珊瑚色に近い暖色。使用頻度を絞り、「複数薬チェック」の
-     入口や新着・強調バッジ等、ここぞという場面だけに使う（要確認）。 */
-  --np-brand-accent: #e8583f;
-  --np-brand-accent-dark: #c1432c;
-  --np-brand-accent-tint: #fbe6e1;
+     入口や新着・強調バッジ等、ここぞという場面だけに使う。
+     当初案(#e8583f)はError(#a3341c)と色相がほぼ同一（赤〜赤橙帯）で
+     視覚的に区別しづらかったため、2026-09-13に彩度・明度を維持したまま
+     色相のみ+12°ずらして確定（-dark/-tintも同じ考え方で追従）。 */
+  --np-brand-accent: #e87a3f;
+  --np-brand-accent-dark: #c1602c;
+  --np-brand-accent-tint: #fbeae1;
 
   /* ============================================================
      Global / Semantic（意味に紐づく色。ブランド色とは独立管理する）
@@ -118,17 +129,20 @@
     --np-border-default: rgba(233, 237, 243, 0.1);
     --np-border-strong: rgba(233, 237, 243, 0.22);
 
+    /* Primary（ダークモード）：#5CC0B3で確定。ティファニーブルー
+       （#0ABAB5前後）との比較検討（demo.htmlのComparisonセクション）を
+       経て、藤丸さんの確認済み。 */
     --np-brand-primary: #5cc0b3;
     --np-brand-primary-dark: #8ad9cd;
     --np-brand-primary-tint: rgba(92, 192, 179, 0.14);
 
-    --np-brand-secondary: #d9ac52;
-    --np-brand-secondary-dark: #e8c680;
-    --np-brand-secondary-tint: rgba(217, 172, 82, 0.16);
+    --np-brand-secondary: #d3c269;
+    --np-brand-secondary-dark: #e5d895;
+    --np-brand-secondary-tint: rgba(211, 194, 105, 0.16);
 
-    --np-brand-accent: #f0806a;
-    --np-brand-accent-dark: #f5a591;
-    --np-brand-accent-tint: rgba(240, 128, 106, 0.16);
+    --np-brand-accent: #f0996a;
+    --np-brand-accent-dark: #f5b491;
+    --np-brand-accent-tint: rgba(240, 153, 106, 0.16);
 
     --np-success: #6fbf85;
     --np-success-dark: #8fd39f;
@@ -161,17 +175,18 @@
   --np-border-default: rgba(233, 237, 243, 0.1);
   --np-border-strong: rgba(233, 237, 243, 0.22);
 
+  /* Primary（ダークモード）：#5CC0B3で確定（上のprefers-color-schemeブロックと同じ理由）。 */
   --np-brand-primary: #5cc0b3;
   --np-brand-primary-dark: #8ad9cd;
   --np-brand-primary-tint: rgba(92, 192, 179, 0.14);
 
-  --np-brand-secondary: #d9ac52;
-  --np-brand-secondary-dark: #e8c680;
-  --np-brand-secondary-tint: rgba(217, 172, 82, 0.16);
+  --np-brand-secondary: #d3c269;
+  --np-brand-secondary-dark: #e5d895;
+  --np-brand-secondary-tint: rgba(211, 194, 105, 0.16);
 
-  --np-brand-accent: #f0806a;
-  --np-brand-accent-dark: #f5a591;
-  --np-brand-accent-tint: rgba(240, 128, 106, 0.16);
+  --np-brand-accent: #f0996a;
+  --np-brand-accent-dark: #f5b491;
+  --np-brand-accent-tint: rgba(240, 153, 106, 0.16);
 
   --np-success: #6fbf85;
   --np-success-dark: #8fd39f;
