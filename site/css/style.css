@@ -406,7 +406,7 @@ main:focus-visible { outline: none; }
   text-wrap: wrap;
 }
 
-.hero p.lede {
+.lede {
   color: var(--ink-soft);
   /* 【不具合修正・2026-09-13】ch単位は半角基準のため、CJKフォント（全角）では
      文字数と一致せず、実際の見た目上の折り返し位置と食い違って「飲み合わ」
@@ -414,6 +414,11 @@ main:focus-visible { outline: none; }
      参照）で、max-widthによる折り返し制御をやめ、折り返し位置はブラウザに
      任せる（コンテナ幅いっぱいまで使う）。 */
   margin: 0 0 16px;
+  /* 【2026-09-13】index/check/mydrugsのh1見出しを削除したのに伴い、
+     サブテキストが単独でページの導入文になる。h1と同格に見せる必要は
+     ないため大きくしすぎず、行間だけ少し広げて軽く存在感を補う。 */
+  font-size: 1.05rem;
+  line-height: 1.7;
 }
 
 /* 検索はサイトの主役の操作であり、他の枠物と同じ角丸・影を機械的に
