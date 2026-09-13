@@ -248,7 +248,9 @@ main:focus-visible { outline: none; }
 }
 
 .site-logo {
-  font-family: var(--font-display);
+  /* 【2026-09-14】明朝体をやめてゴシック体（本文・薬品名と同じ--font-body）に統一。
+     DESIGN.md タイポグラフィ章の現状記述と合わせて参照。 */
+  font-family: var(--font-body);
   font-size: 1.3rem;
   font-weight: 700;
   color: var(--ink);
@@ -1150,7 +1152,8 @@ main:focus-visible { outline: none; }
 }
 
 .category-chip .label {
-  font-family: var(--font-display);
+  /* 【2026-09-14】明朝体をやめてゴシック体（本文・薬品名と同じ--font-body）に統一 */
+  font-family: var(--font-body);
   font-weight: 700;
   font-size: 1rem;
   line-height: 1.4;
