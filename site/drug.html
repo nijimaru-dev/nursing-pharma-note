@@ -57,6 +57,15 @@
   </div>
 </header>
 
+<!-- 【試作・2026-09-14】重要バナーの表示位置議論の代替案として、スクロールで
+     薬品名見出しが画面外に出た後だけ薬品名を表示するミニヘッダー。過去に
+     .site-headerのposition:stickyでiOS Safari実機限定の横ズレ不具合が
+     あったため、sticky ではなく position:fixed + IntersectionObserverに
+     よる表示/非表示切り替えを採用している。実機での動作確認が必要。 -->
+<div class="mini-header" id="mini-header" aria-hidden="true">
+  <span class="mini-header__name" id="mini-header-name"></span>
+</div>
+
 <main id="main" tabindex="-1">
   <div class="container container--prose">
     <p id="back-link-wrap" style="margin-top:20px;"></p>
@@ -368,6 +377,25 @@ function renderDrug(drug) {
   `;
 
   MyDrugs.recordView({ id: drug.id, brand_name: drug.brand_name, generic_name: drug.generic_name });
+
+  // 【試作】薬品名見出し（h1）がビューポート外に出たときだけミニヘッダーを表示する。
+  // scrollイベント＋pxしきい値ではなくIntersectionObserverを使うのは、iOS Safariの
+  // アドレスバー収縮でビューポート高さが変動してもしきい値がずれないようにするため。
+  const miniHeader = document.getElementById("mini-header");
+  const miniHeaderName = document.getElementById("mini-header-name");
+  miniHeaderName.innerHTML = wrapUnits(escapeHTML(name));
+  const h1El = document.querySelector(".drug-head h1");
+  if (h1El && "IntersectionObserver" in window) {
+    const headerObserver = new IntersectionObserver(
+      ([entry]) => {
+        const scrolledPast = !entry.isIntersecting && entry.boundingClientRect.top < 0;
+        miniHeader.classList.toggle("mini-header--visible", scrolledPast);
+        miniHeader.setAttribute("aria-hidden", String(!scrolledPast));
+      },
+      { threshold: 0 }
+    );
+    headerObserver.observe(h1El);
+  }
 
   const favBtn = document.getElementById("fav-toggle");
   function syncFavButton() {

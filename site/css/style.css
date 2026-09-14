@@ -239,6 +239,36 @@ main:focus-visible { outline: none; }
   z-index: 20;
 }
 
+/* 【試作・2026-09-14】drug.html専用。薬品名見出しがスクロールで画面外に
+   出た後だけ表示する最小限の固定バー。.site-headerは意図的にposition指定
+   なし（過去にstickyでiOS Safari実機限定の横ズレ不具合が発生したため）。
+   本要素はsticky ではなく fixed を使い、表示/非表示はJS側の
+   IntersectionObserverでクラス切り替えする（常時fixedで場所を取らないよう
+   transformで画面外へ退避しておく）。要実機（iPhone Safari）確認。 */
+.mini-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 25;
+  background: var(--paper-raised);
+  border-bottom: 1px solid var(--line);
+  padding: 12px 20px;
+  transform: translateY(-100%);
+  transition: transform 0.18s ease;
+}
+.mini-header--visible {
+  transform: translateY(0);
+}
+.mini-header__name {
+  display: block;
+  max-width: var(--content-width);
+  margin: 0 auto;
+  font-weight: 700;
+  font-size: 0.98rem;
+  color: var(--ink);
+}
+
 .site-header__inner {
   max-width: var(--content-width);
   margin: 0 auto;
@@ -1413,7 +1443,8 @@ main:focus-visible { outline: none; }
   .site-header, .site-footer, .btn-copy, .view-toggle,
   #back-link-wrap, .tab-list, #toast-region, .search-box, .load-more-wrap,
   .fav-toggle, .settings-toggle, .settings-panel, .category-filter,
-  .disclaimer-inline, .skip-link, #reset-selection-btn, #recent-section, .term-help {
+  .disclaimer-inline, .skip-link, #reset-selection-btn, #recent-section, .term-help,
+  .mini-header {
     display: none !important;
   }
   [data-simple] { display: none !important; }
