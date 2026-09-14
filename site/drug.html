@@ -285,13 +285,22 @@ function renderDrug(drug) {
     </div>`
     : "";
 
+  // 【2026-09-14】禁忌は飲み合わせ注意より優先度が高い安全情報であり、タブに
+  // 埋もれてクリックしないと見えない状態は見落としリスクがあるため、他の
+  // 常時表示セクション（なぜ使う？等）と同じ.fieldブロックへ格上げした
+  // （下記contraHTML参照）。tabsからは除外する。
   const tabs = [
     { id: "indications", label: "効能・効果", body: drug.indications },
     { id: "dose", label: "用法・用量", body: drug.dose_admin },
     { id: "precautions", label: "適用上の注意", body: drug.application_precautions },
-    { id: "contra", label: "禁忌", body: drug.contraindications },
     { id: "facility", label: "施設の注意点", body: drug.facility_notes || "未登録（この施設ではまだ院内処方リストが取り込まれていません）" },
   ];
+
+  const contraPoints = splitToBullets(drug.contraindications);
+  const contraHTML = contraPoints.length
+    ? `<ul class="bullet-list" data-simple>${contraPoints.map((p) => `<li>${escapeHTML(p)}</li>`).join("")}</ul>
+       <div class="field__body" data-detail hidden>${escapeHTML(cleanRawText(drug.contraindications)) || "記載なし"}</div>`
+    : `<p class="field__body muted">禁忌としての記載はありません。</p>`;
 
   root.innerHTML = `
     ${importantHTML}
@@ -327,6 +336,11 @@ function renderDrug(drug) {
         <h2 class="sec-label">なぜ使う？</h2>
         <div class="field__body" data-simple>${escapeHTML(firstSentence(drug.indications) || "記載なし")}</div>
         <div class="field__body" data-detail hidden>${escapeHTML(cleanRawText(drug.indications) || "記載なし")}</div>
+      </div>
+
+      <div class="field">
+        <h2 class="sec-label">禁忌</h2>
+        ${contraHTML}
       </div>
 
       <div class="field">
