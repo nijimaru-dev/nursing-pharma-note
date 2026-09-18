@@ -69,6 +69,7 @@ import argparse
 import json
 import re
 import sqlite3
+import time
 from pathlib import Path
 
 
@@ -260,6 +261,13 @@ def export(db_path: Path, out_dir: Path):
 
     with open(out_dir / "index.json", "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
+
+    # 【キャッシュバスティング用】このファイルの値が変わるたびに、data.jsが
+    # JSON取得URLへ付与するクエリパラメータ（?v=...）も変わり、ブラウザ・CDNに
+    # 残った古いキャッシュを自動的に無視して再取得させる。このスクリプトを
+    # 再実行するたびに自動更新されるだけで、手動でのバージョン管理は不要。
+    with open(out_dir / "version.json", "w", encoding="utf-8") as f:
+        json.dump({"generated_at": str(int(time.time()))}, f)
 
     conn.close()
     print(

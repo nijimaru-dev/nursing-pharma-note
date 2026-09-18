@@ -12,11 +12,37 @@ const DrugData = (() => {
   const pairContentCache = new Map();
   const pairInteractionCache = new Map();
 
+  /**
+   * export_db_to_json.py が実行のたびに書き出す version.json
+   * （{"generated_at": "<生成時のUNIX秒>"}）を取得し、以降の全fetchへ
+   * ?v=<値> を付与するためのキャッシュバスター。データが更新されて
+   * いない間は通常どおりブラウザキャッシュが効き、データが更新された
+   * 回だけURLが変わって自動的に再取得される。version.json自体が
+   * 取得できない場合（未生成・オフライン等）はバージョン無しのURLに
+   * フォールバックする。
+   */
+  let versionPromise = null;
+  function loadVersion() {
+    if (!versionPromise) {
+      versionPromise = fetch(`${DATA_ROOT}/version.json`)
+        .then((res) => (res.ok ? res.json() : null))
+        .then((v) => (v && v.generated_at ? String(v.generated_at) : ""))
+        .catch(() => "");
+    }
+    return versionPromise;
+  }
+
+  function withVersion(path) {
+    return loadVersion().then((v) => (v ? `${path}?v=${encodeURIComponent(v)}` : path));
+  }
+
   function fetchJSON(path) {
-    return fetch(path).then((res) => {
-      if (!res.ok) throw new Error(`データの取得に失敗しました: ${path}`);
-      return res.json();
-    });
+    return withVersion(path).then((url) =>
+      fetch(url).then((res) => {
+        if (!res.ok) throw new Error(`データの取得に失敗しました: ${path}`);
+        return res.json();
+      })
+    );
   }
 
   function loadIndex() {
@@ -34,11 +60,13 @@ const DrugData = (() => {
    */
   function loadDrugInteractionIndex(id) {
     if (!interactionIndexCache.has(id)) {
-      const promise = fetch(`${DATA_ROOT}/interactions/${id}.json`).then((res) => {
-        if (res.status === 404) return [];
-        if (!res.ok) throw new Error(`相互作用索引の取得に失敗しました: id=${id}`);
-        return res.json();
-      });
+      const promise = withVersion(`${DATA_ROOT}/interactions/${id}.json`).then((url) =>
+        fetch(url).then((res) => {
+          if (res.status === 404) return [];
+          if (!res.ok) throw new Error(`相互作用索引の取得に失敗しました: id=${id}`);
+          return res.json();
+        })
+      );
       interactionIndexCache.set(id, promise);
     }
     return interactionIndexCache.get(id);
@@ -56,11 +84,13 @@ const DrugData = (() => {
    */
   function loadDrugPairContent(id) {
     if (!pairContentCache.has(id)) {
-      const promise = fetch(`${DATA_ROOT}/interactions/pairs/${id}.json`).then((res) => {
-        if (res.status === 404) return [];
-        if (!res.ok) throw new Error(`相互作用本文の取得に失敗しました: id=${id}`);
-        return res.json();
-      });
+      const promise = withVersion(`${DATA_ROOT}/interactions/pairs/${id}.json`).then((url) =>
+        fetch(url).then((res) => {
+          if (res.status === 404) return [];
+          if (!res.ok) throw new Error(`相互作用本文の取得に失敗しました: id=${id}`);
+          return res.json();
+        })
+      );
       pairContentCache.set(id, promise);
     }
     return pairContentCache.get(id);
