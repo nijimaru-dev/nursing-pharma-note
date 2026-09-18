@@ -26,8 +26,8 @@
     <div class="site-header__right">
       <nav class="site-nav" aria-label="サイト内ナビゲーション">
         <a href="/">トップ</a>
-        <a href="/check.html">複数薬チェック</a>
-        <a href="/mydrugs.html">マイ薬箱</a>
+        <a href="/check.html">飲み合わせチェック</a>
+        <a href="/mydrugs.html">選択薬一覧</a>
         <a href="/about.html">このサイトについて</a>
       </nav>
       <div class="settings-panel-wrap">
@@ -215,7 +215,7 @@ function renderBackLink() {
       if (ref.origin === location.origin) {
         href = ref.pathname + ref.search;
         if (ref.pathname.startsWith("/category.html")) label = "分類一覧に戻る";
-        else if (ref.pathname.startsWith("/check.html")) label = "複数薬チェックに戻る";
+        else if (ref.pathname.startsWith("/check.html")) label = "飲み合わせチェックに戻る";
       }
     }
   } catch (e) {
@@ -272,7 +272,7 @@ function renderDrug(drug) {
 
   const importantPoints = splitToBullets(drug.serious_adverse_events);
 
-  // 「看護で見る」はその他の副作用（other_adverse_events＝重大に至らない一般的な
+  // 「観察項目」はその他の副作用（other_adverse_events＝重大に至らない一般的な
   // 副作用）由来のobservation_pointsから作る。重大な副作用（serious_adverse_events）
   // は上の「重要」バナー専用とし、ここには含めない（情報源を分離するため）。
   // 飲み合わせに起因する注意点も「飲み合わせ注意」セクションのみに表示し、
@@ -333,7 +333,7 @@ function renderDrug(drug) {
         </div>
       </div>
 
-      <p class="revision-note">${drug.revision_date ? `情報の最終更新：${escapeHTML(formatRevisionDate(drug.revision_date))}（添付文書の改訂年月）` : "情報の最終更新：不明（添付文書に改訂年月の記載がありません）"}</p>
+      <p class="revision-note">${drug.revision_date ? `情報の最終更新：${escapeHTML(formatRevisionDate(drug.revision_date))}（添付文書の改訂年月）` : "情報の最終更新：記載なし"}</p>
 
       <div class="view-toggle">
         <span class="view-toggle__label" data-view="simple" data-active="true">かんたん表示</span>
@@ -353,7 +353,7 @@ function renderDrug(drug) {
       </div>
 
       <div class="field">
-        <h2 class="sec-label">看護で見る</h2>
+        <h2 class="sec-label">観察項目</h2>
         ${observationHTML}
       </div>
 
@@ -471,7 +471,7 @@ function renderDrug(drug) {
       lines.push("", "【重要：注意すべき副作用】", ...importantPoints.map((p) => `・${p}`));
     }
     if (nursingPoints.length) {
-      lines.push("", "【看護で見る】", ...nursingPoints.map((p) => `・${p}`));
+      lines.push("", "【観察項目】", ...nursingPoints.map((p) => `・${p}`));
     }
     if (drug.interactions && drug.interactions.length) {
       lines.push("", "【飲み合わせ注意】");

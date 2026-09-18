@@ -26,8 +26,8 @@
     <div class="site-header__right">
       <nav class="site-nav" aria-label="サイト内ナビゲーション">
         <a href="/">トップ</a>
-        <a href="/check.html">複数薬チェック</a>
-        <a href="/mydrugs.html">マイ薬箱</a>
+        <a href="/check.html">飲み合わせチェック</a>
+        <a href="/mydrugs.html">選択薬一覧</a>
         <a href="/about.html">このサイトについて</a>
       </nav>
       <div class="settings-panel-wrap">
@@ -174,7 +174,7 @@ if (!catId) {
     }
 
     if (allInCategory.length === 0) {
-      gridEl.innerHTML = `<div class="empty-state">この分類に該当する薬品はまだ見つかりませんでした。データを増やし次第反映します。</div>`;
+      gridEl.innerHTML = `<div class="empty-state">該当する薬剤が見つかりませんでした。</div>`;
       loadMoreWrap.hidden = true;
     } else {
       renderPage(true);

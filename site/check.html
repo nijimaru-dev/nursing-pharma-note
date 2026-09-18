@@ -13,7 +13,7 @@
 })();
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>複数薬チェック｜看護薬理ノート</title>
+<title>飲み合わせチェック｜看護薬理ノート</title>
 <meta name="description" content="服用中の薬を複数選んで、飲み合わせ（相互作用）の注意をまとめて確認できます。">
 <link rel="stylesheet" href="/css/style.css">
 </head>
@@ -26,8 +26,8 @@
     <div class="site-header__right">
       <nav class="site-nav" aria-label="サイト内ナビゲーション">
         <a href="/">トップ</a>
-        <a href="/check.html" aria-current="page">複数薬チェック</a>
-        <a href="/mydrugs.html">マイ薬箱</a>
+        <a href="/check.html" aria-current="page">飲み合わせチェック</a>
+        <a href="/mydrugs.html">選択薬一覧</a>
         <a href="/about.html">このサイトについて</a>
       </nav>
       <div class="settings-panel-wrap">
@@ -60,7 +60,7 @@
 <main id="main" tabindex="-1">
   <div class="container container--prose">
     <section class="hero" style="padding-top:32px;">
-      <p class="hero__eyebrow">複数薬チェック</p>
+      <p class="hero__eyebrow">飲み合わせチェック</p>
       <p class="lede">2つ以上の薬を選ぶと、記載されている飲み合わせの注意を一覧表示します。記載が見つからない場合も「安全」という意味ではありません。</p>
     </section>
 
@@ -331,7 +331,7 @@ function renderCheck() {
             <a class="pair-vs__name pair-vs__name--b" href="/drug.html?id=${p.bId}" target="_blank" rel="noopener">${escapeHTML(p.bBrand)}</a>
           </div>
           <div class="pair-detail">${escapeHTML(p.source_text)}</div>
-          <div class="pair-action">使用する場合は医師・薬剤師に相談しましょう。</div>
+          <div class="pair-action">使用する場合は医師・薬剤師に確認してください。</div>
         </div>`;
     });
 
@@ -369,13 +369,13 @@ function renderCheck() {
 
     document.getElementById("copy-check-results").addEventListener("click", () => {
       const lines = [];
-      lines.push(`複数薬チェック結果（${new Date().toLocaleDateString("ja-JP")}）`);
+      lines.push(`飲み合わせチェック結果（${new Date().toLocaleDateString("ja-JP")}）`);
       lines.push(`選択した薬：${ids.map((id) => selected.get(id).brand_name || selected.get(id).generic_name).join("、")}`);
       lines.push("");
       sorted.forEach((p) => {
         lines.push(`【${p.interaction_type === "contraindicated" ? "併用禁忌" : "併用注意"}】${p.aBrand} × ${p.bBrand}`);
         lines.push(p.source_text);
-        lines.push("使用する場合は医師・薬剤師に相談しましょう。");
+        lines.push("使用する場合は医師・薬剤師に確認してください。");
         lines.push("");
       });
       noneFoundPairs.forEach(([a, b]) => {
